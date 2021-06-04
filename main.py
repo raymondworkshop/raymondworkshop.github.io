@@ -15,12 +15,15 @@ def render_markdown(markdown_text: str) -> str:
 
 # check more pathlib
 def get_sources() -> Iterator[pathlib.Path]:
-    return pathlib.Path(".").glob("pages/*.md")
+    return pathlib.Path(".").glob("_posts/*.md")
 
 
 def parse_source(source: pathlib.Path) -> frontmatter.Post:
     post = frontmatter.load(str(source))
     return post
+
+
+# TODO jinja2
 
 
 def main():
