@@ -1,7 +1,7 @@
 ### note
 
 #### 2021-06-05  
-* write some on blog 
+* programming on my blog 
 
 * write the test, and how to build functions firstly  
     - this could give you a direct result, and feedbacks  
@@ -10,7 +10,7 @@
 * TODO  
     - finish the building functions 
     - write the test functions  
-
+    - [code reference from thea.codes](https://github.com/theacodes/blog.thea.codes)
 
 
 #### 2021-06-03  
