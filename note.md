@@ -9,6 +9,9 @@
 
 * TODO  
     - finish the building functions 
+        + fix the build errors  
+        > python3 -m nox  
+        >  site-packages in some virtual env 
     - write the test functions  
     - [code reference from thea.codes](https://github.com/theacodes/blog.thea.codes)
 

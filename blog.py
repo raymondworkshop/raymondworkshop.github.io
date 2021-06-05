@@ -11,17 +11,17 @@ def get_sources() -> Iterator[pathlib.Path]:
     return pathlib.Path(".").glob("_posts/*.md", recursive=True)
 
 
+def parse_source(source: pathlib.Path) -> frontmatter.Post:
+    post = frontmatter.load(str(source))
+    return post
+
+
 def render_markdown(markdown_text: str) -> str:
     content = cmarkgfm.markdown_to_html_with_extensions(
         markdown_text, extensions=["table", "autolink", "strikethrough"]
     )
 
     return content
-
-
-def parse_source(source: pathlib.Path) -> frontmatter.Post:
-    post = frontmatter.load(str(source))
-    return post
 
 
 # render markdown into HTML
@@ -33,7 +33,9 @@ jinja_env = jinja2.Environment(
 def write_post(post: frontmatter.Post, content: str):
     path = pathlib.Path("./_site/{}.html".format(post["stem"]))
 
-    return
+    template = jinja_env.get_template("post.html")
+    rendered = template.render(post=post, content=content)
+    path.write_text(rendered)
 
 
 def write_site(posts: Sequence[frontmatter.Post]):
@@ -46,9 +48,11 @@ def write_site(posts: Sequence[frontmatter.Post]):
 
 
 def main():
-    page = "pages/hello.md"
-    write_site(page)
-    return
+    doc = "_posts/hello.md"
+    post = parse_source(doc)
+    write_post(post)
+    # write_site(page)
+    # return
 
 
 if __name__ == "__main__":
