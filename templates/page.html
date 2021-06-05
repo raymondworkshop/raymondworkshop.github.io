@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+
+<head>
+    <title> {{post.title}}</title>
+</head>
+
+<body>
+    <h1>{{post.title}}</h1>
+    <em> Posted on {{post.date.strftime('%Y-%B-%d')}}</em>
+    <article>
+        {{content}}
+    </article>
+</body>
+
+</html>

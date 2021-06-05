@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<title> {% block title %}{% endblock %} - Raymond ZHAO WENLONG</title>
+<link rel="stylesheet" href="/static/style.css">
+
+<nav>
+    <h1><small><a href="index">Raymond ZHAO WENLONG</a></small></h1>
+    <ul>
+        <li><a href="index"> Blog </a>
+
+
+    </ul>
+</nav>
+
+<section class="content">
+    <!--
+    <header>
+        {% block header %}{% endblock %}
+      </header>
+      -->
+    {% block content %}
+    {% endblock %}
+
+
+</section>
+
+
+<div class="footer">
+    <ul>
+        <small>&copy; zhaowenlong 2021</small>
+    </ul>
+</div>
