@@ -41,9 +41,12 @@ def get_static_link(title: str) -> str:
 
 
 def write_post(post: frontmatter.Post, content: str):
-    post["stem"] = get_static_link(post["title"])
-    path = pathlib.Path("./docs/{}/index.html".format(post["stem"]))
-    path.parent.mkdir(parents=True, exist_ok=True)
+    if post.get("comments"):
+        post["stem"] = get_static_link(post["title"])
+        path = pathlib.Path("./docs/{}/index.html".format(post["stem"]))
+        path.parent.mkdir(parents=True, exist_ok=True)
+    else:
+        path = pathlib.Path("./docs/{}.html".format(post["title"].lower()))
 
     template = jinja_env.get_template("post.html")
     rendered = template.render(post=post, content=content)
