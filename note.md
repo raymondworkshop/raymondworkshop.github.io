@@ -2,11 +2,13 @@
 
 #### 2021-06-06  
 
-* the blog only works in a single page  
-  > python3 -m serve.py  
+* the blog works locally  
+  > python3 -m serve 
 
 * TODO  
     - fix the index function  
+        + Done  
+        + tricks: store the generated html in /docs/{}/index.html
     - check more on livereload pkg  
     
 

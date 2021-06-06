@@ -1,68 +1,49 @@
-<!doctype html>
-<html lang="en">
-<title>  - Raymond ZHAO WENLONG</title>
-<link rel="stylesheet" href="/static/style.css">
+{% extends "base.html" %}
 
-<nav>
-    <h1><small><a href="index">Raymond ZHAO WENLONG</a></small></h1>
-    <ul>
-        <li><a href="index"> Blog </a>
-
-
-    </ul>
-</nav>
-
-<section class="content">
-    <!--
-    <header>
-        
-      </header>
-      -->
-    
+{% block content %}
 <ul>
-    
+  {% for post in posts %}
 
-    
+  {% if post.title != 'Slides'
+  and post.title != 'About'
+  and post.title != 'Bookshelf'
+  and post.title != 'link'
+  and post.title != 'Invest'
+  and post.title != 'Business' %}
 
-    <article class="post">
-        <h4>
-            <a href="/">Hello, World!
-                <label class="date"> - 2021-03-13</label></a> <br />
-            
+  <article class="post">
+    <h4>
+      <a href="/{{post.stem}}">{{ post.title }}
+        <label class="date"> - {{ post.date }}</label></a> <br />
+      {% if post.tags |length %}
 
-            
+      {% for tag in post.tags.split(',') if tag|trim != 'home' %}
 
-            <small>
-                <a href="/">
-                    <label class=" tag">#test</label></a>
-            </small>
+      <small>
+        <a href="/{{post.tag}}">
+          <label class="tag">#{{ tag|trim }}</label></a>
+      </small>
 
-            
+      {% endfor %}
 
-            <small>
-                <a href="/">
-                    <label class=" tag">#hello</label></a>
-            </small>
+      {% endif %}
 
-            
+      {% if post.categories %}
 
-            
+      {% for tag in post.categories if tag|trim != 'home' %}
 
-            
+      <small>
+        <a href="/{{post.tag}}">
+          <label class="tag">#{{ tag|trim }}</label></a>
+      </small>
 
-        </h4>
-    </article>
-    
-    
+      {% endfor %}
+
+      {% endif %}
+
+    </h4>
+  </article>
+  {% endif %}
+  {% endfor %}
 </ul>
-
-
-
-</section>
-
-
-<div class="footer">
-    <ul>
-        <small>&copy; zhaowenlong 2021</small>
-    </ul>
-</div>
+{% endblock content %}

@@ -42,7 +42,8 @@ def get_static_link(title: str) -> str:
 
 def write_post(post: frontmatter.Post, content: str):
     post["stem"] = get_static_link(post["title"])
-    path = pathlib.Path("./_site/{}.html".format(post["stem"]))
+    path = pathlib.Path("./docs/{}/index.html".format(post["stem"]))
+    path.parent.mkdir(parents=True, exist_ok=True)
 
     template = jinja_env.get_template("post.html")
     rendered = template.render(post=post, content=content)
@@ -66,7 +67,7 @@ def write_posts() -> Sequence[frontmatter.Post]:
 def write_index(posts: Sequence[frontmatter.Post]):
     # sort
     posts = sorted(posts, key=lambda post: post["date"], reverse=True)
-    path = pathlib.Path("./templates/index.html")
+    path = pathlib.Path("./docs/index.html")
     template = jinja_env.get_template("index.html")
     rendered = template.render(posts=posts)
     path.write_text(rendered)
@@ -77,7 +78,6 @@ def main():
     posts = write_posts()
     write_index(posts)
     # write_post(post, content)
-    # write_site(page)
     # return
 
 

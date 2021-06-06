@@ -1,16 +1,15 @@
-<!doctype html>
-<html>
+{% extends "base.html" %}
 
-<head>
-    <title> {{post.title}}</title>
-</head>
+{% block header %}
+<title> {{post.title}}</title>
+{% endblock %}
 
-<body>
-    <h1>{{post.title}}</h1>
-    <em> Posted on {{post.date.strftime('%Y-%B-%d')}}</em>
-    <article>
-        {{content}}
-    </article>
-</body>
+{% block content %}
+<article class="post">
+    <header>
+        <h1><strong>{{ post.title }}</strong></h1>
+    </header>
+    <p class="body">{{ content}}</p>
+</article>
 
-</html>
+{% endblock content %}

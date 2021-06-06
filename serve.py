@@ -11,5 +11,6 @@ def rebuild():
 server = livereload.Server()
 server.setHeader("Cache-Control", "no-store")
 server.watch("_posts/*.md", rebuild)
-server.watch("_site/**.html")
-server.serve(default_filename="_site/index.html", port=4000)
+server.watch("_site/**")
+server.watch("templates/**.html", rebuild)
+server.serve(root="docs", port=4000)
