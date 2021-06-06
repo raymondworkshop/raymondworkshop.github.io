@@ -6,6 +6,8 @@
   > python3 -m serve 
 
 * TODO  
+    - fix how to deploy on github  
+    
     - fix the index function  
         + Done  
         + tricks: store the generated html in /docs/{}/index.html
