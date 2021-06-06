@@ -1,45 +1,28 @@
-appdirs==1.4.4
-appnope==0.1.2
-argcomplete==1.12.3
-astroid==2.5.6
-backcall==0.2.0
-cffi==1.14.5
-cmarkgfm==0.5.3
-colorlog==4.8.0
-decorator==4.4.2
-distlib==0.3.1
-filelock==3.0.12
-ipython==7.21.0
-ipython-genutils==0.2.0
-isort==5.8.0
-jedi==0.18.0
-Jinja2==3.0.1
-lazy-object-proxy==1.6.0
-livereload==2.6.3
-MarkupSafe==2.0.1
-mccabe==0.6.1
-nox==2020.12.31
-npm==0.1.1
-optional-django==0.1.0
-parso==0.8.1
-pbr==5.5.1
-pexpect==4.8.0
-pickleshare==0.7.5
-prompt-toolkit==3.0.17
-ptyprocess==0.7.0
-py==1.10.0
-pycparser==2.20
-Pygments==2.8.1
-pylint==2.8.3
-python-frontmatter==1.0.0
-PyYAML==5.4.1
-six==1.16.0
-stevedore==3.3.0
-toml==0.10.2
-tornado==6.1
-traitlets==5.0.5
-virtualenv==20.4.2
-virtualenv-clone==0.5.4
-virtualenvwrapper==4.8.4
-wcwidth==0.2.5
-wrapt==1.12.1
+import functools
+import http.server
+
+import sys
+import threading
+import time
+
+import nox
+
+
+def start_server():
+    handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory="_site")
+    server = http.server.HTTPServer(("127.0.0.1", 4000), handler)
+    server_thread = threading.Thread(target=server.serve_forever)
+    server_thread.daemon = True
+    server_thread.start()
+    print("Serving at http://127.0.0.1:4000/")
+    return server_thread
+
+
+@nox.session
+def build(session):
+    # session.install("-r", "requirements.txt")
+
+    if sys.stderr.isatty():
+        session.run("python", "serve.py")
+    else:
+        session.run("python", "blog.py")

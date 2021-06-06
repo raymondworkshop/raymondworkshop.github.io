@@ -8,7 +8,7 @@ import jinja2
 
 # TODO check more pathlib
 def get_sources() -> Iterator[pathlib.Path]:
-    return pathlib.Path(".").glob("_posts/*.md", recursive=True)
+    return pathlib.Path(".").rglob("_posts/*.md")
 
 
 def parse_source(source: pathlib.Path) -> frontmatter.Post:
@@ -29,8 +29,19 @@ jinja_env = jinja2.Environment(
     loader=jinja2.FileSystemLoader("templates"),
 )
 
+# TODO - get relative static link from title
+import re
+
+
+def get_static_link(title: str) -> str:
+    s = "-"
+    # Farewell, Google -> farewell-google
+    link = s.join(re.findall(r"[\w]+", title)).lower()
+    return link
+
 
 def write_post(post: frontmatter.Post, content: str):
+    post["stem"] = get_static_link(post["title"])
     path = pathlib.Path("./_site/{}.html".format(post["stem"]))
 
     template = jinja_env.get_template("post.html")
@@ -38,9 +49,23 @@ def write_post(post: frontmatter.Post, content: str):
     path.write_text(rendered)
 
 
-def write_site(posts: Sequence[frontmatter.Post]):
+def write_posts() -> Sequence[frontmatter.Post]:
+    posts = []
+    sources = get_sources()
+
+    for source in sources:
+        post = parse_source(source)
+        content = render_markdown(post.content)
+        write_post(post, content)
+        post["stem"] = get_static_link(post["title"])
+        posts.append(post)
+
+    return posts
+
+
+def write_index(posts: Sequence[frontmatter.Post]):
     # sort
-    # posts = sorted(posts, key=lambda post: post["date"], reverse=True)
+    posts = sorted(posts, key=lambda post: post["date"], reverse=True)
     path = pathlib.Path("./templates/index.html")
     template = jinja_env.get_template("index.html")
     rendered = template.render(posts=posts)
@@ -48,9 +73,10 @@ def write_site(posts: Sequence[frontmatter.Post]):
 
 
 def main():
-    doc = "_posts/hello.md"
-    post = parse_source(doc)
-    write_post(post)
+    # doc = pathlib.Path("_posts/hello.md")
+    posts = write_posts()
+    write_index(posts)
+    # write_post(post, content)
     # write_site(page)
     # return
 

@@ -1,4 +1,14 @@
-### note
+### note 
+
+#### 2021-06-06  
+
+* the blog only works in a single page  
+  > python3 -m serve.py  
+
+* TODO  
+    - fix the index function  
+    - check more on livereload pkg  
+    
 
 #### 2021-06-05  
 * programming on my blog 
@@ -12,6 +22,8 @@
         + fix the build errors  
         > python3 -m nox  
         >  site-packages in some virtual env 
+        + Done, nox is only for the test function 
+
     - write the test functions  
     - [code reference from thea.codes](https://github.com/theacodes/blog.thea.codes)
 
