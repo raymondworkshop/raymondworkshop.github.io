@@ -11,13 +11,13 @@
 
   <article class="post">
     <h4>
-      <a href="{{ url_for(" blog.page", path=page.path) }}">{{ post.title }}
+      <a href="/{{post.stem}}">{{ post.title }}
         <label class="date"> - {{ page.date }}</label></a>
       <br />
 
       {% for tag in post.tags.split(',') if tag|trim != 'home' %}
       <small>
-        <a href="{{ url_for('blog.tag', tag=tag|trim) }}">
+        <a href="{{tag|trim}}">
           <label class="tag">#{{ tag|trim }}</label></a>
       </small>
       {% endfor %}
@@ -32,13 +32,13 @@
 
   <article class="post">
     <h4>
-      <a href="{{ url_for(" blog.page", path=page.path) }}">{{ post.title }}
+      <a href="/{{post.stem }}">{{ post.title }}
         <label class="date"> - {{ post.date }}</label></a>
       <br />
 
       {% for tag in post.categories if tag|trim != 'home' %}
       <small>
-        <a href="{{ url_for('blog.tag', tag=tag|trim) }}">
+        <a href="{{tag|trim}}">
           <label class="tag">#{{ tag|trim }}</label></a>
       </small>
       {% endfor %}

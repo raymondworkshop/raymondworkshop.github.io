@@ -4,6 +4,7 @@
 * TODO  
     - tag functions 
         + index as a 'home' tag  
+        + the current soluton is to include a index in each subdirs 
 
     - check how to deploy all on github  
 

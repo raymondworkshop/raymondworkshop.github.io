@@ -7,8 +7,18 @@ from typing import Sequence
 import jinja2
 
 # TODO check more pathlib
-def get_sources() -> Iterator[pathlib.Path]:
-    return pathlib.Path(".").rglob("_posts/*.md")
+
+
+def list_dirs(rootdir):
+    """get all subdirs"""
+    subpaths = []
+    for path in pathlib.Path(rootdir).iterdir():
+        if path.is_dir():
+            list_dirs(path)
+
+
+def get_sources(dir: str) -> Iterator[pathlib.Path]:
+    return pathlib.Path(dir).glob("_posts/*.md")
 
 
 def parse_source(source: pathlib.Path) -> frontmatter.Post:
@@ -41,9 +51,13 @@ def get_static_link(title: str) -> str:
 
 
 def write_post(post: frontmatter.Post, content: str):
-    if post.get("comments"):
+    if post.get("tags"):
         post["stem"] = get_static_link(post["title"])
-        path = pathlib.Path("./docs/{}/index.html".format(post["stem"]))
+        # post["tags"] = get_static_link(post["tags"])
+
+        path = pathlib.Path(
+            "./docs/{}/{}/index.html".format(post["tags"], post["stem"])
+        )
         path.parent.mkdir(parents=True, exist_ok=True)
     else:
         path = pathlib.Path("./docs/{}.html".format(post["title"].lower()))
@@ -53,12 +67,18 @@ def write_post(post: frontmatter.Post, content: str):
     path.write_text(rendered)
 
 
-def write_posts() -> Sequence[frontmatter.Post]:
+def write_posts(dir: str) -> Sequence[frontmatter.Post]:
     posts = []
     sources = get_sources()
 
     for source in sources:
         post = parse_source(source)
+        """
+        # take tags as a dir
+        if post.get("tags"):
+            post["tags"] = get_static_link(post["tags"])
+        """
+
         content = render_markdown(post.content)
         write_post(post, content)
         post["stem"] = get_static_link(post["title"])
@@ -67,8 +87,27 @@ def write_posts() -> Sequence[frontmatter.Post]:
     return posts
 
 
+def get_all_posts():
+    dirs = list_dirs()
+    return
+
+
+def write_tag_index(posts: Sequence[frontmatter.Post], tag: str):
+    # some tag index
+    posts = sorted(posts, key=lambda post: post["date"], reverse=True)
+    if tag == "home":
+        path = pathlib.Path("./docs/index.html")
+        template = jinja_env.get_template("index.html")
+    else:
+        path = pathlib.Path("./docs/{}/index.html".format(tag))
+        template = jinja_env.get_template("tag.html")
+
+    rendered = template.render(posts=posts)
+    path.write_text(rendered)
+
+
 def write_index(posts: Sequence[frontmatter.Post]):
-    # sort
+    # Home index
     posts = sorted(posts, key=lambda post: post["date"], reverse=True)
     path = pathlib.Path("./docs/index.html")
     template = jinja_env.get_template("index.html")
@@ -78,7 +117,9 @@ def write_index(posts: Sequence[frontmatter.Post]):
 
 def main():
     # doc = pathlib.Path("_posts/hello.md")
-    posts = write_posts()
+    # generate index at each subdir
+    root = "."  # by default
+    posts = write_posts(root)
     write_index(posts)
     # write_post(post, content)
     # return
