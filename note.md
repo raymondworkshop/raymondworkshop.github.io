@@ -1,5 +1,16 @@
 ### note 
 
+#### 2021-06-07  
+* TODO  
+    - tag functions 
+        + index as a 'home' tag  
+
+    - check how to deploy all on github  
+
+    - check more nox pkg  
+
+    - the code & math highlight function 
+
 #### 2021-06-06  
 
 * the blog works locally  
