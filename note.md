@@ -7,6 +7,7 @@
 
 * TODO  
     - deploy all docs on github  
+        + DONE  
 
     - cannot deal with chinese 
     - check the code & math highlight function  
