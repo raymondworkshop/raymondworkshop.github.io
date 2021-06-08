@@ -103,6 +103,7 @@ def write_index(posts: Sequence[frontmatter.Post], path: pathlib.Path):
 def write_docs(root: str):
     subdirs = list_subdirs(root)
     for subdir in subdirs:
+        # remove the old subdir
         # write index in each sub
         posts = write_posts(subdir)
         write_index(posts, subdir)
@@ -112,7 +113,14 @@ def main():
     # doc = pathlib.Path("_posts/hello.md")
     # replace tag functions with dir
     srcs = SRCS  # by default
-    write_docs(srcs)
+    target = "./docs"
+    try:
+        for file in pathlib.Path(target).glob("**/*.html"):
+            pathlib.Path.unlink(file)
+
+        write_docs(srcs)
+    except OSError as e:
+        print("Erros: %s - %s." % (e.filename, e.strerror))
 
 
 if __name__ == "__main__":
