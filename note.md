@@ -1,5 +1,17 @@
 ### note 
 
+#### 2021-06-08  
+* tag  
+    - use subdir to replace tag function 
+    - BUG: only get the a child dir  
+
+* TODO  
+    - deploy all docs on github  
+    - check the code & math highlight function  
+
+    - check more nox pkg
+    
+
 #### 2021-06-07  
 * TODO  
     - tag functions 
