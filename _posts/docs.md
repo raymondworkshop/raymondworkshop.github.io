@@ -1,5 +1,4 @@
 ---
-layout: post
 title: docs
 date: 2021-06-08
 ---
