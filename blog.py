@@ -55,11 +55,16 @@ def get_static_link(title: str) -> str:
 
 def write_post(post: frontmatter.Post, content: str):
     if post.get("tags") or post.get("categories"):
-        post["stem"] = get_static_link(post["title"])
+        post["stem"] = (
+            get_static_link(post["title"]) + "-" + post["date"].strftime("%Y-%m-%d")
+        )
         # post["tags"] = get_static_link(post["tags"])
 
         path = pathlib.Path(
-            "./docs/{}/{}/index.html".format(str(post["path"]).lower(), post["stem"])
+            "./docs/{}/{}/index.html".format(
+                str(post["path"]).lower(),
+                post["stem"],
+            )
         )
         path.parent.mkdir(parents=True, exist_ok=True)
     else:
@@ -85,7 +90,7 @@ def write_posts(path: pathlib.Path) -> Sequence[frontmatter.Post]:
         content = render_markdown(post.content)
         post["path"] = path
         write_post(post, content)
-        post["stem"] = get_static_link(post["title"])
+        # post["stem"] = get_static_link(post["title"])
         posts.append(post)
 
     return posts
@@ -109,14 +114,16 @@ def write_docs(root: str):
         write_index(posts, subdir)
 
 
+import shutil
+
+
 def main():
     # doc = pathlib.Path("_posts/hello.md")
     # replace tag functions with dir
     srcs = SRCS  # by default
-    target = "./docs"
+    target = "./docs/"
     try:
-        for file in pathlib.Path(target).glob("**/*.html"):
-            pathlib.Path.unlink(file)
+        # shutil.rmtree(target)
 
         write_docs(srcs)
     except OSError as e:

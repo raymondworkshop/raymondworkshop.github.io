@@ -7,6 +7,8 @@
 
 * TODO  
     - deploy all docs on github  
+
+    - cannot deal with chinese 
     - check the code & math highlight function  
 
     - check more nox pkg

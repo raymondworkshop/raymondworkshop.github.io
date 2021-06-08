@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en">
+<title>  - Raymond ZHAO WENLONG</title>
+<link rel="stylesheet" href="/style.css">
+
+<nav>
+    <h1><small><a href="/index.html">Raymond ZHAO WENLONG</a></small></h1>
+    <ul>
+        <li><a href="/index.html"> Blog </a>
+        <li><a href="/slides.html"> Slides </a>
+        <li><a href="/bookshelf.html"> Bookshelf </a>
+        <li><a href="/about.html"> About </a>
+    </ul>
+</nav>
+
+<section class="content">
+    <!--
+    <header>
+        
+<title> Notes on the Software Architect</title>
+
+      </header>
+      -->
+    
+<article class="post">
+    <header>
+        <h1><strong>Notes on the Software Architect</strong></h1>
+    </header>
+    <p class="body"><h4>500L</h4>
+<p>TODO</p>
+<h4>ch4 Empathize with Stakeholders  - product manager</h4>
+<ul>
+<li>
+<p>Talk to the Right People  - who</p>
+<ul>
+<li>create a stakeholder Map -  a network diagram</li>
+</ul>
+</li>
+<li>
+<p>Discover the Business Goals - why they care</p>
+<ul>
+<li><strong>who wants it and what they want</strong></li>
+<li>Record Business Goal Statements
+<ul>
+<li>subject + measurable outcome + Context (the need)</li>
+<li>&quot;(stakeholder) Mayor wanna (goal) reduce procurement costs by 30%, (context) to avoid making budget cuts to education or other essential services in an election year.&quot;</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4>ch5 - Architecturally Significant Requirements (ASR)</h4>
+<ul>
+<li>
+<p><strong>planning</strong> -</p>
+<ul>
+<li>
+<p><strong>problem definition</strong>  from a user's point of view</p>
+<ul>
+<li><strong>a clear statement of the problem</strong> that the sytem is supposed to solve</li>
+<li>understanding what you want to build</li>
+</ul>
+</li>
+<li>
+<p><strong>requirements prerequisite</strong> ensure that the user drives the system's functionality</p>
+<ul>
+<li><strong>how to specify requirements well</strong></li>
+<li>the requirements checklist</li>
+</ul>
+</li>
+<li>
+<p><strong>system Architecture</strong></p>
+<ul>
+<li>determine the conceptual integrity of the system</li>
+<li>a architecture first needs <strong>an overview</strong> that describes the system in broadterm</li>
+<li>the architecture should <strong>define the major buildign blocks</strong> in a program</li>
+<li>the communication rules for each buildign block should be well defined</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Define the <strong>what</strong>, the requirements from architecture</p>
+</li>
+<li>
+<p>Capture Constraints as Simple Statements</p>
+<ul>
+<li>like &quot;Must build a browser-based web application, the context is to descreases concerns about software delivery and maintenance.&quot;</li>
+</ul>
+</li>
+<li>
+<p>Capture Quality Attributes as Scenarios</p>
+<ul>
+<li>
+<p>Quality Attributes Scenarios describe <strong>how the system is expected to operate within a certain environmental context</strong></p>
+</li>
+<li>
+<p>a quality attribute scenario <strong>communicates the intent of the requirement</strong> so anyone can understand it</p>
+<ul>
+<li>like &quot;performace - A user sees research results within 5 seconds when the system is at an average load of 2 searchs per second.&quot;</li>
+<li>&quot;Availability - A user's searches for open RFPs and receives a list of RFPs 99% of the time on average over the course of the year.&quot;</li>
+</ul>
+</li>
+<li>
+<p>precise and measurable</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Influential Functional Requirements</p>
+</li>
+</ul>
+<h4><strong>Design in Construction</strong></h4>
+<h4>ch6 - choose an Architecture</h4>
+<ul>
+<li>
+<p>architects <strong>choose structures to promote quality attributes</strong> in the system</p>
+</li>
+<li>
+<p>accept the constraints</p>
+</li>
+<li>
+<p><strong>explore Patterns</strong> to promote desired Quality Attributes</p>
+</li>
+<li>
+<p>find the functional requirements and ensure the architecture can achieve them</p>
+</li>
+</ul>
+<ul>
+<li><strong>assign specific functional responsibilities to each element</strong></li>
+</ul>
+<h4>ch7 - how to explore design concepts</h4>
+<ul>
+<li>
+<p>collect published patterns catalogs</p>
+</li>
+<li>
+<p>design exploration - how</p>
+<ul>
+<li><strong>survey</strong> the existing ones</li>
+<li><strong>give a presentation</strong> of the available ones</li>
+<li>share a brief demo</li>
+<li><strong>recommend</strong> a technology that seemed reasonable</li>
+</ul>
+</li>
+<li>
+<p>decision</p>
+<ul>
+<li>&quot;how do the proposed solutions influence our <strong>top-quality attributes</strong>?&quot;</li>
+</ul>
+</li>
+</ul>
+<h4>ch8 - how to create models</h4>
+<ul>
+<li>
+<p>pick an appropriate pattern as meta-model</p>
+<ul>
+<li>meta-model defines the concepts and the rules of how the concepts are applied</li>
+</ul>
+</li>
+<li>
+<p><strong>add new concepts</strong> to the meta-model</p>
+<ul>
+<li>
+<p>start the process by <strong>asking a question</strong></p>
+<ul>
+<li>like &quot;which components cost us the most if they are unavailable&quot;</li>
+</ul>
+</li>
+<li>
+<p>Name it</p>
+<ul>
+<li>the name describe the element's <strong>responsibility but also its purpose</strong></li>
+<li>understanding <strong>what it does and why it exists</strong></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Organize code to make patterns obvious</p>
+<ul>
+<li>pair with diff teammates</li>
+<li>it would be wise to <strong>explore our architecture options in a collaborative workshop</strong>
+<ul>
+<li>not everyone agrees with or understands the current architecture</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4>ch9 - how to make design decisions</h4>
+<ul>
+<li>plan and facilitate an architecture design studio</li>
+</ul>
+<h4>ch10 - how to visualize design ideas</h4>
+<h4>reference</h4>
+<ul>
+<li><a href="https://github.com/muyun/500lines">500lines</a></li>
+<li>[code complete]</li>
+<li>[from programmer to architect]</li>
+</ul>
+</p>
+</article>
+
+
+
+
+</section>
+
+
+<div class="footer">
+    <ul>
+        <small>&copy; zhaowenlong 2021</small>
+    </ul>
+</div>

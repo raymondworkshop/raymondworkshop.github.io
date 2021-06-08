@@ -2,7 +2,6 @@
 title: Bookshelf
 date: 2012-03-19
 ---
-
 ### log of training & books and my ratings
 
 #### training-2021
