@@ -15,6 +15,8 @@ jinja_env = jinja2.Environment(
 
 # the dir to put the src files
 SRCS = "./_posts"
+# TODO: Only support "*.md" now
+# types = ["*.md", "*.markdown"]
 
 # TODO check more pathlib
 def list_subdirs(root: str) -> Iterator[pathlib.Path]:
