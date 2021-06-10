@@ -31,13 +31,7 @@ def list_subdirs(root: str) -> Iterator[pathlib.Path]:
 
 
 def get_sources(path: pathlib.Path) -> Iterator[pathlib.Path]:
-    files = pathlib.Path(SRCS).joinpath(path).glob("*.md")
-
-    # print the source filename
-    for file in files:
-        print("src:", file)
-
-    return files
+    return pathlib.Path(SRCS).joinpath(path).glob("*.md")
 
 
 def parse_source(source: pathlib.Path) -> frontmatter.Post:
@@ -90,6 +84,7 @@ def write_posts(path: pathlib.Path) -> Sequence[frontmatter.Post]:
     sources = get_sources(path)
 
     for source in sources:
+        print("src: ", str(source))
         post = parse_source(source)
         """
         # take tags as a dir
