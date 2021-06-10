@@ -31,7 +31,13 @@ def list_subdirs(root: str) -> Iterator[pathlib.Path]:
 
 
 def get_sources(path: pathlib.Path) -> Iterator[pathlib.Path]:
-    return pathlib.Path(SRCS).joinpath(path).glob("*.md")
+    files = pathlib.Path(SRCS).joinpath(path).glob("*.md")
+
+    # print the source filename
+    for file in files:
+        print("src:", file)
+
+    return files
 
 
 def parse_source(source: pathlib.Path) -> frontmatter.Post:
@@ -49,13 +55,15 @@ def render_markdown(markdown_text: str) -> str:
 
 # TODO - get relative static link from title
 def get_static_link(title: str) -> str:
+    # like Farewell, Google -> farewell-google
     s = "-"
-    # Farewell, Google -> farewell-google
     link = s.join(re.findall(r"[\w]+", title)).lower()
+    
     return link
 
 
 def write_post(post: frontmatter.Post, content: str):
+    #print(str(post["path"]) + "/" + (post["title"]))
     if post.get("tags") or post.get("categories"):
         post["stem"] = (
             get_static_link(post["title"]) + "-" + post["date"].strftime("%Y-%m-%d")
@@ -125,8 +133,6 @@ def main():
     srcs = SRCS  # by default
     target = "./docs/"
     try:
-        # shutil.rmtree(target)
-
         write_docs(srcs)
     except OSError as e:
         print("Erros: %s - %s." % (e.filename, e.strerror))

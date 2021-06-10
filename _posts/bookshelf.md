@@ -26,6 +26,8 @@ date: 2012-03-19
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford
 * [500 Lines or Less](http://aosabook.org/en/index.html)
 
+
+* [keys to drawing](https://book.douban.com/subject/1861609/) by Bert Dodson
 * [Zero to One](https://book.douban.com/subject/24753651/) by Peter Thiel
 * [Founders at Work](https://book.douban.com/subject/1966719/) by Jessica Livingston
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard
