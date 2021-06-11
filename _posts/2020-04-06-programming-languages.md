@@ -4,10 +4,11 @@ title: "Notes on programming language"
 date: 2021-04-06
 comments: true
 categories: [programming]
-abstract: "[Updating] Notes on the core ideas programming languages, especially on functional programming"
+abstract: "[Updating] Notes on the core ideas programming languages"
 ---
 
-#### scheme
+#### **scheme** 
+TODO
 
 #### Standard ML
 
@@ -19,7 +20,7 @@ abstract: "[Updating] Notes on the core ideas programming languages, especially 
       + **Type-checking** rules (before program runs) in current static environment
         - what type a binding has
         - produces a type or fail
-        -
+        
 
       + **Evaluating** the bindings (in the dynamic environment)
         - a value or an error or an infinite loop of the preceding bindings
@@ -72,3 +73,6 @@ abstract: "[Updating] Notes on the core ideas programming languages, especially 
   + sml-ch3
     - first-class functions
     - TODO
+
+#### reference
+* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/)
