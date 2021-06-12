@@ -3,7 +3,7 @@ layout: post
 title: "Notes on Learning How to Learn"
 date: 2020-05-13
 comments: true
-categories: [learning, notes,important, research]
+categories: [learning, notes, important, research]
 abstract: 'Notes on Learning How to Learn, and List Some Interesting Questions'
 ---
 
@@ -18,7 +18,7 @@ abstract: 'Notes on Learning How to Learn, and List Some Interesting Questions'
   - practice the same number of times **over several days**
 
 * **the importnace of sleep** in learning
-   -
+   
 
 * interview
    - learning by doing, and learning by osmosis from expers
@@ -43,10 +43,10 @@ abstract: 'Notes on Learning How to Learn, and List Some Interesting Questions'
 * 只需記住最简单的定义即可
 * **把学到的理论放到实践的情境中理解**
 * **找人指导你实践并寻求反馈**
-  - 更能从实践的失败里得到有建设性的反馈
+   - 更能从实践的失败里得到有建设性的反馈
 
-* 讲反馈得到的新知识运用到下一次实践中
-* 再次找人知道你实践并寻求反馈
+* 将反馈得到的新知识运用到下一次实践中
+* 再次找人指导你实践并寻求反馈
 
 
 #### reference
