@@ -8,24 +8,50 @@ abstract: "!! Record my Love with Ivy"
 ---
 
 #### lover
-* 身体吸引力
+* 身体吸引力  
+
 * **灵魂 契合**
     - 待在一起是否舒服
     - 能沟通到
-    - 审美一致， 情调一致， 三观一致
+    - 审美一致， 情调一致， 三观一致 
+
+* 性格 
+    - 善良，愿意顾家和付出  
+    - 大方  
+    - 温暖  
+    - 有气质  
 
 
 #### 沟通和表达
 
- * **尊重和确认的力量**  - 对伴侣观点的关心和尊重
+* 积极, 正面的回应 
+    - **关系是每一天的小事的经历**  
+        + **享受你来我往的过程， 比内容更重要** 
+        + 互相努力  
+
+    - 不断的努力，给出好的回应   
+    - 言语或行动的邀请或回应  
+        + 从小事开始，接纳她 
+        +  因为爱对方，所以有这个 正面的回应，所以忍受  
+
+        + **“你好吗”， “你怎么啦”， 或行动 “一杯水”**
+        + **"我觉得我们开始的时候，我都好开心； 我都想我们再一起努力，好吗？“** 
+ 
+        + “我今天有些累，不能听你的，改天我再听你的”  
+        + “我觉得我们现在都有情绪，我们先暂停把，改天再讨论”  
+        + “可以告诉我到底发生了什么吗？”  
+        + “我有些生气，因为你 ..."  
+        + “我们可以一起努力吗？ ”   
+
+* **尊重和确认的力量**  - 对伴侣观点的关心和尊重
     - 行为描述
-      + 在精确表述上表现很糟糕, 如果抱怨某事,同时谈及几个问题
-      + 彼此倾听方面表现糟糕, 很少耐心自习思索伴侣所说的话
+        + 在精确表述上表现很糟糕, 如果抱怨某事,同时谈及几个问题
+        + 彼此倾听方面表现糟糕, 很少耐心自习思索伴侣所说的话
 
 
-      + 尽可能清楚明白, **详细具体地指出惹恼我们的特定行为**, 应该专指某一特定事件, 不涉及普遍性
-        - 用**第一人称明确说明自己的感受** “**当你在x情景下做x的时候,我感到**”
-      + **复述和向对方检验自己的知觉**, 积极主动地努力理解自己的伴侣
+        + 尽可能清楚明白, **详细具体地指出惹恼我们的特定行为**, 应该专指某一特定事件, 不涉及普遍性
+            - 用**第一人称明确说明自己的感受** “**当你在x情景下做x的时候,我感到**”
+        + **复述和向对方检验自己的知觉**, 积极主动地努力理解自己的伴侣
 
  * **先付出第一步(而不是全身心付出)**
     - 越付出, 对方会看到, 在更信任的情况下, 对方也会更付出
@@ -37,49 +63,50 @@ abstract: "!! Record my Love with Ivy"
 
  * 相处的模式
     - 让她感受到 **真诚与自在**, 互相之间会给对方很多空间
-      + 自信, 轻松, 舒服, 积极, 阳光
+        + 自信, 轻松, 舒服, 积极, 阳光
 
     - 当平等的人**互相吸引, 欣赏, 尊重和理解**
 
     - **What women expect of men**
-      + listen
-          - mose mean are using words, not **feelings**, you should **express feelings**
-          - the baby doesn't know what you are saying,
+        + listen
+            - mose mean are using words, not **feelings**, you should **express feelings**
+            - the baby doesn't know what you are saying,
           the baby only cares about **your tone of voice**
 
-          - **听内容，情绪，体会她的感受**
-              + **让对方感受被聆听和被明白**
-              + **帮助对方去接纳自己**
+            - **听内容，情绪，体会她的感受**
+                + **让对方感受被聆听和被明白**
+                + **帮助对方去接纳自己**
 
 
-          -  **观察她的非口语的反应， 以及她非口语背后的意义**，不着急给分析，或建议
-              + **“听你讲..., 感觉你很 ... ”**
-              + 问问题的目标是 **促进探索**
+            -  **观察她的非口语的反应， 以及她非口语背后的意义**，不着急给分析，或建议
+                + **“听你讲..., 感觉你很 ... ”**
+                + 问问题的目标是 **促进探索**
 
-      + **give advice only when asked**
-      + **offer help in any kind of physical tasks**
-      + **do the little things** - flowers, chocolates, romance
-      + make their life easier in subtle ways. Help them without announcing it to the world
+         + **give advice only when asked**
+         + **offer help in any kind of physical tasks**
+         + **do the little things** - flowers, chocolates, romance
+         + make their life easier in subtle ways. Help them without announcing it to the world
 
     - **自信诚实的做自己**, **鼓励对方真实地表达自我**, **在意对方的感受**
-      + “你开心吗?”
-      + “你需要什么我可以做的吗?”
-      + “你需要我的帮助吗?”
-      + “你想要听听我的意见吗?”
-      + emotional connection, it's a willingness from both sides to support each other emotionally and to understand
+         + “你开心吗?”
+         + “你需要什么我可以做的吗?”
+         + “你需要我的帮助吗?”
+         + “你想要听听我的意见吗?”
+         + emotional connection, it's a willingness from both sides to support each other emotionally and to understand
 
     - 中国男 缺乏界限感, 礼貌和同理心, 显得鲁莽, 自大又自我中心
-      + 美国男 紧张  自己会不会太鲁莽, **给对方不好的体验**, 而不是紧张对方怎么看自己
+         + 美国男 紧张  自己会不会太鲁莽, **给对方不好的体验**, 而不是紧张对方怎么看自己
 
     - **a strong woman** is a loyal hitter that's ride or die
 
     - 兩公婆最緊要坦白同溝通，大家咩都拎出來講，所以我同老公每日都會傾計
-      + 制造蛋糕，约会
+         + 制造蛋糕，约会
 
     - 现实问题,  她有疑虑,  给她回馈
-      + 对这个感情 的 坚定, 信心和自信
-      + 自己要承担责任
-      +  而不是仅仅说开心就好
+         + 对这个感情 的 坚定, 信心和自信
+         + 自己要承担责任
+         +  而不是仅仅说开心就好
+
 
 #### record the love with Ivy
 
@@ -88,7 +115,7 @@ abstract: "!! Record my Love with Ivy"
     - 我应该这次问问她, 看上我的什么方面  ?
 
     - 2020-06-03 我发现我思念她, 应该对她讲了
-      + 什么事情都做不进去
+        + 什么事情都做不进去
 
  * 勇气
     - **爱一个人就要表现出自己,而不期待回报, 但相信自己的爱一定会唤起对方的爱**
@@ -109,7 +136,7 @@ abstract: "!! Record my Love with Ivy"
 * enough confidences with Ivy?
   + be afraid to lose myself
     - **just be true of yourself, she love the person you are**, not the achievements
-  -
+  
   + **just be everything you truly are**
   + She will **love you for the person you are** if you can do the same for her
       - all she wants is for **both of you to be equals** in the relationship
