@@ -44,14 +44,29 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 * peace in mind
     - 主动去爱
     - 自立起来
-    - 选择人生
+    - 选择人生 
+    - 要能分辨出，  **觉察他人对自己的影响， 同时分辨出自己内心的声音**
+    **同时做出自己相应反应的选择** 
 
-* SELF
+    - **不要玩零和游戏**
+        + 因为零和游戏里， 资源是有限的，有人赢就有人输  
+        + 所以 只能 ‘诈’ 和算计 来战胜别人 
+    
+    - **无限 游戏里， 人是可以创造更多资源的， 是可以双赢的**  
+        + **赢得标准 变成了 怎样创造更多价值**， 甚至是为别人创造价值，而不是让别人吃亏
+        + 这样的话， 诚实不光是美德，也代表现实收益   
+
+* SELF 
+    - **stop underestimating your value**  
+
     - **充分彰显自己， 决不贬低别人** 
     - 讲诚信，规则
     - 不极端， 不仇恨， 大爱无疆
     - **滴水之恩，当涌泉相报**
     - **活一天开心一天**
+    - **期望 做的更好一点**  
+    - 思维向前 
+
 
 #### self-analysis
 
@@ -115,13 +130,19 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
                 + 对自己的家人和其他人一样
             - 把熟人社会的规则 用在了 陌生人社会上
 
-        + 过于 同情底层 而忽视 上层 和自己
-            - 不注意保护自己
+        + **过于 同情底层 而忽视 上层 和自己** 
+            - 这一点受到父亲的影响  
+                + 因为 发觉 自己比较容易 受到 底层的人的 尊重  
+                + 注意保护自己
             - 忽视了**底层的“恶”**， 只看到上层的“假”
             - 只 同情 底层，或者 想得到底层人的尊敬 或领导
                 + 其实底层的人比较weaker， 所以比较势利
                 + 应该是 **同情 善良的人**， 而不是 经济意义上的 底层
-
+           
+        +  老爸 还是受法家的影响 
+            - 老家的人 过于 相信 国家， 过于保守  
+            - 没有受到  商业思维的 影响 
+ 
     - learn about yourself by studying your friends
         + honest, understanding, support
 
@@ -257,10 +278,10 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 * enjoy being the man you've built, maintaing what you have built
 
 * reference
-    - [The Quest for power](https://illimitablemen.com/2014/01/03/20s-men-the-quest-for-power-the-decade-of-empire/**
+    - [The Quest for power](https://illimitablemen.com/2014/01/03/20s-men-the-quest-for-power-the-decade-of-empire)
+
 
 #### self-skills
-
 * 交流
     - 人与人的交流 是 “**获得 新知和启迪**”
     - **不是满足自我， 而是看见别人， 看见他人**;  别人的生活方式和生活状态
@@ -354,6 +375,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 * reference
     - [Mistakes Relating to life choices](https://lifemathmoney.com/grave-errors-made-by-men-in-their-20s/)
 
+
 #### a pleasure of life - healthy, loved, free, and calm
 
 * **do more, think less, meditate at night**
@@ -407,16 +429,13 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - **cooking** is one of the most fundamental ways to show love & appreciation
     - don't respect a man who poorly behaved woman and children
 
-
     - time and peace of mind are the most expensive mode of payment
     - **Nature and markets**, not people,  are more honest when it comes to giving feedback
     - **start with your vision and deal with reality**
         + not what is possible and  then decide what result you want to create
     - **don't be kind towards harmful personss**
 
-
     - it's not the place, but **how you do it, and the people you do it with** is more important
-
 
     - when the world doesn't make sense, it's a signal that you need to learn
 
@@ -482,6 +501,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - focus on people who can **take care of themselves**
         + the secret of effortless relationships
 
+
 #### **methodology**  -  a set of methods and principles
 
 * **多问 “此人能做些什么”**， 观察自己的上司， 注意自己的下属
@@ -490,7 +510,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
 * lead the people who need you, **follow the people who you need**
 
-* 把自己放在生活中， 安然所遭遇的一切
+* **把自己放在生活中**， 安然所遭遇的一切
 
 * **只有关己(personal), 人才能从荒谬中找到意义**
     - nothing personal,  你就无往不在荒谬中
@@ -549,6 +569,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + the weakest are not honest
     - 聪明的人 不一定
 
+
 #### work
 
 * **多推销想法, 多问问题, 不断尝试失败**
@@ -562,6 +583,14 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
 * 老板的角度都是，他们能给我们什么？我们是否有这个责任一定要确实完成这些要求？
 
+
+##### work in china  
+* 我仍然做我想做的事，说我想说的话， 我只是**选择不当反对派**  
+
+* **消费驱动创新**  
+    - 中国经济 是由 **房地产投资** 和**工业生产**来引领， 但消费滞后  
+    - 工业 由出口驱动 
+
 #### **families**
 
 * **在自己喜欢的人身上用心**，**在不喜欢自己的人身上健忘**
@@ -570,6 +599,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
       - 玩偶再漂亮再听话，最终也只能被厌弃。
 
 * 有**内在中心***的女人，找老公自然找能够携手一起创造美好的人，谁也不会觉得谁多付出了，谁亏欠谁了，都是在为自己想要的人生奋斗而已
+
 
 #### china
 
@@ -631,9 +661,9 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 	+ 不是用事实和逻辑看问题，而是**先分敌友，论敌友不论事实，论利害不论是非**
 	+ 是敌人，对我们多好也是敌人；是“战略伙伴关系”，骑在你头上拉屎也是伙伴
 
-    - 中庸之道 - 凡事喜欢和稀泥
+    - 中庸之道 - 凡事**喜欢和稀泥** 
         + 缺乏逻辑分析能力，缺乏讲道理的习惯 
-        + 学会“难得糊涂”， 才能安全地生存下去 
+        + 学会“**难得糊涂**”， 才能安全地生存下去 
 
 * 中国人**喜欢难为自己**, 比如自给自足, 独立自主, 自己攻关, 努力
     - **交换和合作**  - **把精力用在更需要你的地方**

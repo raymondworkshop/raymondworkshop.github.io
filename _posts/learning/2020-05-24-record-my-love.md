@@ -20,7 +20,8 @@ abstract: "!! Record my Love with Ivy"
     - 大方  
     - 温暖  
     - 有气质  
-
+    - 独立，  有自己的想法  
+    - 自信，专业 
 
 #### 沟通和表达
 

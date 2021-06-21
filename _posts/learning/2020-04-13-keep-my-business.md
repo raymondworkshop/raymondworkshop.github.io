@@ -5,20 +5,28 @@ date: 2020-04-13
 comments: true
 categories: [notes, learning, business, ideas, important, management]
 ---
+
 #### notes  
 * SELF  
     - **practical ability** is more important    
     - **pass the basic boring step** firstly, then the creative part will come    
 
+    - 必须 胆大， **有进取心** 才能获得成功  
+    - **有 统治力， 同时也具有 冒险精神** - looks really strong and confident   
+    
+
 * TODO  
     - programming from start <500line>  
     - frontend -> react  
     - join/build **communities** you enjoy  
+    - **build a network with winners or entrepreneurs**    
 
 * ENV
     - more creative in a startup  
 
     - work in small teams/companies with the lean members    
+
+
 
 #### notes from <the lean-startup>  
 * TODO  

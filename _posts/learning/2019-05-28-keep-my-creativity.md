@@ -13,6 +13,9 @@ abstract: "About creativity"
 
 #### ideas  
 
+* **asyno solution** 
+    - asyno team?   
+
 * art + tech + fun   
 
 * how to organize your knowledge  
