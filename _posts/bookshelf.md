@@ -21,6 +21,7 @@ date: 2012-03-19
 * [I Love You But](https://book.douban.com/subject/35332781/) by Andrew G. Marshall (9/10)
 * [Rework](https://www.goodreads.com/book/show/6732019-rework?from_search=true&from_srp=true&qid=5B2aFWuq2G&rank=1) by Jason Fried (8/10)
 * [Getting Real](https://www.goodreads.com/book/show/447648.Getting_Real?ac=1&from_search=true&qid=GKPsjqJWKp&rank=1) by 37 Signals  (9/10)
+* [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/index.html) by Eric Steven Raymond  
 * [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen
 * [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford
