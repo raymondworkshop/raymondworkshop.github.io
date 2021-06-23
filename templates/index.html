@@ -19,7 +19,7 @@
         <label class="date"> - {{ post.date }}</label></a> <br />
       {% if post.tags |length %}
 
-      {% for tag in post.tags.split(',') if tag|trim != 'home' %}
+      {% for tag in post.tags if tag|trim != 'home' %}
 
       <small>
         <a href="/{{tag|trim}}">

@@ -9,6 +9,8 @@
     - deploy all docs on github  
         + DONE  
 
+    - show tags 
+
     - cannot deal with chinese 
     - check the code & math highlight function  
 
