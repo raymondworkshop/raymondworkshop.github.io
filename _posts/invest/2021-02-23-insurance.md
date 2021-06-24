@@ -3,7 +3,7 @@ layout: post
 title: "Notes on Insurance"
 date: 2021-02-23
 comments: true
-categories: [learning, insurance]
+categories: [learning, insurance, invest]
 abstract: "notes on Insurance"
 ---
 

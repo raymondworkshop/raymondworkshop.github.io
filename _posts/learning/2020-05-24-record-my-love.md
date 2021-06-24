@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "! Record my Love"
+title: "!Record my Love"
 date: 2020-05-24
 comments: true
 categories: [learning, love]
-abstract: "!! Record my Love with Ivy"
+abstract: "!!Record my Love with Ivy"
 ---
 
 #### lover
@@ -22,6 +22,70 @@ abstract: "!! Record my Love with Ivy"
     - 有气质  
     - 独立，  有自己的想法  
     - 自信，专业 
+
+
+#### Process  
+* Mind  
+    - Focus on **Having fun** youself, what does it matter if she rejects me or not? 
+        + **Doesn't care and focus on your feelings**, you have fun yourself  
+        + **Don't make things fun for the woman** and fails  
+
+    - **Wondering**  
+        + **wonder what FUN I can have with her**
+        + **wonder what NEW THINGS I'll learn about women from her**
+        + **wonder what happens if I try this strategy on her**  
+   
+    -  **Men are as free as a bird**, 
+       Girls want to seize that bird and toss it in a cate (committment)  
+
+    - **Do not apologize for his testosterone, for his desires**    
+
+    - **Try to always win in what he does**    
+        + has deep convictions that allows him to be a possible leader  
+
+    - **Never feels he has to prove himself to anyone**   
+        + Let her prove herself to you 
+        + you will advance in your career, your social life, and even your dealings with women  
+    
+    -  **use shyness** as an advantage, Think of yourself as a prince   
+        + give her a general anaswer and turn the conversation back on her 
+        + take something she said that you agree with,
+        paraphrase it in your own words, and feed it back to her 
+
+* Casual dating  
+    - invite her for dinner or coffee, to **get to know your girl**  
+        + it's ok to be friends if no chemistry and awkwardness    
+    
+    - hang out with your girl and have fun  
+        + **start off with something small, like dinner or a drink**
+        when you can **get to know her** and see if she is worth your time  
+
+        + get you gind the girl that likes what you like 
+        
+        + planning dates  
+        it's fun to **plan out what YOU want to do**,
+        and **girls like to go along for the adventure**  
+
+* a MAN  
+    - **PASSION** in life about something. 
+    **the passion that transforms his life, gives hime confidence, and gives him joy**.  
+    the PASSION will give you that right mindset for you have goals and dreams  
+   
+    -  **Try to always win in what he does**    
+        + has **deep convictions** that allows him to be a possible leader  
+
+    - Physical  
+        + good body  
+        + very focused, intelligent eyes  
+        + relaxed, but tidy wardrobe  
+
+    - Emotional  
+        + deterministic and level-headed 
+        + learn from the mistakes  
+        + humor, artistic  
+
+    - Social  
+        + offers the girls a chair, opens doors ... 
 
 #### 沟通和表达
 

@@ -3,73 +3,12 @@ layout: post
 title: "About financial education"
 date: 2020-08-29
 comments: true
-categories: [learning, investment]
+categories: [learning, invest]
 abstract: "About financial education"  
 ---
 
-
-#### living
-   * **~around 13,6k/m**
-     - cost every month 
-       + 6k for living 
-       + 4k for eating 
-         - 4233.01 on this october  
-       + 1k for others 
-         - 33 for mobile fee
-         - 100 for books/news 
-         - exercise  
-         -
-
-     - Money - credit card - **2643.37**hkd  
-       + 1,706.67 * 12 for  20k - 信用卡供款HKD2,0000的現金分期
-       + 916.67 for credit card  - 消費以及簽賬HKD1,1000的分期  
-       + 5150 * 12 for 60k - 信用卡HKD6,0000現金分期
-
-         
-       + at least 5000 hkd cash dollar for monthly living  
-       + fetch 3000 hkd at least 2 weeks advance  
-
-     - 往來戶口内 HKD250,000的信用透支額度  
-       + **60K** hkd 信用透支  on 2020-11-17  
-          - 4000k for the credit card  
-          - 50k for sofi stock  (40k for the 1859, 10k for treasury)
-
-          - 6k for the living  
-
-
-   * 100k extra passive income each year  
-     - 5000 hkd passive income firstly each year
-
-
-   * 医疗保险 - 10%   
-     -  Bowtie 保險
-     -  保柏环球优越自愿医保计划  
-     -  保柏互通保額醫療保障計劃  
-       + 每年根据年龄重新投保?  
-       + 恒生银行为你提供合资格延期年金保单、自愿医保及强积金可扣税自愿性供款方案, 
-        -> 恒生强积金可扣税自愿性供款 ?  
-
-     - 保泰自願醫保 – 靈活計劃 – 升級計劃  - 446.38hkd/m
-     - 友邦   
-
-
-  * 我的投資 - 30%  
-
-  * 退休投資  - 20% 
-     - 富达 TODO CHECK  ?
-
-  * **Hang Seng MPF**  
-     - TODO CHECK 靈活供款申請表(個人賬戶持有人) ?  
-       + 3000 hkd or 10% ? 
-     
-     - 計劃成員帳戶號碼 : 313084227 
-       + scheme id: 39999981      
-       + input: HKD **101,233.21** hkd on 2020-09-09  
-       + 10% 平稳基金 + 35% 北美股票 + 15% 欧洲股票 + 25% 亚太股票  on 11-24-2020   
-       + +6167.84 -> 49769.13 on 08-28-2020 
-       + +4130.98 -> 105364.19 on 2020-09-09 
-       + +11119.68 on 2020-11-24  
-
+#### notes on bitcoin 
+* [https://karpathy.github.io/2021/06/21/blockchain/](https://karpathy.github.io/2021/06/21/blockchain/)  
 
 #### Financial education  
 
