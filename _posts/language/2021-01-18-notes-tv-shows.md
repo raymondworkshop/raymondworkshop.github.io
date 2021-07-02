@@ -9,13 +9,13 @@ abstract: "notes about TV shows like 'Friends' "
 
 
 #### describe your feelings
-happiness - thrilled, blissfully happy, to be giddy
-sad  -  feel blue, feel down,  Not really felling it
-angry - prickly, furious
-tired - be worn down, be worn out
-confused - to feel off, to be a hot mess, feel puzzled,
+happiness - thrilled, blissfully happy, to be giddy  
+sad  -  feel blue, feel down,  Not really felling it  
+angry - prickly, furious  
+tired - be worn down, be worn out  
+confused - to feel off, to be a hot mess, feel puzzled  
 
-> I fell ya. or I know the feeling.
+> I fell ya. or I know the feeling.  
 
 
 #### S05E25
