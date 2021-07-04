@@ -1,8 +1,24 @@
 ---
-title: Bookshelf
+title: books
 date: 2012-03-19
 ---
 ### log of training & books and my ratings
+
+#### training-2021
+* [Business Principles and Entrepreneurial Thought](https://www.edx.org/xseries/business-principles-entrepreneurial-thought)  
+    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)   
+    - [Financial Accounting Made Fun: Eliminating Your Fears](https://www.edx.org/course/financial-accounting-made-fun-eliminating-your-fea)  
+    - [Analytics for Decision Making](https://www.edx.org/course/analytics-for-decision-making) 
+
+* [認知訓練營2020](https://m.igetget.com/share/course/pay/detail?id=0x1A7LvaogNXknMsY1JPpql2WmznGD)
+* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego
+* [Effective Communication](https://learning.edx.org/course/course-v1:IIMBx+BC101x+3T2020/home)
+* [编译原理之美](https://time.geekbang.org/column/article/241656)
+* <del>[Programming Languages](https://www.coursera.org/learn/programming-languages/home/info) by University of Washington  (8/10)</del>
+* <del>[Open Source Software Development Methods](https://www.coursera.org/learn/open-source-software-development-methods/home/welcome)</del>
+* <del>[6.033 Computer System Engineering](http://web.mit.edu/6.033/www/general.shtml)</del>
+
+* [Microeconomics](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2020/home)
 
 #### reading-2021
 
@@ -32,20 +48,6 @@ date: 2012-03-19
 * [The Cashflow Quadrant](https://book.douban.com/subject/1817043/) by C. P. A. Robert T. Kiyosaki with Sharon L. Lechter
 
 * [無窮的開始](https://book.douban.com/subject/26184242/) by 戴维·多伊奇
-
-
-#### training-2021
-
-* [認知訓練營2020](https://m.igetget.com/share/course/pay/detail?id=0x1A7LvaogNXknMsY1JPpql2WmznGD)
-* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego
-* [Effective Communication](https://learning.edx.org/course/course-v1:IIMBx+BC101x+3T2020/home)
-* [编译原理之美](https://time.geekbang.org/column/article/241656)
-* [Programming Languages](https://www.coursera.org/learn/programming-languages/home/info) by University of Washington  (8/10)
-* [Open Source Software Development Methods](https://www.coursera.org/learn/open-source-software-development-methods/home/welcome)
-* [6.033 Computer System Engineering](http://web.mit.edu/6.033/www/general.shtml)
-
-* [Microeconomics](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2020/home)
-
 
 
 #### training-2020
