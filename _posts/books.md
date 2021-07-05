@@ -26,6 +26,9 @@ date: 2012-03-19
 * [Rework](https://www.goodreads.com/book/show/6732019-rework?from_search=true&from_srp=true&qid=5B2aFWuq2G&rank=1) by Jason Fried (8/10)
 * [Getting Real](https://www.goodreads.com/book/show/447648.Getting_Real?ac=1&from_search=true&qid=GKPsjqJWKp&rank=1) by 37 Signals  (8/10)
 * [How to Design Programs,2nd](https://htdp.org/2021-5-4/Book/index.html) 
+* [How to Get Rich](https://book.douban.com/subject/6762560/) by Felix Dennis  
+* [Losing My Virginity](https://book.douban.com/subject/1763398/) by Richard Branson  
+
 * [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman
 * [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/index.html) by Eric Steven Raymond  
 * [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen
