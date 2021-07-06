@@ -23,6 +23,98 @@ abstract: "!!Record my Love with Ivy"
     - 独立，  有自己的想法  
     - 自信，专业 
 
+#### note with Ivy  -  a lawer, grown-up in HK, educated in UK
+
+*  her ego, and character <- words reveal this  
+    - ascertain **how she treats people** who can't do anything back to her   
+    - how she treats her father  
+    - how many **instant gratification behavior** she engages in 
+        + like tattoos, alcohol, drugs, clothing -> adventurous  
+
+    - the places she often vists  
+
+    - kind, smart
+
+*  **the type of things she values**  <- be a giver of value  
+    - **good emotions** with you    
+        + **the environment, the situation, key signals**   
+    - good experiences  
+    - happiness     
+
+*  her belief system  <- the reasons the motivated the actions  
+    - **her unconscious mind, and her emotional state**   
+    - christ? 
+    - families  
+    - loyalty  
+    - nice  
+    - a woman will behave according to the world **how she feels like** not painful reality  
+
+
+*  interests  
+    - families  
+    - chinese food  
+    - have a cat, like dogs  
+    - art 
+
+
+* improve myself  <- women are attached to **personality and status**  
+    - I am "**Valuable Asset**"; I am the great catch  
+    - **self-image**, how you view yourself    
+        + self-respect, having standards, willing to walk away  
+        +  set clear boundaries  
+        +  being assertive, having competence in skills valued in society  
+
+    - **leading, and be dominant in interactions**  
+
+
+
+*  communication    
+    - create **an immediate feedback loop**  
+        + **read the woman, read the situation, and make moves that make sense in the context***    
+        + read her signals - **body-languages, facial expressions, tones**, 
+    and refine you strategy towards her    
+        + double down on behaviors or what's working    
+
+    - **who she is as a person** 
+
+    - **what she finds valuable**   
+        + give her that **specific form of value**  
+        + understand the true meaning, her intention, and her perspective of the true meaning  
+
+    - **what turns her on** from the signals     
+        + **whether she is or not sexually open**  
+        + **Don't take the role of savior**, unless you're married to her and benefit in a long term relationship  
+        + it's **not your responsibility to save her from herself**  
+    
+    - **show her** that you've got plenty of that in your life  
+        +  **identify the feeling** that is valuable to her  
+        +  identify **specific words**  
+        +  specific **body-language** <- mirror and match   
+        +  **speak her language**  
+
+
+* skills  
+    - **how you make her feel**  <- mirror  <- she feels what you feel  
+        + overflow **positive emotions, joy, high energy**  
+        + uplift her mood  
+        + express yourself freely and fully  
+        + take on intriguing hobbies, and develop an interesting identity  
+
+    - **be a leader**, start owning it (no sorry) 
+        + **communicate boundaries clearly**   
+        + **being proactive, being aggressive in executing goals, folling the actions**  
+
+    -  keep advancing the interaction towards sex    
+        + social space -> close space  
+        +  **touching a woman** in an intimate matter is the fastest way to  test  
+        +  touch her body, and physical close to her  
+        +  handhold  
+        +  kiss 
+        +  sex   
+
+
+* reference 
+    - Womanese 101 how to talk and flirt with women  
 
 #### Process  
 * Mind  
