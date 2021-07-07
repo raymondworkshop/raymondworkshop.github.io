@@ -25,23 +25,26 @@ date: 2012-03-19
 * [I Love You But](https://book.douban.com/subject/35332781/) by Andrew G. Marshall (9/10)
 * [Rework](https://www.goodreads.com/book/show/6732019-rework?from_search=true&from_srp=true&qid=5B2aFWuq2G&rank=1) by Jason Fried (8/10)
 * [Getting Real](https://www.goodreads.com/book/show/447648.Getting_Real?ac=1&from_search=true&qid=GKPsjqJWKp&rank=1) by 37 Signals  (8/10)
+
 * [How to Design Programs,2nd](https://htdp.org/2021-5-4/Book/index.html) 
+* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford
+* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard
+* [keys to drawing](https://book.douban.com/subject/1861609/) by Bert Dodson  
+* [透视如此简单](https://book.douban.com/subject/26436490/) by Ernest Hemingway 
 * [How to Get Rich](https://book.douban.com/subject/6762560/) by Felix Dennis  
+
 * [Losing My Virginity](https://book.douban.com/subject/1763398/) by Richard Branson  
 
 * [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman
 * [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/index.html) by Eric Steven Raymond  
 * [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen
-* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford
 * [500 Lines or Less](http://aosabook.org/en/index.html)
 * [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec
 
-* [keys to drawing](https://book.douban.com/subject/1861609/) by Bert Dodson  
 * [一本摄影书](https://book.douban.com/subject/10426611/) by 赵嘉  
 
 * [Zero to One](https://book.douban.com/subject/24753651/) by Peter Thiel
 * [Founders at Work](https://book.douban.com/subject/1966719/) by Jessica Livingston
-* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
 
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.
