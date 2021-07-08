@@ -75,6 +75,14 @@ abstract: "!!Record my Love with Ivy"
     and refine you strategy towards her    
         + double down on behaviors or what's working    
 
+
+    - build connections with her, her emotions, and the way she feels  
+        + something she is passionate about  
+        + what she likes or dislikes about her job  
+        + a place she's traveled to - and how she felt about it  
+        + something she's excited about  
+        + what her aspirations are  
+
     - **who she is as a person** 
 
     - **what she finds valuable**   
@@ -95,6 +103,19 @@ abstract: "!!Record my Love with Ivy"
 
 * skills  
     - **how you make her feel**  <- mirror  <- she feels what you feel  
+        + **cater to her emotion when interacting with and attracting her** 
+            - **women care more about the way you make them feel** than your 'stats" and accomplishments  
+
+        + **focus on appreciating her inner and outer beauty**  
+            - what do u like about her?  
+            - is her rhythm sexy?  
+            - do her eyes captivate you?  
+            - does she make you laugh?  
+            - is her smile contagious?    
+            - this brings a smile to my face and leads me to **make strong eye contact** 
+            - if **the man loves women**, She can sense he has no ulterior motive, he enjoys the moment, understands her, and appreciates her beauty 
+            and she is more comfortable moving things further with this man   
+
         + overflow **positive emotions, joy, high energy**  
         + uplift her mood  
         + express yourself freely and fully  
