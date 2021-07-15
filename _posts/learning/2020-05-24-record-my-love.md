@@ -16,11 +16,10 @@ abstract: "!!Record my Love with Ivy"
     - 审美一致， 情调一致， 三观一致 
 
 * 性格 
-    - 善良，愿意顾家和付出  
-    - 大方  
-    - 温暖  
+    - 善良，愿意顾家和付出   
+    - **温暖大方**  
     - 有气质  
-    - 独立，  有自己的想法  
+    - 独立， 有自己的想法  
     - 自信，专业 
 
 #### note with Ivy  -  a lawer, grown-up in HK, educated in UK
@@ -65,7 +64,6 @@ abstract: "!!Record my Love with Ivy"
         +  being assertive, having competence in skills valued in society  
 
     - **leading, and be dominant in interactions**  
-
 
 
 *  communication    
@@ -113,7 +111,7 @@ abstract: "!!Record my Love with Ivy"
             - does she make you laugh?  
             - is her smile contagious?    
             - this brings a smile to my face and leads me to **make strong eye contact** 
-            - if **the man loves women**, She can sense he has no ulterior motive, he enjoys the moment, understands her, and appreciates her beauty 
+            - if **the man loves women**, She can sense he has no ulterior motive, **he enjoys the moment, understands her, and appreciates her beauty** 
             and she is more comfortable moving things further with this man   
 
         + overflow **positive emotions, joy, high energy**  

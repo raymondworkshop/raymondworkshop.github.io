@@ -51,11 +51,19 @@ tags: [diary]
         - be a value-giver      
 
 
+
+
+#### 2021-07-09  
+* TODO  
+    - read 'conversation casanova'  
+    - read 'how to design program'  
+    - finish the drawing homework, and read about persepective in drawing  
+
+
 #### 2021-07-08 
 * pass the driver test 
     + so happy  
     + believe in myself   
-
 
 
 #### 2021-07-07  
@@ -71,3 +79,6 @@ tags: [diary]
 * Improving  
     - get up at 10:30 
  
+#### 2021-07-05    
+    - entrepreneur 
+    - engineering and management skills  
