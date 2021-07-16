@@ -5,7 +5,44 @@ date: 2021-07-07
 tags: [diary]
 ---
 
-#### review on 2021-07
+#### review on 2021-07 
+
+#### 2021-07-16  
+* TODO  
+    - read ch3.6 in 'how to design program' 
+    - Finsh the drawing homework, and do some reading on drawing  
+
+
+
+#### 2021-07-09  
+* TODO  
+    - read 'conversation casanova'  
+    - read 'how to design program'  
+    - finish the drawing homework, and read about persepective in drawing  
+
+
+#### 2021-07-08 
+* pass the driver test 
+    + so happy  
+    + believe in myself   
+
+
+#### 2021-07-07  
+* review  
+    - so nice to chat with a girl student in the meetup  
+        + LET girls chat more about herslef  
+        + don't chat more with losers  
+
+* TODO  
+    - review the driver textbook  
+    - do the test 
+
+* Improving  
+    - get up at 10:30 
+ 
+#### 2021-07-05    
+    - entrepreneur 
+    - engineering and management skills  
 
 #### plan on 2021-07 - 2021-07-31  
 * Budget: 
@@ -52,33 +89,3 @@ tags: [diary]
 
 
 
-
-#### 2021-07-09  
-* TODO  
-    - read 'conversation casanova'  
-    - read 'how to design program'  
-    - finish the drawing homework, and read about persepective in drawing  
-
-
-#### 2021-07-08 
-* pass the driver test 
-    + so happy  
-    + believe in myself   
-
-
-#### 2021-07-07  
-* review  
-    - so nice to chat with a girl student in the meetup  
-        + LET girls chat more about herslef  
-        + don't chat more with losers  
-
-* TODO  
-    - review the driver textbook  
-    - do the test 
-
-* Improving  
-    - get up at 10:30 
- 
-#### 2021-07-05    
-    - entrepreneur 
-    - engineering and management skills  
