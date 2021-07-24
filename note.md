@@ -10,9 +10,13 @@
         + DONE  
 
     - show tags 
+        + use subdir to replace tag
 
     - cannot deal with chinese 
+        + ?
+
     - check the code & math highlight function  
+        + use Pygments highlight function 
 
     - check more nox pkg
     

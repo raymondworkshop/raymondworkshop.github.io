@@ -22,6 +22,51 @@ abstract: "!!Record my Love with Ivy"
     - 独立， 有自己的想法  
     - 自信，专业 
 
+
+#### TODO 
+* TOIMPROVE  
+    - listen more 
+       + 帮助对方说出心中的情绪和情绪的来由 
+       + 简单 复述 对方的内容 
+       + 澄清：  用问题去展开话题和探索  
+       + 总结：  反映对方谈话的几个重点 
+       + 自我披露：  分享你的想法，感受和类似经历  
+       + 帮助对方 识别落差，逃避心态和扭曲的想法   
+   
+ 
+* TODO  
+   - she is a christ 
+       + helpful, kind, cheerful 
+ 
+   - understand **what a woman value**  
+       + then give them specific value
+       + become a **valuable emotional commodity** in her life  
+  
+   - understand her emotions and ego 
+   - understand the situation, her intention, and perspective    
+   - try to be closer  
+       + body closer or mind closer  
+
+#### 2020-07-18  
+* hiking with Ivy  
+    - yes, i like her, she is smart and sensitive 
+    - information 
+        + her living place, her job
+        + seems that she feels a bit insecurity, <- be more warm and open
+        + her body 
+  
+    - issues
+        + I should explain that I thought to put work before marry before, now I change my mind  
+        + I wanna a family 
+        + I am loyalty  
+    
+    - TODO  
+        + Find her favorite topics, activities, ...
+        + Find her core values 
+            - respect her thinking 
+            - honest   
+        + find out her cares and issues?   
+
 #### note with Ivy  -  a lawer, grown-up in HK, educated in UK
 
 *  her ego, and character <- words reveal this  

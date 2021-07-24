@@ -41,7 +41,7 @@ def parse_source(source: pathlib.Path) -> frontmatter.Post:
 
 def render_markdown(markdown_text: str) -> str:
     content = cmarkgfm.markdown_to_html_with_extensions(
-        markdown_text, extensions=["table", "autolink", "strikethrough"]
+        markdown_text, extensions=["table", "autolink", "strikethrough", "tasklist"]
     )
 
     return content

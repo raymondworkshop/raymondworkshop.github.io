@@ -7,12 +7,15 @@ tags: [diary]
 
 #### review on 2021-07 
 
+#### 2021-07-22
+* TODO 
+    - finish the coding on TEST part 
+    - read 'Womanese 101' 
+
 #### 2021-07-16  
 * TODO  
     - read ch3.6 in 'how to design program' 
     - Finsh the drawing homework, and do some reading on drawing  
-
-
 
 #### 2021-07-09  
 * TODO  
