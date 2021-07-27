@@ -7,6 +7,18 @@ tags: [diary]
 
 #### review on 2021-07 
 
+#### 2021-07-27
+* TODO 
+    - finish the coding on Train part 
+        + done, and boring  
+    - read 'Womanese 101'
+
+#### 2021-07-26  
+* TODO  
+    - finish the coding on Train part 
+    - read 'Womanese 101'
+    - meet with wudi, and chat with Richard
+
 #### 2021-07-22
 * TODO 
     - finish the coding on TEST part 

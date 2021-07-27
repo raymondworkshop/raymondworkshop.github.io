@@ -25,15 +25,35 @@ abstract: "!!Record my Love with Ivy"
 
 #### TODO 
 * TOIMPROVE  
-    - listen more 
+    - **listen more** 
        + 帮助对方说出心中的情绪和情绪的来由 
        + 简单 复述 对方的内容 
        + 澄清：  用问题去展开话题和探索  
        + 总结：  反映对方谈话的几个重点 
        + 自我披露：  分享你的想法，感受和类似经历  
        + 帮助对方 识别落差，逃避心态和扭曲的想法   
+
+    - **women want empathy** when expressing a problem 
+    - **know the type of things** that women value  
+       +  **finding commonalities** with her that you're interested in 
+       + nice food 
+       + good emotions, good experiences, and happiness 
    
- 
+    - know her unconscious mind -> how she behaves in her life 
+    - her emotional state  -> how she views the world and how she will behave
+
+    - she has a deep need to **feel important**  -> boost her ego  
+       + a woman values **her ego** and **attention**    
+
+    - **confidence**, and **self-image** of high worth  
+        + self-respect  
+        + having standards  
+        + will to walk away  
+        + be able to set clear boundaries 
+        + stand up for yourself  
+        + being assertive  
+        + having competence in skills valued in society  
+
 * TODO  
    - she is a christ 
        + helpful, kind, cheerful 
