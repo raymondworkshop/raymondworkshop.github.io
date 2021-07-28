@@ -24,26 +24,109 @@ abstract: "!!Record my Love with Ivy"
 
 
 #### TODO 
+* TODO  
+    - try to be closer  
+        + body closer or mind closer  
+
+    - I wanted a family 
+        + women want to feel wanted, not needed 
+
+
+    - rules 
+        + reward with emotional reactions and attention  
+        + fuel the love by **being mysterious, spontaneous and not too available**    
+
+* Connect with her on a deeper level - **get her talking**  
+    - ask open-ended questions - emotional topics  
+        + her **experiences**  
+            - "where is **your favorite place** you've traveled?"  
+            - "**how did it feel** when you did X?"  
+            - "**what was it like to do** X?"  
+
+        + her **dreams**  - really wanna do with her life  
+            - "**what's something you've always wanted to do**?"  
+            - "**how would it feel to do that**"  
+
+        + what she loves to do  
+            - "**what kind of activities get you excited**?"  
+            - "**how do u feel when you do** X" 
+
+        + her **passions**  
+            - "**what makes you passionate about** X"  
+            - "**how do u feel when you're following** the passion"
+
+        + her **motivations**  - why does she wana
+            - "**what made you do** that?"  
+            - "**now that you're doing X, how do u feel about it**?"
+        
+        + "what do u like about it?"  
+        + "what was it like growing up there" 
+        + "do u have any dream?"  
+
+    - **listening and relating**  
+        + **actively listen to her**, and **relate back to her responses**
+        + provide some sort of **feedback**, even if repeating back what she said  
+        + "awesome. **tell me, what made you want to** live there"
+
+    - focus the conversation on her  
+        + the more she **talks about herself, the more connected she'll feel to you**   
+        
+
+* Communicate with intent  
+    - **talk slower**, hold strong eye contact, **smile**  
+    - using subtlety, implication  
+        + "Really? it may sound crazy, but **I love women who love** lingerie."
+
+    - exaggeration  
+        +  "you're right. " 
+        +  "I know"  
+
+    - positioning yourself as the prize  
+        +  " we can go to my place for a drink, but only if **you promise not to try anything**"  
+        +  " **are you hitting on me right now**? but I'm not that wasy"
+
+    - make fun of yourself  
+        + like your difficulities with women 
+
+    - mock her  
+        + exaggerate her accent or mimic the particular word  
+
+    - sexy eye contact 
+        + look at her eyes, then down to her mouth, then back up to her eyes 
+        + move your eyes **slowly**  
+        + match her gaze 
+            - looking into her eyes about 90% of the time  
+            - only look away when she's looking away  
+
+    - closer  
+        + sit **next to her** on a date  
+        + **talk in her ear**, and bounce out 
+        + **face her head on** instead of at an angle  
+
+
 * TOIMPROVE  
     - **listen more** 
-       + 帮助对方说出心中的情绪和情绪的来由 
-       + 简单 复述 对方的内容 
-       + 澄清：  用问题去展开话题和探索  
-       + 总结：  反映对方谈话的几个重点 
-       + 自我披露：  分享你的想法，感受和类似经历  
-       + 帮助对方 识别落差，逃避心态和扭曲的想法   
+        + 帮助对方说出心中的情绪和情绪的来由 
+        + 简单 复述 对方的内容 
+        + 澄清：  用问题去展开话题和探索  
+        + 总结：  反映对方谈话的几个重点 
+        + 自我披露：  分享你的想法，感受和类似经历  
+        + 帮助对方 识别落差，逃避心态和扭曲的想法   
 
     - **women want empathy** when expressing a problem 
+        + empathy - **try to understand why it make sense** for them  
+        even if it doesn't make sense for you  
+
     - **know the type of things** that women value  
-       +  **finding commonalities** with her that you're interested in 
-       + nice food 
-       + good emotions, good experiences, and happiness 
+        +  **finding commonalities** with her that you're interested in 
+        + nice food 
+        + good emotions, good experiences, and happiness 
    
     - know her unconscious mind -> how she behaves in her life 
     - her emotional state  -> how she views the world and how she will behave
 
     - she has a deep need to **feel important**  -> boost her ego  
-       + a woman values **her ego** and **attention**    
+        + a woman values **her ego** and **attention**    
 
     - **confidence**, and **self-image** of high worth  
         + self-respect  
@@ -54,18 +137,17 @@ abstract: "!!Record my Love with Ivy"
         + being assertive  
         + having competence in skills valued in society  
 
-* TODO  
+* INFO  
    - she is a christ 
-       + helpful, kind, cheerful 
+        + helpful, kind, cheerful 
  
    - understand **what a woman value**  
-       + then give them specific value
-       + become a **valuable emotional commodity** in her life  
+        + then give them specific value
+        + become a **valuable emotional commodity** in her life  
   
    - understand her emotions and ego 
    - understand the situation, her intention, and perspective    
-   - try to be closer  
-       + body closer or mind closer  
+
 
 #### 2020-07-18  
 * hiking with Ivy  

@@ -7,11 +7,22 @@ tags: [diary]
 
 #### review on 2021-07 
 
+#### 2021-07-28  
+* TODO 
+    - read 'Conversation Casanova'  
+    - think about your future 
+    - read 'how to design program' 
+
+* SELF-analysis  
+    - build business/software to benefit the society  
+    - sharing the beauty  
+
 #### 2021-07-27
 * TODO 
     - finish the coding on Train part 
         + done, and boring  
-    - read 'Womanese 101'
+    - read 'Womanese 101' 
+        + done 
 
 #### 2021-07-26  
 * TODO  
