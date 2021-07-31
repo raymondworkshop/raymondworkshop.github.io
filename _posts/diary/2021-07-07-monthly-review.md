@@ -7,6 +7,29 @@ tags: [diary]
 
 #### review on 2021-07 
 
+#### 2021-07-30 
+* TODO 
+    - think about your future  
+        + career/work
+        + families  
+
+#### 2021-07-29  
+* TODO  
+    - finish 'Conversation Casanova' 
+        + Done, it is so practical 
+        
+    - think about your future  
+        + wealth
+        + family 
+        + health
+
+
+    - read 'how to design program'  
+
+* REVIEW 
+    - first time to be Happy to see the salary in my bank account  
+    
+
 #### 2021-07-28  
 * TODO 
     - read 'Conversation Casanova'  

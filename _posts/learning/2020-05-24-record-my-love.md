@@ -70,7 +70,21 @@ abstract: "!!Record my Love with Ivy"
 
     - focus the conversation on her  
         + the more she **talks about herself, the more connected she'll feel to you**   
-        
+
+    - Bait her  
+        + intriguing statements  
+            - "**I'm a bit of** a chef, **but during the day I** analyze businesses "  
+            - "**I love learning and improving**. i feel like if you 're not feeling a little
+            stupid some of the time, you're not really living"  
+
+        + the open loop  
+            - "spain is one of my favorite countries. **what did u think about the culture**?" 
+
+    - **make some intriguing statements**, tell a few pointed stories, and let the conversation flow 
+        + talking about yourself briefly, **turn the conversation back over to her**  
+        + "**have you ever tried it**?"  
+        + "**where have you traveled to**?"
+        + "**do you like** ...?  **Maybe I'll take you to one some time**"  
 
 * Communicate with intent  
     - **talk slower**, hold strong eye contact, **smile**  
