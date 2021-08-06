@@ -15,7 +15,11 @@ abstract: "About financial education"
     - **grow the passive income** with dividends 
     
 
-#### notes
+#### notes 
+* understand wealth  
+    - 财富 应该反映**你对生活的满足感，你的选择，以及你为了享受生活而必须管理的资源**； 不局限于金钱多寡  
+    - 医疗/残障保险 
+
 * understand money 
     - understand leverage, compound interest and integrity
 

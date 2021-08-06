@@ -6,6 +6,22 @@ comments: true
 categories: [notes, learning, important, business, ideas, research]
 abstract: "About creativity" 
 ---
+
+#### think clearly  
+* why 
+    - pursuit of knowledge  
+    - know ourselves a little better, dispel prejudices 
+    - communicate more richly and persuasively 
+
+* stage 1 - why you believe something to be true or important  
+
+* stage 2 - the assumptions this reasoning relies upon  
+
+* stage 3 - what you do and don't know, where you're uncertain 
+
+* info
+    - [How to think clearly](https://psyche.co/guides/how-to-think-clearly-to-improve-understanding-and-communication)
+
 #### critical thinking  
 
 * TODO  
@@ -94,13 +110,11 @@ abstract: "About creativity"
 
 * 思维方式 
     - 要叠加, 最大限度复用第一次努力的结果, 而不是每一次都从头开始 
-    
-
     - 东亚人凡事认怂 
     - 要么鲁莽 
 
-#### Zero to One 
 
+#### Zero to One 
 * use **tracer bullets** to find the **target**  
     - many unknowns and different envs 
     - immediate feedback, and iteration 

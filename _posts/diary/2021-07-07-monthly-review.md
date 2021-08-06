@@ -7,6 +7,65 @@ tags: [diary]
 
 #### review on 2021-07 
 
+#### 2021-08-06  
+* TODO  
+    - read 'how to design program'  
+    - finish the drawing homework, and read the book 'the key to drawing' 
+    - think about your negative thinking  
+    - think about your future 
+
+* REVIEW  
+
+#### 2021-08-05 
+* TODO 
+    - update the train.json 
+        + DONE  
+    - read 'how to design program' 
+    - python class  
+    - think about your future  
+
+* REVIEW  
+    - 开始为钱奔波的日子 
+
+#### 2021-08-04
+* TODO 
+    - update the test.json 
+        + DONE  
+    - read 'how to design program' 
+        + done a bit  
+    - class in Python 
+        + None 
+    
+* REVIEW 
+    - why do u choose a lower title job in each work  
+        + think about your value, strength, weakness, fear 
+
+#### 2021-08-03  
+* TODO  
+    - read 'how to design program'  
+    - think about your future  
+        + focus more on languages, programming, business, networking for teams 
+
+#### 2021-08-02  
+* TODO 
+    - finish the issues in data.py  
+        + DONE  
+    - read 'how to design program'
+    - summary your last month  
+    - think about your future  
+
+* TOREVIEW 
+    - will not hiking in the rainy days  
+    - take care of the old womens (>34) 
+        + protect your value actually  
+
+    - a bit tired actually  
+
+    - Don't adjust your investment frequently  
+        + each month? 
+
+    - take care of the emotional guys  
+
 #### 2021-07-30 
 * TODO 
     - think about your future  

@@ -62,10 +62,14 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - **充分彰显自己， 决不贬低别人** 
     - 讲诚信，规则
     - 不极端， 不仇恨， 大爱无疆
-    - **滴水之恩，当涌泉相报**
+    - 滴水之恩，当涌泉相报
     - **活一天开心一天**
     - **期望 做的更好一点**  
     - 思维向前 
+
+    - Never be a victim when you suffer  
+        + you are the master of your fate 
+        + you can captain your soul  
 
 
 #### self-analysis
