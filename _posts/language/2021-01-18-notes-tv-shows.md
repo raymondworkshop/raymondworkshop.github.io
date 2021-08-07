@@ -7,6 +7,26 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### S07E14  
+Come on, Rach, turning 30 is not **that big deal**.  
+
+> what do u want to do today?  
+
+> You've done a wonderful job with this party, chandler, everything's so lovely.
+
+**I will take care of it**. (我会处理好）   
+
+All you have to do is just **get throught a little bit more**(再撑一下）, then we can put you in bed.   
+
+> I just want to talk to Tag.  
+> **Are u feeling any better?**    
+> yeah, **I'm doing okay**. Let's talk.  
+> **what's up?**  
+> tag, **you're such a great guy**. and we have so much fun together. But I ...
+> wait, I think I see where you're going. but before you say anything else, **can I say one more thing**?   
+> I think **I'm past the point where I can just have fun**.   
+ 
+ 
 
 #### describe your feelings
 happiness - thrilled, blissfully happy, to be giddy  
