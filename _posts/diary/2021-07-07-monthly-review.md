@@ -7,6 +7,22 @@ tags: [diary]
 
 #### review on 2021-07 
 
+##### 2021-08-10 
+* TODO  
+   - update the train.json 
+   - read 'how to design program' 
+   - read the 'the rule of X' 
+   - think about your future 
+
+#### 2021-08-09 
+* TODO  
+   - update the test.json  
+       + DONE, boring 
+   - read 'how to design program'  
+   
+   - read the 'the rule of X'  
+   
+
 #### 2021-08-06  
 * TODO  
     - read 'how to design program'  

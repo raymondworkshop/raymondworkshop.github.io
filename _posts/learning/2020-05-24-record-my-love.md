@@ -25,12 +25,33 @@ abstract: "!!Record my Love with Ivy"
 
 #### TODO 
 * TODO  
+    
+    - **care her, and make her feel special** because she is 
+
+    - love her  
+        + you like her, and you enjoy her company  
+        + she makes you laugh or she listens when you're upset 
+        + she shares your interests  
+        + because she **make you feel good about yourself**  
+            - if **she loves you for who you are**, she won't try to change you,
+            but will **help you to feel stronger and more confident and secure as a person**  
+            - to have greater self-esteem  
+
+    - **TO YOU**
+        + don't lie, trust her  
+        + don't play games,  being straight with her  
+            - **let them know honestly how you feel**, and **what's important to you** 
+            - sit them down, and **explain** that even though they don't feel ready,
+        and **why you'd like them to reconsider**  
+        + **listen to the warning voices in your head** -> avoid setting up an unhealthy power balance in the first place  
+        + **you need and deserve someone who loves you back for who you are**,
+        not for who you're pretending or trying to be  -> feel bad but great for **holding on to your pride**  
+
     - try to be closer  
         + body closer or mind closer  
 
     - I wanted a family 
         + women want to feel wanted, not needed 
-
 
     - rules 
         + reward with emotional reactions and attention  
@@ -152,6 +173,7 @@ abstract: "!!Record my Love with Ivy"
         + having competence in skills valued in society  
 
 * INFO  
+  
    - she is a christ 
         + helpful, kind, cheerful 
  
