@@ -7,6 +7,16 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### S07E15  
+**what do I do with him**? (我要陪他做什么)  
+
+Chandler was really sweet and he **consoled me** (安慰) and we drank too much. 
+and I **walked her to her hotel room** and said good night.  
+
+you are **making way too big a deal**. (太严重)
+
+**I'm really glad you guys are ok**.  
+
 #### S07E14  
 Come on, Rach, turning 30 is not **that big deal**.  
 

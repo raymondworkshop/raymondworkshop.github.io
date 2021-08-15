@@ -26,9 +26,14 @@ abstract: "!!Record my Love with Ivy"
 #### TODO 
 * TODO  
     
-    - **care her, and make her feel special** because she is 
+    - **care her** 
+        + make it very clear, make her feel that you cares  
+        + **make her feel special** because she is 
+        + **bring her flowers**, **suggest a romantic evening out**, **spoil her on her birthday**  
+        + fix her the favorite drink, give her a little gift, pay her compliments 
+        + ask her how she is, and listen to what she says, be interested  
 
-    - love her  
+    - **love her**  
         + you like her, and you enjoy her company  
         + she makes you laugh or she listens when you're upset 
         + she shares your interests  
@@ -37,12 +42,13 @@ abstract: "!!Record my Love with Ivy"
             but will **help you to feel stronger and more confident and secure as a person**  
             - to have greater self-esteem  
 
-    - **TO YOU**
+    - **TO YOU** 
         + don't lie, trust her  
         + don't play games,  being straight with her  
             - **let them know honestly how you feel**, and **what's important to you** 
             - sit them down, and **explain** that even though they don't feel ready,
         and **why you'd like them to reconsider**  
+
         + **listen to the warning voices in your head** -> avoid setting up an unhealthy power balance in the first place  
         + **you need and deserve someone who loves you back for who you are**,
         not for who you're pretending or trying to be  -> feel bad but great for **holding on to your pride**  
@@ -148,14 +154,31 @@ abstract: "!!Record my Love with Ivy"
         + 自我披露：  分享你的想法，感受和类似经历  
         + 帮助对方 识别落差，逃避心态和扭曲的想法   
 
-    - **women want empathy** when expressing a problem 
-        + empathy - **try to understand why it make sense** for them  
+    - be her emotional support  
+        + **encourage her to tell you the things** she cares about 
+        and the things she is going through  
+            - "so how have you really been lately?"  
+            - she has done well and all the ways things are going to be okay.  
+        + **women want empathy** when expressing a problem 
+            - empathy - **try to understand why it make sense** for them  
         even if it doesn't make sense for you  
 
     - **know the type of things** that women value  
         +  **finding commonalities** with her that you're interested in 
         + nice food 
+        + find out her '**love language**'  - quality time? 
+            - ask her what makes her feel loved  
+            - think about **what she says** makes she feel loved
+            - **consult it** when you are trying to decide what to do for her  
+
         + good emotions, good experiences, and happiness 
+
+    - appreciate her in the things she does, and compliment her  
+        + **tell her the little things you find sexy or cute about her** 
+            - "I think your sense of direction **is sexy**"  
+            - write a little note of thanks for her and put it in her bag 
+            - send a text message to tell her how much you appreciate what she did 
+            with a picture of you looking silly and happy   
    
     - know her unconscious mind -> how she behaves in her life 
     - her emotional state  -> how she views the world and how she will behave
@@ -173,7 +196,6 @@ abstract: "!!Record my Love with Ivy"
         + having competence in skills valued in society  
 
 * INFO  
-  
    - she is a christ 
         + helpful, kind, cheerful 
  
