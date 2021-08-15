@@ -5,7 +5,7 @@ date: 2012-03-13
 
 ### List of some of my interviews/research!  
 
-#### Nov 24, 2019 - My [reflection paper](https://drive.google.com/file/d/1_-wKp26fa5ZBhgFHcLm4DcxY6SCu9IR3/view?usp=sharing) at HKU SPACE  
+#### Nov 24, 2019 - My [reflection paper](https://drive.google.com/file/d/16IDl_4HIGcnzp5_vahYww-xiSlhPvL7I/view?usp=sharing) at HKU SPACE  
 
 
 #### 2018 - 2019 - Some of my slides on Artificial Intelligence and its applications in language & speech at HSUHK  
