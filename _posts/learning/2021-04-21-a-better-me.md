@@ -28,7 +28,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - **build knowledge and keep you creative**
 
     - friends
-        + the older & wise
+        + the older & wise 
         + young future talent
         + entrepreneurs
         + diss losers
@@ -71,6 +71,30 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + you are the master of your fate 
         + you can captain your soul  
 
+
+#### TO IMPROVE  
+* organize your day around whatever your personal "Big 3 or 4" priorities  - worth doing each day  
+    - mission life motion - work  
+        + build my businesses ventures 
+
+    - my fitness in my life  
+        + exercise/gym time, diet, & overall health  
+        + food, high protein, weight  
+
+    - my dating (sex life) & social life  
+        + relationships, inner circle & social networks  
+
+
+* **Start your day before the SUN**  - you can feel like a winner  
+    -  look good, and feel good 
+
+    - relax after 9:00pm at night  
+
+* Know yourself, and improve your mindset  
+    - **know your strengths and weaknesses**  
+    - admit to what you fears are, and facing them  
+    - reading  
+    
 
 #### self-analysis
 

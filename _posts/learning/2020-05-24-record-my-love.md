@@ -23,6 +23,33 @@ abstract: "!!Record my Love with Ivy"
     - 自信，专业 
 
 
+#### 2021-08-21  
+* asking the right questions - open-ended questions  
+    - be warm and open  
+    - what / why 
+    - "what do u like about your job?"  
+    
+* listening and relating  
+    - actively listen to her, and relate back to her responses  
+    - provide some feedback, like repeating back what she said  
+    - "Great."  
+
+    - help she see you as **the "same"** as her  
+        + focus on commonalities like interests and hobbies, avoid arguments  
+    - some emotional topics  
+        + her experiences 
+            - "what made you wanna come to the city"
+            - "how do u feel when you did X" 
+
+        + her dreams  
+            - "what's something you wanna achieve this year?"  
+            - what does she really wanna do with her life?  
+        
+        + what she loves to do 
+            - what kind of activities  
+
+* **have her open up** and tell her very little
+
 #### TODO 
 * TODO  
     
