@@ -4,10 +4,10 @@ title: "!Record my Love"
 date: 2020-05-24
 comments: true
 categories: [learning, love]
-abstract: "!!Record my Love with Ivy"
+abstract: "!!Record my Love"
 ---
 
-#### lover
+#### lover  
 * 身体吸引力  
 
 * **灵魂 契合**
@@ -22,6 +22,71 @@ abstract: "!!Record my Love with Ivy"
     - 独立， 有自己的想法  
     - 自信，专业 
 
+
+#### 2021-08-23  
+* TOSELF 
+    - **relax and be confident**  
+    - **refocus on making yourself more attractive** 
+    rather than forcing a certain person to like you 
+        + **develop yourself talents, interests, and good nature** 
+    
+    - respect her thoughts/feelings/interests 
+    - if she decides she doesn't want to date you, don't take it personally. **Use it as a learning experience, and move on**   
+
+    - smile and talking slowly  
+
+* TODO  
+    - **be a good friend**  
+        + create space and respect her privacy  
+            - do not try to fix her problems 
+            - **simply let her know you are there and are wiling to listen** 
+
+        + **be a good listener**  
+            - do not jump in with your opinion  
+            - let them talk things out on their own 
+
+        + **make plans as a group and include her**  
+            - offer to pick her up or pay for her 
+            - simple **acts of kindness**  
+
+    - asking her out on a date in a group  
+        +  usd the general conversation to develop a closer relationship based on common interests or shared goals  
+        +  be patient  
+        +  **make it clear you just wanna hang out** - don't talk about relationships or ask her to be your girlfriend  
+        + organize a picnic or go to a dinner and a movie with a couple friends 
+        +  take the lead in deciding what you will do and where you will go on the date  
+            - do your homework - ask her if she has any food preferences, make reservations if necessary  
+            - focus on good topics such as the news, family, travel, or your thoughts on love and what makes a good relationship  
+
+    - **being a better friend** to both her and her friends  
+        + **pay attention to what her and her friends say** 
+        + **give her your fill attention**
+        + make eye-contact when you talk 
+        + show you are **kind, caring and committed**  
+
+    - tease and joke one each other  
+        + give her a light shove or nudge on the back or arm  
+        + facial expressions or a smile  
+
+    - **try to flirt with her**  
+        + make eye contact, smiling, and then quickly looking away  
+        + **compliment her or act like gentleman** by holding doors, offering to buy her coffee, or carrying her books  
+        + if **you are comfortable around each other**, 
+        try brushing hair off her face, give her a hug, or sit next to her.  If she is interested in you, she will start flirting back  
+
+    - **consider giving her some space**, if your relationship has stalled  
+        + **hold back some of your feelings**, maintain a sense of mystery  
+        + **give her some space**. Your absence may lead her to realize how much she actually cares for you  
+        + start talking to other girls 
+
+    - consider keeping things casual  
+        + if you two are afraid or nervous of commitment  
+
+#### 2021-08-22
+* the relationship with Ivy is Over  
+    - too fast  
+    - you don't have the ability to deal with this kind of relationship 
+    - try to learn GOD  
 
 #### 2021-08-21  
 * asking the right questions - open-ended questions  

@@ -7,6 +7,9 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### S07E21  
+* the process monica and chandler   
+
 #### S07E15  
 **what do I do with him**? (我要陪他做什么)  
 
@@ -291,4 +294,4 @@ Let me get it straight.
 
 
 #### reference
-* [老友记第七季](https://91mjw.com/vplay/MTA3MC0xLTA=.html)
+* [老友记第七季](https://dogevod.com/ep/20619-1-21.html)
