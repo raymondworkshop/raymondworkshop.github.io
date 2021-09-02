@@ -7,6 +7,16 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### SO7E22  
+**I'll be glad to take you for** ... 
+
+Let me make sure I'm not doing anything.  
+
+okay, but **I'm just doing this for you**.  
+so **I never get to win anymore**?  
+
+
+
 #### S07E21  
 * the process monica and chandler   
 
