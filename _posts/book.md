@@ -1,22 +1,19 @@
 ---
-title: books
+title: Bookshelf
 date: 2012-03-19
 ---
+
 ### log of training & books and my ratings
 
 #### training-2021
-* [Business Principles and Entrepreneurial Thought](https://www.edx.org/xseries/business-principles-entrepreneurial-thought)  
-    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)   
-    - [Financial Accounting Made Fun: Eliminating Your Fears](https://www.edx.org/course/financial-accounting-made-fun-eliminating-your-fea)  
-    - [Analytics for Decision Making](https://www.edx.org/course/analytics-for-decision-making) 
+* [Business Principles and Entrepreneurial Thought](https://www.edx.org/xseries/business-principles-entrepreneurial-thought) 
+    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
+    - [Financial Accounting Made Fun: Eliminating Your Fears](https://www.edx.org/course/financial-accounting-made-fun-eliminating-your-fea) 
 
 * [認知訓練營2020](https://m.igetget.com/share/course/pay/detail?id=0x1A7LvaogNXknMsY1JPpql2WmznGD)
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego
 * [Effective Communication](https://learning.edx.org/course/course-v1:IIMBx+BC101x+3T2020/home)
 * [编译原理之美](https://time.geekbang.org/column/article/241656)
-* <del>[Programming Languages](https://www.coursera.org/learn/programming-languages/home/info) by University of Washington  (8/10)</del>
-* <del>[Open Source Software Development Methods](https://www.coursera.org/learn/open-source-software-development-methods/home/welcome)</del>
-* <del>[6.033 Computer System Engineering](http://web.mit.edu/6.033/www/general.shtml)</del>
 
 * [Microeconomics](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2020/home)
 
@@ -24,37 +21,41 @@ date: 2012-03-19
 
 * [I Love You But](https://book.douban.com/subject/35332781/) by Andrew G. Marshall (9/10)
 * [Rework](https://www.goodreads.com/book/show/6732019-rework?from_search=true&from_srp=true&qid=5B2aFWuq2G&rank=1) by Jason Fried (8/10)
-* [Getting Real](https://www.goodreads.com/book/show/447648.Getting_Real?ac=1&from_search=true&qid=GKPsjqJWKp&rank=1) by 37 Signals  (8/10)
+* [Getting Real](https://www.goodreads.com/book/show/447648.Getting_Real?ac=1&from_search=true&qid=GKPsjqJWKp&rank=1) by 37 Signals  (9/10) 
+* [The Rule of Life] by Richard Templar (9/10)  
+* [Conversation Casanova] (9/10)  
+* [The Rule of Work] by Richard Templar (8/10)  
+* [The Rule of love] by Richard Templar (8/10)  
+* [The Rule of Management] by Richard Templar  
 
-* [How to Design Programs,2nd](https://htdp.org/2021-5-4/Book/index.html) 
-* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford
-* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard
-* [keys to drawing](https://book.douban.com/subject/1861609/) by Bert Dodson  
-* [透视如此简单](https://book.douban.com/subject/26436490/) by Ernest Hemingway 
-* [How to Get Rich](https://book.douban.com/subject/6762560/) by Felix Dennis  
+* [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen (8/10) 
+* [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (9/10) 
 
-* [Losing My Virginity](https://book.douban.com/subject/1763398/) by Richard Branson  
-
-* [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman
-* [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/index.html) by Eric Steven Raymond  
-* [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen
-* [500 Lines or Less](http://aosabook.org/en/index.html)
+* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 
 * [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec
+* [500 Lines or Less](http://aosabook.org/en/index.html)
 
-* [一本摄影书](https://book.douban.com/subject/10426611/) by 赵嘉  
+* [How to Solve it](https://book.douban.com/subject/1456890/) by G. Polya 
 
 * [Zero to One](https://book.douban.com/subject/24753651/) by Peter Thiel
 * [Founders at Work](https://book.douban.com/subject/1966719/) by Jessica Livingston
+* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
+
+* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard
+* [keys to drawing](https://book.douban.com/subject/1861609/) by Bert Dodson  
+* [透视如此简单](https://book.douban.com/subject/26436490/) by Ernest Hemingway 
+* [一本摄影书](https://book.douban.com/subject/10426611/) by 赵嘉  
 
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.
 * [A Little History of Philosophy](https://book.douban.com/subject/6812274/) by Nigel Warburton
-* [流言](https://book.douban.com/subject/1980436/) by 張愛玲
+* [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman 
+* [Perspective Made Easy](https://book.douban.com/subject/26436490/) by Ernest Hemingway 
+* [流言](https://book.douban.com/subject/1980436/) by 張愛玲 
 
 * [The Cashflow Quadrant](https://book.douban.com/subject/1817043/) by C. P. A. Robert T. Kiyosaki with Sharon L. Lechter
 
 * [無窮的開始](https://book.douban.com/subject/26184242/) by 戴维·多伊奇
-
 
 #### training-2020
 
@@ -78,7 +79,7 @@ date: 2012-03-19
 * [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer  (8/10)
 * [Don Quixote de la Mancha](https://book.douban.com/subject/1005918/) by Miguel de Cervantes Saavedra
 * [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet) by William Shakespeare (note: Hamlet and Don Quixote are so different but as the same great)  (9/10)
-* [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama (note: a comparative politic framework from the western perspective )  (9/10)
+* [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama (note: a comparative politics framework from the western perspective )  (9/10)
 * [Composing Programs](http://composingprograms.com/) (8/10)
 * [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton (note: a superb guide on philosophical writing) (9/10)
 * [The Five Love Languages](https://www.goodreads.com/book/show/23878688-the-5-love-languages) by Gary Chapman (9/10)

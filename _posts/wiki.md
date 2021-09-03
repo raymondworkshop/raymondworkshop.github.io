@@ -1,5 +1,5 @@
 ---
-title: docs
+title: mywiki
 date: 2021-06-08
 ---
 

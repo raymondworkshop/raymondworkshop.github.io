@@ -17,8 +17,9 @@
 
     - check the code & math highlight function  
         + use Pygments highlight function 
+        + TODO - USE MKDocs pkg  
 
-    - check more nox pkg
+    - check more nox pkg  
     
 
 #### 2021-06-07  

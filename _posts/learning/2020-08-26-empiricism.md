@@ -6,6 +6,7 @@ comments: true
 categories: [learning, idea, important, todo]
 abstract: "based on what is experienced or seen rather than on theory"
 ---
+
 ### 关于实证主义哲学和生活方式 
 
 #### experienced or seen rather than theory    
