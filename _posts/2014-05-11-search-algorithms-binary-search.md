@@ -15,8 +15,8 @@ Binary search in an ordered array can implement the symbol table API. The underl
 ### The Implementation  
 For get(), the rank() (returns the number of keys) tells us precisely where the key is to be found;
 
-<div class="codehilite"><pre><code>
-:::java
+
+```  java
 //return the value associated with the given key, or null
 public Value get(Key key){
    int i = rank(key); //return the number of keys in the table
@@ -25,10 +25,9 @@ public Value get(Key key){
 
    return null;
 }
-</code></pre></div>
+```
 
-<div class="codehilite"><pre><code>
-:::java
+```  java 
 //return the number of keys in the table that are smaller than given key
 public int rank(Key key){
     int lo = 0, hi = N-1;
@@ -43,13 +42,13 @@ public int rank(Key key){
 
     return lo;
 }
-</code></pre></div>
+``` 
 
 
 and for put(), the rank tells where to update the value .
 
-<div class="codehilite"><pre><code>
-:::java
+
+``` java
 //search for key, update value if found, grow table if new
 public void put(Key key, Value val){
     int i = rank(key); //where to update the value
@@ -72,7 +71,7 @@ public void put(Key key, Value val){
     vals[i] = val;
     N++;
  }
-</code></pre></div>
+```
 
 
 ### Performance Analysis

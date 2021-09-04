@@ -1,12 +1,16 @@
 #
-import cmarkgfm
-import frontmatter
 import pathlib
-from typing import Iterator
-from typing import Sequence
+import re
+from typing import Iterator, Sequence
+
+#import cmarkgfm
+import frontmatter
 import jinja2
 
-import re
+import markdown
+import markdown.extensions.fenced_code
+import highlighting
+import style
 
 # render markdown into HTML
 jinja_env = jinja2.Environment(
@@ -17,6 +21,14 @@ jinja_env = jinja2.Environment(
 SRCS = "./_posts"
 # TODO: Only support "*.md" now
 # types = ["*.md", "*.markdown"]
+
+_markdown = markdown.Markdown(
+    extensions = [
+        "tables",
+        "footnotes",
+        markdown.extensions.fenced_code.FencedCodeExtension(lang_prefix="language-"),
+    ]
+)
 
 # TODO check more pathlib
 def list_subdirs(root: str) -> Iterator[pathlib.Path]:
@@ -40,9 +52,10 @@ def parse_source(source: pathlib.Path) -> frontmatter.Post:
 
 
 def render_markdown(markdown_text: str) -> str:
-    content = cmarkgfm.markdown_to_html_with_extensions(
-        markdown_text, extensions=["table", "autolink", "strikethrough", "tasklist"]
-    )
+    #TODO render-code
+    _markdown.reset()
+    content = _markdown.convert(markdown_text)
+    content = highlighting.highlight(content)
 
     return content
 
@@ -78,6 +91,10 @@ def write_post(post: frontmatter.Post, content: str):
     rendered = template.render(post=post, content=content)
     path.write_text(rendered)
 
+def write_pygments_style_sheet():
+    css = highlighting.get_style_css(style.themeStyle)
+    pathlib.Path("./docs/pygments.css").write_text(css)
+    
 
 def write_posts(path: pathlib.Path) -> Sequence[frontmatter.Post]:
     posts = []
@@ -119,15 +136,13 @@ def write_docs(root: str):
         write_index(posts, subdir)
 
 
-import shutil
-
-
 def main():
     # doc = pathlib.Path("_posts/hello.md")
     # replace tag functions with dir
     srcs = SRCS  # by default
     target = "./docs/"
     try:
+        write_pygments_style_sheet()
         write_docs(srcs)
     except OSError as e:
         print("Erros: %s - %s." % (e.filename, e.strerror))

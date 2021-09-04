@@ -32,69 +32,61 @@
 <h4>2019-12-12 - summary the experiences from HUS</h4>
 <h4>2018-12-02</h4>
 <ul>
-<li>chat bot</li>
-<li>Image caption</li>
+<li>chat bot </li>
+<li>Image caption </li>
 </ul>
 <h4>2018-</h4>
 <ul>
+<li>latest two years from 2017</li>
 <li>
-<p>latest two years from 2017</p>
-<ul>
-<li>check the review number 10W+</li>
-</ul>
+<p>check the review number 10W+</p>
 </li>
 <li>
 <p>the size of the model</p>
 </li>
 <li>
 <p>dell user review data</p>
-<ul>
-<li>config, reviews</li>
-</ul>
 </li>
+<li>config, reviews</li>
 </ul>
 <h4>2018-06-01</h4>
 <ul>
-<li>query=attributes traing using MLP
-<ul>
-<li>softmax</li>
-<li>sigmoid for the binary classification</li>
+<li>query=attributes traing using MLP  <ul>
+<li>softmax  </li>
+<li>sigmoid for the binary classification </li>
 </ul>
 </li>
 </ul>
 <h4>2018-05-31</h4>
 <ul>
 <li>
-<p>read the paper - &quot;predicting latent structured intents from shopping queries&quot;  - MLP</p>
+<p>read the paper - "predicting latent structured intents from shopping queries"  - MLP</p>
 <ul>
 <li>RNN</li>
-<li>LSTM</li>
+<li>LSTM </li>
 </ul>
 </li>
 <li>
-<p>claw the review data - &quot;small&quot; subsets</p>
+<p>claw the review data - "small" subsets  </p>
 </li>
-<li>
-<p>run basic word2vec on TF</p>
-</li>
+<li>run basic word2vec on TF  </li>
 </ul>
 <h4>2018-05-30</h4>
 <ul>
-<li>word embedding
-<ul>
 <li>
-<p>data normalization</p>
+<p>word embedding</p>
 <ul>
-<li>lemmatization and word stem ?</li>
-</ul>
+<li>data normalization  </li>
+<li>
+<p>lemmatization and word stem ?  </p>
 </li>
 <li>
-<p>document vectorization</p>
-<ul>
-<li>count vectorizer and TF-IDF vectorizer</li>
-<li>word2vec &lt;- could care about the order (word context) -&gt; semantic<br />
--&gt; we get the similar vectors for the words</li>
-</ul>
+<p>document vectorization  </p>
+</li>
+<li>count vectorizer and TF-IDF vectorizer  </li>
+<li>
+<p>word2vec &lt;- could care about the order (word context) -&gt; semantic<br />
+    -&gt; we get the similar vectors for the words  </p>
 </li>
 <li></li>
 </ul>
@@ -117,11 +109,9 @@
 <li>
 <p>about tensorflow [1]:</p>
 <ul>
+<li>Setup the env about python and tensorflow</li>
 <li>
-<p>Setup the env about python and tensorflow</p>
-</li>
-<li>
-<p>now a simple tensorflow could be run in locally -&gt; see the github [4]</p>
+<p>now a simple tensorflow could be run in locally -&gt; see the github [4] </p>
 </li>
 <li>
 <p>plan (todo):</p>
@@ -135,75 +125,67 @@
 <li>
 <p>about word embedding [2][3]:</p>
 <ul>
+<li>the basic applied machine learning knowledge:  like loss functions, bag of words, features, bag of vectors </li>
 <li>
-<p>the basic applied machine learning knowledge:  like loss functions, bag of words, features, bag of vectors</p>
-<ul>
-<li>if there is something wrong, if we could know the principle/theory, we could know the reason and correct it quickly</li>
-</ul>
+<p>if there is something wrong, if we could know the principle/theory, we could know the reason and correct it quickly</p>
 </li>
 <li>
 <p>plan (todo):</p>
-<ul>
-<li>know more about ML, especially deep learning (like word embedding part) based on the reference 2 and 3</li>
-</ul>
 </li>
+<li>know more about ML, especially deep learning (like word embedding part) based on the reference 2 and 3</li>
 </ul>
 </li>
 <li>
 <p>Others</p>
-<ul>
+</li>
 <li>the github for the code</li>
 <li>the fixed meetting time</li>
-</ul>
-</li>
 </ul>
 <h4>2018-05-24</h4>
 <ul>
 <li>setup the env on python and tensorflow on mac</li>
-<li>TODO:
-<ul>
+<li>TODO: <ul>
 <li>setup the env on windows</li>
 </ul>
 </li>
 </ul>
 <h4>virtualenvwrapper -&gt; export WORKON_HOME=$HOME/.env</h4>
 <ul>
-<li>For some project</li>
-</ul>
+<li>
+<p>For some project </p>
 <blockquote>
-<p>cd dev.dplearning</p>
+<p>cd dev.dplearning  </p>
 </blockquote>
-<ul>
-<li>create an env</li>
-</ul>
+</li>
+<li>
+<p>create an env </p>
 <blockquote>
-<p>mkvirtualenv tfenv -&gt; including the Python executable files, and a copy of the pip lib</p>
+<p>mkvirtualenv tfenv -&gt; including the Python executable files, and a copy of the pip lib  </p>
 </blockquote>
-<ul>
-<li>use the env</li>
-</ul>
+</li>
+<li>
+<p>use the env</p>
 <blockquote>
 <p>workon tfenv  -&gt; using the virtual env<br />
-pip install *</p>
+pip install * </p>
 </blockquote>
-<ul>
-<li>deactivate</li>
-</ul>
+</li>
+<li>
+<p>deactivate </p>
 <blockquote>
 <p>deactivate -&gt; deactivate the env<br />
 rmvirtualenv venv</p>
 </blockquote>
+</li>
+</ul>
 <blockquote>
-<p>pip freeze &gt; requirements.txt</p>
-</blockquote>
-<blockquote>
+<p>pip freeze &gt; requirements.txt </p>
 <p>pip install -r requirements.txt</p>
 </blockquote>
 <h4>reference</h4>
 <ul>
 <li><a href="http://docs.python-guide.org/en/latest/dev/virtualenvs/#lower-level-virtualenv">Pipenv &amp; Virtual Environments</a></li>
-</ul>
-</p>
+</ul></p>
 </article>
 
 

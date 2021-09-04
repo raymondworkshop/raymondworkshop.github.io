@@ -51,7 +51,7 @@
 <p>Amdahl's Law</p>
 <ul>
 <li>The performance gain depends both on <strong>xhow much we improve this part</strong>
-and <strong>how large a fraction</strong> of the overall time this part originally required</li>
+   and <strong>how large a fraction</strong> of the overall time this part originally required</li>
 </ul>
 </li>
 </ul>
@@ -71,8 +71,7 @@ and <strong>how large a fraction</strong> of the overall time this part original
 <ul>
 <li>So systems bridge the gaps by organizing memory as a hierarchy of storage devices</li>
 <li><strong>locality - try to bridge the processor-memory gap</strong></li>
-<li>temporal locality - locate same data objects multiple time
-<ul>
+<li>temporal locality - locate same data objects multiple time<ul>
 <li>spatial locality - nearby memory location</li>
 </ul>
 </li>
@@ -81,8 +80,7 @@ and <strong>how large a fraction</strong> of the overall time this part original
 <li>
 <p>programs with good locality access most of their data from fast cache memories</p>
 <ul>
-<li>Exploiting SRAM-based cache memories
-<ul>
+<li>Exploiting SRAM-based cache memories<ul>
 <li>programs that fetch data primarily from cache memories can run much faster than ones that fetch data primarily from memory</li>
 </ul>
 </li>
@@ -140,38 +138,28 @@ At link time, the linker will <strong>copy only the object modules</strong>(symb
 <li>
 <p>control flow (a sequence of control transfer) of the processor</p>
 <ul>
-<li>control transfer - from the address a<!-- raw HTML omitted -->k<!-- raw HTML omitted --> to a<!-- raw HTML omitted -->k+1<!-- raw HTML omitted --></li>
+<li>control transfer - from the address a<sub>k</sub> to a<sub>k+1</sub></li>
 </ul>
 </li>
 <li>
 <p>Exception - a change in the processor's state (event) triggers an abrupt control tansfer (an exception)</p>
 <ul>
-<li>
-<p><strong>an abrupt change in the control flow</strong> in response to some change in the processor's state</p>
-</li>
+<li><strong>an abrupt change in the control flow</strong> in response to some change in the processor's state</li>
 <li>
 <p><strong>The change in processor's state</strong> is known as an event</p>
 </li>
 <li>
 <p>interrupt handling - occurs as a result of events in I/O device</p>
 </li>
-<li>
-<p>traps handling - a procedure-like interface between user programs and the kernel known as a system call</p>
-</li>
-<li>
-<p>fault handling - result from error conditions</p>
-</li>
-<li>
-<p>abort handling</p>
-</li>
+<li>traps handling - a procedure-like interface between user programs and the kernel known as a system call</li>
+<li>fault handling - result from error conditions</li>
+<li>abort handling</li>
 </ul>
 </li>
 <li>
 <p>process - take turns using the processor</p>
 <ul>
-<li>
-<p>an independent logical control flow</p>
-</li>
+<li>an independent logical control flow</li>
 <li>
 <p>a private address space</p>
 </li>
@@ -179,35 +167,33 @@ At link time, the linker will <strong>copy only the object modules</strong>(symb
 <p>concurrent flows - a logical flow whose execution overlaps in time with another</p>
 </li>
 <li>
-<p>The fork function runs the same program (a collection of code and data) in a new child process that is a duplicate of the parent.  The execve function loads and runs a new program in the context of the current process. ?</p>
+<p>The fork function runs the same program (a collection of code and data) in a new child process that is a duplicate of the parent.  The execve function loads and runs a new program in the context of the current process. ? </p>
 </li>
 <li>
-<p>signals</p>
+<p>signals  </p>
 </li>
-<li>
-<p>[TODO]</p>
-</li>
+<li>[TODO] </li>
 </ul>
 </li>
 </ul>
 <h4>Virtual Memory [ch9]</h4>
 <ul>
-<li>[TODO]</li>
+<li>[TODO] </li>
 </ul>
 <h4>Network programming</h4>
 <ul>
 <li>
-<p>client-server connections &lt;- slow client</p>
+<p>client-server connections &lt;- slow client </p>
 <ul>
-<li>full-duplex</li>
+<li>full-duplex </li>
 <li>reliable</li>
 </ul>
 </li>
 <li>
-<p>concurrent Servers</p>
+<p>concurrent Servers </p>
 <ul>
-<li>based on process</li>
-<li>based on threads</li>
+<li>based on process </li>
+<li>based on threads </li>
 </ul>
 </li>
 <li>
@@ -217,10 +203,10 @@ At link time, the linker will <strong>copy only the object modules</strong>(symb
 </ul>
 </li>
 <li>
-<p><strong>Concurrent programming</strong> if they overlap in time</p>
+<p><strong>Concurrent programming</strong> if they overlap in time </p>
 <ul>
-<li>processes</li>
-<li>I/O multiplexing</li>
+<li>processes  </li>
+<li>I/O multiplexing  </li>
 <li>Threads</li>
 </ul>
 </li>
@@ -231,8 +217,7 @@ At link time, the linker will <strong>copy only the object modules</strong>(symb
 <li><a href="http://csapp.cs.cmu.edu/public/code.html">Computer Systems: A Programmer's Perspective, 2/E</a></li>
 <li><a href="http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Memory/introCache.html">Introduction to Caches</a></li>
 <li><a href="https://book.douban.com/subject/25984145/">Operating Systems:Principles and Practice</a></li>
-</ul>
-</p>
+</ul></p>
 </article>
 
 

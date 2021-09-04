@@ -38,60 +38,76 @@ key is larger than all keys in its left subtree, and smaller than all
 keys in its right subtree.</p>
 <p>A Node is comprised of four fields: a key and a value; a reference to
 the left (smaller keys) and right subtree (larger keys).</p>
-<!-- raw HTML omitted -->
-<pre><code>    private Key key;   
-    private Value val;
-    private Node left;  // the left link points to a BST for items with smaller keys
-    private Node right;  // the right link points to a BST for items with larger keys
+<div class="codehilite"><pre><code>
+:::java
+private class Node {
 
-    public Node (Key key, Value val){
-       this.key = key;
-       this.val = val;
-    }
-</code></pre>
-<p>}
-<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
-<p>####The Implementation:</p>
+        private Key key;   
+        private Value val;
+        private Node left;  // the left link points to a BST for items with smaller keys
+        private Node right;  // the right link points to a BST for items with larger keys
+
+        public Node (Key key, Value val){
+           this.key = key;
+           this.val = val;
+        }
+
+ }
+</code></pre></div>
+
+<h4>The Implementation:</h4>
 <p>The search use the recursive algorithm to search for a key, the function get()</p>
-<!-- raw HTML omitted -->
-<pre><code>return get(root, key);  //starting with the root of the tree
-</code></pre>
-<p>}</p>
-<p>private Value get(Node x, Key key){</p>
-<pre><code>if(x == null) return null;
+<div class="codehilite"><pre><code>
+:::java
+public void get (Key key){
 
-int cmp = key.compareTo(x.key);
-if(cmp &lt; 0)
-    return get(x.left, key);
-else if (cmp &gt; 0)
-    return get(x.right, key);
-else
-    return x.val;
-</code></pre>
-<p>}
-<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+    return get(root, key);  //starting with the root of the tree
+
+}
+
+private Value get(Node x, Key key){
+
+    if(x == null) return null;
+
+    int cmp = key.compareTo(x.key);
+    if(cmp < 0)
+        return get(x.left, key);
+    else if (cmp > 0)
+        return get(x.right, key);
+    else
+        return x.val;
+
+}
+</code></pre></div>
+
 <p>The insert put key-value pair into BST, if key already exists, update
 with new value, the function put()</p>
-<!-- raw HTML omitted -->
-<pre><code>put(root, key, val);
-</code></pre>
-<p>}</p>
-<p>private Node put(Node x, Key key, Value val){</p>
-<pre><code>if (x == null)
-    return new Node(key, val);
+<div class="codehilite"><pre><code>
+:::java
+public void put(Key key, Value val){
 
-int cmp = key.compareTo(x.key);
-if(cmp &lt; 0)
-    x.left = put(x.left, key, val); //x.left is null, after new Node, put this ref to the new node into x.left
-if(cmp &gt; 0)
-    x.right = put(x.right, key, val);
-else
-    x.val = val;
+    put(root, key, val);
 
-return x;
-</code></pre>
-<p>}
-<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+}
+
+private Node put(Node x, Key key, Value val){
+
+    if (x == null)
+        return new Node(key, val);
+
+    int cmp = key.compareTo(x.key);
+    if(cmp < 0)
+        x.left = put(x.left, key, val); //x.left is null, after new Node, put this ref to the new node into x.left
+    if(cmp > 0)
+        x.right = put(x.right, key, val);
+    else
+        x.val = val;
+
+    return x;
+
+}
+</code></pre></div>
+
 <h4>Performance Analysis:</h4>
 <p>The running times depend on the shapes of the trees, which depends on the <strong>order in which the
 keys come in (insert)</strong>.  (If the key is inserted in natural order, this is no difference from
@@ -110,13 +126,9 @@ natural orders (the worst tree shape), that the time could be proportional to ~N
 <h4>Searching Algorithm - red-black BST</h4>
 <h4>Searching Algorithm - hash table</h4>
 <ul>
-<li>References:
-<ul>
+<li>References:</li>
 <li><a href="http://algs4.cs.princeton.edu/32bst/">Binary Search Trees</a></li>
-</ul>
-</li>
-</ul>
-</p>
+</ul></p>
 </article>
 
 

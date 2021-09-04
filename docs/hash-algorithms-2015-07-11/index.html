@@ -29,7 +29,7 @@
         <h1><strong>Hash Algorithms</strong></h1>
     </header>
     <p class="body"><blockquote>
-<p>An introduction of Hash function</p>
+<p>An introduction of Hash function </p>
 </blockquote>
 <h4>Introduction</h4>
 <ul>
@@ -70,9 +70,9 @@ a dictionary query in O(1) expected time.</p>
 </li>
 <li>
 <p>uniform hashing assumption: assume that any given element in U is equally likely to hash into
-any of the m slots, independently of where any other element has hashed to .</p>
+  any of the m slots, independently of where any other element has hashed to .</p>
 <ul>
-<li>For any diff integers k<!-- raw HTML omitted -->1<!-- raw HTML omitted --> and k<!-- raw HTML omitted -->2<!-- raw HTML omitted -->, Pr(h(k<!-- raw HTML omitted -->1<!-- raw HTML omitted -->)=h(k<!-- raw HTML omitted -->2<!-- raw HTML omitted -->)) &lt;= 1/m</li>
+<li>For any diff integers k<sub>1</sub> and k<sub>2</sub>, Pr(h(k<sub>1</sub>)=h(k<sub>2</sub>)) &lt;= 1/m</li>
 </ul>
 </li>
 </ul>
@@ -82,13 +82,12 @@ any of the m slots, independently of where any other element has hashed to .</p>
 <ul>
 <li>deterministic: equal keys produce the same hash value</li>
 <li>efficient to compute</li>
-<li>uniformly distribute the keys among the integer values [0, m-1]
-<ul>
+<li>uniformly distribute the keys among the integer values [0, m-1]<ul>
 <li>each key is equally likely to be hashed to one of m indices</li>
 <li>The reason for this requirement is that the cost of hashing-based methods goes up sharply
-as the number of collisions-pairs of inputs that are mapped to the same hash value- increases.
-If some hash values are more likely to occur than others, a larger fraction of the lookup
-operations will have to search through a larger set of colliding table entries. [2]</li>
+  as the number of collisions-pairs of inputs that are mapped to the same hash value- increases.
+  If some hash values are more likely to occur than others, a larger fraction of the lookup
+  operations will have to search through a larger set of colliding table entries. [2]</li>
 <li>[Note]: the random is uniform</li>
 </ul>
 </li>
@@ -102,12 +101,12 @@ operations will have to search through a larger set of colliding table entries. 
 </li>
 <li>
 <p>if we know that the keys are random real numbers k
-independently and uniformly distributed in the range 0 &lt;= k &lt; 1
-then, the hash function: h(k) = floor(k<!-- raw HTML omitted -->m<!-- raw HTML omitted -->)</p>
+    independently and uniformly distributed in the range 0 &lt;= k &lt; 1
+    then, the hash function: h(k) = floor(k<sub>m</sub>)</p>
 </li>
 <li>
 <p>the division method can give good results, assumimg that a prime
-number k that is unrelated to any patterns in the distribution of keys .</p>
+  number k that is unrelated to any patterns in the distribution of keys .</p>
 </li>
 </ul>
 </li>
@@ -157,8 +156,8 @@ the empty entries in the hash table, which mark the ends of probe sequences</p>
 <p>choosing a good capacity m</p>
 <ul>
 <li>We can choose the table size m to be sufficiently small that we do not waste a huge area of
-contiguous memory with empty chains but sufficiently large that we donot waste time searching through
-long chains.</li>
+  contiguous memory with empty chains but sufficiently large that we donot waste time searching through
+  long chains.</li>
 </ul>
 </li>
 <li>
@@ -173,19 +172,18 @@ long chains.</li>
 <ul>
 <li>you cannot easily read things out in a sorted order, assuming these was such an order</li>
 <li>you can't really get a good hash function that be can computed quickly, so they're usally
-bad for small dictionaries</li>
+  bad for small dictionaries</li>
 <li>resizing is very expensive, and probably can't be used in most real-time systems</li>
 </ul>
 </li>
 </ul>
 <h4>reference</h4>
 <ul>
-<li>Juraj Hromkovic - ch3 &quot;Design and Analysis of Randomized Algorithms&quot;</li>
-<li>Robert Sedgewick and Kevin Wayne - ch3.4, &quot;Algorithms&quot;</li>
+<li>Juraj Hromkovic - ch3 "Design and Analysis of Randomized Algorithms"</li>
+<li>Robert Sedgewick and Kevin Wayne - ch3.4, "Algorithms"</li>
 <li><a href="http://cs.lmu.edu/~ray/notes/hashtables/">hashtable</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Hash_function">hash function</a></li>
-</ul>
-</p>
+</ul></p>
 </article>
 
 

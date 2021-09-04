@@ -29,7 +29,7 @@
         <h1><strong>Notes on Python, and typescript programming</strong></h1>
     </header>
     <p class="body"><blockquote>
-<p>Notes on Python, and typescript programming</p>
+<p>Notes on Python, and typescript programming   </p>
 </blockquote>
 <h4>Python Data Model -&gt; A Framework/API for core language constructs</h4>
 <p>Python interpreter invokes special methods to perform basic object operations.</p>
@@ -39,33 +39,25 @@
 <li>
 <p>sequences - Python sequences are often categorized as <strong>mutalbe or immutable</strong>, and also could be considered as <strong>flat sequences and container sequences</strong>.</p>
 <ul>
-<li>
-<p>container sequences -&gt; hold <strong>references</strong> to the objects</p>
-</li>
-<li>
-<p>flat sequences (like str, bytes) -&gt; more compact because of the physically store the value</p>
-</li>
+<li>container sequences -&gt; hold <strong>references</strong> to the objects</li>
+<li>flat sequences (like str, bytes) -&gt; more compact because of the physically store the value</li>
 <li></li>
+<li><strong>list</strong> -&gt; mutable and mixed-type</li>
 <li>
-<p><strong>list</strong> -&gt; mutable and mixed-type</p>
-<ul>
-<li>list comprehensions and generator expression</li>
-</ul>
+<p>list comprehensions and generator expression</p>
 </li>
 <li>
 <p><strong>tuples</strong> -&gt; immutable lists</p>
-<ul>
+</li>
 <li>tuples can hold records</li>
-<li>tuple unpacking -&gt; parallel assignment</li>
-</ul>
+<li>
+<p>tuple unpacking -&gt; parallel assignment</p>
 </li>
 <li>
 <p>array -&gt; efficient because of only <strong>the packed bytes for numeric data</strong></p>
-<ul>
+</li>
 <li>for large sequences of numbers, this saves a lot of memory</li>
 <li>NumPy lib</li>
-</ul>
-</li>
 </ul>
 </li>
 <li>
@@ -82,7 +74,7 @@
 <h5>Functions as objects</h5>
 <ul>
 <li>
-<p>Functions, like integers, strings, and dictionaries, also can be a <strong>program entity</strong>, this enables programming in a <strong>functional style</strong>.</p>
+<p>Functions, like integers, strings, and dictionaries, also can be a <strong>program entity</strong>, this enables programming in a <strong>functional style</strong>. </p>
 <ul>
 <li>The main ideas are that we can assign functions to variables, pass them to other functions, store them in data structures and access function attributes.</li>
 </ul>
@@ -94,16 +86,12 @@
 <h5>Object Oriented</h5>
 <h5>Control flow</h5>
 <ul>
-<li>Generators - declare a function that behaves like an iterator
-<ul>
-<li>yield -&gt; return the generator object
-<ul>
-<li>yield pauses the function and saves the local state so that it can be resumed right where it left off</li>
+<li>Generators - declare a function that behaves like an iterator <ul>
+<li>yield -&gt; return the generator object </li>
+<li>yield pauses the function and saves the local state so that it can be resumed right where it left off </li>
 </ul>
 </li>
-</ul>
-</li>
-<li>Concurrency</li>
+<li>Concurrency </li>
 </ul>
 <h5>Metaprogramming</h5>
 <ul>
@@ -112,36 +100,33 @@
 <h4>typescript</h4>
 <h4>Notes</h4>
 <ul>
+<li>Reload modules problem in Emacs Python Shell</li>
+<li>use importlib to reload(models) </li>
 <li>
-<p>Reload modules problem in Emacs Python Shell</p>
-<ul>
-<li>use importlib to reload(models)</li>
-<li>or use ipython and  %autoreload</li>
-</ul>
+<p>or use ipython and  %autoreload</p>
 </li>
 <li>
 <p>virtualenvs setup for python3 -&gt; pipenv</p>
-<ul>
+</li>
 <li>New a project: &gt;pipenv --python 3.6</li>
 <li>Install all dependencies:  &gt;pipenv install</li>
 <li>Locate the virtualenv: &gt;pipenv --venv</li>
 <li>Use the shell: &gt;pipenv shell</li>
-<li>Uninstall everything:  &gt;pipenv uninstall --all</li>
-</ul>
+<li>
+<p>Uninstall everything:  &gt;pipenv uninstall --all</p>
 </li>
 <li>
-<p><!-- raw HTML omitted -->Your environment contains PYTHONPATH=/usr/local/lib/python2.7/site-packages
-This doesn't work with Python 3 for obvious reasons. To remove it:  unset PYTHONPATH</p>
+<p><del>Your environment contains PYTHONPATH=/usr/local/lib/python2.7/site-packages
+This doesn't work with Python 3 for obvious reasons. To remove it:  unset PYTHONPATH 
+</del></p>
 </li>
 </ul>
-<!-- raw HTML omitted -->
 <h4>reference</h4>
 <ul>
 <li>Fluent python</li>
-<li><!-- raw HTML omitted --><a href="https://web.stanford.edu/class/cs140e/">win2018- CS140e Operating Systems</a><!-- raw HTML omitted --></li>
-<li><!-- raw HTML omitted --><a href="https://os.phil-opp.com/">Writing an OS in Rust (Second Edition)</a><!-- raw HTML omitted --></li>
-</ul>
-</p>
+<li><del><a href="https://web.stanford.edu/class/cs140e/">win2018- CS140e Operating Systems</a></del></li>
+<li><del><a href="https://os.phil-opp.com/">Writing an OS in Rust (Second Edition)</a></del></li>
+</ul></p>
 </article>
 
 
