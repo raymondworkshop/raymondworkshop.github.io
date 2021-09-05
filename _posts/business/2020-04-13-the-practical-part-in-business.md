@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keep my business from the practical part  "
+title: "The practical part in business"
 date: 2020-04-13
 comments: true
 categories: [notes, learning, business, ideas, important, management]

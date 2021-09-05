@@ -1,5 +1,5 @@
 ---
-title: "My Business"
+title: "About Entrepreneur"
 date: 2021-06-09
 tags: [learning, business]
 abstract: "Improve my mindset and knowledge on business"
@@ -7,7 +7,7 @@ abstract: "Improve my mindset and knowledge on business"
 
 #### notes 
 
-##### **make one friend** 
+#### **make one friend** 
 * nurturing a relationship with one person  
   - don't view the friendships as a barter trade  
   - find a person **who you can learn from or who you appreciate truly**
@@ -15,7 +15,7 @@ abstract: "Improve my mindset and knowledge on business"
   - be a giver  
 
 
-##### have time to think  
+#### have time to think  
 * free yourself from the day activities as much as possible  
   - put them on autopilot  
   - **Missing the big picture** is a big sin in your business    
@@ -23,12 +23,12 @@ abstract: "Improve my mindset and knowledge on business"
 
  
 
-##### **greet first**  
+#### **greet first**  
 * greet firstly before they did  
   - you always count on **good manners** to save a deal  
 
 
-##### how to hire the smart one  
+#### how to hire the smart one  
 * work with them before you hire them  
   - a domain advisor for a short period  
   - so you can know how they work with your team,
@@ -36,7 +36,7 @@ abstract: "Improve my mindset and knowledge on business"
 
  
 
-##### bring in **positivity** 
+#### bring in **positivity** 
 * enter with a smile and with people 
 
 * people draw energy from u 
