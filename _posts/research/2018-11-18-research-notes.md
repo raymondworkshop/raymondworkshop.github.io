@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "[Updating] !note on creativity and research"
+title: "[Updating] !notes on creativity and research"
 date: 2018-11-18
 comments: true
-categories: [learning, note, research]
-abstract: "[Updating] !note on creativity and research"
+categories: [learning, notes, research]
+abstract: "[Updating] !notes on creativity and research"
 ---
-#### note on research
+#### notes on research
   *  research
     - 训练和考察他们检索寻求信息的能力、基于充分的信息进行推理判断的能力
     - 试图寻找史料，尽可能阅读多方观点，搭建自己的推理论证框架来得出独立结论
 
-#### note on **problem-solving** skills
+#### notes on **problem-solving** skills
   * 建立自己做事的方法论
     - TODO
     - 以目前的知识能力, 建立一个方法系统, 试图解决一类问题
@@ -43,21 +43,21 @@ abstract: "[Updating] !note on creativity and research"
     - **“如果... ,你会怎么做？”**
 
 
-#### note on critical thinking
+#### notes on critical thinking
    * "批判性" 是指思辨式的评判，多是建设性的
    * 理性分析，精确求证
    * 批判性思维除了要求**在逻辑上、统计上**不犯错误之外，更重要的是要**想别人没有想过的问题，问别人没有问过的问题**  ，并且要刨根问底，探究深层次、根本性的原因
    
 
-#### note on ideas
+#### notes on ideas
 
    * 相关性不等于因果性
      + 但是现在的大部分研究都是在论证相关性的，通过**研究相关性来寻找其背后的机制，这是是推导出因果的基础**,要直接论证因果性难度实在是太高，而且确定性的推论本来也不符合科学的要求。所以大家以后不要看到一篇研究相关性的论文就说它不科学
 
-#### Notes on taste
+#### notes on taste
    * 如何提升研究品味，判断哪些工作是重要的，哪些不重要，可能是困扰我们这些年轻研究人员的一个重要问题。我在清华读硕士的时候，导师应明生教授推荐过一个方法，读科学史 -- 看ACM网站上对图灵奖工作的介绍，看google scholar里引用次数很多的文章有什么样的特点 -- 受益很多。
 
-#### Notes on research - creative, thoughtful original engineering research
+#### notes on research - creative, thoughtful original engineering research
    * How to come up with research ideas:
     - 1) Find an existing research area you're interested in
     - 2) **Find a paper in the area, check out the research they cite/cite them**

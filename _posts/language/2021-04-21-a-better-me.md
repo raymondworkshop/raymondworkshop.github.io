@@ -6,6 +6,7 @@ comments: true
 categories: [learning, self]
 abstract: "!![Updating] A better me - to be great man"
 ---
+
 ### Goal -> be a **Great** man
   * **focus on yourself firstly** and stop worrying about tomorrow
     - **Health**

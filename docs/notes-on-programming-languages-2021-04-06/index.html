@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<!--
+<meta http-equiv="content-language” content=”en, zh”>
+-->
+<title>  - Raymond ZHAO WENLONG</title>
+<link rel=" stylesheet" href="/static/style.css">
+<link rel="stylesheet" href="/static/pygments.css">
+<nav>
+    <h1><small><a href="/index.html">Raymond ZHAO WENLONG</a></small></h1>
+    <ul>
+        <li><a href="/index.html"> Blog </a>
+        <li><a href="/slides.html"> Slides </a>
+        <li><a href="/bookshelf.html"> Bookshelf </a>
+        <li><a href="/about.html"> About </a>
+    </ul>
+</nav>
+
+<section class="content">
+    <!--
+    <header>
+        
+<title> notes on programming languages</title>
+
+      </header>
+      -->
+    
+<article class="post">
+    <header>
+        <h1><strong>notes on programming languages</strong></h1>
+    </header>
+    <p class="body"><h4><strong>scheme</strong></h4>
+<p>TODO</p>
+<h4>Standard ML</h4>
+<ul>
+<li>
+<p>functional programming</p>
+</li>
+<li>
+<p>sml-ch1</p>
+<ul>
+<li>syntax is how you write sth</li>
+<li><strong>semantics</strong> is what that something means</li>
+<li>
+<p><strong>Type-checking</strong> rules (before program runs) in current static environment</p>
+<ul>
+<li>what type a binding has</li>
+<li>produces a type or fail</li>
+</ul>
+</li>
+<li>
+<p><strong>Evaluating</strong> the bindings (in the dynamic environment)</p>
+<ul>
+<li>a value or an error or an infinite loop of the preceding bindings</li>
+<li>look up value in current dynamic environment</li>
+</ul>
+</li>
+<li>
+<p><strong>idioms</strong> are the common approaches to using langguage features</p>
+</li>
+<li>Recursion</li>
+<li>
+<p>Let -&gt; local binding</p>
+</li>
+<li>
+<p>libraries</p>
+</li>
+<li>
+<p>standard</p>
+</li>
+<li>
+<p>tools</p>
+</li>
+<li>REPL  -&gt; quick try-something-out</li>
+<li>
+<p>debugger</p>
+</li>
+<li>
+<p><strong>immutation data</strong></p>
+</li>
+<li><strong>it is just a mapping, not assignment statement</strong>, a tuple, or a list</li>
+<li>No constructs for mutating the data we have build. No way to change the contents of a binding, a tuple,or a list</li>
+<li>don't worry about the alias or copy like in java</li>
+<li>or, like java, you have to care whether alias or copy, and in order to avoid the mutable data is been changed</li>
+</ul>
+</li>
+<li>
+<p>sml-ch2</p>
+<ul>
+<li>
+<p>tuples are syntactic sugar for records with field names 1, 2, ...</p>
+</li>
+<li>
+<p>type synonyms -&gt; a convenience for talking about types</p>
+</li>
+<li>datatypes bindings</li>
+<li>patter-matching over one-of types</li>
+<li>
+<p>better to use pattern-matching to access list and option</p>
+</li>
+<li>
+<p>patter matching over <strong>each-of types</strong></p>
+</li>
+<li>value binding -&gt; a val-binding <strong>can use a pattern</strong>, not just a variable</li>
+<li>
+<p>function binding</p>
+<ul>
+<li>in ML, every function takes <strong>exactly one tuple arg</strong>, implemented with a tuple pattern in the function binding</li>
+<li>a <strong>function argument</strong> can also be a pattern</li>
+</ul>
+</li>
+<li>
+<p>Type-checker can <strong>figure out the types of things you're matching against</strong>,
+  no longer need to write down any explicit types for the arguments to functions or any variables</p>
+</li>
+<li>
+<p>type inference</p>
+<ul>
+<li><strong>more general</strong> can replace its type variables consistently</li>
+</ul>
+</li>
+<li>
+<p>nested pattern-matching</p>
+</li>
+<li>
+<p>elegantly recursive</p>
+</li>
+<li>
+<p><strong>Recursion</strong></p>
+</li>
+<li><strong>tail-recursive</strong> -&gt; recursive calls are tail-calls</li>
+<li>call-stacks -&gt; pop the caller before the call, allowing callee to reuse the same stack space</li>
+</ul>
+</li>
+<li>
+<p>sml-ch3</p>
+<ul>
+<li>first-class functions</li>
+<li>TODO</li>
+</ul>
+</li>
+</ul>
+<h4>reference</h4>
+<ul>
+<li><a href="https://book.douban.com/subject/1456904/">Lisp in Small Pieces</a></li>
+</ul></p>
+</article>
+
+
+
+
+</section>
+
+
+<div class="footer">
+    <ul>
+        <small>&copy; 2021 zhaowenlong</small>
+    </ul>
+</div>

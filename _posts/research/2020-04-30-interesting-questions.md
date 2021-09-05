@@ -9,7 +9,6 @@ abstract: 'List Some Interesting Questions'
 
 #### ideas 
  * podcast + iot device  
-   - 
 
 
 ### about beauty  

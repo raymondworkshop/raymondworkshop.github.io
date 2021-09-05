@@ -3,7 +3,7 @@ layout: post
 title: "notes on business english"
 date: 2020-06-08
 comments: true
-categories: [note, language, learning]
+categories: [notes, language, learning]
 abstract: "notes on business english"
 ---
 

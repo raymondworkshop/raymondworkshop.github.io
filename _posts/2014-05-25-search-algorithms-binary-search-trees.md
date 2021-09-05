@@ -7,6 +7,7 @@ categories: [home, algorithms]
 abstract: "Binary search trees (BST) combines the flexibility of insertion in a
 linked list with the efficiency of search in an ordered array."
 ---
+
 #### Searching Algorithm - BST 
 
 Binary search trees (BST) combines the flexibility of insertion in a

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes on Insurance"
+title: "notes on Insurance"
 date: 2021-02-23
 comments: true
 categories: [learning, insurance, invest]

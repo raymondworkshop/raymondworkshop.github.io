@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "on empiricism"
+title: "About empiricism"
 date: 2020-08-26
 comments: true
 categories: [learning, idea, important, todo]

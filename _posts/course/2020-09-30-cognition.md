@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "note on 認知訓練營"
+title: "notes on 認知訓練營"
 date: 2020-09-30
 comments: true
 categories: [learning, course]
-abstract: "note on 認知訓練營"
+abstract: "notes on 認知訓練營"
 ---
 
 ##### reference

@@ -5,6 +5,7 @@ date: 2020-01-03
 comments: true
 categories: [softskill, self]
 ---
+
 #### self-confidence  
 * practice  
 * get away from people to take you down  

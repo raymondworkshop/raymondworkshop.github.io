@@ -1,11 +1,11 @@
 ---
-title: "On Business"
+title: "My Business"
 date: 2021-06-09
-tags: learning, business
+tags: [learning, business]
 abstract: "Improve my mindset and knowledge on business"
 ---
 
-#### note  
+#### notes 
 
 ##### **make one friend** 
 * nurturing a relationship with one person  

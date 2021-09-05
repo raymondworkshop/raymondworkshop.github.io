@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "note on Philosophy"
+title: "notes on Philosophy"
 date: 2021-02-20
 comments: true
 categories: [learning, philosophy]
-abstract: "note on Philosophy"
+abstract: "notes on Philosophy"
 ---
 
 #### the good life  

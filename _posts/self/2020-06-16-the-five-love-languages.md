@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes on the five love language"
+title: "notes on the five love language"
 date: 2020-06-16
 comments: true
 categories: [notes, important, softskill, love, self]

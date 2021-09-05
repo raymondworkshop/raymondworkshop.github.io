@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes on public speaking"
+title: "notes on public speaking"
 date: 2021-02-24
 comments: true
 categories: [learning, publicspeaking, todo]
