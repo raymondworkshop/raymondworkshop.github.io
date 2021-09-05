@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes on programming language"
+title: "notes on programming language"
 date: 2021-04-06
 comments: true
 categories: [programming]
