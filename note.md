@@ -12,12 +12,14 @@
     - show tags 
         + use subdir to replace tag
 
-    - cannot deal with chinese 
-        + ?
+    - cannot deal with chinese - DONE  
+        + the HTML coding 
+        + <meta charset="utf-8">  
 
-    - check the code & math highlight function  
+    - check the code & math highlight function  - DONE 
         + use Pygments highlight function 
-        + TODO - USE MKDocs pkg  
+        + ~~TODO - USE MKDocs pkg~~ 
+        + use the original code : style.py, highlighting.py  
 
     - check more nox pkg  
     

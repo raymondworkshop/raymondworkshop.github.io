@@ -30,9 +30,10 @@ date: 2012-03-19
 
 * [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen (8/10) 
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (9/10) 
-
+* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec 
+* [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 
-* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec
+
 * [500 Lines or Less](http://aosabook.org/en/index.html)
 
 * [How to Solve it](https://book.douban.com/subject/1456890/) by G. Polya 

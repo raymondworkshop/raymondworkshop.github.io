@@ -17,8 +17,7 @@ jinja_env = jinja2.Environment(
     loader=jinja2.FileSystemLoader("templates"),
 )
 
-# the dir to put the src files
-SRCS = "./_posts"
+
 # TODO: Only support "*.md" now
 # types = ["*.md", "*.markdown"]
 
@@ -136,6 +135,8 @@ def write_docs(root: str):
         posts = write_posts(subdir)
         write_index(posts, subdir)
 
+# the dir to put the src files
+SRCS = "./_posts"
 
 def main():
     # doc = pathlib.Path("_posts/hello.md")
