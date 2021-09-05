@@ -4,7 +4,7 @@ title: "notes on programming language"
 date: 2021-04-06
 comments: true
 categories: [programming]
-abstract: "[Updating] Notes on the core ideas programming languages"
+abstract: "[Updating] notes on the core ideas programming languages"
 ---
 
 #### **scheme** 

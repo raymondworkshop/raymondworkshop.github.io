@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Notes on Python, and typescript programming"
+title: "notes on Python, and typescript programming"
 date: 2018-01-16 
 comments: true
 categories: [programming]
-abstract: "Notes on Python, and typescript programming"
+abstract: "notes on Python, and typescript programming"
 ---
 
->Notes on Python, and typescript programming   
+>notes on Python, and typescript programming   
 
 
 

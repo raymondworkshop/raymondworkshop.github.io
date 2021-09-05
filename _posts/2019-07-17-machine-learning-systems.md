@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Notes on building machine learning systems " 
+title: "notes on building machine learning systems " 
 date: 2019-07-16
 comments: true
 categories: [home, machinelearning, system]
-abstract: "Notes on machine learning systems"
+abstract: "notes on machine learning systems"
 ---
 #### digging for requirements 
 
