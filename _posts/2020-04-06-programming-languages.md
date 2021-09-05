@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "notes on programming language"
+title: "note on programming language"
 date: 2021-04-06
 comments: true
 categories: [programming]
-abstract: "[Updating] notes on the core ideas programming languages"
+abstract: "[Updating] note on the core ideas programming languages"
 ---
 
 #### **scheme** 

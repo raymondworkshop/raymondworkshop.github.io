@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Soft Skills - communications"
+title: "softskill - communications"
 date: 2017-12-20
 comments: true
 categories: [softskill, communication]
 abstract: "关于沟通"
 ---
+
 #### self    
-  *  
+   
 
 #### small talk  - try to find common interest  
   * why? 

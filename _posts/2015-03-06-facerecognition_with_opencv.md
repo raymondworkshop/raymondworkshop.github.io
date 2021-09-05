@@ -6,6 +6,7 @@ comments: true
 categories: [home,algorithms, computervision]
 abstract: "Summary about Face Recognition with OpenCV"
 ---
+
 #### Some ideas and approachments
 
 #### geometric feature

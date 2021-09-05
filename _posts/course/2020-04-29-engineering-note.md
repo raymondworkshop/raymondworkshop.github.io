@@ -53,14 +53,14 @@ categories: [learning, engineering, course]
       + prepare **a written estimate** by **decomposing** the task into progressively smaller subtasks (less than a day)
       + **make this visible** to the manager
       + try to have the people to estimate, and have **team-wide consensus on estimate**
-      +
+      
 
   * Understand the user
     - figure out **what people really want**
     - spend more time with users, **understand them**
       + **propose** it to user
       + **test your ideas** against them as much as you can
-      +
+      
 
   * Gather support for a project
     - a prototype

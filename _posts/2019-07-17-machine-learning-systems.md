@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "notes on building machine learning systems " 
+title: "note on building machine learning systems " 
 date: 2019-07-16
 comments: true
 categories: [home, machinelearning, system]
-abstract: "notes on machine learning systems"
+abstract: "note on machine learning systems"
 ---
+
 #### digging for requirements 
 
 * what exactly is the business objective?  

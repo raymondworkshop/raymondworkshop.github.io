@@ -3,7 +3,7 @@ layout: post
 title: My Daily thoughts
 date: 2017-06-26
 comments: true
-categories: summary, self
+categories: [summary, self]
 published: true
 ---
 

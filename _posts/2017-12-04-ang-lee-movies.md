@@ -4,10 +4,10 @@ title: "十年一覺電影夢"
 date: 2017-12-04
 comments: true
 categories: [home,  writing]
-abstract: "Notes on 《十年一覺電影夢》from 李安 (Ang Lee) "
+abstract: "note on 《十年一覺電影夢》from 李安 (Ang Lee) "
 ---
 
-> <small>Notes on 《十年一覺電影夢》from 李安 (Ang Lee) </small>
+> <small>note on 《十年一覺電影夢》from 李安 (Ang Lee) </small>
 
 #### 快乐的童年  
 这是老式日本教育的方式， **打你才尽责，爱你才管你**。  

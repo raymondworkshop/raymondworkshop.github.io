@@ -3,7 +3,7 @@ layout: post
 title: "Search Algorithms: Binary Search"
 date: 2014-05-11
 comments: true
-categories: [home,algorithms]
+categories: [home, algorithms]
 abstract: "A symbol table is a data structure for key-value pairs. Binary search in an ordered array can implement the symbol table API. "
 ---
 

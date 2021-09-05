@@ -3,7 +3,7 @@ layout: post
 title: 江城
 date: 2014-12-14
 comments: true
-categories: [notes]
+categories: [note]
 abstract: '总结自 彼得·海斯勒的<a href="http://book.douban.com/subject/7060185/">[江城(River Town)]</a>'
 ---
 

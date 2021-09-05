@@ -6,7 +6,7 @@ comments: true
 categories: [learning, insight, course]
 ---
 
-### notes
+### note 
 
 
 

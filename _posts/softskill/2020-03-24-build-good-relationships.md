@@ -5,6 +5,7 @@ date: 2020-03-24
 comments: true
 categories: [softskill, learning, summary, relationship]
 ---
+
 #### Mentors  
 
   * Pick out **the best qualities and attributes** of an individual and incorporating those things into your style and life   

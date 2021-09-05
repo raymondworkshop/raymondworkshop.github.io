@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "[Updating] !Notes on creativity and research"
+title: "[Updating] !note on creativity and research"
 date: 2018-11-18
 comments: true
-categories: [learning, notes, research]
-abstract: "[Updating] !Notes on creativity and research"
+categories: [learning, note, research]
+abstract: "[Updating] !note on creativity and research"
 ---
-#### Notes on research
+#### note on research
   *  research
     - 训练和考察他们检索寻求信息的能力、基于充分的信息进行推理判断的能力
     - 试图寻找史料，尽可能阅读多方观点，搭建自己的推理论证框架来得出独立结论
 
-#### Notes on **problem-solving** skills
+#### note on **problem-solving** skills
   * 建立自己做事的方法论
     - TODO
     - 以目前的知识能力, 建立一个方法系统, 试图解决一类问题
@@ -43,13 +43,13 @@ abstract: "[Updating] !Notes on creativity and research"
     - **“如果... ,你会怎么做？”**
 
 
-#### Notes on critical thinking
+#### note on critical thinking
    * "批判性" 是指思辨式的评判，多是建设性的
    * 理性分析，精确求证
    * 批判性思维除了要求**在逻辑上、统计上**不犯错误之外，更重要的是要**想别人没有想过的问题，问别人没有问过的问题**  ，并且要刨根问底，探究深层次、根本性的原因
-   *
+   
 
-#### Notes on ideas
+#### note on ideas
 
    * 相关性不等于因果性
      + 但是现在的大部分研究都是在论证相关性的，通过**研究相关性来寻找其背后的机制，这是是推导出因果的基础**,要直接论证因果性难度实在是太高，而且确定性的推论本来也不符合科学的要求。所以大家以后不要看到一篇研究相关性的论文就说它不科学
@@ -62,8 +62,7 @@ abstract: "[Updating] !Notes on creativity and research"
     - 1) Find an existing research area you're interested in
     - 2) **Find a paper in the area, check out the research they cite/cite them**
     - 3) Keep reading until you have a Q: **"What would happen if I tried X?"**
-    - 4) Try X
-    -
+    - 4) Try X  
 
 
    * idea
@@ -129,7 +128,7 @@ abstract: "[Updating] !Notes on creativity and research"
     - 经典文章， 顶级刊物， 引用量大的文章， 和自己点子接近的
      => 经典/重要/相关/最新的文章
     - 一般不超过15篇，大概5篇
-    -
+    
 
 
 #### problem solving <-  确定的思路 和 确定的方法
