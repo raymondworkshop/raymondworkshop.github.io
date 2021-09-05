@@ -42,11 +42,6 @@ date: 2012-03-19
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
 
-* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard
-* [keys to drawing](https://book.douban.com/subject/1861609/) by Bert Dodson  
-* [透视如此简单](https://book.douban.com/subject/26436490/) by Ernest Hemingway 
-* [一本摄影书](https://book.douban.com/subject/10426611/) by 赵嘉  
-
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.
 * [A Little History of Philosophy](https://book.douban.com/subject/6812274/) by Nigel Warburton
 * [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman 

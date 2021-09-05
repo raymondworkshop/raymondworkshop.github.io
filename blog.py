@@ -26,6 +26,7 @@ _markdown = markdown.Markdown(
     extensions = [
         "tables",
         "footnotes",
+        "attr_list",
         markdown.extensions.fenced_code.FencedCodeExtension(lang_prefix="language-"),
     ]
 )
@@ -93,7 +94,7 @@ def write_post(post: frontmatter.Post, content: str):
 
 def write_pygments_style_sheet():
     css = highlighting.get_style_css(style.themeStyle)
-    pathlib.Path("./docs/pygments.css").write_text(css)
+    pathlib.Path("./docs/static/pygments.css").write_text(css)
     
 
 def write_posts(path: pathlib.Path) -> Sequence[frontmatter.Post]:
@@ -142,6 +143,7 @@ def main():
     srcs = SRCS  # by default
     target = "./docs/"
     try:
+        #TODO - CHECH THE ISSUE ON code highlighting  
         write_pygments_style_sheet()
         write_docs(srcs)
     except OSError as e:

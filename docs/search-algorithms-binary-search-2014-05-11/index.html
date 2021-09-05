@@ -1,16 +1,14 @@
 <!doctype html>
 <html lang="en">
 <title>  - Raymond ZHAO WENLONG</title>
-<link rel="stylesheet" href="/style.css">
-
+<link rel="stylesheet" href="/static/style.css">
+<link rel="stylesheet" href="/static/pygments.css">
 <nav>
     <h1><small><a href="/index.html">Raymond ZHAO WENLONG</a></small></h1>
     <ul>
         <li><a href="/index.html"> Blog </a>
         <li><a href="/slides.html"> Slides </a>
-            <!--
         <li><a href="/bookshelf.html"> Bookshelf </a>
-            -->
         <li><a href="/about.html"> About </a>
     </ul>
 </nav>
@@ -83,33 +81,29 @@
 </pre>
 <h3>Performance Analysis</h3>
 <p>The reason that we <strong>keep keys in an ordered array</strong> is so that we can use <strong>array indexing to dramatically reduce the number of compares required for each search using the known as binary search</strong> ( <strong>can auto calculate the related mid value based on array index</strong>).  </p>
-<p>Binary search in an ordered array with N keys uses no more than <strong>lgN + 1</strong> compares for a search; and Inserting a new key into an ordered array uses <strong>~2N array accesses</strong> in the worst case (<strong>e.g. move the array entirely, line 14~16</strong>), so inserting N keys into an initially empty table uses <strong>~N^2 array accesses</strong> in the worst case;</p>
+<p>Binary search in an ordered array with N keys uses no more than <strong>lgN + 1</strong> compares for a search; and Inserting a new key into an ordered array uses <strong>~2N array accesses</strong> in the worst case (<strong>e.g. move the array entirely, line 14~16</strong>), so inserting N keys into an initially empty table uses <strong>~N^2 array accesses</strong> in the worst case.  </p>
 <p>See the table,</p>
 <table>
 <thead>
-  <tr>
-     <th>Algorithm</th>
-     <th>Worst-case-search</th>
-     <th>Worst-case-insert</th>
-  </tr>
+<tr>
+<th align="center">Algorithm</th>
+<th align="center">Worst-case-search</th>
+<th align="center">Worst-case-insert</th>
+</tr>
 </thead>
-
 <tbody>
-  <tr>
-     <th>sequential search</th>
-     <th>N</th>
-     <th>N</th>
-  </tr>
-
-  <tr>
-     <th>binary search </th>
-     <th>lgN</th>
-     <th>2N</th>
-  </tr>
-
+<tr>
+<td align="center">sequential search</td>
+<td align="center">N</td>
+<td align="center">N</td>
+</tr>
+<tr>
+<td align="center">binary search</td>
+<td align="center">lgN</td>
+<td align="center">2N</td>
+</tr>
 </tbody>
 </table>
-
 <h3>In Summary</h3>
 <p>For a <strong>static table</strong> (with no insert operations allowed), it is <strong>worthwhile to initialize and sort the table</strong>.</p>
 <p>Still, binary search is infeasible for use in many other applications. For example,it fails because <strong>searches and inserts are intermixed and the table size is too large</strong> . As typical modern search clients require symbole tables that can support fast implementations of both search and insert. The means we have to devise algorithms and data structures that achieve logarithmic performance for both search and insert. To <strong>support efficient insertion</strong>, it seems that we need a <strong>linked structure</strong>. But a singly linked list forecloses the use of binary search, because <strong>the efficiency of binary search depends on the ability to get to the middle of any subarray quickly via indexing</strong>.</p>

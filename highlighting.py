@@ -7,7 +7,8 @@ import html
 import re
 
 _LANG_ALIASES  = {
-    'java' : 'java'
+    'java' : 'java',
+    'python' : 'python3'
 }
 
 def highlight(content: str) -> str:
