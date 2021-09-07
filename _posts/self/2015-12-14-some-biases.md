@@ -3,7 +3,7 @@ layout: post
 title: "Quote some biases"
 date: 2015-12-14
 comments: true
-categories: [summary, biase, self]
+categories: [summary, self]
 abstract: "quote some biases"
 ---
 

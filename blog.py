@@ -71,6 +71,29 @@ def get_static_link(title: str) -> str:
 
 def write_post(post: frontmatter.Post, content: str):
     #print(str(post["path"]) + "/" + (post["title"]))
+    #TODO: mkdir all tag subdirs
+    """
+    tags = []
+    if post.get("tags"):
+        tags = post["tags"]
+    if post.get("categories"):
+        tags = post["categories"]
+
+    if tags:
+        post["stem"] = (
+            get_static_link(post["title"]) + "-" + post["date"].strftime("%Y-%m-%d")
+        )
+        # post["tags"] = get_static_link(post["tags"])
+        
+        for tag in tags:
+            path = pathlib.Path(
+                "./docs/{}/{}/index.html".format(
+                    str(tag).lower(),
+                    post["stem"],
+                )
+            )
+            path.parent.mkdir(parents=True, exist_ok=True)
+    """
     if post.get("tags") or post.get("categories"):
         post["stem"] = (
             get_static_link(post["title"]) + "-" + post["date"].strftime("%Y-%m-%d")
@@ -136,8 +159,7 @@ def write_docs(root: str):
         write_index(posts, subdir)
 
 # the dir to put the src files
-SRCS = "./_posts"
-
+SRCS = "./_posts/"
 def main():
     # doc = pathlib.Path("_posts/hello.md")
     # replace tag functions with dir

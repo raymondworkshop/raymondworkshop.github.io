@@ -3,7 +3,7 @@ layout: post
 title: "被讨厌的勇气"
 date: 2020-05-19
 comments: true
-categories: [notes, softskills, important, self]
+categories: [notes, softskill, important, self]
 abstract: "总结自 Alfred Adler /ɑl.frɛt aːdlɐ/ 的《幸福的勇氣》"
 ---
 
