@@ -6,9 +6,9 @@ date: 2012-03-19
 ### log of training & books and my ratings
 
 #### training-2021
-* Entrepreneurship  
-    - [Entrepreneurship 1: Developing the Opportunity](https://www.coursera.org/learn/wharton-entrepreneurship-opportunity/home/welcome) 
-    
+* Entrepreneur  
+    - [Thinking & Acting like an Entrepreneur](https://learning.edx.org/course/course-v1:RWTHx+MTI004x+2T2021a/home) 
+
 
 * [認知訓練營2020](https://m.igetget.com/share/course/pay/detail?id=0x1A7LvaogNXknMsY1JPpql2WmznGD)
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego 
