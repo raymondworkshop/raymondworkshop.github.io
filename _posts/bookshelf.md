@@ -11,8 +11,7 @@ date: 2012-03-19
     
 
 * [認知訓練營2020](https://m.igetget.com/share/course/pay/detail?id=0x1A7LvaogNXknMsY1JPpql2WmznGD)
-* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego
-* [Effective Communication](https://learning.edx.org/course/course-v1:IIMBx+BC101x+3T2020/home)
+* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego 
 * [编译原理之美](https://time.geekbang.org/column/article/241656)
 
 * [Microeconomics](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2020/home)

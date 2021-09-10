@@ -3,7 +3,7 @@ layout: post
 title: "!!About Self"
 date: 2020-03-22
 comments: true
-categories: [softskill, learning, summary, self]
+categories: [softskills, learning, summary, self]
 ---
 
 ###  Learning to love yourself  

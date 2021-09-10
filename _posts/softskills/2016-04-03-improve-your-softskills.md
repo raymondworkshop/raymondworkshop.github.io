@@ -3,7 +3,7 @@ layout: post
 title: "How to improve your softskills"  
 date: 2016-04-03
 comments: true
-categories: [learning, notes, softskill, important, management, business]
+categories: [learning, notes, softskills, important, management, business]
 abstract: "Some lessons or experiences about team skills, communications"
 ---
 

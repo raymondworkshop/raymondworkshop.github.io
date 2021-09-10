@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "notes on the five love language"
+title: 'notes on "the five love language"'
 date: 2020-06-16
 comments: true
-categories: [notes, important, softskill, love, self]
+categories: [notes, important, softskills, love, self]
 ---
+
 #### notes on how to show your love languages
 
 ##### 爱能使情势改观 

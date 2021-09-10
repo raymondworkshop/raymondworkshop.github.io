@@ -2,7 +2,7 @@
 layout: post
 title: "Productivity"
 date: 2015-07-29
-categories: [softskill, self, important]
+categories: [softskills, self, important]
 abstract: "How to be more productive"
 ---
 

@@ -3,20 +3,11 @@ layout: post
 title: "!!Build good Relationships"
 date: 2020-03-24
 comments: true
-categories: [softskill, learning, summary, relationship]
+categories: [softskills, relationship]
 ---
 
-#### Mentors  
+#### Self  
 
-  * Pick out **the best qualities and attributes** of an individual and incorporating those things into your style and life   
-
-  * learn as much as you can that will help you be successful  
-
-  * How  
-    - bring questions and essentially set the agenda for the meeting  
-
-  * reference
-    - [Mentors](http://katemats.com/mentors/)
 
 #### **Manage your Manager**    
   * good managers **spend time thinking, coaching and growing their employees**    
@@ -84,7 +75,7 @@ categories: [softskill, learning, summary, relationship]
   * reference 
     - [How to Manage Your Manager](http://katemats.com/how-to-manage-your-manager/)
 
-#### **Peers**    
+#### **peers**    
   * **Give up control**    
     - Not handling one aspect of your job **all by yourself**    
     - Being a good manager is all about **delegating**, even when working with other managers  
@@ -112,7 +103,6 @@ categories: [softskill, learning, summary, relationship]
 
     - **Praise someone** - sincerely, appropriately - when they've done something successfully.  
       + whether publicly noting all their hard work or just dropping by their desk to thank them for helping you  
-      
   * Avoid being defensive  
     - **Ask questions and be receptive to feedback** when a peer criticizes your work or disagrees with you  
     - **Taking people's opinions seriously also builds trust** - and builds better managers too 
@@ -175,14 +165,15 @@ categories: [softskill, learning, summary, relationship]
 
 #### fiends -> 你交的朋友必须是：1）**正直**的；2）**比你更有智慧的**；3）**比你更有钱的**  
   * 挚友  
+     - 
      - 交友时 一定要真诚, 大方和宽容  
-    
+     - 
 
   * **对自己好** - 找那种 **“帮助过你的人”**  
      - 对我们好的人， 要格外珍惜  
      - 对自己好，能帮助自己成长的公司  
      - 对自己好是比金钱，门第和外貌更持久的依靠  
-     
+     -  
   * 合作型朋友  
      - 做事之前最好**把利益分配讲清楚**  
        + 合理预期 -> 哪些可以帮，哪些不可以帮  

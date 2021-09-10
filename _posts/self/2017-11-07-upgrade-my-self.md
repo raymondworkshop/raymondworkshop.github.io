@@ -3,7 +3,7 @@ layout: post
 title: '!Upgrade My Self'
 date: 2017-11-07
 comments: true
-categories: [summary, learning, self, softskill]
+categories: [summary, learning, self, softskills]
 abstract: "!!Some insights about the outside"
 ---
 

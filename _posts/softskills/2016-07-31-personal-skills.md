@@ -3,7 +3,7 @@ layout: post
 title: "personal skills"
 date: 2016-07-31
 comments: true
-categories: [softskill, self]
+categories: [softskills, self]
 abstract: ""
 ---
 

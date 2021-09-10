@@ -3,7 +3,7 @@ layout: post
 title: "notes on public speaking"
 date: 2021-02-24
 comments: true
-categories: [learning, publicspeaking, todo]
+categories: [learning, speaking, todo]
 abstract: "notes on public speaking"
 ---
 

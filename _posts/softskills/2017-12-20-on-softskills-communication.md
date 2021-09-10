@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "softskill - communications"
+title: "softskills - communication"
 date: 2017-12-20
 comments: true
-categories: [softskill, communication]
+categories: [softskills, communication]
 abstract: "关于沟通"
 ---
 

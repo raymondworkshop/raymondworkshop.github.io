@@ -3,7 +3,7 @@ layout: post
 title: "Some learning about communication skills"
 date: 2017-11-17
 comments: true
-categories: [softskill, communication, important, notes, learning]
+categories: [softskills, communication, important, notes, learning]
 abstract: "like listening, persuation ... "
 ---
 

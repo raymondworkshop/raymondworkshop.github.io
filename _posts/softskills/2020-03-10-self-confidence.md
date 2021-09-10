@@ -3,7 +3,7 @@ layout: post
 title: '!Build Your Confidence'
 date: 2020-01-03
 comments: true
-categories: [softskill, self]
+categories: [softskills, self]
 ---
 
 #### self-confidence  

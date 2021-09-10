@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "notes on Think and Grow Rich"
+title: 'notes on "Think and Grow Rich"'
 date: 2020-09-28
 comments: true
 categories: [notes, important, self]
 abstract: "notes on Think and Grow Rich, Rich Dad Poor Dad"
 ---
+
 #### know your Desire
 
 #### ch1 - Success Consciousness
