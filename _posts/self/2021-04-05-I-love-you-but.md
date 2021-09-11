@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'notes on "I love you but Im Not in Love with You"'
+title: "notes on 'I love you but I'm Not in Love with You'"
 date: 2021-04-05
 comments: true
 tags: [notes, love, softskills, insight, important, learning]
