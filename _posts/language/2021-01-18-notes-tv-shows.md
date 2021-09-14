@@ -7,6 +7,44 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### S08E06  
+It's **the strength you have inside** that means the most to me.  
+you're loyal, and you're honest and you have integrity.  
+that's the kind of strength i want in a man that I love.  
+
+
+
+#### S08E05  
+why haven't i seen you here before?  
+
+**I am with you** .  
+
+I'm a recovering alcoholic (我正在戒酒)  
+
+> you ready to go?  
+> 
+
+> so, what's up? Is everything okay with Phoebe?  
+> 
+
+> can I ask you something?  
+> 
+
+> I wanna tell you that I appreciate you giving me an opportunity here
+beacuse you're the most talented chef i've ever worked for.
+> 
+
+> you want a little cheering up?  
+> 
+
+> I'm sorry about your date. 
+> Its' all right. 
+
+> 
+> Sure, **Let me get it for you**  
+
+
+
 #### SO7E22  
 **I'll be glad to take you for** ... 
 
@@ -14,8 +52,6 @@ Let me make sure I'm not doing anything.
 
 okay, but **I'm just doing this for you**.  
 so **I never get to win anymore**?  
-
-
 
 #### S07E21  
 * the process monica and chandler   
