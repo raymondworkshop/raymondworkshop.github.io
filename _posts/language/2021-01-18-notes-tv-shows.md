@@ -7,11 +7,24 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### S08E08
+> I've got to get going  
+> Okay, i'll see you tonight  
+>
+
+> **Fine, but I'm only doing this for you**.   
+> 
+
+> what's going on with Rachel has nothing to do with 
+**how I feel about you**.  
+> I know, and i was going to, but i think it's better  ...  
+> i made a mistake **but it's only because I really like you, really**.
+
+
 #### S08E06  
 It's **the strength you have inside** that means the most to me.  
 you're loyal, and you're honest and you have integrity.  
 that's the kind of strength i want in a man that I love.  
-
 
 
 #### S08E05  
