@@ -7,7 +7,8 @@ date: 2012-03-19
 
 #### training-2021
 * Entrepreneur  
-    - [Thinking & Acting like an Entrepreneur](https://learning.edx.org/course/course-v1:RWTHx+MTI004x+2T2021a/home) 
+    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
+    - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
 
 
 * [認知訓練營2020](https://m.igetget.com/share/course/pay/detail?id=0x1A7LvaogNXknMsY1JPpql2WmznGD)
