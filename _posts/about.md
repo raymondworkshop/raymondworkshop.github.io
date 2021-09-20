@@ -7,7 +7,7 @@ Hi, I'm Raymond ZHAO Wenlong, a Computer Engineer & Scientist.
 <br>     
 
 I like problem solving, and reading.  
-If you’ve got any questions, suggestions or would like to discuss a project then email me at wenlzhao@gmail.com. I’d be happy to hear from you. 
+If you’ve got any questions, suggestions or would like to discuss a project then email me at wenlzhao [at] gmail [dot] com. I’d be happy to hear from you. 
 I am also available for short term consulting.  You can also find me on [Twitter](https://twitter.com/_muyun) or [Github](https://github.com/muyun).
 <br> <br> 
 

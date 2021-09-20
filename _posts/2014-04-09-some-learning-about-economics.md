@@ -3,13 +3,13 @@ layout: post
 title: "Summary about Economics"
 date: 2014-04-09
 comments: true
-categories: [home, writing]
+categories: [home, notes]
 abstract: '總結自 <a href="http://www.oklink.net/a/0011/1101/mgzy/003.htm">產權與交易費用</a>'
 ---
 
 
 #### notes-2020 
-这里只是**经济学**上的理论分析框架,  在中国语境和美国语境下会完全不同 (毕竟政治社会环境完全不同).  (<small>note-2020: 这里说的也不是社会达尔文主义, 毕竟其假定的环境相同,机会平等的前提是不现实的; 这里说的也不是完全的自由市场竞争 </small>))
+這裡只是**經濟學**上的一個基本理論分析框架,在中國語境和西方語境下會有完全不同的意思 (畢竟政治社會環境完全不同)。  (<small>note-2020: 這裡說的也不是社會達爾文主義，其假定的環境不同，機會平等的假設前提也是不現實的; 這裡說的也不是完全的自由市場主義 </small>))
    
 #### 關於經濟規律
    

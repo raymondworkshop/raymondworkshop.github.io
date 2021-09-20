@@ -7,6 +7,8 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+
+
 #### S08E08
 > I've got to get going  
 > Okay, i'll see you tonight  
