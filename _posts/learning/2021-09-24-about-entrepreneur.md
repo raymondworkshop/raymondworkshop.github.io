@@ -1,11 +1,13 @@
 ---
-title: "About Entrepreneur"
-date: 2021-06-09
+title: "Learning - About Entrepreneur"
+date: 2021-09-24
 tags: [learning, business]
-abstract: "Improve my mindset and knowledge on business"
+abstract: "Improve my mindset and knowledge on Entrepreneur"
 ---
 
-#### notes 
+#### The Entrepreneurial Mindset 
+
+
 
 #### **make one friend** 
 * nurturing a relationship with one person  
@@ -43,6 +45,7 @@ abstract: "Improve my mindset and knowledge on business"
 
 
 
-
 #### reference
+* [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
+* [Financial Accounting Made Fun: Eliminating Your Fears](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)
 * [enter the office with a smile](https://twitter.com/Thenakedpoet2/status/1394654055599902723)

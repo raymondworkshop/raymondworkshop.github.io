@@ -28,6 +28,8 @@ date: 2012-03-19
 * [The Rule of love] by Richard Templar (8/10)  
 * [The Rule of Management] by Richard Templar  
 
+* [Thrivers: The Surprising Reasons Why Some Kids Struggle and Others Shine](https://www.amazon.com/Thrivers-Surprising-Reasons-Struggle-Others/dp/0593085272) by Michele Borba Ed D. 
+
 * [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen (8/10) 
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (9/10) 
 * [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec 
