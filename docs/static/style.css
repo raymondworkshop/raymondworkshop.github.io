@@ -17,19 +17,26 @@ h1, h2, h3 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 23px;
   letter-spacing: -1.25px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 21px;
   letter-spacing: -1px;
 }
 
 h4 {
   font-family: SFMono-Regular, Arial, Microsoft YaHei,  sans-serif ;
+  color: #377ba8;
+  font-size: 19px;
+  letter-spacing: -1px;
+}
+
+h5 {
+  font-family: SFMono-Regular, Arial, Microsoft YaHei,  sans-serif ;
   color: #818181;
-  font-size: 18px;
+  font-size: 17px;
   letter-spacing: -1px;
 }
 
