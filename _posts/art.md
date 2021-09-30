@@ -3,7 +3,7 @@ title: Art
 date: 2021-08-05
 ---
 
-#### Historical photographs
+#### <u>Search</u> historical photographs  
 * ![03](/img/03.jpg)   *HongKong in the 1970s* 
 
 * ![07](/img/07.jpg)   *Shanghai in 1971* 
