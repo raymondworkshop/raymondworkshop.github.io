@@ -3,7 +3,7 @@ title: Mini-project
 date: 2021-08-05
 ---
 
-#### <u>[Edit Your demo and work logs on GitHub](https://github.com/muyun/dev.mini-project/blob/master/README.md) </u>
+#### <u>[Edit](https://github.com/muyun/dev.mini-project/blob/master/README.md) </u>  Your project ideas and concepts on GitHub  
 
 
 ##### <u>[Search](https://github.com/muyun/dev.kbs/tree/master/myart)</u> historical photographs  
@@ -17,3 +17,6 @@ date: 2021-08-05
 
 
 ##### <u>[chatwithme](https://github.com/muyun/dev.kbs/tree/master/chatwithme)</u>  
+
+
+##### Share your personal story  
