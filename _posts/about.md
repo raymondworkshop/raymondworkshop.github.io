@@ -13,7 +13,7 @@ If you’ve got any questions, suggestions or would like to discuss a project th
 I am also available for short term consulting.  You can also find me on [Twitter](https://twitter.com/_muyun) or [Github](https://github.com/muyun).
 <br> <br> 
 
-Outside of Technology & Philosophy world, I also like self-improvement, and experiencing something. 
+Outside of Science & Philosophy world, I also like self-improvement, and experiencing something such as nature, local culture, and art. 
 <br> <br> 
 
 I worked as Technical Officer at HSUHK, RA at CityU and HKBU, Software Engineer at HKCREO (a Fintech startup) and Alcatel-Lucent S. A. (Nokia Corporation now).   

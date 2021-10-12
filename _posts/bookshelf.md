@@ -28,7 +28,8 @@ date: 2012-03-19
 * [The Rule of love] by Richard Templar (8/10)  
 * [The Rule of Management] by Richard Templar  
 
-* [Thrivers](https://www.amazon.com/Thrivers-Surprising-Reasons-Struggle-Others/dp/0593085272) by Michele Borba Ed D. 
+* [Thrivers](https://www.amazon.com/Thrivers-Surprising-Reasons-Struggle-Others/dp/0593085272) by Michele Borba Ed D. (8/10)  
+* [How to Live](https://sive.rs/h) by Derek Sivers (9/10)   (note: answer one of my inner confusions: Why some GREAT book is still wiser than us nowadays)  
 * [Getting Love Right](https://www.goodreads.com/book/show/724464.Getting_Love_Right) by Terence T. Gorski  
 
 * [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen (8/10) 
