@@ -1,11 +1,18 @@
 ---
 layout: post
-title: "notes on drawing"
+title: "About beauty"
 date: 2020-06-10
 comments: true
-categories: [learning, drawing]
-abstract: "notes on drawing"
+categories: [learning, beauty, drawing]
+abstract: "About beauty - photography,  drawing"
 ---
+
+
+
+#### photography  
+
+#### TODO  
+* practice your basic skills  
 
 #### ideas  
 * 自己钟意的是线条， 轮廓， 色彩  
@@ -46,7 +53,6 @@ abstract: "notes on drawing"
 * 基本功 - 线条, 透视, 光影  
 
 * 速写 
-
 
 
 #### reference

@@ -10,10 +10,10 @@ I like problem solving, and reading.  I write at [blog.reader](https://muyun.git
 <br> 
 
 If you’ve got any questions, suggestions or would like to discuss a project then email me at wenlzhao [at] gmail [dot] com. I’d be happy to hear from you. 
-I am also available for short term consulting.  You can also find me on [Twitter](https://twitter.com/_muyun) or [Github](https://github.com/muyun).
+I am also available for short-term project consulting.  You can also find me on [Twitter](https://twitter.com/_muyun) or [Github](https://github.com/muyun).
 <br> <br> 
 
-Outside of Science & Philosophy world, I also like self-improvement, and experiencing something such as local culture, nature, and art. 
+Outside of Science & Philosophy world, I also like personal growth, and experiencing something such as local cultures, nature, and art. 
 <br> <br> 
 
 I worked as Technical Officer at HSUHK, RA at CityU and HKBU, Software Engineer at HKCREO (a Fintech startup) and Alcatel-Lucent S. A. (Nokia Corporation now).   

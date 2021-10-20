@@ -56,6 +56,26 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + **赢得标准 变成了 怎样创造更多价值**， 甚至是为别人创造价值，而不是让别人吃亏
         + 这样的话， 诚实不光是美德，也代表现实收益   
 
+* **recognize and affirm your feelings**  
+    - encourage and support your partner in their emotions  
+        + happiness + thrilled, blissfully happy, joyful 
+        + sad   +  feel blue, feel down, sorrow
+        + angry  + prickly, furious  
+        + scared  + fear 
+        + tired     + be worn down, be worn out  
+        + confused  + to feel off, to be a hot mess, feel puzzled  
+        + pride  
+        + worried  + unsettled, upset
+
+    - **complementary differences**    
+        + enable me to love myself  
+        + help me reach beyond my limitations 
+        + confront my unresolved issues  
+
+
+
+* Physical Factors  
+
 * SELF 
     - **stop underestimating your value**  
 
@@ -94,7 +114,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - **know your strengths and weaknesses**  
     - admit to what you fears are, and facing them  
     - reading  
-    
+ 
 
 #### self-analysis
 

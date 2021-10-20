@@ -19,28 +19,27 @@ date: 2012-03-19
 
 #### reading-2021
 
-* [I Love You But](https://book.douban.com/subject/35332781/) by Andrew G. Marshall (9/10)
-* [Rework](https://www.goodreads.com/book/show/6732019-rework?from_search=true&from_srp=true&qid=5B2aFWuq2G&rank=1) by Jason Fried (8/10)
-* [Getting Real](https://www.goodreads.com/book/show/447648.Getting_Real?ac=1&from_search=true&qid=GKPsjqJWKp&rank=1) by 37 Signals  (9/10) 
-* [The Rule of Life] by Richard Templar (9/10)  
-* [Conversation Casanova] (9/10)  
-* [The Rule of Work] by Richard Templar (8/10)  
-* [The Rule of love] by Richard Templar (8/10)  
+* [I Love You But](https://book.douban.com/subject/35332781/) by Andrew G. Marshall (8/10)
+* [Rework](https://www.goodreads.com/book/show/6732019-rework?from_search=true&from_srp=true&qid=5B2aFWuq2G&rank=1) by Jason Fried (7/10)
+* [Getting Real](https://www.goodreads.com/book/show/447648.Getting_Real?ac=1&from_search=true&qid=GKPsjqJWKp&rank=1) by 37 Signals  (8/10) 
+* [The Rule of Life] by Richard Templar (8/10)  
+* [Conversation Casanova] (8/10)  
+* [The Rule of Work] by Richard Templar (7/10)  
+* [The Rule of love] by Richard Templar (7/10)  
 * [The Rule of Management] by Richard Templar  
 
-* [Thrivers](https://www.amazon.com/Thrivers-Surprising-Reasons-Struggle-Others/dp/0593085272) by Michele Borba Ed D. (8/10)  
-* [How to Live](https://sive.rs/h) by Derek Sivers (9/10)   (note: answer one of my inner confusions: Why some GREAT book is still wiser than us nowadays)  
-* [Getting Love Right](https://www.goodreads.com/book/show/724464.Getting_Love_Right) by Terence T. Gorski  
+* [Thrivers](https://www.amazon.com/Thrivers-Surprising-Reasons-Struggle-Others/dp/0593085272) by Michele Borba Ed D. (7/10)  
+* [How to Live](https://sive.rs/h) by Derek Sivers (9/10)   (note: answer one of my inner confusions: Why some GREAT books are still wiser nowadays)  
+* [Getting Love Right](https://www.goodreads.com/book/show/724464.Getting_Love_Right) by Terence T. Gorski  (9/10) (note: the best one on the relationship until now)  
 
+* [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (9/10)  
 * [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen (8/10) 
-* [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (9/10) 
-* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec 
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 
 
 * [500 Lines or Less](http://aosabook.org/en/index.html)
 
-* [How to Solve it](https://book.douban.com/subject/1456890/) by G. Polya 
+* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec 
 
 * [Zero to One](https://book.douban.com/subject/24753651/) by Peter Thiel
 * [Founders at Work](https://book.douban.com/subject/1966719/) by Jessica Livingston
