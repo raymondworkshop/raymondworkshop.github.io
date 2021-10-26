@@ -19,7 +19,6 @@ date: 2012-03-19
 
 #### reading-2021
 
-* [I Love You But](https://book.douban.com/subject/35332781/) by Andrew G. Marshall (8/10)
 * [Rework](https://www.goodreads.com/book/show/6732019-rework?from_search=true&from_srp=true&qid=5B2aFWuq2G&rank=1) by Jason Fried (7/10)
 * [Getting Real](https://www.goodreads.com/book/show/447648.Getting_Real?ac=1&from_search=true&qid=GKPsjqJWKp&rank=1) by 37 Signals  (8/10) 
 * [The Rule of Life] by Richard Templar (8/10)  
@@ -30,7 +29,9 @@ date: 2012-03-19
 
 * [Thrivers](https://www.amazon.com/Thrivers-Surprising-Reasons-Struggle-Others/dp/0593085272) by Michele Borba Ed D. (7/10)  
 * [How to Live](https://sive.rs/h) by Derek Sivers (9/10)   (note: answer one of my inner confusions: Why some GREAT books are still wiser nowadays)  
-* [Getting Love Right](https://www.goodreads.com/book/show/724464.Getting_Love_Right) by Terence T. Gorski  (9/10) (note: the best one on the relationship until now)  
+
+* [I Love You But](https://book.douban.com/subject/35332781/) by Andrew G. Marshall (8/10)  
+* [Getting Love Right](https://www.goodreads.com/book/show/724464.Getting_Love_Right) by Terence T. Gorski  (9/10) (note: one of the best on the relationship)  
 
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (9/10)  
 * [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen (8/10) 

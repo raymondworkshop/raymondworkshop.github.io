@@ -1,15 +1,46 @@
 ---
 layout: post
-title: "notes on Philosophy"
+title: "notes on the GOOD life"
 date: 2021-02-20
 comments: true
-categories: [learning, philosophy]
-abstract: "notes on Philosophy"
+categories: [learning, philosophy, life  ]
+abstract: "notes on the GOOD life"
 ---
+
+#### GOD is love 
+
+#### 李银河：爱是最美好的生存状态  
+* 爱是人最美好，最纯净，最有趣的生存状态  
+    - **精神上的需求**， 不仅仅是动物性肉体的存在  
+    - **不知怎样才能去爱一个人，去得到一个人的爱**  
+        + **灵魂缺乏营养**， 干瘪，迟钝    
+        + **对美好的失去缺乏感知能力和渴望**   
+
+* **能激发他激情的人**  
+    - 世上 值得爱的人并不多， 不是长相丑陋，就是呆头呆脑  
+    - **有能激发人的激情之爱的素质 - 性格可爱，聪明幽默，才华出众**   
+    - 懂得爱，渴望爱 
+
+*  最幸运的人是爱上一个人又得到这个人的爱  
+    - **欢喜 全部来自浪漫之爱本身的美好感觉**  
+    - **爱可以为人带来愉悦和美感**   
+
+* reference
+    - [李银河：爱是最美好的生存状态](http://liyinhe.blog.caixin.com/archives/251209)
+
+
+#### love 
+* romantic love 
+
+* family love  
+
+* brotherly love that unites believers 
+    - care, respect, and compassion  
+
+* God's love 
 
 #### the good life  
 * the good life is a life inspired by love and guided by (scientific) knowledge  
-
 
 *  love as an emotion  
     - pure delight in contemplation  
@@ -22,9 +53,7 @@ abstract: "notes on Philosophy"
     - powerful social forces - social approval and disapproval  
 
 
-
 #### About SOUL  - **inner energizing power**  
-
 * there is **the expansive, driving, urge of the soul** in humans  
 
 * **DESIRE** is the essence of life  

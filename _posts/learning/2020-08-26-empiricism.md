@@ -9,7 +9,7 @@ abstract: "based on what is experienced or seen rather than on theory"
 
 ### 关于实证主义哲学和生活方式 
 
-#### experienced or seen rather than theory    
+#### **experienced or seen** rather than theory    
 
 *  实证主义    
     - **发现一个新现象， 到依据这一新发现形成一个假设**， 再到发送一个新探测器去检测这一假设；
@@ -45,6 +45,13 @@ abstract: "based on what is experienced or seen rather than on theory"
     - 知识仅仅存在于完美的独立世界； 我们感受的世界，是对完美知识世界的部分复制  
     - 演绎推理  
 
+
+* cognitive vs emotional intelligence  
+    - one cognitive factor is an analytical thinking style  - thinking  
+        + tend to act according to reason rather than intuition  
+    
+    - **emotional intelligence** - feeling   
+        + easily discern the emotions and motives of others 
 
 #### Empiricism  
 from John Locke to David Hume    

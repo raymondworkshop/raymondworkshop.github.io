@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "About beauty"
+title: "About Hobby"
 date: 2020-06-10
 comments: true
 categories: [learning, beauty, drawing]
-abstract: "About beauty - photography,  drawing"
+abstract: "About Hobby - photography, horse, 手工, 木工, art"
 ---
 
 
