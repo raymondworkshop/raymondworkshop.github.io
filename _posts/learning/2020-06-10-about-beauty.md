@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "About Hobby"
+title: "About Beauty"
 date: 2020-06-10
 comments: true
 categories: [learning, beauty, drawing]
-abstract: "About Hobby - photography, horse, 手工, 木工, art"
+abstract: "About Beauty - photography, horse, 人类学, 手工, 雕塑, 木工, 电影, art"
 ---
 
+### About Beauty  
+* 感受到美，是否带来美的享受  
+    - **有理解力的心灵即可**， 而不是好坏价值的专业评论  
 
+* 创造美的工作 
+    - 文学艺术，音乐美术类  
+    - 人类学 - 不一样的生活极其文化  
+    - 哲学，纯粹精神价值  
+
+* 愿意享受， 而不是愿意受苦  
 
 #### photography  
 
@@ -56,6 +65,7 @@ abstract: "About Hobby - photography, horse, 手工, 木工, art"
 
 
 #### reference
+* [李银河：怎样战胜人生之癌](http://liyinhe.blog.caixin.com/archives/250874)
 * [素描的原点]
 * [透视如此简单]
 * [video on keys to drawing](https://www.bilibili.com/video/BV1T4411y7My?spm_id_from=333.905.b_7570566964656f.2) 

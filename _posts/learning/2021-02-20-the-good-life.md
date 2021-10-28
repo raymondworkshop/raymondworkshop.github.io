@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "notes on the GOOD life"
-date: 2021-02-20
+date: 2021-02-20 
 comments: true
 categories: [learning, philosophy, life  ]
-abstract: "notes on the GOOD life"
+abstract: "notes on the GOOD life - beauty and love "
 ---
 
-#### GOD is love 
+##### My God - the source of that universal vitality  
+* my mind can deal better with things **when I have put order into them**   
 
-#### 李银河：爱是最美好的生存状态  
+* kindness and giving 
+
+##### My Soul - inner directive and energizing powers
+* Desire is the essence of life （生命力）    
+
+#### GOD is about love 
+
+#### 爱上一个具体的人 -> 李银河：爱是最美好的生存状态  
 * 爱是人最美好，最纯净，最有趣的生存状态  
     - **精神上的需求**， 不仅仅是动物性肉体的存在  
     - **不知怎样才能去爱一个人，去得到一个人的爱**  
@@ -28,6 +36,8 @@ abstract: "notes on the GOOD life"
 * reference
     - [李银河：爱是最美好的生存状态](http://liyinhe.blog.caixin.com/archives/251209)
 
+* **抽象的爱** - 爱上一个抽象的对象  
+    - 爱自然， 爱世界  
 
 #### love 
 * romantic love 
@@ -82,9 +92,10 @@ abstract: "notes on the GOOD life"
     - sincerely **admiring** the personality and ethics of Christ  
 
 
-
 #### about SELF  
 * spirital, not a religious  
+
+
 
 #### reference  
 * [Fallen Leaves]  
