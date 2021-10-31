@@ -7,26 +7,6 @@ categories: [notes, learning, important, business, ideas, research]
 abstract: "About creativity" 
 ---
 
-#### think clearly  
-* why 
-    - pursuit of knowledge  
-    - know ourselves a little better, dispel prejudices 
-    - communicate more richly and persuasively 
-
-* stage 1 - why you believe something to be true or important  
-
-* stage 2 - the assumptions this reasoning relies upon  
-
-* stage 3 - what you do and don't know, where you're uncertain 
-
-* info
-    - [How to think clearly](https://psyche.co/guides/how-to-think-clearly-to-improve-understanding-and-communication)
-
-#### critical thinking  
-
-* TODO  
-    - [critical thinking](https://philosophy.hku.hk/think/critical/ct.php)  
-
 #### ideas  
 
 * **asyno solution** 
