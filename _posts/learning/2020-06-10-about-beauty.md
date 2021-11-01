@@ -13,12 +13,17 @@ abstract: "About Beauty - photography, horse, 人类学, 手工, 雕塑, 木工,
 
 * 创造美的工作 
     - 文学艺术，音乐美术类  
-    - 人类学 - 不一样的生活极其文化  
+    - 人类学 - 不一样的生活及其文化  
     - 哲学，纯粹精神价值  
 
 * 愿意享受， 而不是愿意受苦  
 
+#### find one to keep you creative  
+
 #### photography  
+* 照片打印
+    - 惠普小印  
+    - canon 
 
 #### TODO  
 * practice your basic skills  

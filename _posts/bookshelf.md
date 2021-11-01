@@ -36,13 +36,14 @@ date: 2012-03-19
 * [Getting Love Right](https://www.goodreads.com/book/show/724464.Getting_Love_Right) by Terence T. Gorski  (9/10) (note: one of the best on the relationship)  
 
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (9/10)  
+* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec 
 * [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen (8/10) 
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 
 
 * [500 Lines or Less](http://aosabook.org/en/index.html)
 
-* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec 
+
 
 * [Zero to One](https://book.douban.com/subject/24753651/) by Peter Thiel
 * [Founders at Work](https://book.douban.com/subject/1966719/) by Jessica Livingston

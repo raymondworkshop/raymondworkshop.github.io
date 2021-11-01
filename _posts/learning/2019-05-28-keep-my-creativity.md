@@ -149,5 +149,7 @@ abstract: "About creativity"
 * TODO  
 
 #### reference 
-
 * ch2 - The Pragmatic Programmer  
+* [Think Like an Artist](https://book.douban.com/subject/26639320/) by Will Gompertz 
+* [A technique for producing ideas](https://book.douban.com/subject/1474184/) by James Webb Young  
+* [How to Solve It: A New Aspect of Mathematical Method](https://book.douban.com/subject/1456890/) by George Pólya 
