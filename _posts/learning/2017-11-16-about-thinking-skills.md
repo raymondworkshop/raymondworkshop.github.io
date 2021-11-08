@@ -7,7 +7,22 @@ categories: [learning, thinking]
 abstract: "About thinking skills"
 ---
 
+#### Strategic study and thinking  
+
+##### reference
+* [Strategic study techniques](https://help.open.ac.uk/strategic-study-techniques)  
+
+#### creative thinking  
+
+##### The idea of innovation    
+* “It’s better to solve the right problem approximately than to solve the wrong problem exactly” - John Turkey  
+
+
+##### reference
+* [Creativity](https://philosophy.hku.hk/think/creativity/)  
+
 #### critical thinking  - 思辨能力  
+* think clearly and rationally  
 
 ##### Why 
 * 拒绝不恰当的想法，以更加接近真理与真相  
@@ -32,8 +47,6 @@ abstract: "About thinking skills"
 
     - do u take other people's experiences into account?  
   
-
-#### Strategic thinking 
 
 #### think clearly  
 * why 

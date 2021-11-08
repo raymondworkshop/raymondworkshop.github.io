@@ -7,7 +7,14 @@ categories: [notes, learning, important, business, ideas, research]
 abstract: "About creativity" 
 ---
 
+
+
 #### ideas  
+
+* a reading community 
+    - Bible reading firstly  
+    - on GREAT books  
+    - [REFLECTIONS ON READING GREAT BOOKS WITH COLONELS](https://warontherocks.com/2020/05/reflections-on-reading-great-books-with-colonels/)
 
 * **asyno solution** 
     - asyno team?   

@@ -5,6 +5,8 @@ date: 2012-03-13
 
 ### List of some of my interviews/research!  
 
+#### November, 2021 - A summary and review on [Question Answering](https://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)  
+
 #### June, 2021 - An introduction and the related experiments on [Natural Legal Language Processing](https://github.com/muyun/dev.nllp/blob/master/docs/nllp-20210618.pdf)   
 
 #### Nov 24, 2019 - My slide on [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso) at HKU SPACE 

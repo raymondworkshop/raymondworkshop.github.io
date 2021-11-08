@@ -4,7 +4,7 @@ title: "About keep-fit"
 date: 2017-11-16
 comments: true
 categories: [learning, exercise, self]
-abstract: "About keep-fit: keep you in shape and healthy"
+abstract: "About keep-fit: keep you in shape and healthy"  
 ---
 
 #### FOOD  

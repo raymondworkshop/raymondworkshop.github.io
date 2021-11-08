@@ -10,6 +10,7 @@ date: 2012-03-19
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
     - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
 
+* [Professional development: Improve yourself, always](https://www.coursera.org/learn/professional-development-improve-yourself/home/welcome)  
 
 * [認知訓練營2020](https://m.igetget.com/share/course/pay/detail?id=0x1A7LvaogNXknMsY1JPpql2WmznGD)
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego 
@@ -29,8 +30,8 @@ date: 2012-03-19
 
 * [Thrivers](https://www.amazon.com/Thrivers-Surprising-Reasons-Struggle-Others/dp/0593085272) by Michele Borba Ed D. (7/10)  
 * [How to Live](https://sive.rs/h) by Derek Sivers (9/10)   (note: answer one of my inner confusions)  
-* [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard
+* [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   
 
 * [I Love You But](https://book.douban.com/subject/35332781/) by Andrew G. Marshall (8/10)  
 * [Getting Love Right](https://www.goodreads.com/book/show/724464.Getting_Love_Right) by Terence T. Gorski  (9/10) (note: one of the best on the relationship)  

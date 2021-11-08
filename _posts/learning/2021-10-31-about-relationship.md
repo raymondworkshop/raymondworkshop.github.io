@@ -10,6 +10,49 @@ abstract: "About relationship: self, families, friends, others"
 #### TODO  
 * bible reading 
 
+#### Values  - the standards to evaluate actions, people, things or situations  
+
+* values by an individual  
+    - value family or success most, and structure their lives  
+
+* moral values to determine what is morally right or wrong  
+    - freedom, fairness, well-bing  
+    - known as political values 
+
+* aesthetic values with artwork or beauty  
+
+* the fact-value gap  
+    - "is-ought" gap - **what is the case need** not be what should be the case  
+
+##### The intrinsic values 
+* **having his own right independently of** his prospects for servign other ends  
+    - health, youth, happy   
+    - value is as a close as **good** 
+
+* instrumental values  - extrinsic values  
+    - **not for its own sake** but because it can be used to some purposes that we treasure  
+
+#####  **Facts and moral values**     
+*   if you argue that something is right or wrong, you need not just descriptive statemtns about facts **but also additional more principles**  
+*   e.g. "There is nothing wrong being selfish. Everybody is selfish. 
+    - **many people are selfish does not mean that they are right**. Many people used to think that slavery is acceptable, but we now think they were wrong.     
+    - many things that are unnatural are not regarded as wrong, such as cosmetic surgery.
+
+#####  **Morality & Religion**  
+* Does morality depend on GOD? 
+    - **right or wrong, and good or bad, are given by the commands of GOD**
+    - if morality depends on God, there is no reason why God cannot issue such commands, since **there are no additional moral constraints on what he should command**     
+
+* meaning and morality cannot be entirely constituted by God's commands if God exists  
+    - **the basis of moral values and meaning are not determined by any authority**  
+    - **exercise our own rational judgment** to determine **how we should live our lives and what values to adopt**    
+    - there is no way to find out what is meaningful and what is moral without using our own critical reflection    
+
+##### **consistency** in morality - fairness 
+*  moral intuitions -> generalize moral principles -> apply for cases -> Test against moral intuitions  
+
+* [Reflective equilibrium](https://philosophy.hku.hk/think/value/equilibrium.php)
+
 #### self - God  
 
 ##### 2021-10-31    
@@ -32,11 +75,16 @@ abstract: "About relationship: self, families, friends, others"
     - **是否跟你的个人是非观相匹配**？ 是否和先前有不一样的观念  
 
     - What does this teach me about how I should live?
-    - What does this teach me about God?
+    - What does this teach me about God? 
+
+    - **认识自己**， **和自己的connection**
+        + self-reflection  
+        + 而不是从上帝视角    
 
 * my questions   
     - 失去自己  
         + 自我教育， 自我成长的一部分  
+        + 和耶稣融为一体， 而不是失去自己，成长的一部分  
         
 * my thinking    
     - 培养自己和god的关系, **让自己更丰富**    
