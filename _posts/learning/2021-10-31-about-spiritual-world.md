@@ -1,14 +1,47 @@
 ---
 layout: post
-title: "About relationship"
+title: "About Spiritual world"
 date: 2017-11-16
 comments: true
 categories: [learning, relationship, softskills, self, belief]
-abstract: "About relationship: self, families, friends, others"
+abstract: "About Spiritual world - relationships with self, families, friends, others"
 ---
 
 #### TODO  
 * bible reading 
+    - 把神学和哲学结合起来 
+        + 把基督的思想当成**引导人过有道德的尘世生活的智慧**    
+        + 人生在世， **要有意义地活着**； **灵感启示和问题解释**    
+        + 相信人的精神生活的价值， 使人成为世界的中心  
+
+    - 人文主义宗教 - 有理性的信仰  - 宽容  
+        + 古典哲学追寻的**善**， 与**基督思想的神圣性**结合起来  
+        + 耶稣基督的学说不需要批评， 它是**神圣的，福音的哲学**  
+        + **从耶稣基督的行为中体会它的神圣性**； 常人效法基督也可获得神圣性  
+
+
+* 爱拉斯莫的基督哲学
+    - **更多在心性**，不在于三段论， **更多在于生活意义**，不在于辩论；
+    **其灵感启示** 优于饱学之士，其态度的多样性要比纯理性的玄思更重要     
+
+    - 与人相关联的是 **人生在世，是人要有意义地活着**，这才是一切理论探讨的意义  
+
+* 以人生为对象 - **寻求道德生活**  
+    - 美德的定义是 **“中庸”** <-  亚里士多德  
+        + **极端就是 恶**    
+    - 一个有道德的人，是**能够判断一件事情是否恰当的人** 
+        + **选择适度和恰当才是善的**    
+        + 自信， 不是鲁莽，也不是怯懦， 而是**勇敢**； **勇敢就是自信心的中道**  
+        + 勇敢是善的，是合乎道德的   
+
+
+#### 欧洲思想文化  
+* 自然法传统 <- 希腊罗马传统  
+    - 自然法 确定了有一套高于尘世个人集团阶层的无可辩驳的原则，就是**永恒正义**的原则  
+    - 只有**自由**才是一切创造的源泉  
+
+* 人文主义传统 - 相信**人的精神世界的优越性**   
+    - **有知识，有道德** - 知识一定要和人的品性相连  
 
 #### Values  - the standards to evaluate actions, people, things or situations  
 
@@ -106,7 +139,6 @@ abstract: "About relationship: self, families, friends, others"
         + 基督徒能放下执念（相信天父的旨意高过自己）  
             - 在无穷能力的神面前，人毕竟有限  
 
-
     
 #### self - families    
 
@@ -139,3 +171,4 @@ abstract: "About relationship: self, families, friends, others"
 #### self - others  
 
 #### reference 
+* [欧洲思想文化长廊](https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%AC%A7%E6%B4%B2%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E9%95%BF%E5%BB%8A/20210104-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E6%AC%A7%E6%B4%B2)  
