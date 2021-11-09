@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<!--
+<meta http-equiv="content-language” content=”en, zh”>
+-->
+<title>  - Raymond ZHAO WENLONG</title>
+<link rel=" stylesheet" href="/static/style.css">
+<link rel="stylesheet" href="/static/pygments.css">
+<nav>
+    <h1><small><a href="/index.html">Raymond ZHAO WENLONG</a></small></h1>
+    <ul>
+        <li><a href="/index.html"> Blog </a>
+        <li><a href="/slides.html"> Slides </a>
+        <li><a href="/bookshelf.html"> Bookshelf </a>
+        <li><a href="/mini-project.html"> Mini-project </a>
+        <li><a href="/about.html"> About </a>
+    </ul>
+</nav>
+
+<section class="content">
+    <!--
+    <header>
+        
+<title> Search Algorithms: Binary Search Trees</title>
+
+      </header>
+      -->
+    
+<article class="post">
+    <header>
+        <h1><strong>Search Algorithms: Binary Search Trees</strong></h1>
+    </header>
+    <p class="body"><h4>Searching Algorithm - BST</h4>
+<p>Binary search trees (BST) combines the flexibility of insertion in a
+linked list (using two links per node leads to an efficient
+implementation) with the efficiency of search in an ordered array.</p>
+<p>BST is a binary tree in symmetric order. A binary tree either either
+or two disjoint binary trees.  Symmetric order means that each node's
+key is larger than all keys in its left subtree, and smaller than all
+keys in its right subtree.</p>
+<p>A Node is comprised of four fields: a key and a value; a reference to
+the left (smaller keys) and right subtree (larger keys).</p>
+<pre class="lang-java"><span class="kd">private</span> <span class="kd">class</span> <span class="nc">Node</span> <span class="p">{</span>
+
+        <span class="kd">private</span> <span class="n">Key</span> <span class="n">key</span><span class="p">;</span>   
+        <span class="kd">private</span> <span class="n">Value</span> <span class="n">val</span><span class="p">;</span>
+        <span class="kd">private</span> <span class="n">Node</span> <span class="n">left</span><span class="p">;</span>  <span class="c1">// the left link points to a BST for items with smaller keys</span>
+        <span class="kd">private</span> <span class="n">Node</span> <span class="n">right</span><span class="p">;</span>  <span class="c1">// the right link points to a BST for items with larger keys</span>
+
+        <span class="kd">public</span> <span class="nf">Node</span> <span class="p">(</span><span class="n">Key</span> <span class="n">key</span><span class="p">,</span> <span class="n">Value</span> <span class="n">val</span><span class="p">){</span>
+           <span class="k">this</span><span class="p">.</span><span class="na">key</span> <span class="o">=</span> <span class="n">key</span><span class="p">;</span>
+           <span class="k">this</span><span class="p">.</span><span class="na">val</span> <span class="o">=</span> <span class="n">val</span><span class="p">;</span>
+        <span class="p">}</span>
+
+ <span class="p">}</span>
+</pre>
+<h4>The Implementation:</h4>
+<p>The search use the recursive algorithm to search for a key, the function get()</p>
+<pre><code>public void get (Key key){
+
+    return get(root, key);  //starting with the root of the tree
+
+}
+
+private Value get(Node x, Key key){
+
+    if(x == null) return null;
+
+    int cmp = key.compareTo(x.key);
+    if(cmp &lt; 0)
+        return get(x.left, key);
+    else if (cmp &gt; 0)
+        return get(x.right, key);
+    else
+        return x.val;
+
+}
+</code></pre>
+<p>The insert put key-value pair into BST, if key already exists, update
+with new value, the function put()</p>
+<pre class="lang-java"><span class="kd">public</span> <span class="kt">void</span> <span class="nf">put</span><span class="p">(</span><span class="n">Key</span> <span class="n">key</span><span class="p">,</span> <span class="n">Value</span> <span class="n">val</span><span class="p">){</span>
+
+    <span class="n">put</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">key</span><span class="p">,</span> <span class="n">val</span><span class="p">);</span>
+
+<span class="p">}</span>
+
+<span class="kd">private</span> <span class="n">Node</span> <span class="nf">put</span><span class="p">(</span><span class="n">Node</span> <span class="n">x</span><span class="p">,</span> <span class="n">Key</span> <span class="n">key</span><span class="p">,</span> <span class="n">Value</span> <span class="n">val</span><span class="p">){</span>
+
+    <span class="k">if</span> <span class="p">(</span><span class="n">x</span> <span class="o">==</span> <span class="kc">null</span><span class="p">)</span>
+        <span class="k">return</span> <span class="k">new</span> <span class="n">Node</span><span class="p">(</span><span class="n">key</span><span class="p">,</span> <span class="n">val</span><span class="p">);</span>
+
+    <span class="kt">int</span> <span class="n">cmp</span> <span class="o">=</span> <span class="n">key</span><span class="p">.</span><span class="na">compareTo</span><span class="p">(</span><span class="n">x</span><span class="p">.</span><span class="na">key</span><span class="p">);</span>
+    <span class="k">if</span><span class="p">(</span><span class="n">cmp</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">)</span>
+        <span class="n">x</span><span class="p">.</span><span class="na">left</span> <span class="o">=</span> <span class="n">put</span><span class="p">(</span><span class="n">x</span><span class="p">.</span><span class="na">left</span><span class="p">,</span> <span class="n">key</span><span class="p">,</span> <span class="n">val</span><span class="p">);</span> <span class="c1">//x.left is null, after new Node, put this ref to the new node into x.left</span>
+    <span class="k">if</span><span class="p">(</span><span class="n">cmp</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">)</span>
+        <span class="n">x</span><span class="p">.</span><span class="na">right</span> <span class="o">=</span> <span class="n">put</span><span class="p">(</span><span class="n">x</span><span class="p">.</span><span class="na">right</span><span class="p">,</span> <span class="n">key</span><span class="p">,</span> <span class="n">val</span><span class="p">);</span>
+    <span class="k">else</span>
+        <span class="n">x</span><span class="p">.</span><span class="na">val</span> <span class="o">=</span> <span class="n">val</span><span class="p">;</span>
+
+    <span class="k">return</span> <span class="n">x</span><span class="p">;</span>
+
+<span class="p">}</span>
+</pre>
+<h4>Performance Analysis:</h4>
+<p>The running times depend on the shapes of the trees, which depends on the <strong>order in which the
+keys come in (insert)</strong>.  (If the key is inserted in natural order, this is no difference from
+linked list).</p>
+<p><strong>Binary search trees correspond exactly to Quicksort partitioning</strong>. In
+the binary search trees, we have a root, and everybody smaller to the
+left, and everybody larger to the right. In the Quicksort
+partitioning, after the random shuffling, we have the partitioning
+element and then we process everybody to the left independently of
+everybody to the right, so, if N <strong>distinct keys</strong> are inserted into a BST
+<strong>in random order</strong>, the expected number of compares for a
+search/insert is <strong>~2lnN(about 1.39lgN) on the average</strong> .</p>
+<p>But there's problem that the actual worst
+case height if the keys come in in order and reverse order and other
+natural orders (the worst tree shape), that the time could be proportional to ~N .</p>
+<h4>Searching Algorithm - red-black BST</h4>
+<h4>Searching Algorithm - hash table</h4>
+<ul>
+<li>References:</li>
+<li><a href="http://algs4.cs.princeton.edu/32bst/">Binary Search Trees</a></li>
+</ul></p>
+</article>
+
+
+
+
+</section>
+
+
+<div class="footer">
+    <ul>
+        <small>&copy; 2021 <a href="/index.html"></a>zhaowenlong</small>
+    </ul>
+</div>

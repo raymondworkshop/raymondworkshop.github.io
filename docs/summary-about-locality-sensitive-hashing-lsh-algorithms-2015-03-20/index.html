@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<!--
+<meta http-equiv="content-language” content=”en, zh”>
+-->
+<title>  - Raymond ZHAO WENLONG</title>
+<link rel=" stylesheet" href="/static/style.css">
+<link rel="stylesheet" href="/static/pygments.css">
+<nav>
+    <h1><small><a href="/index.html">Raymond ZHAO WENLONG</a></small></h1>
+    <ul>
+        <li><a href="/index.html"> Blog </a>
+        <li><a href="/slides.html"> Slides </a>
+        <li><a href="/bookshelf.html"> Bookshelf </a>
+        <li><a href="/mini-project.html"> Mini-project </a>
+        <li><a href="/about.html"> About </a>
+    </ul>
+</nav>
+
+<section class="content">
+    <!--
+    <header>
+        
+<title> Summary about Locality-Sensitive Hashing (LSH) Algorithms</title>
+
+      </header>
+      -->
+    
+<article class="post">
+    <header>
+        <h1><strong>Summary about Locality-Sensitive Hashing (LSH) Algorithms</strong></h1>
+    </header>
+    <p class="body"><h4>Summary about fingerprint and Locality-Sensitive Hashing Alg</h4>
+<h5><a href="&quot;http://en.wikipedia.org/wiki/Fingerprint&quot;" title="Fingerprint"> Minutia </a></h5>
+<ul>
+<li>
+<p>The major minutia features of fingerprint ridges are ridge ending, bifurcation, short ridge or dot.</p>
+</li>
+<li>
+<p>A minutia, in the context of fingerprint descriptions, is a place where something unusual happens, such as two ridges merging or a ridge ending.</p>
+</li>
+<li>
+<p>Minutiae and patterns are very important in the analysis of fingerprints since no two fingers have been shown to be identical <a href="&quot;http://en.wikipedia.org/wiki/Fingerprint&quot;" title="Fingerprint">1</a>.</p>
+<ul>
+<li>
+<p>Global minutiae matching</p>
+</li>
+<li>
+<p>local minutiae structure</p>
+</li>
+</ul>
+</li>
+</ul>
+<h5>[Minutia Cylinder-code (MCC) representation] [2]</h5>
+<ul>
+<li>
+<p>MCC representation associates a local structure to each minutia.</p>
+</li>
+<li>
+<p>fingerprints are normalized for size and orientation, so that if we took two images of the same finger.</p>
+</li>
+<li>
+<p>A local structure associated to a given minutia is represented by a cylinder .</p>
+</li>
+<li>
+<p>The local minutiae representation is based on 3D data structures (called Cylinders), built from invariant distances and angles in a neighbourhood of each minutia.</p>
+</li>
+</ul>
+<h5><a href="&quot;http://infolab.stanford.edu/~ullman/mmds.html&quot;" title="Mining of Massive Datasets">Locality-Sensitive Hashing (LSH)</a></h5>
+<ul>
+<li>LSH projects the data into a low-dim space; Similar items are mapped to the same buckets with high probability. Candidate pairs are those that hash to the same bucket.</li>
+</ul>
+<p>LSH drastically reduce the number of distances to be calculated by considering only those vectors that collide with the query vector under one or more of the hash functions.</p>
+<ul>
+<li>
+<p>Generalized LSH:  Amplify using AND-OR cascades
+      ......</p>
+</li>
+<li>
+<p>LSH for Euclidean Distance
+    A set of basis functions to start LSH for Euclidean distance can be obtained by choosing random lines and projecting points onto those lines <a href="&quot;http://infolab.stanford.edu/~ullman/mmds.html&quot;" title="Mining of Massive Datasets">3</a>.  Each line is broken into fixed-length intervals, and the function answers "yes" to a pair of points that fall into the same interval.  Nearby points are always close and distant points are rarely in the same bucket.</p>
+</li>
+<li>
+<p><a href="&quot;http://www.mit.edu/~andoni/LSH/&quot;" title="E2LSH">Exact Euclidean LSH (E2LSH)</a>
+    E2LSH package provides a randomized solution for the high-dim near neighbour problem in the Euclidean space.</p>
+</li>
+</ul>
+<p>[2]: "Minutia Cylinder-code: A new Representation and Matching Technique for Fingerprint Recognition"  "MCC"</p></p>
+</article>
+
+
+
+
+</section>
+
+
+<div class="footer">
+    <ul>
+        <small>&copy; 2021 <a href="/index.html"></a>zhaowenlong</small>
+    </ul>
+</div>
