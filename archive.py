@@ -12,9 +12,9 @@ DIR = "/Users/zhaowenlong/OneDrive - The Chinese University of Hong Kong/archive
 
 
 def get_sources() -> Iterator[pathlib.Path]:
-    files = [file for file in pathlib.Path(DIR).glob("*.*") if file.is_file()]
+    return [file for file in pathlib.Path(DIR).glob("*.*") if file.is_file()]
     # return pathlib.Path(DIR).glob("*")
-    return iter(files)
+    # return iter(files)
 
 
 def archive():
