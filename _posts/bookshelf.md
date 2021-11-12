@@ -30,14 +30,17 @@ date: 2012-03-19
 
 * [Thrivers](https://www.amazon.com/Thrivers-Surprising-Reasons-Struggle-Others/dp/0593085272) by Michele Borba Ed D. (7/10)  
 * [How to Live](https://sive.rs/h) by Derek Sivers (9/10)   (note: answer one of my inner confusions)  
-* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard
-* [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   
 
 * [I Love You But](https://book.douban.com/subject/35332781/) by Andrew G. Marshall (8/10)  
 * [Getting Love Right](https://www.goodreads.com/book/show/724464.Getting_Love_Right) by Terence T. Gorski  (9/10) (note: one of the best on the relationship)  
 
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (9/10)  
+* [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/index.html) 
 * [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec 
+
+* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard 
+* [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   
+
 * [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen (8/10) 
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 

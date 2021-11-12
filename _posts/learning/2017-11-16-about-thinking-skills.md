@@ -75,7 +75,7 @@ abstract: "About thinking skills"
 * spend more time thinking carefully about a difficult and important decision  
 
 
-##### reference
+##### reference  
 * [Strategic study techniques](https://help.open.ac.uk/strategic-study-techniques)  
 
 #### creative thinking  

@@ -3,7 +3,7 @@ import pathlib
 import re
 from typing import Iterator, Sequence
 
-#import cmarkgfm
+# import cmarkgfm
 import frontmatter
 import jinja2
 
@@ -22,7 +22,7 @@ jinja_env = jinja2.Environment(
 # types = ["*.md", "*.markdown"]
 
 _markdown = markdown.Markdown(
-    extensions = [
+    extensions=[
         "tables",
         "footnotes",
         "attr_list",
@@ -39,7 +39,7 @@ def list_subdirs(root: str) -> Iterator[pathlib.Path]:
         if subdir.is_dir()
     ]
     subdirs.append(pathlib.Path("."))
-    return subdirs
+    return iter(subdirs)
 
 
 def get_sources(path: pathlib.Path) -> Iterator[pathlib.Path]:
@@ -52,7 +52,7 @@ def parse_source(source: pathlib.Path) -> frontmatter.Post:
 
 
 def render_markdown(markdown_text: str) -> str:
-    #TODO render-code
+    # TODO render-code
     _markdown.reset()
     content = _markdown.convert(markdown_text)
     content = highlighting.highlight(content)
@@ -65,13 +65,13 @@ def get_static_link(title: str) -> str:
     # like Farewell, Google -> farewell-google
     s = "-"
     link = s.join(re.findall(r"[\w]+", title)).lower()
-    
+
     return link
 
 
 def write_post(post: frontmatter.Post, content: str):
-    #print(str(post["path"]) + "/" + (post["title"]))
-    #TODO: mkdir all tag subdirs
+    # print(str(post["path"]) + "/" + (post["title"]))
+    # TODO: mkdir all tag subdirs
     """
     tags = []
     if post.get("tags"):
@@ -84,7 +84,7 @@ def write_post(post: frontmatter.Post, content: str):
             get_static_link(post["title"]) + "-" + post["date"].strftime("%Y-%m-%d")
         )
         # post["tags"] = get_static_link(post["tags"])
-        
+
         for tag in tags:
             path = pathlib.Path(
                 "./docs/{}/{}/index.html".format(
@@ -114,10 +114,11 @@ def write_post(post: frontmatter.Post, content: str):
     rendered = template.render(post=post, content=content)
     path.write_text(rendered)
 
+
 def write_pygments_style_sheet():
     css = highlighting.get_style_css(style.themeStyle)
     pathlib.Path("./docs/static/pygments.css").write_text(css)
-    
+
 
 def write_posts(path: pathlib.Path) -> Sequence[frontmatter.Post]:
     posts = []
@@ -158,15 +159,18 @@ def write_docs(root: str):
         posts = write_posts(subdir)
         write_index(posts, subdir)
 
+
 # the dir to put the src files
 SRCS = "./_posts/"
+
+
 def main():
     # doc = pathlib.Path("_posts/hello.md")
     # replace tag functions with dir
     srcs = SRCS  # by default
     target = "./docs/"
     try:
-        #TODO - CHECH THE ISSUE ON code highlighting  
+        # TODO - CHECH THE ISSUE ON code highlighting
         write_pygments_style_sheet()
         write_docs(srcs)
     except OSError as e:
@@ -175,5 +179,6 @@ def main():
 
 if __name__ == "__main__":
     import doctest
+
     doctest.testmod()
     main()

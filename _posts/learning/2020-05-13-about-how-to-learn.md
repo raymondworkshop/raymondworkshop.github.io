@@ -7,6 +7,22 @@ categories: [learning, notes, important, research]
 abstract: 'notes on Learning How to Learn, and List Some Interesting Questions'
 ---
 
+#### Learning from a master teacher   
+* a master teacher at the beginning of the learning process
+    - credentials
+    - **humility,  patience,  empathy**  
+        + focus on the interaction    
+        **proceed through praise**? 
+        show respect for the student  
+
+* keep the proper psychological distance  
+    - too far, there's no chance for the surrender to your teacher 
+    - too close, lose all perspective and become a disciple rather than a student  
+
+
+##### references 
+* [Mastery-ch5](https://book.douban.com/subject/1461005/) by George Leonard 
+
 #### Learning How to Learn - apply the ideas
 
 * practice makes permanent
