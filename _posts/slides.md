@@ -5,9 +5,12 @@ date: 2012-03-13
 
 ### List of some of my interviews/research!  
 
-#### November, 2021 - A summary and review on [Question Answering](https://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)  
+#### November, 2021 - A summary and review on Question Answering  
+* Check out the [summary](ttps://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)  
 
-#### June, 2021 - An introduction and the related experiments on [Natural Legal Language Processing](https://github.com/muyun/dev.nllp/blob/master/docs/nllp-20210618.pdf)   
+#### June, 2021 - An introduction and the related experiments on Natural Legal Language Processing
+* Check out the introduction and the related experiments on [NLP in legal domain](https://github.com/muyun/dev.nllp/blob/master/docs/nllp-20210618.pdf) 
+    - The unstructured legal texts are not only commercial applications, but also   judgments, scholarly articles, arguments an pleadings  
 
 #### Nov 24, 2019 - My slide on [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso) at HKU SPACE 
 

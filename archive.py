@@ -7,8 +7,11 @@ import pathlib
 
 import datetime
 
+import re
+
 #  the default archive dir
 DIR = "/Users/zhaowenlong/OneDrive - The Chinese University of Hong Kong/archive"
+SKIPPED_FILES = ["index.md"]
 
 
 def get_sources() -> Iterator[pathlib.Path]:
@@ -23,7 +26,7 @@ def archive():
     filenames = []
     for file in files:
         print("src: ", file)
-        if file.name in ["index.md", ".DS_Store"]:
+        if file.name in SKIPPED_FILES or re.match(file.name, ".*"):
             continue
 
         filename = file.stem + "-" + str(datetime.date.today()) + file.suffix
