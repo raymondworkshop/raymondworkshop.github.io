@@ -7,7 +7,9 @@ categories: [learning, notes, important, research]
 abstract: 'notes on Learning How to Learn, and List Some Interesting Questions'
 ---
 
-#### Learning from a master teacher   
+#### Journey Mastery  
+
+##### Learning from a master teacher   
 * a master teacher at the beginning of the learning process
     - credentials
     - **humility,  patience,  empathy**  

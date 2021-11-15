@@ -6,7 +6,7 @@ date: 2012-03-13
 ### List of some of my interviews/research!  
 
 #### November, 2021 - A summary and review on Question Answering  
-* Check out the [summary](ttps://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)  
+* Check out the summary and review on [Question Answering](ttps://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)  
 
 #### June, 2021 - An introduction and the related experiments on Natural Legal Language Processing
 * Check out the introduction and the related experiments on [NLP in legal domain](https://github.com/muyun/dev.nllp/blob/master/docs/nllp-20210618.pdf) 

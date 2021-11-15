@@ -7,7 +7,10 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### S08E09  
+obviously i didn't handle it very well
 
+> it's not a big deal 
 
 #### S08E08
 > I've got to get going  

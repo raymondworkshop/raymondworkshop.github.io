@@ -19,8 +19,8 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
         + 耶稣基督的学说不需要批评， 它是**神圣的，福音的哲学**  
         + **从耶稣基督的行为中体会它的神圣性**； 常人效法基督也可获得神圣性  
 
-
-* 爱拉斯莫的基督哲学
+####  基督哲学   
+* 爱拉斯莫的基督哲学  
     - **更多在心性**，不在于三段论， **更多在于生活意义**，不在于辩论；
     **其灵感启示** 优于饱学之士，其态度的多样性要比纯理性的玄思更重要     
 
@@ -105,6 +105,19 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 #### self - God  
 
+##### 2021-11-14  
+* 约翰福音 ch1 
+    - 对自己的启示 
+        + **遇到一个很敬仰的人， 自己应该多去和他聊天，向他学习**， 就像 “what are you staying?"  
+        + 而不是 自我封闭， 和躲避； 仅仅做一个工具人格    
+    - 代入角色（而不是旁观者）， 看 角色 在当时的情景下的 所选所想， 进而反射自己而学习  
+
+* reference  
+  >38 Jesus saw them following and asked, **"what do you want?"**   
+  > They said, **"Rabbi", "where are you staying?"**   
+  >39 "Come,", he replied, "and you will see." **So they went and saw where he was staying,and they spent thay day with him**. It was anout four in the afternoon. 
+
+
 ##### 2021-10-31    
 * 罪 - 失去靶心 - “亏缺了神的荣耀”  
     - 神的标准是 天 
@@ -127,9 +140,12 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
     - What does this teach me about how I should live?
     - What does this teach me about God? 
 
-    - **认识自己**， **和自己的connection**
+    - **认识自己**， **和自己的connection**  
         + self-reflection  
         + 而不是从上帝视角    
+
+    - 自然法 
+        + 人是通过不断地 **做善恶选择来发现**， 不是通过教导  
 
 * my questions   
     - 失去自己  
