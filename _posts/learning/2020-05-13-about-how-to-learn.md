@@ -18,7 +18,7 @@ abstract: 'notes on Learning How to Learn, and List Some Interesting Questions'
     - a positive attitude and **positive feedback and praise**   
 
     - **Once you've dealt with the negative**, **you're free to concentrate on the best in yourself**  
-        + facing the truth and then moving on**   
+        + **facing the truth and then moving on**   
         + **describing what's wrong with your life to a good friend** can make you feel better and more energetic  
         + **avoid teachers and supervisors who are highly critical in a negative sense**  
             - tell people what they're doing wrong while telling what they're doing right  
@@ -119,10 +119,10 @@ abstract: 'notes on Learning How to Learn, and List Some Interesting Questions'
     - Never hit a shot without **first clearly visualizing** the ball's perfect flight 
     and its triumphant destination   
 
-##### ch9 - explore the Edge  
-    - open to experience, to challenge previous limits, to take risks  
+##### ch9 - explore the Edge   
+* open to experience, to challenge previous limits, to take risks  
 
-    - masters share her stupid, heroic desire to use herself to the limit, 
+* masters share her stupid, heroic desire to use herself to the limit, 
     to finish at all cost, to attain the unattainable  
 
     
@@ -166,10 +166,10 @@ abstract: 'notes on Learning How to Learn, and List Some Interesting Questions'
 * 只需記住最简单的定义即可
 * **把学到的理论放到实践的情境中理解**
 * **找人指导你实践并寻求反馈**
-   - 更能从实践的失败里得到有建设性的反馈
+    - 更能从实践的失败里得到有建设性的反馈
 
 * 将反馈得到的新知识运用到下一次实践中
-* 再次找人指导你实践并寻求反馈
+* 再次找人指导你实践并寻求反馈 
 
 
 #### reference
