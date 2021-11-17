@@ -12,7 +12,7 @@
     <ul>
         <li><a href="/index.html"> Writing </a>
 
-        <li><a href="/mini-project.html"> Mini-project </a>
+        <li><a href="/mini-project.html"> Mini-projects </a>
         <li><a href="/slides.html"> Slides </a>
             <!--
         <li><a href="/bookshelf.html"> Bookshelf </a>
@@ -36,8 +36,71 @@
     </header>
     <p class="body"><h4>Systematic program design</h4>
 <ul>
-<li>problem analysis -&gt; data definitions</li>
+<li>problem analysis -&gt; data definitions </li>
 </ul>
+<h4>Python Data Model -&gt; A Framework/API for core language constructs</h4>
+<p>Python interpreter invokes special methods to perform basic object operations.</p>
+<p>By using and implementing <strong>special methods of Python Data Model</strong> in your objects, your objects can <strong>behave like the built-in types</strong>, enabling the expressive coding style <strong>Pythonic</strong>.</p>
+<h5>Data Sturctures</h5>
+<ul>
+<li>
+<p>sequences - Python sequences are often categorized as <strong>mutalbe or immutable</strong>, and also could be considered as <strong>flat sequences and container sequences</strong>.</p>
+<ul>
+<li>container sequences -&gt; hold <strong>references</strong> to the objects</li>
+<li>flat sequences (like str, bytes) -&gt; more compact because of the physically store the value</li>
+<li></li>
+<li><strong>list</strong> -&gt; mutable and mixed-type</li>
+<li>
+<p>list comprehensions and generator expression</p>
+</li>
+<li>
+<p><strong>tuples</strong> -&gt; immutable lists</p>
+</li>
+<li>tuples can hold records</li>
+<li>
+<p>tuple unpacking -&gt; parallel assignment</p>
+</li>
+<li>
+<p>array -&gt; efficient because of only <strong>the packed bytes for numeric data</strong></p>
+</li>
+<li>for large sequences of numbers, this saves a lot of memory</li>
+<li>NumPy lib</li>
+</ul>
+</li>
+<li>
+<p>dict and set</p>
+<ul>
+<li><strong>hash tables</strong> are the engines for the high performance dicts</li>
+<li>hash tables must be sparse to work, they are <strong>not space efficient</strong></li>
+</ul>
+</li>
+<li>
+<p>str versus bytes</p>
+</li>
+</ul>
+<h5>Functions as objects</h5>
+<ul>
+<li>
+<p>Functions, like integers, strings, and dictionaries, also can be a <strong>program entity</strong>, this enables programming in a <strong>functional style</strong>. </p>
+<ul>
+<li>The main ideas are that we can assign functions to variables, pass them to other functions, store them in data structures and access function attributes.</li>
+</ul>
+</li>
+<li>
+<p>function decorators and closures</p>
+</li>
+</ul>
+<h5>Object Oriented</h5>
+<h5>Control flow</h5>
+<ul>
+<li>Generators - declare a function that behaves like an iterator <ul>
+<li>yield -&gt; return the generator object </li>
+<li>yield pauses the function and saves the local state so that it can be resumed right where it left off </li>
+</ul>
+</li>
+<li>Concurrency </li>
+</ul>
+<h5>Metaprogramming</h5>
 <h4>Standard ML</h4>
 <ul>
 <li>
@@ -149,70 +212,6 @@
 </ul>
 </li>
 </ul>
-<h4>Python Data Model -&gt; A Framework/API for core language constructs</h4>
-<p>Python interpreter invokes special methods to perform basic object operations.</p>
-<p>By using and implementing <strong>special methods of Python Data Model</strong> in your objects, your objects can <strong>behave like the built-in types</strong>, enabling the expressive coding style <strong>Pythonic</strong>.</p>
-<h5>Data Sturctures</h5>
-<ul>
-<li>
-<p>sequences - Python sequences are often categorized as <strong>mutalbe or immutable</strong>, and also could be considered as <strong>flat sequences and container sequences</strong>.</p>
-<ul>
-<li>container sequences -&gt; hold <strong>references</strong> to the objects</li>
-<li>flat sequences (like str, bytes) -&gt; more compact because of the physically store the value</li>
-<li></li>
-<li><strong>list</strong> -&gt; mutable and mixed-type</li>
-<li>
-<p>list comprehensions and generator expression</p>
-</li>
-<li>
-<p><strong>tuples</strong> -&gt; immutable lists</p>
-</li>
-<li>tuples can hold records</li>
-<li>
-<p>tuple unpacking -&gt; parallel assignment</p>
-</li>
-<li>
-<p>array -&gt; efficient because of only <strong>the packed bytes for numeric data</strong></p>
-</li>
-<li>for large sequences of numbers, this saves a lot of memory</li>
-<li>NumPy lib</li>
-</ul>
-</li>
-<li>
-<p>dict and set</p>
-<ul>
-<li><strong>hash tables</strong> are the engines for the high performance dicts</li>
-<li>hash tables must be sparse to work, they are <strong>not space efficient</strong></li>
-</ul>
-</li>
-<li>
-<p>str versus bytes</p>
-</li>
-</ul>
-<h5>Functions as objects</h5>
-<ul>
-<li>
-<p>Functions, like integers, strings, and dictionaries, also can be a <strong>program entity</strong>, this enables programming in a <strong>functional style</strong>. </p>
-<ul>
-<li>The main ideas are that we can assign functions to variables, pass them to other functions, store them in data structures and access function attributes.</li>
-</ul>
-</li>
-<li>
-<p>function decorators and closures</p>
-</li>
-</ul>
-<h5>Object Oriented</h5>
-<h5>Control flow</h5>
-<ul>
-<li>Generators - declare a function that behaves like an iterator <ul>
-<li>yield -&gt; return the generator object </li>
-<li>yield pauses the function and saves the local state so that it can be resumed right where it left off </li>
-</ul>
-</li>
-<li>Concurrency </li>
-</ul>
-<h5>Metaprogramming</h5>
-<h4>typescript</h4>
 <h4>note</h4>
 <ul>
 <li>Reload modules problem in Emacs Python Shell</li>
@@ -251,6 +250,6 @@ This doesn't work with Python 3 for obvious reasons. To remove it:  unset PYTHON
 
 <div class="footer">
     <ul>
-        <small>&copy; 2021 <a href="/index.html"></a>zhaowenlong</small>
+        <small>&copy; 2021 <a href="/index.html"></a>_muyun</small>
     </ul>
 </div>

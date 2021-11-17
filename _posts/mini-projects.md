@@ -1,5 +1,5 @@
 ---
-title: Mini-project
+title: Mini-projects
 date: 2021-08-05
 ---
 

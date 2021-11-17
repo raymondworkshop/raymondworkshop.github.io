@@ -9,8 +9,9 @@ Hi, I'm _muyun, a Computer Engineer & Scientist based in Hong Kong.
 I like problem solving, and reading.  I write at [blog.reader](https://muyun.github.io/).    
 <br> 
 
-If you’ve got any questions, suggestions or would like to discuss a project then email me at wenlzhao [at] gmail [dot] com. I’d be happy to hear from you. 
-I am also available for project consulting.  You can also find me on [Twitter](https://twitter.com/_muyun).
+You can find some of my [projects](https://github.com/muyun). If you’ve got any questions, suggestions or would like to discuss, I’d be happy to hear from you. 
+
+I am also available for project consulting.  You can find me on [Twitter](https://twitter.com/_muyun).
 <br> <br> 
 
 Outside of Technology & Philosophy world, I also like self-development, and experiencing something such as nature, art, local cultures. 

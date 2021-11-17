@@ -3,7 +3,7 @@ layout: post
 title: "notes on building machine learning systems " 
 date: 2019-07-16
 comments: true
-categories: [home, machinelearning, system]
+categories: [machinelearning, system]
 abstract: "notes on machine learning systems"
 ---
 

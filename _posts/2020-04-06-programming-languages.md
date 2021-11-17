@@ -8,7 +8,57 @@ abstract: "[Updating] notes on programing languages"
 ---
 
 #### Systematic program design  
-* problem analysis -> data definitions
+* problem analysis -> data definitions 
+
+
+#### Python Data Model -> A Framework/API for core language constructs
+
+Python interpreter invokes special methods to perform basic object operations.
+
+By using and implementing **special methods of Python Data Model** in your objects, your objects can **behave like the built-in types**, enabling the expressive coding style **Pythonic**.
+
+##### Data Sturctures
+  * sequences - Python sequences are often categorized as **mutalbe or immutable**, and also could be considered as **flat sequences and container sequences**.
+    + container sequences -> hold **references** to the objects
+    + flat sequences (like str, bytes) -> more compact because of the physically store the value
+    + 
+    + **list** -> mutable and mixed-type
+      - list comprehensions and generator expression
+
+    + **tuples** -> immutable lists
+      - tuples can hold records
+      - tuple unpacking -> parallel assignment
+
+    + array -> efficient because of only **the packed bytes for numeric data**
+      - for large sequences of numbers, this saves a lot of memory
+      - NumPy lib
+  
+  * dict and set
+    + **hash tables** are the engines for the high performance dicts
+    + hash tables must be sparse to work, they are **not space efficient**
+  
+  * str versus bytes
+
+##### Functions as objects
+  * Functions, like integers, strings, and dictionaries, also can be a **program entity**, this enables programming in a **functional style**. 
+    - The main ideas are that we can assign functions to variables, pass them to other functions, store them in data structures and access function attributes.
+    
+  * function decorators and closures
+  
+    
+##### Object Oriented
+
+
+##### Control flow  
+  * Generators - declare a function that behaves like an iterator 
+    + yield -> return the generator object 
+      - yield pauses the function and saves the local state so that it can be resumed right where it left off 
+  * Concurrency 
+
+
+##### Metaprogramming 
+
+
 
 #### Standard ML 
   + functional programming
@@ -72,58 +122,6 @@ abstract: "[Updating] notes on programing languages"
   + sml-ch3
     - first-class functions
     - TODO
-
-
-#### Python Data Model -> A Framework/API for core language constructs
-
-Python interpreter invokes special methods to perform basic object operations.
-
-By using and implementing **special methods of Python Data Model** in your objects, your objects can **behave like the built-in types**, enabling the expressive coding style **Pythonic**.
-
-##### Data Sturctures
-  * sequences - Python sequences are often categorized as **mutalbe or immutable**, and also could be considered as **flat sequences and container sequences**.
-    + container sequences -> hold **references** to the objects
-    + flat sequences (like str, bytes) -> more compact because of the physically store the value
-    + 
-    + **list** -> mutable and mixed-type
-      - list comprehensions and generator expression
-
-    + **tuples** -> immutable lists
-      - tuples can hold records
-      - tuple unpacking -> parallel assignment
-
-    + array -> efficient because of only **the packed bytes for numeric data**
-      - for large sequences of numbers, this saves a lot of memory
-      - NumPy lib
-  
-  * dict and set
-    + **hash tables** are the engines for the high performance dicts
-    + hash tables must be sparse to work, they are **not space efficient**
-  
-  * str versus bytes
-
-##### Functions as objects
-  * Functions, like integers, strings, and dictionaries, also can be a **program entity**, this enables programming in a **functional style**. 
-    - The main ideas are that we can assign functions to variables, pass them to other functions, store them in data structures and access function attributes.
-    
-  * function decorators and closures
-  
-    
-##### Object Oriented
-
-
-##### Control flow  
-  * Generators - declare a function that behaves like an iterator 
-    + yield -> return the generator object 
-      - yield pauses the function and saves the local state so that it can be resumed right where it left off 
-  * Concurrency 
-
-
-##### Metaprogramming 
-
-
-#### typescript
-
 
 #### note  
  * Reload modules problem in Emacs Python Shell
