@@ -10,7 +10,7 @@ I like problem solving, and reading.  I write at [blog.reader](https://muyun.git
 <br> 
 
 If you’ve got any questions, suggestions or would like to discuss a project then email me at wenlzhao [at] gmail [dot] com. I’d be happy to hear from you. 
-I am also available for project consulting.  You can also find me on [Twitter](https://twitter.com/_muyun) or [Github](https://github.com/muyun).
+I am also available for project consulting.  You can also find me on [Twitter](https://twitter.com/_muyun).
 <br> <br> 
 
 Outside of Technology & Philosophy world, I also like self-development, and experiencing something such as local cultures, nature, and art. 
@@ -21,6 +21,5 @@ I have a BS in Electroic and Information Engineering from [Wuhan University](htt
 <br>  
 
 You can support my work by tipping me on [Ko-fi](https://ko-fi.com/raymondzhao), or send me BTC at 19YGkJm3QTARcpatbdUdmYy8ZuDLZ91nr3 .  
-
 
 Opinions here are just mine. 
