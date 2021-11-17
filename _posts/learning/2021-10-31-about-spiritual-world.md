@@ -105,6 +105,23 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 #### self - God  
 
+##### 2021-01-17  
+* 马可福音 ch1  
+    - 谦卑如 打鱼的人  
+        + respect your teacher,
+        carry himself with an air of **calm sincerity** and **unfailingly aware of everything going on around him**, **without a hint of ostentation** 
+
+* **上帝帮助那些自助的人**，不是禁娱主义超越世俗道德     
+    - 上帝应许的唯一生存方式， 不是要人们以苦修的禁娱主义超越世俗道德，
+    而是要完成**个人在现世所处地位赋予他的责任和义务** 
+    - 个人道德活动所能采取的最高形式， 应是  **履行世俗事物的义务进行评价**
+    -  **依照福音书的教诲，以耶稣为榜样，在尘世中生活，工作，这就是善行**  
+    -  创造了自己的救赎，对得救坚定不移的信念   
+    - 加尔文的伦理乃是自强、自助、勤勉、守信、虔诚，在尘世中尽自己的天职  
+        + 勤奋的创造地上的财富，就是遵从天上之父的最好方法  
+        
+* [新教伦理与资本主义精神之二:  职业是神的召唤](https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%AC%A7%E6%B4%B2%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E9%95%BF%E5%BB%8A/20211115-%E5%AE%97%E6%95%99%E6%94%B9%E9%9D%A9%E7%9A%84%E9%9B%86%E5%A4%A7%E6%88%90%E8%80%85%E7%BA%A6%E7%BF%B0%C2%B7%E5%8A%A0%E5%B0%94%E6%96%87%E7%AC%AC%E5%8D%81%E8%8A%82-%E6%96%B0%E6%95%99%E4%BC%A6%E7%90%86%E4%B8%8E%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%B2%BE%E7%A5%9E%E4%B9%8B%E4%BA%8C-%E8%81%8C%E4%B8%9A%E6%98%AF%E7%A5%9E%E7%9A%84%E5%8F%AC%E5%94%A4)
+
 ##### 2021-11-14  
 * 约翰福音 ch1 
     - 对自己的启示 
@@ -151,6 +168,14 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
     - 失去自己  
         + 自我教育， 自我成长的一部分  
         + 和耶稣融为一体， 而不是失去自己，成长的一部分  
+
+    - 不是禁娱主义的道德，而是自助   
+        + **上帝帮助那些自助的人**  
+        + 完成个人在现世所处地位赋予他的责任和义务， 不是要人们以苦修的禁娱主义超越世俗道德；
+            个人道德活动所能采取的最高形式，应是**履行世俗事物的义务**进行评价  
+        + 依照福音书的教诲，以耶稣为榜样，在尘世中生活，工作，这就是善行  
+        + 创造了自己的救赎，对得救坚定不移的信念   
+
         
 * my thinking    
     - 培养自己和god的关系, **让自己更丰富**    
