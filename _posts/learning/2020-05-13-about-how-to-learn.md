@@ -9,6 +9,53 @@ abstract: 'notes on Learning How to Learn, and List Some Interesting Questions'
 
 #### Journey Mastery  
 
+##### Dealing with Change and Homeostasis    
+* Getting energy for mastery  
+    - human energy comes into existence through use  
+    - **maintain physical fitness**  
+    
+* **Accentuate the positive** and **acknowledge the negative**   
+    - a positive attitude and **positive feedback and praise**   
+
+    - **Once you've dealt with the negative**, **you're free to concentrate on the best in yourself**  
+        + facing the truth and then moving on**   
+        + **describing what's wrong with your life to a good friend** can make you feel better and more energetic  
+        + **avoid teachers and supervisors who are highly critical in a negative sense**  
+            - tell people what they're doing wrong while telling what they're doing right  
+            - like "**Here's what I like about what you're doing, and here's how you might improve it**."  
+
+* **telling the truth**  
+    - **truth-telling works best when it involves revealing your own feelings**, 
+    **not when used to insult others and to get your own way**    
+    - **just say what we want to say**; 
+    we don't have to spend a lot of time and energy not saying something  
+        + people's energy is devoted to deceiving and hiding and remembering  
+        + reduce in mistakes and increase in productivity  
+
+* **respect but don't indulge your own dark side**  
+    - **feel your anger rising**, you can choose to work on a favorite project,
+    or to **transmute** the energy beneath your anger to fuel 
+
+* **Set your priorities**  
+    - **indecision leads to inaction** -> leads to low energy, depression, despair  
+    - in terms of energy, **it's better to make a wrong choice than none at all**  
+        + **list your priorities - for the day, for the week, for the month, for the lifetime**  
+        + set priorities by dividing the items 
+        + **take time for wise planning, and move, keep moving**  
+
+
+* aware of **the alarm bells**, and **prepare for serious negotiations**  
+    - know **how much you enjoy and profit from the change**    
+
+* practice the activity **on a regular basis**    
+    - not so much for the sake of achieving an external goal as **simply for its own sake**    
+
+* develop a **support** system  
+    - people you can **share the joys and perils of the change** you're making  
+    - people who can **tell their own stories of change and listen to yours** 
+    - people **have gone through or are going through a similar process** 
+    - people will **brace you up** when you start to backslide and encourage you when you don't  
+
 ##### Loving the plateau  
 * Practice, the path of mastery, exists only in the present  
     - you can **see it, hear it, smell it, feel it**  
@@ -46,7 +93,7 @@ abstract: 'notes on Learning How to Learn, and List Some Interesting Questions'
     - you'll find it to be a vivid place, **with its ups and downs,its challenges and comforts, its surprises, disappointments, and unconditional joys**  
         + you 'll take your share of bumps and bruises while traveling - **bruises of the ego as well as of the body, mind, and spirit** - but it might well turn out to be **the most reliable thing in your life**  
 
-##### ch7 - **surrender**  
+##### ch7 - **surrender** to your teacher, not as a guru  
 * **surrender to your teacher and to the fundamentals of the art**  
     - invoke the spirit of the fool    
     - **show more respect** for his teachers; 
