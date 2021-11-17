@@ -1,5 +1,5 @@
 ---
-title: link
+title: links
 date: 2012-03-19
 ---
 

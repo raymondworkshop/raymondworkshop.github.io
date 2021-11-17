@@ -168,7 +168,7 @@ abstract: 'notes on Learning How to Learn, and List Some Interesting Questions'
 * **找人指导你实践并寻求反馈**
     - 更能从实践的失败里得到有建设性的反馈
 
-* 将反馈得到的新知识运用到下一次实践中
+* 将反馈得到的新知识运用到下一次实践中 
 * 再次找人指导你实践并寻求反馈 
 
 
