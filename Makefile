@@ -5,7 +5,7 @@ init:
 push:
 	git add .
 	git commit -m "update" .
-	git push && git push --tags
+	git push
 
 run:
 	python3 blog.py
