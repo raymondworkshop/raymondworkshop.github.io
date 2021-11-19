@@ -3,7 +3,9 @@ layout: post
 title: "Keep my business from the practical part  "
 date: 2020-04-13
 comments: true
-categories: [notes, startup,business, ideas, important, management]
+categories: [notes, startup,business, ideas, important, management, learning]
+abstract: "Notes on the management skills"
+
 ---
 
 #### notes  
@@ -11,6 +13,7 @@ categories: [notes, startup,business, ideas, important, management]
 
 *  work in small teams/companies with the lean members    
 
+#### ideas from <The Making of a Manager>  
 
 #### ideas from <the lean-startup>   
 

@@ -9,7 +9,7 @@ abstract: "!Self Reflection"
 #### **自己的长处是什么** - 回馈分析法 feedback analysis
  * build on the strengths : write down the outcome you expect and compare results
 
- *
+ 
  * **专注于自己的长处**， 把自己放到那些能发挥长处的地方
    + 加强自己的长处 -> 哪些需要改善自己的技能或学习新技能； 知识上的差距
    + 努力学习新技能，汲取新知识

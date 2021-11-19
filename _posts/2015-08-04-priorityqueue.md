@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Priority Queue"
+title: "About Priority Queue"
 date: 2015-08-04
 categories: [algorithms]
 abstract: "About Priority Queue"

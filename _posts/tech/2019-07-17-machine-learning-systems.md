@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "notes on building machine learning systems " 
+title: "Notes on building machine learning systems " 
 date: 2019-07-16
 comments: true
 categories: [machinelearning, system]

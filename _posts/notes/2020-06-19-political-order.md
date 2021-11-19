@@ -5,6 +5,7 @@ date: 2020-06-19
 comments: true
 categories: [notes, summary, politics, important]
 ---
+
 #### notes
 
 好的學術著作其實像偵探小說

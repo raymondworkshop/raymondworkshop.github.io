@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "notes on programing languages"
+title: "Notes on programing languages"
 date: 2021-04-06 
 comments: true
 categories: [home, programming]
-abstract: "[Updating] notes on programing languages"
+abstract: "[Updating] Notes on programing languages"
 ---
 
 #### Systematic program design  
