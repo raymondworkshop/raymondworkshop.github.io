@@ -7,6 +7,134 @@ categories: [learning, thinking]
 abstract: "About thinking skills"
 ---
 
+#### Friend & Foe  
+
+##### ch1 - balance between feeling good about ourselves and feeling motivated to perform well  
+* find the right social comparison balance  
+    - help us understand how well we are doing is by looking at others  
+    - anticipate the possibility that our successes will upset others  
+        + be modest is to **share negative information**
+
+       
+* use social comparison to **boost your own movivation**   
+    - seek unfavorable comparisons if you wanna push yourself harder  
+        + light a competitive fire, consider hose who have accomplished a bit more than you have 
+
+    - seek favorable comparisons if you wanna feel happier 
+        + consider those who are less fortunate, volunteering for those less fortunate  
+
+
+##### ch2 - to be confident but also deferential  
+* **confident yet courteous** (polite and showing respect)  
+    - **knowing you're worth** and also be kind (humble and **don't look down on** others)  
+
+* **combine power and perspective-taking**  
+    - power **makes us more confident and optimistic**; and helps us reach our destination faster  
+    - need some mechanism for keeping our egos in check  
+        + **the ability to take another's perspective**   
+
+* **perspective-taking**  
+    - understand **the other's wants and needs**, what they are thinking  
+        + consciously choosing to actively get inside the head of another person  
+            - ask more critical **"why" and "what" questions**  
+            - **use facial and bodily mimicry** to facilitate perspective-taking  
+            - people like being mimicked; **mimickers seem cooperative**    
+
+        + **appreciate the needs of the others** while we need to **advance our own interests and concerns**  
+        + **too much empathy** making deep cooperation when they're likely to be exploited  
+            - **empathy (feeling the other person's emotions) is less effective** in a negotiation than is perspective-taking     
+
+    - figure out when perspective-taking helps us and when it hurts  
+        + **perspective-taking without any empathy is dangerous**    
+
+
+* to be confident  
+    - **the feeling of power** like a king, we are more likely to act like one  
+        + **your experience of your own power** can matter as much how much power you actually have 
+        + recalling an experience with power, taking on a powerful posture    
+        + one primed with power displayed greater **confidence**, and thus viewed as **more capable and competent**  
+        + power blinds us to the plight of others  
+
+    - **know you're worth**  
+
+
+##### ch6 - Trust <- balance between warmth and competence  
+* build warmth  
+    - **demonstrate concern** for others 
+        + we **trust warm people**, because they care about us  
+        + **feel emotion on the inside**, and express warmth effectively on the outside  
+        + like "I'm sorry about the rain" shows **concern and conveys warmth**
+        + **nonverbal cues** -  like **physical connection** like handshakes, an embrace, 
+    a pat on the shoulder, or even a light touch on an elbow    
+
+    - **a little vulnerability** makes you seem approachable and warm in less time  
+        + like "spilling their coffee" or "telling a bad joke"  
+ 
+
+* we **trust competent people**, because they are credible, effective, and efficient  
+    - **use the right terms and jargon** to appear competent  
+    - our deeds match our words -> hypocrite  
+
+* are you "like me" or not?  
+    - trust shoese who are "in" our group  
+    - introduce a common enemy  
+
+* **asking for advice**  
+    - seeking advice and another's perspective can lead to long-term benefits 
+    makes people **feel committed to your success** (an investment).  
+    - we just flattered someone by seeking their advice **if the request is not completely obvious**  
+        + asking for advice shows deference and respect  
+    - follow up with everyone of your advice givers and **let them know how much their insights have helped**    
+        + if you didn't take their advice, it was **their insight that helped you think about your situation in a different light**, and that their unique perspective turned out to be essential for your success  
+
+    - self-promotion doesn't always work very well    
+    
+
+##### balance between trust and deception    
+* **think carefully about what we do not want to believe**  
+    - **establish a baseline (what constitutes "normal" behaviors)**, and start to ask pressing questions
+      
+    - **actively look for those clues** we hope not to find  
+
+    - **think carefully about what we do not want to believe**,
+    and **what we want to believe**, before we place our trust in others  
+
+
+* Trust but verify  
+
+* **deception**  
+    - **intentionally misleads a target** 
+
+* balance between telling the truth and being kind  
+    - how important is it to **boost a person's self-esteem**  
+    - how useful is the feedback for their long-term success ?  
+
+* 心中宁静  
+    - 需要积极理性的生活； 需要追逐 **利益**  
+        + 只消凝神，立刻获得宁静  
+        + **inner silence and stillness** - feel the calm, control, and power hidden within you   
+        + 我不跟人比 但**我跟自己相处很好所以我自信**  
+        + 只做必须之事； 做的适宜，不做没有目标的事  
+
+    - 人生的欲望  
+        + 名利之心  
+        + 避免无聊的唯一出路，是**过一种审美的生活**， 去创造一些美出来  
+
+    - 世俗生活中，人际关系是 烦恼来源
+        + 无论爱情友情亲情， 投入不一致（深浅轻重多少），才造成痛苦困扰  
+
+
+##### ch10 - explore the mechanics of **when and how to begin a competition**
+*  know **the nature of the competition**    
+    - if names are listed sequentially, like voting, be listed first  
+    - if it is a serial competition with more than a few candidates (like an interview process), go later and preferably last  
+    - if it is a yes/no decision, know the default. if the default is unfavorable to you, go first. If the default is favorable, go last  
+
+* **a well-informed negotiator does better by going first**  
+    - take the time to **gain more information** - the item/industry, your opponent's preferences  
+    - making the first offer **anchors the negotiation in our favor**  
+   
+
 #### Strategic study and thinking  
 
 ##### classify the problems  
@@ -77,6 +205,8 @@ abstract: "About thinking skills"
 
 ##### reference  
 * [Strategic study techniques](https://help.open.ac.uk/strategic-study-techniques)  
+
+
 
 #### creative thinking  
 

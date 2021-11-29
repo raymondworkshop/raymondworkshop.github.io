@@ -34,29 +34,28 @@ date: 2012-03-19
 * [I Love You But](https://book.douban.com/subject/35332781/) by Andrew G. Marshall (8/10)  
 * [Getting Love Right](https://www.goodreads.com/book/show/724464.Getting_Love_Right) by Terence T. Gorski  (9/10) (note: one of the best on the relationship)  
 
+* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard (9/10) 
+* [Friend & Foe](https://book.douban.com/subject/26392713/) by Adam Galinsky, Maurice Schweitzer  (9/10)  
+* [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   
+
+* [The Passionate Programmer](https://book.douban.com/subject/3729539/) by Chad Fowler  
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (9/10)  
 * [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/index.html) 
 * [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec 
-
-* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard 
-* [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   
-
-* [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman / Matthias Felleisen (8/10) 
+* [The Little Schemer](https://book.douban.com/subject/1632977/) by Daniel P. Friedman, Matthias Felleisen (8/10) 
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 
 
 * [500 Lines or Less](http://aosabook.org/en/index.html)
-
+* [Building Evolutionary Architectures](https://book.douban.com/subject/27148120/) by Neal Ford, Rebecca Parsons, Patrick Kua  
 
 
 * [Zero to One](https://book.douban.com/subject/24753651/) by Peter Thiel
 * [Founders at Work](https://book.douban.com/subject/1966719/) by Jessica Livingston
-* [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
 
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.
 * [A Little History of Philosophy](https://book.douban.com/subject/6812274/) by Nigel Warburton
 * [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman 
-* [Perspective Made Easy](https://book.douban.com/subject/26436490/) by Ernest Hemingway 
 * [流言](https://book.douban.com/subject/1980436/) by 張愛玲 
 
 * [The Cashflow Quadrant](https://book.douban.com/subject/1817043/) by C. P. A. Robert T. Kiyosaki with Sharon L. Lechter

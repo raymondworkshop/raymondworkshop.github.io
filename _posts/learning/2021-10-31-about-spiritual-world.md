@@ -234,6 +234,8 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
         + **把基督思想 引导人 过 有道德生活的 智慧**  
         + deep emotional reactions => heart => good decision-making    
 
+    - 相信人的精神生活的价值  
+
     
 #### self - families    
 
