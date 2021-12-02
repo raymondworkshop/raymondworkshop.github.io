@@ -11,7 +11,7 @@ abstract: "[Improving] My framework for a pleasure of life and career"
 *  being driven by noble purposes  
 
 * mental/emotional fitness   
-    - being kind, relax, happy  
+    - being relax, happy, kind  
     - being clear-minded, calm, smart  
 
 
@@ -19,6 +19,7 @@ abstract: "[Improving] My framework for a pleasure of life and career"
 * create **life vision**  
     - get into better shape  -> **energy and health**  
         +  cooking/food     
+        +  swimming/ tennis  
     - build a successful business  ->  influence 
         +  wealthy  
     - relax more and worry less 

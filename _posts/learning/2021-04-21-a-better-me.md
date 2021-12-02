@@ -6,6 +6,8 @@ comments: true
 categories: [learning, self, insight, important]
 abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great"
 ---
+
+
 ### Goal -> be a **Great** man
 
 * **focus on yourself firstly** and stop worrying about tomorrow

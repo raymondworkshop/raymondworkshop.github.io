@@ -7,6 +7,40 @@ categories: [learning, thinking]
 abstract: "About thinking skills"
 ---
 
+#### lessons and skills  
+* skills  
+    - **做好可控的因素**， 对不可控的因素 担心也没用  
+        + 减少内耗  
+
+    - **只做必须之事**， 也把必须之事做好  
+        + 做的适宜，不做没有目标的事  
+        + 知道自己要什么  
+
+    - skipped toxic people  
+        + 负面的人 
+        + never let anyone get too comfortable with disrespecting you  
+        + deal with people how they deal with you, hardly, barely, and accordingly  
+        + stop worrying about people who doen't even care about you   
+
+    - like the people who like you back  
+        + or loyal to you  
+
+* lessons  
+    - 有底线即可  
+
+* 心中宁静  
+    - 需要积极理性的生活； 需要追逐 **利益**  
+        + 只消凝神，立刻获得宁静  
+        + **inner silence and stillness** - feel the calm, control, and power hidden within you   
+        + 我不跟人比 但**我跟自己相处很好所以我自信**  
+
+    - 人生的欲望  
+        + 名利之心  
+        + 避免无聊的唯一出路，是**过一种审美的生活**， 去创造一些美出来  
+
+    - 世俗生活中，人际关系是 烦恼来源
+        + 无论爱情友情亲情， 投入不一致（深浅轻重多少），才造成痛苦困扰  
+
 #### Friend & Foe  
 
 ##### ch1 - balance between feeling good about ourselves and feeling motivated to perform well  
@@ -108,20 +142,6 @@ abstract: "About thinking skills"
 * balance between telling the truth and being kind  
     - how important is it to **boost a person's self-esteem**  
     - how useful is the feedback for their long-term success ?  
-
-* 心中宁静  
-    - 需要积极理性的生活； 需要追逐 **利益**  
-        + 只消凝神，立刻获得宁静  
-        + **inner silence and stillness** - feel the calm, control, and power hidden within you   
-        + 我不跟人比 但**我跟自己相处很好所以我自信**  
-        + 只做必须之事； 做的适宜，不做没有目标的事  
-
-    - 人生的欲望  
-        + 名利之心  
-        + 避免无聊的唯一出路，是**过一种审美的生活**， 去创造一些美出来  
-
-    - 世俗生活中，人际关系是 烦恼来源
-        + 无论爱情友情亲情， 投入不一致（深浅轻重多少），才造成痛苦困扰  
 
 
 ##### ch10 - explore the mechanics of **when and how to begin a competition**
