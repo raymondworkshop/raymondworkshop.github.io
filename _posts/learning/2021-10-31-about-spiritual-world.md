@@ -137,6 +137,29 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 #### self - God  
 
+##### 2021-12-05  
+* 約翰福音 ch4 
+    - you would have asked him and he would have give you living water  
+        + 你早请求他，他必给你  
+    - a spring of water welling up to eternal life  
+        + 内心深处的源泉  
+    - worship the Father **in the Spirit and in truth**  
+
+* 对自己的启示  
+    - 注意沟通技巧， 注意自己说话的技巧    
+        + perspective taking  
+        + 观察其他人的相处方式  
+        + need not explain yourself to other people  
+
+##### 2021-12-02  
+* 马可福音 ch3  
+    - **竭力追求认识**耶和华  
+    - 耶稣治好枯干了一支手的人： 耶稣怒目周围看他们，**忧愁他们的心刚硬，就对那人说“伸出手来！”**      
+        + 当你受了伤，来到耶稣面前，**耶稣一定会给你信心和依靠**    
+
+* **服务对方**  
+    - 如果一个团体 **以传福音，服务对方为目标**，团队才会成长  
+
 ##### 2021-01-17  
 * 马可福音 ch1  
     - 谦卑如 打鱼的人  
@@ -158,7 +181,7 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 * 约翰福音 ch1 
     - 对自己的启示 
         + **遇到一个很敬仰的人， 自己应该多去和他聊天，向他学习**， 就像 “what are you staying?"  
-        + 而不是 自我封闭， 和躲避； 仅仅做一个工具人格    
+        + 而不是 自我封闭， 和躲避； 仅仅做一个工具人     
     - 代入角色（而不是旁观者）， 看 角色 在当时的情景下的 所选所想， 进而反射自己而学习  
 
 * reference  

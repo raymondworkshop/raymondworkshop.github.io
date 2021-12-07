@@ -1,5 +1,5 @@
 html {
-  font-family: SFMono-Regular,  Microsoft YaHei, sans-serif;
+  font-family: 'SF Mono', SFMono-Regular, Microsoft YaHei, monospace;
   background: #eee;
   padding: 1rem;
 }
@@ -11,7 +11,7 @@ body {
 }
 
 h1, h2, h3 {
-  font-family: SFMono-Regular, Microsoft YaHei, sans-serif;
+  font-family: 'SF Mono', SFMono-Regular, Microsoft YaHei, monospace;
   color: #377ba8;
   margin: 1rem 0;
 }

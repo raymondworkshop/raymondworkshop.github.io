@@ -33,7 +33,12 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + the older & wise 
         + young future talent
         + entrepreneurs
-        + diss losers
+        + diss losers 
+            - lie to you  
+            - desrespect you  
+            - use you 
+            - put you down  
+            - ones that complain, gossip, and play victim  
 
 * intentional/**planned your actions**
     - step back if you find yourself **giving more energy than you receive**
