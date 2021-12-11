@@ -31,8 +31,8 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
     - friends
         + the older & wise 
-        + young future talent
-        + entrepreneurs
+        + young future talent 
+        + entrepreneurs  
         + diss losers 
             - lie to you  
             - desrespect you  
