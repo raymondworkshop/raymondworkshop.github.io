@@ -33,12 +33,27 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + the older & wise 
         + young future talent 
         + entrepreneurs  
+         
+
+    - **self-care**  
+        + **you don't need the approval of others**   
+            - don't have to explain yourself to someone who has never taken  
+            the time to get to know you  
+            - you can lead your life, don't limit yourself  
+        + **learn to say no**  
+            - some people feel no shame when they take advantage of your kindness  
+        + avoid people  
+            - drain you  
+            - try to control you  
+            - make you question your self worth  
+            - don't apologize for their shitty behavior  
+
         + diss losers 
             - lie to you  
             - desrespect you  
-            - use you 
-            - put you down  
-            - ones that complain, gossip, and play victim  
+            - use you or put you down  
+            - ones that complain, gossip, and play victim 
+        
 
 * intentional/**planned your actions**
     - step back if you find yourself **giving more energy than you receive**

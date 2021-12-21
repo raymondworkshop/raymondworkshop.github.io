@@ -29,7 +29,7 @@ date: 2012-03-19
 * [The Rule of Management] by Richard Templar  
 
 * [Thrivers](https://www.amazon.com/Thrivers-Surprising-Reasons-Struggle-Others/dp/0593085272) by Michele Borba Ed D. (7/10)  
-* [How to Live](https://sive.rs/h) by Derek Sivers (9/10)   (note: answer one of my inner confusions)  
+* [How to Live](https://sive.rs/h) by Derek Sivers (9/10)   (note: answer one of my confusions)  
 
 * [I Love You But](https://book.douban.com/subject/35332781/) by Andrew G. Marshall (8/10)  
 * [Getting Love Right](https://www.goodreads.com/book/show/724464.Getting_Love_Right) by Terence T. Gorski  (9/10) (note: one of the best on the relationship)  

@@ -16,7 +16,7 @@ abstract: "About Beauty - photography, horse, 人类学, 手工, 雕塑, 木工,
     - 人类学 - 不一样的生活及其文化  
     - 哲学，纯粹精神价值  
 
-* 愿意享受， 而不是愿意受苦  
+* **愿意享受**， 而不是愿意受苦  
 
 #### find one to keep you creative  
 
