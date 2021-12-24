@@ -7,7 +7,6 @@ date: 2021-06-08
 
 * Macvim 
     
-
 * Rectangle  
     + cmd+crl+<-  -> Left Half  
     + cmd+crl+->  -> Right Half  

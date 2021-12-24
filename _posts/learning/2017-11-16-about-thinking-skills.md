@@ -26,7 +26,7 @@ abstract: "About thinking skills"
         + or loyal to you  
 
 * lessons  
-    - 有底线即可  
+    - 有底线即可, 无必要追求风骨  
 
 * 心中宁静  
     - 需要积极理性的生活； 需要追逐 **利益**  
@@ -110,7 +110,7 @@ abstract: "About thinking skills"
     - our deeds match our words -> hypocrite  
 
 * are you "like me" or not?  
-    - trust shoese who are "in" our group  
+    - trust those who are "in" our group  
     - introduce a common enemy  
 
 * **asking for advice**  

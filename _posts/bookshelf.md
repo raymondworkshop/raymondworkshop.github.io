@@ -37,6 +37,9 @@ date: 2012-03-19
 * [Mastery](https://book.douban.com/subject/1461005/) by George Leonard (9/10) 
 * [Friend & Foe](https://book.douban.com/subject/26392713/) by Adam Galinsky, Maurice Schweitzer  (9/10)  
 * [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   
+* [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
+* [第一爐香](https://book.douban.com/subject/1390001/) by 張愛玲
+* [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia  
 
 * [The Passionate Programmer](https://book.douban.com/subject/3729539/) by Chad Fowler  
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (9/10)  
