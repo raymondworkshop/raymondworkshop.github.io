@@ -3,7 +3,7 @@ title: About
 date: 2012-03-19
 ---
 
-Hi, I'm _muyun, a Systems analysis & Product manager based in Hong Kong.   
+Hi, I'm _muyun, a Computer Engineer & Scientist, and Product Manager based in Hong Kong.   
 <br>     
 
 I like problem solving, and reading.  I write at [blog.reader](https://muyun.github.io/).    
