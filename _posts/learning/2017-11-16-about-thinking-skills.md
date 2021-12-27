@@ -92,6 +92,33 @@ abstract: "About thinking skills"
     - **know you're worth**  
 
 
+##### ch3 - Hierarchy <- harness the benefits of hierarchy while mitigating its downsides    
+* **Hierarchy can produce the coordination effectively to implement and produce the well-conceived decision**   
+    - managers **set direction and facilitate collaboration**    
+    - **Hierarchy offers needed structure** in the face of chaos (threatening or little control)
+        + **Hierarchy helps achieve the collaborative coordination** by suppressing individual desires and synchronizing behavior  
+        + **Hierarchy helps people know who does what, when, and how**; **these rules promote efficient interactions by setting clear expectations** for the behaviors of people of different ranks  
+        + **co-leadership is a bad idea**; this creates uncertainty over who is really in charge;
+        the actions of two equally powerful people can be especially difficult to coordinate  
+
+    - **how much the group performance requires coordination** between the members  
+        + when in interdependent settings, more talent can lead to bad group performace  
+        + when individuals perform largely independent tasks, it's better have enough talent  
+
+
+* how and when to fluctuate between more versus less hierarchy    
+    - **leaders need to create psychological safety to encourage broad participation**; 
+    and a leader **sets the vision and the course and integrates all the different perspectives** to make the best decisions  
+        +  we need everyone's perspective in **a complex and dynamic decision-making**  
+        +  leaders and members need to **communicate frequently and coordinate** not only physically but also intellectually  
+        + **speak up and alert leaders** to changing conditions and impending problems  
+    
+    - promote **Psychological safety** for the lower-status members  
+        + **team members feel encouraged** to ask for clarification, to point out critical errors, and even to share new and challenging ideas  
+        + leaders **need access to the most complete and varied information**; to ensure the perspectives and wisdom of the less powerful are brought to light  
+
+
+
 ##### ch6 - Trust <- balance between warmth and competence  
 * build warmth  
     - **demonstrate concern** for others 
