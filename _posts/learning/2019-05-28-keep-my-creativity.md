@@ -8,8 +8,16 @@ abstract: "About creativity"
 ---
 
 
-
 #### ideas  
+
+* SaaS business  
+    - recur revenue  
+
+* 教育科技  
+    - 教育在线图书  
+    - 在线培训  
+    - 线下coach  
+
 
 * 电子乐  
 

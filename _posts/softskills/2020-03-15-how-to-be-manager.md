@@ -50,7 +50,8 @@ categories: [ softskills, learning, summary, management]
     - [Giving Feedback – learning to criticize in a way that actually works](http://katemats.com/giving-feedback-learning-to-criticize-in-a-way-that-actually-works/)
 
 #### Learning to coach and delegate  
-    - you are not just be the person who is the expert, you will be **someone who makes everyone better**   
+    - you are not just be the person who is the expert, 
+    you will be **someone who makes everyone better**
 
 #### The art of **delegating**    
 * change your mindset 
@@ -67,9 +68,8 @@ categories: [ softskills, learning, summary, management]
     - If worried about quality, define your quality up front when you assign the task 
 
 * **Setup some guard rails**    
-    - try to **identify what information you need to feel good** about the progress, and then **the best way to
-  get the information** without being overbearing or micromanaging the details.  
-      + like setup daily status meetings to go voer progress, bi-weekly code reviews to go over implementation, or weekly one-on-ones with other people on the project  
+    - try to **identify what information you need to feel good** about the progress, and then **the best way to get the information** without being overbearing or micromanaging the details  
+        + like setup daily status meetings to go voer progress, bi-weekly code reviews to go over implementation, or weekly one-on-ones with other people on the project  
 
 * **Help them come up with a plan**   
     - **have them draft up a plan** and bring it back to you   
@@ -101,8 +101,9 @@ categories: [ softskills, learning, summary, management]
 ### your manager   
 
 #### treat your manager as a coach, not as a judge  
-* 主动向老板寻求反馈；主动问问上司，你的哪些工作令他们印象深刻，还有哪些方面需要改进
-* 定期要求与之会面，定期了解他对你的看法
+* 主动向老板寻求反馈  
+    - **主动问问上司**，你的哪些工作令他们印象深刻，还有哪些方面需要改进
+* 定期要求与之会面，定期了解他对你的看法  
 * 把重点放在应该完成哪些目标上， 更好地了解管理层对自己的期望，不仅涉及日常工作，还包括长期思维
   
 * 自己的事情主动跟进，有什么问题就跟老板说，讨论， 如果不是自己管辖范围内的事情，别人开心就好
@@ -118,7 +119,6 @@ categories: [ softskills, learning, summary, management]
 
 
 ### Peers  
-
 
 
 
