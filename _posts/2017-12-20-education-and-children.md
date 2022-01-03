@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "关于教育"
+title: "On education"
 date: 2017-12-20
 comments: true
 categories: [notes, education]

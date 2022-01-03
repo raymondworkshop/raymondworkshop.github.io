@@ -18,8 +18,7 @@ date: 2012-03-19
 
 * [Microeconomics](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2020/home)
 
-#### reading-2021
-
+#### reading-2021  
 * [Rework](https://www.goodreads.com/book/show/6732019-rework?from_search=true&from_srp=true&qid=5B2aFWuq2G&rank=1) by Jason Fried (7/10)
 * [Getting Real](https://www.goodreads.com/book/show/447648.Getting_Real?ac=1&from_search=true&qid=GKPsjqJWKp&rank=1) by 37 Signals  (8/10) 
 * [The Rule of Life] by Richard Templar (8/10)  
@@ -30,16 +29,18 @@ date: 2012-03-19
 
 * [Thrivers](https://www.amazon.com/Thrivers-Surprising-Reasons-Struggle-Others/dp/0593085272) by Michele Borba Ed D. (7/10)  
 * [How to Live](https://sive.rs/h) by Derek Sivers (9/10)   (note: answer one of my confusions)  
-
 * [I Love You But](https://book.douban.com/subject/35332781/) by Andrew G. Marshall (8/10)  
 * [Getting Love Right](https://www.goodreads.com/book/show/724464.Getting_Love_Right) by Terence T. Gorski  (9/10) (note: one of the best on the relationship)  
 
-* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard (9/10) 
+* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard (9/10)  
 * [Friend & Foe](https://book.douban.com/subject/26392713/) by Adam Galinsky, Maurice Schweitzer  (9/10)  
 * [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   
+* [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia  
+* [Zero to One](https://book.douban.com/subject/24753651/) by Peter Thiel  
+* [Founders at Work](https://book.douban.com/subject/1966719/) by Jessica Livingston  
+
 * [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
 * [第一爐香](https://book.douban.com/subject/1390001/) by 張愛玲
-* [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia  
 
 * [The Passionate Programmer](https://book.douban.com/subject/3729539/) by Chad Fowler  
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (9/10)  
@@ -51,10 +52,6 @@ date: 2012-03-19
 
 * [500 Lines or Less](http://aosabook.org/en/index.html)
 * [Building Evolutionary Architectures](https://book.douban.com/subject/27148120/) by Neal Ford, Rebecca Parsons, Patrick Kua  
-
-
-* [Zero to One](https://book.douban.com/subject/24753651/) by Peter Thiel
-* [Founders at Work](https://book.douban.com/subject/1966719/) by Jessica Livingston
 
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.
 * [A Little History of Philosophy](https://book.douban.com/subject/6812274/) by Nigel Warburton

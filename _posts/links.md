@@ -6,7 +6,7 @@ date: 2012-03-19
 #### links  
 * [theoutline](https://theoutline.com/)  
 * [acmqueue](https://queue.acm.org/)  
-* 
+ 
 * [Vedio lectures](http://videolectures.net/)
 * [GRANTS in USA ](https://www.grants.gov/web/grants/search-grants.html)
     - especailly in small business
@@ -20,7 +20,7 @@ date: 2012-03-19
 * [SICP](https://wizardforcel.gitbooks.io/sicp-in-python/content/15.html)
 * common lisp  
     - [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
-* 
+ 
 * [books-2020](https://www.dropbox.com/sh/e1oef11vyrf6l7z/AAB6y5dZZIQKriUiAsgmB3K1a?dl=0)  
 * [Great list of books to read](https://catonmat.net/top-100-books-part-one)
 * [钱穆《国史大纲》](http://st.kanxshuo.com/book-41048-1.html) 
@@ -30,12 +30,16 @@ date: 2012-03-19
 * [courses](https://learn.saylor.org/course/index.php)
 
 #### CHECK
+* **[Joel On Software](https://www.joelonsoftware.com/)**  
+* **[danluu](https://danluu.com/)**  
+* **[Paul Graham](http://www.paulgraham.com/articles.html)**   
+
 * **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)** 
 * **[Patrick Collison](https://patrickcollison.com/)**  
 * **[Tania Rascia's frontend](https://www.taniarascia.com/blog)**  
 * **[Thoughts on programming](https://henrikwarne.com/)**  
 * [Blog Surf](https://dkb.io/)  
-* [Paul Graham](http://www.paulgraham.com/articles.html)  
+
 * **[Cate](https://cate.blog/about/)**  
 * **[Kate Matsudaira](http://katemats.com/about/)**  
 * [Tracy Chou's blog](https://triketora.com/)  
@@ -45,11 +49,10 @@ date: 2012-03-19
 * **[fs on softkills](https://fs.blog/blog/)**  
 
 
-#### tech
+#### tech  
 * **[Tim](https://www.oreilly.com/tim/)**     
-* [Joel On Software](https://www.joelonsoftware.com/)
+
 * [James Long](https://jlongster.com/)  
-* 
 * [Chip Huyen](https://huyenchip.com/)
 * [Matt Might](http://matt.might.net/articles/)
 * **[Erik Bernhardsson](https://erikbern.com/)**
@@ -65,7 +68,7 @@ date: 2012-03-19
 * [Programming](http://www.cnblogs.com/weidagang2046) 
 * [Llogiq on stuff on Rust](https://llogiq.github.io/)
 * [Dave Cheney on Golang](https://dave.cheney.net/about)
-*  
+
 * [Rich Hickey](https://purelyfunctional.tv/programmer-profiles/rich-hickey/)
 
 #### tips  
@@ -74,7 +77,7 @@ date: 2012-03-19
 
 #### skills
 * **[Alexey Guzey](https://guzey.com/)**  
-*  
+
 * [Study Hacks Blog](http://calnewport.com/blog/)
 * [Aaron Swartz](http://www.aaronsw.com/)
 * [Andrej Karpathy blog](http://karpathy.github.io/)
