@@ -164,7 +164,7 @@ abstract: "[Improving] My framework for a pleasure of life and career"
 * focus on people who share your values right from the beginning , not everyone
       
 
-* how to morality
+* how to morality  
     -  help people when you can
     -  mind your business
     -  don't gossip, backstab, break your word, betray
@@ -254,43 +254,25 @@ abstract: "[Improving] My framework for a pleasure of life and career"
 
 
 
-#### **HOW to enhance problem-soloving skills**  
-* > 建立自己做事的方法论
-    > - TODO
-    > - 以目前的知识能力, 建立一个方法系统, 试图解决一类问题
-    > - 然后, 通过一个个问题的套用, 会发现系统中许多不足之处, 刺激方法系统的演进
-    > - 当方法系统演进不了的时候, 就去大量阅读, 借用别人的方法来刺激
-
-* master some **skill, interest, or knowledge that others find valuable**
-    - once you master it, you'll be rewarded with new opportunities
-    - don't try to find your passion
-
-
-* 解决“复杂，未知问题”的能力
-    - 自己做的具体事务背后，**终极目标是什么，或者这件事情对组织的价值究竟是什么**
-    - 是否在现有位置上，**看到更长远的事情** - 是否愿意跳出现有框架，去做创新思考，解决更复杂的问题，以及去领悟问题背后的意义
-    - 决定差异的，是**你的高度，和面临那些未知的挑战与问题**
-
 
 #### **HOW to communicate well**     
 * stragegy
     - **Always give before you take**
-      + soften the ground, take the bit out of a future request, or simply create a distraction
-      + like an actual **gift**, a generous **act**, a kind **favor**, an "honest" adminssion
+        + soften the ground, take the bit out of a future request, or simply create a distraction
+        + like an actual **gift**, a generous **act**, a kind **favor**, an "honest" adminssion
     - **做人有底线就够了, 不要追求风骨, 身段**, 没有用处  
     -  **一个人不断进步的结果是遇到越来越精彩和优秀的人**，你知道他／她真的很优秀，从外在到内心  
 
     - **如果你想要说服别人，要诉诸利益**，而非诉诸理性
 
 
-* > 工作中的沟通  - 沟通是为了让进度顺利推行, 更容易做事
+* > 工作中的沟通  - 沟通是为了让进度顺利推行, 更容易做事  
     > - 对上 -> **取得信任与默契**
       > + **先听懂对方说的话, 别急着表现自己的立场与想法**
       > + 培养彼此默契, 了解双方的差异
-      > + **懂得询问公司的目标与主观的想法, 再加入适当的个人建议,
-      >     并再次询问主管对你提出的意见有何想法**
-      >   - 让主管明白你不只是听懂他的话, 而且还能抓到重点, 并且顾及不同层面并提出适当建议
-      > + 循序渐进地让主管慢慢和你站在同一阵线
+      > + **懂得询问公司的目标与主观的想法, 再加入适当的个人建议,并再次询问主管对你提出的意见有何想法**
+      >     - 让主管明白你不只是听懂他的话, 而且还能抓到重点, 并且顾及不同层面并提出适当建议
+      > + 循序渐进地让主管慢慢和你站在同一阵线  
 
     > - 对下
       > + 交代工作清楚, 确保对方明白 -> **该做的准备, 以及应达成的任务**
@@ -305,26 +287,26 @@ abstract: "[Improving] My framework for a pleasure of life and career"
         + 改掉那种沾别人点便宜就觉得别人傻的恶习, 否则, 路越走越窄
         + 别人一时不在乎并不意味着别人傻 - 他们比你聪明的多
 
-    - > win-win
+    - > win-win  
       > + **求同存异** - **共赢 + 不失原则的妥协**
-          > - **共同的，不同的和处于中间带**的观点
-      > + 风险共担, 利益共享的模式
-      > + 该讲法律的地方不要强调道德
+          > - **共同的，不同的和处于中间带**的观点  
+      > + 风险共担, 利益共享的模式  
+      > + 该讲法律的地方不要强调道德  
 
     - 沟通的关键是**找出差异与共同点**； 信任是 了解对方的核心诉求，极力维持
-        + 不是让对方全盘接受, 而是**找出彼此的差异与共同点**
-        + 协调出大家可以相互配合,折中的方式
+        + 不是让对方全盘接受, 而是**找出彼此的差异与共同点**  
+        + 协调出大家可以相互配合,折中的方式  
 
-* 社交能力
+* 社交能力  
     - > **知道怎么站在别人的角度思考问题**  
-      > + 尝试理解对方的需求；人际关系的本质是 **了解和应对别人的需求**
-      > + 外交的艺术就是把你的愿望变成别人的愿望
+      > + 尝试理解对方的需求；人际关系的本质是 **了解和应对别人的需求**  
+      > + 外交的艺术就是把你的愿望变成别人的愿望  
 
-    - > **演技/掩饰** - 改变口音
-      > + 没有信心时， 佯装自信
-      > + 一旦获得成功，假装害羞和自我怀疑，以免引发他人妒恨
+    - > **演技/掩饰** - 改变口音  
+      > + 没有信心时， 佯装自信  
+      > + 一旦获得成功，假装害羞和自我怀疑，以免引发他人妒恨  
 
-    - 有一个高质量的朋友圈（价值观一致，有一些相同的爱好，在一起说话，最好有趣一些）
+    - 有一个高质量的朋友圈（价值观一致，有一些相同的爱好，在一起说话，最好有趣一些） 
 
 
 #### **How to be healthy and be in clear&calm mind**  

@@ -12,6 +12,7 @@ abstract: "About creativity"
 
 * SaaS business  
     - recur revenue  
+    - startups, remote-working  
 
 * 教育科技  
     - 教育在线图书  

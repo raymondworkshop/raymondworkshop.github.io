@@ -16,7 +16,19 @@ date: 2012-03-19
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego 
 * [编译原理之美](https://time.geekbang.org/column/article/241656)
 
-* [Microeconomics](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2020/home)
+
+
+#### reading-2022  
+* [The Mythical Man-Month](https://book.douban.com/subject/4908230/)  
+* [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
+* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 
+* [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (9/10)  
+* [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/index.html) 
+
+* [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia  
+* [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   
+* [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
+
 
 #### reading-2021  
 * [Rework](https://www.goodreads.com/book/show/6732019-rework?from_search=true&from_srp=true&qid=5B2aFWuq2G&rank=1) by Jason Fried (7/10)
@@ -39,7 +51,6 @@ date: 2012-03-19
 * [Zero to One](https://book.douban.com/subject/24753651/) by Peter Thiel  
 * [Founders at Work](https://book.douban.com/subject/1966719/) by Jessica Livingston  
 
-* [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
 * [第一爐香](https://book.douban.com/subject/1390001/) by 張愛玲
 
 * [The Passionate Programmer](https://book.douban.com/subject/3729539/) by Chad Fowler  
