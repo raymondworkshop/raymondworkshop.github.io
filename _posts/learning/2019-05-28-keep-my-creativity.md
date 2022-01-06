@@ -9,10 +9,10 @@ abstract: "About creativity"
 
 
 #### ideas  
-
 * SaaS business  
     - recur revenue  
     - startups, remote-working  
+    - 起名字（中/英）  
 
 * 教育科技  
     - 教育在线图书  
@@ -63,9 +63,23 @@ abstract: "About creativity"
 
 #### **self** 
 
-* **希望过什么样的生活**  - creative + freedom  
-    - 针对未来的生活 
-    - 有意识地构造好圈子 
+* **希望过什么样的生活**  - creative/growth + freedom + 财务稳定  + 清醒的生活  
+    - 针对未来的生活; 有意识地构造好圈子 
+        + 重要的是生活的内容，**是否充实，是否快乐**； 在哪里生活并不重要  
+    - **life must be felt**, not observed  
+        + apply oneself to the task daily  
+        + must be willing to act, to **put excellence in one's work**    
+        + **the key is what we do** with what we know  
+        + bring these through **active participation in life**    
+        + 不要随波逐流，按照 **生存的本能去做不得不做的事情，懵懂地消耗掉生命**    
+        +  不要 **用忙碌来忘却存在**    
+
+    - happiness comes from **the full use of one's power to achieve excellence**    
+        + 对于自己的生命力，**要让它 充分表达，充分实现**  
+        + 如果是发自内心的冲动，是否为自己带来快乐和满足的感觉  
+
+* self-aware - skills and passion  
+    - 
 
 * philosophy  
     - 多研究一些问题，少谈些主义  
