@@ -19,10 +19,12 @@ date: 2012-03-19
 
 
 #### reading-2022  
-* [The Mythical Man-Month](https://book.douban.com/subject/4908230/)  
+* [張醫生於王醫生](https://book.douban.com/subject/35623209/) （7/10）  
+
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
-* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 
-* [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (9/10)  
+* [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen 
+* [Crafting Interpreters](http://craftinginterpreters.com/) by Robert Nystrom  
+* [The Mythical Man-Month](https://book.douban.com/subject/4908230/)  
 * [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/index.html) 
 
 * [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia  
