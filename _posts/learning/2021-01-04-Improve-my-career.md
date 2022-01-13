@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Improving] Building my career"
+title: "[Improving] !Building my career"
 date: 2021-01-04
 comments: true
 categories: [learning, career, todo, important]
@@ -125,8 +125,8 @@ abstract: "[Improving] Building my career"
 * > 究竟做什么并不重要, 为什么要做这件事 以及 如何做这件事才是最重要的
     > - **why, and how** is more important than what
 
-
 * **Nature and markets**, not people,  are more honest when it comes to giving feedback
+
 
 #### **HOW to enhance problem-soloving skills**  
 * > 建立自己做事的方法论
@@ -147,6 +147,41 @@ abstract: "[Improving] Building my career"
 
 
 #### **HOW to communicate well**     
+* TOIMPROVE  
+    - 注意 口语表达或文字表达的**尺度**  
+        + **词汇精准,分寸感越强，越能形成稳重而专业的气场**  
+        + “英文不太灵光，讲话不够得体”   
+        + "possibly a good way, but we have a diffferent thinking"  
+
+    - more assertive  
+        + **语气语调，更自信一些**，要听上去胸有成竹，能让客户即刻产生信赖感  
+        + 语速 放慢  
+        + fake it till you make it  
+        + “**嗯，我听到了您的问题。 这是一个值得深入探讨的问题**。我已经有了初步的想法；
+        容让我暂时圈出它，把它带到线下，周详斟酌之后，再给您一个完善成熟的答案。好，我们来看下一条 ...”  
+
+    - 向上管理  - 甲方或上司  - **培养预期**    
+        + “设身处地，良性沟通，预期磨合”  
+
+        + 能从对方的角度看待问题，能深刻理解一桩桩派发下来甚至还未曾派发下来的任务**背后的“目标”**，能够**尊重配合对方的工作习惯**，并且能够**在此基础上让对方逐渐了解我们的工作习惯**，**成功磨合双方的预期**，那就非常到位了  
+            - **不偏离自己已经给对方培养出来的预期**  
+            - 向上管理的目的， 做有用功，优化在对方眼中的工作效果   
+
+        + 了解上级类型  
+            - 严谨而事必躬亲类 - 控制欲相对较高  
+                + 跟随在对方的步骤，没有新的指示，就原地待命  
+                + 提醒 “任务受到，尚未收到模版，等待中“的事实  
+            - 粗放型的管理  - 重视概括面，要一个大的总体结果，而不是精细点  
+                
+
+        + 不要只沟通问题，要给出答案  
+            - 至少给出我们能想到的，最佳解决办法之一  
+            - 对于上级能给予什么样的帮助，基本上**描述得越具体越好**    
+                + 开口前，一定要做足功课，有备而来  
+                + 即使没如期完成，**从你每一次的沟通问题以及提供解决方法之中，也已经看到了你所遇见的阻力，知道了你确实付出了努力，也动了脑筋**，没成，不全是你的错  
+
+
+
 * stragegy
     - **Always give before you take**
         + soften the ground, take the bit out of a future request, or simply create a distraction

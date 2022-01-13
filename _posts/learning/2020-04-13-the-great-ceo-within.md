@@ -4,14 +4,23 @@ title: "Keep my business from the practical part  "
 date: 2020-04-13
 comments: true
 categories: [notes, startup,business, ideas, important, management, learning]
-abstract: "Notes on the management skills"
+abstract: "Notes on the management skills in the practical part"
 
 ---
 
 #### notes  
 *  more creative in a startup  
+    - "创建一家市值10亿美元的公司"  by Sahil Lavingia  
 
 *  work in small teams/companies with the lean members    
+
+
+*  对于 “不确定性大的事情” 的选择    
+   - 这个选择会不会**扩大视野，加深认知**    
+   - 你到底在害怕什么？  
+   - **认真地做当下能做的最好的选择**，未来就会是它最好的样子； 放下对未来的期待和担忧  
+
+   
 
 #### ideas from <The Making of a Manager>  
 
@@ -22,12 +31,12 @@ abstract: "Notes on the management skills"
 #### The Beginning  from <The Great CEO Within>  
 * **Make Money, Have Fun, Do Good**
 
-* crate a **Company**
+* crate a **Company**  
     - **Understand real customers and their problem, and then solve that problem**
 
 * The Team  -  an early-stage company with fewer than 20 people
     - **Find a partner** who has complementary skills
-        + your co-founder's purpose is to **help you achieve success in your march to product-market fit**
+        + your co-founder's purpose is to **help you achieve success in your march to product-market fit**  
 
     - founding teams should be smaller than **six people**  before product-market fit
     - The first goal should be to **achieve real product-market fit**
@@ -42,7 +51,7 @@ abstract: "Notes on the management skills"
 
         + without a formal management
 
-#### Individual Habits  - optimize yourself
+#### Individual Habits  - optimize yourself  
 * track goals, priorities, and tasks
     - get things done
     - daily review, weekly review, and monthly review
@@ -117,7 +126,7 @@ abstract: "Notes on the management skills"
         + if you wake during the night, don't fight it
            - do something soothing, like reading from a paper book
 
-* **Financial Health**
+* **Financial Health**  
     - **$10 million** -> put it into US Treasuries firstly
         + the feeling of safety
         + enough to live a wonderful life

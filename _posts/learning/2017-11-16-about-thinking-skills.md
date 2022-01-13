@@ -41,18 +41,20 @@ abstract: "About thinking skills"
     - 世俗生活中，人际关系是 烦恼来源
         + 无论爱情友情亲情， 投入不一致（深浅轻重多少），才造成痛苦困扰  
 
+
+
 #### Friend & Foe  
 
 ##### ch1 - balance between feeling good about ourselves and feeling motivated to perform well  
 * find the right social comparison balance  
-    - help us understand how well we are doing is by looking at others  
+    - **help us understand how well we are doing** is by looking at others  
     - anticipate the possibility that our successes will upset others  
         + be modest is to **share negative information**
 
        
-* use social comparison to **boost your own movivation**   
+* use social comparison to **boost your own motivation**   
     - seek unfavorable comparisons if you wanna push yourself harder  
-        + light a competitive fire, consider hose who have accomplished a bit more than you have 
+        + light a competitive fire, consider those who have accomplished a bit more than you have 
 
     - seek favorable comparisons if you wanna feel happier 
         + consider those who are less fortunate, volunteering for those less fortunate  

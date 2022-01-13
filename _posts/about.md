@@ -3,7 +3,7 @@ title: About
 date: 2012-03-19
 ---
 
-Hi, I'm _muyun, a Computer Engineer & Scientist, and Product Manager.   
+Hi, I'm _muyun, a Computer Engineer, and Product Manager.   
 <br>     
 
 I like problem solving, and reading.  I write at [blog.reader](https://muyun.github.io/).    
