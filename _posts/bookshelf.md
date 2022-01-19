@@ -5,6 +5,23 @@ date: 2012-03-19
 
 ### log of training & books and my ratings
 
+#### training-2022
+
+#### reading-2022  
+* [張醫生於王醫生](https://book.douban.com/subject/35623209/) （7/10）  
+* [馬丁·伊登](https://book.douban.com/subject/1883354/) by Jack London  
+
+* [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia  
+* [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   
+* [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
+
+* [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
+* [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen 
+* [Crafting Interpreters](http://craftinginterpreters.com/) by Robert Nystrom  
+* [The Mythical Man-Month](https://book.douban.com/subject/4908230/)  
+* [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/index.html) 
+
+
 #### training-2021
 * Entrepreneur  
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
@@ -15,22 +32,6 @@ date: 2012-03-19
 * [認知訓練營2020](https://m.igetget.com/share/course/pay/detail?id=0x1A7LvaogNXknMsY1JPpql2WmznGD)
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego 
 * [编译原理之美](https://time.geekbang.org/column/article/241656)
-
-
-
-#### reading-2022  
-* [張醫生於王醫生](https://book.douban.com/subject/35623209/) （7/10）  
-* [馬丁·伊登](https://book.douban.com/subject/1883354/) by Jack London  
-
-* [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
-* [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen 
-* [Crafting Interpreters](http://craftinginterpreters.com/) by Robert Nystrom  
-* [The Mythical Man-Month](https://book.douban.com/subject/4908230/)  
-* [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/index.html) 
-
-* [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia  
-* [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   
-* [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
 
 
 #### reading-2021  
