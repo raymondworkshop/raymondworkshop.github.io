@@ -5,7 +5,8 @@ date: 2012-03-19
 
 ### log of training & books and my ratings
 
-#### training-2022
+#### training-2022 
+* Writing  
 
 #### reading-2022  
 * [張醫生於王醫生](https://book.douban.com/subject/35623209/) （7/10）  
