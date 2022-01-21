@@ -23,6 +23,7 @@ date: 2012-03-19
 
 * [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
 
+
 #### training-2021
 * Entrepreneur  
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
@@ -78,6 +79,7 @@ date: 2012-03-19
 
 * [無窮的開始](https://book.douban.com/subject/26184242/) by 戴维·多伊奇
 
+
 #### training-2020
 
 * [Advanced Programming] with David Beazley
@@ -89,20 +91,20 @@ date: 2012-03-19
 
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie  (9/10) (note: the skill is important)
 
-* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard  (10/10) (note: so powerful sharing on the psychological journey towards the master)
+* [Mastery](https://book.douban.com/subject/1461005/) by George Leonard  (9/10) (note:  sharing on the psychological journey towards the master)
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear  (8/10) (note: Habits are the Compound interest of self-improvement)
 * [The Richest Man in Babylon](https://book.douban.com/subject/1922725/)  by George S. Clason
-* [The Millionaire Next Door](https://book.douban.com/subject/1042567/) by Thomas J Stanley (10/10)
-* [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill (10/10)  (note: about how to make Desire into reality)
-* [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by Robert T. Kiyosaki, Sharon Lechter  (9/10)  (note: About how money works, and how to have it work for you)
+* [The Millionaire Next Door](https://book.douban.com/subject/1042567/) by Thomas J Stanley (9/10)
+* [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill (9/10)  (note: about how to make Desire into reality)
+* [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by Robert T. Kiyosaki, Sharon Lechter  (9/10)  (note: about how money works, and how to have it work for you)
 
 * [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by Josh Waitzkin  (8/10)
 * [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer  (8/10)
 * [Don Quixote de la Mancha](https://book.douban.com/subject/1005918/) by Miguel de Cervantes Saavedra
-* [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet) by William Shakespeare (note: Hamlet and Don Quixote are so different but as the same great)  (9/10)
-* [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama (note: a comparative politics framework from the western perspective )  (9/10)
+* [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet) by William Shakespeare (9/10) (note: Hamlet and Don Quixote are so different but as the same great)  
+* [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama (9/10) (note: a comparative politics framework from the western perspective)  
 * [Composing Programs](http://composingprograms.com/) (8/10)
-* [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton (note: a superb guide on philosophical writing) (9/10)
+* [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton (9/10) (note: a superb guide on philosophical writing) 
 * [The Five Love Languages](https://www.goodreads.com/book/show/23878688-the-5-love-languages) by Gary Chapman (9/10)
 
 * [富蘭克林自傳](https://www.goodreads.com/book/show/28738410?ac=1&from_search=true&qid=uUZVTvNLwc&rank=3) by Benjamin Franklin (9/10)
@@ -118,6 +120,6 @@ date: 2012-03-19
 * [Design It!: From Programmer to Software Architect](https://www.goodreads.com/book/show/31670678-design-it) by Michael Keeling (7/10)
 * [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker (note: some superb pragmatic working skills) (9/10)
 
-* [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1)  (note: some softskills in the workplace and life )
-* [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner
+* [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1) (7/10) (note: some softskills in the workplace and life )
+* [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner  
 * [Dubliners](https://www.goodreads.com/book/show/11012.Dubliners?from_search=true&from_srp=true&qid=TzUuGOAZOA&rank=1) by James Joyce
