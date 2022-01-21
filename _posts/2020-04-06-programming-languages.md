@@ -2,6 +2,7 @@
 layout: post
 title: "Notes on programing languages"
 date: 2021-04-06 
+update: 2022-01-22  
 comments: true
 categories: [home, programming]
 abstract: "[Updating] Notes on programing languages"
@@ -12,8 +13,7 @@ abstract: "[Updating] Notes on programing languages"
 
 
 #### Python Data Model -> A Framework/API for core language constructs
-
-Python interpreter invokes special methods to perform basic object operations.
+We can leverage the Python Data Model to build new classes.  
 
 By using and implementing **special methods of Python Data Model** in your objects, your objects can **behave like the built-in types**, enabling the expressive coding style **Pythonic**.
 

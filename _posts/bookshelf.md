@@ -12,8 +12,8 @@ date: 2012-03-19
 * [張醫生於王醫生](https://book.douban.com/subject/35623209/) （7/10）  
 * [馬丁·伊登](https://book.douban.com/subject/1883354/) by Jack London  
 
-* [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia  
 * [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   
+* [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia  
 
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen 

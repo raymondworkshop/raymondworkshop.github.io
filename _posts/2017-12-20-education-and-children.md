@@ -1,15 +1,25 @@
 ---
 layout: post
-title: "On education"
+title: "On Education and  Learning "
 date: 2017-12-20
+update: 2022-01-22  
 comments: true
 categories: [notes, education]
-abstract: "關於教育 - 摘錄自《魔鬼老大，天使老二》"
+abstract: "On Education and  Learning "
 ---
 
-> <small>關於教育 - 摘錄自《魔鬼老大，天使老二》</small> <br/> 
+> <del><small>關於教育 - 摘錄自《魔鬼老大，天使老二》</small></del> <br/> 
 
-#### 第一章  
+#### Learning from <Artist Of Life> by Bruce Lee on 2022  
+
+The best way of learning is not through the computation of information.  
+**When we discover**, we are uncovering our own ability, our own eyes, in order to find our potential, to see what is going on, to discover how we can enlarge our lives, to find the means at our disposal that will let us cope with a difficult situation.  
+
+**The ability to really see** is something like "I am experiencing this; now I feel this; now I don't want to work anymore; now I am bored."  and sequently the world is opening up.  
+
+
+
+#### 第一章 来自于 《魔鬼老大，天使老二》  
 **喜歡创造的感觉 - 在自己手里花长时间创作出完美的作品，在职业上从技术转向产品。**
 
 **关注他们的智力和技能，也会关注他们的情感和品德。都需要成长为快乐的，独立的，有用的人。**
