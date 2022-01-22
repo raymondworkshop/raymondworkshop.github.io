@@ -10,9 +10,10 @@ abstract: "On Education and  Learning "
 
 > <del><small>關於教育 - 摘錄自《魔鬼老大，天使老二》</small></del> <br/> 
 
-#### Learning from <Artist Of Life> by Bruce Lee on 2022  
+#### Learning from Bruce Lee on 2022  
 
 The best way of learning is not through the computation of information.  
+
 **When we discover**, we are uncovering our own ability, our own eyes, in order to find our potential, to see what is going on, to discover how we can enlarge our lives, to find the means at our disposal that will let us cope with a difficult situation.  
 
 **The ability to really see** is something like "I am experiencing this; now I feel this; now I don't want to work anymore; now I am bored."  and sequently the world is opening up.  
