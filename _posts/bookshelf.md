@@ -6,6 +6,7 @@ date: 2012-03-19
 ### log of training & books and my ratings
 
 #### training-2022 
+* [Teams](https://www.coursera.org/learn/leading-teams/home/welcome) 
 * Writing  
 
 #### reading-2022  
@@ -14,8 +15,10 @@ date: 2012-03-19
 
 * [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   
 * [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia  
-
+* [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
+
+
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen 
 * [Crafting Interpreters](http://craftinginterpreters.com/) by Robert Nystrom  
 * [The Mythical Man-Month](https://book.douban.com/subject/4908230/)  
