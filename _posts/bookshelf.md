@@ -6,8 +6,11 @@ date: 2012-03-19
 ### log of training & books and my ratings
 
 #### training-2022 
-* [Teams](https://www.coursera.org/learn/leading-teams/home/welcome) 
 * Writing  
+
+* Entrepreneur  
+    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
+    - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
 
 #### reading-2022  
 * [張醫生於王醫生](https://book.douban.com/subject/35623209/) （7/10）  
@@ -15,22 +18,21 @@ date: 2012-03-19
 
 * [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   
 * [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia  
-* [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
+
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
-
-
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen 
+* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 
 * [Crafting Interpreters](http://craftinginterpreters.com/) by Robert Nystrom  
+
 * [The Mythical Man-Month](https://book.douban.com/subject/4908230/)  
 * [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/index.html) 
 
+* [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
 * [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
 
 
 #### training-2021
-* Entrepreneur  
-    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
-    - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
+
 
 * [Professional development: Improve yourself, always](https://www.coursera.org/learn/professional-development-improve-yourself/home/welcome)  
 
