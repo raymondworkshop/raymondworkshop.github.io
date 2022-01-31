@@ -6,10 +6,14 @@ tags: [diary]
 ---
 
 #### review in 2021  
+* Money is a key on this stage  
+    - make the investment automatically  
+    - set up the emergency fund -> 6 months living  
+        + this make you peaceful and focus  
 
 
 #### goals in 2022  
-* Observe and understand people
+* Observe and understand people  
     - 观察人，在当中寻找智慧，寻找门道  
     - 多读小说 
         + 观察对话背后的意图， 和如何决定  

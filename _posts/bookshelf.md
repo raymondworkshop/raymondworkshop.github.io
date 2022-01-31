@@ -8,9 +8,11 @@ date: 2012-03-19
 #### training-2022 
 * Writing  
 
-* Entrepreneur  
+* Entrepreneur
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
     - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
+    - [Critical Thinking & Problem Solving](https://www.edx.org/professional-certificate/ritx-leadership-essentials)
+    - [Business Communication](https://www.edx.org/course/business-communication-3)
 
 #### reading-2022  
 * [張醫生於王醫生](https://book.douban.com/subject/35623209/) （7/10）  
@@ -31,9 +33,7 @@ date: 2012-03-19
 * [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
 
 
-#### training-2021
-
-
+#### training-2021  
 * [Professional development: Improve yourself, always](https://www.coursera.org/learn/professional-development-improve-yourself/home/welcome)  
 
 * [認知訓練營2020](https://m.igetget.com/share/course/pay/detail?id=0x1A7LvaogNXknMsY1JPpql2WmznGD)

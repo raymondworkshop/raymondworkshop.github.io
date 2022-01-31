@@ -7,7 +7,11 @@ categories: [learning, self]
 abstract: "Know Yourself, and self-actualization"  
 ---
 
-#### Know yourself  
+#### Know yourself  - self-help  
+
+##### daily discoveries 
+* chociesless observation, honestly, wholeheartedly always doing one's best  
+* indomitable, obsessive dedication  
 
 
 #### self-actualization  
