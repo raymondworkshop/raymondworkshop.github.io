@@ -19,6 +19,7 @@ date: 2012-03-19
 * [馬丁·伊登](https://book.douban.com/subject/1883354/) by Jack London  
 
 * [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   
+* [The Subtle Art of Not Giving a Fck](https://book.douban.com/subject/26895197/) by Mark Manson  
 * [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia  
 
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 

@@ -13,7 +13,7 @@ You can find some of my projects [here](https://github.com/muyun). If you’ve g
 I’d like to hear from you.   
 <br> <br> 
 
-Outside of Technology & Philosophy world, I also like self-development, and experiencing something such as nature, local cultures, and art. 
+Outside of Technology & Philosophy world, I also like self-improvement, and experiencing something new. 
 <br> <br> 
 
 You can support my open work by tipping me on [Ko-fi](https://ko-fi.com/muyun), or send me BTC at 19YGkJm3QTARcpatbdUdmYy8ZuDLZ91nr3 .  
