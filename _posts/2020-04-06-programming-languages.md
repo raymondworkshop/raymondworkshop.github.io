@@ -42,6 +42,10 @@ By using and implementing **special methods of Python Data Model** in your objec
   
 * str versus bytes  
 
+* Variables are mere labels  
+    - the parameters in the function are **aliases** of the actual arguments  
+
+
 ##### Functions as objects
 * Functions, like integers, strings, and dictionaries, also can be a **program entity**, this enables programming in a **functional style**. 
     + The main ideas are that we can assign functions to variables, pass them to other functions, store them in data structures and access function attributes.

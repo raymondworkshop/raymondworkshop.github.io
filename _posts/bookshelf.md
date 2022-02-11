@@ -22,6 +22,7 @@ date: 2012-03-19
 * [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   
 * [The Subtle Art of Not Giving a Fck](https://book.douban.com/subject/26895197/) by Mark Manson  
 * [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia  
+* [The Long Tail](https://book.douban.com/subject/26584041/) 
 
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen 
@@ -33,6 +34,7 @@ date: 2012-03-19
 
 * [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
 * [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
+
 
 
 #### training-2021  
