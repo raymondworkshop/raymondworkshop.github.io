@@ -7,6 +7,60 @@ categories: [softskills, communication, important, notes, learning]
 abstract: "like listening, persuation ... "
 ---
 
+#### communication style  
+
+##### Interviews  
+* interviews are basic tools by which we listen, we learn, we problem solve, and we build rapport  
+
+* questions  
+    - close-ended questions  - yes/no  
+        + wanna pinpoint specific facts  
+        + a strategy to somebody who doesn't want to articulate a particular point  
+    - open-ended questions (following some close-ended questions)
+        + what/home/why  
+
+    - **strategic questions** for listening, learning, and asvancing a goal
+        + **summary questions** are clarifying questions;  help to establish the facts you understanding, and demo active listening  
+            - "Let me check to see if I understand your points ... did I get that right"  
+
+        +  leading questions 
+            - "you didn't like that movie, did you?" - she's basically telling me she didn't like that movie and feeling me out to see if I also didn't like that movie  
+            - "is it true that you're retiring next year"  - can pivot  
+
+        + clearinghouse questions  at the end of interviews  
+            - "**who else should I talk to**?" - find out who's opinion carries more weight  
+
+    - icebreaker questions  to build collaborative workplace  
+        + ask about the weather, the weekend, sth in their office or surroundings  
+        + "do u have any questions for me"  
+
+
+
+##### Scenarios in context-dependent  
+* manager  
+    - **engage with their personalities**   
+        
+
+* caretaker  
+    - engage in conversation with people  
+    - like to know what they're thinking  
+    - make sure that they feel valued in the conversation
+
+#####  styles  
+    - Analyst  
+        + quick to think and slow to speak  
+        + value accuracy in the details and likes to be right  
+
+    - Caretaker  - relatiosnhip style  
+        + focus on the feelings of other people and effective collaboration  
+
+    - Director  - decisive, competitive, delegating to others  
+        + hard-working and ambitious  
+        + tend to be the group leaders who value getting the job done with excellent results  
+
+    - Entertainer  - full of ideas and share them  
+        + love to have friends and enjoy helping others
+
 #### listening
 * many people want **approval and validation**, not "your opinion"
     - 說服別人最好的方法不是爭辯，而是**傾聽**
