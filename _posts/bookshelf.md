@@ -9,11 +9,15 @@ date: 2012-03-19
 * Writing  
     - [Refactoring English](https://refactoringenglish.com/)
 
+
+* [Success: Practical Thinking Skills](https://learning.edx.org/course/course-v1:HKPolyUx+Lifedeath101x+1T2022/home)
+
 * Entrepreneur
-    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
+    - [Business Communication](https://www.edx.org/course/business-communication-3)
+    - [Identifying Entrepreneurial Opportunities](https://learning.edx.org/course/course-v1:USMx+ENES662x+1T2020/progress) 
     - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
     - [Critical Thinking & Problem Solving](https://www.edx.org/professional-certificate/ritx-leadership-essentials)
-    - [Business Communication](https://www.edx.org/course/business-communication-3)
+    
 
 #### reading-2022  
 * [張醫生於王醫生](https://book.douban.com/subject/35623209/) （7/10）  
