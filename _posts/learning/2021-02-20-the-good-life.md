@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "notes on the GOOD life"
+title: "Notes on the GOOD life"
 date: 2021-02-20 
 comments: true
-categories: [learning, philosophy, life  ]
+categories: [learning, philosophy, life]
 abstract: "notes on the GOOD life - beauty and love "
 ---
+
+#### Success: Practical Thinking Skills  
 
 #### How to build your life  
 
@@ -118,6 +120,7 @@ abstract: "notes on the GOOD life - beauty and love "
 
 
 #### reference  
+* [Success: Practical Thinking Skills](https://learning.edx.org/course/course-v1:HKPolyUx+Lifedeath101x+1T2022/home)
 * [Fallen Leaves]  
 * [Bertrand Russell on Love, Sex, What “the Good Life” Really Means, and How We Limit Our Happiness](https://www.brainpickings.org/2015/05/18/bertrand-russell-what-i-believe-love/)  
 * [A Little History of Philosophy](https://book.douban.com/subject/6812274/) by Nigel Warburton  
