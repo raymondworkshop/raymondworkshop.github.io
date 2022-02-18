@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Success-Practical Thinking Skills"
-date: 2017-11-16
+date: 2022-02-17
 comments: true
 categories: [learning, thinking]
 abstract: "Success-Practical Thinking Skills"
@@ -22,7 +22,7 @@ abstract: "Success-Practical Thinking Skills"
 
         + success belongs only to those **who manifest the virtue of character**  
 
-        + **only people with the genuine excellence would achieve happiness**
+    - **only people with the genuine excellence would achieve happiness**
 
 
 *  **The Golden Mean** - **a balance between our rationality and our animal drives** 
@@ -31,7 +31,7 @@ abstract: "Success-Practical Thinking Skills"
         + don't do too much, and don't do too little  
 
 
-    - **use common senste to start with**, then we **learn through trial and error**   
+    - use **common senste** to start with, then we **learn through trial and error**   
         + **observe and learn from good examples**, and being excellence **takes practice**  
         + don't be disappointed at your failures  
             - **luck, good or bad, always plays its part**  
@@ -39,31 +39,33 @@ abstract: "Success-Practical Thinking Skills"
 
 
     - **live a life of continual improvement**  (learn from your mistakes)
-        + **need to deliberate before taking any action** for a better and more appropriate result  
+        +  **deliberate before taking any action** for a better and more appropriate result  
 
-        + **need to evaluate and seek further ways of improvement** after taking any action 
+        + **evaluate and seek further ways of improvement** after taking any action 
 
-        + **need to repeat the appropriate action and turn it into our habit**    
+        + **repeat the appropriate action and turn it into our habit**    
 
 
 ##### Immanuel knat - Moral values - right and wrong  
-* categorical imperative  
+* The moral law is categorical imperative  
     - **thinking rationally** is the only thing that tells us what is right and wrong  
-    - not god, not other people, not our gut feelings  
+        + not god, not other people, not our gut feelings  
     - **the sophisticated reasoning skills direct us to make the right choices in life**  
 
 * how can we **use reason to know what is right** 
     - Act only on "categorical imperative"  - **a universal law**   
         + **an unconditional commitment**  
         + avoid beging affected by any personal concerns or self-interests  
-    - a genuinely morally good person **only if he acted unconditionally**  
-    - being moral isn't easy, but it's not impossible, it's a matter of free choice  
+        
+    - **a genuinely morally good person only if he acted unconditionally**  
+
+    -  **Treat others as you want to be treated**  as a goal  
+        + being moral isn't easy, but it's not impossible, it's a matter of free choice  
 
     - **need to know the intention of the agent** before you can make a fair moral judgment  
 
 
 * how a moral life forms the core of a successful life  
-    - **Treat others as you want to be treated**  as a goal  
 
     - integrity and honesty  -  lying is always wrong 
         + because lying couldn't be universalized as a moral right for everyone  
@@ -79,7 +81,7 @@ abstract: "Success-Practical Thinking Skills"
           
     - **self-love and rational optimism**  
         + **respect the value of your own life**  
-        +  more then a tool to help you avoid pain or obtain happiness 
+        +  more than a tool to help you avoid pain or obtain happiness 
         +  **have self-love by looking for solutions**     
         +  **solutions are always there if you keep looking**  
 
