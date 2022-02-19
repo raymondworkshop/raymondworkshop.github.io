@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Success-Practical Thinking Skills"
+title: "Creative and Practical Thinking Skills"
 date: 2022-02-17
 comments: true
-categories: [learning, thinking]
-abstract: "Success-Practical Thinking Skills"
+categories: [learning, thinking, self, life, important]
+abstract: "Success: Practical Thinking Skills"
 ---
 
 #### positive values  
@@ -87,6 +87,26 @@ abstract: "Success-Practical Thinking Skills"
 
 
 ##### John Mill - Social Happiness 
+* **sustainable personal happiness** from the intellectual and moral dimensions   
+    -  acquistion of knowledge  
+        + keep your curiosity and a life-long learning attitude  
+
+    - cultivate your creative imagination 
+        + reading, watching, listening, doing yoga or meditation  
+        +  become an active participant by understanding and 
+            even mastering the tech of the works and activities so much so that **you are authoring your own aesthetic experience** from those creative works and activities  
+
+    -  cultivate your moral sentiments  
+        + **develop a compassion** for other people and humankind in general  
+
+    - not only body pleasures  
+
+* The happiness of the  greatest number of people  
+    - selfish interests must be terminated by death  
+    
+    - happier not just for yourself but also for others  
+        + cultivate your affection for your family, friends, community, and humankind 
+
 
 #### powerful skills  
 
