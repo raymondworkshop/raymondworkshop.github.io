@@ -41,7 +41,11 @@ abstract: "About thinking skills"
     - 世俗生活中，人际关系是 烦恼来源
         + 无论爱情友情亲情， 投入不一致（深浅轻重多少），才造成痛苦困扰  
 
+#### How to think clearly  
 
+* reference 
+    - [How to think clearly](https://psyche.co/guides/how-to-think-clearly-to-improve-understanding-and-communication)
+    - [Rethinking Fear](https://fs.blog/rethinking-fear/)
 
 #### Friend & Foe  
 

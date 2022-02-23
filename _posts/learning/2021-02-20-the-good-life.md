@@ -11,6 +11,9 @@ abstract: "notes on the GOOD life - beauty and love "
 
 #### How to build your life  
 
+##### Purpose in Life  
+* [Thoughts on Man's Purpose in Life](https://govleaders.org/rickover-purpose.htm)
+
 ##### My God - the source of that universal vitality  
 * my mind can deal better with things **when I have put order into them**   
 

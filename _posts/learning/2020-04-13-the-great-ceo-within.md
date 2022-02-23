@@ -20,7 +20,11 @@ abstract: "Notes on the management skills in the practical part"
    - 你到底在害怕什么？  
    - **认真地做当下能做的最好的选择**，未来就会是它最好的样子； 放下对未来的期待和担忧  
 
-   
+#### product manager 
+* TODO 
+
+* reference  
+    - [Getting Started with Agility: Essential Reading](https://holub.com/reading/)
 
 #### ideas from <The Making of a Manager>  
 
