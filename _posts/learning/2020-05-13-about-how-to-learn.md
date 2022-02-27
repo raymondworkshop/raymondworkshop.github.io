@@ -7,6 +7,10 @@ categories: [learning, notes, important, research]
 abstract: 'notes on Learning How to Learn, and List Some Interesting Questions'
 ---
 
+#### what to learn  
+* reference
+    - [What to learn](https://danluu.com/learn-what/)
+
 #### Journey Mastery  
 
 ##### Dealing with Change and Homeostasis    

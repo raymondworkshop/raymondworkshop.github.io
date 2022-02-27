@@ -3,12 +3,25 @@ layout: post
 title: "Keep my creativity from the philosophical part "
 date: 2018-05-28
 comments: true
-categories: [notes, learning, important, business, ideas, research]
+categories: [notes, learning, important, startup, ideas, research]
 abstract: "About creativity" 
 ---
 
+#### startups  
+* TODO  
+
+* reference
+    - [How to validate your startup idea quickly](https://www.ajain.tech/p/how-to-validate-your-startup-idea?utm_source=url)
+    - [Making Your Own Tools](https://futureofcoding.org/episodes/044)
+
+
 
 #### ideas  
+* Read papers  
+    - [Learning a technical subject](http://muratbuffalo.blogspot.com/2021/12/learning-technical-subject.html)
+    - [Read papers, Not too much, Mostly foundational ones](https://muratbuffalo.blogspot.com/2021/02/read-papers-not-too-much-mostly.html) 
+
+
 * services  
     - 英语流利说  
     
@@ -61,12 +74,15 @@ abstract: "About creativity"
     - chinese food  
 
 * language + social  
+    - [How to run a small social network site for your friends](https://runyourown.social/?continueFlag=22783de146e77a59faa4664ef13ba7a0)
 
 * coupon/discount sets  
 
 * finical/insurance sets  
 
 * blockchain  
+
+
 
 #### **self** 
 
@@ -86,7 +102,7 @@ abstract: "About creativity"
         + 如果是发自内心的冲动，是否为自己带来快乐和满足的感觉  
 
 * self-aware - skills and passion  
-    - 
+    
 
 * philosophy  
     - 多研究一些问题，少谈些主义  

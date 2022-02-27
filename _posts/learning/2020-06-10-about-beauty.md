@@ -29,6 +29,9 @@ abstract: "About Beauty - photography, horse, 人类学, 手工, 雕塑, 木工,
 * practice your basic skills  
 
 #### ideas  
+* 线条艺术  
+  - picasso  
+
 * 自己钟意的是线条， 轮廓， 色彩  
   - 简约， 不繁复  
   - 自身稍微粗旷， 不是很细腻  

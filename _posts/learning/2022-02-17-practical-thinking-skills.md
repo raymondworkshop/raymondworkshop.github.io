@@ -7,8 +7,146 @@ categories: [learning, thinking, self, life, important]
 abstract: "Success: Practical Thinking Skills"
 ---
 
-#### positive values  
-#####  Aristotle  - a successful life is **a life of fullilled happiness**     
+#### powerful skills  
+
+#### Practical Thinking skills  
+
+##### JK Rowling - how to make life decisions  
+* **Concentration**  
+    - become true to yourself  
+    - **only concentrate on matters truly important to you**  
+
+* **Set yourself free from fear**  
+    - already been living through the worst times  
+    - the freedom would empower one to face failure courageously   
+    - see this as an opportunity to be a new start    
+
+* build up knowledge  
+    - you will never truly know yourself or the strength of your relationships until both have been tested by **adversity**  
+    - human beings are born with survival abilities to tackle unprecedented challenges by reorientations of their mindsets and optimizing abilities  
+ 
+ * happiness  
+    - enlightened self-knowledge, self-confidence, integrity, 
+    and a sense of mission and responsibility  
+
+* humility  
+    - be humbled by the experience of being challenged by setbacks and failures, which she has successfully overcome  
+
+
+
+##### Nick Vujicic - How to Love 
+* attitudes  
+    - **gratitude** leads to appreciate what you already have  
+    - the attitude of **action**  
+    - empathy with people  
+    - **forgiveness can set you free**  
+        + "I forgave all of those kids who mocked and teased me.
+        **I forgave them to unburden myself of anger and resentment. I like myself**"
+
+* love  
+    - nurture him with love, support and encouragement from his parents   
+
+    - self-love because his families's love  
+
+    - find your true purpose, and **nurture your functional excellence**    
+        +  "each of us has some gift - a talent, a skill, a craft, a knack - that gives us pleasure and engage us, and **the path to our happiness often lies within that gift**"  
+
+
+
+##### De Bono - Six Thinking Hats  to upgrade the creativity and collaborate with people effectively  
+* The White Hat presents **pure facts**  
+    - report only the factual data related to the issues at hand  
+    - do not take sides and avoid being affected by any emotion  
+
+* The Red Hat expresses **emotion**  
+    - express your emotions, intuition, gut feelings
+
+* Black Thinking Hat highlights **cautions**  
+    - question all the ideas proposed  
+
+* Yellow Thinking Hat suggests **benefits**  
+    - the positive attitude motivates you to look for opportunities and solutions  
+    - "This might work if we move the production plan"  
+
+* Green Thinking Hat applies **Creativity** in provocative operation     
+    - suggest growth and creative discoveries  
+    - help to realize the ideas of the Yellow Thinking Hat  
+    - answer the challenges of the Black Thinking Hat  
+
+* Blue Hat masters **Processes**
+    - set the meeting agenda, draw conclusions and control the time  
+    - "Let's summarize the points first"  
+    
+
+
+##### De Bono - use Provocative Operation skills in Creativity application      
+*  **crazy ideas** 
+    + **escape from common sense**  
+    + **reverse common sense** and flip it on its head  
+    + exaggeration in numbers and quantities only  
+    + **distort a sequence of the events** so that the whole situation is twisted    
+    + wishful thinking  
+
+*  **modify crazy ideas into effective solutions**    
+    + **extract the goal** or principle you want to fulfill 
+
+    + **focus on the difference** between the crazy and normal idea    
+        - what sort of product can **capture this special difference**?  
+
+    + monitor from moment to moment  
+        - you die before you die
+
+    + extract positive aspects of a crazy idea  
+
+    + observe the circumstance when you have applied the crazy idea 
+        - you will see problems and challenges , and from this, mdoify the crazy ideas   
+
+
+##### Moser-Wellman's five-face creativity to upgrade the creativity  
+* Seer - **visualize the scenarios or ideas** in his mind 
+    - visually check and practise  
+
+* Observer  - **notice the details**    
+    - **curiosity** combined with the power of noticing the details    
+        + keep track of his observation  
+        + see the extraordinary from the ordinary  
+        + see the unfamiliar from the familiar  
+    - Just  check out the world around you 
+
+    - observe the real details of the real situation 
+
+* Alchemist  - mix the knowledge from different domains and turn it into a new application  
+    - analogical thinking in different user cases  
+    - derive **from the unusual association of unrelated elements**  
+
+* Fool 
+    - what if  ?  
+
+* Sage - **less is more and better**     
+    - "what simple solution could I create?"  
+    - remove all unnecessary elements  
+    - extract simple but inspiring morals from history  
+        + practical wisdom can be generated from the knowledge of history  
+        + turn history into inspiration and wisdom for solving the big problems of the world  
+
+
+
+#### Positive Values  - **develop and upgrade your potentials and talents**    
+* Aristotle's answer is that you should develop your talents for your ultimate good/happiness  
+
+* From Kant, you should cultivate your talent for your rationality and moral duty   
+    - Act only on the maxim whereby you can at the same time will that it should become a universal law  
+    - **you benefit from various sorts of contributions made by different talented people in society**; by the categorical imperative, you should play your part and cultivate your talents, otherwise, it's unfair and morally wrong  
+
+* From Mill, for your personal and social happiness        
+    - you can taste your personal happiness through the cultivation of your creative imagination like the intellectual and moral dimensions   
+    - when everyone fosters and contributes their talents, the outcome is more happiness in society  
+
+
+#####  **Aristotle**  - be your best self for your ultimate good   
+*  a successful life is **a life of fullilled happiness**   
+    -  cultivate your potentials and talents
+
 *  **happiness comes through achieving the best version of you**  
     - aiming at **the functional excellence as a virtue** according to the natural order  
         + everything has its unique nature and function in the nature order  
@@ -22,13 +160,17 @@ abstract: "Success: Practical Thinking Skills"
 
         + success belongs only to those **who manifest the virtue of character**  
 
-    - **only people with the genuine excellence would achieve happiness**
+    - **only people with the genuine excellence would achieve happiness**  
+        + keep sharpening your existing strengths  
+        + minimizing your weaknesses through learning and practice  
+        + the doctrine of the golden mean can keep you honing your skills in order to achieve excellence  
 
 
 *  **The Golden Mean** - **a balance between our rationality and our animal drives** 
     - **do it just right** 
         + do the right thing in the right way at the right time in the right place to the right person  
         + don't do too much, and don't do too little  
+        
 
 
     - use **common senste** to start with, then we **learn through trial and error**   
@@ -46,7 +188,9 @@ abstract: "Success: Practical Thinking Skills"
         + **repeat the appropriate action and turn it into our habit**    
 
 
-##### Immanuel knat - Moral values - right and wrong  
+##### Immanuel knat - treat others as you want to be treated for your rationality and moral duty  
+*  the importance of the Moral values - right and wrong  
+
 * The moral law is categorical imperative  
     - **thinking rationally** is the only thing that tells us what is right and wrong  
         + not god, not other people, not our gut feelings  
@@ -86,7 +230,7 @@ abstract: "Success: Practical Thinking Skills"
         +  **solutions are always there if you keep looking**  
 
 
-##### John Mill - Social Happiness 
+##### John Mill -  Happiness in each parties  for your personal and social happiness  
 * **sustainable personal happiness** from the intellectual and moral dimensions   
     -  acquistion of knowledge  
         + keep your curiosity and a life-long learning attitude  
@@ -108,7 +252,6 @@ abstract: "Success: Practical Thinking Skills"
         + cultivate your affection for your family, friends, community, and humankind 
 
 
-#### powerful skills  
 
 
 #### reference
