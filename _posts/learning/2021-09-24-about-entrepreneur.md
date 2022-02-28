@@ -5,7 +5,11 @@ tags: [learning, business]
 abstract: "Improve my mindset and knowledge on Entrepreneur"
 ---
 
-#### The Entrepreneurial Mindset 
+#### How Entrepreneurial Thinking and Acting
+
+
+* reference
+    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
 
 
 #### **make one friend** 
@@ -45,6 +49,5 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 
 #### reference
-* [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
 * [Financial Accounting Made Fun: Eliminating Your Fears](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)
 * [enter the office with a smile](https://twitter.com/Thenakedpoet2/status/1394654055599902723)

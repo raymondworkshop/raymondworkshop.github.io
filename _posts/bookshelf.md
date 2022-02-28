@@ -6,17 +6,19 @@ date: 2012-03-19
 ### log of training & books and my ratings
 
 #### training-2022 
-* Writing  
-    - [Refactoring English](https://refactoringenglish.com/)
-
-
 * [Creative and Practical Thinking Skills](https://learning.edx.org/course/course-v1:HKPolyUx+Lifedeath101x+1T2022/home)
 
-* Entrepreneur
+* Entrepreneur Mindset
+    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
+    - [Entrepreneurial Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)
+    - [Entrepreneurial Operations](https://learning.edx.org/course/course-v1:BabsonX+EPS03x+3T2018/home)
     - [Business Communication](https://www.edx.org/course/business-communication-3)
-    - [Identifying Entrepreneurial Opportunities](https://learning.edx.org/course/course-v1:USMx+ENES662x+1T2020/progress) 
     - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
-    - [Critical Thinking & Problem Solving](https://www.edx.org/professional-certificate/ritx-leadership-essentials)
+
+* Writing  
+    - [Refactoring English](https://refactoringenglish.com/)
+    - [Professional English](https://www.coursera.org/learn/speak-english-professionally/home/week/1)
+
     
 
 #### reading-2022  
