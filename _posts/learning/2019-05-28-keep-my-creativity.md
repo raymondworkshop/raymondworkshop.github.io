@@ -1,18 +1,17 @@
 ---
 layout: post
-title: "Keep my creativity from the philosophical part "
+title: "Keep my creativity"
 date: 2018-05-28
 comments: true
-categories: [notes, learning, important, startup, ideas, research]
+categories: [notes, learning,creativity, important, startup, ideas, research]
 abstract: "About creativity" 
 ---
 
-#### startups  
+#### Think Like an Artist
 * TODO  
 
-* reference
-    - [How to validate your startup idea quickly](https://www.ajain.tech/p/how-to-validate-your-startup-idea?utm_source=url)
-    - [Making Your Own Tools](https://futureofcoding.org/episodes/044)
+* reference  
+    - [Think Like an Artist](https://book.douban.com/subject/26639320/) by Will Gompertz 
 
 
 
