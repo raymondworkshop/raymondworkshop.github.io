@@ -11,7 +11,12 @@ abstract: "Success: Practical Thinking Skills"
 
 #### Practical Thinking skills  
 
-##### JK Rowling - how to make life decisions  
+##### Bruce Lee  - who are you  
+* harmony  
+
+##### JK Rowling - how to make life decisions  <- a Fool creativity 
+* Neve give up on the things you love  
+
 * **Concentration**  
     - become true to yourself  
     - **only concentrate on matters truly important to you**  
@@ -21,15 +26,18 @@ abstract: "Success: Practical Thinking Skills"
     - the freedom would empower one to face failure courageously   
     - see this as an opportunity to be a new start    
 
-* build up knowledge  
-    - you will never truly know yourself or the strength of your relationships until both have been tested by **adversity**  
-    - human beings are born with survival abilities to tackle unprecedented challenges by reorientations of their mindsets and optimizing abilities  
+* gain new knowledge about yourself from her failure   
+    - you will **never truly know yourself or the strength of your relationships until both have been tested by adversity**  
+ 
+    - human beings **are born with survival abilities** to tackle unprecedented challenges by reorientations of their mindsets and optimizing abilities  
  
  * happiness  
-    - enlightened self-knowledge, self-confidence, integrity, 
-    and a sense of mission and responsibility  
+    - happiness is not about a checklist of personal acquisitions or external recognitions  
+    - true personal happiness is about **enlightened self-knowledge, self-confidence, integrity, and a sense of mission and responsibility**  
 
-* humility  
+* the humility to know that  
+    - "Life is difficult and complicated and beyong anyone's total control and the humility to know that will enable you to survive its vicissitudes."     
+    - never give up, and stand up again  
     - be humbled by the experience of being challenged by setbacks and failures, which she has successfully overcome  
 
 
@@ -119,8 +127,12 @@ abstract: "Success: Practical Thinking Skills"
     - analogical thinking in different user cases  
     - derive **from the unusual association of unrelated elements**  
 
-* Fool 
-    - what if  ?  
+* **Fool** - Celebrate it 
+    - they would have the strong determination and persist 
+    with perseverance  
+    - the fool's inversion skill  
+    - "so what ?"  
+    - "what if I persevered?" 
 
 * Sage - **less is more and better**     
     - "what simple solution could I create?"  
@@ -171,7 +183,6 @@ abstract: "Success: Practical Thinking Skills"
         + do the right thing in the right way at the right time in the right place to the right person  
         + don't do too much, and don't do too little  
         
-
 
     - use **common senste** to start with, then we **learn through trial and error**   
         + **observe and learn from good examples**, and being excellence **takes practice**  
