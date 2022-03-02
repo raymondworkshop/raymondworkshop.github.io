@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Know Yourself"
+title: "Think For Yourself"
 date: 2017-11-16
 comments: true
 categories: [learning, self]
-abstract: "Know Yourself, and self-actualization"  
+abstract: "Think For Yourself, and self-actualization"  
 ---
+
+#### How to Think For Yourself
+
+* reference
+    -  [How to Think For Yourself](http://paulgraham.com/think.html)
 
 #### Know yourself  - self-help  
 
