@@ -60,7 +60,7 @@ because you are independent and are not a yes-man, but respectful of the decisio
  - 主动向老板寻求反馈；主动问问上司，你的哪些工作令他们印象深刻，还有哪些方面需要改进
  -  定期要求与之会面，定期了解他对你的看法
  -  把重点放在应该完成哪些目标上， 更好地了解管理层对自己的期望，不仅涉及日常工作，还包括长期思维
- -  
+  
  - 自己的事情主动跟进，有什么问题就跟老板说，讨论， 如果不是自己管辖范围内的事情，别人开心就好
 这里最重要的是你对你提出的问题已经找到合适的解决方案。  
 
@@ -95,7 +95,6 @@ most of what they wanted.</font>**  **<font color="#800080">A solution is merely
 
   - Invest in people over things but be extremely selective with the people surround yourself with
 
-  - 
 
 
 #### reference

@@ -6,7 +6,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 ---
 
 #### How Entrepreneurial Thinking and Acting
-
+* TODO
 
 * reference
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 

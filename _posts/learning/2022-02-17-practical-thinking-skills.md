@@ -262,8 +262,5 @@ abstract: "Success: Practical Thinking Skills"
     - happier not just for yourself but also for others  
         + cultivate your affection for your family, friends, community, and humankind 
 
-
-
-
 #### reference
 * [Creative and Practical Thinking Skills](https://learning.edx.org/course/course-v1:HKPolyUx+Lifedeath101x+1T2022/home)

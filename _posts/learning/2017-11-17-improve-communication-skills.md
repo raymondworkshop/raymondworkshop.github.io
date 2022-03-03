@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some learning about communication skills"
+title: "Learn about good communication skills"
 date: 2017-11-17
 comments: true
 categories: [softskills, communication, important, notes, learning]
@@ -47,19 +47,19 @@ abstract: "like listening, persuation ... "
     - make sure that they feel valued in the conversation
 
 #####  styles  
-    - Analyst  
-        + quick to think and slow to speak  
-        + value accuracy in the details and likes to be right  
+* Analyst  
+    - quick to think and slow to speak  
+    - value accuracy in the details and likes to be right  
 
-    - Caretaker  - relatiosnhip style  
-        + focus on the feelings of other people and effective collaboration  
+* Caretaker  - relatiosnhip style  
+    - focus on the feelings of other people and effective collaboration  
 
-    - Director  - decisive, competitive, delegating to others  
-        + hard-working and ambitious  
-        + tend to be the group leaders who value getting the job done with excellent results  
+* Director  - decisive, competitive, delegating to others  
+    - hard-working and ambitious  
+    - tend to be the group leaders who value getting the job done with excellent results  
 
-    - Entertainer  - full of ideas and share them  
-        + love to have friends and enjoy helping others
+*   Entertainer  - full of ideas and share them  
+    - love to have friends and enjoy helping others
 
 #### listening
 * many people want **approval and validation**, not "your opinion"

@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Keep my business from the practical part  "
+title: "Keep my business from the practical part "
 date: 2020-04-13
 comments: true
 categories: [notes, business, ideas, important, management, learning]
 abstract: "Notes on the management skills in the practical part"
-
 ---
 
 #### startups  
@@ -34,6 +33,8 @@ abstract: "Notes on the management skills in the practical part"
 * reference  
     - [Managing people](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
     - [My Emotions as a CEO](https://ryancaldbeck.co/2021/10/08/my-emotions-as-a-ceo/)
+    - [A collection of inspiring resources related to engineering management and tech leadership](https://github.com/charlax/engineering-management)
+    - [Heuristics for effective management](https://github.com/ksindi/managers-playbook)
     - [How to mentor software engineers](https://xdg.me/mentor-engineers/)
     - [A Day in the Life of an Engineering Manager](https://www.toptal.com/engineering-management/a-day-in-life-engineering-manager#employ-just-quality-engineers-today?continueFlag=4cd860c7bf88c019e991891b8fd439de)
     - [engineering-manager-role-explained](https://www.toptal.com/engineering-management/engineering-manager-role-explained)
