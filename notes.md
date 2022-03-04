@@ -1,7 +1,6 @@
 
 ### note 
-
-* search by word, name, date 
+* search docs by word, name, date 
 
 #### 2021-06-08  
 * tag  

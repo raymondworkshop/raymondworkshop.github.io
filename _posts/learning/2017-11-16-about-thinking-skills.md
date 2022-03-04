@@ -44,6 +44,8 @@ abstract: "About thinking skills"
 #### How to think clearly  
 
 * reference 
+    - [保罗·格雷厄姆：如何成为独立思考的人？](http://openmindclub.blog.caixin.com/archives/238538)
+    - [How to Think For Yourself](http://paulgraham.com/think.html)
     - [How to think clearly](https://psyche.co/guides/how-to-think-clearly-to-improve-understanding-and-communication)
     - [Rethinking Fear](https://fs.blog/rethinking-fear/)
 

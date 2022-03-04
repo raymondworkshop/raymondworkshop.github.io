@@ -31,6 +31,7 @@ abstract: "Notes on the management skills in the practical part"
 * TODO 
 
 * reference  
+    - [44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html?continueFlag=ac31708e6f6b0c4f99bffa25b3a945d8)
     - [Managing people](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
     - [My Emotions as a CEO](https://ryancaldbeck.co/2021/10/08/my-emotions-as-a-ceo/)
     - [A collection of inspiring resources related to engineering management and tech leadership](https://github.com/charlax/engineering-management)

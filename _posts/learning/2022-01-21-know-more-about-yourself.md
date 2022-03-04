@@ -1,18 +1,14 @@
 ---
 layout: post
-title: "Think For Yourself"
+title: "Know more about yourself"
 date: 2017-11-16
 comments: true
 categories: [learning, self]
-abstract: "Think For Yourself, and self-actualization"  
+abstract: "Know more about yourself, and self-actualization"  
 ---
 
-#### How to Think For Yourself
 
-* reference
-    -  [How to Think For Yourself](http://paulgraham.com/think.html)
-
-#### Know yourself  - self-help  
+#### Know more about yourself  - self-help  
 
 ##### daily discoveries 
 * chociesless observation, honestly, wholeheartedly always doing one's best  

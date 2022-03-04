@@ -50,7 +50,24 @@ By using and implementing **special methods of Python Data Model** in your objec
 * Functions, like integers, strings, and dictionaries, also can be a **program entity**, this enables programming in a **functional style**. 
     + The main ideas are that we can assign functions to variables, pass them to other functions, store them in data structures and access function attributes.
     
-* function decorators and closures
+* function decorators and closures 
+    + a decorator is a function with the decorated function parameter 
+
+``` python
+target = deco(target)
+```
+    
+``` python  
+def deco(func):
+    def inner():
+        print("running inner()")
+    return inner
+
+@deco
+def target():
+    print("running target()")
+    return
+ ```
   
     
 ##### Object Oriented

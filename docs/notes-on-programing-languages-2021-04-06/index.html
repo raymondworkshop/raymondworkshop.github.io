@@ -110,9 +110,24 @@
 </ul>
 </li>
 <li>
-<p>function decorators and closures</p>
+<p>function decorators and closures </p>
+<ul>
+<li>a decorator is a function with the decorated function parameter </li>
+</ul>
 </li>
 </ul>
+<pre class="lang-python3"><span class="n">target</span> <span class="o">=</span> <span class="n">deco</span><span class="p">(</span><span class="n">target</span><span class="p">)</span>
+</pre>
+<p>``` python<br />
+def deco(func):
+    def inner():
+        print("running inner()")
+    return inner</p>
+<p>@deco
+def target():
+    print("running target()")
+    return
+ ```</p>
 <h5>Object Oriented</h5>
 <h5>Control flow</h5>
 <ul>
