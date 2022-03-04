@@ -67,7 +67,7 @@ def deco(func):
 def target():
     print("running target()")
     return
- ```
+```
   
     
 ##### Object Oriented
