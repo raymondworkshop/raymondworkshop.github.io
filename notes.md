@@ -1,6 +1,7 @@
 
 ### note 
 * search docs by word, name, date 
+    - grep -riln "上司" _posts/
 
 #### 2021-06-08  
 * tag  

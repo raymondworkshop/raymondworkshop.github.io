@@ -19,17 +19,21 @@ By using and implementing **special methods of Python Data Model** in your objec
 
 ##### Data Sturctures
 * sequences - Python sequences are often categorized as **mutalbe or immutable**, and also could be considered as **flat sequences and container sequences**.
-    + container sequences -> hold **references** to the objects
-    + flat sequences (like str, bytes) -> more compact because of the physically store the value
+    + flat sequences like str, bytes, array.array store the value of its contents in its own memory space 
+        - more compact because of the physically store the value  
     
-    + **list** -> mutable and mixed-type
-        - list comprehensions and generator expression
+    + container sequences like list, tuple, and collections.deque  
+        - hold **references** to the objects
 
-    + **tuples** -> immutable lists
-        - tuples can hold records
-        - tuple unpacking -> parallel assignment
+    + **list** -> mutable and mixed-type 
+        - list comprehensions and generator expression 
+        - given a list t, list(t) must create a new copy of t  
 
-    + array -> efficient because of only **the packed bytes for numeric data**
+    + **tuples** as immutable lists  
+        - tuple(t) just **returns a reference to the same t**, there's no copy here 
+        - a tuple's length will never change, and a tuple uses less memory than a list  
+
+    + array.array -> efficient because of only **the packed bytes for numeric data**
         - for large sequences of numbers, this saves a lot of memory
         - NumPy lib
   
@@ -43,15 +47,15 @@ By using and implementing **special methods of Python Data Model** in your objec
 * str versus bytes  
 
 * Variables are mere labels  
-    - the parameters in the function are **aliases** of the actual arguments  
+    + the parameters in the function are **aliases** of the actual arguments  
 
 
 ##### Functions as objects
 * Functions, like integers, strings, and dictionaries, also can be a **program entity**, this enables programming in a **functional style**. 
-    + The main ideas are that we can assign functions to variables, pass them to other functions, store them in data structures and access function attributes.
+    + The main idea is to assign functions to variables, pass them to other functions, store them in data structures and access function attributes.
     
 * function decorators and closures 
-    + a decorator is a function with the decorated function parameter 
+    + a decorator like *deco* is a function with the decorated function parameter *func*  
 
 ``` python
 target = deco(target)
@@ -71,6 +75,8 @@ def target():
   
     
 ##### Object Oriented
+* duck typing 
+    + it's a sequence because it implements the necessary sequence methods
 
 
 ##### Control flow  
@@ -84,7 +90,6 @@ def target():
 ##### Metaprogramming 
 
 
-
 #### Standard ML 
 *  functional programming
 
@@ -94,8 +99,7 @@ def target():
         + **Type-checking** rules (before program runs) in current static environment
             - what type a binding has
             - produces a type or fail
-        
-
+    
     - **Evaluating** the bindings (in the dynamic environment)
         + a value or an error or an infinite loop of the preceding bindings
         +  look up value in current dynamic environment
@@ -148,7 +152,7 @@ def target():
     - first-class functions
     - TODO
 
-#### note  
+#### notes  
 * Reload modules problem in Emacs Python Shell
     - use importlib to reload(models) 
     - or use ipython and  %autoreload

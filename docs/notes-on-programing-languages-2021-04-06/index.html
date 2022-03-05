@@ -50,25 +50,34 @@
 <li>
 <p>sequences - Python sequences are often categorized as <strong>mutalbe or immutable</strong>, and also could be considered as <strong>flat sequences and container sequences</strong>.</p>
 <ul>
-<li>container sequences -&gt; hold <strong>references</strong> to the objects</li>
 <li>
-<p>flat sequences (like str, bytes) -&gt; more compact because of the physically store the value</p>
-</li>
-<li>
-<p><strong>list</strong> -&gt; mutable and mixed-type</p>
+<p>flat sequences like str, bytes, array.array store the value of its contents in its own memory space </p>
 <ul>
-<li>list comprehensions and generator expression</li>
+<li>more compact because of the physically store the value  </li>
 </ul>
 </li>
 <li>
-<p><strong>tuples</strong> -&gt; immutable lists</p>
+<p>container sequences like list, tuple, and collections.deque  </p>
 <ul>
-<li>tuples can hold records</li>
-<li>tuple unpacking -&gt; parallel assignment</li>
+<li>hold <strong>references</strong> to the objects</li>
 </ul>
 </li>
 <li>
-<p>array -&gt; efficient because of only <strong>the packed bytes for numeric data</strong></p>
+<p><strong>list</strong> -&gt; mutable and mixed-type </p>
+<ul>
+<li>list comprehensions and generator expression </li>
+<li>given a list t, list(t) must create a new copy of t  </li>
+</ul>
+</li>
+<li>
+<p><strong>tuples</strong> as immutable lists  </p>
+<ul>
+<li>tuple(t) just <strong>returns a reference to the same t</strong>, there's no copy here </li>
+<li>a tuple's length will never change, and a tuple uses less memory than a list  </li>
+</ul>
+</li>
+<li>
+<p>array.array -&gt; efficient because of only <strong>the packed bytes for numeric data</strong></p>
 <ul>
 <li>for large sequences of numbers, this saves a lot of memory</li>
 <li>NumPy lib</li>
@@ -106,13 +115,13 @@
 <li>
 <p>Functions, like integers, strings, and dictionaries, also can be a <strong>program entity</strong>, this enables programming in a <strong>functional style</strong>. </p>
 <ul>
-<li>The main ideas are that we can assign functions to variables, pass them to other functions, store them in data structures and access function attributes.</li>
+<li>The main idea is to assign functions to variables, pass them to other functions, store them in data structures and access function attributes.</li>
 </ul>
 </li>
 <li>
 <p>function decorators and closures </p>
 <ul>
-<li>a decorator is a function with the decorated function parameter </li>
+<li>a decorator like <em>deco</em> is a function with the decorated function parameter <em>func</em>  </li>
 </ul>
 </li>
 </ul>
@@ -129,6 +138,12 @@
     <span class="k">return</span>
 </pre>
 <h5>Object Oriented</h5>
+<ul>
+<li>duck typing <ul>
+<li>it's a sequence because it implements the necessary sequence methods</li>
+</ul>
+</li>
+</ul>
 <h5>Control flow</h5>
 <ul>
 <li>
@@ -264,7 +279,7 @@
 </ul>
 </li>
 </ul>
-<h4>note</h4>
+<h4>notes</h4>
 <ul>
 <li>
 <p>Reload modules problem in Emacs Python Shell</p>
