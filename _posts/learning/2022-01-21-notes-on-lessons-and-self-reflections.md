@@ -8,12 +8,16 @@ abstract: "Know more about yourself, and self-actualization; and record the less
 ---
 
 #### lessons  
+
+##### 2022-03-13
 * 内心冲突 
     - focus on more lessons
 
 * self-care  
     - 一报还一报  
     - 提前占据有利位置  
+
+* more actions  
 
 
 #### Know more about yourself  - self-help  
