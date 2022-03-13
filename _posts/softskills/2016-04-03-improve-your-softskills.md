@@ -552,6 +552,7 @@ abstract: "Some lessons or experiences about team skills, communications"
      
     - **戒贪**    
         + 不要**贪小便宜**  - 什么事情该怎么做就怎么做   
+        
     - 不要把过分亲的关系当回事   
         + 不要把人想的太好  
     - 就事论事, 对事不对人   

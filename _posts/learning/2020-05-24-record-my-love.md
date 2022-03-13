@@ -1322,5 +1322,5 @@ abstract: "!!Record my Love"
   + 这个也让我认识到 阶层的重要性， 自己可能不适合上层阶层， 但会受到 英美归国人员的 喜欢
 
 #### reference
-
+* [UNDERSTANDING FEMALE PSYCHOLOGY](https://illimitablemen.com/2016/03/16/understanding-female-psychology/)
 * [社会学博士钱岳：为什么结婚](http://zhishifenzi.blog.caixin.com/archives/180613)

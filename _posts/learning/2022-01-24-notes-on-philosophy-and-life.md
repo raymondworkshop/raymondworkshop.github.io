@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "About empiricism"
-date: 2020-08-26
+title: "Notes on Philosophy and Life"
+date: 2022-01-24
 comments: true
-categories: [learning, idea, important, todo]
-abstract: "based on what is experienced or seen rather than on theory"
+categories: [learning, thinking, philosophy, important]
+abstract: "关于实证主义哲学和生活方式"
 ---
 
 ### 关于实证主义哲学和生活方式 
@@ -64,5 +64,8 @@ from plato, Aristotle, Descartes, to Gottfried Leibuiz
 
 #### Bayesian vs frequentist   
 
-#### reference  
+
+##### reference
 * [A Little History of Philosophy](https://book.douban.com/subject/6812274/) by Nigel Warburton  
+* [Introduction to Philosophy: God, Knowledge and Consciousness](https://learning.edx.org/course/course-v1:MITx+24.00x+2T2021/home) 
+* [Fallen Leaves](https://book.douban.com/subject/26297828/) by Will Durant  

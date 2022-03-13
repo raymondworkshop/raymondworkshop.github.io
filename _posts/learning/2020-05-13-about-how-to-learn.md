@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "notes on Learning How to Learn"
+title: "Notes on Learning How to Learn"
 date: 2020-05-13
 comments: true
 categories: [learning, notes, important, research]
-abstract: 'notes on Learning How to Learn, and List Some Interesting Questions'
+abstract: 'notes on Learning How to Learn'
 ---
 
 #### what to learn  

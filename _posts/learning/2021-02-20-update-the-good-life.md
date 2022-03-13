@@ -3,7 +3,7 @@ layout: post
 title: "Notes on the GOOD life"
 date: 2021-02-20 
 comments: true
-categories: [learning, philosophy, life]
+categories: [learning, philosophy, life, important]
 abstract: "notes on the GOOD life - beauty and love "
 ---
 

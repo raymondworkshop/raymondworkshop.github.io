@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "softskills - communication"
+title: "softskills - communication skills"
 date: 2017-12-20
 comments: true
 categories: [softskills, communication]
