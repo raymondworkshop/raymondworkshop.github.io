@@ -80,9 +80,26 @@ def target():
 
 
 ##### Control flow  
-* Generators - declare a function that behaves like an iterator 
+
+* iterator  
+    + iterables have an __iter__ method that instantiates a new iterator each time.
+    + iteators implement a __next__ method that returns individual items
+
+* **Generators are iterators** that produce the values passed to *yield* 
     + yield -> return the generator object 
         - yield pauses the function and saves the local state so that it can be resumed right where it left off 
+
+    + a generator function *gen_ab* builds a generator object gen_ab() that 
+    implements the iterator interface
+
+```python
+def gen_ab():
+    yield 'A' 
+    yield 'B'  
+```
+
+    + generators as coroutines  
+
 
 * Concurrency 
 

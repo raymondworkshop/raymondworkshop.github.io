@@ -7,6 +7,15 @@ tags: [notes, softskills, insight, important, learning]
 abstract: "Notes on 'Games of Thones'"
 ---
 
+#### notes on Tyrion Lannister
+
+
+#### notes on Daenerys Targaryen  
+
+#### notes on Tarly  
+
+#### notes on Sansa Stark  
+
 #### SE07  
 "**you are right, you're not** guilty of your father's crimes.
 **And I'm not** beholden to my ancestor's vows."

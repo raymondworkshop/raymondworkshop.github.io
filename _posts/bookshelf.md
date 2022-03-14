@@ -32,7 +32,9 @@ date: 2012-03-19
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen 
 * [Structure and Interpretation of Computer Programs](https://book.douban.com/subject/1451622/)
+* [Lisp in Small Pieces](https://book.douban.com/subject/1456904/) by Christian Queinnec  
 
+* [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan 
 * [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia  
 * [The Long Tail](https://book.douban.com/subject/26584041/) 
 

@@ -147,17 +147,36 @@
 <h5>Control flow</h5>
 <ul>
 <li>
-<p>Generators - declare a function that behaves like an iterator </p>
+<p>iterator  </p>
 <ul>
-<li>yield -&gt; return the generator object <ul>
-<li>yield pauses the function and saves the local state so that it can be resumed right where it left off </li>
-</ul>
-</li>
+<li>iterables have an <strong>iter</strong> method that instantiates a new iterator each time.</li>
+<li>iteators implement a <strong>next</strong> method that returns individual items</li>
 </ul>
 </li>
 <li>
-<p>Concurrency </p>
+<p><strong>Generators are iterators</strong> that produce the values passed to <em>yield</em> </p>
+<ul>
+<li>
+<p>yield -&gt; return the generator object </p>
+<ul>
+<li>yield pauses the function and saves the local state so that it can be resumed right where it left off </li>
+</ul>
 </li>
+<li>
+<p>a generator function <em>gen_ab</em> builds a generator object gen_ab() that 
+implements the iterator interface</p>
+</li>
+</ul>
+</li>
+</ul>
+<pre class="lang-python3"><span class="k">def</span> <span class="nf">gen_ab</span><span class="p">():</span>
+    <span class="k">yield</span> <span class="s1">&#39;A&#39;</span> 
+    <span class="k">yield</span> <span class="s1">&#39;B&#39;</span>  
+</pre>
+<pre><code>+ generators as coroutines
+</code></pre>
+<ul>
+<li>Concurrency </li>
 </ul>
 <h5>Metaprogramming</h5>
 <h4>Standard ML</h4>
