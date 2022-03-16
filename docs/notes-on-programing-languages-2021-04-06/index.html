@@ -144,13 +144,13 @@
 </ul>
 </li>
 </ul>
-<h5>Control flow</h5>
+<h5>Iteration</h5>
 <ul>
 <li>
 <p>iterator  </p>
 <ul>
-<li>iterables have an <strong>iter</strong> method that instantiates a new iterator each time.</li>
-<li>iteators implement a <strong>next</strong> method that returns individual items</li>
+<li>iterables have a <em><strong>iter</strong>()</em> method that builds a new iterator each time.</li>
+<li>iteators implement a <em><strong>next</strong>()</em> method that returns individual items</li>
 </ul>
 </li>
 <li>
@@ -177,6 +177,20 @@ implements the iterator interface</p>
 </code></pre>
 <ul>
 <li>Concurrency </li>
+</ul>
+<h5>Context Managers</h5>
+<ul>
+<li>
+<p>context manager objects exist to control a <em>with</em> statement</p>
+<ul>
+<li>
+<p>The context manager interface consists of the <em><strong>enter</strong></em> and <em><strong>exit</strong></em> methods  </p>
+</li>
+<li>
+<p>using <em>@contextmanager</em> decorator instead of creating a class and implementing the interface  <em><strong>enter</strong>/<strong>exit</strong></em> methods  </p>
+</li>
+</ul>
+</li>
 </ul>
 <h5>Metaprogramming</h5>
 <h4>Standard ML</h4>

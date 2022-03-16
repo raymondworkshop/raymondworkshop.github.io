@@ -79,11 +79,11 @@ def target():
     + it's a sequence because it implements the necessary sequence methods
 
 
-##### Control flow  
+##### Iteration  
 
 * iterator  
-    + iterables have an __iter__ method that instantiates a new iterator each time.
-    + iteators implement a __next__ method that returns individual items
+    + iterables have a *__iter__()* method that builds a new iterator each time.
+    + iteators implement a *__next__()* method that returns individual items
 
 * **Generators are iterators** that produce the values passed to *yield* 
     + yield -> return the generator object 
@@ -103,6 +103,12 @@ def gen_ab():
 
 * Concurrency 
 
+##### Context Managers 
+
+* context manager objects exist to control a *with* statement
+    + The context manager interface consists of the *__enter__* and *__exit__* methods  
+
+    + using *@contextmanager* decorator instead of creating a class and implementing the interface  *__enter__/__exit__* methods  
 
 ##### Metaprogramming 
 
