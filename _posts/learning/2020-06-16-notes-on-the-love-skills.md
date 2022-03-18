@@ -128,7 +128,7 @@ categories: [notes, important, softskills, love, self]
         + **how much these sayings has marked your personality or view of the world?**
     how many of the current issues with your partner are built on these opinions?
 
-*  **Be emotionally Honest**
+*  **Be emotionally Honest**  
     - **integrity and generally tell each other the truth**
     - **list the feelings**:
         + shock - surprise, confusion, amazement
@@ -149,7 +149,7 @@ categories: [notes, important, softskills, love, self]
 
 * **communicate the feelings**
     - express your feelings to your partner
-    - specific the complaint
+    - specific the complaint 
         + '**I feel frustrated when you** ... '
     - listen attentively, acknowledge what has been said
         + '**I feel sad that you say that I** ...'

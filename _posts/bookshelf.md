@@ -10,16 +10,13 @@ date: 2012-03-19
 
 * Entrepreneur Mindset
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
-    - [Entrepreneurial Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)
-    - [Entrepreneurial Operations](https://learning.edx.org/course/course-v1:BabsonX+EPS03x+3T2018/home)
-    - [Business Communication](https://www.edx.org/course/business-communication-3)
-    - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
+    - [Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)
+    - [Good Communication](https://www.edx.org/course/business-communication-3)
+    - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)
 
 * Writing  
     - [Refactoring English](https://refactoringenglish.com/)
-    - [Professional English](https://www.coursera.org/learn/speak-english-professionally/home/week/1)
 
-    
 
 #### reading-2022  
 * [張醫生於王醫生](https://book.douban.com/subject/35623209/) （7/10）  
@@ -27,6 +24,9 @@ date: 2012-03-19
 
 * [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   (9/10)  
 * [The Subtle Art of Not Giving a Fck](https://book.douban.com/subject/26895197/) by Mark Manson  (8/10)
+* [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  
+* [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  
+
 * [The Art of Thinking Clearly](https://book.douban.com/subject/20480426/) by Rolf Dobelli 
 
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 

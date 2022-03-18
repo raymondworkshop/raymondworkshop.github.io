@@ -98,9 +98,6 @@ def gen_ab():
     yield 'B'  
 ```
 
-    + generators as coroutines  
-
-
 * Concurrency 
 
 ##### Context Managers 
@@ -109,6 +106,11 @@ def gen_ab():
     + The context manager interface consists of the *__enter__* and *__exit__* methods  
 
     + using *@contextmanager* decorator instead of creating a class and implementing the interface  *__enter__/__exit__* methods  
+
+
+#####  generators as coroutines  
+
+
 
 ##### Metaprogramming 
 

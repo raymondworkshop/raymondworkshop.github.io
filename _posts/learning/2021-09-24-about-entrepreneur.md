@@ -5,8 +5,16 @@ tags: [learning, business]
 abstract: "Improve my mindset and knowledge on Entrepreneur"
 ---
 
-#### How Entrepreneurial Thinking and Acting
-* TODO
+#### How Entrepreneurial Thinking and Acting  
+* hero  
+    - 模仿，关键是**你得找到自己的声音**  
+    - 英雄是 凡人，却**创下了远远超越凡人经验之外的成就**，以至于死后留下不朽的记忆    
+        + 英雄未必是善的； 犯下了不可饶恕的罪恶的人也可以是“英雄”  
+        + 英雄是点燃你的生命热情的人； 英雄**以一种非凡的方式践行你所珍视的价值**  
+
+* opportunity recognition  
+    
+    
 
 * reference
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 

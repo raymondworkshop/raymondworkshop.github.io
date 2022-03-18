@@ -167,6 +167,7 @@ abstract: "About thinking skills"
 
     - **think carefully about what we do not want to believe**,
     and **what we want to believe**, before we place our trust in others  
+         
 
 
 * Trust but verify  

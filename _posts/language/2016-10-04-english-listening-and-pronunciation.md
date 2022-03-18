@@ -166,6 +166,7 @@ abstract: "English Listening and Pronunciation"
 
 #### refereence
 *   **[ELP: English Listening and Pronunciation](https://homepage.ntu.edu.tw/~karchung/ELPF21.html)**  
+*   [Professional English](https://www.coursera.org/learn/speak-english-professionally/home/week/1)
 *   [Pronunciation Workshop Video Training Program](http://www.bilibili.com/video/av2681140/)
 *   [cuhk](https://www.ilc.cuhk.edu.hk/EN/ENResources/Speaking_Pronun.aspx)
 *   [HKUST](http://ilang.cle.ust.hk/pronunciation/)
