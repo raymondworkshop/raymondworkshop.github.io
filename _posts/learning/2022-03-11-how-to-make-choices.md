@@ -7,8 +7,41 @@ categories: [home, important, self, softskills]
 abstract: "[Updating] How to make choices"
 ---
 
-#### basics  
+#### Man's Purpose in Life  
 
+* some basic principles of existence  
+
+    - Acceptance of responsibility  
+
+    - Perseverance  
+
+    - **Strive for excellence** 
+        + happiness comes from the full use of one's power to achieve excellence  
+        + fill Life with achieving and exercising excellence  
+
+        + **Mediocrity** can destroy us as surely as perils far more famous  
+            - living with excellence
+
+    - Creativity  
+        + To find an undeveloped situation, to see the possibilities, to decide upon a course 
+    of action, and then devote the whole of one's resources to carry it out, even if it means
+    battling against the stream of contemporary opinion  
+
+    - take courage to stand and fight for 
+        + you have to start it over again each morning as the sun rises  
+
+
+    - the development of standards of ethical and moral conduct  
+
+
+*  **Life must be felt**, not observed  
+    - **to create, to excel, and to be concerned** about the world and its affairs 
+
+* reference 
+    - [Thoughts on Man's Purpose in Life](https://govleaders.org/rickover-purpose.htm)
+
+
+#### basic rules  
 *  **The Golden Mean** -  a balance between our rationality and our animal drives   
     - **confident yet courteous** (polite and showing respect)  
         + **knowing you're worth** and also be kind (humble and **don't look down on** others)  
@@ -37,7 +70,6 @@ abstract: "[Updating] How to make choices"
 
 
 #### THE Self-Awareness Onion  
-
 
 *  **understanding of one's emotions**  
     - **identify blind spots** in ourselves and the **expressing the affected emotions** appropriately  
@@ -73,6 +105,14 @@ abstract: "[Updating] How to make choices"
 
 
 ##### making good decisions  
+
+* Concentrate on the **few important ones**   
+    - the problem is **a generic situation**, and could only be solved through a decision
+    which established a rule, a principle  
+    - **clear specifications** to what the decisions has to accomplish  
+
+
+
 * **focus on the process** of making a decision  
     - **emotions** are crucial in helping us come to a decision  
     - need to **listen to our feelings**   
@@ -90,5 +130,5 @@ abstract: "[Updating] How to make choices"
 
 
 #### reference
-* [Thoughts on Man's Purpose in Life](https://govleaders.org/rickover-purpose.htm)
 * [The Subtle Art of Not Giving a Fck]
+* [The Effective Executive]

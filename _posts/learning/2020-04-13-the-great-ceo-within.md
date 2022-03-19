@@ -27,19 +27,6 @@ abstract: "Notes on the management skills in the practical part"
    - 你到底在害怕什么？  
    - **认真地做当下能做的最好的选择**，未来就会是它最好的样子； 放下对未来的期待和担忧  
 
-#### product manager 
-* TODO 
-
-* reference  
-    - [44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html?continueFlag=ac31708e6f6b0c4f99bffa25b3a945d8)
-    - [Managing people](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
-    - [My Emotions as a CEO](https://ryancaldbeck.co/2021/10/08/my-emotions-as-a-ceo/)
-    - [A collection of inspiring resources related to engineering management and tech leadership](https://github.com/charlax/engineering-management)
-    - [Heuristics for effective management](https://github.com/ksindi/managers-playbook)
-    - [How to mentor software engineers](https://xdg.me/mentor-engineers/)
-    - [A Day in the Life of an Engineering Manager](https://www.toptal.com/engineering-management/a-day-in-life-engineering-manager#employ-just-quality-engineers-today?continueFlag=4cd860c7bf88c019e991891b8fd439de)
-    - [engineering-manager-role-explained](https://www.toptal.com/engineering-management/engineering-manager-role-explained)
-    - [Getting Started with Agility: Essential Reading](https://holub.com/reading/)
 
 #### ideas from <The Making of a Manager>  
 

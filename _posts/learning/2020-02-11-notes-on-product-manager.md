@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "Notes on the Software Architect"
+title: "Notes on the Product Manager"
 date: 2020-02-11
 comments: true
-categories: [notes, programming]
-abstract: "Notes on how to do users' Requirements and the Software Architecture"
+categories: [notes, programming, product, learning]
+abstract: "Notes on how to do users' Requirements"
 ---
 
-#### 500L
-TODO 
+#### Product Manager  
+
+* reference
+    - [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan
 
 
 #### ch4 Empathize with Stakeholders  - product manager  
@@ -118,3 +120,12 @@ TODO
 * [500lines](https://github.com/muyun/500lines)
 * [code complete] 
 * [from programmer to architect]  
+* [44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html?continueFlag=ac31708e6f6b0c4f99bffa25b3a945d8)
+*  [Managing people](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
+*  [My Emotions as a CEO](https://ryancaldbeck.co/2021/10/08/my-emotions-as-a-ceo/)
+*  [A collection of inspiring resources related to engineering management and tech leadership](https://github.com/charlax/engineering-management)
+*  [Heuristics for effective management](https://github.com/ksindi/managers-playbook)
+*  [How to mentor software engineers](https://xdg.me/mentor-engineers/)
+*  [A Day in the Life of an Engineering Manager](https://www.toptal.com/engineering-management/a-day-in-life-engineering-manager#employ-just-quality-engineers-today?continueFlag=4cd860c7bf88c019e991891b8fd439de)
+*  [engineering-manager-role-explained](https://www.toptal.com/engineering-management/engineering-manager-role-explained)
+*  [Getting Started with Agility: Essential Reading](https://holub.com/reading/)

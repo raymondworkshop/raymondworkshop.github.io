@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<!--
+<meta http-equiv="content-language” content=”en, zh”>
+-->
+<title>  - _muyun</title>
+<link rel=" stylesheet" href="/static/style.css">
+<link rel="stylesheet" href="/static/pygments.css">
+<nav>
+    <h1><small><a href="/index.html">_muyun</a></small></h1>
+    <ul>
+        <li><a href="/index.html"> Writing </a>
+
+            <!--
+        <li><a href="/mini-projects.html"> Mini-projects </a>
+            -->
+        <li><a href="/slides.html"> Slides </a>
+
+
+        <li><a href="/bookshelf.html"> Bookshelf </a>
+
+
+        <li><a href="/about.html"> About </a>
+    </ul>
+</nav>
+
+<section class="content">
+    <!--
+    <header>
+        
+<title> Notes on the Product Manager</title>
+
+      </header>
+      -->
+    
+<article class="post">
+    <header>
+        <h1><strong>Notes on the Product Manager</strong></h1>
+    </header>
+    <p class="body"><h4>Product Manager</h4>
+<ul>
+<li>reference<ul>
+<li><a href="https://book.douban.com/subject/27161852/">Inspired</a> by Marty Cagan</li>
+</ul>
+</li>
+</ul>
+<h4>ch4 Empathize with Stakeholders  - product manager</h4>
+<ul>
+<li>Talk to the Right People  - who </li>
+<li>
+<p>create a stakeholder Map -  a network diagram  </p>
+</li>
+<li>
+<p>Discover the Business Goals - why they care  </p>
+</li>
+<li><strong>who wants it and what they want</strong></li>
+<li>Record Business Goal Statements  <ul>
+<li>subject + measurable outcome + Context (the need)  </li>
+<li>"(stakeholder) Mayor wanna (goal) reduce procurement costs by 30%, (context) to avoid making budget cuts to education or other essential services in an election year."  </li>
+</ul>
+</li>
+</ul>
+<h4>ch5 - Architecturally Significant Requirements (ASR)</h4>
+<ul>
+<li><strong>planning</strong> -  </li>
+<li><strong>problem definition</strong>  from a user's point of view  <ul>
+<li><strong>a clear statement of the problem</strong> that the sytem is supposed to solve   </li>
+<li>understanding what you want to build  </li>
+</ul>
+</li>
+<li>
+<p><strong>requirements prerequisite</strong> ensure that the user drives the system's functionality   </p>
+<ul>
+<li><strong>how to specify requirements well</strong>   </li>
+<li>the requirements checklist   </li>
+</ul>
+</li>
+<li>
+<p><strong>system Architecture</strong>   </p>
+<ul>
+<li>determine the conceptual integrity of the system  </li>
+<li>a architecture first needs <strong>an overview</strong> that describes the system in broadterm </li>
+<li>the architecture should <strong>define the major buildign blocks</strong> in a program </li>
+<li>the communication rules for each buildign block should be well defined  </li>
+</ul>
+</li>
+<li>
+<p>Define the <strong>what</strong>, the requirements from architecture  </p>
+</li>
+<li>
+<p>Capture Constraints as Simple Statements  </p>
+</li>
+<li>
+<p>like "Must build a browser-based web application, the context is to descreases concerns about software delivery and maintenance."  </p>
+</li>
+<li>
+<p>Capture Quality Attributes as Scenarios  </p>
+</li>
+<li>Quality Attributes Scenarios describe <strong>how the system is expected to operate within a certain environmental context</strong>    </li>
+<li>
+<p>a quality attribute scenario <strong>communicates the intent of the requirement</strong> so anyone can understand it  </p>
+<ul>
+<li>like "performace - A user sees research results within 5 seconds when the system is at an average load of 2 searchs per second."    </li>
+<li>"Availability - A user's searches for open RFPs and receives a list of RFPs 99% of the time on average over the course of the year."  </li>
+</ul>
+</li>
+<li>
+<p>precise and measurable </p>
+</li>
+<li>
+<p>Influential Functional Requirements  </p>
+</li>
+</ul>
+<h4><strong>Design in Construction</strong></h4>
+<h4>ch6 - choose an Architecture</h4>
+<ul>
+<li>
+<p>architects <strong>choose structures to promote quality attributes</strong> in the system  </p>
+</li>
+<li>
+<p>accept the constraints  </p>
+</li>
+<li>
+<p><strong>explore Patterns</strong> to promote desired Quality Attributes  </p>
+</li>
+<li>
+<p>find the functional requirements and ensure the architecture can achieve them </p>
+</li>
+<li><strong>assign specific functional responsibilities to each element</strong> </li>
+</ul>
+<h4>ch7 - how to explore design concepts</h4>
+<ul>
+<li>
+<p>collect published patterns catalogs  </p>
+</li>
+<li>
+<p>design exploration - how  </p>
+</li>
+<li><strong>survey</strong> the existing ones </li>
+<li><strong>give a presentation</strong> of the available ones </li>
+<li>share a brief demo </li>
+<li>
+<p><strong>recommend</strong> a technology that seemed reasonable </p>
+</li>
+<li>
+<p>decision  </p>
+</li>
+<li>"how do the proposed solutions influence our <strong>top-quality attributes</strong>?"  </li>
+</ul>
+<h4>ch8 - how to create models</h4>
+<ul>
+<li>pick an appropriate pattern as meta-model </li>
+<li>
+<p>meta-model defines the concepts and the rules of how the concepts are applied </p>
+</li>
+<li>
+<p><strong>add new concepts</strong> to the meta-model </p>
+</li>
+<li>
+<p>start the process by <strong>asking a question</strong>   </p>
+<ul>
+<li>like "which components cost us the most if they are unavailable"  </li>
+</ul>
+</li>
+<li>
+<p>Name it  </p>
+<ul>
+<li>the name describe the element's <strong>responsibility but also its purpose</strong> </li>
+<li>understanding <strong>what it does and why it exists</strong>      </li>
+</ul>
+</li>
+<li>
+<p>Organize code to make patterns obvious </p>
+</li>
+<li>pair with diff teammates   </li>
+<li>it would be wise to <strong>explore our architecture options in a collaborative workshop</strong>  <ul>
+<li>not everyone agrees with or understands the current architecture  </li>
+</ul>
+</li>
+</ul>
+<h4>ch9 - how to make design decisions</h4>
+<ul>
+<li>plan and facilitate an architecture design studio  </li>
+</ul>
+<h4>ch10 - how to visualize design ideas</h4>
+<h4>reference</h4>
+<ul>
+<li><a href="https://github.com/muyun/500lines">500lines</a></li>
+<li>[code complete] </li>
+<li>[from programmer to architect]  </li>
+<li><a href="https://www.defmacro.org/2014/10/03/engman.html?continueFlag=ac31708e6f6b0c4f99bffa25b3a945d8">44 engineering management lessons</a></li>
+<li><a href="https://klinger.io/posts/managing-people-%F0%9F%A4%AF">Managing people</a></li>
+<li><a href="https://ryancaldbeck.co/2021/10/08/my-emotions-as-a-ceo/">My Emotions as a CEO</a></li>
+<li><a href="https://github.com/charlax/engineering-management">A collection of inspiring resources related to engineering management and tech leadership</a></li>
+<li><a href="https://github.com/ksindi/managers-playbook">Heuristics for effective management</a></li>
+<li><a href="https://xdg.me/mentor-engineers/">How to mentor software engineers</a></li>
+<li><a href="https://www.toptal.com/engineering-management/a-day-in-life-engineering-manager#employ-just-quality-engineers-today?continueFlag=4cd860c7bf88c019e991891b8fd439de">A Day in the Life of an Engineering Manager</a></li>
+<li><a href="https://www.toptal.com/engineering-management/engineering-manager-role-explained">engineering-manager-role-explained</a></li>
+<li><a href="https://holub.com/reading/">Getting Started with Agility: Essential Reading</a></li>
+</ul></p>
+</article>
+
+
+
+
+</section>
+
+
+<div class="footer">
+    <ul>
+        <small>&copy; 2022 <a href="/index.html"></a>_muyun</small>
+    </ul>
+</div>

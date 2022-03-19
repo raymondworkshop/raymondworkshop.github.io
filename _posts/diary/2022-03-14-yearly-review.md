@@ -22,16 +22,17 @@ tags: [diary, review, important]
         
         + Entrepreneurship isn't about the money. It’s about owning your own life
 
-    - product manager  
-        + create Tech products  
+    - software engineering   
+        + Engineering Software as a Service    
 
     - invest/money 
 
 * skills  
+    - English 
     - engineering/programming
     - driving 
     - movies  
-    - English 
+    
 
 
 #### review
