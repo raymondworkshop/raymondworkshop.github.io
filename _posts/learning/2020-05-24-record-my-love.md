@@ -22,6 +22,8 @@ abstract: "!!Record my Love"
     - 独立， 有自己的想法  
     - 自信，专业 
 
+* make her **feel understood** and **listened to**, 
+not a man who takes her too seriously  
 
 #### 2021-08-23  
 * TOSELF 

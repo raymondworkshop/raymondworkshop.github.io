@@ -57,11 +57,13 @@ abstract: "[Updating] How to make choices"
             - **actively look for those clues** we hope not to find  
 
 
-
 * **Concentration**  
     - become true to yourself  
     - **only concentrate on matters truly important to you**  
 
+
+* Training your boundaries to be stronger than your heart  
+    - **俗文化**： 显示的比实际的要弱一些  
 
 * **Set yourself free from fear**  
     - already been living through the worst times  

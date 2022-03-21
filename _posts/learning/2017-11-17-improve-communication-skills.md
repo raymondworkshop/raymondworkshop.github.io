@@ -183,13 +183,14 @@ abstract: "like listening, persuation ... "
     - **a sense of together**, a shared history
 
 * shared identity
-    - value my identity as **part of the group**
+    - value my identity as **part of the group**  
+
 * interact in the future
     - **a longterm relationship**
 
 * effective communication
     - is it clear? does it demon concern?
-    - face-to-face is best
+    - face-to-face is best  
 
 * expectations
     - shift expectations from individual to **community game**
@@ -207,10 +208,11 @@ abstract: "like listening, persuation ... "
     - **build rapport** (friend 和睦)
         + sat close
         + talking about family, life
-        + "I make friends with him" as if they ere friends
+        + "I make friends with him" as if they ere friends 
+
     - **Non-task communication**
         + events, hobbies
-        + share meals
+        + share meals  
     - common experiences/interests
     - using first names - correctly
 
@@ -253,9 +255,14 @@ abstract: "like listening, persuation ... "
     - 无论对人还是对事，**在没有尊重和相互理解的前提下，不提倡批判和反抗**
 
 * 孩子的社交素质，可以通过和大人平等的聊天里训练起来
-    - 在一个家庭聚会里，**孩子被教导要积极参与和融入交流**
+    - 在一个家庭聚会里，**孩子被教导要积极参与和融入交流**  
 
-### 沟通能力
+* small talk  
+    - small talk is to **get to know each other** and **whether get on the same level**    
+        + If you get on the same page, you can open up and connect more  
+        + don't engage people for approval or validation  
+
+### 沟通能力  
 * 沟通能力首先要学会善解人意，了解对方的需求
 * 其次是表达能力，把复杂的事用简单的方法表述出来
 * 以诚待人，人家才能信任你
@@ -269,7 +276,7 @@ abstract: "like listening, persuation ... "
        **让别人知道你在倾听，知道他们的评论对你的想法产生影响**
         + **努力记住每个同事的一个细节，然后一次次地向他们询问此事**
 
-* 认真思考自己的行动究竟能拉近与同事的距离，还是进一步与他们疏远
+* 认真思考自己的行动究竟能拉近与同事的距离，还是进一步与他们疏远  
 
 ### 向上管理
 - 谦虚有礼
