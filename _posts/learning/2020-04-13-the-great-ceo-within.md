@@ -16,6 +16,8 @@ abstract: "Notes on the management skills in the practical part"
 
 
 #### notes  
+*  personal financial records app  
+
 *  more creative in a startup  
     - "创建一家市值10亿美元的公司"  by Sahil Lavingia  
 

@@ -3,11 +3,13 @@ layout: post
 title: "Notes on the Product Manager"
 date: 2020-02-11
 comments: true
-categories: [notes, programming, product, learning]
+categories: [notes, product, learning, important]
 abstract: "Notes on how to do users' Requirements"
 ---
 
 #### Product Manager  
+* it's having **the insights that lead to new products**  
+    - the best of those come from working on hard tech problems  
 
 * reference
     - [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan

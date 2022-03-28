@@ -40,8 +40,13 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
             - don't have to explain yourself to someone who has never taken  
             the time to get to know you  
             - you can lead your life, don't limit yourself  
+
+        + never apologize to anyone for being who you are  
+            - once you've accepted your flaws, no one can use them against you  
+
         + **learn to say no**  
             - some people feel no shame when they take advantage of your kindness  
+        
         + avoid people  
             - drain you  
             - try to control you  

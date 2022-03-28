@@ -1,7 +1,7 @@
 ---
 title: "Learning - About Entrepreneur"
 date: 2021-09-24
-tags: [learning, business]
+tags: [learning, business, startup, important]
 abstract: "Improve my mindset and knowledge on Entrepreneur"
 ---
 
@@ -12,9 +12,28 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
         + 英雄未必是善的； 犯下了不可饶恕的罪恶的人也可以是“英雄”  
         + 英雄是点燃你的生命热情的人； 英雄**以一种非凡的方式践行你所珍视的价值**  
 
-* opportunity recognition  
-    
-    
+*  Weekly **self-reflection**  
+    - help you digest or really think about your experiences, and **relate them to general patterns**   
+    - your intent should not be to merely describe what happened,
+    but **to explore WHY it happened**, and **what it means**   
+        +  "what new insights did you gain from the week's session? " 
+        "what new ideas did it provoke?"  
+        "how do these insights or ideas relate to your work environment and to your career goals and objectives?   
+
+* Field Observations with Fresh Eyes  
+    - **think like a traveler** 
+ 
+    - **look for unmet needs for  consumers** to identify new product opportunities, rather than design a new product based on pre-specified needs  
+    - **observe your customers in their natural environment**
+        + their actions, interactions, wants and needs - and **note what you find**    
+        + **what underlying need prompts** this behavior
+        + what alternatives exist for the customer to use  
+
+
+* Deine your opportunity  
+    - TODO  
+
+
 
 * reference
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 

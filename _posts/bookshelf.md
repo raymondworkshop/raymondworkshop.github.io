@@ -24,26 +24,22 @@ date: 2012-03-19
 
 * [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   (9/10)  
 * [The Subtle Art of Not Giving a Fck](https://book.douban.com/subject/26895197/) by Mark Manson  (8/10)
-* [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker 
 * [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  
 * [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  
+* [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia  
 
 
 * [The Art of Thinking Clearly](https://book.douban.com/subject/20480426/) by Rolf Dobelli 
 
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen 
-* [Structure and Interpretation of Computer Programs](https://book.douban.com/subject/1451622/)
 
 * [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan 
-* [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia  
-* [The Long Tail](https://book.douban.com/subject/26584041/) 
 
 * [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
 
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 
 
-* [The Mythical Man-Month](https://book.douban.com/subject/4908230/)  
 * [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/index.html) 
 
 * [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  

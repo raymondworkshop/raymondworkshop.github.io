@@ -7,7 +7,7 @@ categories: [notes, programming, engineering, learning, important]
 abstract: "Notes on the Software Engineering and Software Architect"
 ---
 
-#### Software Engineering
+#### System Design and Software Engineering
 
 * reference  
     - [Engineering Software as a Service](https://book.douban.com/subject/24316596/) by Armando Fox / David Patterson  
