@@ -5,6 +5,16 @@ tags: [learning, business, startup, important]
 abstract: "Improve my mindset and knowledge on Entrepreneur"
 ---
 
+#### startups  
+* TODO  
+
+* reference 
+    - **[Show HN: PyIng – Ingredient parser](https://news.ycombinator.com/item?id=30834446)**
+    - [How to validate your startup idea quickly](https://www.ajain.tech/p/how-to-validate-your-startup-idea?utm_source=url)
+    - [Making Your Own Tools](https://futureofcoding.org/episodes/044)
+
+
+
 #### How Entrepreneurial Thinking and Acting  
 * hero  
     - 模仿，关键是**你得找到自己的声音**  

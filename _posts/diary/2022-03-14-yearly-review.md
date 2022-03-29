@@ -9,8 +9,11 @@ tags: [diary, review, important]
 #### 2022-03-27  
 * TODO  
     - 家庭越来越重要 
-    - 公司越来越重要  
-        + 钱 和 自由  
+    - 职业目标 -> 公司越来越重要  
+        + 钱, 自由, 创造力  
+
+    - focus more and learn to say no  
+    - english, cantonese
 
 
 * 不断根据新的碎片 修正甚至打破旧的框架 

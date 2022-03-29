@@ -7,13 +7,6 @@ categories: [notes, business, ideas, important, management, learning]
 abstract: "Notes on the management skills in the practical part"
 ---
 
-#### startups  
-* TODO  
-
-* reference
-    - [How to validate your startup idea quickly](https://www.ajain.tech/p/how-to-validate-your-startup-idea?utm_source=url)
-    - [Making Your Own Tools](https://futureofcoding.org/episodes/044)
-
 
 #### notes  
 *  personal financial records app  
