@@ -37,7 +37,7 @@ abstract: "Summary about the American Intonation"
 * [The shape of stress](http://rachelsenglish.com/stress-syllable-shape-stress/)  
 * the schwa sound  
   - vowel -> /ə/  
-  - 
+   
 * [stress-timed language](http://rachelsenglish.com/english-stress-timed-language/)  
   - to -> /tə/ or /də/ 
   - because of ->  /kəz ə/

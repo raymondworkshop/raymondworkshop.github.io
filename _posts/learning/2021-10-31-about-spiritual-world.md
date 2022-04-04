@@ -49,6 +49,22 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning 
+* 神是为爱我而生  
+    - 神成为肉体，死而复活，成了赐生命的灵  
+        + 进到我们的灵  
+
+    - 神要讲他自己和他一切的丰富分赐到人里面  
+        + 我们 是灵来相信主，接受主  
+        + 我们 是以心来爱主，享受主  
+
+    - 谢谢主爱我，使我也能够爱你 
+        + 我们和主的关系，爱是双向的  
+
+    - 因为 主爱你， 你爱主，也就奉献主？  
+        + 听神的话， 让主耶稣做我的生命意义与内容  
+        + 享受他， 也就安心  
+    
+
 * 神的爱，基督的恩，圣灵的交通，与你们众人同在  
     - **在神的面前承认罪，然后得到神的宽容，重新过新的生活** 
     - 圣经里所说的话 就是灵  
@@ -58,7 +74,13 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
         + **依靠复活的基督的生命进入到我们内心** <- 通过基督理解圣经    
         + 通过祷读神的话，来消化吸收，成为自己的一部分，并且内化到自己的生活中  
         + “圣经都是神的呼出，对于教训，督责，改正，在义上的教导，都是有益的”  
+    - some words you agree with, some words you keep asking 
+        + there is not 100% truth, you have to keep asking  
 
+* **apply what you get in your situations** 
+    - receive a fresh word from god  
+    - **personal applications of what we feel God's word into our lives**    
+    - "Jesus, please speak to me ..."
 
 
 ####  基督哲学   

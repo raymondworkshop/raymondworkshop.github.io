@@ -6,7 +6,6 @@ date: 2012-03-19
 ### log of training & books and my ratings
 
 #### training-2022 
-* [Creative and Practical Thinking Skills](https://learning.edx.org/course/course-v1:HKPolyUx+Lifedeath101x+1T2022/home)
 
 * Entrepreneur Mindset
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
@@ -16,6 +15,8 @@ date: 2012-03-19
 
 * Writing  
     - [Refactoring English](https://refactoringenglish.com/)
+
+* [Creative and Practical Thinking Skills](https://learning.edx.org/course/course-v1:HKPolyUx+Lifedeath101x+1T2022/home) 
 
 
 #### reading-2022  

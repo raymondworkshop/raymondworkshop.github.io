@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "coaching"
+title: "On coaching"
 date: 2020-03-16
 comments: true
-categories: [softskills, coach]
+categories: [softskills, coach, self, learning]
 ---
 
 #### 发问技术 的角度  

@@ -21,22 +21,21 @@ abstract: "关于实证主义哲学和生活方式"
     - **更能 “反馈” 以及适应社会动态**  
 
 
-*  经验主义  -> 实证主义 -> **实验科学**  
+*  经验主义  -> 实证主义的方法论 -> **实验科学**  
     - 从观察事件入手，**从经验观察出发**， 通过精确描述，推断出自然规律， 进而证实这些事件  
-    - 实证主义的方法论 
     - **通过观察归纳建立一个理论后，在该理论基础上进行演绎推理，预测可能的现象； 然后通过实证检验为这个理论及其演绎寻找证据**  -> Bayesian  
-    - **证伪主义** -> 科学的工作就是 通过寻找不符合理论的观察/实验 来对理论进行证伪  
-
-* **先有碎片而后不断构建框架** 
-    - **不断根据新的碎片 修正甚至打破旧的框架 并构建新的框架**， 开始比较慢，但最终会后来居上  
-    - 先有框架后有碎片，容易上手，开始会看上去遥遥领先，但后面就僵化而无法增长  
-        + 框架固化后 最大坏处 是容易偏执的去 “占小便宜吃大亏”， 因为已经成为本能  
+        + **先有碎片而后不断构建框架**
+        + **不断根据新的碎片 修正甚至打破旧的框架 并构建新的框架**， 开始比较慢，但最终会后来居上 
+            - 先有框架后有碎片，容易上手，开始会看上去遥遥领先，但后面就僵化而无法增长  
+            - 框架固化后 最大坏处 是容易偏执的去 “占小便宜吃大亏”， 因为已经成为本
 
     - observe -> find patterns -> create a short-cut framework -> realize your framework sucks 
         + ask open-ended quesitons 
         + seeing some patterns in the answers  
         + make a framework from these patterns. now I can make decisions quickly  
         + wait, this is a situation my framework does not account for  
+
+    - **证伪主义** -> 科学的工作就是 通过寻找不符合理论的观察/实验 来对理论进行证伪  
 
 
 *  自己定义自己的生活  - 陈军  
@@ -63,6 +62,7 @@ abstract: "关于实证主义哲学和生活方式"
     
     - **emotional intelligence** - feeling   
         + easily discern the emotions and motives of others 
+
 
 #### Empiricism  
 from John Locke to David Hume    

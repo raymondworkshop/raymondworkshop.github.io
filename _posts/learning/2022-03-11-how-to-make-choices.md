@@ -3,7 +3,7 @@ layout: post
 title: "[Updating] How to make choices"
 date: 2022-03-11 
 comments: true
-categories: [home, important, self, softskills]
+categories: [home, important, self, softskills, learning]
 abstract: "[Updating] How to make choices"
 ---
 
@@ -38,7 +38,54 @@ abstract: "[Updating] How to make choices"
     - **to create, to excel, and to be concerned** about the world and its affairs 
 
 * reference 
-    - [Thoughts on Man's Purpose in Life](https://govleaders.org/rickover-purpose.htm)
+    - [Thoughts on Man's Purpose in Life](https://govleaders.org/rickover-purpose.htm)  
+
+
+#### The Self-Awareness Onion  
+* understanding your emotions  
+    - identify blind spots in ourselves and then expressing the affected emotions appropriately  
+    - fear -> angry, upset, worried, uninspired, sad  
+    - love   
+ 
+* ask **why we feel certain emotions**    
+    - **the root cause** of the emotions that overwhelm us. 
+    Once we understand that root cause, we can ideally do something to change it   
+    -  why do you feel uninspired?  why do you feel worried?  
+    you failed to achieve some goal?  what you consider success or failure?  
+    - 引起我情緒的那些念頭都是真的嗎？  
+    - 當下，我的生命中，什麼才是真的？  
+        + 我提醒自己，只有我能对自己的情绪负责，从真实发生的事情中进入当下  
+
+* your **underlying values**  
+    - if you want to change how you see your problems, 
+    you have to **change what you value** and **how you measure failure/success**  
+
+    - **values-based questions** and **the metric** to assess progress toward that value  
+        + why do you feel such a need to be rich in the first place?  
+        + how am I choosing to measure myself?  
+        By what standard am I judging myself and everyone around me?  
+        Why do you consider this to be success/failure?  
+
+    - define **good, healthy values**  
+        + **reality-based, socially constructive, immediate and controllable**    
+        + can be achieved internally, immediate and controllable and engage you with the world  
+        + honesty (you have complete control over, reflects reality, and it benefits others), self-respect, curiosity, humility, creativity  
+        + bad values are generally reliant on **exernal events**, **outside of your control**, socially destructive or magic to achieve  
+            - manipulation or violence, being liked by everybody,
+        feeling good all the time, not being liked by everybody  
+
+    - **当我们面对内心的恐惧时， 抛开“应该”**  
+    然后我们就会发现“烦”随之消散，结果比我们规划的还要好  
+
+
+* **Values are about prioritization**    
+    -  **you values determine the nature of your problems**, 
+    the nature of your problems determines the quality of your lives  
+    - **the question is your priorities**, and that therefore **influence your decision-making**    
+
+
+* reference 
+    - ch4 - The Value of Suffering
 
 
 #### basic rules  
@@ -72,6 +119,9 @@ abstract: "[Updating] How to make choices"
 
 
 #### THE Self-Awareness Onion  
+* 自我对话  
+    - 不断地问自己问题并且不接受“想当然”的答案，能够连问五次为什么的时候，
+    都可以看到我们内心深处
 
 *  **understanding of one's emotions**  
     - **identify blind spots** in ourselves and the **expressing the affected emotions** appropriately  
@@ -104,6 +154,48 @@ abstract: "[Updating] How to make choices"
     - when you give better fucks, you get better problems  
     - when you get better problems, you get a better life  
 
+
+##### 人生的路， 如何選擇 
+* 如何看待自己 - 读自我的认知    
+    - 经常**看自己有什么**， 而不是没有什么  
+    - **多发扬自己的长处，把自己的长处和更优秀的人比**    
+    - 真正的成功， 是**活出自己的样子，也就是把自己的长处发挥到最大限度**  
+    
+    - **把每一次选择都作为了解自己的入口**，慢慢就可以看到更多真相  
+        + 视角，情绪的思考和高效的执行力  
+        +  有了对自己这样的认识，自信而不自负  
+
+* 如何看待他人  - 把每个人都看成老师和伙伴  
+    - **开放的心态引导别人分享， 用有效的方式问问题**    
+        + 如果会问问题，就可以了解他人多年总结的有价值经验  
+    - **会问问题**，这能帮助我们理解对面的人的真实需求和经验  
+        + 你为什么这么想？  
+        + 你认为最大的阻力是什么？  
+
+    - 做好自己，没有 “改变别人”的动机  
+
+* 如何看待机会和欲望  
+    - **所有的决定都是微观的**， 是在具体的环境里面对具体问题做出的  
+        + 在每一个小选择里改变思维方式，锻炼能力，获得对应的成长  
+        + **提高整体认知，选择做当下最适合自己，最值得做的事**    
+        + 能做多少事和你的微观环境有关  
+            - **要重视，挑选和管理的，就是周围的“五六个人”**  
+            - 最看重的 **是否是我愿意与之一起工作的那一类人**  
+
+    - **通过做事来“准备”的**，而不是通过“准备”来做事的  
+        + 对于机会，你永远不会觉得你准备好了  
+        + 面对机会，没准备好不是问题，**要勇敢把握，多“做”几次就好了**  
+        多做就会积累经验，提高判断力    
+
+    - 区分有效欲望 
+        + 通过深度自我对话， 不断追问自己“**为什么要做这件事，它有多重要，多紧急**”； 
+        理清不同目标的优先级 
+
+
+
+
+* reference 
+    - ch16 - 力量从哪里来  
 
 
 ##### making good decisions  

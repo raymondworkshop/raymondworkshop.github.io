@@ -301,9 +301,6 @@ abstract: "!![Updating] A better me - to be great man"
     - get around like **minded positive people**
     - form trustworthy, deep bonds, fewer the better
 
-
-  *
-
   * reference
     - [Mistakes Relating to life choices](https://lifemathmoney.com/grave-errors-made-by-men-in-their-20s/)
 
@@ -337,14 +334,14 @@ abstract: "!![Updating] A better me - to be great man"
   * keep health
     - avoid injuries
     - rest
-    -
+    
 
   * build a clear & calm & peace of mind
     - a few **basic emotions**: joy, trust, fear, surprise, sadness, disgust, anger and anticipation
     -   + **be true to your deepest and most profoundly felt emotions** - those of a spiritual nature
         + not the surface level emotions of fleeting hormones
         +  **ground yourself in wisdom, self-honesty, principles and discipline**
-    -
+    
     -  attain **peace with your mind** - self awareness
         + their mind is **humble servant** and not a terrible master
         + the less judgemental you are,
@@ -356,16 +353,16 @@ abstract: "!![Updating] A better me - to be great man"
     - the easiest way to get what you want - **ask**
     - **cooking** is one of the most fundamental ways to show love & appreciation
     - don't respect a man who poorly behaved woman and children
-    -
+    
     - time and peace of mind are the most expensive mode of payment
     - **Nature and markets**, not people,  are more honest when it comes to giving feedback
     - **start with your vision and deal with reality**
       + not what is possible and  then decide what result you want to create
     - **don't be kind towards harmful personss**
-    -
+    
 
     - it's not the place, but **how you do it, and the people you do it with** is more important
-    -
+    
     - when the world doesn't make sense, it's a signal that you need to learn
 
 
@@ -373,13 +370,13 @@ abstract: "!![Updating] A better me - to be great man"
     - **learn about yourself and grow** by put yourself into **unfamiliar situations**
       + **see how you respond to them to adapt**
       + **travellings** can put you in lots of novel situations to accelerate growth
-    -
+    
     - **just being yourself is the biggest favor** you can do to yourself
       + people may or maynot help you **depending if you are falling in their story line**
       + **they first like you** and then to feel good they help you
       + **people help you because they like you**, people don't help you because you are smart
       + **forget about sounding smart, just be yourself**
-    -
+    
     - focus on people who share your values right from the beginning , not everyone
       +
     - always be kind to yourself
@@ -407,7 +404,7 @@ abstract: "!![Updating] A better me - to be great man"
     - don't waste time explaining yourself to people who don't like you
     - **only real friends** want you to be happy, or end it.
       + a friend is the one that crafts you for a better person, not a worse one
-    -
+    
     - don't worry about impressing others, no one will even remember
       + **people remember the impact** you have one them. Impression is ephemeral.
 
@@ -439,7 +436,7 @@ abstract: "!![Updating] A better me - to be great man"
       - 做事情, **要思考是不是适应**, 而不是完全和别人拼强弱
       -  发现一个自己的生态位, **找到自己在生态中的位置**
 
-  *
+  
   * 深信 **力不到不为财**
 
   * **Fake it and then make it**
@@ -454,18 +451,18 @@ abstract: "!![Updating] A better me - to be great man"
 
   * Don't fight to win all the battles, you **just need win the war**
       - 不需要赢得每场战斗，而是要赢整个战争， 过程中的妥协不丢脸，赢在最后才是最重要的
-  *
+  
   * 不能拿身体去硬杠, 或者努力, **要靠方法论, 要靠聪明的方法**
-  *
+  
   * 再缺钱不能在吃上省钱；再时间紧张不能熬夜赶工
-  *
+  
   * **该讲法律的地方**不要强调道德
 
   * **关注事实胜过关注争吵**，**关心细节胜过关心策略**
       - 怀疑的精神特别重要，就是尽量不要去人云亦云； 自己去看了，自己有所体会了，再下这样的论断
 
   * **如果你想要说服别人，要诉诸利益**，而非诉诸理性
-  *
+  
   * **Don't show kindness to people** who want to destroy you
       - your kindness will be forgotten and they will not do the same for you
 
