@@ -8,7 +8,11 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 #### startups  
 * TODO  
 
+* lessons  
+    - 专注于手头上赚钱的项目，而不是被理想催着走  
+
 * reference 
+    - [Startup Playbook](https://playbook.samaltman.com/)
     - **[Show HN: PyIng – Ingredient parser](https://news.ycombinator.com/item?id=30834446)**
     - [How to validate your startup idea quickly](https://www.ajain.tech/p/how-to-validate-your-startup-idea?utm_source=url)
     - [Making Your Own Tools](https://futureofcoding.org/episodes/044)

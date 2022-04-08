@@ -8,10 +8,12 @@ date: 2012-03-19
 #### training-2022 
 
 * Entrepreneur Mindset
-    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
-    - [Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)
-    - [Good Communication](https://www.edx.org/course/business-communication-3)
-    - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)
+    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)   
+    - [Success](https://www.coursera.org/learn/wharton-success/home/info)
+    - [Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)  
+    - [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills/home/week/1)  
+    - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)   
+    - [Successful Negotiation](https://www.coursera.org/learn/negotiation-skills/home/week/1)   
 
 * Writing  
     - [Refactoring English](https://refactoringenglish.com/)
@@ -28,9 +30,10 @@ date: 2012-03-19
 
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen 
+* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 
 
 * [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  
-* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling
+* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling 
 
 * [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti 
 
@@ -39,7 +42,7 @@ date: 2012-03-19
 * [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan 
 
 * [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
-* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 
+
 
 * [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
 

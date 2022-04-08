@@ -142,7 +142,8 @@ tags: [diary, review, important, learning]
     - families  
         + girlfriend with Ivy  
 
-    - try to be with GOD  
+    - self-awareness  
+        + try to be with GOD  
         + more peaceful; dependent on GOD  
         + 理性追问提供一个终点，一个安息之处，于是心灵可以安住下来  
 

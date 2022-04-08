@@ -6,6 +6,9 @@ comments: true
 categories: [softskills, coach, self, learning]
 ---
 
+#### 2022-04-04 
+* Improve your english  
+
 #### 发问技术 的角度  
 
 * 宏观 

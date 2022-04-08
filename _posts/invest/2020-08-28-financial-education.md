@@ -1,11 +1,40 @@
 ---
 layout: post
-title: "About financial education"
+title: "About financial planning"
 date: 2020-08-29
 comments: true
-categories: [learning, invest]
-abstract: "About financial education"  
+categories: [learning, invest, financial]
+abstract: "About financial planning and education"  
 ---
+
+#### TODO  
+* CHECK 
+    - Mox 從Jetco於香港的ATM 提取現金是完全免費的  
+    - Mox 支援Jetco或Mastercard的海外ATM提款
+    - HSBC MasterCard Debit Card  
+
+
+#### Financial planning  
+* Goal  
+    - Keep housing <25% of gross income     
+        + 5800 HKD/M  
+    - Safety net > 30HKD  
+        + TODO  
+
+    - Retirement  
+        + 4000 HKD/M  
+    - Enjoy/Training  
+        + 1000 HKD/M  
+
+    - Life and Disability insurance    
+        + TODO @45  
+
+
+* Investing - save 10K each month until 8M  at 65  
+    - profit from economic growth  
+    - diversified  
+    - put >10K in retirement account each 3 months  
+
 
 #### notes on bitcoin 
 * [https://karpathy.github.io/2021/06/21/blockchain/](https://karpathy.github.io/2021/06/21/blockchain/)  
