@@ -7,7 +7,10 @@ categories: [softskills, communication, important, notes, learning]
 abstract: "like listening, persuation ... "
 ---
 
-#### communication style  
+#### communication 
+
+##### Negotiation skills  
+
 
 ##### Interviews  
 * interviews are basic tools by which we listen, we learn, we problem solve, and we build rapport  
