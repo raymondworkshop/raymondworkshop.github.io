@@ -16,4 +16,4 @@ I’d like to hear from you.
 Outside of Technology & Philosophy world, I also like self-improvement, and experiencing something new. 
 <br> <br> 
 
-You can support my open work by tipping me on [Ko-fi](https://ko-fi.com/muyun), or send me BTC at 19YGkJm3QTARcpatbdUdmYy8ZuDLZ91nr3 .  
+You can support my open work by tipping me on [Ko-fi](https://ko-fi.com/muyun), or send me ETH at 0xb487887b59fa249cc7ea90d67a77900bb596d609 .  
