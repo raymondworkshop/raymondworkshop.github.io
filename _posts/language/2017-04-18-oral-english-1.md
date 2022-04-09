@@ -9,27 +9,27 @@ abstract: "Oral English from Family Album USA"
 
 #### skills  
 * slow down your speaking speed  
-  - select your words carefully  
+    - select your words carefully  
 * give yourself time to think  
-  - relax  
-  - "that's a good question. Let me think for a moment"  
-  - "I haven't thought about it beofre ... "  
-  - "Well ... I suppose ... "  
-  - "well, during the day ..."  
-  - "In the meantime why don't we ..."  
-  - "It's been a long time since ... "  
-  - "Sorry to trouble you ... but ... "  
-  - "would you mind if ..."   
-  - "oh! come on" ...  
-  - "I'm just kidding ... "  
+    - relax  
+    - "that's a good question. Let me think for a moment"  
+    - "I haven't thought about it beofre ... "  
+    - "Well ... I suppose ... "  
+    - "well, during the day ..."  
+    - "In the meantime why don't we ..."  
+    - "It's been a long time since ... "  
+    - "Sorry to trouble you ... but ... "  
+    - "would you mind if ..."   
+    - "oh! come on" ...  
+    - "I'm just kidding ... "  
 
 * learn complete sentences  
 * learn to listen  
-  - listen what others are saying  
+    - listen what others are saying  
 
 * **practice asking questions**  
-  - "what are your views on that?"  
-  - "How about you, what do you think?"  
+    - "what are your views on that?"  
+    - "How about you, what do you think?"  
 
 * produce english by writing  
 

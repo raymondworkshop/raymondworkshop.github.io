@@ -9,7 +9,6 @@ abstract: "Summary about the American Intonation"
 
 
 #### pronouncation  
-
 *  **reduce your accent**    
     - repeat with a native person  
     - use the spoken words the local use  

@@ -8,7 +8,7 @@ abstract: "About Cantonese"
 ---
 
 #### how to express  
-   * 地道词语  
+* 地道词语  
    仆街 puk1 gaai1  死定了  
    揽 lahm5  抱  
    咸濕  haam4 sap1 好色  
@@ -19,7 +19,7 @@ abstract: "About Cantonese"
 
    发吽豆 faat3 ngau6 dau6 发呆  
 
-   * 地道表达 
+* 地道表达 
 
  "这么巧撞到你， 我一定要亲口同你讲声道谢"
 

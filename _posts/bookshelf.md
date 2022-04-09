@@ -8,18 +8,21 @@ date: 2012-03-19
 #### training-2022 
 
 * Entrepreneur Mindset
-    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)   
-    - [Successful Negotiation](https://www.coursera.org/learn/negotiation-skills/home/info)   
-    - [Success](https://www.coursera.org/learn/wharton-success/home/info)
-    - [Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)  
-    - [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills/home/week/1)  
+    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
     - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)   
+    - [Successful Negotiation](https://www.coursera.org/learn/negotiation-skills/home/info)   
+    - [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills/home/week/1)  
+    - [Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)  
+
 
 
 * Writing  
     - [Refactoring English](https://refactoringenglish.com/)
 
-* [Creative and Practical Thinking Skills](https://learning.edx.org/course/course-v1:HKPolyUx+Lifedeath101x+1T2022/home) 
+* Personal  
+    - [Success](https://www.coursera.org/learn/wharton-success/home/info)
+
+    - [Creative and Practical Thinking Skills](https://learning.edx.org/course/course-v1:HKPolyUx+Lifedeath101x+1T2022/home) 
 
 
 #### reading-2022  

@@ -50,8 +50,11 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 #### Learning 
 * 神是为爱我而生  
-    - 神为了拯救我们的罪而死，所以是爱我们的  
-        + 舍己  
+    - 神对我们有个计划， 经过 出于父神，藉着子神，并在灵神里这些步骤，
+    神要将自己 住到到人心里面， 在这个过程中得到丰富，最终成为 神的模样    
+
+    - 当我们是罪人的时候，主耶稣就为我们而死  
+        + 爱我 
 
     - 谢谢主爱我，使我也能够爱你 
         + 我们和主的关系，爱是双向的  
@@ -63,8 +66,7 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
         + 我们 是灵来相信主，接受主  
         + 我们 是以心来爱主，享受主  
 
-
-    - 因为 主爱你， 你爱主，也就奉献主  
+    - 因为 主爱你， 你爱主，也就奉献主 ?   
         + 奉献 -> 是因为爱主，把 **决定权 交到神手里**    
         + 听神的话， 让主耶稣做我的生命意义与内容  
         + 享受他， 也就安心  
