@@ -29,3 +29,6 @@ categories: [softskills, coach, self, learning]
 
 * 聆听 
   - 大器  
+
+#### reference
+* [Predictably Irrational](https://book.douban.com/subject/2990015/) by Dan Ariely  

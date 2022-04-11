@@ -6,9 +6,7 @@ comments: true
 categories: [notes, summary, politics, important, learning, china]
 ---
 
-#### China
-* 强化统治集团的利益和稳定， 和弱化国家利益
-    - 和西方国家友好相处，遵守市场规则，建设法治社会  
+
 
 #### notes
 

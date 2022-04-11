@@ -3,7 +3,7 @@ layout: post
 title: 'Notes on "the love relationships" skills'
 date: 2020-06-16
 comments: true
-categories: [notes, important, softskills, love, self]
+categories: [notes, important, softskills, love, self, learning]
 ---
 
 

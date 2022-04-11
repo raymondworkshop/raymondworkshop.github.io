@@ -52,8 +52,8 @@ abstract: "[Updating] How to make choices"
     Once we understand that root cause, we can ideally do something to change it   
     -  why do you feel uninspired?  why do you feel worried?  
     you failed to achieve some goal?  what you consider success or failure?  
-    - 引起我情緒的那些念頭都是真的嗎？  
-    - 當下，我的生命中，什麼才是真的？  
+    - **引起我情緒的那些念頭都是真的嗎**？  
+    - 當下，**我的生命中，什麼才是真的**？  
         + 我提醒自己，只有我能对自己的情绪负责，从真实发生的事情中进入当下  
 
 * your **underlying values**  
@@ -108,6 +108,12 @@ abstract: "[Updating] How to make choices"
     - become true to yourself  
     - **only concentrate on matters truly important to you**  
 
+* **continually review and refine**    
+    - Gradually improve your thinking until you can't be manipulated or controlled  
+    
+    - choose your friend group  
+        + meet someone who has the **similar mindset & vision** as you 
+    is better than finding a soul mate  
 
 * Training your boundaries to be stronger than your heart  
     - **俗文化**： 显示的比实际的要弱一些  
@@ -121,7 +127,7 @@ abstract: "[Updating] How to make choices"
 #### THE Self-Awareness Onion  
 * 自我对话  
     - 不断地问自己问题并且不接受“想当然”的答案，能够连问五次为什么的时候，
-    都可以看到我们内心深处
+    都可以**看到我们内心深处**    
 
 *  **understanding of one's emotions**  
     - **identify blind spots** in ourselves and the **expressing the affected emotions** appropriately  
@@ -155,15 +161,23 @@ abstract: "[Updating] How to make choices"
     - when you get better problems, you get a better life  
 
 
-##### 人生的路， 如何選擇 
+##### 人生的路， 如何選擇   
 * 如何看待自己 - 读自我的认知    
     - 经常**看自己有什么**， 而不是没有什么  
     - **多发扬自己的长处，把自己的长处和更优秀的人比**    
     - 真正的成功， 是**活出自己的样子，也就是把自己的长处发挥到最大限度**  
     
-    - **把每一次选择都作为了解自己的入口**，慢慢就可以看到更多真相  
+    - **把每一次选择都作为了解自己的入口，慢慢就可以看到更多真相**    
         + 视角，情绪的思考和高效的执行力  
         +  有了对自己这样的认识，自信而不自负  
+
+    - 独立思考， 不断纠正自己片面的判断  
+        + **学会换位思考，从多角度看问题**    
+        + 任何议题或政策，都要筹集足够的资讯，**分析正反两方利弊得失之后，再决定立场**    
+            - 即便决定立场，应该也尊重与你选择不同的人，我们都希望越来越好，只是我们想法不同而已 
+
+        + 做成熟有判断力的人   
+            - 任何人跟你说的话，都不要照单全收，都可能有说错的时候  
 
 * 如何看待他人  - 把每个人都看成老师和伙伴  
     - **开放的心态引导别人分享， 用有效的方式问问题**    

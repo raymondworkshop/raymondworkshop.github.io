@@ -10,6 +10,8 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 * lessons  
     - 专注于手头上赚钱的项目，而不是被理想催着走  
+    - 大多数人从未创造或发布过任何东西，
+    所以发布本事就是一个值得庆祝的大事  
 
 * reference 
     - [Startup Playbook](https://playbook.samaltman.com/)

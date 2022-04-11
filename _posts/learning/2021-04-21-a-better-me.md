@@ -593,7 +593,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 * If you want to help the poor, **get rich**
     - TODO
 
-* **在明确自身权利的基础上**，体会他人的感受
+* **在明确自身权利的基础上**，体会他人的感受  
 
 
 * **survival of the fittest**, not the strongest

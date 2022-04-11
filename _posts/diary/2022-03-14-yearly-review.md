@@ -5,6 +5,57 @@ date: 2022-01-27
 tags: [diary, review, important, learning]
 ---
 
+#### 2022-04-11    
+* TODO  
+    - check the responsible   
+    - 重读 《力量从哪里来》 
+
+* love  
+    - care people, help people  
+    - 用心去沟通， 感觉那种feeling  
+    - **experience God's good, pleasing and perfect will**    
+
+
+* live different  
+    - Do not conform to the pattern of this world  
+    - 选择 接纳和改变的  
+
+* **keeping things simple** is a powerful skill  
+    - articulate your thoughts clearly and intuitively  
+        + It's relatively easy to produce deep, detail-oriented, complex thinking  
+
+    - automate as much of your investing as possible  
+
+    - choose your friend group  
+        + meet someone who has the **similar mindsets, attitudes & vision** as you is better than finding a soul mate  
+        + **stop giving time and energy for people** that don't give a fuck about you  
+
+
+* 不自信  -> **全然接纳真实的自我**  
+    - 建立自信的前提 是我知道自己大概做到了什么程度，这时别人对我们的评价很重要  
+    但一旦自己有了概念，就需要**从外界认可带来的自信过渡到内生的自我接纳和自信心**  
+
+    - **对自己不接纳**  
+        + 把评价自己的权利 拱手让给别人，希望通过别人的接纳来证明自己   
+
+    - **全然接纳真实的自我**    
+        + 我当然会努力， 但努力的原因不是你告诉我满分是100分，我只有80分，
+        而是 **因为我知道自己可以做得更好**    
+
+    - **寻求支持， 自己争取，不依赖别人**      
+        + 从寻求认可 到**寻求支持**， “**我想做的事是这样，你可不可以支持我**”  
+        + **有主见**， 不依赖别人， 要自己争取   
+        + **assertive**, 有自己的东西； 有需要就一定会说出来，把他的要求说出来  
+
+    - 自信是**对自己有合适，客观的看法**  
+        + 一个人 即不把自己看得过于强大，也不把自己看得过于弱小  
+            - 积极面对自己，积极面对他人  
+            - 用正確的态度欣赏他人的优点  
+
+    - **相信自己有价值、有能力，并努力与他人建立亲密、有意义的联系**，但并不认为自己高人一等  
+        + 而自恋者认为自己比别人优越，但自我价值感不一定很强。事实上，由于自恋者通常缺乏自我安全感，他们的自尊感几乎完全依赖于他人的认可。
+
+
 #### 2022-04-04  
 * TODO  
     - **素养，价值观**的锻炼   
@@ -69,7 +120,6 @@ tags: [diary, review, important, learning]
     - 全球化眼光  
         + 向外跑的传统  
         + 胡适带有爱心  
-
 
 
 #### 2022-03-27  

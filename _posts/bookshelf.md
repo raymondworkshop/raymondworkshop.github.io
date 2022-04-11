@@ -13,7 +13,6 @@ date: 2012-03-19
     - [Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)  
 
 
-
 * Writing  
     - [Refactoring English](https://refactoringenglish.com/)
 
@@ -28,17 +27,19 @@ date: 2012-03-19
 * [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   (9/10)  
 * [The Subtle Art of Not Giving a Fck](https://book.douban.com/subject/26895197/) by Mark Manson  (8/10)
 
-* [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho 
+* [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho (8/10) 
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen 
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 
 
+* [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  (9/10)  
+* [Predictably Irrational](https://book.douban.com/subject/2990015/) by Dan Ariely  
 * [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling 
 
 * [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti 
 
+
 * [The Art of Thinking Clearly](https://book.douban.com/subject/20480426/) by Rolf Dobelli 
-* [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  
 * [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan 
 
 * [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  

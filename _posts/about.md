@@ -3,11 +3,9 @@ title: About
 date: 2012-03-19
 ---
 
-Hi, I'm Raymond, a Computer Engineer & Scientist, and Product Manager.   
+Hi, I'm Raymond, I'm Interested in technology and Philosophy for a long time. Educating in an engineering field has taught me to always be curious and that every problem has a solution. Thanks to the experience of working on a range of projects from telecommunication to web development to natural language, I have learned to adapt to any challenge that comes my way. My wide range of development experience makes me good at engineering novel solutions to difficult problems. I never back down from a challenge and can work well with uncertainty and time pressure.  
 <br>     
 
-I like problem solving, and reading.  I write at [blog.reader](https://muyun.github.io/).    
-<br> 
 
 You can find some of my projects [here](https://github.com/muyun). If you’ve got any questions, suggestions or would like to discuss, send me a mail at wenlzhao@gmail.com,
 I’d like to hear from you.   
