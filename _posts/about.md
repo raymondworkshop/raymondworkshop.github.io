@@ -3,7 +3,7 @@ title: About
 date: 2012-03-19
 ---
 
-Hi, I'm Raymond, I'm Interested in technology and Philosophy for a long time. Educating in an engineering field has taught me to always be curious and that every problem has a solution. Thanks to the experience of working on a range of projects from telecommunication to web development to natural language, I have learned to adapt to any challenge that comes my way. My wide range of development experience makes me good at engineering novel solutions to difficult problems. I never back down from a challenge and can work well with uncertainty and time pressure.  
+Hi, I'm Raymond, Educating in an engineering and business field has taught me to always be curious and that every problem has a solution. Thanks to the experience of working on a range of projects from telecommunication to web application to data science, I have learned to adapt to any challenge that comes my way. My wide range of experience makes me good at engineering novel solutions to difficult problems. I never back down from a challenge and can work well with uncertainty.  
 <br>     
 
 

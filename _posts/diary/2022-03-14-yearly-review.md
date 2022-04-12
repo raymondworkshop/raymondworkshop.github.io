@@ -11,14 +11,12 @@ tags: [diary, review, important, learning]
     - 重读 《力量从哪里来》 
 
 * love  
-    - care people, help people  
     - 用心去沟通， 感觉那种feeling  
-    - **experience God's good, pleasing and perfect will**    
-
-
-* live different  
-    - Do not conform to the pattern of this world  
-    - 选择 接纳和改变的  
+    - **experience God's good, pleasing and perfect will**   
+    -  care people, help people  
+    - live different  
+        + Do not conform to the pattern of this world  
+        + 选择 接纳和改变的部分    
 
 * **keeping things simple** is a powerful skill  
     - articulate your thoughts clearly and intuitively  

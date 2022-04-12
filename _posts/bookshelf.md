@@ -17,7 +17,7 @@ date: 2012-03-19
     - [Refactoring English](https://refactoringenglish.com/)
 
 * Personal  
-    - [Creative and Practical Thinking Skills](https://learning.edx.org/course/course-v1:HKPolyUx+Lifedeath101x+1T2022/home) 
+    - [Creative and Practical Thinking Skills](https://learning.edx.org/course/course-v1:HKPolyUx+Lifedeath101x+1T2022/home) (8/10)  
 
 
 #### reading-2022  
@@ -25,7 +25,7 @@ date: 2012-03-19
 * [馬丁·伊登](https://book.douban.com/subject/1883354/) by Jack London  (7/10)
 
 * [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   (9/10)  
-* [The Subtle Art of Not Giving a Fck](https://book.douban.com/subject/26895197/) by Mark Manson  (8/10)
+* [The Subtle Art of Not Giving a Fck](https://book.douban.com/subject/26895197/) by Mark Manson  (8/10)  
 
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho (8/10) 
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen 
@@ -36,6 +36,7 @@ date: 2012-03-19
 * [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling 
 
+* [From Cold War to Hot Peace](https://book.douban.com/subject/27126169/) by Michael McFaul  
 * [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti 
 
 

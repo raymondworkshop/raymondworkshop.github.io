@@ -56,6 +56,7 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
     - renew of you mind   
         + 不要效法这个世界，只要心意更新而变化，叫你们察验何为神的善良，纯全，可喜悦的旨意  
         + test and approve what God's will is - his good, pleasing and perfect will  
+        
 
 * 神是为爱我而生  
     - 神对我们有个计划， 经过 出于父神，藉着子神，并在灵神里这些步骤，

@@ -11,6 +11,11 @@ abstract: "like listening, persuation ... "
 
 ##### Negotiation skills  
 
+* Prepare: Plan your Negotiation Strategy  
+
+* reference  
+    - [Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills/home/week/1)
+
 
 ##### Interviews  
 * interviews are basic tools by which we listen, we learn, we problem solve, and we build rapport  
@@ -61,7 +66,7 @@ abstract: "like listening, persuation ... "
     - hard-working and ambitious  
     - tend to be the group leaders who value getting the job done with excellent results  
 
-*   Entertainer  - full of ideas and share them  
+*  Entertainer  - full of ideas and share them  
     - love to have friends and enjoy helping others
 
 #### listening

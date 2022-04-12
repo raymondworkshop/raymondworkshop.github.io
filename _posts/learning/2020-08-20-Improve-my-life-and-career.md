@@ -7,6 +7,13 @@ categories: [learning, life, todo, important]
 abstract: "[Improving] My framework for a pleasure of life and career"
 ---
 
+#### Success  
+
+* reference  
+    - [Success](https://www.coursera.org/learn/wharton-success/home/week/1)  
+    - [Leading the Life You Want](https://www.coursera.org/learn/leading-the-life-you-want/home/week/1)  
+    - [Influence](https://www.coursera.org/learn/wharton-influence?specialization=wharton-success)  
+
 #### build my habits from <Atomic Habits>  
 *  being driven by noble purposes  
 
