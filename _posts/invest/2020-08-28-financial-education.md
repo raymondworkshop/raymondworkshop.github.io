@@ -35,6 +35,8 @@ abstract: "About financial planning and education"
     - diversified  
     - put >10K in retirement account each 3 months  
 
+* reference  
+    - [What is Money, Anyway?](https://www.lynalden.com/what-is-money/)
 
 #### notes on bitcoin 
 * [https://karpathy.github.io/2021/06/21/blockchain/](https://karpathy.github.io/2021/06/21/blockchain/)  

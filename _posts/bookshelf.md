@@ -36,7 +36,7 @@ date: 2012-03-19
 * [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling 
 
-* [From Cold War to Hot Peace](https://book.douban.com/subject/27126169/) by Michael McFaul  
+
 * [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti 
 
 
@@ -47,7 +47,7 @@ date: 2012-03-19
 
 
 * [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
-
+* [From Cold War to Hot Peace](https://book.douban.com/subject/27126169/) by Michael McFaul  
 
 #### training-2021  
 * [Professional development: Improve yourself, always](https://www.coursera.org/learn/professional-development-improve-yourself/home/welcome)  

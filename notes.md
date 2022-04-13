@@ -1,8 +1,13 @@
 
-### note 
+### notes 
+* TODO  
+    - Aws S3 with Docker  
+
 * a search feature
     - search docs by word, name, date 
-    - grep -riln "上司" _posts/
+    - grep -riln "上司" _posts/  
+
+
 
 #### 2021-06-08  
 * tag  
