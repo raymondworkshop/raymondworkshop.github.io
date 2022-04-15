@@ -9,13 +9,6 @@ abstract: "like listening, persuation ... "
 
 #### communication 
 
-##### Negotiation skills  
-
-* Prepare: Plan your Negotiation Strategy  
-
-* reference  
-    - [Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills/home/week/1)
-
 
 ##### Interviews  
 * interviews are basic tools by which we listen, we learn, we problem solve, and we build rapport  
