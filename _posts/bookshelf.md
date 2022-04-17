@@ -30,12 +30,13 @@ date: 2012-03-19
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho (8/10) 
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen 
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 
+* [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 
 * [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  (9/10)  
-* [Predictably Irrational](https://book.douban.com/subject/2990015/) by Dan Ariely  
+* [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb 
+
 * [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling 
-
 
 * [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti 
 
