@@ -24,14 +24,20 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 #### How Entrepreneurial Thinking and Acting  
 * hero  
     - 模仿，关键是**你得找到自己的声音**  
+        + be true yourself  
     - 英雄是 凡人，却**创下了远远超越凡人经验之外的成就**，以至于死后留下不朽的记忆    
         + 英雄未必是善的； 犯下了不可饶恕的罪恶的人也可以是“英雄”  
-        + 英雄是点燃你的生命热情的人； 英雄**以一种非凡的方式践行你所珍视的价值**  
+        + 英雄是**点燃你的生命热情的人**； 英雄**以一种非凡的方式践行你所珍视的价值**  
+
+    - **深入研究一种既定的做事方式**，
+    并探讨这些事能否以更低成本，更快速度和更能激动人心的方式来做？  
+
+    - 在开放环境下，只要迭代成长不被打断，就可以超越目标  
 
 *  Weekly **self-reflection**  
     - help you digest or really think about your experiences, and **relate them to general patterns**   
     - your intent should not be to merely describe what happened,
-    but **to explore WHY it happened**, and **what it means**   
+    but **to explore WHY it happened**, and **what it means**  
         +  "what new insights did you gain from the week's session? " 
         "what new ideas did it provoke?"  
         "how do these insights or ideas relate to your work environment and to your career goals and objectives?   

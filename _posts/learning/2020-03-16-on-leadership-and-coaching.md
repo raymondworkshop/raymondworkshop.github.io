@@ -8,11 +8,17 @@ categories: [softskills, coach, self, learning, leadership]
 
 
 ##### Leadership  
-* TODO  
+* TODO   
 
 * reference 
     -[High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration/lecture/wwgwx/introduction-to-course-1-with-dean-blount)
 
+
+##### Teamwork  
+* 分工  
+    - 军官负责决策，但是**专业上的建议或行动都会交由士官执行**，
+    美欧军中都相当强调士官在基层部队中扮演“专家与灵魂”的角色  
+    
 
 ##### Negotiation skills  
 * Preparation and Leverage  
@@ -53,8 +59,7 @@ categories: [softskills, coach, self, learning, leadership]
 
 * Win-Win Negotiation  
     - fractionate the negotiation into **several issues**      
-        + identifying other issues such as payment terms, conditions, volume, quality 
-        and money ... 
+        + identifying other issues such as payment terms, conditions, volume, quality and money ... 
 
     - **prioritize your interests** for each issues     
         +  make your best guess about the opponent's priorities and interests 
@@ -90,8 +95,7 @@ categories: [softskills, coach, self, learning, leadership]
         + Send a Mixed-Message  
             - show other party you **cannot be taken advantage of**  
             - combine power and interests or rights and interests  
-            - "I'm sure that my management team would love to get involved in this matter,
-            but I'm more inclined to work this out with you one on one. "  
+            - "I'm sure that my management team would love to get involved in this matter,  but I'm more inclined to work this out with you one on one. "  
 
         + solve conflicts face to face 
             - people like to use power and right strategies when they communicate virtually  

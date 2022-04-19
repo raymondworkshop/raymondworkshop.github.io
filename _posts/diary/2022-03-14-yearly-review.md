@@ -5,10 +5,40 @@ date: 2022-01-27
 tags: [diary, review, important, learning]
 ---
 
+#### 2022-04-19  
+* self  
+    - **you have made the choice, and you wanna know why**  
+    - 不要否定自己，接受真实的自己  
+        + 想活得真实一点，无须遮掩和躲藏；  想用自己的天赋，给自己挣一份安稳  
+        + 自我表达，自我突破 
+        + 能解决就解决，解决不了就等待，总会过去  
+
+    - Lead your life  
+        + don't let the others lead your life  
+         
+    - "which one of the world's big problems would you solve?"  
+        + **贫穷**    
+
+* GOD  
+    - 使基督借着信，安家在你们心里，叫你们在爱里生根立基    
+        +  mind, emotion, will, conscience  
+        +  **体验这个过程，保持好奇** <- the same as the career/work    
+
+    - small acts of **kindness & love**    
+        + hiking的过程中帮助他们越过障碍  
+
+* love  
+    - 用心 -> **要试下**    
+    - 尊重她，疼她  
+    - 要令你整个人提升  
+
+* proper boundaries - responsibility  
+    - taking responsibility for your own problems, 
+    and stop taking responsibility for other people's problems  
+    - TODO  
+
+
 #### 2022-04-11    
-* TODO  
-    - check the responsible   
-    - 重读 《力量从哪里来》 
 
 * love  
     - 用心去沟通， 感觉那种feeling  
@@ -31,7 +61,7 @@ tags: [diary, review, important, learning]
 
 * 不自信  -> **全然接纳真实的自我**  
     - 建立自信的前提 是我知道自己大概做到了什么程度，这时别人对我们的评价很重要  
-    但一旦自己有了概念，就需要**从外界认可带来的自信过渡到内生的自我接纳和自信心**  
+    但一旦**自己有了概念**，就需要**从外界认可带来的自信过渡到内生的自我接纳和自信心**  
 
     - **对自己不接纳**  
         + 把评价自己的权利 拱手让给别人，希望通过别人的接纳来证明自己   

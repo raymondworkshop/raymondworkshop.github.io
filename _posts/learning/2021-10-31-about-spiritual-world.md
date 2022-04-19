@@ -49,12 +49,18 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning 
+* 基督的身体与聚会生活  
+    - church - a meeting place of the church in Bellevue  
+    - 彼此赡养和供应， 接受恩典  
+    - **small acts of kindness & love**   
+
+
 * 基督安家 在 **心**里， 叫你们 在**爱**里生根立基   
     - 魂 (soul mind + emotion + will) + conscience <- 心  
     - 当我们是罪人的时候，主耶稣就为我们赎罪而死   <- 爱我  
 
-    - renew of you mind   
-        + 不要效法这个世界，只要心意更新而变化，叫你们察验何为神的善良，纯全，可喜悦的旨意  
+    - **藉着心思的更新而变化**     
+        + 不要模仿这時代，反而藉着心思的更新而变化，叫你们察验何为神的善良，纯全，可喜悦的旨意  
         + test and approve what God's will is - his good, pleasing and perfect will  
         
 
