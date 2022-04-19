@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Keep my business from the practical part "
+title: "The Great CEO within"
 date: 2020-04-13
 comments: true
-categories: [notes, business, ideas, important, management, learning]
+categories: [notes, business, ideas, important, startups, learning]
 abstract: "Notes on the management skills in the practical part"
 ---
 
@@ -31,8 +31,9 @@ abstract: "Notes on the management skills in the practical part"
 
 #### The Beginning  from <The Great CEO Within>  
 * 软体公司成长记  
-    - [軟體工程師的修煉與成長 (2)](https://vgod.medium.com/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E4%BF%AE%E7%85%89%E8%88%87%E6%88%90%E9%95%B7-2-ac7c98d40ad6)
-* **Make Money, Have Fun, Do Good**
+    - [軟體工程師的修煉與成長 (2)](https://vgod.medium.com/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E4%BF%AE%E7%85%89%E8%88%87%E6%88%90%E9%95%B7-2-ac7c98d40ad6)  
+
+* **Make Money, Have Fun, Do Good**  
 
 * crate a **Company**  
     - **Understand real customers and their problem, and then solve that problem**
@@ -62,13 +63,13 @@ abstract: "Notes on the management skills in the practical part"
 * **Schedule two hours each day to work on top goal only**
     - top goal for the current quarter
 
-* Be on time and Present
+* Be on time and Present 
 
 * When you say it twice, **write it down**
     - to a 2nd audience or in a 2nd situation, just share it **in written form**
 
 * **Gratitude and Appreciation**
-    - **we perform our best when we are having fun and feeling good about ourselves**
+    - **we perform our best when we are having fun and feeling good about ourselves**  
         + "Great", "Good idea, it was the right thing to do"
     - **daily gratitude** to yourself
         + as a trigger
