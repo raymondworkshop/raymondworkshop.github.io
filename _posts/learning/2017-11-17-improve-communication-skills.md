@@ -66,7 +66,7 @@ abstract: "like listening, persuation ... "
 * many people want **approval and validation**, not "your opinion"
     - 說服別人最好的方法不是爭辯，而是**傾聽**
     - 设法**从对方的立场去理解一件事情**，先**同意对方的观点，然后再从对方的观点来解释，为什么我们自己的主张是合理的**
-    - **留意对方言语和 非言语 不一致**的地方
+    - **留意对方言语和 非言语 不一致**的地方  
     - 简单描述听到和看到的事情， 并对感受对方的情绪, 让对方感受到被聆听和被明白
         + **"听你讲..., 觉得你 ... "**
 
@@ -92,7 +92,7 @@ abstract: "like listening, persuation ... "
     - 形容词
     - 探索对方的语言的运用
 
-* 给反应 - "好，喔，是**
+* 给反应 - "好，喔，是**  
     - 鼓励和允许对方完全地表达自己
 
 * **给出意向** - intention
@@ -109,7 +109,7 @@ abstract: "like listening, persuation ... "
     - 多一点认同  - **直接讲出来**
 
 
-#### communication skills
+#### communication skills  
 
 * **为什么要这么说**
     - 基于事实来辩论， 而不是 观念或立场的争论

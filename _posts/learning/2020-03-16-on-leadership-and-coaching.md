@@ -7,8 +7,133 @@ categories: [softskills, coach, self, learning, leadership]
 ---
 
 
-##### Leadership  
-* TODO   
+##### Leadership   
+* Growth Mindset  
+    - a belief in their own ability to **learn and respond in the face of challenge**   
+        + cultivate growth mindsets  and know how to fail  
+
+* Leadership style  
+    - talk about your leadership style and recognize styles in others  
+
+    - you know **your strengths and weaknesses**    
+
+    - Think about **which leadership style would be most useful for the goals of your ogranization**?  
+
+    - **what can you do** in the next 30 days to begin to develop and cultivate this style?  
+
+    - **Who can be part of your support system** in your leadership development?  
+
+    - **each of us is a work in progress**, and we are never complete  
+
+
+* Leadership  
+    - gift vs tit-for-tat leadership style  
+
+    - middle people and task  <- Blake and Mouton's Leadership Grid  
+        + focus on work output as well as employee morale   
+
+    - **Situational Leadership Model**    
+        + consider **the readiness of their team** in regard to the task  
+        + if the team is not ready to perform the task -> directing, authority obedience leadership    
+        + if the team can handle the rest -> delegating  
+        + if the team is moderately ready when it comes to the task -> supporting and coaching  
+
+
+* Motivation, Emotion, and Cognition  
+    - **affirm instrinsic Motivation** can lead to greater insight, and better performance  
+        + a sense of satisfaction, accomplishment, or making the world a better place  
+        + driven by external rewards including material gain 
+
+    - Treat **happiness**  like your exercise routine  
+        + commit to happinesss and work on happiness  
+        + 40% of our happiness is determined by intentional activity  
+        + use talent to **help others**  
+        + adopting a **positive attitude**  
+        + **exercise**  
+        + **striving for goals**    
+
+    - **how to make decision** 
+        + **Build in tests of disconfirmation**  
+            - what would prove you wrong?  
+            - reward team members for **providing controversial data**    
+
+        + **set up policies** in advance of obtaining outcomes  
+
+        + **bring in outsiders**, but don't tell them your preferred course of action  
+
+        + **Don't make trivial decisions before facing a big decision**    
+
+
+    - Decision Making 
+        + **趋利避害** 
+            - risk-averse when it comes to good things  
+            - risk-seeking when it comes to negative things  
+
+            - you can be easily manipulated or manipulate others  
+                + present the opportunity as avoiding a sure loss  
+                + present the options as a keep the status quo 
+
+        + **confirmation bias**  
+            - people to seek information that confirms what they want to believe  
+
+        + **Decision Fatigue**  
+            - **figure out what decisions need to be made** at the beginning of the week, and they get ready for thos moments   
+            - **be ready for the big stuff**   
+
+        + Common information effect  
+            - groups would like to discuss information that they all have in common, rather than **unique information**     
+
+
+* People skills  
+    - Emotional Intelligence  
+        + **what key quality** did this leader possess that was so important for you?  
+        + leaders are judeged about how they handle themselves and others  
+            - **how to work with other people** and **how to manage yourself**  
+            - **self-awareness**   
+                + understanding ourselves and seeing ourselves as others see us  
+                + **recognize the emotions they experience**, 
+                **the factors that lead to these emotions**,
+                and **how they are perceived by others**    
+                + 360-Degree Evaluation  
+
+            - empathy  
+            - **self-regulate** with rehearsal and practice     
+                + **how to appropriately regulate our emotions**, particularly negative ones 
+                + self **implemented their own way to deal with frustration, anger, etc**  before it becomes an ill-fated   
+                + meditate 
+                + **identify the situation** she is facing that is most disconcerting or upsetting  
+
+            - relationship management  
+
+    - Organizational Intelligence  
+        + **who are your trusted advisors**?  
+        + **who are your boundary-spanners**?   
+            - spans more functional units  
+            - connect people and ideas  
+
+        + are you **nurturing those relationships**, or are you letting them stagnate?   
+
+        + **how can you act as a bridge between people and groups** that should be connected?  
+
+    - Cultural Intelligence  
+        + **a person's capability to adapt effectively** to new cultural contexts  
+        + you understand the other person's worldview  
+            - affect **how we motivate people** in our organizations  
+        
+        + **Face Cultures** 
+            - people **derive their self worth from earning the respect of others**  
+            - people are often embedded in stable, hierarchical relationships  
+
+        + **Dignity Cultures**   
+            - believe in **speaking their mind** and being self-reliant  
+            - their own self worth is **self determined** and they are very comfortable engaging in **direct, rational, fact-based conversation**  
+            - status and titles are not nearly as important as **information and talent**  
+          
+        + Honor Cultures  - Middle East, south asia, latin america, africa   
+            - self-worth is socially claimed     
+            - The confrontation style is to express emotion    
+            - "it's important not to let others insult your reputation"      
+
 
 * reference 
     -[High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration/lecture/wwgwx/introduction-to-course-1-with-dean-blount)
@@ -19,6 +144,9 @@ categories: [softskills, coach, self, learning, leadership]
     - 军官负责决策，但是**专业上的建议或行动都会交由士官执行**，
     美欧军中都相当强调士官在基层部队中扮演“专家与灵魂”的角色  
     
+
+* reference  
+    - [High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration/home/week/2)
 
 ##### Negotiation skills  
 * Preparation and Leverage  
@@ -77,15 +205,16 @@ categories: [softskills, coach, self, learning, leadership]
     - **devise multi-issue proposals** that logroll parties' interests  
         + value-added tradeoff  
 
+
 * De-escalate Conflict    
     - Conflict: people believe thay have **opposing** interests or beliefs regarding an outcome or process  
         + **interest  strategy** instead of power, right strategy   
             - separate the people from the problem  
-            - attempt to understand the needs and interests of the other party  
-            -  **ask "why" and "why not" question**  
+            - attempt to **understand the needs and interests** of the other party  
+                +  **ask "why" and "why not" question**  
             - don't focus on a single option, generate multiple options or courses of action   
 
-        + **reward the use of interest by the other party**    
+        + **reward the use of interest** by the other party    
 
     - **bring conversations back to interests**, away from power and rights 
         + Don't get personal attack   
@@ -95,7 +224,7 @@ categories: [softskills, coach, self, learning, leadership]
         + Send a Mixed-Message  
             - show other party you **cannot be taken advantage of**  
             - combine power and interests or rights and interests  
-            - "I'm sure that my management team would love to get involved in this matter,  but I'm more inclined to work this out with you one on one. "  
+            - "**I'm sure that my management team would love to get involved in** this matter,  but **I'm more inclined to work this out** with you one on one. "  
 
         + solve conflicts face to face 
             - people like to use power and right strategies when they communicate virtually  
@@ -106,8 +235,7 @@ categories: [softskills, coach, self, learning, leadership]
     - use Rights and Power  
         + when the other party will not come to the table  
         + when you have exhausted all of your options  
-            - "look I'm running out of optimism here. My goal is to settle this but I 
-        feal that I might need to seek legal council. Do you have any more ideas?"  
+            - "look I'm running out of optimism here. My goal is to settle this but **I feal that I might need to seek legal council**. Do you have any more ideas?"  
 
         + when the other party is not taking you seriously  
             
