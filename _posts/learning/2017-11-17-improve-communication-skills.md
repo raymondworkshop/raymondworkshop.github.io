@@ -9,6 +9,86 @@ abstract: "like listening, persuation ... "
 
 #### communication 
 
+##### 
+* TODO 
+
+* [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills/home/welcome)  
+
+##### build trust to develop cooperation - the cooperation challenge
+* 正反馈 处理人际关系
+    - 先付出一步，他也会向你走一步，你再走一步
+
+    - identify someone that is **smarter than you in some way like** tech, organization, etc ... and **attach yourself to them**  
+
+* build relationships
+    - **a sense of together**, a shared history
+
+* shared identity
+    - value my identity as **part of the group**  
+
+* interact in the future  
+    - **a longterm relationship**
+
+* effective communication
+    - is it clear? does it demon concern?
+    - face-to-face is best  
+
+* expectations
+    - shift expectations from individual to **community game**
+
+* accountability
+    - is behavior observed?
+
+* **trust**
+    - Vulnerability  
+        + high competence, **get it right, then spills coffee or drop pens or  tell a bad joke**  
+        + make mistakes  
+        + self-disclosure and admit failures  
+        + risky: too vulnerable  
+
+    - **build rapport** (friend 和睦)  
+        + sat close  
+        + talking about family, life  
+        + "I make friends with him" as if they are friends  
+
+    - **Non-task communication**  
+        + events, hobbies  
+        + share meals  
+
+    - common experiences/interests  
+    - using first names - correctly  
+
+* **Demonstrate warmth**
+    - concern for others  
+    - kindness  
+    - spend time - family, friends, pets, volunteering  
+
+* **Communicate a sense of equality**
+    - be punctual
+    - minimize diffs in clothing, seating, etc.
+    - common goal
+        + group
+        + a common enemy
+        + identify common goals  
+            - a shared concern/process
+
+    - **your words match your deeds** to affect the most trust
+    - Institution -> rating systems to build trust
+
+* signaling & trust
+    - commit - clear and powerful  
+    - **clarity** - **send** message to convey the right info?  
+    - **powerful** - when receiving, time and money ?  
+
+* emotions & trust 
+    - feelings - summary statistic for complicated judgements
+    - incidental emotions influence our feelings & trust
+    - **"I know you're pretty upset about that other outcome, I'm hoping that doesn't influence this situation."**
+    - guilt-prone people are more trustworthy
+        + feel badly if did something worng
+        + a strong sense of responsibility
+        + feel bad about letting others down
+
 
 ##### Interviews  
 * interviews are basic tools by which we listen, we learn, we problem solve, and we build rapport  
@@ -47,6 +127,7 @@ abstract: "like listening, persuation ... "
     - like to know what they're thinking  
     - make sure that they feel valued in the conversation
 
+
 #####  styles  
 * Analyst  
     - quick to think and slow to speak  
@@ -61,6 +142,7 @@ abstract: "like listening, persuation ... "
 
 *  Entertainer  - full of ideas and share them  
     - love to have friends and enjoy helping others
+
 
 #### listening
 * many people want **approval and validation**, not "your opinion"
@@ -112,7 +194,7 @@ abstract: "like listening, persuation ... "
 #### communication skills  
 
 * **为什么要这么说**
-    - 基于事实来辩论， 而不是 观念或立场的争论
+    - 基于事实来辩论， 而不是 观念或立场的争论  
 
 * balance between cooperation and competition
     - **comparisons**: find your balance  between motivation and satisfaction
@@ -174,81 +256,6 @@ abstract: "like listening, persuation ... "
         + **"Let me make sure I understand what you're saying ... "**
 
 
-#### build trust to develop cooperation - the cooperation challenge
-* 正反馈 处理人际关系
-    - 先付出一步，他也会向你走一步，你再走一步
-
-    - identify someone that is **smarter than you in some way like** tech, organization, etc ... and **attach yourself to them**.
-
-* build relationships
-    - **a sense of together**, a shared history
-
-* shared identity
-    - value my identity as **part of the group**  
-
-* interact in the future
-    - **a longterm relationship**
-
-* effective communication
-    - is it clear? does it demon concern?
-    - face-to-face is best  
-
-* expectations
-    - shift expectations from individual to **community game**
-
-* accountability
-    - is behavior observed?
-
-* **trust**
-    - Vulnerability
-        + high competence, **get it right, then spills coffee or drop pens or  tell a bad joke**
-        + make mistakes
-        + self-disclosure and admit failures
-        + risky: too vulnerable
-
-    - **build rapport** (friend 和睦)
-        + sat close
-        + talking about family, life
-        + "I make friends with him" as if they ere friends 
-
-    - **Non-task communication**
-        + events, hobbies
-        + share meals  
-    - common experiences/interests
-    - using first names - correctly
-
-* **Demonstrate warmth**
-    - concern for others
-    - kindness
-    - spend time - family, friends, pets, volunteering
-
-* **Communicate a sense of equality**
-    - be punctual
-    - minimize diffs in clothing, seating, etc.
-    - common goal
-        + group
-        + a common enemy
-        + identify common goals
-            - a shared concern/process
-
-    - **your words match your deeds** to affect the most trust
-    - Institution -> rating systems to build trust
-
-* signaling & trust
-    - commit - clear and powerful
-    - **clarity** - **send** message to convey the right info?
-    - **powerful** - when receiving, time and money ?
-
-* emotions & trust
-    - feelings - summary statistic for complicated judgements
-    - incidental emotions influence our feelings & trust
-    - **"I know you're pretty upset about that other outcome, I'm hoping that doesn't influence this situation."**
-    - guilt-prone people are more trustworthy
-        + feel badly if did something worng
-        + a strong sense of responsibility
-        + feel bad about letting others down
-
-
 #### 自我认知
 
 ### social skills
@@ -299,4 +306,4 @@ abstract: "like listening, persuation ... "
 
 ### reference
 * [不知如何跟上司沟通？教你五个小技巧](http://likaifu.blog.caixin.com/archives/171240)
-* [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills/home/welcome)
+

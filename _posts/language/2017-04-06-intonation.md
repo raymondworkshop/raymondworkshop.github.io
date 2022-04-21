@@ -28,13 +28,13 @@ abstract: "Summary about the American Intonation"
     - "that was good" - rise, **falling at the end** <- negative 
   
 
-
 #### Stress - longer, louder, and higher 
 * verb, adj, and noun 
 * de-stress: relaxed and short -> function word
 
 #### Intonation, Linking, Rhythm
 * [The shape of stress](http://rachelsenglish.com/stress-syllable-shape-stress/)  
+
 * the schwa sound  
     - vowel -> /ə/  
    

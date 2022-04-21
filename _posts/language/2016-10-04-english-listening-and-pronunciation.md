@@ -3,15 +3,24 @@ layout: post
 title: "!English Listening and Pronunciation"
 date: 2016-10-04
 comments: true
-categories: [language, english]
+categories: [language, english, important]
 abstract: "English Listening and Pronunciation"
 ---
 
 #### ELP: English Listening and Pronunciation 
-* TODO
+* TODO  
+
+* errors  
+    - says /sez/  
+    - of /əv/  
+    - because /bɪ'kəz/ /bɪˈkɑːz/  
+    - done / dʌn/  
+    - sheet /∫i:t/ vs shit /∫it/
 
 * reference
-    - **[Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally/home/welcome)** 
+    - **[ELP: English Listening and Pronunciation](https://homepage.ntu.edu.tw/~karchung/ELPF21.html)**  
+    - [ESL GOLD](https://eslgold.com/)  
+
 
 #### intonation  
 * melody - music

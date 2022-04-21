@@ -140,6 +140,8 @@ categories: [softskills, coach, self, learning, leadership]
 
 
 ##### Teamwork  
+* TODO  
+
 * 分工  
     - 军官负责决策，但是**专业上的建议或行动都会交由士官执行**，
     美欧军中都相当强调士官在基层部队中扮演“专家与灵魂”的角色  
@@ -262,6 +264,15 @@ categories: [softskills, coach, self, learning, leadership]
     - [High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration/lecture/ojbo6/win-win-negotiation)
     - [Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills/home/week/1)
 
+
+#### coach  
+* TODO 
+
+* coaching  
+    - learn how to break through other people's limiting and self-defeating beliefs to help them live a more empowered and successful life to help them live a more empowered and successful life  
+
+* reference 
+    - [Subliminal](https://book.douban.com/subject/7015922/)
 
 
 #### 2022-04-04 
