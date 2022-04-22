@@ -74,7 +74,7 @@ the array.</p>
 the tree without pointers and have guaranteed <strong>logarithmic performance</strong>
 because the height of a complete binary tree of size N is lgN.</p>
 <p>The basic algorithm swim (bottom-up reheapify) moves up the heap until we reach a node with a larger key, or the root.</p>
-<p>The function swim(int k)</p>
+<p>The function swim(int k) with Java  </p>
 <pre class="lang-java"><span class="c1">//the parent of the node at position k in a heap is at position k/2</span>
 <span class="kd">private</span> <span class="kt">void</span> <span class="nf">swim</span><span class="p">(</span><span class="kt">int</span> <span class="n">k</span><span class="p">){</span>
     <span class="k">while</span><span class="p">(</span><span class="n">k</span> <span class="o">&gt;</span> <span class="mi">1</span> <span class="o">&amp;&amp;</span> <span class="n">less</span><span class="p">(</span><span class="n">k</span><span class="o">/</span><span class="mi">2</span><span class="p">,</span> <span class="n">k</span><span class="p">)){</span>  <span class="c1">//the node&#39;s key larger than parent&#39;s key</span>
@@ -84,7 +84,7 @@ because the height of a complete binary tree of size N is lgN.</p>
 <span class="p">}</span>
 </pre>
 <p>The sink algorithm movs down the heap until we reach a node with both children smaller(or equal,) or the bottom. </p>
-<p>The function sink(int k)</p>
+<p>The function sink(int k) with Java  </p>
 <pre class="lang-java"><span class="c1">//the children of the node at position k in a heap are at positions 2k and 2k+1</span>
 <span class="kd">private</span> <span class="kt">void</span> <span class="nf">sink</span><span class="p">(</span><span class="kt">int</span> <span class="n">k</span><span class="p">){</span>
     <span class="k">while</span><span class="p">(</span><span class="mi">2</span><span class="o">*</span><span class="n">k</span> <span class="o">&lt;=</span> <span class="n">N</span><span class="p">){</span>

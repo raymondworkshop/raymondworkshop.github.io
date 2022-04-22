@@ -22,7 +22,6 @@ keys in its right subtree.
 A Node is comprised of four fields: a key and a value; a reference to
 the left (smaller keys) and right subtree (larger keys).
 
-
 ```java
 private class Node {
 
@@ -39,7 +38,7 @@ private class Node {
  }
 ```
 
-####The Implementation:
+#### The Implementation  with Java: 
 
 The search use the recursive algorithm to search for a key, the function get()
 
@@ -106,11 +105,11 @@ partitioning, after the random shuffling, we have the partitioning
 element and then we process everybody to the left independently of
 everybody to the right, so, if N **distinct keys** are inserted into a BST
 **in random order**, the expected number of compares for a
-search/insert is **~2lnN(about 1.39lgN) on the average** .
+search/insert is **~2lnN(about 1.39lgN) on the average**.
 
 But there's problem that the actual worst
 case height if the keys come in in order and reverse order and other
-natural orders (the worst tree shape), that the time could be proportional to ~N .
+natural orders (the worst tree shape), that the time could be proportional to ~N.
 
 #### Searching Algorithm - red-black BST 
 

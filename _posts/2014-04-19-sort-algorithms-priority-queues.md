@@ -48,7 +48,7 @@ because the height of a complete binary tree of size N is lgN.
  
 The basic algorithm swim (bottom-up reheapify) moves up the heap until we reach a node with a larger key, or the root.
 
-The function swim(int k)
+The function swim(int k) with Java  
 ``` java
 //the parent of the node at position k in a heap is at position k/2
 private void swim(int k){
@@ -61,7 +61,7 @@ private void swim(int k){
 
 The sink algorithm movs down the heap until we reach a node with both children smaller(or equal,) or the bottom. 
 
-The function sink(int k)
+The function sink(int k) with Java  
 ``` java
 //the children of the node at position k in a heap are at positions 2k and 2k+1
 private void sink(int k){

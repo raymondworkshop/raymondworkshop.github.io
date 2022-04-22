@@ -6,13 +6,13 @@ comments: true
 categories: [softskills, communication, important, notes, learning]
 abstract: "like listening, persuation ... "
 ---
+ 
 
-#### communication 
-
-##### 
+##### communication  
 * TODO 
 
-* [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills/home/welcome)  
+* reference  
+    - [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills/home/welcome)  
 
 ##### build trust to develop cooperation - the cooperation challenge
 * 正反馈 处理人际关系

@@ -41,7 +41,7 @@
     <p class="body"><h3>Introduction</h3>
 <p>A symbol table is a data structure for <strong>key-value pairs</strong> that supports two operations: insert (put) a new pair into the table and search for (get) the value associated with a given key .</p>
 <p>Binary search in an ordered array can implement the symbol table API. The underlying data structure is two parallel array, <strong>with the keys kept in order</strong>.</p>
-<h3>The Implementation</h3>
+<h3>The Implementation  with Java</h3>
 <p>For get(), the rank() (returns the number of keys) tells us precisely where the key is to be found;</p>
 <pre class="lang-java"><span class="c1">//return the value associated with the given key, or null</span>
 <span class="kd">public</span> <span class="n">Value</span> <span class="nf">get</span><span class="p">(</span><span class="n">Key</span> <span class="n">key</span><span class="p">){</span>
@@ -94,7 +94,7 @@
 <h3>Performance Analysis</h3>
 <p>The reason that we <strong>keep keys in an ordered array</strong> is so that we can use <strong>array indexing to dramatically reduce the number of compares required for each search using the known as binary search</strong> ( <strong>can auto calculate the related mid value based on array index</strong>).  </p>
 <p>Binary search in an ordered array with N keys uses no more than <strong>lgN + 1</strong> compares for a search; and Inserting a new key into an ordered array uses <strong>~2N array accesses</strong> in the worst case (<strong>e.g. move the array entirely, line 14~16</strong>), so inserting N keys into an initially empty table uses <strong>~N^2 array accesses</strong> in the worst case.  </p>
-<p>See the table,</p>
+<p>See the table:</p>
 <table>
 <thead>
 <tr>
