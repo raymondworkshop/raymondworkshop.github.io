@@ -8,15 +8,62 @@ abstract: "like listening, persuation ... "
 ---
  
 
-##### communication  
-* TODO 
+#####  compete and cooperate 
 
-* reference  
-    - [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills/home/welcome)  
+* foe vs friends 
+    - **scarcity**    
+    - sociability   
+    - dynamic instability    
 
-##### build trust to develop cooperation - the cooperation challenge
-* 正反馈 处理人际关系
-    - 先付出一步，他也会向你走一步，你再走一步
+* balance between motivation and satisfaction
+    - **finding your balance**   
+    - favorable comparisons: volunteering, increases happiness 
+    - unfavorable comparisons
+        + can push you to great efforts  
+
+    - negotiation process  
+        + target -> motivating  
+        + reservation price  -> satisfied  
+
+    - assess if the comparison is **in/out of order**  
+        + **if the expected comparison outcome that was anticipated**?  
+        + if we are competitors, what do we expect?  
+        
+    - **provide new opportunities to compete in the future**    
+        + those comparisons are going to be less intense  
+
+* cultures  
+    - face cultures  
+        + people derive their **self worth from earning the respect of others**  
+
+    - dignity cultures  
+        + believe in **speaking their mind** and **being self-reliant**  
+        + their **self worth is self determined** and they are very comfortable engaging in **direct, rational, fact-based conversation**  
+        + status and titles are not nearly as important as **information and talent**       
+
+
+#####  Deception  
+* TODO   
+
+* **manipulation**  
+    - they **repeatedly** hurt you and apologize without changing their behavior  
+    - focus on **repeated actions**, both the good & bad ones  
+        + negative energy, dishonesty, bad vibes, hostility  
+    - have **red lines**, and if they cross them make them regret they did  
+        + you don't need them or their drama  
+
+* hints  
+    - **if they hurt somebody**, there's chance they'll hurt you too  
+    - **continue loving people who love you back**    
+    - the best way they can apologize is to accept your punishment  
+
+
+
+#####  Effective Communication  
+
+##### build trust to develop cooperation 
+* 正反馈 处理人际关系  
+    - 先付出一步，他也会向你走一步，你再走一步  
 
     - identify someone that is **smarter than you in some way like** tech, organization, etc ... and **attach yourself to them**  
 
@@ -84,11 +131,12 @@ abstract: "like listening, persuation ... "
     - feelings - summary statistic for complicated judgements
     - incidental emotions influence our feelings & trust
     - **"I know you're pretty upset about that other outcome, I'm hoping that doesn't influence this situation."**
-    - guilt-prone people are more trustworthy
-        + feel badly if did something worng
-        + a strong sense of responsibility
-        + feel bad about letting others down
+    - guilt-prone people are more trustworthy  
+        + feel badly if did something worng  
+        + a strong sense of responsibility  
+        + feel bad about letting others down   
 
+*  [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills/home/welcome)  
 
 ##### Interviews  
 * interviews are basic tools by which we listen, we learn, we problem solve, and we build rapport  

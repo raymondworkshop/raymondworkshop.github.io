@@ -49,10 +49,25 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning 
-* 基督的身体与聚会生活  
-    - church - a meeting place of the church in Bellevue  
-    - 彼此赡养和供应， 接受恩典  
+* 圣灵  - 吸入所有的丰富  
+    - “人若**渴**了，可以到我这里来喝； **信**入我的人”  
+    - 被圣灵充溢，放胆**讲说神的话**  
+        + 让基督的话丰富的住在你们心里，用诗章，颂辞，灵歌，彼此相顾，互相劝解 
+    - 被圣灵充满的喜悦和充实感 
+        + “主耶稣” - **体会主耶稣和你同在**   
+
+* 基督的**聚会生活**    
+    - “**彼此相顾，激发爱心，互相勤勉，勉励行善**”  
+        + 听别人的心得和感悟  
+        + 申言 是把主的话通过自己说出来  
+        + 彼此赡养和供应， 接受恩典  
+
+    - church - a meeting of the church in Bellevue  
+    
     - **small acts of kindness & love**   
+
+    - 爱是包容，忍耐，相信，盼望  
+        + “感受到了别人的耐心”  
 
 
 * 基督安家 在 **心**里， 叫你们 在**爱**里生根立基   

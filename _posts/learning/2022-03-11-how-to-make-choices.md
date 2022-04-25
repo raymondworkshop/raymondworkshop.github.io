@@ -89,6 +89,8 @@ abstract: "[Updating] How to make choices"
 
 
 #### basic rules  
+* 这个决定是**被爱，激情或其他正能量的东西驱动**，还是被恐惧所驱动  
+
 *  **The Golden Mean** -  a balance between our rationality and our animal drives   
     - **confident yet courteous** (polite and showing respect)  
         + **knowing you're worth** and also be kind (humble and **don't look down on** others)  

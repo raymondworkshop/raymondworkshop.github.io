@@ -9,15 +9,17 @@ abstract: "About financial planning and education"
 
 #### TODO  
 * CHECK 
-    - Mox 從Jetco於香港的ATM 提取現金是完全免費的  
+    - Mox online    
+      
     - Mox 支援Jetco或Mastercard的海外ATM提款
     - HSBC MasterCard Debit Card  
+        + TODO  
 
 
 #### Financial planning  
 * Goal  
     - Keep housing <25% of gross income     
-        + 5800 HKD/M  
+        + 6000 HKD/M  
     - Safety net > 30HKD  
         + TODO  
 
@@ -27,13 +29,15 @@ abstract: "About financial planning and education"
         + 1000 HKD/M  
 
     - Life and Disability insurance    
-        + TODO @45  
+        + TODO @50    
 
 
 * Investing - save 10K each month until 8M  at 65  
     - profit from economic growth  
     - diversified  
     - put >10K in retirement account each 3 months  
+
+* family trust to hold assets  
 
 * reference  
     - [What is Money, Anyway?](https://www.lynalden.com/what-is-money/)

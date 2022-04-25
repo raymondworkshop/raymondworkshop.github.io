@@ -47,13 +47,13 @@ categories: [notes, learning, business, ideas, important, management]
     - founding teams should be smaller than **six people**  before product-market fit
     - The first goal should be to **achieve real product-market fit**
         +  morale
-           - the env is like a team, chaos is expected
-           - **people crave the challenge of new things**
-           - they want things to be hard
+            - the env is like a team, chaos is expected
+            - **people crave the challenge of new things**
+            - they want things to be hard
         +  speed
-           - **prototype code** not industrial code
-           - first product should always be viewed as a prototype
-           - **use it to gather customer feedback only**
+            - **prototype code** not industrial code
+            - first product should always be viewed as a prototype
+            - **use it to gather customer feedback only**
 
         + without a formal management
 
@@ -82,8 +82,8 @@ categories: [notes, learning, business, ideas, important, management]
 
     - in appreciation - speak to others
         + **let them know** if you catch yourself feeling grateful about someone or something that they have done
-           - as specific as possible
-           - > "I appreciate you for writing down ... "
+            - as specific as possible
+            - > "I appreciate you for writing down ... "
          > "Thank you"
         + the recipient will feel connected
         + you will view the recipient more positively
@@ -126,11 +126,11 @@ categories: [notes, learning, business, ideas, important, management]
         + at least 7 hours
 
         + **write down whatever it is** that you woke up thinkg about
-           - then transfer it to your GTD system
-           - write down all of your next actions, ...
+            - then transfer it to your GTD system
+            - write down all of your next actions, ...
 
         + if you wake during the night, don't fight it
-           - do something soothing, like reading from a paper book
+            - do something soothing, like reading from a paper book
 
 * **Financial Health**
     - **$10 million** -> put it into US Treasuries firstly
@@ -211,37 +211,37 @@ categories: [notes, learning, business, ideas, important, management]
     -  when people feel distrust or dislike, usually because **they don't feel heard**
 
     -  repeak back what you heard
-       + "**I think I heard you say** ... "
-       + "**That's right**"
+        + "**I think I heard you say** ... "
+        + "**That's right**"
     - **Steps**
-       + Feeling
-          - anger, fear, sadness, joy
-       + Fact
-          - You did or said ...
-       + Story
-          - "the thought that I had was that you ... and thus ... "
-       + Request
-          - "From now on, please say ...  "
+        + Feeling
+            - anger, fear, sadness, joy
+        + Fact
+            - You did or said ...
+        + Story
+            - "the thought that I had was that you ... and thus ... "
+        + Request
+            - "From now on, please say ...  "
 
 * Customer Empathy
     - actively listening to their pain
-       + "**I think i heard you say** ... "
-       + "**It seems that you feel anger when** ... "
+        + "**I think i heard you say** ... "
+        + "**It seems that you feel anger when** ... "
 
     - distill feedback and meet with the product team
-       + work first on the issues whith the highest customer pain that are the easiest for you to solve
+        + work first on the issues whith the highest customer pain that are the easiest for you to solve
 
 * Company Culture
     - Culture is the **unspoken set of rules**
     - value
-       + **kind of statement that needs max buy-in**
-       + send out a survey, and
+        + **kind of statement that needs max buy-in**
+        + send out a survey, and
 
     - Fun
-       + **host events that you enjoy**, and invite your team to join you
+        + **host events that you enjoy**, and invite your team to join you
 
     - Celebration
-       + take a moment to appreciate the good that the company has achieved
+        + take a moment to appreciate the good that the company has achieved
 
     - Operation
 
@@ -262,25 +262,25 @@ categories: [notes, learning, business, ideas, important, management]
 * ch25 - structure meeting system
     - Accountability is declaring  -> **goals and actions**
         + **a destincation, and the action** steps to get there
-	      + last week, "for each of your stated actions, did u get them done - yes or no?"
-	          - if no, what blocked you? what habit can u adopt to?
-	      + next week, what one action can u take to advance toward?
+	    + last week, "for each of your stated actions, did u get them done - yes or no?"
+	        - if no, what blocked you? what habit can u adopt to?
+	    + next week, what one action can u take to advance toward?
 	
     - **coaching** is declaring  -> **issues and solutions**
         + **the current health** of the entity, **both the good and the not good**
-	      + with the not good, **what the issue is in detail and a proposed solution**
-	          - this can **make requests for help from the manager**
-	      + good ?
-	      + not good?
+	    + with the not good, **what the issue is in detail and a proposed solution**
+	        - this can **make requests for help from the manager**
+	    + good ?
+	    + not good?
             - describe the issue in detail, as weel as your proposed solution.
-	          - **what you can do to solve the issue**
-	          - **what I (your manager) can do to help unblock you**
+	        - **what you can do to solve the issue**
+	        - **what I (your manager) can do to help unblock you**
 
     - Transparency is declaring  -> **feedback**
         + **feedback to people on what they are doing**
-	      + **like** - "there are the specific actions that i like that you are doing "
-	      + **Wish that** - "thses are the specific actions that i wish you would do differently"
-	          - please give me that feedback
+	    + **like** - "there are the specific actions that i like that you are doing "
+	    + **Wish that** - "thses are the specific actions that i wish you would do differently"
+	        - please give me that feedback
             - please think of the feedback that **you are afraid to give me because you think that it will hurt my feelings**
 
 
@@ -290,7 +290,7 @@ categories: [notes, learning, business, ideas, important, management]
     - seek real, honest feedback and improve
     - ask for negative feedback, it will be cherished
         + preferably in a one-on-one setting
-	      + **"If you were CEO, what would you change?"**
+	        - **"If you were CEO, what would you change?"**
     - appreciate it
         + your job is to listen and try to understand
 	
@@ -298,7 +298,7 @@ categories: [notes, learning, business, ideas, important, management]
   
     - **giving feedback**
         + face-facce - "**I didn't intend to make you feel angry. My intent was to be helpful**"
-	      + do not use email, text, or voicemail to give feedback, unless 100 positive
+	        - do not use email, text, or voicemail to give feedback, unless 100 positive
   
 
 #### Processes
