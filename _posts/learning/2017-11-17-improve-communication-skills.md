@@ -7,7 +7,6 @@ categories: [softskills, communication, important, notes, learning]
 abstract: "like listening, persuation ... "
 ---
  
-
 #####  compete and cooperate 
 
 * foe vs friends 
@@ -35,6 +34,7 @@ abstract: "like listening, persuation ... "
 * cultures  
     - face cultures  
         + people derive their **self worth from earning the respect of others**  
+        + 面子  
 
     - dignity cultures  
         + believe in **speaking their mind** and **being self-reliant**  
@@ -137,6 +137,7 @@ abstract: "like listening, persuation ... "
         + feel bad about letting others down   
 
 *  [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills/home/welcome)  
+
 
 ##### Interviews  
 * interviews are basic tools by which we listen, we learn, we problem solve, and we build rapport  

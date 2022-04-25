@@ -55,6 +55,7 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
         + 让基督的话丰富的住在你们心里，用诗章，颂辞，灵歌，彼此相顾，互相劝解 
     - 被圣灵充满的喜悦和充实感 
         + “主耶稣” - **体会主耶稣和你同在**   
+        + experience mind, emotion, will, conscience  
 
 * 基督的**聚会生活**    
     - “**彼此相顾，激发爱心，互相勤勉，勉励行善**”  

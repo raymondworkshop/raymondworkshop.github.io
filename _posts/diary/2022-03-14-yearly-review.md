@@ -2,11 +2,11 @@
 layout: post
 title: "Year 2022 plan and review"
 date: 2022-01-27  
-tags: [diary, review, important, learning]
+tags: [diary, review, important, learning, lesson]
 ---
 
 #### 2020-04-25  
-* proper boundaries - responsibility  
+* responsibility - proper boundaries 
     - taking responsibility for your own problems, 
     and stop taking responsibility for other people's problems  
     - TODO  
@@ -14,9 +14,11 @@ tags: [diary, review, important, learning]
 * self 
     - lessons  
         + 过于强调绝对（100%）理念，看重确定性  
-        + 不要过于相信 西方媒体的话  
         +  自利 + （平均）理想主义    
-            -  只要有底线即可，无求风骨  
+            - 只要有底线即可，无求风骨  
+            - 不要过于相信 西方媒体的话  
+
+        + each of us is **a work in progress**, and we are never complete  
             
         + “**我怕你要他是对的，我以为他比我好，现在我知道他不是，他只是比我有钱**”  
 
@@ -27,7 +29,9 @@ tags: [diary, review, important, learning]
             - 没有期待，坦然面对  
             - 能解决就解决，解决不了就等待，问题都会过去  
 
-        + 放松，自在，自如  
+        + **have fun, do good, make money**  
+            - 体验这个过程，保持好奇  
+            - 放松，自在，自如  
             - 爱是 包容，忍耐，相信，盼望  
         
         +  **交换和合作**  - **把精力用在更需要你的地方**   
