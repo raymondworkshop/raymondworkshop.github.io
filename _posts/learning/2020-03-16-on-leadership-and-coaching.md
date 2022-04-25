@@ -3,7 +3,7 @@ layout: post
 title: "On Collaboration: Leadership, Teamwork, and Negotiation"
 date: 2020-03-16
 comments: true
-categories: [softskills, coach, self, learning, leadership]
+categories: [softskills, coach, self, learning, leadership, important]
 ---
 
 
@@ -29,8 +29,8 @@ categories: [softskills, coach, self, learning, leadership]
 * Leadership  
     - gift vs tit-for-tat leadership style  
 
-    - middle people and task  <- Blake and Mouton's Leadership Grid  
-        + focus on work output as well as employee morale   
+    - **middle people and task**  <- Blake and Mouton's Leadership Grid  
+        + focus on **work output** as well as **employee morale**   
 
     - **Situational Leadership Model**    
         + consider **the readiness of their team** in regard to the task  

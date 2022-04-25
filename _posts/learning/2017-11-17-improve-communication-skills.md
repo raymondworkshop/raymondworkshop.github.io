@@ -6,9 +6,12 @@ comments: true
 categories: [softskills, communication, important, notes, learning]
 abstract: "like listening, persuation ... "
 ---
+
+##### Effective Communication  
+* TODO  
+
  
 #####  compete and cooperate 
-
 * foe vs friends 
     - **scarcity**    
     - sociability   
@@ -43,8 +46,47 @@ abstract: "like listening, persuation ... "
 
 
 #####  Deception  
-* TODO   
+* Deception  
+    - exploits trust  
+    - deception is hardwired     
+    - deception often succeeds  
+    - deception is not always bad  
 
+* Lie detection   
+    - many **cues** are subtle  
+        + real smile is smiling with eyes  
+        + **anxiety**    
+        + **disrespect** 
+            - when people lie to you, it is often a sign of disrespect  
+            - exhibiting contempt, talking down to the target, sarcastic responses 
+
+    - **Does it make sense?** 
+        + is it an unusual or odd thing to say or do?  
+
+    - **match between content and context**  
+        + **text and non-verbal correspondence**  
+            - do they match or do they differ? 
+        + does emotion match the situation?  
+        + inconsistent actions  
+
+
+    - **identify suspicious cues**  
+        + probe further  
+        + seek information from other sources  
+
+* violations 
+    - core / non-core violations  
+
+    - ability/integrity  
+        + we **forgive competence violations** more readily 
+        + it's an integrity violation if they had **bad intentions**
+
+    - the apology formula  
+        + **who** apologizes matters  
+        + **speed** matters  
+        + words + actions  
+
+        
 * **manipulation**  
     - they **repeatedly** hurt you and apologize without changing their behavior  
     - focus on **repeated actions**, both the good & bad ones  
@@ -52,10 +94,10 @@ abstract: "like listening, persuation ... "
     - have **red lines**, and if they cross them make them regret they did  
         + you don't need them or their drama  
 
-* hints  
-    - **if they hurt somebody**, there's chance they'll hurt you too  
-    - **continue loving people who love you back**    
-    - the best way they can apologize is to accept your punishment  
+    - hints  
+        + **if they hurt somebody**, there's chance they'll hurt you too  
+        + **continue loving people who love you back**    
+        + the best way they can apologize is to accept your punishment  
 
 
 
