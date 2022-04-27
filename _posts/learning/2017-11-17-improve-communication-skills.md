@@ -10,6 +10,16 @@ abstract: "like listening, persuation ... "
 ##### Effective Communication  
 * TODO  
 
+* how to disagree with someone  
+    - first, **state what you do agree on**;
+    then, **slowly introduce the disagreements** (by introducing what you agree on first,the other person is primed to think: "ok, this person agrees with me
+    on a bunch of stuff, so maybe I should take him/her seriously")  
+
+    - **put your disagreements in the form of questions**, rahter than statements 
+        + for example, you might ask the person you're disagreeing with:
+        "**what would it look like if** your idea played out for the next 10 years?" 
+        
+
  
 #####  compete and cooperate 
 * foe vs friends 

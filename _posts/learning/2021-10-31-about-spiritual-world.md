@@ -118,7 +118,7 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 * **apply what you get in your situations** 
     - receive a fresh word from god  
     - **personal applications of what we feel God's word into our lives**    
-    - "Jesus, please speak to me ..."
+    - "Jesus, please speak to me ..."  
 
 
 ####  基督哲学   
