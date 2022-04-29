@@ -9,8 +9,9 @@ date: 2012-03-19
 
 * Entrepreneur Mindset
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
-    - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)
+    - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
     - [Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)  
+    - [Operations](https://learning.edx.org/course/course-v1:BabsonX+EPS03x+3T2018/home)  
 
 
 * Writing  
@@ -34,6 +35,7 @@ date: 2012-03-19
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 
 * [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  (9/10)  
+* [Subliminal](https://book.douban.com/subject/7015922/) by Leonard Mlodinow  
 * [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb 
 
 * [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  

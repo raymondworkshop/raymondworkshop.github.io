@@ -8,7 +8,79 @@ abstract: "like listening, persuation ... "
 ---
 
 ##### Effective Communication  
-* TODO  
+* 职场沟通方法论  
+    - TODO  
+
+* communication goals  
+    - convey our ideas  
+        + grab **attention**  
+            - surprising, puzzle
+            - emotional  - **individual stories** trigger empathy  
+        + send a message  
+            - simple  
+                + focus on a **single** message  
+            - memorable  
+                + tell a story  
+
+            - persuasive  
+                + authority, experience  
+
+    - gather information   
+        + **ask questions and listening to those answers** rather than focusing on
+        trying to just get our ideas out  
+        + ask questions      
+            - **move narrative forward**  
+                + "and what happened next?"  
+            - pause to **ensure understanding**  
+                + "do you know what I mean?"  
+                + "how did you know who was calling?"  
+
+            - questions can guide people and plant ideas  
+
+        + questions  
+            - general question  
+                + "what can you tell me about it?"  
+            - positive assumption question  
+                + "it doesn't have any problems, does it?"  
+            - **negative assumption question**  when you presume a problem  
+                + "what problems does it have?"  
+
+            - we **wanna presume a problem**, and we're then more likely to gather more (using **nagative assumption question**);  
+                + **seek disconfirming information**   
+                + "what medications have you missed?"  
+                + "what challenges are you facing meeting this deadline?"  
+
+        + active listening  
+            - speak less   
+            - **encourage** a counterpart to expand on their responses  
+                + "tell me more about ..."  
+                + "i'd like to hear more ... "  
+
+            - demo interest both verbal and non-verbal  
+                + **encourage** - indicate your **presence and attention**  
+                    - "uh-huh" "yes" "right" "go on" "ok"  
+                + non-verbal  
+                    - **mirroring**    
+                    - **repeating the last few words** or gist of the counterpart 
+                + probe further  
+                    - summarize information  
+                    - demo perspective taking  
+                    - seek clarification   
+                    - "**let me make sure I understand what you're saying** ... 
+                    **but** the current values are missing ... (pushing more information)"
+
+
+    - nonverbal communication  
+        + low-context cultures 
+            - rely on content of message (european, usa)  
+            - **how things are said** dramatically influence the meaning of what's said  
+
+        + high-context cultures  
+            - infer information from context  
+
+
+    - build relationships  
+
 
 * how to disagree with someone  
     - first, **state what you do agree on**;
@@ -174,7 +246,7 @@ abstract: "like listening, persuation ... "
     - **your words match your deeds** to affect the most trust
     - Institution -> rating systems to build trust
 
-* signaling & trust
+* signaling & trust  
     - commit - clear and powerful  
     - **clarity** - **send** message to convey the right info?  
     - **powerful** - when receiving, time and money ?  

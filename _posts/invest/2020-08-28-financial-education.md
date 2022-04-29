@@ -42,8 +42,15 @@ abstract: "About financial planning and education"
 * reference  
     - [What is Money, Anyway?](https://www.lynalden.com/what-is-money/)
 
+#### Financial Accounting Made Fun  
+* TODO  
+
+* reference 
+    - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
+
 #### notes on bitcoin 
 * [https://karpathy.github.io/2021/06/21/blockchain/](https://karpathy.github.io/2021/06/21/blockchain/)  
+
 
 #### Financial education  
 * your ultimate goal should be increasing cash flow  

@@ -14,6 +14,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
     所以发布本事就是一个值得庆祝的大事  
 
 * reference 
+    - [Managing Your Mental Health While Running a Startup](https://future.a16z.com/managing-your-mental-health-while-running-a-startup/)
     - [Startup Playbook](https://playbook.samaltman.com/)
     - **[Show HN: PyIng – Ingredient parser](https://news.ycombinator.com/item?id=30834446)**
     - [How to validate your startup idea quickly](https://www.ajain.tech/p/how-to-validate-your-startup-idea?utm_source=url)
@@ -35,12 +36,14 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
     - 在开放环境下，只要迭代成长不被打断，就可以超越目标  
 
 *  Weekly **self-reflection**  
-    - help you digest or really think about your experiences, and **relate them to general patterns**   
+    - help you **digest or really think about your experiences**, and **relate them to general patterns**   
+        +  **record your thoughtful analysis of the new insights or ideas**  
+
     - your intent should not be to merely describe what happened,
     but **to explore WHY it happened**, and **what it means**  
-        +  "what new insights did you gain from the week's session? " 
-        "what new ideas did it provoke?"  
-        "how do these insights or ideas relate to your work environment and to your career goals and objectives?   
+        +  "**what new insights** did you gain from the week's session? " 
+        "**what new ideas** did it provoke?"  
+        "**how do these insights or ideas** relate to your work environment and to your career goals and objectives?   
 
 * Field Observations with Fresh Eyes  
     - **think like a traveler** 
@@ -53,8 +56,36 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 
 * Deine your opportunity  
-    - TODO  
+    
+    - the Business Concept   
+        + define your idea and **what customer value** it will bring  
+            - what is the product or service we intend to offer?  
+            - who are the potential customers?  
+            - how will we meet the goals and remain operational?  
 
+
+    - Personal Goals  
+        + **understand the effort, cost and benefit**  
+
+        + why you and why now and how you to develop and lead the initiative you are proposing? 
+            - **why am I doing this**? 
+            - **what will this do to me or require from me**?   
+        
+
+    - Business Goals    
+        + **how you will organize for success & competition**  
+
+        + highlight the proposed business and revenue model and competitive advantages  
+
+    - insights  
+        + **treat life as an experiment** - Tom Kelley  
+            - when starting new ventures, you have to be willing to take risks,
+        make mistakes, and **learn from these mistakes**  
+        + Opportunities are everywhere  
+
+
+* Refine opportunity  
+    - TODO  
 
 
 * reference
