@@ -7,9 +7,9 @@ date: 2012-03-19
 
 #### training-2022 
 
-* Entrepreneur Mindset  
+* Entrepreneur  
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
-    - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
+    - [Marketing Fundamentals](https://learning.edx.org/course/course-v1:BabsonX+BPET.MKTx+2T2017SP/home)  
     - [Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)  
     - [Operations](https://learning.edx.org/course/course-v1:BabsonX+EPS03x+3T2018/home)  
 
