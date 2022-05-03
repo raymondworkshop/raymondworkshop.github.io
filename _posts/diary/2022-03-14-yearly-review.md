@@ -5,7 +5,47 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
-#### 2020-04-25  
+#### 2022-05-03
+* self  
+    - be yourself, but be your best self  
+
+    - live a more empowered and successful life  
+        + have fun, do good, make money  
+
+    
+* wealth  
+    - feel great to receive the salary  
+    - build emergency funds  
+
+
+* softskills  
+    - active listening  
+        + encourage + mirroring  
+    - questions  
+        + negative assumption questions for the truth  
+
+    - detect  
+        + match between words and actions  
+        + words is more 30% than actions  
+
+    - English is so bad  
+
+    - **love**  
+        + **caring**
+        + **good with communication**  
+        + make me laugh  
+        
+
+* business 
+    - model  
+        + concept - customer value  
+        + personal goals - **effort, cost, benefit**  
+        + business goals - **how to success & compete**  
+
+    - Success is finding a path forward among the options that actually exist  
+
+
+#### 2022-04-25  
 * responsibility - proper boundaries 
     - taking responsibility for your own problems, 
     and stop taking responsibility for other people's problems  
