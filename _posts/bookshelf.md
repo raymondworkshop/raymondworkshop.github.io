@@ -28,9 +28,14 @@ date: 2012-03-19
 * [The Subtle Art of Not Giving a Fck](https://book.douban.com/subject/26895197/) by Mark Manson  (8/10)  
 
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho (8/10) 
-* [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen 
+* [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (7/10)  
 * [Serious Python](https://book.douban.com/subject/30206213/) by Julien Danjou    
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 
+* [Writing Interpreters and Compilers for the Raspberry Pi Using Python](https://www.amazon.com/gp/product/B089M41NGB/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) by Anthony J. Dos Reis  
+
+* [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  
+* [紅玫瑰yu与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲    
+
 
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling 
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
