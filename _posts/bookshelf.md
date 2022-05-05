@@ -9,13 +9,12 @@ date: 2012-03-19
 
 * Entrepreneur  
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
-    - [Marketing Fundamentals](https://learning.edx.org/course/course-v1:BabsonX+BPET.MKTx+2T2017SP/home)  
+    - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
     - [Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)  
     - [Operations](https://learning.edx.org/course/course-v1:BabsonX+EPS03x+3T2018/home)  
 
 
 * Writing  
-    - [Refactoring English](https://refactoringenglish.com/)
 
 * Personal  
     - [Creative and Practical Thinking Skills](https://learning.edx.org/course/course-v1:HKPolyUx+Lifedeath101x+1T2022/home) (8/10)  
@@ -32,23 +31,21 @@ date: 2012-03-19
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen 
 * [Serious Python](https://book.douban.com/subject/30206213/) by Julien Danjou    
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 
+
+* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling 
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
+* [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
 
 * [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  (9/10)  
 * [Subliminal](https://book.douban.com/subject/7015922/) by Leonard Mlodinow  
 * [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb 
 
 * [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  
-* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling 
 
 * [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti 
 
-
 * [The Art of Thinking Clearly](https://book.douban.com/subject/20480426/) by Rolf Dobelli 
 * [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan 
-
-* [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
-
 
 * [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
 * [From Cold War to Hot Peace](https://book.douban.com/subject/27126169/) by Michael McFaul  

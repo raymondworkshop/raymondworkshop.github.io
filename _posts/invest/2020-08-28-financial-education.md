@@ -39,13 +39,39 @@ abstract: "About financial planning and education"
 
 * family trust to hold assets  
 
-* reference  
+
+#### Ideas  
+* **Wealth is assets and business that can earn** while you sleep  
+    - the purpose of wealth is **freedom**  
+    - it's **a positive sum game** but **there are competitive elements** to it  
+    - the modern industrial economies are much more heavily wealth-based societies  
+
+    - **ethical wealth creation makes abundance for the world**  
+          
+    - Overall capitalism (Free markets) are **intrinsic to the human species**  
+        + the notion of **exchange**, and **keeping track of credits and debits** is built to us as flexible social animals    
+        + **keeping track of credits and debits** lets us **cooperate**  
+
+    - Money is how we transfer wealth  
+        + money is **social credits**; it's **the ability to have credits and debits of other poeple's time**  
+
+    - Status is your rank in the social hierarchy       
+        + stauts is a zero-sum game; to win you have to put somebody else down   
+        + politics is an example of a status game  
+
+* Give society what it wants    
+     - TODO  
+
+
+
+* reference 
+    - [How to Get Rich](https://nav.al/rich) 
     - [What is Money, Anyway?](https://www.lynalden.com/what-is-money/)
 
 #### Financial Accounting Made Fun  
 * TODO  
 
-* reference 
+* reference  
     - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
     
 

@@ -77,7 +77,6 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
         + **那灵是神自己在人身上的应用**  
         + 当我们呼求主名，我们的灵就打开，主耶稣就与我们同在，**我们就能经历神一切的所是** （爱，光，公义）
 
-
     - 呼出我的愁苦  
         + **认罪是倒出自己**    
 

@@ -14,6 +14,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
     所以发布本事就是一个值得庆祝的大事  
 
 * reference 
+    - [Startup Skills Checklist](https://www.lincolnquirk.com/projects/2014/06/02/projects_startup-skills-checklis.html)
     - [Managing Your Mental Health While Running a Startup](https://future.a16z.com/managing-your-mental-health-while-running-a-startup/)
     - [Startup Playbook](https://playbook.samaltman.com/)
     - **[Show HN: PyIng – Ingredient parser](https://news.ycombinator.com/item?id=30834446)**

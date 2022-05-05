@@ -12,17 +12,15 @@ tags: [diary, review, important, learning, lesson]
     - live a more empowered and successful life  
         + have fun, do good, make money  
 
-    
 * wealth  
     - feel great to receive the salary  
-    - build emergency funds  
-
+        +  emergency funds  
 
 * softskills  
     - active listening  
         + encourage + mirroring  
     - questions  
-        + negative assumption questions for the truth  
+        + **negative assumption questions** for the truth  
 
     - detect  
         + match between words and actions  
@@ -35,12 +33,13 @@ tags: [diary, review, important, learning, lesson]
         + **good with communication**  
         + make me laugh  
         
-
 * business 
     - model  
         + concept - customer value  
         + personal goals - **effort, cost, benefit**  
         + business goals - **how to success & compete**  
+
+    - don't argue or say different opinions  
 
     - Success is finding a path forward among the options that actually exist  
 

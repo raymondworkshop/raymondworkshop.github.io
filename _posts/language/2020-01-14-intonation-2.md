@@ -134,12 +134,12 @@ abstract: "Summary about the American Intonation"
 
 
 #### improve listening  
-    - study reducation
-    - study linking
-        + he always /hi(y) 'ɔl weiz/
-    - study native speech
-    - write what you hear
-    - try Youglish -> YouGlish  
+* study reducation
+*  study linking
+    - he always /hi(y) 'ɔl weiz/
+* study native speech
+* write what you hear
+* try Youglish -> YouGlish  
 
 
 
