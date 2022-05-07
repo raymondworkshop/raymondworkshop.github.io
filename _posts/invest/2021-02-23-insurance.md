@@ -59,5 +59,5 @@ abstract: "notes on Insurance"
 
 
 #### costs  
-  * 220 hkd for exam fee 
-  * 252 hkd for insurance fee 
+* 220 hkd for exam fee 
+* 252 hkd for insurance fee 

@@ -7,7 +7,10 @@ categories: [home,  writing]
 abstract: "notes on 《十年一覺電影夢》from 李安 (Ang Lee) "
 ---
 
-> <small>notes on 《十年一覺電影夢》from 李安 (Ang Lee) </small>
+> <small>notes on 《十年一覺電影夢》from 李安 (Ang Lee) </small>  
+
+#### 2022 understanding movies  
+TODO  
 
 #### 快乐的童年  
 这是老式日本教育的方式， **打你才尽责，爱你才管你**。  

@@ -7,6 +7,8 @@ categories: [home, notes]
 abstract: '總結自 <a href="http://www.oklink.net/a/0011/1101/mgzy/003.htm">產權與交易費用</a>'
 ---
 
+#### microeconomics  
+TODO  
 
 #### notes-2020 
 這裡只是**經濟學**上的一個基本理論分析框架,在中國語境和西方語境下會有完全不同的意思 (畢竟政治社會環境完全不同)。  (<small>note-2020: 這裡說的不是社會達爾文主義，也不是完全的自由市場主義 </small>))

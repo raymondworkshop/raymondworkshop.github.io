@@ -5,6 +5,8 @@ date: 2022-05-05
 tags: [notes, self, softskills, insight, important, learning,todo]
 ---
 
+#### Emotional Intimacy  
+
 
 #### reference
 * [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  

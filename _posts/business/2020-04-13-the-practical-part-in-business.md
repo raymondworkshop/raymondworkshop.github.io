@@ -26,6 +26,24 @@ categories: [notes, learning, business, ideas, important, management]
 
     - work in small teams/companies with the lean members    
 
+#### How to Achieve your Goals  
+* Connect every goal to **a purpose**    
+    - figure out the "why" behind your goal  
+    - "**I want to** build a profitable business **so that** I can retire early and spend time doing things I love"  
+
+* **Start small** and start now  
+    - need to **build new habits**
+        + Taking that first step can be the most challenging  
+        + **Make small and steady behavioral changes to set yourself** on the right path  
+
+* Remove obstacles before you begin  
+    - ask "what could prevent me from appcomplishing this?"  
+        + write down your potential obstacles, excuses, or fears, as well as how you will navigate them  
+    - put your "worry" or "anxiety" thougths to paper to free up space in your mind to focus on the positive 
+
+* Celebrate your wins  
+    - Make time to reflect upon and applaud your efforts  
+        + Celebrating your accomplishments not only feels great, but also reinforces positive behaviors that will help you accomplish the next goal  
 
 
 #### notes from <the lean-startup>  
