@@ -8,12 +8,8 @@ abstract: "About financial planning and education"
 ---
 
 #### TODO  
-* CHECK 
-    - HSBC MasterCard Debit Card  
-        + TODO  
 
-
-#### Ideas  
+#### **How to get Rich**  
 * **Wealth is assets and business that can earn** while you sleep  
     - the purpose of wealth is **freedom**  
 
@@ -193,10 +189,171 @@ abstract: "About financial planning and education"
             - it's the nature of code and media output that the same product is accessible to everybody  
 
 * Pick a Business Model with Leverage  
+    - scale economies  
+        + less marginal cost of reproduction 
+    - Network effects  
+        + create little hooks for users to add value to each other    
+        + how your customers add value to each other   
+
     - TODO  
 
+
+
+* Judgment Is the most important skill  
+    - **get leverage**  
+        + code or media (writing/language)  
+    - then **your judgment** really maters  
+        + know the long-term effects of your actions and then making the right decision to capitalize on that  
+        + judgment/wisdom comes from experience, and can be acceleated through short **iterations**  
+
+
+
+* Find **product-founder-market** fit   
+    - search for what to do  
+        + **your objective and skills** converage to make you the best    
+            - **keep changing your objective** until it arrives at your specific knowledge, skill sets, position, capabilities, location and interests  
+
+            - "**I want to be the best at what I do**"  
+            - "**What I do is flexible, so that I'm the best at it**"  
+
+        + arrive at **a comfortable place where you feel**    
+            - "**This is something I can be amazing at, while still being authentic to who I am**"  
+
+        + "what should I be doing?"  
+        + "where is a market emerging?"  
+        + "where is a market emerging?" 
+        + "what's a product I can build that I'm excited to work on"  
+        + "where I have specific knowledge?"  
+
+    - pick **the right people** to work  
+        + **surround yourself with the best people** possible  
+        + pick the people with the hightest intelligence, energy and integrity that you can find  
+
+    - work hard and **value your time**    
+        + anything you have to do, get it done  
+        + If I discover a problem, I'll get on it, right then and there, and solve it  
+
+        + need free time and a free mind  
+            - being busy will destroy your ability to do great things  
+            - * **Outsource something** for less than your hourly rate  
+
+
+        
+* Escape Competition through Authenticity  
+    -  you **have to adjust** until you find product-market fit  
+        + at least **lean towards authenticity**, towards getting away from competition  
+        + the business and product they create are **authentic to their desires and means**    
+    - **the masses are never right in entrepreneurship**
+
+
+* apply specific knowledge, with leverage, with judgment, to get what you deserve  
+    - product-market fit  
+        + **what am I really good at**, accordign to observation and people I trust
+        + the market wants it?  
+
+    - Avoid people who got rich quickly  
+        + they're just giving you their winning lottery ticket numbers  
+        +  you have to **examine everything**, and have your own point of view    
+            - **is it true**? 
+            - is it true outside of the context of how that person applied it?  
+            - is it true in my context? 
+            - **do I want to apply it**?  
+
+* A Calm Mind, a Fit Body, a House Full of Love  
+    - Money will solve all your money problems  
+        + **Money buys you freedom** in the material world  
+        + money lets you not do the things you don't want to do 
+
+    - your health, your mental health, and your close relationships  
+
+    - calmer internal state  
+
+
+* **Productize yourself** and work for yourself     
+    - Figure out **what you're uniquely good at**, and apply as much leverage as possible  
+        + Am I productizing it?   
+        + **Am I scaling with labor or capital or code or media**?  
+
+    - Look up **the value chain to find leverage**  
+        + see how they are **taking advantage of the time and work you're doing** and how they're **applying leverage**  
+
+        + you want to manage **more capital, products, meida and community**  
+            - people want to move up naturally to manage other people  
+
+        + every founder has to lie to every employee  
+
+
+    - Work for yourself  
+        + the best relationships are **peer relationships**  
+            - if there's someone above you, that's someone to **learn from**  
+            - if there's somebody below you, it's because you're **teaching them and enabling them**   
+
+        +  **one that makes you money**   
+            - reading and making money, 
+            - working with startups 
+
+        + one that keeps you fit  
+
+        + one that makes you creative  
+
+* Being Ethical is Long-Term Greedy  
+    - Trust leads to compounding relationships  
+
+
+* **Principal-Agent Problem**: Act like an owner  
+    - **A principal is an owner**; an agent is an employee 
+
+    - A principal's incentives are different than an agent's incentives  
+        + you have to **get the incentives right to get people to behave correctly**  
+            - almost all human behavior can **be explained by incentives**  
+            - **People are much more honest with their actions** than they are with their words  
+            - the good ones are not just looking for **money**, they're also looking for **things like status and meaning in what they do**  
+        + when you do deals, it's **better to have the same incentives**  
+
+    - **Train yourself how to think like a principal**  
+        + the best way to operate is to ask **"What would the founder do?"**  
+        + think like the owner and act like the owner  
+
+    -  **Deal with small firms** to avoid the principal-agent problem  
+        + the agent doesn't care much and you end up getting substandard service  
+        + **work with boutiques**; the accountability is extremely high  
+
+    - Think big  
+        + it **takes as much effort to create a small business as a large one**  
+
+    - Don't **bet everything on one big gamble**    
+
+
+* **Compounding Relationships** make life easier  
+    - Turn short-term games into long-term games  
+        + Negotiation is about not wanting it too badly  
+        + if someone is taking advantage of you in a negotiation, your best option is to **turn it from a short-term game into a long-term game**  
+
+        + "i'm going to do this project with you, and I have three friends who want projects done who are waiting to see the outcome of this project."  
+
+    - **relationships offer a good example of compound interest**    
+        + mutual trust, you know that person's got your back  
+
+        + it's better to **have a few compounding relationships** than many shallow ones  
+
+
+* Finding Time to invest in yourself  
+    - **try to be innovative in the context of your job**, **take on new challenges and responsibilities**    
+        + find the part of the job with the steepest learning curve  
+        + avoid repetitive drudgery 
+
+    - develop **a founder mentality**    
+
+    - **take on accountability**    
+        + take on accountability and solve problems on the edge of knowledge that others can't solve, **people will line up behind you**. **The leverage will come**.  
+        + "Hey, I'll take charge of this thing that nobody wants to take charge of"  
+
+    - Scale your specific knowledge with **apprentices**  
+        + Specific knowledge comes on the job, not in a classroom  
+    
+
 * reference 
-    - [How to Get Rich](https://nav.al/rich) 
+    - **[How to Get Rich](https://nav.al/rich)** 
     - [What is Money, Anyway?](https://www.lynalden.com/what-is-money/)
 
 #### Financial Accounting Made Fun  

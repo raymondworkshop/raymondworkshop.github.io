@@ -16,7 +16,9 @@ date: 2012-03-19
 * [thewirechina](https://www.thewirechina.com/)
 
 #### insightful  
-* [How to Get Rich](https://nav.al/rich)
+* [How to Get Rich](https://nav.al/rich)  
+* [Thoughts on Man's Purpose in Life](https://govleaders.org/rickover-purpose.htm)  
+* [Paul Graham](http://www.paulgraham.com/articles.html)    
 
 #### reading      
 * [Lambda the Ultimate - Group blog that tracks innovations in Programming Languages research](http://lambda-the-ultimate.org/)
@@ -30,7 +32,6 @@ date: 2012-03-19
 #### CHECK
 * **[Joel On Software](https://www.joelonsoftware.com/)**  
 * **[danluu](https://danluu.com/)**  
-* **[Paul Graham](http://www.paulgraham.com/articles.html)**   
 
 * **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)** 
 * **[Patrick Collison](https://patrickcollison.com/)**  
