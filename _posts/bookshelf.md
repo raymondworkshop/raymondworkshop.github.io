@@ -16,6 +16,8 @@ date: 2012-03-19
 
 
 * Writing  
+    - [pronunciation](https://www.coursera.org/learn/pronunciation-american-english-project/home/week/1)  
+    - [writing](https://www.coursera.org/learn/advanced-writing/home/week/1)
 
 * Personal  
     - [Creative and Practical Thinking Skills](https://learning.edx.org/course/course-v1:HKPolyUx+Lifedeath101x+1T2022/home) (8/10)  

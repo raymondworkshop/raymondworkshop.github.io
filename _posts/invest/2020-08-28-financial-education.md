@@ -188,15 +188,18 @@ abstract: "About financial planning and education"
         + with the largest budget, you get the highest quality  
             - it's the nature of code and media output that the same product is accessible to everybody  
 
-* Pick a Business Model with Leverage  
-    - scale economies  
-        + less marginal cost of reproduction 
-    - Network effects  
-        + create little hooks for users to add value to each other    
-        + how your customers add value to each other   
+* **Pick a Business Model with Leverage**  
+    - **Scale economies**  
+        + the more you produce, the cheaper it gets  
+            - this **builds up an automatic barrier** to entry against competition  
 
-    - TODO  
+        + **low marginal cost** of reproduction  
+            - like media 
 
+    - **Network effects** - **value grows** as the square of the customers    
+        + you want to be **in a network effects business**, assuming you're not number two  
+            - create little hooks for users to add value to each other    
+            - how your customers add value to each other   
 
 
 * Judgment Is the most important skill  
