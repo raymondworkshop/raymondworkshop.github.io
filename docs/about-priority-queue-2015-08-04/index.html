@@ -82,39 +82,45 @@
 <li>
 <p>The implementations</p>
 <ul>
-<li>unordered array/linked-list: </li>
-<li>To insert: push in the stack. O(1)</li>
 <li>
-<p>To remove the max: exchange the MAX with the item at the end, and then delete that one. o(n)</p>
+<p>unordered array/linked-list: </p>
+<ul>
+<li>To insert: push in the stack. O(1)</li>
+<li>To remove the max: exchange the MAX with the item at the end, and then delete that one. o(n)</li>
+</ul>
 </li>
 <li>
 <p>ordered array/linked-list:</p>
-</li>
+<ul>
 <li>for insert to move larger entries on the right position,thus keeping the keys in the order array. o(n)</li>
-<li>
-<p>The MAX is always at the end. O(1)</p>
+<li>The MAX is always at the end. O(1)</li>
+</ul>
 </li>
 <li>
 <p><strong>binary heap</strong> <a href="http://cs.lmu.edu/~ray/notes/pqueues/" title="priority queue">2</a></p>
-</li>
+<ul>
 <li>a binary tree is heap-ordered if the key in each node &gt;= the keys in the node's two children <a href="http://algs4.cs.princeton.edu/24pq/" title="Priority Queues">3</a>.</li>
 <li>To insert: <strong>exchanging the node with its parent</strong> to restore the heap condition</li>
 <li>
-<p>To remove:
-        - take the key off the top;
-        - put the item at the end of the heap to the top,
-        - and then sink through the heap with the key to restore the heap condition</p>
+<p>To remove:</p>
+<ul>
+<li>take the key off the top;</li>
+<li>put the item at the end of the heap to the top,</li>
+<li>and then sink through the heap with the key to restore the heap condition</li>
+</ul>
 </li>
 <li>
 <p>In a heap, the highest (or lowest) priority item is always stored <strong>at the root</strong>, hence the name "heap".
-   A heap is not a sorted structure and can be regarded as <strong>partially ordered</strong> . There is no particular
-   relationship among ndoes on any given level, even among the siblings <a href="http://www.cs.cmu.edu/~adamchik/15-121/lectures/Binary%20Heaps/heaps.html" title="priority queues">4</a>.</p>
+       A heap is not a sorted structure and can be regarded as <strong>partially ordered</strong> . There is no particular
+       relationship among ndoes on any given level, even among the siblings <a href="http://www.cs.cmu.edu/~adamchik/15-121/lectures/Binary%20Heaps/heaps.html" title="priority queues">4</a>.</p>
 </li>
 <li>
 <p>A heap is useful data structure when we need to <strong>remove the object with the highest (or lowest) priority</strong>.</p>
 </li>
 <li>
 <p>O(logN)</p>
+</li>
+</ul>
 </li>
 </ul>
 </li>

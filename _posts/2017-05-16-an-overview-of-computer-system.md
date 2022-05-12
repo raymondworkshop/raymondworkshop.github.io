@@ -7,7 +7,7 @@ categories: [home,system]
 abstract: "Summary about Computer Systems from A Programmer's Perspective"
 ---
 
-#### Optimizing Program Performance [ch5]  
+#### ch5  Optimizing Program Performance  
 * **trade-off between how easy a program is to implement and maintain, and how fast it runs**
     - Select an appropriate set of algorithms and data structures
     - make the compiler optimize the code effectively
@@ -22,7 +22,7 @@ abstract: "Summary about Computer Systems from A Programmer's Perspective"
     - The performance gain depends both on **xhow much we improve this part**
    and **how large a fraction** of the overall time this part originally required
 
-#### The Memory Hierarchy [ch6]
+#### ch6 The Memory Hierarchy 
 * Storage Technologies - **trade-off between price and performance (access times)**
     - Static Random-Access memory(SRAM) - stable - cache memory
     - Dynamic RAM - sensitive to any disturbance - main memory
@@ -42,7 +42,7 @@ abstract: "Summary about Computer Systems from A Programmer's Perspective"
     - spatial locality - by reading data objects sequentially, with stride 1, in the order they are stored in memory
 
 
-#### Linking [ch7] - enable separate compilation (just only recompile one source and relink )
+#### ch7 Linking  - enable separate compilation (just only recompile one source and relink )
 * Linking - concatenates blocks together, and decides on **run-time locations** for the concatenated blocks
     - symbol resolution step -  symbol table in .symtab
         + associate each global symbol (functions and global variables) reference with a **unique** symbol definition
@@ -63,7 +63,7 @@ abstract: "Summary about Computer Systems from A Programmer's Perspective"
     - a single copy of the .text section of a shared libray in memory can be **shared** by different running
     - the basic idea is to **link the relocation and symbol table info** when the executable file is created, and then complete the linking process (**code and data** ) dynamically when the program is loaded
 
-#### Exceptional Control Flow (ECF) [ch8]
+#### ch8 Exceptional Control Flow (ECF) 
 * control flow (a sequence of control transfer) of the processor
     - control transfer - from the address a<sub>k</sub> to a<sub>k+1</sub>
 
@@ -87,7 +87,7 @@ abstract: "Summary about Computer Systems from A Programmer's Perspective"
     - signals  
     - [TODO] 
 
-#### Virtual Memory [ch9]
+#### ch9 Virtual Memory 
 * [TODO] 
 
 #### Network programming

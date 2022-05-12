@@ -7,10 +7,38 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### S08E15
+he will **cheer you up** (心情好转).  
+
+I **accidentally** (碰巧) packed these with my stuff.  
+
+The only sad thing is that **I wasn't around** (不在场) when it happened for the first time. 
+
+**He is breathing**  
+
+What are you doing here? I'm **supposed to pick you up** (接你)  
+
+> Richal, wait, **I hope you don't take this the wrong way** (希望不要误会).  
+what are you doing?  
+> we **gotta have some boundaries**; why don't you go back to your place and 
+give us some privacy?  
+
+> what's up? 
+> mona just dumped me
+> on, man, **I'm sorry**. why? 
+> **That really suck** (打击很大).   
+
+> **Is he a good guy?**  
+> then talk to him, he might be fine with it.
+> Joey, **it's worth finding out**, if you really like her. 
+> Seriously, just talk to the guy, okay? **Let me know how it goes**.  
+
+
+
 #### S08E09  
 obviously i didn't handle it very well
 
-> it's not a big deal 
+> it's not a big deal  
 
 #### S08E08
 > I've got to get going  
