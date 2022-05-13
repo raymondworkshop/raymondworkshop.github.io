@@ -8,6 +8,8 @@ categories: [notes, business, softskill, summary]
 
 ##### No Asshole  
 * Don't hire any assholes  
+    - After encountering the person, do people feel oppressed, humiliated or otherwise worse about themselves?
+    - Does the person target people who are less powerful than him/her?
 
 ##### notes  
 

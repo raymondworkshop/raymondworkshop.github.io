@@ -21,9 +21,10 @@ abstract: "Record My Cash flow, and lessones on it"
     -  ~3K/M  
     - put >20K in retirement account each 6 months 
 
-* Life and Disability insurance    
-    - TODO @50    
 
+* (Life) Insurance  
+    - ~500/M  
+    - TODO @50
 
 * Goal 
     - save 10K each month until 8M  at 65  

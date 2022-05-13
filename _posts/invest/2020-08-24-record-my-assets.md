@@ -4,12 +4,18 @@ title: "[Updating] !Record my Assets"
 date: 2020-08-24
 comments: true
 categories: [learning, invest]
-abstract: "[Updating] ! Record my Assets: Stocks, and lessons on it"
+abstract: "[Updating] ! Record my Assets, and lessons on it"
 ---
 
-#### Assets in Stocks  
-* Pension  
-    - Put >20K in retirement account each 6 months 
+#### Assets   
+* Business 
+
+* Investment  
+    - TODO  
+
+
+* Pension in Stocks    
+    - Put >20K on pension each 6 months 
     - [My-Stocks](https://docs.google.com/spreadsheets/d/13oVXolE1bBj1zLOu-F57pCDwCVjfDUATLxat02qbxTg/edit#gid=1379632901)  
     
 

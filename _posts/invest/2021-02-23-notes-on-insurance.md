@@ -7,8 +7,17 @@ categories: [learning, insurance, invest]
 abstract: "notes on Insurance"
 ---
 
-#### experiences  
+#### Insurance  
+* Investment  
+    - ~500/M @ HSBC Global Equity Index Fund
 
+* (Health) Insurance  
+    - parents   
+        + ~500/Y  
+    - me @50  
+
+
+#### experiences  
 * Upset  
     -  工作氛围  
         +  工作场合 本来就是 利益场  
@@ -27,8 +36,7 @@ abstract: "notes on Insurance"
       
 
 
-##### my Insurance   
-
+##### Insurance   
 *  **健康保险, 医疗保险, 寿险**    
    - 基本保障类别 盡早選擇醫療保險、危疾保險或意外保險  
 
@@ -41,7 +49,6 @@ abstract: "notes on Insurance"
 * Bowtie 保險  
 
 * 保柏环球优越自愿医保计划  
-
    -  保柏互通保額醫療保障計劃  
       + 每年根据年龄重新投保?  
       + 恒生银行为你提供合资格延期年金保单、自愿医保及强积金可扣税自愿性供款方案, 
