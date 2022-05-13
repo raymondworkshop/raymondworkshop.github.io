@@ -1,170 +1,101 @@
 ---
 layout: post
-title: "[Updating] !Summary my Money"
+title: "[Updating] !Record my Assets"
 date: 2020-08-24
 comments: true
 categories: [learning, invest]
-abstract: "[Updating] ! Summary my Money"
+abstract: "[Updating] ! Record my Assets: Stocks, and lessons on it"
 ---
 
-#### living  
-* Monthly Consumption   
-    -  ~6k for living 
-    -  ~4k for eating 
-    -  ~1k for enjoy   
-
-* Safety Net  
-    -  ~4K/M  
-
+#### Assets in Stocks  
 * Pension  
-    -  ~3K/M  
+    - Put >20K in retirement account each 6 months 
+    - [My-Stocks](https://docs.google.com/spreadsheets/d/13oVXolE1bBj1zLOu-F57pCDwCVjfDUATLxat02qbxTg/edit#gid=1379632901)  
+    
 
-* Life and Disability insurance    
-    - TODO @50    
+##### Stratery on Stock investment  
+* notes  
+    + active income 
+        - business 
+        - arbitrage  
 
+    + passive income  
+        - dividends  
+        - real estate investment  
 
-* Goal 
-    - save 10K each month until 8M  at 65  
-        + put >10K in retirement account each 3 months  
-        + profit from economic growth  
-        + diversified  
+    + Assume US stock will rise again  
+        - invest more on stock, because don't want to lose more money in stock  
 
-    - family trust to hold assets  
+* Strategy 
+    + less 50% money on some stock for more moeny  
 
+    + at least 30% on index ETFs 
 
-
-#### living
-* **~around 13,6k/m**
-    - cost every month 
-        + 6k for living 
-        + 4k for eating 
-            - 4233.01 on this october  
-        + 1k for others 
-            - 33 for mobile fee
-            - 100 for books/news 
-            - exercise  
-         
-    - Money - credit card - **9000** hkd  
-        + 1,706.67 * 12 for  20k - 信用卡供款HKD2,0000的現金分期
-        + 916.67 for credit card  - 消費以及簽賬HKD1,1000的分期  
-        + 5150 * 12 for 60k - 信用卡HKD6,0000現金分期
-
-        + at least 5000 hkd cash dollar for monthly living  
-        + fetch 3000 hkd at least 2 weeks advance  
-
-* 100k extra passive income each year  
-    - 5000 hkd passive income firstly each year
-
-
-* 医疗保险 - 10%   
-    -  Bowtie 保險
-    -  保柏环球优越自愿医保计划  
-    -  保柏互通保額醫療保障計劃  
-        + 每年根据年龄重新投保?  
-        + 恒生银行为你提供合资格延期年金保单、自愿医保及强积金可扣税自愿性供款方案, 
-        -> 恒生强积金可扣税自愿性供款 ?  
-
-    - 保泰自願醫保 – 靈活計劃 – 升級計劃  - 446.38hkd/m
-    - 友邦   
-
-
-* 我的投資 - 30%  
-
-
-* **Hang Seng MPF**  
-    - 計劃成員帳戶號碼 : 313084227 
-        + scheme id: 39999981      
-        + input: HKD **101,233.21** hkd on 2020-09-09  
-        + 10% 平稳基金 + 35% 北美股票 + 15% 欧洲股票 + 25% 亚太股票  on 11-24-2020   
-        + +6167.84 -> 49769.13 on 08-28-2020 
-        + +4130.98 -> 105364.19 on 2020-09-09 
-        + +11119.68 on 2020-11-24  
-
-
-#### Stratery on Stock investment
-   * notes  
-     + active income 
-       - business 
-       - arbitrage  
-
-     + passive income  
-       - dividends  
-       - real estate investment  
-
-
-     + Assume US stock will rise again  
-       - invest more on stock, because don't want to lose more money in stock  
-
-   * Strategy 
-     + less 50% money on some stock for more moeny  
-
-     + at least 30% on index ETFs 
-
-     + hold cash if not good choices  
+    + hold cash if not good choices  
      
-     + 70% 成长型,   30% 创收资产  
-       - 50% on US equities,  40% on asian equities,  10% cash  
-       - 基金以 **5%** 为界调整, 股票以 10% 为界 调整  
-       - check **every month** 
+    + 70% 成长型,   30% 创收资产  
+        - 50% on US equities,  40% on asian equities,  10% cash  
+        - 基金以 **5%** 为界调整, 股票以 10% 为界 调整  
+        - check **every month** 
 
-     + 60% 成长型, 40% on 退休基金 
+    + 60% 成长型, 40% on 退休基金 
 
-   * rebalance use wealthfront.com   
+* rebalance use wealthfront.com   
 
-   * input: 
-     + 2020-09-10 -> 221497.25 - 6650 = **214847.25**
-       - **-6650** 比亚迪电子亏损  
-       - around 2500 hkd cash  
+* input: 
+    + 2020-09-10 -> 221497.25 - 6650 = **214847.25**
+        - **-6650** 比亚迪电子亏损  
+        - around 2500 hkd cash  
 
-     + 2020-09-07 -> 221197.25 + 300 = **221497.25**  
-       - + 300 
-       - around 3k hkd cash  
+    + 2020-09-07 -> 221197.25 + 300 = **221497.25**  
+        - + 300 
+        - around 3k hkd cash  
 
-     + 2020-09-03  -> 221197.25 + 3,762.96 = **224960.21**  
+    + 2020-09-03  -> 221197.25 + 3,762.96 = **224960.21**  
        - 175011.66 + 7900 + 16006.02 + 20279.57 + 3000 = **222197.25** hkd  
        - around 3,762.96 hkd cash   
 
-     + 2020-09-01  
+    + 2020-09-01  
        - 165026.66 + 4,900 + 16006.02 + 20279.57 = 206212.25 hkd 
 
 
-   * input on sofi.hk      
-   > ---------  
-     +  2020-12-16 
-      - **105569.9** hkd  
-      - -19098.93 hkd 
+* input on sofi.hk      
+    > ---------  
+    +  2020-12-16 
+        - **105569.9** hkd  
+        - -19098.93 hkd 
 
-     + 2020-11-18  
-       - 131198.83 hkd 
-       - +50000 hkd  
-     + 2020-11-13  
-       - -52990 hkd  
-       - 81198.83  
-     + 2020-11-06  
-       - -10000 hkd 
-       - 134188.83  
-     + 2020-10-28  
-       - -6190 hkd  
-       - 144188.83 
-     + 2020-10-22 
-       - -24932.83 (8286.68 for bitcoin, 5000 for house fee, 2000 cash, )  ?  
-       - 150378.83 
-     + 2020-09-07  
-       - +300 
-       - 175011.66 + 300 = 175311.66 
-     + 2020-09-03 
-       - +10000
-       - 165011.66 + 10000 = 175011.66
-     + 2020-08-30  
-       -  - 153089.86 + 159026.66  = -5936.8 
-       - + 6000  
-     + sofi input: 10,000.00 + 10,000.00 + 10,000.00 - 1,500.00 + 2,500.00  - 2,988.34  + 50,000.00  + 10,000
-       + 13,000.0 + 58000 + 6000  + 10000 - 7000 + 10000 - 8000 - 18000 - 1932.83 = 150378.83   
+    + 2020-11-18  
+        - 131198.83 hkd 
+        - +50000 hkd  
+    + 2020-11-13  
+        - -52990 hkd  
+        - 81198.83  
+    + 2020-11-06  
+        - -10000 hkd 
+        - 134188.83  
+    + 2020-10-28  
+        - -6190 hkd  
+        - 144188.83 
+    + 2020-10-22 
+        - -24932.83 (8286.68 for bitcoin, 5000 for house fee, 2000 cash, )  ?  
+        - 150378.83 
+    + 2020-09-07  
+        - +300 
+        - 175011.66 + 300 = 175311.66 
+    + 2020-09-03 
+        - +10000
+        - 165011.66 + 10000 = 175011.66
+    + 2020-08-30  
+        -  - 153089.86 + 159026.66  = -5936.8 
+        - + 6000  
+    + sofi input: 10,000.00 + 10,000.00 + 10,000.00 - 1,500.00 + 2,500.00  - 2,988.34  + 50,000.00  + 10,000
+        - 13,000.0 + 58000 + 6000  + 10000 - 7000 + 10000 - 8000 - 18000 - 1932.83 = 150378.83   
      
    > ---------
 
 
-#### Updated One    
+##### Updated One    
 * Input: 
   + Info: 
     - [My-Money](https://docs.google.com/spreadsheets/d/13oVXolE1bBj1zLOu-F57pCDwCVjfDUATLxat02qbxTg/edit?usp=sharing) 
