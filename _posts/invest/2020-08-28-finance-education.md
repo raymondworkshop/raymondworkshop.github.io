@@ -23,15 +23,15 @@ abstract: "About financial planning and education"
 
 #### Financial education  
 * your ultimate goal should be increasing cash flow  
-    - **grow the passive income** with dividends 
+    - **grow the passive income** with dividends  
     
 
 #### notes 
 * understand wealth  
     - 财富 应该反映**你对生活的满足感，你的选择，以及你为了享受生活而必须管理的资源**； 不局限于金钱多寡  
-    - 医疗/残障保险 
+    - 医疗/残障保险  
 
-* understand money 
+* understand money  
     - understand leverage, compound interest and integrity
 
 
@@ -43,7 +43,6 @@ abstract: "About financial planning and education"
        + 定期卖出部分“表现出色”的资产，并买入一些“表现落后”的资产  
 
     - **要多交流**, 而不是自己一个人苦想  
-
 
     - TODO  
        + how to measure a good stock  
@@ -145,12 +144,9 @@ abstract: "About financial planning and education"
 
 
 
-##### questions 
-
 ###### 债券价格和利率的关系
 
 
-##### 复利
 
 
 ##### reference 

@@ -30,14 +30,13 @@ date: 2012-03-19
 * [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   (9/10)  
 * [The Subtle Art of Not Giving a Fck](https://book.douban.com/subject/26895197/) by Mark Manson  (8/10)  
 
-* [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho (8/10) 
+* [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho (9/10) 
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (7/10)  
 * [Serious Python](https://book.douban.com/subject/30206213/) by Julien Danjou    
-* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford 
 * [Writing Interpreters and Compilers for the Raspberry Pi Using Python](https://www.amazon.com/gp/product/B089M41NGB/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) by Anthony J. Dos Reis  
+* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
 
 * [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  
-* [Subliminal](https://book.douban.com/subject/7015922/) by Leonard Mlodinow  
 * [紅玫瑰yu与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲    
 
 * [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
@@ -46,7 +45,7 @@ date: 2012-03-19
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 
 * [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  (9/10)  
-* [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb 
+* [The Long Tail](https://book.douban.com/subject/26584041/) by Chris Anderson  
 
 * [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  
 * [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti 

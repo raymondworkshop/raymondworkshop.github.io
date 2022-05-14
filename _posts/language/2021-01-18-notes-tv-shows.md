@@ -23,16 +23,15 @@ what are you doing?
 > we **gotta have some boundaries**; why don't you go back to your place and 
 give us some privacy?  
 
-> what's up? 
-> mona just dumped me
-> on, man, **I'm sorry**. why? 
-> **That really suck** (打击很大).   
+> what's up?  
+> mona just dumped me  
+> on, man, **I'm sorry**. why?  
+> **That really suck** (打击很大).  
 
 > **Is he a good guy?**  
-> then talk to him, he might be fine with it.
-> Joey, **it's worth finding out**, if you really like her. 
+> then talk to him, he might be fine with it.  
+> Joey, **it's worth finding out**, if you really like her.  
 > Seriously, just talk to the guy, okay? **Let me know how it goes**.  
-
 
 
 #### S08E09  
