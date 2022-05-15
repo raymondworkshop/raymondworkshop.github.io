@@ -10,14 +10,13 @@ date: 2012-03-19
 * Entrepreneur  
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
     - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
-    - [An Economist Way of Thinking](https://learning.edx.org/course/course-v1:UQx+ECON7000.1x+3T2021/home)  
     - [Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)  
     - [Operations](https://learning.edx.org/course/course-v1:BabsonX+EPS03x+3T2018/home)  
-
+    - [An Economist Way of Thinking](https://learning.edx.org/course/course-v1:UQx+ECON7000.1x+3T2021/home)  
 
 * Writing  
+    - [writing](https://www.coursera.org/learn/advanced-writing/home/week/1)  
     - [pronunciation](https://www.coursera.org/learn/pronunciation-american-english-project/home/week/1)  
-    - [writing](https://www.coursera.org/learn/advanced-writing/home/week/1)
 
 * Personal  
     - [Creative and Practical Thinking Skills](https://learning.edx.org/course/course-v1:HKPolyUx+Lifedeath101x+1T2022/home) (8/10)  
@@ -30,26 +29,24 @@ date: 2012-03-19
 * [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   (9/10)  
 * [The Subtle Art of Not Giving a Fck](https://book.douban.com/subject/26895197/) by Mark Manson  (8/10)  
 
-* [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho (9/10) 
+* [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho (9/10)  
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (7/10)  
 * [Serious Python](https://book.douban.com/subject/30206213/) by Julien Danjou    
 * [Writing Interpreters and Compilers for the Raspberry Pi Using Python](https://www.amazon.com/gp/product/B089M41NGB/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) by Anthony J. Dos Reis  
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
+* [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
 
+* [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  (9/10)    
 * [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  
 * [紅玫瑰yu与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲    
 
-* [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
-* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling 
-* [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan 
+* [The Long Tail](https://book.douban.com/subject/26584041/) by Chris Anderson  
+* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling  
+* [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan  
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 
-* [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  (9/10)  
-* [The Long Tail](https://book.douban.com/subject/26584041/) by Chris Anderson  
-
 * [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  
-* [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti 
-
+* [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti  
 * [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
 * [From Cold War to Hot Peace](https://book.douban.com/subject/27126169/) by Michael McFaul  
 
