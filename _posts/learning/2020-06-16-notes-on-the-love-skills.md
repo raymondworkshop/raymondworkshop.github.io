@@ -6,6 +6,8 @@ comments: true
 categories: [notes, important, softskills, love, self, learning]
 ---
 
+#### notes  
+* nice talk & long walk  
 
 #### Truely to **Understand**
 

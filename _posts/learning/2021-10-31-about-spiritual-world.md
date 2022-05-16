@@ -49,6 +49,14 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning 
+* The church  
+    - God's people **living, celebrating, and growing together**    
+    - spur one another on toward **love and good deeds**  
+    - 彼此教导成全，学习真理，追求属灵生命的长大  
+    - 申言 - 呼求主名  
+        + **体会主耶稣和你同在**  
+        + 以耶稣为榜样，在尘世中生活，工作，就是善行  
+
 * 事奉主与传福音  
     - 祷告  
     - 建立接触主话语的习惯  
@@ -73,7 +81,6 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
             - 劝戒**不受规矩的人**，**抚慰灰心**的人，**扶持软弱**的人，又要对众人**恒忍**  
 
         + 而不是 事奉 钱，罪，吃，律法，国家，偶像  
-
 
 
 * 圣灵  - 吸入所有的丰富  

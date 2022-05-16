@@ -13,8 +13,14 @@ abstract: "record the lessons,Know more about yourself, and self-actualization "
         + 减少内耗  
 
     - **只做必须之事**， 也把必须之事做好  
-        + 做的适宜，不做没有目标的事  
+        + 做的适宜，不做没有目标的事   
         + 知道自己要什么  
+
+    - **围绕眼前的实践来提升认知**  
+        + 需要什么，再学习什么，不要脱离实际  
+
+    - 商人玩的是 **赚钱的游戏**  
+        + **尽可能避免零和游戏**，因为它并不创造财富 
 
     - skipped toxic people  
         + 负面的人 

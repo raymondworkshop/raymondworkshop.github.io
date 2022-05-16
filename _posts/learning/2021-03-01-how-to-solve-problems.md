@@ -10,12 +10,19 @@ abstract: "Skills: How to Solve Problems"
 ##### Note
 * TODO 
 
-##### focus - 把精力用在重要的事情上 
+##### Focus - 把精力用在重要的事情上 
 * 不是生活中的每一个问题都要解决，**和问题共处是人生常态**    
 
 
-##### Check -   Constantly ask yourself what you're trying to do  
-* ask yourself **what's the problem** you're trying to solve  
+##### **Check -   Constantly ask yourself what you're trying to do**  
+* **Always pick the simplest solution** that solves your immediate problem, then **change it when it is needed**    
+
+    + keep is agile and adaptable; iterate faster  
+    
+
+*  **Constantly ask yourself what's the problem** you're trying to solve  
+    + After we implement the simple solution, we **have a much better understanding of our problem**  
+
     + be sure that **you understand the problem deeply**, and that you **at least have an idea** of how would you know that the problem is solved  
 
     + Connect Goals to a purpose   
