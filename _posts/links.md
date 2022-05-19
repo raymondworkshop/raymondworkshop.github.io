@@ -29,7 +29,8 @@ date: 2012-03-19
 * [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
 * [courses](https://learn.saylor.org/course/index.php)
 
-#### CHECK
+#### CHECK  
+* **[Naval](https://nav.al/)**  
 * **[Joel On Software](https://www.joelonsoftware.com/)**  
 * **[danluu](https://danluu.com/)**  
 
