@@ -84,8 +84,8 @@ See the table:
 
 |    Algorithm       |  Worst-case-search  |  Worst-case-insert  |
 |    :---:           |      :----:         |       :----:        |     
-| `sequential search`  |         N           |          N          |
-|   `binary search`    |        lgN          |         2N          |  
+| sequential search  |         N           |          N          |
+|   binary search    |        lgN          |         2N          |  
 
 
 ### In Summary  

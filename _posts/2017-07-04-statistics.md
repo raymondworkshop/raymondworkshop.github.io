@@ -27,13 +27,9 @@ TODO
     
 * Frequentist - 极大似然估计方法 (Maximum likelihood estimation) (要求假设的分布函数有参数形式) 是用来估计一个概率模型的参数的一种方法。 
 
-    <br/>
-
     假设总体有分布  f(X;θ_1,...,θ_k), X_1,...X_n  为抽出的样本; 當有了結果X（样本）时，即在所有由原因θ而产生的可能性中，寻找一个值使这个X（样本）的“可能性”最大(即似然程度最大)。  
 
-    <br/>
-
-    则有似然函数    
+    则有似然函数:        
     $$L(θ|X_1,...,X_n) = f(X_1|θ)f(X_2|θ)...f(X_1|θ) = \prod_{i=1}^n f (x_i|θ)  
 
     $$\log(L(θ|X_1,...,X_n)) = \sum_{i=1}^n {\log(f(X_i|θ))}  
@@ -41,7 +37,6 @@ TODO
     我们要似然程度最大, 即“极大似然估计”:    
     $$\hat{θ}_{MLE}=\operatorname*{arg\,max}_\theta \sum_{i=1}^n {\log(f(X_i|θ)}  
     
-    <br/><br/>   
     
 #### Nonparametric statistics
 One of the biggest problems with tests like the chi-squared test is that they make a lot 
