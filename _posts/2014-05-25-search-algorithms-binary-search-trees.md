@@ -42,7 +42,7 @@ private class Node {
 
 The search use the recursive algorithm to search for a key, the function get()
 
-```
+``` java
 public void get (Key key){
 
     return get(root, key);  //starting with the root of the tree
@@ -113,7 +113,6 @@ natural orders (the worst tree shape), that the time could be proportional to ~N
 
 #### Searching Algorithm - red-black BST 
 
-#### Searching Algorithm - hash table
-
+#### Searching Algorithm - hash table  
 * References:
-  + [Binary Search Trees](http://algs4.cs.princeton.edu/32bst/)
+    + [Binary Search Trees](http://algs4.cs.princeton.edu/32bst/)

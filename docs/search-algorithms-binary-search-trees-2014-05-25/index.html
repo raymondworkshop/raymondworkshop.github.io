@@ -64,26 +64,26 @@ the left (smaller keys) and right subtree (larger keys).</p>
 </pre>
 <h4>The Implementation  with Java:</h4>
 <p>The search use the recursive algorithm to search for a key, the function get()</p>
-<pre><code>public void get (Key key){
+<pre class="lang-java"><span class="kd">public</span> <span class="kt">void</span> <span class="nf">get</span> <span class="p">(</span><span class="n">Key</span> <span class="n">key</span><span class="p">){</span>
 
-    return get(root, key);  //starting with the root of the tree
+    <span class="k">return</span> <span class="n">get</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">key</span><span class="p">);</span>  <span class="c1">//starting with the root of the tree</span>
 
-}
+<span class="p">}</span>
 
-private Value get(Node x, Key key){
+<span class="kd">private</span> <span class="n">Value</span> <span class="nf">get</span><span class="p">(</span><span class="n">Node</span> <span class="n">x</span><span class="p">,</span> <span class="n">Key</span> <span class="n">key</span><span class="p">){</span>
 
-    if(x == null) return null;
+    <span class="k">if</span><span class="p">(</span><span class="n">x</span> <span class="o">==</span> <span class="kc">null</span><span class="p">)</span> <span class="k">return</span> <span class="kc">null</span><span class="p">;</span>
 
-    int cmp = key.compareTo(x.key);
-    if(cmp &lt; 0)
-        return get(x.left, key);
-    else if (cmp &gt; 0)
-        return get(x.right, key);
-    else
-        return x.val;
+    <span class="kt">int</span> <span class="n">cmp</span> <span class="o">=</span> <span class="n">key</span><span class="p">.</span><span class="na">compareTo</span><span class="p">(</span><span class="n">x</span><span class="p">.</span><span class="na">key</span><span class="p">);</span>
+    <span class="k">if</span><span class="p">(</span><span class="n">cmp</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">)</span>
+        <span class="k">return</span> <span class="n">get</span><span class="p">(</span><span class="n">x</span><span class="p">.</span><span class="na">left</span><span class="p">,</span> <span class="n">key</span><span class="p">);</span>
+    <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="n">cmp</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">)</span>
+        <span class="k">return</span> <span class="n">get</span><span class="p">(</span><span class="n">x</span><span class="p">.</span><span class="na">right</span><span class="p">,</span> <span class="n">key</span><span class="p">);</span>
+    <span class="k">else</span>
+        <span class="k">return</span> <span class="n">x</span><span class="p">.</span><span class="na">val</span><span class="p">;</span>
 
-}
-</code></pre>
+<span class="p">}</span>
+</pre>
 <p>The insert put key-value pair into BST, if key already exists, update
 with new value, the function put()</p>
 <pre class="lang-java"><span class="kd">public</span> <span class="kt">void</span> <span class="nf">put</span><span class="p">(</span><span class="n">Key</span> <span class="n">key</span><span class="p">,</span> <span class="n">Value</span> <span class="n">val</span><span class="p">){</span>
@@ -127,8 +127,10 @@ natural orders (the worst tree shape), that the time could be proportional to ~N
 <h4>Searching Algorithm - red-black BST</h4>
 <h4>Searching Algorithm - hash table</h4>
 <ul>
-<li>References:</li>
+<li>References:<ul>
 <li><a href="http://algs4.cs.princeton.edu/32bst/">Binary Search Trees</a></li>
+</ul>
+</li>
 </ul></p>
 </article>
 
