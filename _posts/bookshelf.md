@@ -31,6 +31,7 @@ date: 2012-03-19
 
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho (9/10)  
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (7/10)  
+* [Python Distilled](https://book.douban.com/subject/35563594/) by David M. Beazley  
 * [Serious Python](https://book.douban.com/subject/30206213/) by Julien Danjou    
 * [Writing Interpreters and Compilers for the Raspberry Pi Using Python](https://www.amazon.com/gp/product/B089M41NGB/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) by Anthony J. Dos Reis  
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  

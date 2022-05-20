@@ -34,19 +34,21 @@ TODO
     <br/>
 
     则有似然函数
-     L(θ|X_1,...,X_n)   
+    $$ L(θ|X_1,...,X_n)   
        = f(X_1|θ)f(X_2|θ)...f(X_1|θ)
-       = \prod_{i=1}^n f (x_i|θ)
+       = \prod_{i=1}^n f (x_i|θ)  
+
     <br/><br/>   
 
     $$ \log(L(θ|X_1,...,X_n)) \\
       = \sum_{i=1}^n {\log(f(X_i|θ))}
-    $$<br/><br/> 
+    <br/><br/> 
      
-     我们要似然程度最大, 即“极大似然估计”：
+    我们要似然程度最大, 即“极大似然估计”:    
     $$ \hat{θ}_{MLE} \\
        =\operatorname*{arg\,max}_\theta \sum_{i=1}^n {\log(f(X_i|θ))}  \\
-    $$<br/><br/>   
+    
+    <br/><br/>   
     
 #### Nonparametric statistics
 One of the biggest problems with tests like the chi-squared test is that they make a lot 

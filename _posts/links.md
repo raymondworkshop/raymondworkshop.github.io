@@ -18,6 +18,7 @@ date: 2012-03-19
 #### insightful  
 * [How to Get Rich](https://nav.al/rich)  
 * [Thoughts on Man's Purpose in Life](https://govleaders.org/rickover-purpose.htm)  
+* [Software Engineering Insights From 10 Years At Google](https://addyosmani.com/blog/software-eng-10-years/)  
 * [Paul Graham](http://www.paulgraham.com/articles.html)    
 
 #### reading      
