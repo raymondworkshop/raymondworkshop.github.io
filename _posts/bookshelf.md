@@ -41,10 +41,11 @@ date: 2012-03-19
 * [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  
 * [紅玫瑰yu与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲    
 
-* [The Long Tail](https://book.douban.com/subject/26584041/) by Chris Anderson  
+* [Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer  
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling  
 * [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan  
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
+* [The Long Tail](https://book.douban.com/subject/26584041/) by Chris Anderson  
 
 * [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  
 * [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti  
