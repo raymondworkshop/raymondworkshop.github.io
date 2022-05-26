@@ -48,6 +48,13 @@ abstract: "record the lessons,Know more about yourself, and self-actualization "
         + 无论爱情友情亲情， 投入不一致（深浅轻重多少），才造成痛苦困扰  
 
 
+#### The Minto Pyramid Principle  
+* TODO  
+
+* reference  
+    - [The Minto Pyramid Principle](https://book.douban.com/subject/1460277/)
+
+
 ####  总结自[思考的技术](http://book.douban.com/subject/3138847/)
 
 * 不要把假设和结论混为一谈; **搜集证据,印证假设到导出真正结论过程中的逻辑思考**  
