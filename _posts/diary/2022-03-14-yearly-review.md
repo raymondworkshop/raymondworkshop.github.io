@@ -7,16 +7,29 @@ tags: [diary, review, important, learning, lesson]
 
 #### 2022-05-30  
 * skills  
-    - coding + language(english)    
-    - mindset + perspective  
-    - softskills  
+    - coding  
+        + python  
+        + javascripts  
+        + sicp  
+        + interpreters and comiplers 
+
+    - language  
+        + english  
+        + cantonese  
+
+    - Emotional intelligence  
 
 * **wealth**  
+    - Entrepreneur  
+        + mindsets + perspective  
+        + Microeconomics  
+        + Game Theory  
+
     - business  
     - investment on assets  
 
-* **family**    
-    - a love family  
+* **families**    
+    - a lovely family  
 
 * friends  
     - avoid toxic people  
