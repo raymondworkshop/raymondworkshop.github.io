@@ -10,9 +10,8 @@ date: 2012-03-19
 * Entrepreneur  
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
     - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
-    - [Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)  
-    - [Operations](https://learning.edx.org/course/course-v1:BabsonX+EPS03x+3T2018/home)  
-    - [An Economist Way of Thinking](https://learning.edx.org/course/course-v1:UQx+ECON7000.1x+3T2021/home)  
+    - [Microeconomics](https://learning.edx.org/course/course-v1:MITx+14.01x+3T2021/home)  
+    - [Game Theory](https://www.coursera.org/learn/game-theory-1/home/week/1)  
 
 * Writing  
     - [writing](https://www.coursera.org/learn/advanced-writing/home/week/1)  
