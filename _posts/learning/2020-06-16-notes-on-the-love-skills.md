@@ -7,7 +7,47 @@ categories: [notes, important, softskills, love, self, learning]
 ---
 
 #### notes  
-* nice talk & long walk  
+* 用**心去聆听对方**    
+
+* make her **feel understood** and **listened to**, not a man who takes her too seriously  
+    - to mind fuck her, you have to **understand her mind**. 
+    - A woman's communication is the window into **seeing how her mind operates** 
+    - so being able to **decipher the truth behind her words** is essential  
+    
+* **be a good listener**  
+    - do not jump in with your opinion  
+    - let them talk things out on their own  
+
+* **being a better friend** to both her and her friends  
+    - **pay attention to what her and her friends say**  
+    - **give her your fill attention**    
+    - make eye-contact when you talk  
+    - show you are **kind, caring and committed**  
+
+* **try to flirt with her**  
+    - create space and respect her privacy    
+    - do not try to fix her problems  
+    - **simply let her know you are there and are wiling to listen**  
+
+* SELF  
+    - **talk slowly and deeply**    
+    - 信心 + caring    
+        + 帮挪椅子    
+
+    - smile and talking slowly  
+
+    - **relax and be confident** 
+
+    **refocus on making yourself more attractive** 
+    rather than forcing a certain person to like you 
+        + **develop yourself talents, interests, and good nature**  
+
+    - respect her thoughts/feelings/interests 
+
+    - confident, competent, humor    
+
+    - nice talk & long walk  
+
 
 #### Truely to **Understand**
 

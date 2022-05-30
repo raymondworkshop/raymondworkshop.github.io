@@ -5,6 +5,23 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-05-30  
+* skills  
+    - coding + language(english)    
+    - mindset + perspective  
+    - softskills  
+
+* **wealth**  
+    - business  
+    - investment on assets  
+
+* **family**    
+    - a love family  
+
+* friends  
+    - avoid toxic people  
+
+
 #### 2022-05-03
 * self  
     - be yourself, but be your best self  

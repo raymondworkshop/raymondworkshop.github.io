@@ -9,15 +9,8 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 * TODO  
 
 * lessons 
-    - 商人玩的是 **赚钱的游戏**  
-        + **尽可能避免零和游戏**，因为它并不创造财富；多元化机会  
-        + 商业利益 就应该 **最大比例考虑商业利益**  
-        除非威胁到 健康/人身安全，家人，自由等等； 原则倒是其次   
-        + 多数中国人比较熟悉 “**实用主义驱动的经济自由化**” 
-            - **在稳定的利益基础上建立的合作**觉得才是稳固的，人品和情谊都无法提供这种稳定性  
-
-    - 专注于**赚钱的项目**，而不是被理想催着走  
-        + 大多数人从未创造或发布过任何东西，所以发布本事就是一个值得庆祝的大事  
+    - **a taste of freedom can make you unemployable (an entrepreneur)**    
+        + 对未知的恐惧 阻碍了你迈出脚步  
 
     - wealth is assets and businessed that earn while you sleep  
         + wealth **buys your freedom**  

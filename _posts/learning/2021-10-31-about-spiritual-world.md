@@ -49,6 +49,17 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning 
+* **用心去聆听对方**    
+    - Jesus is the truth, life  
+    - 复活的信仰  
+        + 想要与耶稣同在  
+
+    - 罗十四 17 因为神的国不在于吃喝，乃在于**公义，和平，并圣灵中的喜乐**  
+
+    - 以弗所书三 17 使基督藉著信,安家在你們心裏,叫你們**在愛裏生根立基**  
+
+    - 希伯来书十24-25  **彼此相顾，激发爱心，勉励行善**； 不可放弃我们自己的聚集 ，好像有些人习惯了一样，倒要彼此劝勉   
+
 * The church  
     - God's people **living, celebrating, and growing together**    
     - spur one another on toward **love and good deeds**  

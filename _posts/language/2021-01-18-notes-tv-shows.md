@@ -7,7 +7,43 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
-#### S08E15
+#### best call soul  
+>Thanks for lunch. I’ll get the next one.
+>Thanks for taking the time. Good to see you, jimmy
+
+Yeah, all right then. That’s that.
+I just had to mention it. 
+
+
+Is everything okay?
+
+
+I can’t tell u how much I regret that I let you down 我很抱歉让你失望
+
+We walk on eggshells forever? 如履薄冰
+
+Do u mind if we take just another minute of your time?
+
+No matter what our relationship looks like moving forward, we own you the truth.
+And the truth is, you ignored our advice.
+We said … 
+
+We are your attorneys, and it is our job to advise you. The decisions will always be yours, but if you continue to ignore us, the this is the wrong relationship.
+
+I have to tell you whoever represents you in the future, I hope you’re gonna listen to them a little bit better.
+
+咬伤每一任主人的狗 只能用铁腕约束，或者直接打死
+
+You want me to wait?
+You sure?
+
+It helped me to see what’s important and what isn’t
+
+I had that experience, but it doesn’t make me happy
+
+I don’t know. But I will figure it out
+
+#### S08E15  
 he will **cheer you up** (心情好转).  
 
 I **accidentally** (碰巧) packed these with my stuff.  

@@ -9,7 +9,6 @@ abstract: "[Updating] Notes on Emotional Intelligence"
 
 #### Notes  
 
-
 #### 情商  
 * 情商  
     - 在与人打交道过程中，通过 **感知对方想法**，**觉察并处理自身情绪**，从而**做出正确反应的能力**    

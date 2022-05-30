@@ -11,6 +11,17 @@ abstract: "Notes on how to do users' Requirements"
 * it's having **the insights that lead to new products**  
     - the best of those come from working on hard tech problems  
 
+    - **focus on the users**, take moonshots and **have ambitious ideas**  
+        + we **talk to our users** and **try to understand why there are gaps**. 
+        + being a new area, we are building things that never existed before  
+
+
+* **builder**  
+    - I am a builder at heart  
+        + it gave me **the power to build things** and 
+        when you **see what you build work in front of your eyes**, it can be quite powerful.  
+
+
 * reference
     - [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan
 

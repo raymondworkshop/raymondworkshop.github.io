@@ -40,12 +40,12 @@ not a man who takes her too seriously
 * TODO  
     - **be a good friend**  
         + create space and respect her privacy  
-            - do not try to fix her problems 
+            - do not try to fix her problems  
             - **simply let her know you are there and are wiling to listen** 
 
         + **be a good listener**  
             - do not jump in with your opinion  
-            - let them talk things out on their own 
+            - let them talk things out on their own  
 
         + **make plans as a group and include her**  
             - offer to pick her up or pay for her 
@@ -61,9 +61,9 @@ not a man who takes her too seriously
             - focus on good topics such as the news, family, travel, or your thoughts on love and what makes a good relationship  
 
     - **being a better friend** to both her and her friends  
-        + **pay attention to what her and her friends say** 
-        + **give her your fill attention**
-        + make eye-contact when you talk 
+        + **pay attention to what her and her friends say**  
+        + **give her your fill attention**  
+        + make eye-contact when you talk  
         + show you are **kind, caring and committed**  
 
     - tease and joke one each other  
@@ -83,6 +83,7 @@ not a man who takes her too seriously
 
     - consider keeping things casual  
         + if you two are afraid or nervous of commitment  
+
 
 #### 2021-08-22
 * the relationship with Ivy is Over  

@@ -47,11 +47,14 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + **learn to say no**  
             - some people feel no shame when they take advantage of your kindness  
         
-        + avoid people  
-            - drain you  
-            - try to control you  
+        + avoid toxic people  
+            - drain you  or try to control you  
             - make you question your self worth  
             - don't apologize for their shitty behavior  
+            - cause you a lot of harm and unhappiness over a long period of time  
+            - toxic people are usually people who **don't understand the concept of boundaries**    
+            - don't associate with people with **low self awareness**     
+            
 
         + diss losers 
             - lie to you  
