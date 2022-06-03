@@ -6,12 +6,17 @@ date: 2012-03-19
 ### log of training & books and my ratings
 
 #### training-2022 
+* Communication  
+    - [Couples Counselling](https://alison.com/topic/learn/121714/introduction-to-counselling)  
+
 
 * Entrepreneur  
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
+    - [Persuasive Communication](https://alison.com/topic/learn/103806/persuasive-communication-learning-outcomes)  
     - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
     - [Microeconomics](https://learning.edx.org/course/course-v1:MITx+14.01x+3T2021/home)  
     - [Game Theory](https://www.coursera.org/learn/game-theory-1/home/week/1)  
+
 
 * Writing  
     - [writing](https://www.coursera.org/learn/advanced-writing/home/week/1)  
@@ -35,6 +40,7 @@ date: 2012-03-19
 * [Writing Interpreters and Compilers for the Raspberry Pi Using Python](https://www.amazon.com/gp/product/B089M41NGB/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) by Anthony J. Dos Reis  
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
 * [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
+* [Producing Open Source Software](https://producingoss.com/en/index.html)  
 
 * [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  (9/10)    
 * [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  

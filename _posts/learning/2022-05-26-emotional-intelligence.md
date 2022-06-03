@@ -9,6 +9,45 @@ abstract: "[Updating] Notes on Emotional Intelligence"
 
 #### Notes  
 
+#### improve your emotional intelligence  
+* being emotional intelligence  
+    - **knowing and understanding yourself**,
+    thus, it helps you make better decisions  
+
+    -  **spare us from emotional suffering**  
+    because we know where it comes from  and 
+    we know how to handle it and maybe not even impose it upon others  
+
+    -  help us deal with **interpersonal relationships**  
+    because we also connect on a different level  
+
+    - a world full of mutual understanding, acceptance, tolerance and connection  
+
+* 6 steps 
+    - acknowledge emotions  
+        + ask **"how they are feeling"**    
+        + show iMessage  
+
+    - differentiate and analyze emotions  
+        + different emotions and their functions  
+    
+    - accept and appreciate emotions  
+
+    - reflect on your emotions and their origin  
+        + knowing why we feel the way you do help me handle the feeling  
+
+    - handle your emotions  
+        + how do you approach that topic or this emotion?  
+
+    - handle the emotions of others  
+        + understanding and awareness are the keys  
+        + ask **"how you can support them"**  they might know that   
+        + **"how they can support themselves"**  because that way you know only help them in the acute situation  
+
+
+* reference 
+    - [6 steps to improve your emotional intelligence](https://www.youtube.com/watch?v=D6_J7FfgWVc)
+
 #### 情商  
 * 情商  
     - 在与人打交道过程中，通过 **感知对方想法**，**觉察并处理自身情绪**，从而**做出正确反应的能力**    

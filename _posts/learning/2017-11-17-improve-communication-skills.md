@@ -7,6 +7,13 @@ categories: [softskills, communication, important, notes, learning]
 abstract: "like listening, persuation ... "
 ---
 
+##### Persuasive Communication  
+
+* TODO  
+
+* reference  
+    - [The Art of Persuasion](https://alison.com/topic/learn/103806/persuasive-communication-learning-outcomes)
+
 ##### Effective Communication  
 * 职场沟通方法论  
     - TODO  

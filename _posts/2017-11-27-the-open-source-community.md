@@ -51,7 +51,8 @@ Practice defensive design - build on open source.
 Most contributors in Open-source development are **volunteers contributing** in order to be **rewarded by the increased usefulness of the software to them**, and by **reputation incetives**, thus **Process transparency and peer review** are the crucial steps in the open-source development.
 
 
-#### reference
+#### reference  
+* [Producing Open Source Software](https://producingoss.com/en/index.html)
 * The Art of Unix Programming 
 * [Figuring out how to contribute to open source](https://jvns.ca/blog/2017/08/06/contributing-to-open-source/)
 

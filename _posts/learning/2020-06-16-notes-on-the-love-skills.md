@@ -31,6 +31,7 @@ categories: [notes, important, softskills, love, self, learning]
 
 * SELF  
     - **talk slowly and deeply**    
+    
     - 信心 + caring    
         + 帮挪椅子    
 
@@ -38,15 +39,44 @@ categories: [notes, important, softskills, love, self, learning]
 
     - **relax and be confident** 
 
-    **refocus on making yourself more attractive** 
-    rather than forcing a certain person to like you 
-        + **develop yourself talents, interests, and good nature**  
+    - **refocus on making yourself more attractive** rather than forcing a certain person to like you  
+        +  **develop yourself talents, interests, and good nature**  
 
     - respect her thoughts/feelings/interests 
 
     - confident, competent, humor    
 
     - nice talk & long walk  
+
+
+#### Couples relationships    
+* Healthy Romantic Relationships  
+    - insight  
+        + **awareness, understanding, learning**    
+        + have a better idea of who you are, what you need, 
+        what you want, why you do the things you do  
+
+        + "well, you know what the next time. I'll just 
+        going to take things a little more slowly and not repeat the same mistake."    
+
+    - mutuality  
+        + knowing that **both sets of needs matter**    
+        + "you know, I'd really like to take this job, it's really important to me,
+        **but I also am concerned** about us spending time together. If I promise to protect some time for us, **will you be OK** with me taking this job?"    
+
+    - emotion regulation   
+        + **regulating your feelings** in response to things that happen in your relationship  
+        + can maintain a sense of self-respect and commitment to your needs  
+        
+        + "you know what, **I can handle this**. This is going to be all right. 
+        There is a way to deal with this. **I'm going to figure this out**."  
+
+
+
+* TODO  
+
+* reference  
+    - [Couples Counselling](https://alison.com/topic/learn/121714/introduction-to-counselling)  
 
 
 #### Truely to **Understand**
