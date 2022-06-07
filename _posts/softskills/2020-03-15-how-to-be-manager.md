@@ -6,6 +6,34 @@ comments: true
 categories: [ softskills, learning, summary, management]
 ---
 
+### **manage up**    
+
+#### Embrace managing up  
+*  if you don't manage up, you'll waste time on  
+    - needless back-and-forth  
+    - avoidable misunderstandings  
+    - confusion on how you're adding value  
+
+* TODO  
+
+* reference  
+    - [Here’s a secret about managing up](https://twitter.com/wes_kao/status/1533463689097056256)
+
+#### treat your manager as a **coach**, not as a judge  
+* 主动向老板寻求反馈  
+    - **主动问问上司**，你的哪些工作令他们印象深刻，还有哪些方面需要改进 
+
+* 定期要求与之会面，定期了解他对你的看法    
+
+* 把重点放在应该完成哪些目标上， 更好地了解管理层对自己的期望，不仅涉及日常工作，还包括长期思维
+  
+* 自己的事情主动跟进，有什么问题就跟老板说，讨论， 如果不是自己管辖范围内的事情，别人开心就好
+这里最重要的是你对你提出的问题已经找到合适的解决方案。  
+
+
+* It is our job to do the hard and discern the impossible. it then becomes your job to help the entreprenuer find a reasonable solution which is merely hard and gets most of what they wanted. A solution is merely hard when it can be confidently scheduled and the risks are understood.  
+
+
 ### how to mange down  
 
 #### Giving Feedback - in a way that was helpful and direct, but also kind and thoughtful  
@@ -53,6 +81,7 @@ categories: [ softskills, learning, summary, management]
 * you are not just be the person who is the expert, 
     you will be **someone who makes everyone better**
 
+
 #### The art of **delegating**    
 * change your mindset 
     - have to focus on growth and education, not necessarily efficiency. 
@@ -97,22 +126,6 @@ categories: [ softskills, learning, summary, management]
 
 * 如果对方无赖  
     - 千万不要说自己有做的不对的地方  
-
-### your manager   
-
-#### treat your manager as a **coach**, not as a judge  
-* 主动向老板寻求反馈  
-    - **主动问问上司**，你的哪些工作令他们印象深刻，还有哪些方面需要改进 
-
-* 定期要求与之会面，定期了解他对你的看法  
-
-* 把重点放在应该完成哪些目标上， 更好地了解管理层对自己的期望，不仅涉及日常工作，还包括长期思维
-  
-* 自己的事情主动跟进，有什么问题就跟老板说，讨论， 如果不是自己管辖范围内的事情，别人开心就好
-这里最重要的是你对你提出的问题已经找到合适的解决方案。  
-
-
-* It is our job to do the hard and discern the impossible. it then becomes your job to help the entreprenuer find a reasonable solution which is merely hard and gets most of what they wanted. A solution is merely hard when it can be confidently scheduled and the risks are understood.
 
 
 #### you own your career  

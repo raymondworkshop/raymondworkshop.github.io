@@ -5,11 +5,17 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-06-07  
+* TODO    
+    - 用中国银行香港的服务  
+    - 拔智齿    
+
+
 #### 2022-05-30  
 * skills  
     - coding  
         + python  
-        + javascripts  
+        + ~javascripts~ 
         + sicp  
         + interpreters and comiplers 
 

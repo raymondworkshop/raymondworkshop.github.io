@@ -12,6 +12,8 @@ date: 2012-03-19
 
 * Entrepreneur  
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
+    - [Designing Your Career](https://learning.edx.org/course/course-v1:StanfordOnline+XDES300+1T2020/home)  
+    - [Rhetoric: The Art of Persuasive Writing and Public Speaking](https://learning.edx.org/course/course-v1:HarvardX+AESTHINT15+1T2022/home)  
     - [Persuasive Communication](https://alison.com/topic/learn/103806/persuasive-communication-learning-outcomes)  
     - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
     - [Microeconomics](https://learning.edx.org/course/course-v1:MITx+14.01x+3T2021/home)  
