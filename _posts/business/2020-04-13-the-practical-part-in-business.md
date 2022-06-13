@@ -11,18 +11,29 @@ categories: [notes, learning, business, ideas, important, management]
     - if you want to be wealthy, **spend your time earning, learning, or relaxing**;
     **oursource or ignore everything else**    
 
+    - **Health, Love, and your mission**, in the order  
+        + Nothing else matters  
+
+    - it's **leveraged versus un-leveraged**    
+        + forget rich versus poor, white-collar versus blue  
+        + **code, media,  capital, labor**    
+
+
     - **a taste of freedom can make you unemployable (an entrepreneur)**    
         + 对未知的恐惧 阻碍了你迈出脚步 
 
     - 商人玩的是 **赚钱的游戏**  
         + **尽可能避免零和游戏**，因为它并不创造财富；多元化机会  
+            - treat people as friends and **attempt to win together**   
+            rather than to treat people as enemies and attempt to win on your own  
+
         + 商业利益 就应该 **最大比例考虑商业利益**  
-        除非威胁到 健康/人身安全，家人，自由等等； 原则倒是其次   
-        + 多数中国人比较熟悉 “**实用主义驱动的经济自由化**” 
+        除非威胁到 健康/人身安全，家人，自由等等； 原则倒是其次    
+        + 多数中国人比较熟悉 “**实用主义驱动的经济自由化**”  
             - **在稳定的利益基础上建立的合作**觉得才是稳固的，人品和情谊都无法提供这种稳定性  
 
     - 商业和熟人的模式不一样  
-        + 家人是支持对方  
+        + **家人是支持对方**    
         + 你把你自己的利益放在团体利益之上  
 
     - 专注于**赚钱的项目**，而不是被理想催着走  
@@ -36,9 +47,21 @@ categories: [notes, learning, business, ideas, important, management]
 
 
     - **practical ability** is more important    
+
     - **pass the basic boring step** firstly, then the creative part will come    
 
 
+* practical part  
+    - understand **the desired business outcomes and goals**  
+    - **intuition**  
+        + (knowledge from) an ability to understand or know something immediately based on your feelings rather than facts  
+
+    - industry/domain knowledge and sense  
+
+    - curiosity  
+
+    - iterative  
+       
 
 * TODO  
     - programming from start <500line>  

@@ -48,7 +48,22 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
                 + 只需要依照福音書的教诲， **以耶稣基督为榜样，在尘世中生活，工作，这就是善行**  
 
 
-#### Learning 
+#### Learning  
+* **好管家**    
+    - 作神诸般恩典的好管家  
+
+    - 因信称义  
+        + 由于亚当及夏娃的原罪，因**信赖基督及他救赎**的伟大工作，众人也就被**称义得生命**了  
+        + 希伯来书11-7 “诺亚因着**信**，既蒙神指示他未见的事，动了敬畏的心，预备了一只方舟，使他全家得救”  
+
+    - 谦卑  
+        + 服（**接受**）于环境 + **抛**给神 （信神的指示）  
+
+    - 彼得前书 3:7 
+        + **considerate (kind and helpful)** + **respect**    
+        + "Husbands, in the same way be **considerate** as you live with your wives, and treat them with **respect as the weaker partner** and as heirs with you of the **gracious gift of life**, so that nothing will hinder your prayers"  
+        + “你們做丈夫的，也要按情理和妻子同住，因她比你**軟弱**，與你一同承受生命之恩的，所以要**敬重**她。這樣，便叫你們的禱告沒有阻礙”  
+
 * **用心去聆听对方**    
     - Jesus is the truth, life  
     - 复活的信仰  

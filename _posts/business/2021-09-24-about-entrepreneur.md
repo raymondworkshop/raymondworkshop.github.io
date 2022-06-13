@@ -12,6 +12,9 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
     - **a taste of freedom can make you unemployable (an entrepreneur)**    
         + 对未知的恐惧 阻碍了你迈出脚步  
 
+    - if you want to **go far, go together**;
+    if you want to go quickly, go alone 
+
     - wealth is assets and businessed that earn while you sleep  
         + wealth **buys your freedom**  
         + money is social credits, 
@@ -23,7 +26,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
         **don't worry about what others think of you, that's none of your business**. 
         **train your mind to think, doubt, and question**.   
 
-
+    - create like an artist, sell like an entrepreneur  
 
 * reference 
     - [Startup Skills Checklist](https://www.lincolnquirk.com/projects/2014/06/02/projects_startup-skills-checklis.html)

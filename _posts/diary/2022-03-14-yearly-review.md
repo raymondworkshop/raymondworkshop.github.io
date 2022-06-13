@@ -7,7 +7,8 @@ tags: [diary, review, important, learning, lesson]
 
 #### 2022-06-07  
 * TODO    
-    - 用中国银行香港的服务  
+    - 补考驾照    
+    - 中国银行香港的服务    
     - 拔智齿    
 
 

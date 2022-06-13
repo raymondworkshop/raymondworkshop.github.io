@@ -28,6 +28,7 @@ categories: [softskills, coach, self, learning, leadership, important]
 
 * Leadership  
     - gift vs tit-for-tat leadership style  
+        + tit-for-tat: <small>现代博弈论也证明了最优战略是“**一报还一报**”</small>   
 
     - **middle people and task**  <- Blake and Mouton's Leadership Grid  
         + focus on **work output** as well as **employee morale**   

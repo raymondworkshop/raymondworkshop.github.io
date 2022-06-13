@@ -14,9 +14,30 @@ abstract: "like listening, persuation ... "
 * reference  
     - [The Art of Persuasion](https://alison.com/topic/learn/103806/persuasive-communication-learning-outcomes)
 
+
 ##### Effective Communication  
-* 职场沟通方法论  
-    - TODO  
+* seek to **understand the other person's perspectives**  instead of judging them definitely  
+    - **instead of reacting try asking questions about why** someone said something or acted the way they did  
+
+* create a **supportive workplace**     
+    - help those feel **valued and needed**  
+
+    - **Start gently**    
+        + simply asking
+        "**how are you feeling today**?"  
+        "how was your weekend?"  
+        "how's that assignment going?"  
+        or "are you still stressed about your kids" 
+
+    - talk to a colleague one to one  
+        + **listen and watch for signs** that they are struggling before talking to someone  
+        + **ask whether and how you can help** to support them  
+
+
+    - use supportive language  
+        + "**I don't know what you're going through**, but I would like to help you. **Is there any way that I can**?"  
+        + "**I wonder if a doctor might be able to help you**."  
+
 
 * communication goals  
     - convey our ideas  

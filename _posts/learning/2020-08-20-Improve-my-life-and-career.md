@@ -14,6 +14,7 @@ abstract: "[Improving] My framework for a pleasure of life and career"
     - [Leading the Life You Want](https://www.coursera.org/learn/leading-the-life-you-want/home/week/1)  
     - [Influence](https://www.coursera.org/learn/wharton-influence?specialization=wharton-success)  
 
+
 #### build my habits from <Atomic Habits>  
 *  being driven by noble purposes  
 

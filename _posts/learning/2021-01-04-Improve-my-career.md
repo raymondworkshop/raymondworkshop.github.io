@@ -10,8 +10,7 @@ abstract: "[Improving] Building my career"
 #### Develop your softskills  
 
 * 魅力 - 受欢迎的程度  
-    - 笑脸相映   
-        + 笑脸更可信，更温暖，更亲近  
+    - 笑脸更可信，更温暖，更亲近    
         + **轻轻歪头和微笑**  
 
     - 互动的重点集中于对方  
@@ -58,7 +57,19 @@ abstract: "[Improving] Building my career"
         + 某些姿态也可以有效表达关心  
             - 感谢信，小礼物或**干脆发送一些与研究方向或行业新闻有关的连接**    
 
-      
+
+#### ask for feedback with interview  
+* "Based on our conversation, **how do you think** my experience **matches** what's needed for the job?"   
+
+* "**Is there anything specific I should highlight** in upcoming interviews based on the job description or the intangibles not listed?"   
+
+* "**how do u think my skills can be leveraged to** bring value to your team and the company?"  
+
+* "**is there any feedback**, specific focus areas, or anything I can do to improve my interviewing technique?"  
+
+* ask culture-fit  
+    - "do you think, based on the feedback, **I would be a culture fit for** future opportunities? "
+   
 
 #### Develop Decision-Making skills  
 

@@ -11,10 +11,19 @@ abstract: "Notes on how to do users' Requirements"
 * it's having **the insights that lead to new products**  
     - the best of those come from working on hard tech problems  
 
+    - **bulit the use case first** and **the protocol second**    
+        + customers don't care about the technology, they care about the user experience  
+        + choose the right tech architecture to solve a particular customer problem  
+
     - **focus on the users**, take moonshots and **have ambitious ideas**  
         + we **talk to our users** and **try to understand why there are gaps**. 
         + being a new area, we are building things that never existed before  
 
+    - big & small goals take the same effort, why not go big?  
+
+* confident  
+    - "since this sytem is new, we **may face some challenges**. 
+    Nevertheless, we are **confident that the challenges can be overcome**."  
 
 * **builder**  
     - I am a builder at heart  

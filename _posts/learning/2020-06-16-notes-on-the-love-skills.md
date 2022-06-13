@@ -7,7 +7,16 @@ categories: [notes, important, softskills, love, self, learning]
 ---
 
 #### notes  
-* 用**心去聆听对方**    
+* show your woman in **adequate love and appreciation**    
+    - **listen to her**  
+    - **value her opinions**  
+    - **make her feel secure**  
+    - prioritize her  
+    - value her consent  
+
+* Her emotions are her logic  
+    - 用**心去聆听对方**    
+    - women want **attention**; men want respect  
 
 * make her **feel understood** and **listened to**, not a man who takes her too seriously  
     - to mind fuck her, you have to **understand her mind**. 

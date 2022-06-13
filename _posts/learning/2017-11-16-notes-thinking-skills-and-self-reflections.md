@@ -30,6 +30,8 @@ abstract: "record the lessons,Know more about yourself, and self-actualization "
 
     - like the people who like you back  
         + or loyal to you  
+        + 看到他想要提高并让队友们变得更好  
+            - tit-for-tat: <small>现代博弈论也证明了最优战略是“**一报还一报**”</small>   
 
 * lessons  
     - 有底线即可, 无必要追求风骨  
@@ -47,6 +49,15 @@ abstract: "record the lessons,Know more about yourself, and self-actualization "
     - 世俗生活中，人际关系是 烦恼来源
         + 无论爱情友情亲情， 投入不一致（深浅轻重多少），才造成痛苦困扰  
 
+
+#### Tools for better thinking  
+* TODO  
+
+* Conflict Resolution Diagram  
+    - Find win-win solutions to conflicts  
+
+* reference 
+    - [Tools for better thinking](https://untools.co/)
 
 #### The Minto Pyramid Principle  
 * TODO  

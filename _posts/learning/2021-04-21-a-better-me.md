@@ -8,7 +8,9 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 ---
 
 
-### Goal -> be a **Great** man
+### Goal -> be a **Great** man  
+
+* **Health, Love, and your mission**, in the order. Nothing else matters.  
 
 * **focus on yourself firstly** and stop worrying about tomorrow
     - **body and mental  Health**
@@ -20,8 +22,8 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - **Money**
         + seek wealth, most things will naturally align
 
-    - **families**
-        + partner
+    - families
+        + **love**    
 
     - **evolve your mindset**
         +  Be open to growth, feedback & learning
@@ -30,12 +32,14 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - **build knowledge and keep you creative**
 
     - friends
-        + the older & wise 
-        + young future talent 
+        + the older & wise  
+        + young future talent  
         + entrepreneurs  
          
 
     - **self-care**  
+        + INTP  
+            
         + **you don't need the approval of others**   
             - don't have to explain yourself to someone who has never taken  
             the time to get to know you  
@@ -76,7 +80,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - 自立起来
     - 选择人生 
     - 要能分辨出，  **觉察他人对自己的影响， 同时分辨出自己内心的声音**
-    **同时做出自己相应反应的选择** 
+    **同时做出自己相应反应的选择**  
 
     - **不要玩零和游戏**
         + 因为零和游戏里， 资源是有限的，有人赢就有人输  
@@ -85,6 +89,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - **无限 游戏里， 人是可以创造更多资源的， 是可以双赢的**  
         + **赢得标准 变成了 怎样创造更多价值**， 甚至是为别人创造价值，而不是让别人吃亏
         + 这样的话， 诚实不光是美德，也代表现实收益   
+
 
 * **recognize and affirm your feelings**  
     - encourage and support your partner in their emotions  
@@ -139,6 +144,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     -  look good, and feel good 
 
     - relax after 9:00pm at night  
+
 
 * Know yourself, and improve your mindset  
     - **know your strengths and weaknesses**  

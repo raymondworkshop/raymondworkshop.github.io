@@ -12,6 +12,15 @@ categories: [notes, business, softskill, summary]
     - Does the person target people who are less powerful than him/her?
 
 ##### notes  
+* 社交魅力  
+    - 说话**声音低一些**，你的声音就会有磁性  
+        + 说话只要**慢一些**，就会有气质  
+        + 你敢**停顿**，就能显示出你的权威  
+
+    - 永远展现出**舒适放松的状态**，任何时候都不要紧张 
+        + 永远把任何你想接触的人 **当成老朋友**，**交谈**就行  
+
+    - **行就行，不行就拉倒**    
 
 * 紧张的时候, 建议7:3 - **注视对方7秒**, 缓缓挪开3秒  
 

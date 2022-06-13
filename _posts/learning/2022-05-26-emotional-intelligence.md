@@ -9,6 +9,10 @@ abstract: "[Updating] Notes on Emotional Intelligence"
 
 #### Notes  
 
+#### Intuition  
+* mindfulness  
+    - **being aware of your body, mind, and feelings in the present moment, thought** to create a feeling of clam  
+
 #### improve your emotional intelligence  
 * being emotional intelligence  
     - **knowing and understanding yourself**,
