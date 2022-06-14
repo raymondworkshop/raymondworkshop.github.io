@@ -110,7 +110,7 @@
 </pre>
 <h3>Performance Analysis</h3>
 <p>The reason that we <strong>keep keys in an ordered array</strong> is so that we can use <strong>array indexing to dramatically reduce the number of compares required for each search using the known as binary search</strong> ( <strong>can auto calculate the related mid value based on array index</strong>).  </p>
-<p>Binary search in an ordered array with N keys uses no more than <strong>lgN + 1</strong> compares for a search; and Inserting a new key into an ordered array uses <strong>~2N array accesses</strong> in the worst case (<strong>e.g. move the array entirely, line 14~16</strong>), so inserting N keys into an initially empty table uses <strong>~N^2 array accesses</strong> in the worst case.  </p>
+<p>Binary search in an ordered array with N keys uses no more than <strong>lgN + 1</strong> compares for a search; and Inserting a new key into an ordered array uses <strong>~2N array accesses</strong> in the worst case (<strong>e.g. move the array entirely, line 14~16</strong>), so inserting N keys into an initially empty table uses <strong>~$N^2$ array accesses</strong> in the worst case.  </p>
 <p>See the table:</p>
 <table>
 <thead>
@@ -128,7 +128,7 @@
 </tr>
 <tr>
 <td align="center">binary search</td>
-<td align="center">lgN</td>
+<td align="center">$lgN$</td>
 <td align="center">2N</td>
 </tr>
 </tbody>

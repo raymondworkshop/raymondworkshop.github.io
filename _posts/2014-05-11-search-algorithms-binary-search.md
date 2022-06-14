@@ -78,14 +78,14 @@ public void put(Key key, Value val){
 
 The reason that we **keep keys in an ordered array** is so that we can use **array indexing to dramatically reduce the number of compares required for each search using the known as binary search** ( **can auto calculate the related mid value based on array index**).  
 
-Binary search in an ordered array with N keys uses no more than **lgN + 1** compares for a search; and Inserting a new key into an ordered array uses **~2N array accesses** in the worst case (**e.g. move the array entirely, line 14~16**), so inserting N keys into an initially empty table uses **~N^2 array accesses** in the worst case.  
+Binary search in an ordered array with N keys uses no more than **lgN + 1** compares for a search; and Inserting a new key into an ordered array uses **~2N array accesses** in the worst case (**e.g. move the array entirely, line 14~16**), so inserting N keys into an initially empty table uses **~$N^2$ array accesses** in the worst case.  
 
 See the table:
 
-|    Algorithm       |  Worst-case-search  |  Worst-case-insert  |
-|    :---:           |      :----:         |       :----:        |     
-| sequential search  |         N           |          N          |
-|   binary search    |        lgN          |         2N          |  
+|    Algorithm       |  Worst-case-search    |  Worst-case-insert  |
+|    :---:           |      :----:           |       :----:        |     
+| sequential search  |         N             |          N          |
+|   binary search    |        $lgN$          |         2N          |  
 
 
 ### In Summary  

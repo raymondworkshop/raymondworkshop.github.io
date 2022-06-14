@@ -90,16 +90,16 @@ a dictionary query in O(1) expected time.</p>
 <p>hashing</p>
 <ul>
 <li>
-<p>the hash function h maps the university U of keys into the T[0...m-1]</p>
+<p>the hash function h maps the university U of keys into the $T[0...m-1]$</p>
 <ul>
-<li>h : U -&gt; T = {0, 1, ..., m-1}</li>
+<li>$h : U -&gt; T = {0, 1, ..., m-1}$</li>
 </ul>
 </li>
 <li>
 <p>uniform hashing assumption: assume that any given element in U is equally likely to hash into
   any of the m slots, independently of where any other element has hashed to .</p>
 <ul>
-<li>For any diff integers k<sub>1</sub> and k<sub>2</sub>, Pr(h(k<sub>1</sub>)=h(k<sub>2</sub>)) &lt;= 1/m</li>
+<li>For any diff integers $k_1$ and $k_2$, $Pr(h(k_1)=h(k_2)) \leq 1/m$</li>
 </ul>
 </li>
 </ul>
@@ -128,8 +128,8 @@ a dictionary query in O(1) expected time.</p>
 </li>
 <li>
 <p>if we know that the keys are random real numbers k
-    independently and uniformly distributed in the range 0 &lt;= k &lt; 1
-    then, the hash function: h(k) = floor(k<sub>m</sub>)</p>
+    independently and uniformly distributed in the range $0 \leq k &lt; 1$
+    then, the hash function: $h(k) = floor(k_m)$</p>
 </li>
 <li>
 <p>the division method can give good results, assumimg that a prime
