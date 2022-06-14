@@ -16,16 +16,15 @@ abstract: "[Updating] How to make choices"
     - Perseverance  
 
     - **Strive for excellence** 
-        + happiness comes from the full use of one's power to achieve excellence  
+        + happiness comes from **the full use of one's power** to achieve excellence  
+        
         + fill Life with achieving and exercising excellence  
 
         + **Mediocrity** can destroy us as surely as perils far more famous  
-            - living with excellence
+            - **living with excellence**   
 
     - Creativity  
-        + To find an undeveloped situation, to see the possibilities, to decide upon a course 
-    of action, and then devote the whole of one's resources to carry it out, even if it means
-    battling against the stream of contemporary opinion  
+        + To find an undeveloped situation, to see the possibilities, to decide upon a course of action, and then devote the whole of one's resources to carry it out, even if it means battling against the stream of contemporary opinion  
 
     - take courage to stand and fight for 
         + you have to start it over again each morning as the sun rises  
@@ -44,8 +43,8 @@ abstract: "[Updating] How to make choices"
 #### The Self-Awareness Onion  
 * understanding your emotions  
     - identify blind spots in ourselves and then expressing the affected emotions appropriately  
-    - fear -> angry, upset, worried, uninspired, sad  
-    - love   
+    - **fear** -> angry, upset, worried, uninspired, sad  
+    - **love**   
  
 * ask **why we feel certain emotions**    
     - **the root cause** of the emotions that overwhelm us. 

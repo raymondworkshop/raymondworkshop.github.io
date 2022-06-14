@@ -38,7 +38,7 @@ abstract: "[Updating] Notes on Emotional Intelligence"
     - accept and appreciate emotions  
 
     - reflect on your emotions and their origin  
-        + knowing why we feel the way you do help me handle the feeling  
+        + **knowing why we feel the way** you do help me handle the feeling  
 
     - handle your emotions  
         + how do you approach that topic or this emotion?  
@@ -52,7 +52,12 @@ abstract: "[Updating] Notes on Emotional Intelligence"
 * reference 
     - [6 steps to improve your emotional intelligence](https://www.youtube.com/watch?v=D6_J7FfgWVc)
 
+
 #### 情商  
+* 觉察  
+    - **觉察他人对自己的影响，同时分辨出自己内心的声音**，同时做出自己相应的选择  
+    - 容易受到他人的影响， 会变成自我暗示  
+
 * 情商  
     - 在与人打交道过程中，通过 **感知对方想法**，**觉察并处理自身情绪**，从而**做出正确反应的能力**    
 
@@ -65,7 +70,7 @@ abstract: "[Updating] Notes on Emotional Intelligence"
     - 提醒自己尽量 别被周围爱抱怨的人所影响  
 
 * 不要在公开场合对上司说“不”  
-    - 上司渴望被他人尊重
+    - 上司渴望被他人尊重  
     - 要使 上司“信任”下属“，下属对管理者的”尊重“很重要  
     - 可选择在合适的私人时间， 以**有逻辑，有建设性的方式阐述你的看法**，既能体现尊重，也能表现出你对工作的热忱  
 

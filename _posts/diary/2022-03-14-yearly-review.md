@@ -3,7 +3,32 @@ layout: post
 title: "Year 2022 plan and review"
 date: 2022-01-27  
 tags: [diary, review, important, learning, lesson]
----
+--- 
+
+
+#### 2022-06-13  
+* TODO  
+    - know more about your priorities and focus more  
+        + your health, your families, your mission (business)  
+
+    - more effective and efficient  
+        
+
+* your health  
+    - mental health  
+    - body  
+        + good point is that you sleep earlier and get up earlier   
+    - EQ  
+        
+
+* your love  
+    - learn the love language  
+
+
+* your mission / business  
+    - mindset  
+    - skills  
+    - jobs  
 
 #### 2022-06-07  
 * TODO    
