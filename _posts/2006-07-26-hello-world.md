@@ -6,4 +6,4 @@ comments: true
 categories: [test, home, notes]
 ---
 
-Hello, World! This is my first blog ...
+Hello, World!  
