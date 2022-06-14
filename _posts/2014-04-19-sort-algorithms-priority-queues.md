@@ -13,6 +13,7 @@ stream of N items (Constrict: Not enough memory to store N items).
 
 #### Why Algorithms ?
 * Programs = Data structures + Algorithms  
+
 * Avi Wigderson gives that "Algorithms has becoming a common language for understanding nature, human, and computer" .  Algorithms as computational models are replacing math models in scientific inquiry . People are developing computational models to stimulate what might be happening in nature in order to try to better understand it. Algorithms play an extremely important role in this process .  
 
 #### Introduction

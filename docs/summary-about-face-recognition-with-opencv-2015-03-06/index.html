@@ -69,7 +69,7 @@
 <p>alg</p>
 <ul>
 <li>
-<p>[PCA] [2] alg finds the lower-dim subspace with maximum variance (with the mean) in data.  ( that is, to turn a set of possibly correlated variables into a smaller set of uncorrelated variables) .</p>
+<p><a href="http://en.wikipedia.org/wiki/Eigenface/">PCA</a> alg finds the lower-dim subspace with maximum variance (with the mean) in data.  ( that is, to turn a set of possibly correlated variables into a smaller set of uncorrelated variables) .</p>
 </li>
 <li>
 <p>There is a TRICK here in computing the eigenvectors: a M x N matrix (M rows, N columns) with M &gt; N can only have N - 1 non-zero eigenvalues, so we can take the eigenvalue decomposition S of size N x N instead .</p>
@@ -80,7 +80,7 @@
 </ul>
 </li>
 <li>
-<p>The [API] [3] in OpenCV:</p>
+<p>The [API] [http://docs.opencv.org/trunk/modules/contrib/doc/facerec/facerec_api.html] in OpenCV:</p>
 <ul>
 <li>
 <p>Ptr<FaceRecognizer> createEigenFaceRecognizer(int num_components, double threshold)
@@ -117,8 +117,7 @@
 </ul>
 </li>
 <li>
-<p>The [API] [3] in OpenCV
-  Ptr<FaceRecognizer> createLBPHFaceRecognizer(int radius,int neighbors, int grid_x, int grid_y, double threshold) Calculate lbp image</p>
+<p>The [API] [http://docs.opencv.org/trunk/modules/contrib/doc/facerec/facerec_api.html] in OpenCV Ptr<FaceRecognizer> createLBPHFaceRecognizer(int radius,int neighbors, int grid_x, int grid_y, double threshold) Calculate lbp image</p>
 <ul>
 <li>elbp(src[sampleIdx],_radius,_neighbors)</li>
 </ul>
@@ -147,7 +146,7 @@
 <h4>The Performance</h4>
 <ul>
 <li>
-<p>Receiver operating characteristic ( [ROC]  )</p>
+<p>Receiver operating characteristic (<a href="http://en.wikipedia.org/wiki/Receiver_operating_characteristic">ROC</a>)</p>
 <ul>
 <li>A ROC space is defined by TAR (I.e., the rate of genuine attempts accepted) and FAR(I.e., the rate of impostor attempts accepted) as y and x axes respectively, which depicts relative trade-offs between true positive (benefits) and false positive (costs).</li>
 </ul>

@@ -10,7 +10,7 @@ abstract: "[updating] Summary about Probability and Statistics"
 > [updating] A Summary about Probability and Statistics 
 
 #### Bayesians   
-TODO 
+ 
 
 
 #### Statistical Inference
