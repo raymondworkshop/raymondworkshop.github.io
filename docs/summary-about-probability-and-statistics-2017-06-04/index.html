@@ -4,8 +4,19 @@
 <!--
 <meta http-equiv="content-language” content=”en, zh”>
 -->
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
+<script>
+    MathJax = {
+        tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']]
+        },
+        svg: {
+            fontCache: 'global'
+        }
+    };
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <title>  - muyun_</title>
 <link rel=" stylesheet" href="/static/style.css">
 <link rel="stylesheet" href="/static/pygments.css">
@@ -61,23 +72,23 @@
 <p><br/></p>
 </li>
 <li>
-<p>由样本推断总体：为解决具体问题而抽样，<strong>样本分布族规定了问题的统计模型(概率分布)</strong>，样本的具体数值推断样本分布中的未知参数。比如 依据样本 $X_1, ..., X_n$ 对分布 $N(μ, σ^2)$中的参数$μ$作推断，这个推断的具体内容依据样本 $X_1, ..., X_n$ 算出一个数作为$μ$估计值。  </p>
+<p>由样本推断总体：为解决具体问题而抽样，<strong>样本分布族规定了问题的统计模型(概率分布)</strong>，样本的具体数值推断样本分布中的未知参数。比如 依据样本 $\chi_1, ..., \chi_n$ 对分布 $N(\mu, \sigma^2)$中的参数 $\mu$ 作推断，这个推断的具体内容依据样本 $\chi_1, ..., \chi_n$ 算出一个数作为 $\mu$ 估计值。  </p>
 <p><br/></p>
 </li>
 <li>
 <p>Frequentist - 极大似然估计方法 (Maximum likelihood estimation) (要求假设的分布函数有参数形式) 是用来估计一个概率模型的参数的一种方法。 </p>
-<p>假设总体有分布  $f(X;θ_1,...,θ_k), X_1,...X_n$  为抽出的样本; 當有了結果$X$（样本）时，即在所有由原因θ而产生的可能性中，寻找一个值使这个$X$（样本）的“可能性”最大(即似然程度最大)。  </p>
+<p>假设总体有分布  $f(\chi;\theta_1,...,\theta_k)$, $\chi_1,...\chi_n$  为抽出的样本; 當有了結果 $\chi$（样本）时，即在所有由原因 $\theta$ 而产生的可能性中，寻找一个值使这个 $\chi$（样本）的“可能性”最大(即似然程度最大)。  </p>
 <p>则有似然函数:      <br />
 $$
-L(θ|X_1,...,X_n) = f(X_1|θ)f(X_2|θ)...f(X_1|θ) = \prod_{i=1}^n f(x_i|θ)<br />
+L(\theta|\chi_1,...,\chi_n) = f(\chi_1|\theta)f(\chi_2|\theta)...f(\chi_1|\theta) = \prod_{i=1}^n f(\chi_i|\theta)<br />
 $$</p>
 <p>$$
-log(L(θ|X_1,...,X_n)) = \sum_{i=1}^n {\log(f(X_i|θ))}
+log(L(θ|\chi_1,...,\chi_n)) = \sum_{i=1}^n {\log(f(\chi_i|\theta))}
 $$</p>
 <p>我们要似然程度最大, 即“极大似然估计”:  <br />
 $$
-hat{θ}<em>{MLE}=\operatorname*{arg\,max}</em>\theta \sum_{i=1}^n {\log(f(X_i|θ)}
-$$  </p>
+\hat{\theta} = \mathop {argmax}_{\theta}
+$$</p>
 </li>
 </ul>
 <h4>Nonparametric statistics</h4>
