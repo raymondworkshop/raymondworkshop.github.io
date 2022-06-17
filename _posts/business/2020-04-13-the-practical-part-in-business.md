@@ -51,12 +51,33 @@ categories: [notes, learning, business, ideas, important, management]
     - **pass the basic boring step** firstly, then the creative part will come    
 
 
-* practical part  
+* **practical part**    
     - understand **the desired business outcomes and goals**  
     - **intuition**  
-        + (knowledge from) an ability to understand or know something immediately based on your feelings rather than facts  
+        + (knowledge from) an ability to understand or know something immediately based on your **feelings** rather than facts  
+
+        + **listen to your body and the signals** 
+            - **establish the observing self and its capacity** to achieve a calm, detached state where you can better identify what is going on
+                + **Inner calm fosters true intuition** and allows it to be easily identified  
+                + Create an inner clamness by **focusing on her breath**; when worries arise, you can **examine them from this calm state**.  
+                    - "what is this worry?"  
+                    - "**where am I feeling it** in my body?"  
+                    - "**how important** is this worry in the big picture of life?"  
+
+                + when your worries arise, **just lets them pass-by without responding** emotionally or intellectually  
+
+            - separate  true intuition from **wishful thinking** (what we hope will happen) or **projections** (interpreting images through the lens of our own history or ideas)  
+                + wishful thinking and projection are filled with your history, your hopes, your ideas, and your wounds
+
+                + write your answers down to these questions  
+                    - "is this an image or a sensation from my past?"  
+                    - "did I see or expereince something like this in the movies/book"  
+                    - "does this image have anything to do with my fears or worries?"  
+                    - "how much do I wish that this image would come true?"  
+
 
     - industry/domain knowledge and sense  
+        
 
     - curiosity  
 

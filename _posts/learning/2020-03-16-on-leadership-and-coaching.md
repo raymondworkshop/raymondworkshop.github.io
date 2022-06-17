@@ -6,6 +6,8 @@ comments: true
 categories: [softskills, coach, self, learning, leadership, important]
 ---
 
+##### People Management  
+
 
 ##### Leadership   
 * Growth Mindset  
@@ -78,7 +80,7 @@ categories: [softskills, coach, self, learning, leadership, important]
             - people to seek information that confirms what they want to believe  
 
         + **Decision Fatigue**  
-            - **figure out what decisions need to be made** at the beginning of the week, and they get ready for thos moments   
+            - **figure out what decisions need to be made** at the beginning of the week, and they get ready for those moments   
             - **be ready for the big stuff**   
 
         + Common information effect  
@@ -88,7 +90,7 @@ categories: [softskills, coach, self, learning, leadership, important]
 * People skills  
     - Emotional Intelligence  
         + **what key quality** did this leader possess that was so important for you?  
-        + leaders are judeged about how they handle themselves and others  
+        + leaders are judged about how they handle themselves and others  
             - **how to work with other people** and **how to manage yourself**  
             - **self-awareness**   
                 + understanding ourselves and seeing ourselves as others see us  
@@ -118,8 +120,10 @@ categories: [softskills, coach, self, learning, leadership, important]
 
     - Cultural Intelligence  
         + **a person's capability to adapt effectively** to new cultural contexts  
-        + you understand the other person's worldview  
+        + you **understand the other person's worldview**  
             - affect **how we motivate people** in our organizations  
+                + 以前会觉得这样不真诚  
+                + 这个是 其实是 尊重别人的一种表现  
         
         + **Face Cultures** 
             - people **derive their self worth from earning the respect of others**  
@@ -127,29 +131,22 @@ categories: [softskills, coach, self, learning, leadership, important]
 
         + **Dignity Cultures**   
             - believe in **speaking their mind** and being self-reliant  
-            - their own self worth is **self determined** and they are very comfortable engaging in **direct, rational, fact-based conversation**  
+            - their own **self worth is self determined** and they are very comfortable engaging in **direct, rational, fact-based conversation**  
             - status and titles are not nearly as important as **information and talent**  
           
         + Honor Cultures  - Middle East, south asia, latin america, africa   
             - self-worth is socially claimed     
             - The confrontation style is to express emotion    
-            - "it's important not to let others insult your reputation"      
+            - "it's important not to let others insult your reputation"     
 
+* Teamwork - Coordinating with Others   
+    - 军官负责决策，但是**专业上的建议或行动都会交由士官执行**，
+    美欧军中都相当强调士官在基层部队中扮演“专家与灵魂”的角色  
 
 * reference 
     -[High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration/lecture/wwgwx/introduction-to-course-1-with-dean-blount)
 
 
-##### Teamwork  
-* TODO  
-
-* 分工  
-    - 军官负责决策，但是**专业上的建议或行动都会交由士官执行**，
-    美欧军中都相当强调士官在基层部队中扮演“专家与灵魂”的角色  
-    
-
-* reference  
-    - [High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration/home/week/2)
 
 ##### Negotiation skills  
 * Preparation and Leverage  

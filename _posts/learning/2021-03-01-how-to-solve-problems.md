@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Skills: How to Solve Problems"
+title: "Skills: How to Solve Complex Problems"
 date: 2022-03-01
 comments: true
 categories: [learning, thinking, self,  important]
-abstract: "Skills: How to Solve Problems"
+abstract: "Skills: How to Solve Complex  Problems"
 ---
 
 ##### Note

@@ -18,7 +18,7 @@ tags: [diary, review, important, learning, lesson]
     - mental health  
     - body  
         + good point is that you sleep earlier and get up earlier   
-    - EQ  
+    - EQ - Emotional Intelligence   
         
 
 * your love  
@@ -27,8 +27,14 @@ tags: [diary, review, important, learning, lesson]
 
 * your mission / business  
     - mindset  
+        + fear ?  
+        
     - skills  
-    - jobs  
+        + Complex Problem Solving  
+        + Critical Thinking  
+        + Judgment and Decision Making  
+    
+    - jobs/business    
 
 #### 2022-06-07  
 * TODO    

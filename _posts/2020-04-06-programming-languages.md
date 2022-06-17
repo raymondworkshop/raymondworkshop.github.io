@@ -18,7 +18,7 @@ abstract: "[Updating] Notes on programing languages"
 #### Python Data Model -> A Framework/API for core language constructs
 We can leverage the Python Data Model to build new classes.  
 
-By using and implementing **special methods of Python Data Model** in your objects, your objects can **behave like the built-in types**, enabling the expressive coding style **Pythonic**.
+By using and implementing **special methods of Python Data Model in your objects**, your objects can **behave like the built-in types**, enabling the expressive coding style **Pythonic**. You will find that your intuition applies everywhere.  
 
 ##### Data Sturctures
 * sequences - Python sequences are often categorized as **mutalbe or immutable**, and also could be considered as **flat sequences and container sequences**.
@@ -78,7 +78,7 @@ def target():
   
     
 ##### Object Oriented
-* duck typing 
+* duck typing  
     + it's a sequence because it implements the necessary sequence methods
 
 
