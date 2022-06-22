@@ -7,10 +7,14 @@ categories: [learning, thinking, self,  important]
 abstract: "Skills: How to Solve Complex  Problems"
 ---
 
-##### Note
-* TODO 
+##### Note  
+* Use **creativity** to solve problems    
+    - **invest your creativity, skills and efforts into solve big problems** and waht free markets pay for it    
+    - If the work doesn't require **creativity**, **delegate it, automate it or leave it**    
 
-##### Focus - 把精力用在重要的事情上 
+
+
+##### Focus - 把精力用在重要的事情上  
 * 不是生活中的每一个问题都要解决，**和问题共处是人生常态**    
 
 

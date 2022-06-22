@@ -29,9 +29,11 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         +  Be open to growth, feedback & learning
         + **Growth starts when you stop taking criticism personally**
 
-    - **build knowledge and keep you creative**
+    - **update your knowledge and keep you creative**
 
-    - friends
+    - friends  
+        + **fewer authentic friends** > crowd of fair weather friends  
+        + don't expect fake people to be real with you  
         + the older & wise  
         + young future talent  
         + entrepreneurs  
@@ -45,7 +47,9 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
             the time to get to know you  
             - you can lead your life, don't limit yourself  
 
-        + never apologize to anyone for being who you are  
+        + assertive  
+            - **behave confidently** and is **not frightened to say what they want or believe**  
+            - never apologize to anyone for **being who you are**  
             - once you've accepted your flaws, no one can use them against you  
 
         + **learn to say no**  
@@ -56,8 +60,13 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
             - make you question your self worth  
             - don't apologize for their shitty behavior  
             - cause you a lot of harm and unhappiness over a long period of time  
-            - toxic people are usually people who **don't understand the concept of boundaries**    
+            - toxic people are usually people who **don't understand the concept of boundaries**  
+            - they manipulate you to get what they want  
+            - they always play the victiom    
             - don't associate with people with **low self awareness**     
+
+        + a happy person isn't someone who's happy all the time  
+            - he effortlessly interprets events in such a way that **they don't lose their innate peace**    
             
 
         + diss losers 

@@ -7,6 +7,16 @@ categories: [notes, important, softskills, love, self, learning]
 ---
 
 #### notes  
+* **a soul-to-soul relationship** is worth the wait  
+    - your soulmate will recognize you, befriend you, love you, support you, heal with you and evolve with you  
+
+* more attractive to women  when you show them 
+    - **competent**  
+        + able to **do something well**  
+    - confident  
+    - in control of your life 
+
+
 * show your woman in **adequate love and appreciation**    
     - **listen to her**  
     - **value her opinions**  

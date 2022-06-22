@@ -13,6 +13,25 @@ abstract: "[Updating] Notes on Emotional Intelligence"
 * mindfulness  
     - **being aware of your body, mind, and feelings in the present moment, thought** to create a feeling of clam  
 
+    - high sensitive people **feel everything on a much deeper level**  
+        + we **feel your energy shifts, intentions, judgments, lies and truths**    
+        + we don't just experience your surface level emotions    
+
+    - make sure protect your energy  
+        + there's nothing wrong with being sensitive, but **make sure protect your energy**  
+
+    - embrace your gift  
+        + your sensitivity invites you to be **more creative, empathetic, understanding and loving**   towards others    
+        + your **purity** makes you who you are  
+            - you love deeply and think deeply about life  
+
+* **self-awareness**
+    - **observe your thoughts, emotions, behaviors**    
+    - self-awareness leads to self-control  
+        + do the hard things  
+        + avoid the toxic things  
+        + invest in developing control  
+
 #### improve your emotional intelligence  
 * being emotional intelligence  
     - **knowing and understanding yourself**,
@@ -43,10 +62,13 @@ abstract: "[Updating] Notes on Emotional Intelligence"
     - handle your emotions  
         + how do you approach that topic or this emotion?  
 
-    - handle the emotions of others  
-        + understanding and awareness are the keys  
-        + ask **"how you can support them"**  they might know that   
-        + **"how they can support themselves"**  because that way you know only help them in the acute situation  
+    - **handle the emotions of others**  
+        + **observe and determine what their current emotional state**  
+            - **understanding and awareness** are the keys  
+
+        + develop empathy by **acknowledging and meeting them in their emotional state**    
+            - ask **"how you can support them"**  they might know that   
+            - **"how they can support themselves"**  because that way you know only help them in the acute situation  
 
 
 * reference 

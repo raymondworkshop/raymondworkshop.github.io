@@ -12,7 +12,7 @@ TORQUOISE = '#1bc5e0'
 
 class themeStyle(Style):
     """
-    This style is a witchy theme 
+    This style is a vs theme 
     """
 
     background_color = "#ffffff"

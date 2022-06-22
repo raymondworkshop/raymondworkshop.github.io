@@ -11,6 +11,7 @@ abstract: "Personal and Professional Success"
 * reference  
     - [Successful Negotiation](https://www.coursera.org/learn/negotiation-skills/home/info)  
 
+
 #### reference
 * [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills/home/week/1)  
 * [Success](https://www.coursera.org/learn/wharton-success/home/info)

@@ -8,11 +8,17 @@ categories: [notes, learning, business, ideas, important, management]
 
 #### notes  
 * lessons    
+    - the ultimate hack to become rich, **own a business**   
+
     - if you want to be wealthy, **spend your time earning, learning, or relaxing**;
     **oursource or ignore everything else**    
 
     - **Health, Love, and your mission**, in the order  
         + Nothing else matters  
+
+    - **Using creativity to solve problems** cannot be taught, and it's ultimately what free markets pay for  
+        + **invest your creativity, skills and efforts into solving big problems** and you will receive big rewards  
+        + if the work doesn't require **creativity**, **delegate it, automate it, or leave it**  
 
     - it's **leveraged versus un-leveraged**    
         + forget rich versus poor, white-collar versus blue  
@@ -35,6 +41,8 @@ categories: [notes, learning, business, ideas, important, management]
     - 商业和熟人的模式不一样  
         + **家人是支持对方**    
         + 你把你自己的利益放在团体利益之上  
+        + if something is free, realize **you are the payment**  
+            - **you pay with time and sanity** for the majority of the free offers   
 
     - 专注于**赚钱的项目**，而不是被理想催着走  
         + 大多数人从未创造或发布过任何东西，所以发布本事就是一个值得庆祝的大事  
@@ -52,6 +60,8 @@ categories: [notes, learning, business, ideas, important, management]
 
 
 * **practical part**    
+    - 在熊市中， **信念**，**江湖义气**（组织），运气， 一点点钱  
+
     - understand **the desired business outcomes and goals**  
     - **intuition**  
         + (knowledge from) an ability to understand or know something immediately based on your **feelings** rather than facts  

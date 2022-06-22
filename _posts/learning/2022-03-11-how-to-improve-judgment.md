@@ -18,7 +18,7 @@ abstract: "[Updating] How to make choices"
     - **Strive for excellence** 
         + happiness comes from **the full use of one's power** to achieve excellence  
         
-        + fill Life with achieving and exercising excellence  
+        + fill Life with **achieving and exercising excellence**    
 
         + **Mediocrity** can destroy us as surely as perils far more famous  
             - **living with excellence**   
@@ -30,7 +30,7 @@ abstract: "[Updating] How to make choices"
         + you have to start it over again each morning as the sun rises  
 
 
-    - the development of standards of ethical and moral conduct  
+    - **the development of standards** of ethical and moral conduct  
 
 
 *  **Life must be felt**, not observed  
@@ -155,7 +155,7 @@ abstract: "[Updating] How to make choices"
 * **why** or for what purpose?  
 
 
-* self-improvement is about: 
+* self-improvement is about  
     - **prioritizing better values**, **choosing better things** to give
     - when you give better fucks, you get better problems  
     - when you get better problems, you get a better life  

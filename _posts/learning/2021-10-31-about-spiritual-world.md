@@ -49,6 +49,19 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning  
+* 因信称义  
+    - 由于亚当及夏娃的原罪，因**信赖基督及他救赎的伟大工作**，众人也就被称**义而得生命**了  
+    - 创世纪6-22 “诺亚就这样行。 凡神所吩咐的，他都照样行了”  
+    - 希伯来书11-7 “诺亚因着信，既蒙神指示他未见的事，动了敬畏的心，预备了一只方舟，使他全家得救”  
+
+    - 得胜人  
+        + 胜过罪，**胜过环境**  
+
+    - pray - **talk to god**  
+        + he wants the best for us  
+        + keep it real, keep it simple, keep it up  
+        + thank you ...; sorry for ..., please give us ...  
+
 * **好管家**    
     - 作神诸般恩典的好管家  
 

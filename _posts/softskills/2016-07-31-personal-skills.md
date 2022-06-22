@@ -25,7 +25,9 @@ abstract: ""
 * don't over-apologize unless you did something wrong  
     - express your sympathy or regret without actually apologizing  
         + "**I hope this hasn't been too much trouble**" not "I'm sorry"  
+
 * **drop those who are constantly judging you**  
+
 * Expect success  
     - **focus on what you want** rather than what you don't want   
 

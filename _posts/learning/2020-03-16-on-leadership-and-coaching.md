@@ -6,8 +6,11 @@ comments: true
 categories: [softskills, coach, self, learning, leadership, important]
 ---
 
-##### People Management  
+##### People skills    
+* better social skills 
+    - more chance of getting people to **like you** and **do what you want them to do**  
 
+    - **actions, energy, and body languages** tell you everything you need to know  
 
 ##### Leadership   
 * Growth Mindset  
@@ -297,5 +300,6 @@ categories: [softskills, coach, self, learning, leadership, important]
 * 聆听 
   - 大器  
 
-#### reference
+#### reference 
+* [The IT leadership blueprint]
 * [Predictably Irrational](https://book.douban.com/subject/2990015/) by Dan Ariely  

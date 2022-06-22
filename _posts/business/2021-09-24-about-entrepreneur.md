@@ -8,7 +8,9 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 #### startups  
 * TODO  
 
-* lessons 
+* lessons  
+    -  Entrepreneurship isn't about the money, it's about **owning your own life**  
+
     - **a taste of freedom can make you unemployable (an entrepreneur)**    
         + 对未知的恐惧 阻碍了你迈出脚步  
 
@@ -26,6 +28,9 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
         **don't worry about what others think of you, that's none of your business**. 
         **train your mind to think, doubt, and question**.   
 
+    - 一亩三分地  
+        + not thinking bigger  
+
     - create like an artist, sell like an entrepreneur  
 
 * reference 
@@ -40,6 +45,15 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 #### How Entrepreneurial Thinking and Acting  
 * entrepreneur  
+
+    - **20% theory** + **80% figure it out by yourself**    
+    - steps  
+        + inception of idea 1-2  
+        + proof of concept 3-6  
+        + production of samples/prototypes/tools  7-8  
+        + conduct of trial schemes  9-10  
+        + use in public sector/launch into open market  11-12  
+
     - work on **your product and get product-market fit**  
     - you should be **exercising** and **eating healthy**  
 
