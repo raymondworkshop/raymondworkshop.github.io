@@ -12,6 +12,10 @@ categories: [softskills, coach, self, learning, leadership, important]
 
     - **actions, energy, and body languages** tell you everything you need to know  
 
+* reference
+    -  [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2021/home)
+
+
 ##### Leadership   
 * Growth Mindset  
     - a belief in their own ability to **learn and respond in the face of challenge**   

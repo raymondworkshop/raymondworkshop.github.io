@@ -31,7 +31,7 @@ categories: [ softskills, learning, summary, management]
 这里最重要的是你对你提出的问题已经找到合适的解决方案。  
 
 
-* It is our job to do the hard and discern the impossible. it then becomes your job to help the entreprenuer find a reasonable solution which is merely hard and gets most of what they wanted. A solution is merely hard when it can be confidently scheduled and the risks are understood.  
+* It is our job to do the hard and discern the impossible. it then becomes your job to help the entreprenuer **find a reasonable solution** which is merely hard and **gets most of what they wanted**. A solution is merely hard when it can be confidently scheduled and the risks are understood.  
 
 
 ### how to mange down  
