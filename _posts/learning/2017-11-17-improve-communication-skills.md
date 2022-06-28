@@ -42,7 +42,7 @@ abstract: "like listening, persuation ... "
 * communication goals  
     - convey our ideas  
         + grab **attention**  
-            - surprising, puzzle
+            - surprising, puzzle  
             - emotional  - **individual stories** trigger empathy  
         + send a message  
             - simple  
@@ -127,10 +127,10 @@ abstract: "like listening, persuation ... "
     - sociability   
     - dynamic instability    
 
-* balance between motivation and satisfaction
+* balance between motivation and satisfaction  
     - **finding your balance**   
-    - favorable comparisons: volunteering, increases happiness 
-    - unfavorable comparisons
+    - favorable comparisons: volunteering, increases happiness  
+    - unfavorable comparisons  
         + can push you to great efforts  
 
     - negotiation process  
@@ -375,8 +375,8 @@ abstract: "like listening, persuation ... "
     - 形容词
     - 探索对方的语言的运用
 
-* 给反应 - "好，喔，是**  
-    - 鼓励和允许对方完全地表达自己
+* 给反应 - "好，喔，是"  
+    - 鼓励和允许对方完全地表达自己  
 
 * **给出意向** - intention
     - **为啥你想对方这么做 或 对方为啥这么做** - “**你不停的问我问题，到底是为了什么**”
@@ -488,21 +488,21 @@ abstract: "like listening, persuation ... "
 * 认真思考自己的行动究竟能拉近与同事的距离，还是进一步与他们疏远  
 
 ### 向上管理
-- 谦虚有礼
-- 向上管理必须有自己的观点，并且学习沟通与说服的技巧
-- 老板沟通风格和好恶
-- 鼓励老板，如果老板做得好的话； 如果设想自己是老板； 委婉顾及老板面子
+* 谦虚有礼
+* 向上管理必须有自己的观点，并且学习沟通与说服的技巧
+* 老板沟通风格和好恶
+* 鼓励老板，如果老板做得好的话； 如果设想自己是老板； 委婉顾及老板面子
 
 ### 跟上司沟通
-- **让你的上司们了解你的成果才是第一要事**
-- 将重要的成绩和普通进度汇报开来
-- 明白哪些是职责范围的，**哪些事超过你的老板预期的**
-    * 积极主动争取重要的，具有挑战性的任务
-    * 工作中要突出重点，让上司知道所做的工作超过了对你预期的任务和客观效果
-- 适当地让上司掌握工作进度
-    * 定时向上司汇报，随时收集他的意见和建议
+*  **让你的上司们了解你的成果才是第一要事**
+*  将重要的成绩和普通进度汇报开来
+*  明白哪些是职责范围的，**哪些事超过你的老板预期的**
+    - 积极主动争取重要的，具有挑战性的任务
+    - 工作中要突出重点，让上司知道所做的工作超过了对你预期的任务和客观效果
+*  适当地让上司掌握工作进度
+    - 定时向上司汇报，随时收集他的意见和建议
 
-- 有策略地建立和你的上司的上司的关系
+*  有策略地建立和你的上司的上司的关系  
 
 
 ### reference

@@ -49,6 +49,10 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning  
+* you can have **something real, something pure**  
+    - although imperfect and not ideal    
+
+
 * 因信称义  
     - 由于亚当及夏娃的原罪，因**信赖基督及他救赎的伟大工作**，众人也就被称**义而得生命**了  
     - 创世纪6-22 “诺亚就这样行。 凡神所吩咐的，他都照样行了”  
@@ -56,6 +60,10 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
     - 得胜人  
         + 胜过罪，**胜过环境**  
+
+    - 聚会让我们有**信**的能力  
+        + 借着 信，建立连接  
+        + **认识他， 欣赏他**，执着 主的话  
 
     - pray - **talk to god**  
         + he wants the best for us  

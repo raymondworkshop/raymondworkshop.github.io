@@ -14,7 +14,18 @@ categories: [notes, important, softskills, love, self, learning]
     - **competent**  
         + able to **do something well**  
     - confident  
-    - in control of your life 
+    - in control of your life  
+
+    - her  
+        + listen to her 
+        + understand her  
+        + support her  
+        + inspire her  (make her want to do something and can do it)  
+    - him  
+        + trust him  
+        + relax him  
+        + respect him  
+        + enlighten him  (explain or understand)
 
 
 * show your woman in **adequate love and appreciation**    

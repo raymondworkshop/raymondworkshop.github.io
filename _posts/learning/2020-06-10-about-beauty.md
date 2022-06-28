@@ -21,6 +21,8 @@ abstract: "About Beauty - photography, horse, 人类学, 手工, 雕塑, 木工,
 #### find one to keep you creative  
 
 #### photography  
+* 数据可视化 Infographics  
+
 * 照片打印
     - 惠普小印  
     - canon 
@@ -36,7 +38,7 @@ abstract: "About Beauty - photography, horse, 人类学, 手工, 雕塑, 木工,
   - 简约， 不繁复  
   - 自身稍微粗旷， 不是很细腻  
 
-* 结构素描 
+* 结构素描  
 
 * 人像素描   
 
@@ -63,13 +65,13 @@ abstract: "About Beauty - photography, horse, 人类学, 手工, 雕塑, 木工,
 * redraw the homework  
   - how to draw  
   - correct the details  
-      + use the new paper 
+      + use the new paper  
 
 
 #### objects 
 * 基本功 - 线条, 透视, 光影  
 
-* 速写 
+* 速写  
 
 
 #### reference

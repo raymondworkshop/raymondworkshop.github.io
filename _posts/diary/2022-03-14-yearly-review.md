@@ -5,6 +5,31 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 --- 
 
+#### 2022-06-28  
+* DONE  
+    - meeting for the proposal  
+    - fix the blog code theme  
+    - paper reading  
+    - bible meetup  
+    - cantonese meetup  
+    - English meetup 
+    - hiking  
+
+* TODO  
+    - feel good to be in bible meetup  
+        + common background  
+
+    - maybe it's time to leave this job  
+        + tired on AI topic  
+
+    - improve your english 
+
+    - it's good 
+
+    - 锻炼自己的观察力  - 细微的差别  
+        + 细节决定一切  
+        + 思考和观察上比较懒惰  
+
 
 #### 2022-06-13  
 * TODO  

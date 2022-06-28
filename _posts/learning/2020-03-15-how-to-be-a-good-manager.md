@@ -77,6 +77,7 @@ categories: [ softskills, learning, summary, management]
 * reference
     - [Giving Feedback – learning to criticize in a way that actually works](http://katemats.com/giving-feedback-learning-to-criticize-in-a-way-that-actually-works/)
 
+
 #### Learning to coach and delegate  
 * you are not just be the person who is the expert, 
     you will be **someone who makes everyone better**
@@ -84,7 +85,7 @@ categories: [ softskills, learning, summary, management]
 
 #### The art of **delegating**    
 * change your mindset 
-    - have to focus on growth and education, not necessarily efficiency. 
+    - have to **focus on growth and education**, not necessarily efficiency. 
 
 * Adopt a **leader:leader** model instead of a leader:follower    
     - Being a good leaders means allowing the people around you to be the experts in their domains   
@@ -98,7 +99,7 @@ categories: [ softskills, learning, summary, management]
 
 * **Setup some guard rails**    
     - try to **identify what information you need to feel good** about the progress, and then **the best way to get the information** without being overbearing or micromanaging the details  
-        + like setup daily status meetings to go voer progress, bi-weekly code reviews to go over implementation, or weekly one-on-ones with other people on the project  
+        + like setup daily status meetings to go over progress, bi-weekly code reviews to go over implementation, or weekly one-on-ones with other people on the project  
 
 * **Help them come up with a plan**   
     - **have them draft up a plan** and bring it back to you   
