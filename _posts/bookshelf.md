@@ -11,6 +11,7 @@ date: 2012-03-19
 
 
 * Entrepreneur  
+    - [Startup School](https://www.startupschool.org/curriculum)
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
     - [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2021/home)
     - [Persuasive Communication](https://alison.com/topic/learn/103806/persuasive-communication-learning-outcomes)  

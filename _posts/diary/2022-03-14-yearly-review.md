@@ -25,6 +25,7 @@ tags: [diary, review, important, learning, lesson]
     - improve your english 
 
     - it's good 
+        + how to manage your relationship with amos  
 
     - 锻炼自己的观察力  - 细微的差别  
         + 细节决定一切  
