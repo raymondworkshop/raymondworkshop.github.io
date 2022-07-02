@@ -30,6 +30,10 @@ categories: [notes, important, softskills, love, self, learning]
 
 * show your woman in **adequate love and appreciation**    
     - **listen to her**  
+        + 了解她的**思想，感覺和願望**  
+        + 问自己 “**她正体验什么样的情绪**”  
+            - “听起来你觉得失望 ...”  
+        
     - **value her opinions**  
     - **make her feel secure**  
     - prioritize her  

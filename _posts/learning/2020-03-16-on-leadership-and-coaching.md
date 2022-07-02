@@ -270,6 +270,33 @@ categories: [softskills, coach, self, learning, leadership, important]
     - [Successful Negotiation: Essential Strategies and Skills](https://www.coursera.org/learn/negotiation-skills/home/week/1)
 
 
+#### 同理心  
+* **同理心**    
+    - 体验： **体会他人的感受**  
+    - **细听之情感连结**    
+    - 尊重与确认对方的感受   
+    - inquiry about or **explore how the client perceives his/her world** 
+        + 代入对方，**对方如何感知她的世界** 
+
+* 同情心  
+    - 认知： 理解他人的痛苦  
+    - 解决问题  
+    - 试图安慰并说服对方改变  
+
+* 反馈  
+    - 鼓励和允许对方完全地表达自己  
+    - 给出意向 - intention  
+        + 对方为啥这么问 “你不停问我问题，是为了什么”  
+
+    - 开放式提问  
+        + how, why  
+        + 有节奏地给予客户去思考和反思  
+
+    - 支持及欣赏  
+        + 嘉许和尊重对方的行为  
+        + 多一点认同 - 直接讲出来  
+
+
 #### coach  
 * TODO 
 
@@ -287,7 +314,7 @@ categories: [softskills, coach, self, learning, leadership, important]
 
 * 宏观 
 
-* 微观 - 
+* 微观 
   - 更具体, 比如方法 方面  
 
 * 之前 -> 以前  
