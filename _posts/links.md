@@ -32,9 +32,9 @@ date: 2012-03-19
 
 #### CHECK  
 * **[Naval](https://nav.al/)**  
+
 * **[Joel On Software](https://www.joelonsoftware.com/)**  
 * **[danluu](https://danluu.com/)**  
-
 * **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)** 
 * **[Patrick Collison](https://patrickcollison.com/)**  
 * **[Tania Rascia's frontend](https://www.taniarascia.com/blog)**  
