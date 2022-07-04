@@ -18,25 +18,28 @@ abstract: "关于实证主义哲学和生活方式"
 #### **experienced or seen** rather than theory    
 
 *  实证主义    
-    - **发现一个新现象， 到依据这一新发现形成一个假设**， 再到发送一个新探测器去检测这一假设；
+    - **发现一个新现象， 到依据这一新发现形成一个假设**， 再到发送一个新探测器去检测这一假设  
 
 *  判例法  
     - **经验主义**  - **依靠感官认识世界， 再进行“归纳思维”**， 不同于 理性主义  
-    - 司法更加能动性  
+        + 司法更加能动性  
+        + **更能 “反馈” 以及适应社会动态**  
     - **更 “稳定和延续性”**， 更有助于确保商人的基本人权  
-    - **更能 “反馈” 以及适应社会动态**  
+
+    - 普通法 向 成文法 靠拢 （成文法（议会的法律） 优于 普通法 （法院的规定）  
+        + 在民主化的背景下 但保证法制  
 
 
 *  经验主义  -> 实证主义的方法论 -> **实验科学**  
     - 从观察事件入手，**从经验观察出发**， 通过精确描述，推断出自然规律， 进而证实这些事件  
     - **通过观察归纳建立一个理论后，在该理论基础上进行演绎推理，预测可能的现象； 然后通过实证检验为这个理论及其演绎寻找**  -> Bayesian  
-        + **先有碎片而后不断构建框架**
+        + **先有碎片而后不断构建框架**  
         + **不断根据新的碎片 修正甚至打破旧的框架 并构建新的框架**， 开始比较慢，但最终会后来居上 
             - 先有框架后有碎片，容易上手，开始会看上去遥遥领先，但后面就僵化而无法增长  
             - 框架固化后 最大坏处 是容易偏执的去 “占小便宜吃大亏”， 因为已经成为本
 
     - observe -> find patterns -> create a short-cut framework -> realize your framework sucks 
-        + ask open-ended quesitons 
+        + ask open-ended quesitons  
         + seeing some patterns in the answers  
         + make a framework from these patterns. now I can make decisions quickly  
         + wait, this is a situation my framework does not account for  
@@ -50,6 +53,17 @@ abstract: "关于实证主义哲学和生活方式"
     - 演绎推理  
 
 
+* 自由市場 vs 计划经济  
+    - 自由市场 是**动态均衡**， 强调 事后纠正  
+    - 计划经济 事静态均衡， 强调 事前计划  
+
+
+* 道德  
+    - 纳粹和社会主义者, 都**将问题于答案之间的起因和细节全部忽略**  
+    - 只由**问题的现象直接跳跃到 道德的答案**  
+        + 将一切问题引向为道德层  
+        + 不需要你自己百分百干净（道德评判）， 只要看你说的**是否有道理或是事实**，无论你是否别有用心，否则再干净也不行  
+
 * cognitive vs emotional intelligence  
     - one cognitive factor is an analytical thinking style  - thinking  
         + tend to act according to reason rather than intuition  
@@ -62,8 +76,7 @@ abstract: "关于实证主义哲学和生活方式"
 from John Locke to David Hume    
 
 
-#### Rationalism 
-
+#### Rationalism  
 from plato, Aristotle, Descartes, to Gottfried Leibuiz  
  
 

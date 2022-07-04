@@ -41,6 +41,11 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
     - **self-care**  
         + INTP  
+            - **E**SF**P**  
+
+        + Don't give away your emotions for free  
+            - **stop feeling responsible for** how they treat you   
+            - it is not your worth and not you  
             
         + **you don't need the approval of others**   
             - don't have to explain yourself to someone who has never taken  

@@ -10,17 +10,27 @@ categories: [notes, important, softskills, love, self, learning]
 * **a soul-to-soul relationship** is worth the wait  
     - your soulmate will recognize you, befriend you, love you, support you, heal with you and evolve with you  
 
-* more attractive to women  when you show them 
+* more attractive to women  when you show them  
     - **competent**  
         + able to **do something well**  
     - confident  
     - in control of your life  
 
     - her  
-        + listen to her 
-        + understand her  
+        + listen to her and understand her  
+            - 同理心会话 
+                + 以真实的渴望，**了解她的思想，感觉和愿望**  
+                    - 听感觉问自己 ”她正体验什么样的情绪“  
+                    - ”听起来你觉得失望， 因为我 ...“  
+                    - ”你是不是需要 ...“  
+                + 让她知道 我能了解那种伤痛，压迫，压力  
+                + 学习表白自己 - 告诉对方自己的思想和感觉  
+                + **一起面对你们的问题和担扰，不要过于克制和隐藏**，
+                这样她才知道你信任她，你们两个会更亲近  
+
         + support her  
         + inspire her  (make her want to do something and can do it)  
+
     - him  
         + trust him  
         + relax him  

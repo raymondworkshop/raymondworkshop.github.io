@@ -12,8 +12,18 @@ categories: [softskills, coach, self, learning, leadership, important]
 
     - **actions, energy, and body languages** tell you everything you need to know  
 
-* reference
-    -  [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2021/home)
+* reference  
+    -  [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2021/home)  
+
+
+##### soft skills  
+* 沟通交际能力  
+
+* 批判思考能力   
+
+* 领导决策能力  
+
+* 同理心  
 
 
 ##### Leadership   
@@ -288,7 +298,7 @@ categories: [softskills, coach, self, learning, leadership, important]
         + 代入对方，**对方如何感知她的世界** 
 
 * 同情心 sympathy  
-    - I **care**                    about your feeling  
+    - I **care**  about your feeling  
     - 认知：**否定对方的感受**，但试图安慰并说服对方改变
         + 但 半强迫对方看到光明面  "**至少**..."  
     - 解决问题  

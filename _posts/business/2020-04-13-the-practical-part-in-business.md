@@ -8,13 +8,14 @@ categories: [notes, learning, business, ideas, important, management]
 
 #### notes  
 * lessons    
+    - **do everything manually first to get started**  
+    and then build software to automate everything second **for scale**  
+
+    -  **practical ability** is more important       
+
     - the ultimate hack to become rich, **own a business**   
 
-    - if you want to be wealthy, **spend your time earning, learning, or relaxing**;
-    **oursource or ignore everything else**    
-
-    - **Health, Love, and your mission**, in the order  
-        + Nothing else matters  
+    - if you want to be wealthy, **spend your time earning, learning, or relaxing**; **oursource or ignore everything else**    
 
     - **Using creativity to solve problems** cannot be taught, and it's ultimately what free markets pay for  
         + **invest your creativity, skills and efforts into solving big problems** and you will receive big rewards  
@@ -24,9 +25,6 @@ categories: [notes, learning, business, ideas, important, management]
         + forget rich versus poor, white-collar versus blue  
         + **code, media,  capital, labor**    
 
-
-    - **a taste of freedom can make you unemployable (an entrepreneur)**    
-        + 对未知的恐惧 阻碍了你迈出脚步 
 
     - 商人玩的是 **赚钱的游戏**  
         + **尽可能避免零和游戏**，因为它并不创造财富；多元化机会  
@@ -46,15 +44,6 @@ categories: [notes, learning, business, ideas, important, management]
 
     - 专注于**赚钱的项目**，而不是被理想催着走  
         + 大多数人从未创造或发布过任何东西，所以发布本事就是一个值得庆祝的大事  
-
-    - wealth is assets and businessed that earn while you sleep  
-        + wealth **buys your freedom**  
-        + money is social credits, 
-        it's **the ability to have credits and debits of other people's time**  
-        + status is **your rank in the social hierarchy**  
-
-
-    - **practical ability** is more important    
 
     - **pass the basic boring step** firstly, then the creative part will come    
 
@@ -88,7 +77,6 @@ categories: [notes, learning, business, ideas, important, management]
 
     - industry/domain knowledge and sense  
         
-
     - curiosity  
 
     - iterative  
@@ -135,10 +123,10 @@ categories: [notes, learning, business, ideas, important, management]
 #### The Beginning  from <The Great CEO Within>  
 * **Make Money, Have Fun, Do Good**
 
-* crate a **Company**
+* crate a **Company**  
     - **Understand real customers and their problem, and then solve that problem**
 
-* The Team  -  an early-stage company with fewer than 20 people
+* The Team  -  an early-stage company with fewer than 20 people  
     - **Find a partner** who has complementary skills
         + your co-founder's purpose is to **help you achieve success in your march to product-market fit**
 
@@ -155,20 +143,20 @@ categories: [notes, learning, business, ideas, important, management]
 
         + without a formal management
 
-#### Individual Habits  - optimize yourself
-* track goals, priorities, and tasks
-    - get things done
-    - daily review, weekly review, and monthly review
+#### Individual Habits  - optimize yourself  
+* track goals, priorities, and tasks  
+    - get things done  
+    - daily review, weekly review, and monthly review  
 
-* **Schedule two hours each day to work on top goal only**
-    - top goal for the current quarter
+* **Schedule two hours each day to work on top goal only**  
+    - top goal for the current quarter  
 
-* Be on time and Present
+* Be on time and Present  
 
-* When you say it twice, **write it down**
-    - to a 2nd audience or in a 2nd situation, just share it **in written form**
+* When you say it twice, **write it down**  
+    - to a 2nd audience or in a 2nd situation, just share it **in written form**  
 
-* **Gratitude and Appreciation**
+* **Gratitude and Appreciation**  
     - **we perform our best when we are having fun and feeling good about ourselves**
         + "Great", "Good idea, it was the right thing to do"
     - **daily gratitude** to yourself

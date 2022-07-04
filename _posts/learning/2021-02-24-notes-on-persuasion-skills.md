@@ -9,6 +9,7 @@ abstract: "notes on persuasion skills"
 
 #### persuasion skills  
 * TODO  
+
 * reference
     - [Persuasive Communication](https://alison.com/topic/learn/103807/nlp-s-persuasion-techniques)
 

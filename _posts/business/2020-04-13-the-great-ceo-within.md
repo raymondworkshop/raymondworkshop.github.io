@@ -22,6 +22,17 @@ abstract: "Notes on the management skills in the practical part"
    - 你到底在害怕什么？  
    - **认真地做当下能做的最好的选择**，未来就会是它最好的样子； 放下对未来的期待和担忧  
 
+* ownership and result (责任和风险)  
+   - 不是 insight, 也不是 execution  
+   - I define it, although I respect you  
+
+   - 愿意 出面担当，在不确定的项目中，冒着犯错的风险尝试  
+       + 大多华裔，太怕犯错，不敢担责，不敢为人先，之在后面嘀咕  
+
+   - work with people I respect and like  
+       + **只需要说服愿意去相信你和支持你的那一部分人**即可，并和他们一起工作就可以；
+   没有必要说服所有人  
+       + **把重心放在 证明你自己的能力和判断上**；无须为别人的无知和傲慢负责  
 
 #### ideas from <The Making of a Manager>  
 

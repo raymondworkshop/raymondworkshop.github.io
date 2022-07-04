@@ -9,29 +9,65 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 * TODO  
 
 * lessons  
-    -  Entrepreneurship isn't about the money, it's about **owning your own life**  
+    - **Health, Love, and your mission**, in the order  
+        + Nothing else matters  
+        + 弄好事业，找对爱人  
 
-    - **a taste of freedom can make you unemployable (an entrepreneur)**    
-        + 对未知的恐惧 阻碍了你迈出脚步  
+    - Entrepreneur mindset  
+        + Entrepreneurship isn't about the money, it's about **owning your own life**  
 
-    - if you want to **go far, go together**;
-    if you want to go quickly, go alone 
+        +  skills + leverage = wealth  
 
-    - wealth is assets and businessed that earn while you sleep  
-        + wealth **buys your freedom**  
-        + money is social credits, 
-        it's **the ability to have credits and debits of other people's time**  
-        + status is **your rank in the social hierarchy**  
+        +  ownership and result (责任和风险);不是 insight, 也不是 execution 
+
+    - **develop a founder mentality**     
+        + learn some that **people haven't quite figured out how to teach yet**
+            - **a new and quickly expanding field**  
+            - some fields that are **circumstantial** - where **the details matter** and it's always **moving**  
+            - apprenticeship    
+
+        + find the part of the job with the steepest learning curve  
+            - **try to be innovative** in the context of your job  
+            - take on new challenges and responsibilities  
+            - avoid repetitive drudgery  
+
+        + develop a founder mentality  
+            - **the knowledge and skills you gain** by developing a founder mentality set you up to be a founder  
+
+        + **Accountability** is something you can take on immediately  
+            - **find things that interest you and allow you to take on accountability**  
+                + don't worry about short-term compensation  
+
+            - **you can put yourself in a position to learn quickly** 
+                + you **offer to help** and **become the owner's solving their fundraising problem**    
+            
+            - **you build specific knowledge by taking accountability for things** that other people don't know how to do 
+                + people will line up behind you, and the leverage will come 
+                + you have to put yourself in positions where you can **exercise judgement**    
+
+            - scale your specific knowledge with appretices  
+
+
+    - SELF  
+        + **a taste of freedom can make you unemployable (an entrepreneur)**    
+            - 对未知的恐惧 阻碍了你迈出脚步 
+
+        + 一亩三分地  
+            - not thinking bigger  
+
+        + if you want to **go far, go together**;
+        if you want to go quickly, go alone 
+
 
     - **how you grow**  
         + **study hard what interests you the most**;  
         **don't worry about what others think of you, that's none of your business**. 
-        **train your mind to think, doubt, and question**.   
+        + **train your mind to think, doubt, and question**.   
 
-    - 一亩三分地  
-        + not thinking bigger  
 
     - create like an artist, sell like an entrepreneur  
+
+
 
 * reference 
     - [Startup Skills Checklist](https://www.lincolnquirk.com/projects/2014/06/02/projects_startup-skills-checklis.html)

@@ -7,7 +7,14 @@ categories: [learning, notes, important, research]
 abstract: 'notes on Learning How to Learn'
 ---
 
+#### notes  
+* learn the first principle and basic firstly  
+then to explore the most interested part you feel  
+
+
 #### what to learn  
+* TODO  
+
 * reference
     - [What to learn](https://danluu.com/learn-what/)
 
@@ -31,8 +38,7 @@ abstract: 'notes on Learning How to Learn'
 * **telling the truth**  
     - **truth-telling works best when it involves revealing your own feelings**, 
     **not when used to insult others and to get your own way**    
-    - **just say what we want to say**; 
-    we don't have to spend a lot of time and energy not saying something  
+    - **just say what we want to say**; we don't have to spend a lot of time and energy not saying something  
         + people's energy is devoted to deceiving and hiding and remembering  
         + reduce in mistakes and increase in productivity  
 
@@ -152,18 +158,18 @@ abstract: 'notes on Learning How to Learn'
    - ask questions, and learn more by active engagement rather then passive listening
    - some exercises or walking in nature from the normal train of thought and new ideas
    - how to learn
-     + surrounded by other people who are stimulating you and events can actively participate in
-     + an enriched environment exercise - moment of pause of using your muscles rather than your brain
+       + surrounded by other people who are stimulating you and events can actively participate in
+       + an enriched environment exercise - moment of pause of using your muscles rather than your brain
    - how to be more effective
-     + in a creative environment where others people are creative
-     + have a better ideas if I talk to somebody, and try to explain to them my ideas
+       + in a creative environment where others people are creative
+       + have a better ideas if I talk to somebody, and try to explain to them my ideas
 
    - how to keep yourself creative
-     + having youth around really a great way to keep yourself youthful
+       + having youth around really a great way to keep yourself youthful
 
    - tell to youth
-     + success isn't necessarily come by being smart
-     + a lot of success in life is that passion and persistence to staying working on it
+       + success isn't necessarily come by being smart
+       + a lot of success in life is that passion and persistence to staying working on it
 
 
 #### 实践学习法  - 边做边学  - 实践-反馈-实践-反馈

@@ -3,7 +3,41 @@ layout: post
 title: "Year 2022 plan and review"
 date: 2022-01-27  
 tags: [diary, review, important, learning, lesson]
---- 
+---
+
+#### 2022-07-04  
+* 人生意义  
+    - 弄好事业  
+    - 找对爱人  
+        + fall in love with souls, not faces  
+
+* Improve your communication skills  
+    - 提高你的英文和广东话的能力  
+
+    - 同理心  
+        + **感知对方想法，觉察并处理自身情绪**，从而做出正确反应的能力  
+        + 体会他人的感受，细听之情感连结  
+        + 代入对方，感知对方的世界  
+
+    - 倾听的能力以及交流能力  
+        + ask good questions  
+
+    - 观察细节的能力   
+
+* self-caring  
+    - **Don't give away your emotions for free**  
+        + **stop feeling responsible for** how they treat you;it is not your worth and not you   
+        + choose the non-emotional response to any given situation  
+
+    - **用事实和逻辑**去看问题  
+        + 国人习惯用 **敌友**看问题  
+            - 只有利益, 没有是非; 只有敌友, 没有事实  
+            - **只问立场**, 不问对错是非  
+        + **没有建立自己的是非观**  
+            - 一切以别人眼光为是非标准，要不就是取悦别人，要不就是试探别人底线  
+
+* work only with people You respect and like  
+  
 
 #### 2022-06-28  
 * DONE  
@@ -25,7 +59,7 @@ tags: [diary, review, important, learning, lesson]
     - improve your english 
 
     - it's good 
-        + how to manage your relationship with amos  
+        +  manage your relationship with amos  
 
     - 锻炼自己的观察力  - 细微的差别  
         + 细节决定一切  

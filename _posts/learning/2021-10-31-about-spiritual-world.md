@@ -52,6 +52,15 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 * you can have **something real, something pure**  
     - although imperfect and not ideal    
 
+* 信心  
+    - **事实**（神的话） -> **信心** -> **经历**  
+        + “信就是所望之事的质实，是未见之事的确证” - 来十一1   
+    - 与神一起经历而得到 信  
+        + 神把自己分赐到人性里面    
+
+    - 基督徒爱人，不是凭他们自己，是**有一个内在的活水源头，就是神的爱**  
+        + **对神的敬畏使人能够行出美善来**； 若心中没有神，人就缺乏行善的能力  
+        + 但是儒家的人本主义，只能讲，不能行出来  
 
 * 因信称义  
     - 由于亚当及夏娃的原罪，因**信赖基督及他救赎的伟大工作**，众人也就被称**义而得生命**了  

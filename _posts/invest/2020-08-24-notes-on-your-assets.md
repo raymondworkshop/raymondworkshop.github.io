@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "[Updating] !Record my Assets"
+title: "[Updating] !Notes on your Assets"
 date: 2020-08-24
 comments: true
 categories: [learning, invest]
-abstract: "[Updating] ! Record my Assets, and lessons on it"
+abstract: "[Updating] !Notes on your Assets, and lessons on it"
 ---
 
 #### Assets   

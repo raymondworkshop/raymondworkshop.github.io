@@ -7,7 +7,20 @@ categories: [learning, invest, financial]
 abstract: "About financial planning and education"  
 ---
 
-#### notes    
+#### notes 
+* understand wealth  
+    - **financial independence** is more important than displaying social status  
+
+    - wealth is assets and businessed that earn while you sleep  
+        + wealth **buys your freedom**  
+        + money is social credits,it's **the ability to have credits and debits of other people's time**  
+        + status is **your rank in the social hierarchy**  
+
+    - 财富 应该反映**你对生活的满足感，你的选择，以及你为了享受生活而必须管理的资源**； 不局限于金钱多寡  
+    - 医疗/残障保险  
+
+* understand money  
+    - understand leverage, compound interest and integrity
 
 
 #### Financial Accounting Made Fun  
@@ -25,14 +38,6 @@ abstract: "About financial planning and education"
 * your ultimate goal should be increasing cash flow  
     - **grow the passive income** with dividends  
     
-
-#### notes 
-* understand wealth  
-    - 财富 应该反映**你对生活的满足感，你的选择，以及你为了享受生活而必须管理的资源**； 不局限于金钱多寡  
-    - 医疗/残障保险  
-
-* understand money  
-    - understand leverage, compound interest and integrity
 
 
 #### 投资策略  
