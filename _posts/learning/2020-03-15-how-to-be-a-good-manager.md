@@ -138,3 +138,4 @@ categories: [ softskills, learning, summary, management]
 
 
 #### reference  
+* [The Making of a Manager]

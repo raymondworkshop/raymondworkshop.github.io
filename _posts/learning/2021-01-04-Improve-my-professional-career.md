@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "[Improving] !Building my career"
+title: "[Improving] !Building my professional career"
 date: 2021-01-04
 comments: true
 categories: [learning, career, todo, important]
-abstract: "[Improving] Building my career"
+abstract: "[Improving] Building my professional career"
 --- 
 
 #### Develop your softskills  

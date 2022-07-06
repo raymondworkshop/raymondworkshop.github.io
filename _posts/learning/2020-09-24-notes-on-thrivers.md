@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Thrivers"
+title: "notes-on-thrivers"
 date: 2020-09-24
 comments: true
-categories: [learning, education, self]
-abstract: "Thrivers"
+categories: [learning, education, self, important]
+abstract: "notes-on-thrivers-The Surprising Reasons Why Some Kids Struggle and Others Shine"
 ---
 
 #### self-confidence  - an outcome of doing well  
@@ -50,8 +50,7 @@ abstract: "Thrivers"
 
 
 #### **Empathy**  - think "**we**", not "me"  
-
-* help us care about each other and **help bring out the humanity** in the best possible way 
+* help us care about each other and **help bring out the humanity** in the best possible way  
 
 * build relationship satisfaction  
 
@@ -68,12 +67,12 @@ abstract: "Thrivers"
         + "I'm irritable ..."  
 
     - create family connections
-        + "**what was the best/hardest/most fun part of your day and why**?"  
+        + "**what was the best/hardest/most fun part of your day and why**"  
 
 * listening fully  
     - look eye-to-eye or on the wall behind the speaker's head  
     - **try to learn one common thing about the person or sth you have in common**    
-        + "we both like ... "
+        + "we both like ... "  
         + "we had the same ..."  
 
     - label the feeling  
@@ -101,7 +100,6 @@ abstract: "Thrivers"
 #### self-control - control their focus, impulses, and thoughts  
 
 ##### **Focus on what matters**      
-
 * Notice your thoughts  
     - "What your body feels like"  
     - "What your ears hear"  

@@ -3,7 +3,7 @@ layout: post
 title: "反思自己的思维偏见" 
 date: 2014-03-30
 comments: true
-categories:  [writing, learning, self, important]
+categories:  [writing, learning, self, important,softskills]
 published: true
 ---
 
@@ -37,8 +37,7 @@ published: true
     - **找一位大人物做你的导师: 确定共同目标** - **还要与他商讨联系的频率以及何种方式交流; 尽可能地尊重他做的每一件事** 
  
 
-+ 不断学习: **专业能力明显进步了吗? 无论理论或实践,自己有独特的见解吗?
-  能否独立搞定? 能否独挡一面?**
++ 不断学习: **专业能力明显进步了吗? 无论理论或实践,自己有独特的见解吗?能否独立搞定? 能否独挡一面?**
 
 + 职业化: **在其位谋其职,用自己最大的努力去做**
 

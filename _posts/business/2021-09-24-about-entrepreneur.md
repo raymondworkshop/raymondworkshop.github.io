@@ -40,6 +40,8 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
             - **you can put yourself in a position to learn quickly** 
                 + you **offer to help** and **become the owner's solving their fundraising problem**    
+                + **必须站在那个做事的人的立场**才能体会到背后的规划  
+                + 能不能看见背后的规划很重要  
             
             - **you build specific knowledge by taking accountability for things** that other people don't know how to do 
                 + people will line up behind you, and the leverage will come 
