@@ -9,6 +9,7 @@ abstract: "About Cantonese"
 
 #### how to express  
 * 地道词语  
+   膊头 bok3 tau4 肩膀  
    骑咧 ke3 le3 古怪  
    仆街 puk1 gaai1  死定了  
    揽 lahm5  抱  

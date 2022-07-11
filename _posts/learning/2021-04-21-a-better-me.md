@@ -9,8 +9,10 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
 
 ### Goal -> be a **Great** man  
-
 * **Health, Love, and your mission**, in the order. Nothing else matters.  
+
+* **optimize for independence** (without being helped or influenced by other people) rather than pay whenever you can in life  
+    - if you have **independence and you're accountable** (**responsible** for what they do and must be able to **give a satisfactory reason** for it) on your output, as opposed to your input - that's the dream  
 
 * **focus on yourself firstly** and stop worrying about tomorrow
     - **body and mental  Health**
@@ -38,7 +40,6 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + young future talent  
         + entrepreneurs  
          
-
     - **self-care**  
         + INTP  
             - **E**SF**P**  
@@ -82,17 +83,18 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         
 
 * intentional/**planned your actions**
-    - step back if you find yourself **giving more energy than you receive**
+    - step back if you find yourself **giving more energy than you receive**  
+    - Don't give your emotions for free  
 
-* **Courage**
+* **Courage**  
     - Don't limit yourself, you can **lead your life**
     - If something happens, receive it firstly
     - 果断
 
 * peace in mind
-    - 主动去爱
-    - 自立起来
-    - 选择人生 
+    - 主动去爱  
+    - 自立起来  
+    - 选择人生  
     - 要能分辨出，  **觉察他人对自己的影响， 同时分辨出自己内心的声音**
     **同时做出自己相应反应的选择**  
 
@@ -137,7 +139,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - 思维向前 
 
     - Never be a victim when you suffer  
-        + you are the master of your fate 
+        + you are **the master of your fate**   
         + you can captain your soul  
 
 

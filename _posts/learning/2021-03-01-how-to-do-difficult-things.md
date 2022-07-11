@@ -15,8 +15,27 @@ abstract: "Skills: How to DO Difficult Things"
 * Focus on the matters  
     - 不是生活中的每一个问题都要解决，**和问题共处是人生常态**    
 
-##### How To Do Hard Things  
-* TODO  
+##### How To Do difficult Things  
+* Difficult problems  
+    - problems that are not a function of raw work hours, but rather 
+    require dealing with **ambiguity**    
+    - you have to **put a lot of skill or thinking** into it    
+
+    - hard work is just a lot of human-hours  
+
+* Effective strategies 
+    - **reduce the cognitive costs of decision making** to solve the problem through 
+    **collapsing a high dim problem space** into a low dim of hard work  
+        + focus on decisions where pretty much **anything you can do works**  
+        + prioritize decisions that quickly **lead to good outcomes**  
+        + **delegate to external sources** of decision making  
+
+    - 减少选择性  
+        + 优先级选择  
+
+    -  skill acquisition  
+        + access to a subject expert and know how to guide you through  
+
 
 * reference  
     - [Mental Model: Difficult Problems vs. Hard Work](https://benjamincongdon.me/blog/2022/06/22/Mental-Model-Difficult-Problems-vs.-Hard-Work/)  

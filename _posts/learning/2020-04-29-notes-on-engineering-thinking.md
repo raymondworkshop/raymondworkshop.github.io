@@ -7,16 +7,28 @@ categories: [learning, engineering, course, important, manager]
 ---
 
 #### notes on software engineering  
-* 规划力  
-* 软件工程 = 过程 + 方法 + 工具
+* 规划力  - 从ideas -> 发布的过程  
+
 * **engineering thinking and project thinking** on every task
-    - 想法 + 概念 + 计划 + 设计 + 开发 + 发布
-    - **想法** : 识别问题 - **清晰地定义问题, 研究其可行性, 检查是否有可行方案**
-    - **概念** - **提出概念性解决方案**, 可能有多个方案,最终确定一个
-    - **可行性计划** - 如何实施, 人员,任务,时间, 预算
-    - **设计** - 将解决方案细化, 设计架构和划分功能模块
-    - 开发 - 根据设计方案, 实施构建, 并迭代
-    - 发布
+    - 想法 + 概念 + 计划 + 设计 + 开发 + 发布  
+
+    - inception of idea 1-2  
+        +  **想法** : 识别问题 - **清晰地定义问题, 研究其可行性, 检查是否有可行方案**  
+        
+    - proof of concept 3-6  
+        +  **概念** - **提出概念性解决方案**, 可能有多个方案,最终确定一个  
+        + **可行性计划** - 如何实施, 人员,任务,时间, 预算  
+
+    - production of samples/prototypes/tools  7-8  
+        + **设计** - 将解决方案细化, 设计架构和划分功能模块  
+
+    - conduct of trial schemes  9-10  
+       + 开发 - 根据设计方案, 实施构建, 并迭代  
+
+    - use in public sector/launch into open market   
+       + 发布  
+
+* 软件工程 = 过程 + 方法 + 工具  
 
 * 瀑布模型- 有序可控
     - 需求分析
@@ -237,7 +249,8 @@ categories: [learning, engineering, course, important, manager]
 
 #### reference
 * **[軟件工程之美](https://time.geekbang.org/column/article/82337)**  
-* **[许式伟的架构课](https://time.geekbang.org/column/article/94486)**
+* [System Design interview An insider's guide]  
+* [许式伟的架构课](https://time.geekbang.org/column/article/94486)
 * [硅谷产品实战36讲](https://time.geekbang.org/column/article/6043)
 * [AI技术内参](https://time.geekbang.org/column/article/153)
 * [python 核心技术与实战](https://time.geekbang.org/column/article/116493)

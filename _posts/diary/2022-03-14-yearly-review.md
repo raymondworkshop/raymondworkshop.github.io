@@ -11,6 +11,11 @@ tags: [diary, review, important, learning, lesson]
     - 找对爱人  
         + fall in love with souls, not faces  
 
+* Improve your engineering skill  
+    - 提高规划力 - how 
+        + 概念和可行性计划  
+    - programming  
+
 * Improve your communication skills  
     - 提高你的英文和广东话的能力  
 
@@ -21,6 +26,8 @@ tags: [diary, review, important, learning, lesson]
 
     - 倾听的能力以及交流能力  
         + ask good questions  
+        + 与陌生人交流是进入对方语境
+        + 与朋友交谈时了解没有被过滤的真实  
 
     - 观察细节的能力   
 
@@ -36,7 +43,7 @@ tags: [diary, review, important, learning, lesson]
         + **没有建立自己的是非观**  
             - 一切以别人眼光为是非标准，要不就是取悦别人，要不就是试探别人底线  
 
-* work only with people You respect and like  
+    - work only with people You respect and like  
   
 
 #### 2022-06-28  

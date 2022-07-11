@@ -95,14 +95,24 @@ categories: [notes, learning, business, ideas, important, management]
 
 #### 规划力  - 目标和材料之间的流程计划   - f(x)  
 * **engineering thinking and project thinking** on every task
-    - 想法 + 概念 + 计划 + 设计 + 开发 + 发布
-    - **想法** : 识别问题 - **清晰地定义问题, 研究其可行性, 检查是否有可行方案**
-    - **概念** - **提出概念性解决方案**, 可能有多个方案,最终确定一个
-    - **可行性计划** - 如何实施, 人员,任务,时间, 预算
-    - **设计** - 将解决方案细化, 设计架构和划分功能模块
-    - 开发 - 根据设计方案, 实施构建, 并迭代
-    - 发布 
-    
+    - 想法 + 概念 + 计划 + 设计 + 开发 + 发布  
+
+    - inception of idea 1-2  
+        +  **想法** : 识别问题 - **清晰地定义问题, 研究其可行性, 检查是否有可行方案**  
+        
+    - proof of concept 3-6  
+        +  **概念** - **提出概念性解决方案**, 可能有多个方案,最终确定一个  
+        + **可行性计划** - 如何实施, 人员,任务,时间, 预算  
+
+    - production of samples/prototypes/tools  7-8  
+        + **设计** - 将解决方案细化, 设计架构和划分功能模块  
+
+    - conduct of trial schemes  9-10  
+       + 开发 - 根据设计方案, 实施构建, 并迭代  
+
+    - use in public sector/launch into open market   
+       + 发布  
+
 * 很有技巧地**整合各种专业**形成一个形态（明确构想）    
     - **先掌握住大框架，然后再完整地处理细节**    
         + 非常融通灵巧地留出一些空白   

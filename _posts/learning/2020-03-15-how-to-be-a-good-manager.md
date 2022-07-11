@@ -14,7 +14,40 @@ categories: [ softskills, learning, summary, management]
     - avoidable misunderstandings  
     - confusion on how you're adding value  
 
-* TODO  
+    - your boss will believe you're 
+        + add a ton of value  
+        + worth investing in 
+        + worth advocating for  
+        + it's a win-win  
+
+    - If I manage up, I'll **take control & futher my career**    
+
+* **how to manage up**    
+    - show your thought process  
+        + "I recommend this because X. My criteria/assumptions were A and B.
+        The potential trade-off is Y, but seems manageable because Z. I vetted a range of options [options] and found [my recommendation] best fits our needs. "
+
+    - offer solutions and flag issues  
+        + "this is a problem. I suggest doing X."  
+        + "This is a problem. I'm not sure how to solve, but wanted to flag it. my hunch is to monitor for now because X, but let me know if we should brainstorm what to do"
+
+    - Turn complaints into opportunities  
+        + "This process isn't ideal because X. I'd like to update to Y process instead, which should be cheaper/faster/easier. Do you agree if I make the change this week?"  
+
+    - use information hieratchy  
+        + ""
+
+    - keep your boss in the loop  
+        
+    - control your own actions  
+        + "I wonder what's making them feel the need to micromanage? I'll review how I'm keeping them informed & what success looks like so I can show i'm handling it" 
+
+    - proactively assert what to do  
+        + "I recommend X. Here's rationale, data, or examples of why this will work. The risk is Y but we can address by Z. If you agree, I'll start by doing ... "  
+
+    - Don't only ask questions. **share your point of view too**  
+        + "why? My pov is [insight]. I'm not 100% sure yet. **Curious how ya'll are thinking about it**."
+
 
 * reference  
     - [Here’s a secret about managing up](https://twitter.com/wes_kao/status/1533463689097056256)
@@ -25,7 +58,7 @@ categories: [ softskills, learning, summary, management]
 
 * 定期要求与之会面，定期了解他对你的看法    
 
-* 把重点放在应该完成哪些目标上， 更好地了解管理层对自己的期望，不仅涉及日常工作，还包括长期思维
+* 把重点放在应该完成哪些目标上， **更好地了解管理层对自己的期望**，不仅涉及日常工作，还包括长期思维
   
 * 自己的事情主动跟进，有什么问题就跟老板说，讨论， 如果不是自己管辖范围内的事情，别人开心就好
 这里最重要的是你对你提出的问题已经找到合适的解决方案。  
@@ -109,9 +142,9 @@ categories: [ softskills, learning, summary, management]
 * **Lead them to figure it out** 
     - lead them down your steps or your thought process on how you would solve the problem, not just give them the solution  
     - **"what have you tried so far?"**  
-    - "What have you considered tyring" 
+    - "What have you considered trying" 
     - "What did you research? Did you find anything?" 
-    - "And then finally, have you tried looking up ..."" (you would look for to find the anser)
+    - "And then finally, have you tried looking up ..."" (you would look for to find the answer)  
   
 
 * **start small**   

@@ -55,8 +55,12 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 * 信心  
     - **事实**（神的话） -> **信心** -> **经历**  
         + “信就是所望之事的质实，是未见之事的确证” - 来十一1   
+
     - 与神一起经历而得到 信  
         + 神把自己分赐到人性里面    
+        
+    - 在信心里祷告  
+        + "believe you have received it, and it will be yours" 马11 24
 
     - 基督徒爱人，不是凭他们自己，是**有一个内在的活水源头，就是神的爱**  
         + **对神的敬畏使人能够行出美善来**； 若心中没有神，人就缺乏行善的能力  
