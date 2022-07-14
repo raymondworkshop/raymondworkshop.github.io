@@ -15,7 +15,7 @@ class themeStyle(Style):
     This style is a vs theme 
     """
 
-    background_color = "#fafcfd"
+    background_color = "#f6f6f6"
    # highlight_color = "#ffffcc"
 
     styles = {

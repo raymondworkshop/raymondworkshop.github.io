@@ -32,6 +32,7 @@ date: 2012-03-19
 
 #### CHECK  
 * **[Naval](https://nav.al/)**  
+* **[Tom Preston-Werner ](https://tom.preston-werner.com/)**  
 
 * **[Joel On Software](https://www.joelonsoftware.com/)**  
 * **[danluu](https://danluu.com/)**  
