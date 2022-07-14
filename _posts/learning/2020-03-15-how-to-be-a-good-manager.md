@@ -8,6 +8,10 @@ categories: [ softskills, learning, summary, management]
 
 ### **manage up**    
 
+#### notes on lessons  
+* **摸索他们的喜欢与性情**，档面对客户，对手，主管  
+        + 揣摩上司心理并实时满足并不是拍马屁，而是**顺畅你的工作**  
+
 #### Embrace managing up  
 *  if you don't manage up, you'll waste time on  
     - needless back-and-forth  

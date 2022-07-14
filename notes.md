@@ -5,7 +5,8 @@
         +  [https://wiki.xxiivv.com/site/home.html](https://wiki.xxiivv.com/site/about.html)  
 
 * TODO  
-    - Check 
+    - Update code style  
+     
     - Tech stack 
         + Aws S3 with Docker 
         + Our web UI is built in React.js, Jinja, and SCSS, and served by Python Flask through a GraphQL API. The bulk of the engineering work is in systems to fetch and process large amounts of data, e.g. from the Twitter API; we use Celery for this asynchronous task work. The persistent layer is backed by PostgreSQL with SQLAlchemy/Alembic as the ORM. We use staging environments and CI to ensure we continue to deliver a consistent user experience. We are hosted on Render and AWS.
