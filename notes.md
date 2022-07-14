@@ -5,7 +5,6 @@
         +  [https://wiki.xxiivv.com/site/home.html](https://wiki.xxiivv.com/site/about.html)  
 
 * TODO  
-    - Update code style  
      
     - Tech stack 
         + Aws S3 with Docker 
