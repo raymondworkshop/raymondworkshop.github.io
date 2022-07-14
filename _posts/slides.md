@@ -13,7 +13,7 @@ date: 2012-03-13
     - The unstructured legal texts are not only commercial ones, but also judgments, scholarly articles, arguments and pleadings  
 
 #### Nov 24, 2019 - My slide on Japan in views of culture at HKU SPACE 
-* Check out the views [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso)
+* Check out the introduction on [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso)
 
 
 #### 2018 - 2019 - Some of my slides on Artificial Intelligence and its applications in language & speech at HSUHK  
