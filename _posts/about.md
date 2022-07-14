@@ -3,7 +3,7 @@ title: About
 date: 2012-03-19
 ---
 
-Hi, I'm Raymond, educating in science and business fields have taught me to be good at novel solutions to difficult problems. Thanks to the engineering experience of working on a range of projects from telecommunication to web application to data science, I have learned to adapt to any challenge and uncertainty that come my way.  
+Hi, I'm Raymond ZHAO Wenlong, educating in science and business fields have taught me to be good at novel solutions to difficult problems. Thanks to the engineering experience of working on a range of projects from telecommunication to web application to data science, I have learned to adapt to any challenge and uncertainty that come my way.  
 <br>     
 
 You can find some of my projects [here](https://github.com/muyun). If you’ve got any questions, suggestions or would like to discuss, send me a mail at wenlzhao@gmail.com,
