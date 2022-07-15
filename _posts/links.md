@@ -34,15 +34,15 @@ date: 2012-03-19
 * **[Naval](https://nav.al/)**  
 * **[Tom Preston-Werner ](https://tom.preston-werner.com/)**  
 
-* **[Joel On Software](https://www.joelonsoftware.com/)**  
-* **[danluu](https://danluu.com/)**  
-* **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)** 
+* **[Joel On Software](https://www.joelonsoftware.com/)**
+* **[danluu](https://danluu.com/)**
+* **[The Architecture Of Open Source Applications](http://aosabook.org/en/index.html)**
 * **[Patrick Collison](https://patrickcollison.com/)**  
-* **[Tania Rascia's frontend](https://www.taniarascia.com/blog)**  
-* **[Thoughts on programming](https://henrikwarne.com/)**  
-* [Blog Surf](https://dkb.io/)  
+* **[Tania Rascia's frontend](https://www.taniarascia.com/blog)**
+* **[Thoughts on programming](https://henrikwarne.com/)**
+* [Blog Surf](https://dkb.io/)
 
-* **[Cate](https://cate.blog/about/)**  
+* **[Cate](https://cate.blog/about/)**
 * **[Kate Matsudaira](http://katemats.com/about/)**  
 * [Tracy Chou's blog](https://triketora.com/)  
 * [Niniane](http://niniane.blogspot.hk/)  
@@ -52,7 +52,7 @@ date: 2012-03-19
 
 
 #### tech  
-* **[Tim](https://www.oreilly.com/tim/)**     
+* **[Tim](https://www.oreilly.com/tim/)**    
 
 * [James Long](https://jlongster.com/)  
 * [Chip Huyen](https://huyenchip.com/)
