@@ -5,6 +5,56 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2020-07-25  
+* TODO  
+    - your work  
+    
+* softskills  
+    - talk to girls  
+        + listen to her and **add in your thoughts**;
+        don't try to fix her problems, **understand them**  
+        + when **a trait or feeling** comes up, that **you agree with**, **tell her**    
+
+        + she will feel a 'connection' with you and her interest will rise  
+
+    - **talk slow** when you speak, and **smile** during every interaction  
+    
+    - Never trust a guy who is **insecure**  
+        + insecure people have **little confidence** and are **uncertain about their own abilities** or if other people really like them  
+
+
+* self  
+    - **Trust yourself** anytime  
+        + you've survived a lot and you will survive whatever is coming  
+
+    - assertive  
+        + behave confidently and is not frightened to say what they want or believe  
+
+    - Being a **giving person** and **having boundaries walk** hand in hand  
+
+
+#### 2020-07-20  
+* 花费在找房子的时间好长  
+    - 覺察     
+        + 没想好自己需要住什么 以及 注意周围环境的变化  
+
+    - 知道自己要住什么样的房子，然后按照自己的意愿去找  
+        + 工作和薪水的问题  
+        
+
+* lifestyle  
+    - Be curious
+    - Try everything
+    - Note what you like
+    - Note what don't like
+
+Laser in, systemize, and make a living out of what you like.
+
+Automate, delegate, or delete (without hesitation) what you don't.
+
+Repeat and refine until you create your desired lifestyle.
+
+
 #### 2022-07-04  
 * 人生意义  
     - 弄好事业  

@@ -8,6 +8,13 @@ categories: [notes, learning, business, ideas, important, management]
 
 #### notes  
 * lessons    
+    - **focus on developing and cultivating your plan**,
+    when **you have your plan** and **you can feel it's right** for you  
+        + what others are doing won't matter  
+        + comparison dies when **your vision becomes clear**  
+        + concentrate your energy on what you're doing    
+
+
     - **do everything manually first to get started**  
     and then build software to automate everything second **for scale**  
 
@@ -52,6 +59,7 @@ categories: [notes, learning, business, ideas, important, management]
     - 在熊市中， **信念**，**江湖义气**（组织），运气， 一点点钱  
 
     - understand **the desired business outcomes and goals**  
+    
     - **intuition**  
         + (knowledge from) an ability to understand or know something immediately based on your **feelings** rather than facts  
 

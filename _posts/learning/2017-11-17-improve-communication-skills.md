@@ -16,12 +16,16 @@ abstract: "like listening, persuation ... "
 
 
 ##### Effective Communication  
+* **Talk slow** when you speak, and **smile** during every interaction  
+
 * seek to **understand the other person's perspectives**  instead of judging them definitely  
     - **try asking questions about why** someone said something or acted the way they did  instead of reacting  
 
     - **表达自己的同时，也融入对方的世界**， 并**巧妙地提取精华，再延伸至自己表达的内容里**  
         + 交谈中穿插自己的经历，这么一来，就会是在描述这几年自己的经验，
         再加上技巧 切入对方的过去来提出问题 （具体而本质的问题）  
+        + listen to her and **add in your thoughts**  
+        + when **a trait or feeling** comes up, that **you agree with**, **tell her**   
 
     - 与朋友交谈时**了解没有被过滤的真实**， 与陌生人交流是**进入对方的语境**  
 

@@ -13,18 +13,37 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
         + Nothing else matters  
         + 弄好事业，找对爱人  
 
+    - **focused on creating things that make you come alive**  and the right people will find you  
+        + your family  
+        + your purpose  
+        + your goals/ambitions  
+        + girls  
+
     - Entrepreneur mindset  
-        + Entrepreneurship isn't about the money, it's about **owning your own life**  
+        + Entrepreneurhsip is about **leveling up yourself**. 
+        so you can **level up your business**.  
+            - Business is **a microcosm of life**; we **rise in business to our level of personal development**    
+            - Entrepreneurship isn't about the money, it's about **owning your own life**  
+
+        + Entrepreneurship is for **everyone**   
+            - it's **training to live a better life**  
+            - after studying survival, I'm not convinced of the "entrepreneurship isn't for everyone" argument anymore. you are **drastically limiting your personal, psychological, and spiritual development by not learning to hunt in the modern world (business)**    
+
 
         +  skills + leverage = wealth  
 
         +  ownership and result (责任和风险);不是 insight, 也不是 execution 
 
+    
     - **develop a founder mentality**     
         + learn some that **people haven't quite figured out how to teach yet**
             - **a new and quickly expanding field**  
             - some fields that are **circumstantial** - where **the details matter** and it's always **moving**  
             - apprenticeship    
+
+        + suffering  
+            - inside your suffering, you can **find what matters most to you**  
+            - inside your yearning for something more, you can **find seeds of wisdom**    
 
         + find the part of the job with the steepest learning curve  
             - **try to be innovative** in the context of your job  
@@ -48,6 +67,13 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
                 + you have to put yourself in positions where you can **exercise judgement**    
 
             - scale your specific knowledge with appretices  
+
+        + **Rich people get paid by the project** and pay by the hour  
+            - **getting paid by the hour puts you under someone else's control**  
+            - Trade money for time, not time for money  
+
+        + **Uncertainty**, not outcome, is the root of stress    
+            - 不确定性，才是最大杀伤力  
 
 
     - SELF  
@@ -162,6 +188,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 * reference
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home) 
+    - [CS183: Startup - Peter Thiel Class Notes](https://blakemasters.tumblr.com/post/23435743973/peter-thiels-cs183-startup-class-13-notes)
 
 #### **How to get Rich**  
 * **Wealth is assets and business that can earn** while you sleep  

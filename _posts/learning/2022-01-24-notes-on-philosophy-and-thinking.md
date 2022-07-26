@@ -14,6 +14,10 @@ abstract: "关于实证主义哲学和生活方式"
     - 现在科学 从发现正确 到 **试错中前进**  
     - 现在正确的，将来都可能是错误的    
  
+* sicence needs to fail  
+    - To move forward, **science needs to fail**, which runs counter to our human desire for certainty    
+    - rahter than give up, we struggle along a scale of process. 
+    The journey to **understand more** about the mysteries of the world and **explain them with reason is the core of our nature**    
 
 #### **experienced or seen** rather than theory    
 

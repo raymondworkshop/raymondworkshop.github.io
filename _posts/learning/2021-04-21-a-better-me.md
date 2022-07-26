@@ -7,7 +7,6 @@ categories: [learning, self, insight, important]
 abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great"
 ---
 
-
 ### Goal -> be a **Great** man  
 * **Health, Love, and your mission**, in the order. Nothing else matters.  
 
@@ -31,7 +30,9 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         +  Be open to growth, feedback & learning
         + **Growth starts when you stop taking criticism personally**
 
-    - **update your knowledge and keep you creative**
+    - **update your knowledge and keep you creative**  
+
+    - Being a **giving person** and **having boundaries** walk hand in hand  
 
     - friends  
         + **fewer authentic friends** > crowd of fair weather friends  
@@ -69,7 +70,9 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
             - toxic people are usually people who **don't understand the concept of boundaries**  
             - they manipulate you to get what they want  
             - they always play the victiom    
-            - don't associate with people with **low self awareness**     
+            - don't associate with people with **low self awareness**    
+
+        + Never trust a guy who is **insecure**     
 
         + a happy person isn't someone who's happy all the time  
             - he effortlessly interprets events in such a way that **they don't lose their innate peace**    
@@ -78,6 +81,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + diss losers 
             - lie to you  
             - desrespect you  
+                + if people didn't respect without money, they won't respect you with it  
             - use you or put you down  
             - ones that complain, gossip, and play victim 
         

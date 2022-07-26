@@ -22,6 +22,7 @@ abstract: "Skills: How to Improve your time management"
 
 * daily review and weekly review    
 
+* time management is about energy management  
 
 #### Need a system and mindset to support your efforts  
 
