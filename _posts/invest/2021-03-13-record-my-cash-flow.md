@@ -15,6 +15,7 @@ abstract: "Record My Cash flow, and lessones on it"
     -  ~1k for enjoy   
 
 * Emergency funds  - ~30K  
+    - Emergency funds are there so you don't have to pull from your investments in times of emergency  
     -  ~4K/M  
 
 * Pension  

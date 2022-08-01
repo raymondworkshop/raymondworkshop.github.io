@@ -11,7 +11,11 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 * **Health, Love, and your mission**, in the order. Nothing else matters.  
 
 * **optimize for independence** (without being helped or influenced by other people) rather than pay whenever you can in life  
-    - if you have **independence and you're accountable** (**responsible** for what they do and must be able to **give a satisfactory reason** for it) on your output, as opposed to your input - that's the dream  
+    - if you have **independence and you're accountable** (**responsible for what they do** and must be able to **give a satisfactory reason** for it) on your output, as opposed to your input - that's the dream  
+    - Take responsibility for your actions  
+        + **if you do, own up to it**; Finish what you start  
+        + **if you can do something by yourself**, don't ask for help  
+        + **you should ask for help when you really need it**. This shows people that **you're humble and know your limits**. It also shows that **you're open to being vulnerable with others**. this will gain people's respect.  
 
 * **focus on yourself firstly** and stop worrying about tomorrow
     - **body and mental  Health**

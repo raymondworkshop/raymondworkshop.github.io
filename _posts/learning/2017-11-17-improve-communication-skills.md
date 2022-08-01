@@ -15,6 +15,115 @@ abstract: "like listening, persuation ... "
     - [The Art of Persuasion](https://alison.com/topic/learn/103806/persuasive-communication-learning-outcomes)
 
 
+##### Respect is all  
+* 尊重自己  
+    - **支持自己** 
+        + **你想要什么，就去争取**  
+            - **不要害怕去争取能让你的生活和自己变得更好的东西**  
+        + **being assertive in a polite, courteous, and respectful way**    
+            - if you don't want to do something, say so  
+            - if you've got a dissenting opinion and know in your heart that you're right, say so  
+            - 如果你有一个好想法，就说出来  
+
+        + **Take responsibility for your actions**  
+            - Finish waht you start. **If you do, own up to it** and maintain the respect  
+            - **if you can do something by yourself**, don't ask for help.  
+            - **you should ask for help when you really need it**.
+            This shows people that **you're humble and know your limits**.
+            It also shows that **you're open to being vulnerable with others**. this will gain people's respect. 
+
+
+    - **要有雄心**  
+        + **保持自我的最好状态**就是一种自我尊重  
+        + **让自己时刻处于进步状态**，用不满足  
+        + **要为自己订立一个目标，然后制定计划**，一一执行  
+            - 设立一个计划，如何一步步实现这个目标？  
+            - 如果工作，做得开心么？ 为了实现目标要花费什么努力？  
+            要用多长时间才能实现？ 可能性多大？  
+
+    - 照顾好自己  
+        + **给自己与给他人相同的关心**，就是一种自尊    
+        + 知道何时求助。 **要对自己的能力有信心**，**但也要知道什么事情超出了自己的能力**。
+        不要在不必要的时候为难自己。  
+        + 偶尔送自己一个礼物或旅行  
+
+    - **避免妄自菲薄**  
+        + **积极建筑自尊**，让周边**充满鼓励，启迪和有帮助的朋友**  
+        + 你的朋友 会不会批评你，或让你失望？  
+
+    - 保持健康  
+        + 定期做身体检查  
+        + 定期锻炼  
+
+
+* 尊重他人的观点  
+    - **倾听对方**  
+        + **注视对方**，安静地**听对方在讲什么**，并**思考对方的观点**  
+        + 即使不同意，在反驳之前，也要**试着站在对方角度，理解对方**    
+        + 倾听，并让他人自己做决定时一种尊重  
+
+    - **问问题**  
+        + 问**一些开放性，引导性的问题**，让对方觉得你是认真听，并消化吸收了自己观点  
+        + 提问**可以让对方讲的更深入**  
+            - 根据特定话题，**问下对方的感受**，而不是追问细节；
+            问“**之后你觉得怎么样？**”，即使你知道答案，也要让对方自己说出自己的情况 
+            - **问几个针对他的问题**，引导他打开话闸子；
+            “你觉得xxx怎么样？”  
+
+    - **礼貌地表示不同意**  
+        + 在反对之前试着了解对方的立场。
+        **先表明对对方立场的肯定，然后说出自己的观点**。
+        比如“**说得很好，但我的观点稍有不同**...”  
+        + 对人不对事  
+
+    - 学会站在别人的角度考虑问题  
+
+    - 选择策略  
+        + **有时说出自己的观点和看法是尊重他人学识的表现**；
+        有时，**隐藏自己的观点和看法可以避免不必要的争端**    
+        + 如果你说出某个争端，试着将气氛缓和下来；
+        可以将自己观点表述出来，听听他们如何争辩； “你觉得呢？”  
+        + 有时争论过无数次，都没结果，可以不必提起这个话题  
+
+
+* 尊重他人的努力  
+    - 表达感激  
+        + **对别人的帮助和支持抱着一颗感恩的心**  
+        + 写信，打电话，发短信等等  
+
+    - **称赞别人的成就**    
+        + **在别人成功时，祝贺对方的成就**，夸赞对方的能力  
+        + 如果你尊敬的人最近**遇到麻烦**，尽可能夸奖他，
+        **赞扬他的努力，态度或优点，给他勇气和信心**   
+
+    - 要真诚  
+        + “**见到你很高兴**”  
+
+    - 言出必行  
+        + 尊重别人时间； 守时，做好准备  
+
+    - 提供帮助  
+        + 当别人心情不好或遇到麻烦，就试着鼓励对方；
+        如“**你能做到的**“ 
+
+
+
+* 最终对立方  
+    - 在不了解时不要随意评判别人  
+
+    - 要看到别人的闪光点和温暖的地方  
+
+    - 学会适时沉默  
+        + 如果说不出什么好话  
+
+    - 关注自己的事情  
+        + 多做些有趣的事，多参加活动，让自己忙起来  
+        + 培养新的兴趣爱好  
+
+    - 至少要与经常见面但不喜欢的人有至少一些接触  
+        + 如“今天过得怎么样？”， 至少会让对方觉得你在努力  
+
+
 ##### Effective Communication  
 * **Talk slow** when you speak, and **smile** during every interaction  
 
@@ -131,7 +240,6 @@ abstract: "like listening, persuation ... "
         "**what would it look like if** your idea played out for the next 10 years?" 
         
 
- 
 #####  compete and cooperate 
 * foe vs friends 
     - **scarcity**    
@@ -365,50 +473,50 @@ abstract: "like listening, persuation ... "
         + **"听你讲..., 觉得你 ... "**
 
 
-#### coach skills
-* **同理心**
-    - **体验： 体会他人的感受**
-    - 细听之 **情感连结**
-    - **尊重与确认对方的感受**
-    -  同情心
-        + 认知：  理解他人的痛苦
-        + 解决问题
-        + 试图安慰并说服对方改变
+#### coach skills  
+* **同理心**  
+    - **体验： 体会他人的感受**  
+    - 细听之 **情感连结**  
+    - **尊重与确认对方的感受**  
+    -  同情心  
+        + 认知：  理解他人的痛苦  
+        + 解决问题 
+        + 试图安慰并说服对方改变  
 
-    - **代入对方**， 如何感知她的世界
-        + **inquiry or explore how the client perceives her world**
-    - 让对方把话讲完， 除非特定目的，不要打断对方
+    - **代入对方**， 如何感知她的世界  
+        + **inquiry or explore how the client perceives her world**  
+    - 让对方把话讲完， 除非特定目的，不要打断对方  
 
-* 好奇心
-    - 关键字
-        + 重复出现的字， 或 特别的名词
+* 好奇心  
+    - 关键字  
+        + 重复出现的字， 或 特别的名词  
 
-    - 形容词
-    - 探索对方的语言的运用
+    - 形容词  
+    - 探索对方的语言的运用  
 
 * 给反应 - "好，喔，是"  
     - 鼓励和允许对方完全地表达自己  
 
-* **给出意向** - intention
-    - **为啥你想对方这么做 或 对方为啥这么做** - “**你不停的问我问题，到底是为了什么**”
-    - 根据客户想实现的成果的方向 来继续对话， 除非客户有其他指示
+* **给出意向** - intention  
+    - **为啥你想对方这么做 或 对方为啥这么做** - “**你不停的问我问题，到底是为了什么**”  
+    - 根据客户想实现的成果的方向 来继续对话， 除非客户有其他指示  
 
-* 开放式的问题
-    - 好的问题：  容易回答， 正面， 有启发性（别人可以想多一步的问题）
-    - 有节奏地给予客户思考和反思的时间
-    - how, why
+* 开放式的问题  
+    - 好的问题：  容易回答， 正面， 有启发性（别人可以想多一步的问题）  
+    - 有节奏地给予客户思考和反思的时间  
+    - how, why  
 
-* 支持和欣赏
-    - 嘉许和尊重对方的行为
-    - 多一点认同  - **直接讲出来**
+* 支持和欣赏  
+    - 嘉许和尊重对方的行为  
+    - 多一点认同  - **直接讲出来**  
 
 
 #### communication skills  
 
-* **为什么要这么说**
-    - 基于事实来辩论， 而不是 观念或立场的争论  
+* **为什么要这么说**  
+    - 基于事实来辩论， 而不是 观念或立场的争论 
 
-* balance between cooperation and competition
+* balance between cooperation and competition  
     - **comparisons**: find your balance  between motivation and satisfaction
     - access if the comparison is in/out of order
     - provide new opportunities to compete in the future and the compete will be less intense
@@ -421,7 +529,7 @@ abstract: "like listening, persuation ... "
             - more motivated but less satisfied
 
 
-#### **Effective Communication**
+#### **Effective Communication**  
 * grab attention
     - surprising
     - puzzle
@@ -462,15 +570,14 @@ abstract: "like listening, persuation ... "
         + verbal - encourager - like 'uh-huh'm 'yes', 'right', 'go on', 'ok'  - nodding
         + **non-verbal: mirroring**  - repeat the last few words or gist of speaking
 
-
-    - push more further -
+    - push more further 
         + summarize info, demo perspective taking ,and seek clarification
         + **"Let me make sure I understand what you're saying ... "**
 
 
-#### 自我认知
+#### 自我认知  
 
-### social skills
+#### social skills  
 * 幼龄教育首先教的是**规矩以及对规则和权威的尊从**
     - 无论对人还是对事，**在没有尊重和相互理解的前提下，不提倡批判和反抗**
 
@@ -482,12 +589,34 @@ abstract: "like listening, persuation ... "
         + If you get on the same page, you can open up and connect more  
         + don't engage people for approval or validation  
 
-### 沟通能力  
-* 沟通能力首先要学会善解人意，了解对方的需求
-* 其次是表达能力，把复杂的事用简单的方法表述出来
-* 以诚待人，人家才能信任你
 
-### 同级管理
+#### 沟通能力  
+* 沟通能力首先要学会善解人意  
+    - **了解对方的需求**  
+
+* 其次是表达能力
+    - **把复杂的事用简单的方法表述出来**  
+
+* 以诚待人
+    - **人家才能信任你**  
+
+
+#### 向上社交  
+* **自信与主动**    
+    - “**别人比我们所以为的更喜欢我们**”  
+    - 你问不问是你的事，别人答不答应是别人的事  
+
+* 真诚  
+
+* 创造价值，付出价值  
+    - 用同理心去揣摩**对方的需求和担心**，以及**你能为对方提供什么价值**  
+    - 不一定是物质价值，也可以是**情感价值**  
+
+* 注意边界感  
+    - 一些无足轻重的小事自己解决就好，**关键的人脉要用来解决最关键的问题**    
+
+
+#### 同级管理
 * 受欢迎程度仍然很重要
     - **源自于他能否让别人感觉受到重视，获得包容，内心快乐** -> 这样可以获得更大的认同，更强的忠诚和更好的团队凝聚力
     - 投资人际关系 ->  职业关系外加社交关系
@@ -498,13 +627,15 @@ abstract: "like listening, persuation ... "
 
 * 认真思考自己的行动究竟能拉近与同事的距离，还是进一步与他们疏远  
 
-### 向上管理
+
+
+#### 向上管理     
 * 谦虚有礼
 * 向上管理必须有自己的观点，并且学习沟通与说服的技巧
 * 老板沟通风格和好恶
 * 鼓励老板，如果老板做得好的话； 如果设想自己是老板； 委婉顾及老板面子
 
-### 跟上司沟通
+#### 跟上司沟通
 *  **让你的上司们了解你的成果才是第一要事**
 *  将重要的成绩和普通进度汇报开来
 *  明白哪些是职责范围的，**哪些事超过你的老板预期的**

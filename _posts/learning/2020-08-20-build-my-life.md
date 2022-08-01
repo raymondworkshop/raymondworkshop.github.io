@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "[Improving] My framework for a pleasure of life and career"
+title: "Build my life"
 date: 2020-08-20
 comments: true
 categories: [learning, life, todo, important]
-abstract: "[Improving] My framework for a pleasure of life and career"
+abstract: "Build my life"
 ---
 
 #### Success  
+* TODO  
 
 * reference  
     - [Success](https://www.coursera.org/learn/wharton-success/home/week/1)  
@@ -37,43 +38,6 @@ abstract: "[Improving] My framework for a pleasure of life and career"
 
 * identify required habits  
 * develop habits one day at a time  
-
-
-##### Build my career or business -> **ample income** + **providing satisfaction**      
-* **TIME** I spend, and **a high savings rate** as the seeds of wealth is a requirement   
-
-* three Paths  -> financially independent  
-    - the high-income-producing, high-level leadership path  -> senior executives of public corporations  
-    - the self-employed, risk-taking, investing-in-my-business approach  -> owners/managers of successful businesses  
-    - the frugal, steady-as-she-goes journey  
-
-* Solution -> one matches between  **skills, abilities,characteristics and the environment/market**  
-    - **understanding of our own strengths and weaknesses**  
-        + **Recognize my strengths** and **creating goals** as a starting point  
-    - finding a career that **makes full use of one's competencies  like skills, abilities,characteristics**   
-    - if you love your job, if it provides you with **the life-style** and **level of freedom you desire**, then working is great   
-        + learn **what it's like to work** so you can check the field was of interest to you  
-        + whether survive in **the type of environments/market**    
-        + whether like **the work you are doing** 
-        + check what we liked and didn't like about work, what we are interested in and able to do  
-
-
-* **Margin** Required  
-    - **Money gives you the independence and options to choose**    
-    - **generating multiple sources of revenue**    
-        + **opportunities to expand revenue generation** and a setup for a future career move  
-        + or part-time career    
-        + **translate hobbies into income-producing activities**     
-            - **pursue other interests** that could lead to a new career or your own business  
-        + the needs of the future customers  
-            - "what do u need and what are your problems with current products?"
-
-
-###### build business - do more - **action > theory** 
-* an **exciting & meaningful mission** to help channelize energy & thoughts 
-    - build a purpose  
-        + identify a clear mission, and head toward it 
-    - let the mission channelize all your inward, latent energy 
 
 
 #####  **Build myself - healthy, free, wealthy, and loved**  
@@ -115,7 +79,6 @@ abstract: "[Improving] My framework for a pleasure of life and career"
 
     - a few **basic emotions**: joy, trust, fear, surprise, sadness, disgust, anger and anticipation
 
-
     - happiness is about peace, all you want is privacy, not to be famouss
 
     - growth happens in the places **you're scared to go**
@@ -123,7 +86,6 @@ abstract: "[Improving] My framework for a pleasure of life and career"
 
 ##### **Build love and families** 
 * kind, cheerful, understanding, graceful, independent 
-
 
 
 ##### **Build relationships**  
@@ -142,7 +104,7 @@ abstract: "[Improving] My framework for a pleasure of life and career"
 
 
 *  **self-growth**    
-    > **模仿比聪明和努力更重要**  
+    - **模仿比聪明和努力更重要**  
        >  + **交流**进而产生对比,对比自然分出高低; **低的自然模仿高的**
        >     -  **交流进而模仿**, 而不是自己进化
        >  + **跟不同的人社交**, 老师越多越好
@@ -198,52 +160,10 @@ abstract: "[Improving] My framework for a pleasure of life and career"
     - **appreciate and gratitude** her  
 
 
-
-##### **Strategies on business or work**
-* build a business
-    - you learn how things really work by **doing them**.
-    - **experiment with the reality**
-    - **engage in stimulating conversations**
-    - don't just read about financial markerts, business, science, philosophy
-    - **if anything is worth doing, do it with all your heart**
-
-* **survival of the fittest**, not the strongest
-    - 要想 “**适应这个群体吗**?”, “**在这个群体中是什么角色**?”,   而不是 “我要比人强”
-    - 做事情, **要思考是不是适应**, 而不是完全和别人拼强弱
-    -  发现一个自己的生态位, **找到自己在生态中的位置**
-
-
-* master some **skill, interest, or knowledge that others find valuable**
-    - once you master it, you'll be rewarded with new opportunities
-    - don't try to find your passion
-
-
-
-* **Always choose the more difficult path**: it leads to the easier life.
-    - courage, social skills, friendships
-
-
-* **求同存异** - **共赢 + 不失原则的妥协**
-    - **共同的，不同的和处于中间带**的观点
-
-* > Don't fight to win all the battles, you **just need win the war**
-    > - 不需要赢得每场战斗，而是要赢整个战争， **过程中的妥协不丢脸，赢在最后才是最重要的**
-
-* >  **关注事实胜过关注争吵**，**关心细节胜过关心策略**  
-    > - 怀疑的精神特别重要，就是尽量不要去人云亦云； 自己去看了，自己有所体会了，再下这样的论断
-
-* > 究竟做什么并不重要, 为什么要做这件事 以及 如何做这件事才是最重要的
-    > - **why, and how** is more important than what
-
-
-* **Nature and markets**, not people,  are more honest when it comes to giving feedback
-
-
-
 ##### Strategies on relationships  
 * be **open-minded**    
-  - you're curious about how things work, why people think what they think, and are willing to listen  
-  - it doesn't mean you have to accept or tolerate anything you don't agree with  
+    - you're curious about how things work, why people think what they think, and are willing to listen  
+    - it doesn't mean you have to accept or tolerate anything you don't agree with  
 
 * > **Don't show kindness to people** who want to destroy you
     > - your kindness will be forgotten and they will not do the same for you
@@ -258,9 +178,7 @@ abstract: "[Improving] My framework for a pleasure of life and career"
 *  **only real friends** want you to be happy, or end it.
     - a friend is the one that crafts you for a better person, not a worse one
 
-*  **don't disagree unless you have to, and agree when you can**
-
-
+*  **don't disagree unless you have to, and agree when you can**  
 
 
 #### **HOW to communicate well**     

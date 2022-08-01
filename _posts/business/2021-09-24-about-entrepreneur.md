@@ -20,8 +20,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
         + girls  
 
     - Entrepreneur mindset  
-        + Entrepreneurhsip is about **leveling up yourself**. 
-        so you can **level up your business**.  
+        + Entrepreneurhsip is about **leveling up yourself**. so you can **level up your business**.  
             - Business is **a microcosm of life**; we **rise in business to our level of personal development**    
             - Entrepreneurship isn't about the money, it's about **owning your own life**  
 
@@ -32,7 +31,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
         +  skills + leverage = wealth  
 
-        +  ownership and result (责任和风险);不是 insight, 也不是 execution 
+        +  ownership and result (责任和风险); 不是 insight, 也不是 execution 
 
     
     - **develop a founder mentality**     
@@ -57,12 +56,12 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
             - **find things that interest you and allow you to take on accountability**  
                 + don't worry about short-term compensation  
 
-            - **you can put yourself in a position to learn quickly** 
+            - **you can put yourself in a position to learn quickly**  
                 + you **offer to help** and **become the owner's solving their fundraising problem**    
                 + **必须站在那个做事的人的立场**才能体会到背后的规划  
                 + 能不能看见背后的规划很重要  
             
-            - **you build specific knowledge by taking accountability for things** that other people don't know how to do 
+            - **you build specific knowledge by taking accountability for things** that other people don't know how to do  
                 + people will line up behind you, and the leverage will come 
                 + you have to put yourself in positions where you can **exercise judgement**    
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "[Updating] How to make choices"
+title: "Improving your judgment skills"
 date: 2022-03-11 
 comments: true
 categories: [home, important, self, softskills, learning]
-abstract: "[Updating] How to make choices"
+abstract: "on How to make choices"
 ---
 
 #### Man's Purpose in Life  
@@ -213,10 +213,8 @@ abstract: "[Updating] How to make choices"
 ##### making good decisions  
 
 * Concentrate on the **few important ones**   
-    - the problem is **a generic situation**, and could only be solved through a decision
-    which established a rule, a principle  
+    - the problem is **a generic situation**, and could only be solved through a decision which established a rule, a principle  
     - **clear specifications** to what the decisions has to accomplish  
-
 
 
 * **focus on the process** of making a decision  

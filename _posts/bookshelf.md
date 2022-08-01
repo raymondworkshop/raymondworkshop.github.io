@@ -8,11 +8,13 @@ date: 2012-03-19
 #### training-2022 
 * Communication  
     - [Couples Counselling](https://alison.com/topic/learn/121714/introduction-to-counselling)  
+    - [Managing Emotions in Times of Uncertainty & Stress](https://www.coursera.org/learn/managing-emotions-uncertainty-stress/home/week/1)  
 
 
 * Entrepreneur  
     - [Startup School](https://www.startupschool.org/curriculum) 
     - **[軟件工程之美](https://time.geekbang.org/column/article/82337)**  
+    - [Software Design](https://www.coursera.org/learn/software-design-development-life-cycle/home/week/1)
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
     - [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2021/home)
     - [Persuasive Communication](https://alison.com/topic/learn/103806/persuasive-communication-learning-outcomes)  

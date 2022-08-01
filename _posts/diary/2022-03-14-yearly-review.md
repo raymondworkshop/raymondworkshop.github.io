@@ -5,7 +5,74 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
-#### 2020-07-25  
+#### 2022-08-01  
+* follow jesus 
+    - “活是向神活着”  
+
+* lessons  
+    - **self-respect is true confidence**    
+        + **支持自己**  
+            -  **不要害怕去争取能让你的生活和自己变得更好的东西**  
+            - **being assertive in a polite, courteous, and respectful way**  
+                +  如果你有一个好想法，就说出来    
+            - **Take responsibility for your actions**  
+                + **If you do, own up to it**  
+                + **if you can do something by yourself**, don't ask for help.  
+                + **you should ask for help when you really need it**.  This shows people that **you're humble and know your limits**. It also shows that **you're open to being vulnerable with others**. this will gain people's respect. 
+
+
+    - **optimize for independence**  (**without being helped or influenced** by other people) rather than pay whenever you can in life  
+        + if you have **independence and you're accountable** (**responsible for what they do** and must be able to **give a satisfactory reason** for it) on your output, as opposed to your input - that's the dream  
+
+        - **Take responsibility for your actions**  
+            + **if you do, own up to it**; Finish what you start  
+            + **if you can do something by yourself**, don't ask for help  
+            + **you should ask for help when you really need it**. This shows people that **you're humble and know your limits**. It also shows that **you're open to being vulnerable with others**. this will gain people's respect.  
+    
+    - business/work  
+        + **work on hard problems** and **talk to smart colleagues**   
+            - **work on hard problems till it's simple**, then think about **how I would coach my former self through it**  
+
+            - **invest your creativity, skills and efforts into solving big problems** and you will receive big rewards  
+            - if the work doesn't require **creativity**, **delegate it, automate it, or leave it**  
+            - it's **leveraged versus un-leveraged**    
+                + forget rich versus poor, white-collar versus blue  
+                + **code, media,  capital, labor**    
+
+        +  **do everything manually first to get started** and then build software to automate everything second **for scale**  
+            - **努力用在选择上**， **前期投入大量工作**  
+
+        + **focus on developing and cultivating your plan**, when **you have your plan** and **you can feel it's right** for you  
+            - what others are doing won't matter  
+            - comparison dies when **your vision becomes clear**  
+            - concentrate your energy on what you're doing    
+
+        + **Accountability** is something you can take on immediately  
+            - **find things that interest you and allow you to take on accountability**  
+            - **you can put yourself in a position to learn quickly**  
+            - you **offer to help** and **become the owner's solving their fundraising problem**    
+            - **you build specific knowledge by taking accountability for things** that other people don't know how to do  
+                + people will line up behind you, and the leverage will come 
+                + you have to put yourself in positions where you can **exercise judgement**    
+
+    - 和内地人打交道的经验  
+        + 比较绝对/极端  <- 被拉黑    
+
+    - 每天确定3件最重要的事情  
+        + 最重要通常是最不舒服/焦虑的  
+
+        + 每天至少6个小时的专注时间在这些事情上  
+
+
+* bussiness is a microcosim of life  
+    - **entrepreneurship is for everyone**
+    - it's **training to live a better life**    
+
+    - entrepreneurship is about **leveling up yourself**, so you can level up your business  
+
+
+
+#### 2022-07-25  
 * TODO  
     - your work  
     
@@ -33,7 +100,7 @@ tags: [diary, review, important, learning, lesson]
     - Being a **giving person** and **having boundaries walk** hand in hand  
 
 
-#### 2020-07-20  
+#### 2022-07-20  
 * 花费在找房子的时间好长  
     - 覺察     
         + 没想好自己需要住什么 以及 注意周围环境的变化  

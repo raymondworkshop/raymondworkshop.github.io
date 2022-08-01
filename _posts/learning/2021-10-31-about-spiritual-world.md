@@ -49,6 +49,9 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning  
+* follow Jesus  
+    - 罗马书6-10 “他死是向罪死了，只有一次； **他活是向神活着**”
+
 * you can have **something real, something pure**  
     - although imperfect and not ideal    
 

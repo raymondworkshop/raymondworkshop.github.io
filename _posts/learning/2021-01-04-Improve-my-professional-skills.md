@@ -1,14 +1,50 @@
 ---
 layout: post
-title: "[Improving] !Building my professional career"
+title: "!Improve my professional skills"
 date: 2021-01-04
 comments: true
-categories: [learning, career, todo, important]
-abstract: "[Improving] Building my professional career"
+categories: [learning, skills, todo, important]
+abstract: "Improve my professional skills"
 --- 
 
-#### Develop your softskills  
+#### notes - **提高实践认知**  
+* 认知是 **基于一个综合情况而作出的精准判断**  
+    - 把信息通过思维模式训练，从而产生判断    
 
+    - **多接触社会，解决棘手问题**  
+        + 在实践中积累和成长    
+        + 学习，思考，应用，**复盘校正**  
+        + 这个周期越短，学习就越轻松，效果也越好  
+        + 重复根深蒂固的习惯，并不能使我们变得更好  
+        + 越早参与解决一些棘手问题，越能积累宝贵的人生经验  
+        
+    - 关注**自我需求**，明确自己想要的是什么  
+        + **找到那个最强大的自我**，战胜**天性中的恐惧和懦弱**  
+        + 倾听自己的声音，发掘自己到底想要什么  
+
+    - **训练开放性**  
+        + 接触一些**平时不会做的事情**  
+        + 试着跳出来，**从整个商业链条去思考**，**去寻找新的机会和切入点**，从而**提升你看待事物的视角**
+        + 当你接受和关注到一个事物的某一面时，**试试去想象它的另一面**  
+        + **尽量丰富自己的选择**，不要“把所有鸡蛋放在一个篮子里”，无论是**生活方式**，**思考方式**，**工作方式**，**职业生涯**，还是**资产配置**  
+        + 广泛涉猎别的领域，如有机会，**多试试别的可能性**
+
+    - **见自己，见世界和见众生**  
+        + 见自己  
+            - **理解自己的优势和局限**，**知道自己想要什么**，**受不了什么**，持续地走出舒适区，**扩大自己的能力**
+
+        + 见世界  
+            - **带着这些对自己的理解**，理解时代的趋势，**社会的规则**，**看到各种人生的可能**  
+            - **看到趋势**，**理解规律**，**升级心智**，**自我跃迁**  
+
+        + 见众生  
+            - 高手当久了，胜胜负负，你终于理解，**要把自己学到的，理解的，坚持的传播出去，帮助更多人**，这样才能从高手变为一代宗师  
+
+    - reference  
+        + [小镇做题家们，你的努力是否还有意义？](https://mini.caixin.com/2022-07-25/101917379.html)  
+
+
+#### Develop your softskills  
 * 魅力 - 受欢迎的程度  
     - 笑脸更可信，更温暖，更亲近    
         + **轻轻歪头和微笑**  
@@ -68,16 +104,15 @@ abstract: "[Improving] Building my professional career"
 * "**is there any feedback**, specific focus areas, or anything I can do to improve my interviewing technique?"  
 
 * ask culture-fit  
-    - "do you think, based on the feedback, **I would be a culture fit for** future opportunities? "
+    - "do you think, based on the feedback, **I would be a culture fit for** future opportunities? "  
    
 
 #### Develop Decision-Making skills  
 
 * The dreaded debate  
     - **focus more on what and why (what's the goal, why is this important)**   
-        + Don't be overly solutions-oriented, and focus on how (which solution is better)  
-        + without clarity on what and why, people will naturally start optimizing 
-        for things in different directions  
+        + Don't be overly solutions-oriented, and focus on **how** (which solution is better)  
+        + without clarity on what and why, people will naturally start optimizing for things in different directions  
 
 * Watersheds to clarifying your thinking around each step in a decision-making process  
     - The ROOT part of any decision  
@@ -86,42 +121,39 @@ abstract: "[Improving] Building my professional career"
         + **establish guiding principles and a shared reality** about what's important  
         + develop and prioritize **criteria** to clarify how you'll go about making the decision  
 
-    - The middle section of decision-making are to generate a wide solution set and 
-    the evaluate them against your decision criteria    
+    - The middle section of decision-making are to generate a wide solution set and the evaluate them against your decision criteria    
         + **Generating solutions that can realistically achieve the goal**, often with varying levels of complexity  
         + **evaluating solutions by using the criteria** in the roots stage to move towards convergence  
         + **mitigating risks by understanding the tradeoffs** of your chosen solution and making plans  
 
-    - the lower section is where the decision is actually made, shared effectively  
-    with others and ideally documented for alignment and posterity  
+    - the lower section is where the decision is actually made, shared effectively with others and ideally documented for alignment and posterity  
         + documenting the decision to "show your work"  
         + communicating effectively with stakeholders to make build strategic and execution alignment  
         + realign as necessary as you learn new things  
 
 
 
-##### **Strategies on business or work**
-* build a business
-    - you learn how things really work by **doing them**.
-    - **experiment with the reality**
-    - **engage in stimulating conversations**
-    - don't just read about financial markerts, business, science, philosophy
-    - **if anything is worth doing, do it with all your heart**
+##### **Strategies on business or work**  
+* build a business  
+    - you **learn how things really work by doing them**.  
+    - **experiment with the reality**  
+    - **engage in stimulating conversations**  
+    - don't just read about financial markerts, business, science, philosophy  
+    - **if anything is worth doing, do it with all your heart**  
 
-* **survival of the fittest**, not the strongest
-    - 要想 “**适应这个群体吗**?”, “**在这个群体中是什么角色**?”,   而不是 “我要比人强”
-    - 做事情, **要思考是不是适应**, 而不是完全和别人拼强弱
-    -  发现一个自己的生态位, **找到自己在生态中的位置**
-
-
-* master some **skill, interest, or knowledge that others find valuable**
-    - once you master it, you'll be rewarded with new opportunities
-    - don't try to find your passion
+* **survival of the fittest**, not the strongest  
+    - 要想 “**适应这个群体吗**?”, “**在这个群体中是什么角色**?”,   而不是 “我要比人强”  
+    - 做事情, **要思考是不是适应**, 而不是完全和别人拼强弱  
+    -  发现一个自己的生态位, **找到自己在生态中的位置**  
 
 
+* master some **skill, interest, or knowledge that others find valuable**  
+    - once you master it, you'll be rewarded with new opportunities  
+    - don't try to find your passion  
 
-* **Always choose the more difficult path**: it leads to the easier life.
-    - courage, social skills, friendships
+
+* **Always choose the more difficult path**: it leads to the easier life.  
+    - courage, social skills, friendships  
 
 
 * **求同存异** - **共赢 + 不失原则的妥协**
@@ -190,8 +222,6 @@ abstract: "[Improving] Building my professional career"
             - 对于上级能给予什么样的帮助，基本上**描述得越具体越好**    
                 + 开口前，一定要做足功课，有备而来  
                 + 即使没如期完成，**从你每一次的沟通问题以及提供解决方法之中，也已经看到了你所遇见的阻力，知道了你确实付出了努力，也动了脑筋**，没成，不全是你的错  
-
-
 
 * stragegy
     - **Always give before you take**

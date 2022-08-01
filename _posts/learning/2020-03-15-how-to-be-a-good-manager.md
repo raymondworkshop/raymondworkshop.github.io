@@ -12,6 +12,18 @@ categories: [ softskills, learning, summary, management]
 * **摸索他们的喜欢与性情**，档面对客户，对手，主管  
         + 揣摩上司心理并实时满足并不是拍马屁，而是**顺畅你的工作**  
 
+* **自信与主动**    
+    - “**别人比我们所以为的更喜欢我们**”  
+    - 你问不问是你的事，别人答不答应是别人的事  
+
+* 创造价值，付出价值  
+    - 用同理心去揣摩**对方的需求和担心**，以及**你能为对方提供什么价值**  
+    - 不一定是物质价值，也可以是**情感价值**  
+
+* 注意边界感  
+    - 一些无足轻重的小事自己解决就好，**关键的人脉要用来解决最关键的问题**    
+
+
 #### Embrace managing up  
 *  if you don't manage up, you'll waste time on  
     - needless back-and-forth  
@@ -55,6 +67,7 @@ categories: [ softskills, learning, summary, management]
 
 * reference  
     - [Here’s a secret about managing up](https://twitter.com/wes_kao/status/1533463689097056256)
+
 
 #### treat your manager as a **coach**, not as a judge  
 * 主动向老板寻求反馈  

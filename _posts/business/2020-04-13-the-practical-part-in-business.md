@@ -8,17 +8,10 @@ categories: [notes, learning, business, ideas, important, management]
 
 #### notes  
 * lessons    
-    - **focus on developing and cultivating your plan**,
-    when **you have your plan** and **you can feel it's right** for you  
+    - **focus on developing and cultivating your plan**, when **you have your plan** and **you can feel it's right** for you  
         + what others are doing won't matter  
         + comparison dies when **your vision becomes clear**  
         + concentrate your energy on what you're doing    
-
-
-    - **do everything manually first to get started**  
-    and then build software to automate everything second **for scale**  
-
-    -  **practical ability** is more important       
 
     - the ultimate hack to become rich, **own a business**   
 
@@ -33,29 +26,45 @@ categories: [notes, learning, business, ideas, important, management]
         + **code, media,  capital, labor**    
 
 
-    - 商人玩的是 **赚钱的游戏**  
+* mindset on modern society (business)  
+    -  **practical ability** is more important       
+        + **对建立垄断型的商业模式缺乏意识** 
+            - 真正的巨额利润，来自**长期的复合增长**  
+
+        + 商业+技术  
+            - 技术细节如果不能**改变商业模式**，也无法**增加垄断性**，就不值得探究    
+
+    -   商人玩的是 **赚钱的游戏**  
         + **尽可能避免零和游戏**，因为它并不创造财富；多元化机会  
             - treat people as friends and **attempt to win together**   
             rather than to treat people as enemies and attempt to win on your own  
 
         + 商业利益 就应该 **最大比例考虑商业利益**  
         除非威胁到 健康/人身安全，家人，自由等等； 原则倒是其次    
+
         + 多数中国人比较熟悉 “**实用主义驱动的经济自由化**”  
             - **在稳定的利益基础上建立的合作**觉得才是稳固的，人品和情谊都无法提供这种稳定性  
+
+        + 商业模式，本质上是**可以双赢的权力游戏**  
+            - 比如一个产品服务，从一个客户到十个客户，因为边际成本低，可以讲价，让大家受益  
 
     - 商业和熟人的模式不一样  
         + **家人是支持对方**    
         + 你把你自己的利益放在团体利益之上  
         + if something is free, realize **you are the payment**  
             - **you pay with time and sanity** for the majority of the free offers   
-
+ 
     - 专注于**赚钱的项目**，而不是被理想催着走  
         + 大多数人从未创造或发布过任何东西，所以发布本事就是一个值得庆祝的大事  
 
+
+* **practical part** in business    
+    - **do everything manually first to get started** and then build software to automate everything second **for scale**  
+        + **努力用在选择上**， **前期投入大量工作**  
+        + 中国人，最大的问题是“选择随大流”  
+
     - **pass the basic boring step** firstly, then the creative part will come    
 
-
-* **practical part**    
     - 在熊市中， **信念**，**江湖义气**（组织），运气， 一点点钱  
 
     - understand **the desired business outcomes and goals**  

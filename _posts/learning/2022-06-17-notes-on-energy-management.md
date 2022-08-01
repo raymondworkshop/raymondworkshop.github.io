@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Skills: How to Improve your time management"
+title: "Notes on energy management skills"
 date: 2022-06-17
 comments: true
 categories: [learning, thinking, self,  important]
-abstract: "Skills: How to Improve your time management"
+abstract: "Notes on energy and time management skills"
 ---
 
 #### Notes on Time Management  

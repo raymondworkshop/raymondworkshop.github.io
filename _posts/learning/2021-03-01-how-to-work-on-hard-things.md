@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Skills: How to DO Difficult Things"
+title: "Skills: How to work on hard Things"
 date: 2022-03-01
 comments: true
 categories: [learning, thinking, self,  important]
-abstract: "Skills: How to DO Difficult Things"
+abstract: "Skills: How to work on hard problems"
 ---
 
-##### Note  
+##### work on hard problems  
 * Use **creativity** to solve problems    
-    - **invest your creativity, skills and efforts into solve big problems** and waht free markets pay for it    
+    - **invest your creativity, skills and efforts into solve big problems** and want free markets pay for it    
     - If the work doesn't require **creativity**, **delegate it, automate it or leave it**    
 
 * Focus on the matters  
@@ -17,8 +17,7 @@ abstract: "Skills: How to DO Difficult Things"
 
 ##### How To Do difficult Things  
 * Difficult problems  
-    - problems that are not a function of raw work hours, but rather 
-    require dealing with **ambiguity**    
+    - problems that are not a function of raw work hours, but rather require dealing with **ambiguity**    
     - you have to **put a lot of skill or thinking** into it    
 
     - hard work is just a lot of human-hours  

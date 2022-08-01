@@ -7,7 +7,7 @@ categories: [learning, engineering, course, important, manager]
 ---
 
 #### notes on software engineering  
-* 规划力  - 从ideas -> 发布的过程  
+* 规划力  - 从ideas 到 发布的过程  
 
 * **engineering thinking and project thinking** on every task
     - 想法 + 概念 + 计划 + 设计 + 开发 + 发布  
@@ -50,6 +50,7 @@ categories: [learning, engineering, course, important, manager]
 
 #### System Design and Software Engineering
 * reference  
+    - [Software Design](https://www.coursera.org/learn/software-design-development-life-cycle/home/week/1)
     - [Engineering Software as a Service](https://book.douban.com/subject/24316596/) by Armando Fox / David Patterson  
     - [Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer 
     - [The Mythical Man Month](https://book.douban.com/subject/1494471/)

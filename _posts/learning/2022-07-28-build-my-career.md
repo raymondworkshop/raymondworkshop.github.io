@@ -1,0 +1,96 @@
+---
+layout: post
+title: "Build my professional career and my work"
+date: 2022-07-28
+comments: true
+categories: [important, career]
+abstract: "Build professional  my career and my work"
+---
+
+##### **Strategies on career**  
+
+* an **exciting & meaningful mission** to help channelize energy & thoughts 
+    - build a purpose  
+        + identify a clear mission, and head toward it 
+    - let the mission channelize all your inward, latent energy   
+
+* plan B  
+    - **尽量丰富自己的选择**，不要“把所有鸡蛋放在一个篮子里”，无论是**生活方式**，**思考方式**，**工作方式**，**职业生涯**，还是**资产配置**  
+
+* build business - do more - **action > theory** 
+
+* build a business
+    - you learn how things really work by **doing them**.
+    - **experiment with the reality**
+    - **engage in stimulating conversations**
+    - don't just read about financial markerts, business, science, philosophy
+    - **if anything is worth doing, do it with all your heart**
+
+* **survival of the fittest**, not the strongest
+    - 要想 “**适应这个群体吗**?”, “**在这个群体中是什么角色**?”,   而不是 “我要比人强”
+    - 做事情, **要思考是不是适应**, 而不是完全和别人拼强弱
+    -  发现一个自己的生态位, **找到自己在生态中的位置**
+
+
+* master some **skill, interest, or knowledge that others find valuable**
+    - once you master it, you'll be rewarded with new opportunities
+    - don't try to find your passion
+
+
+* **Always choose the more difficult path**: it leads to the easier life.
+    - courage, social skills, friendships
+
+
+* **求同存异** - **共赢 + 不失原则的妥协**
+    - **共同的，不同的和处于中间带**的观点
+
+* > Don't fight to win all the battles, you **just need win the war**
+    > - 不需要赢得每场战斗，而是要赢整个战争， **过程中的妥协不丢脸，赢在最后才是最重要的**
+
+* >  **关注事实胜过关注争吵**，**关心细节胜过关心策略**  
+    > - 怀疑的精神特别重要，就是尽量不要去人云亦云； 自己去看了，自己有所体会了，再下这样的论断
+
+* > 究竟做什么并不重要, 为什么要做这件事 以及 如何做这件事才是最重要的
+    > - **why, and how** is more important than what
+
+
+* **Nature and markets**, not people,  are more honest when it comes to giving feedback
+
+
+#### notes on your work  
+* involve a open source project  
+
+
+##### notes on your career  -> **ample income** + **providing satisfaction**      
+* **TIME** I spend, and **a high savings rate** as the seeds of wealth is a requirement   
+
+* three Paths  -> financially independent  
+    - the high-income-producing, high-level leadership path  -> senior executives of public corporations  
+    - the self-employed, risk-taking, investing-in-my-business approach  -> owners/managers of successful businesses  
+    - the frugal, steady-as-she-goes journey  
+
+* Solution -> one matches between  **skills, abilities,characteristics and the environment/market**  
+    - **understanding of our own strengths and weaknesses**  
+        + **Recognize my strengths** and **creating goals** as a starting point  
+    - finding a career that **makes full use of one's competencies  like skills, abilities,characteristics**   
+    - if you love your job, if it provides you with **the life-style** and **level of freedom you desire**, then working is great   
+        + learn **what it's like to work** so you can check the field was of interest to you  
+        + whether survive in **the type of environments/market**    
+        + whether like **the work you are doing** 
+        + check what we liked and didn't like about work, what we are interested in and able to do  
+
+
+* **Margin** Required  
+    - **Money gives you the independence and options to choose**    
+    - **generating multiple sources of revenue**    
+        + **opportunities to expand revenue generation** and a setup for a future career move  
+        + or part-time career    
+        + **translate hobbies into income-producing activities**     
+            - **pursue other interests** that could lead to a new career or your own business  
+        + the needs of the future customers  
+            - "what do u need and what are your problems with current products?"
+
+
+#### reference 
+* [Steps of Problem Solving During Technical Interview](https://afteracademy.com/blog/steps-of-problem-solving-during-technical-interview)
+* [CS 9: Problem-Solving for the CS Technical Interview](https://web.stanford.edu/class/cs9/)

@@ -8,7 +8,11 @@ abstract: "About Cantonese"
 ---
 
 #### how to express  
+* 发音  
+   礼拜 lai5 baai3  
+   
 * 地道词语  
+   琴日 kam4 yat6 昨日   
    膊头 bok3 tau4 肩膀  
    骑咧 ke3 le3 古怪  
    仆街 puk1 gaai1  死定了  
