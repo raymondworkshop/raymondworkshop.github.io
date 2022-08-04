@@ -24,6 +24,7 @@ date: 2012-03-19
 
 
 * tech  
+    - [CS 61A: Structure and Interpretation of Computer Programs](https://cs61a.org/)  
     - [Great Ideas in Computer Architecture](https://cs61c.org/su22/)  
     - [Software Design](https://www.coursera.org/learn/software-design-development-life-cycle/home/week/1)
     - [Game Theory](https://www.coursera.org/learn/game-theory-1/home/week/1)  
