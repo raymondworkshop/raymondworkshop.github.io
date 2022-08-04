@@ -112,7 +112,13 @@ abstract: "Summary about the American Intonation"
     - **swhaddya /wa:dəyə/**
         + What do you ... ? -> 
   
+#### pronouncations  
+* Double contractions  
+    - I would have = I'd've  
+    - could not have = couldn't've  
 
+* reference  
+    - [American English Pronunciation Course](https://www.youtube.com/channel/UCknl1fWKjRImZEBDHBWyZWg/videos)
 
 #### Connected speech 
 * [Change vibration] [7]

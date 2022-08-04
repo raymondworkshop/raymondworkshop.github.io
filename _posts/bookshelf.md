@@ -14,15 +14,20 @@ date: 2012-03-19
 * Entrepreneur  
     - [Startup School](https://www.startupschool.org/curriculum) 
     - **[軟件工程之美](https://time.geekbang.org/column/article/82337)**  
-    - [Software Design](https://www.coursera.org/learn/software-design-development-life-cycle/home/week/1)
+
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
     - [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2021/home)
     - [Persuasive Communication](https://alison.com/topic/learn/103806/persuasive-communication-learning-outcomes)  
     - [Designing Your Career](https://learning.edx.org/course/course-v1:StanfordOnline+XDES300+1T2020/home)  
     - [Rhetoric: The Art of Persuasive Writing and Public Speaking](https://learning.edx.org/course/course-v1:HarvardX+AESTHINT15+1T2022/home)  
     - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
-    - [Microeconomics](https://learning.edx.org/course/course-v1:MITx+14.01x+3T2021/home)  
+
+
+* tech  
+    - [Great Ideas in Computer Architecture](https://cs61c.org/su22/)  
+    - [Software Design](https://www.coursera.org/learn/software-design-development-life-cycle/home/week/1)
     - [Game Theory](https://www.coursera.org/learn/game-theory-1/home/week/1)  
+    - [Microeconomics](https://learning.edx.org/course/course-v1:MITx+14.01x+3T2021/home)  
 
 
 * Writing  
@@ -49,15 +54,18 @@ date: 2012-03-19
 * [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
 * [Producing Open Source Software](https://producingoss.com/en/index.html)  
 
+
+* [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
+* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling  
+
+* [Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer  
+* [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan  
+* [The Long Tail](https://book.douban.com/subject/26584041/) by Chris Anderson  
+
 * [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  (9/10)    
 * [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  
 * [紅玫瑰yu与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲    
 
-* [Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer  
-* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling  
-* [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan  
-* [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
-* [The Long Tail](https://book.douban.com/subject/26584041/) by Chris Anderson  
 
 * [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  
 * [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti  

@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "[Updating] Notes on Emotional Intelligence"
+title: "Notes on Emotional Intelligence"
 date: 2022-03-11 
 comments: true
 categories: [ important, self, softskills, learning]
-abstract: "[Updating] Notes on Emotional Intelligence"
+abstract: "Master your emotions. No one will control you."
 ---
 
 #### Notes  
+* Master your emotions  
+    - No one will control you  
+    - Control your life  
 
 #### Intuition  
 * mindfulness  
