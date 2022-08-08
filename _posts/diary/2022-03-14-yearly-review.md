@@ -7,14 +7,37 @@ tags: [diary, review, important, learning, lesson]
 
 #### 2022-08-08  
 * TODO  
-    - Think about your next work  
+    - Think about your next step    
 
-* 搬完家  
-    - how to make full use of your new home  
-
-* 周二感觉到无助  
-    - 多学习 **细心** 和 **如何关爱别人**  
+    - more communication with Amos  
     
+    - **我们有能力，拣选要做的，我自己就去做**   
+
+    - 规划力  
+
+
+* DONE  
+    - love  
+        + make a good connection with ivy's families  
+
+    - 搬完家  
+        + how to make full use of it    
+
+    - hiking  
+        + OK, amos is so happy, and mary is a good communicator  
+
+* SELF  
+    - 周二感觉到无助  
+        + 朋友  
+        + 多学习 **细心** 和 **如何关爱别人**      
+
+    - 努力用在选择上， 前期投入大量工作  
+
+    - 改正 **因精神懒惰而带来的那种宿命情绪**，而导致给自己找主子  
+        +   **我们有能力，拣选要做的，我自己就去做**   
+        + "For the Spirit God gave us does not make us timid, but **gives us power, love and self-discipline**" - 提后1-7  
+        + 相信神的心，对神的话有信心，相信神的话(神不会错)  
+
 
 * 多沟通  
     - 试着 **理解或了解她**多一点， 同时也**了解她对我的看法**，了解这个人  
@@ -22,17 +45,15 @@ tags: [diary, review, important, learning, lesson]
             - fear  
             - 零和游戏下的过度竞争  
 
+        + love  
+
         + stay humble but know your worth  
 
     - **有问题一定要沟通**，**遇到问题千万别逃避不谈**  
         + 对方说出问题所在不要打断对方发言，**耐心听取对方的感受**；**沟通当中使对方明白自己**，同时**对对方的回馈重视他的发言**，从而化解误解  
 
-    - 个人价值和个人意识  
-        + 改正 **因精神懒惰而带来的那种宿命情绪**，而导致给自己找主子  
-
     - 明辨是非  
         + 主要看是否**有道理和事实**，无论是否别有用心，否则再干净也不行（道德评判）  
-
 
     - 是从“淘汰” 到 “成全”  
 
