@@ -137,6 +137,7 @@ abstract: "notes on the GOOD life - beauty and love "
 * **抽象的爱** - 爱上一个抽象的对象  
     - 爱自然， 爱世界  
 
+
 #### love 
 * romantic love 
 

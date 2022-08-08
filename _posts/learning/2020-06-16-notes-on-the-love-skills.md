@@ -17,6 +17,22 @@ categories: [notes, important, softskills, love, self, learning]
         + is she more likely to nag me, make demands on me,
         cause me drama, attention seek and drain my energy?  
 
+* **有问题一定要沟通**，**遇到问题千万别逃避不谈**  
+    - 对方说出问题所在不要打断对方发言，**耐心听取对方的感受**；
+    **沟通当中使对方明白自己**，同时**对对方的回馈重视他的发言**，从而化解误解  
+
+    - 共同**追求相同生活目标**  
+        + 使二人生活模式更加和谐 ，比如生育观，是否移民   
+
+    - 培养共同兴趣，或**互相欣赏对方的爱好**  
+        + 比如一起到工作坊体验，一起行山等等 
+
+    - **经常向对方表示感激**  
+        + 有助于促进彼此关系  
+
+    - 互相尊重  
+
+
 * more attractive to women  when you show them  
     - **competent**  
         + able to **do something well**  

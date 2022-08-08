@@ -10,6 +10,8 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 ### Goal -> be a **Great** man  
 * **Health, Love, and your mission**, in the order. Nothing else matters.  
 
+* The reason men are so obsessed with **achievement** is because **nobody gives a fuck about men**, including the majority of men. 
+
 * **optimize for independence** (without being helped or influenced by other people) rather than pay whenever you can in life  
     - if you have **independence and you're accountable** (**responsible for what they do** and must be able to **give a satisfactory reason** for it) on your output, as opposed to your input - that's the dream  
     - Take responsibility for your actions  
@@ -40,55 +42,15 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
     - friends  
         + **fewer authentic friends** > crowd of fair weather friends  
-        + don't expect fake people to be real with you  
+            - **intelligence**  
+            - **energy**  
+            - **integrity**  
+
         + the older & wise  
         + young future talent  
         + entrepreneurs  
-         
-    - **self-care**  
-        + INTP  
-            - **E**SF**P**  
+        + don't expect fake people to be real with you  
 
-        + Don't give away your emotions for free  
-            - **stop feeling responsible for** how they treat you   
-            - it is not your worth and not you  
-            
-        + **you don't need the approval of others**   
-            - don't have to explain yourself to someone who has never taken  
-            the time to get to know you  
-            - you can lead your life, don't limit yourself  
-
-        + assertive  
-            - **behave confidently** and is **not frightened to say what they want or believe**  
-            - never apologize to anyone for **being who you are**  
-            - once you've accepted your flaws, no one can use them against you  
-
-        + **learn to say no**  
-            - some people feel no shame when they take advantage of your kindness  
-        
-        + avoid toxic people  
-            - drain you  or try to control you  
-            - make you question your self worth  
-            - don't apologize for their shitty behavior  
-            - cause you a lot of harm and unhappiness over a long period of time  
-            - toxic people are usually people who **don't understand the concept of boundaries**  
-            - they manipulate you to get what they want  
-            - they always play the victiom    
-            - don't associate with people with **low self awareness**    
-
-        + Never trust a guy who is **insecure**     
-
-        + a happy person isn't someone who's happy all the time  
-            - he effortlessly interprets events in such a way that **they don't lose their innate peace**    
-            
-
-        + diss losers 
-            - lie to you  
-            - desrespect you  
-                + if people didn't respect without money, they won't respect you with it  
-            - use you or put you down  
-            - ones that complain, gossip, and play victim 
-        
 
 * intentional/**planned your actions**
     - step back if you find yourself **giving more energy than you receive**  
@@ -97,7 +59,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 * **Courage**  
     - Don't limit yourself, you can **lead your life**
     - If something happens, receive it firstly
-    - 果断
+    - 果断  
 
 * peace in mind
     - 主动去爱  
@@ -135,14 +97,15 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
 * Physical Factors  
 
-* SELF 
+* SELF  
+    - 办事干净利落  
     - **stop underestimating your value**  
 
     - **充分彰显自己， 决不贬低别人** 
-    - 讲诚信，规则
-    - 不极端， 不仇恨， 大爱无疆
-    - 滴水之恩，当涌泉相报
-    - **活一天开心一天**
+    - 讲诚信，规则  
+    - **大爱无疆**， 不极端， 不仇恨   
+        + 滴水之恩，当涌泉相报
+        + **活一天开心一天**  
     - **期望 做的更好一点**  
     - 思维向前 
 

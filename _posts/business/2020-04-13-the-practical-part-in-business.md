@@ -8,14 +8,12 @@ categories: [notes, learning, business, ideas, important, management]
 
 #### notes  
 * lessons    
+
     - **focus on developing and cultivating your plan**, when **you have your plan** and **you can feel it's right** for you  
         + what others are doing won't matter  
         + comparison dies when **your vision becomes clear**  
         + concentrate your energy on what you're doing    
 
-    - the ultimate hack to become rich, **own a business**   
-
-    - if you want to be wealthy, **spend your time earning, learning, or relaxing**; **oursource or ignore everything else**    
 
     - **Using creativity to solve problems** cannot be taught, and it's ultimately what free markets pay for  
         + **invest your creativity, skills and efforts into solving big problems** and you will receive big rewards  
@@ -101,7 +99,8 @@ categories: [notes, learning, business, ideas, important, management]
 * TODO  
     - programming from start <500line>  
     - frontend -> react  
-    - join/build **communities** you enjoy  
+    - join/build **communities** you enjoy   
+        + The community - their **energy, vision, outlook, and relentless love** for building and accelerating FAST.  
     - **build a network with winners or entrepreneurs**    
 
 * ENV

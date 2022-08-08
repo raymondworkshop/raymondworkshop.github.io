@@ -8,6 +8,9 @@ abstract: "Build professional  my career and my work"
 ---
 
 ##### **Strategies on career**  
+*  从执行层面，**到战术层面，再到战略层面的过程**    
+    - 执行层的工作经验达到一个临界点后，**所带来的价值增量就开始衰减**，
+    无法抵消年龄增长所带来的劣势，还有技术发展取代人力的趋势威胁  
 
 * an **exciting & meaningful mission** to help channelize energy & thoughts 
     - build a purpose  

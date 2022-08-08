@@ -13,6 +13,16 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
         + Nothing else matters  
         + 弄好事业，找对爱人  
 
+    - the ultimate hack to become rich, **own a business**   
+
+    - **Spend your time earning, learning, or relaxing**, 
+    **oursource or ignore everything else**.  
+
+    - Train your mind always to **think abundance**  
+        + wealthy -> **freedom & control**  
+        + middle class  -> comfort  
+        + poor  -> survival  
+
     - **focused on creating things that make you come alive**  and the right people will find you  
         + your family  
         + your purpose  
@@ -20,6 +30,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
         + girls  
 
     - Entrepreneur mindset  
+        + **a startup is a theory about something that market wants**, but doesn't yet exist.  
         + Entrepreneurhsip is about **leveling up yourself**. so you can **level up your business**.  
             - Business is **a microcosm of life**; we **rise in business to our level of personal development**    
             - Entrepreneurship isn't about the money, it's about **owning your own life**  
@@ -93,6 +104,8 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 
     - create like an artist, sell like an entrepreneur  
+        + if you create it for yourself, it's art.  
+        + if you create it for others, it's business  
 
 
 

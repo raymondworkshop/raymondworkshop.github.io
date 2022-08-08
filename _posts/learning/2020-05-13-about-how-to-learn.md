@@ -8,8 +8,16 @@ abstract: 'notes on Learning How to Learn'
 ---
 
 #### notes  
-* learn the first principle and basic firstly  
-then to explore the most interested part you feel  
+* **learn the first principle and basic** firstly  
+then to **explore the most interested part** you feel  
+
+* how  
+    - 阅读  
+    - 问人/交流  
+    - 学习先进经验  
+    - 知识迁移  
+    - 写作（思考，复盘，总结）  
+    - 边干边学  
 
 
 #### what to learn  

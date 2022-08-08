@@ -13,7 +13,7 @@ categories: [ softskills, learning, summary, management]
         + 揣摩上司心理并实时满足并不是拍马屁，而是**顺畅你的工作**  
 
 * **自信与主动**    
-    - “**别人比我们所以为的更喜欢我们**”  
+    - “**别人比我们所以为的 更喜欢我们**”  
     - 你问不问是你的事，别人答不答应是别人的事  
 
 * 创造价值，付出价值  
@@ -43,12 +43,12 @@ categories: [ softskills, learning, summary, management]
         + "I recommend this because X. My criteria/assumptions were A and B.
         The potential trade-off is Y, but seems manageable because Z. I vetted a range of options [options] and found [my recommendation] best fits our needs. "
 
-    - offer solutions and flag issues  
+    - **offer solutions and flag issues**  
         + "this is a problem. I suggest doing X."  
         + "This is a problem. I'm not sure how to solve, but wanted to flag it. my hunch is to monitor for now because X, but let me know if we should brainstorm what to do"
 
     - Turn complaints into opportunities  
-        + "This process isn't ideal because X. I'd like to update to Y process instead, which should be cheaper/faster/easier. Do you agree if I make the change this week?"  
+        + "This process isn't ideal because X. I'd like to update to Y process instead, which should be cheaper/faster/easier. **Do you agree if** I make the change this week?"  
 
     - use information hieratchy  
         + ""
@@ -85,6 +85,10 @@ categories: [ softskills, learning, summary, management]
 
 
 ### how to mange down  
+
+* your role as a manager is not to do the work yourself,even if you are the best at it, because that will only take you so far.  
+    - your role is to **improve the purpose, people, and process of your team** to **get as high a multiplier effect on your collective outcomes** as you can.  
+    
 
 #### Giving Feedback - in a way that was helpful and direct, but also kind and thoughtful  
 

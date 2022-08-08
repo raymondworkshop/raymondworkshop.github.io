@@ -1,16 +1,91 @@
 ---
 layout: post
-title: "Notes on Emotional Intelligence"
+title: "Master your Emotional Intelligence"
 date: 2022-03-11 
 comments: true
 categories: [ important, self, softskills, learning]
-abstract: "Master your emotions. No one will control you."
+abstract: "Master your emotions. and you can Control your life  ."
 ---
 
 #### Notes  
-* Master your emotions  
-    - No one will control you  
+* **自強不息，明辨是非**，你的前行就**充滿陽光和力量**   
+    - **因精神懒惰而带来的那种宿命情结**，而导致给自己找主子  
+    - 在集体中寻找个人价值 同时伺机破坏规则的狡写  
+
+* **Master your emotions**  
     - Control your life  
+    - No one will control you  
+
+    - **The world just reflects your own feelings back at you**. 
+        + Reality has no judgements  
+        + 对**现实的认知**是关键  
+
+* The fundamental **insecurity** - most ppl need **failth in something**  
+    - religion, givt, academia.  
+    - Few are **comfortable with decentralized systems**.  
+
+* **learn to say no**  
+    - some people feel no shame when they take advantage of your kindness 
+
+* avoid toxic people or losers  
+    - victim mentality  
+        + ones that complain, gossip, and play victim 
+
+    - **never returns** them, always wants favors   
+        + can't learn anything from them  
+        + drain you  or try to control you  
+        + they **don't understand the concept of boundaries**  
+        + low self awareness  
+
+    - put you down  
+        + feel happy when you lose  
+
+    - always lie to you  
+    - desrespect you  
+        + if people didn't respect without money, they won't respect you with it  
+
+    
+    - 說謊成性的偽君子，没有教养的叫骂者，偏执狂，不求上进的颓废着，误国误民的国师  
+    
+
+* **self-care**  
+    + INTP  
+        - **E**SF**P**  
+
+    + Don't give away your emotions for free  
+        - **stop feeling responsible for** how they treat you   
+        - it is not your worth and not you  
+            
+    + **you don't need the approval of others**   
+        - don't have to explain yourself to someone who has never taken  
+            the time to get to know you  
+        - you can lead your life, don't limit yourself  
+
+    + assertive  
+        - **behave confidently** and is **not frightened to say what they want or believe**  
+        - never apologize to anyone for **being who you are**  
+        - once you've accepted your flaws, no one can use them against you  
+
+    + **learn to say no**  
+        - some people feel no shame when they take advantage of your kindness  
+        
+    + avoid toxic people  
+        - drain you  or try to control you  
+        - make you question your self worth  
+        - don't apologize for their shitty behavior  
+        - cause you a lot of harm and unhappiness over a long period of time  
+        - toxic people are usually people who **don't understand the concept of boundaries**  
+        - they manipulate you to get what they want  
+        - they always play the victiom    
+        - don't associate with people with **low self awareness**    
+
+    + Never trust a guy who is **insecure**     
+
+    + a happy person isn't someone who's happy all the time  
+        - he effortlessly interprets events in such a way that **they don't lose their innate peace**    
+            
+
+
 
 #### Intuition  
 * mindfulness  

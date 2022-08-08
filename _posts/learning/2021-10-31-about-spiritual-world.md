@@ -49,6 +49,12 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning  
+* 相信神的心  
+    - "For the Spirit God gave us does not make us timid, but **gives us power, love and self-discipline**" - 提后1-7  
+    - **我们有能力，拣选要做的**，我自己就去做  
+
+    - 相信神的心，对神的话有信心，相信神的话，神不会错  
+
 * follow Jesus  
     - 罗马书6-10 “他死是向罪死了，只有一次； **他活是向神活着**”
 
