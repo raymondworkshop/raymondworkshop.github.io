@@ -65,8 +65,8 @@ date: 2012-03-19
 
 * [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  (9/10)    
 * [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  
+* [Why Has Nobody Told Me This Before](https://book.douban.com/subject/35777114/) by Dr. Julie Smith  
 * [紅玫瑰yu与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲    
-
 
 * [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  
 * [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti  
