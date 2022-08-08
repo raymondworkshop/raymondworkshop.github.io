@@ -6,15 +6,23 @@ tags: [diary, review, important, learning, lesson]
 ---
 
 #### 2022-08-08  
+* TODO  
+    - Think about your next work  
+
 * 搬完家  
     - how to make full use of your new home  
 
 * 周二感觉到无助  
     - 多学习 **细心** 和 **如何关爱别人**  
+    
 
 * 多沟通  
     - 试着 **理解或了解她**多一点， 同时也**了解她对我的看法**，了解这个人  
-        +  有时候太封闭自己  - fear  
+        +  有时候太封闭自己  
+            - fear  
+            - 零和游戏下的过度竞争  
+
+        + stay humble but know your worth  
 
     - **有问题一定要沟通**，**遇到问题千万别逃避不谈**  
         + 对方说出问题所在不要打断对方发言，**耐心听取对方的感受**；**沟通当中使对方明白自己**，同时**对对方的回馈重视他的发言**，从而化解误解  
@@ -26,8 +34,7 @@ tags: [diary, review, important, learning, lesson]
         + 主要看是否**有道理和事实**，无论是否别有用心，否则再干净也不行（道德评判）  
 
 
-* 教育 是从“淘汰” 到 “成全”  
-
+    - 是从“淘汰” 到 “成全”  
 
 
 #### 2022-08-01  
