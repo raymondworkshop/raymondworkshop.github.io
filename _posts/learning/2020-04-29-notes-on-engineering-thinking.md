@@ -48,8 +48,11 @@ categories: [learning, engineering, course, important, manager]
 * 分而治之的策略
     - 拆分 + 流程
 
-#### System Design and Software Engineering
+#### System Design and Software Engineering  
+* TODO  
+
 * reference  
+    - [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
     - [Software Design](https://www.coursera.org/learn/software-design-development-life-cycle/home/week/1)
     - [Engineering Software as a Service](https://book.douban.com/subject/24316596/) by Armando Fox / David Patterson  
     - [Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer 
@@ -58,7 +61,7 @@ categories: [learning, engineering, course, important, manager]
 ##### 500L
 * TODO 
 
-* reference
+* reference 
     - [System Design Interview An Insider’s Guide](https://book.douban.com/subject/35246417/)
     - [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
 

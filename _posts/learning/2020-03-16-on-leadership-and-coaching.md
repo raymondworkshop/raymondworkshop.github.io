@@ -288,19 +288,21 @@ categories: [softskills, coach, self, learning, leadership, important]
 
 
     - **接受对方的感受，不多加评论**，并**觉察对方的情绪**，进而进行交流  
-        + “我的方向感**也**很差“  
-        + ”**me neither**“
+        + “我的方向感**也**很差“   
+        + ”**me neither**“  
     
     - 体验： **体会他人的感受**  
         +  **细听之情感连结**    
-        + 尊重与确认对方的感受   
+        + 尊重与确认对方的感受    
+
     - inquiry about or **explore how the client perceives his/her world** 
         + 代入对方，**对方如何感知她的世界** 
 
 * 同情心 sympathy  
     - I **care**  about your feeling  
-    - 认知：**否定对方的感受**，但试图安慰并说服对方改变
+    - 认知：**否定对方的感受**，但试图安慰并说服对方改变  
         + 但 半强迫对方看到光明面  "**至少**..."  
+
     - 解决问题  
 
 
