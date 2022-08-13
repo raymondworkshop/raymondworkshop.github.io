@@ -1,13 +1,34 @@
 ---
 layout: post
-title: "Build my professional career and my work"
+title: "Build my professional career"
 date: 2022-07-28
 comments: true
-categories: [important, career]
+categories: [important, career, learning]
 abstract: "Build professional  my career and my work"
----
+---  
 
-##### **Strategies on career**  
+#### notes  
+
+* TODO  
+    - involve a open source project  
+
+
+#### Great ideas  
+* notes    
+    - building something enduring and whether it has **the potential to reward me optimally**  
+
+    -  I want to **read the rulebook and find my own optimization**.   I don’t want to know the established strategies.  
+
+    - “**小而美**”的组织结构，对应的是“零工经济”  （～10个人）  
+        + 个体对传统层级型企业的人身依附越来越小  
+
+    - on a relative basis, **opportunity is more abundant than ever**.    
+        + Technology and the rise of globalization have played a vital role in that.  
+
+* reference  
+    - [MODERN MEDITATIONS](https://www.readthegeneralist.com/briefings)
+
+#### **Strategies on career**  
 *  从执行层面，**到战术层面，再到战略层面的过程**    
     - 执行层的工作经验达到一个临界点后，**所带来的价值增量就开始衰减**，
     无法抵消年龄增长所带来的劣势，还有技术发展取代人力的趋势威胁  
@@ -59,9 +80,6 @@ abstract: "Build professional  my career and my work"
 
 * **Nature and markets**, not people,  are more honest when it comes to giving feedback
 
-
-#### notes on your work  
-* involve a open source project  
 
 
 ##### notes on your career  -> **ample income** + **providing satisfaction**      

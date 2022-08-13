@@ -41,6 +41,9 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - Being a **giving person** and **having boundaries** walk hand in hand  
 
     - friends  
+        + **对自己好的人**，将使我们终身受益  
+            - **帮助过你的人**，比一个你帮助过的人，更愿意帮你  
+
         + **fewer authentic friends** > crowd of fair weather friends  
             - **intelligence**  
             - **energy**  

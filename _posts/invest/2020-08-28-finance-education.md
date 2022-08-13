@@ -7,7 +7,12 @@ categories: [learning, invest, financial]
 abstract: "About financial planning and education"  
 ---
 
-#### notes 
+#### notes  
+* 投資 **對投資人好**的公司  
+    - 考慮 投資人的回報      
+    - 穩定分红 或 股票回购 （ 推高股價）   
+    - 不斷提高自己的利潤率   
+
 * understand wealth  
     - **financial independence** is more important than displaying social status  
 

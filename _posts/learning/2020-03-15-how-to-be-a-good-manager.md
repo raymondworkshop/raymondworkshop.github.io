@@ -86,6 +86,24 @@ categories: [ softskills, learning, summary, management]
 
 ### how to mange down  
 
+* 管理 - 激励员工   
+    - 理解员工     
+        + 以员工的诉求为核心  
+        + 在员工内心深处，不仅**关心赚钱谋生**，还**更希望被人尊重，能体现自己的价值**，能实在地体验完成工作后的卓越感  
+        + 每一位员工都有理想追求，**都想实现自我价值**，并在一些领域有所建树  
+
+    - 激励的终点，是让员工自我驱动  
+        + 用激励取代控制，让员工实现自我驱动 
+            - 很强的控制欲  
+            - 授权，支持，帮助  
+
+        + 激励 是发自内心的鼓舞，认可员工价值  
+
+    - **情境管理** 而非控制   
+        + 在员工日常决策中，領導不會替你做决定，他们会**利用自身信息与经验，帮你设定场景**  
+        + 只要**按场景假设**，感觉自己的决定符合公司利益，就可以放手去干，不用非要按领导意思来  
+
+
 * your role as a manager is not to do the work yourself,even if you are the best at it, because that will only take you so far.  
     - your role is to **improve the purpose, people, and process of your team** to **get as high a multiplier effect on your collective outcomes** as you can.  
     

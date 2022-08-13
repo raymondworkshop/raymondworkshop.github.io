@@ -7,7 +7,7 @@ categories: [learning, relationship, softskills, self, belief]
 abstract: "About Spiritual world - relationships with self, families, friends, others"
 ---
 
-#### TODO  
+#### notes   
 * bible reading 
     - 和耶稣基督的关系  
         + 只需要 **依照福音书的教诲，以耶稣为榜样，在尘世中生活，工作，这就是善行**；  
@@ -21,7 +21,7 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
     - 人文主义宗教 - 有理性的信仰  - 宽容  
         + 古典哲学追寻的**善**， 与**基督思想的神圣性**结合起来  
         + 耶稣基督的学说不需要批评， 它是**神圣的，福音的哲学**  
-        + **从耶稣基督的行为中体会它的神圣性**； 常人效法基督也可获得神圣性  
+        + 从耶稣基督的行为中**体会它的神圣性**； **常人效法基督也可获得神圣性**  
 
     - 约翰·加尔文的新教倫理  
         + **在尘世中尽自己的天职， 自强，自助，勤勉，守信，虔诚**  

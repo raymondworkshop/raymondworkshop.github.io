@@ -1,14 +1,15 @@
 
 ### notes 
 * ideas  
+    - Blog on what your learning  
+        + [Rust-101](https://www.ralfj.de/projects/rust-101/)  
+
     -  personal wiki system to help with the management of a repository of records which includes {daily logs}, notes on {various projects} and {curated pages of general knowledge}
         +  [https://wiki.xxiivv.com/site/home.html](https://wiki.xxiivv.com/site/about.html)  
 
-* TODO  
-     
-    - Tech stack 
-        + Aws S3 with Docker 
-        + Our web UI is built in React.js, Jinja, and SCSS, and served by Python Flask through a GraphQL API. The bulk of the engineering work is in systems to fetch and process large amounts of data, e.g. from the Twitter API; we use Celery for this asynchronous task work. The persistent layer is backed by PostgreSQL with SQLAlchemy/Alembic as the ORM. We use staging environments and CI to ensure we continue to deliver a consistent user experience. We are hosted on Render and AWS.
+* Tech stack   
+    - Aws S3 with Docker 
+    - Our web UI is built in React.js, Jinja, and SCSS, and served by Python Flask through a GraphQL API. The bulk of the engineering work is in systems to fetch and process large amounts of data, e.g. from the Twitter API; we use Celery for this asynchronous task work. The persistent layer is backed by PostgreSQL with SQLAlchemy/Alembic as the ORM. We use staging environments and CI to ensure we continue to deliver a consistent user experience. We are hosted on Render and AWS.
 
 * a search feature
     - search docs by word, name, date 

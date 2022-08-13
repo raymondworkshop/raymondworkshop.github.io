@@ -6,6 +6,7 @@ comments: true
 categories: [learning, summary, notes, self]
 abstract: "!Self Reflection"
 ---
+
 #### **自己的长处是什么** - 回馈分析法 feedback analysis
  * build on the strengths : write down the outcome you expect and compare results
 
@@ -34,7 +35,7 @@ abstract: "!Self Reflection"
 
 #### 自己的工作方式是怎样的？ - how do I work? - 自己平时是怎样把事情做成的
  * **读者型（习惯阅读信息）** 还是 听者型（习惯听取信息）
- *
+ 
 
 #### 自己如何学习
   * 从**实干**中学习
@@ -105,7 +106,6 @@ abstract: "!Self Reflection"
 
     Also, life is not only about work, it’s also about your relationships with your family and romantic partner, friendship, and self-interest. Life is everything and if you don’t balance well you won’t be happy.
 
-  *
 
 #### 我该做什么贡献
 
@@ -133,13 +133,11 @@ abstract: "!Self Reflection"
 
 #### 认知
    * 富人思维
-      - *自主催化，闭环的能力* -> 独立的内生循环， 进而可以自己解放出来
+      - **自主催化，闭环的能力** -> 独立的内生循环， 进而可以自己解放出来
 
 
 #### 管理后半生
    * 发展第二职业
-
-   *
 
 
 
