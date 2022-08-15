@@ -9,7 +9,10 @@ tags: [diary, review, important, learning, lesson]
 * TODO  
     - 能量提升  
         + **Start your day before the SUN**  - you can feel like a winner  
-        + *内心戏* -> 叫停内心戏的关键在于**觉察**，一旦觉察在内心编故事，**赶快叫停止损**  
+        + 内心戏 
+            - 叫停内心戏的关键在于**觉察**，一旦觉察在内心编故事，**赶快叫停止损**  
+        + 压力  
+            - **写下来，辩真伪**；  伪->不管；  真- 定解决方案  
 
     - **努力用在选择上**, 前期投入大量工作  
         +  **take calculated risks**, be willing to work harder than anyone else  
@@ -17,6 +20,8 @@ tags: [diary, review, important, learning, lesson]
             + 真诚 - 是**体谅自己的同时 也体谅对方**， 而不是过多付出  
             - choose your friends  
                 + stop feeling guilty for choosing peace over people  
+
+    - **invest your creativity, skills and efforts into solving big/hard problems** and you will receive big rewards  
 
 * SELF  
     - Master your emotions  

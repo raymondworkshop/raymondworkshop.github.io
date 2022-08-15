@@ -8,37 +8,6 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 ---
 
 ### TODO  
-* 信条  
-    - health  
-        - emotional health  
-        - physical health  
-
-    - 自信 - **全然接纳真实的自我**  
-        - stay humble but know your worth  
-        - know your strength and weaknesses,and evolve your mindset  
-            + admit to what you fears are, and facing them  
-        - Be open to growth, feedback & learning  
-        - 乐观  
-    
-    - 选择 -  **努力用在选择上**  
-        - **take calculated risks**, be willing to work harder than anyone else  
-        - put your energy into the right people  
-        - self-care  
-            + stop feeling guilty for choosing peace over people 
-            + **觉察他人对自己的影响，同时分辨出自己内心的声音**，同时做出自己相应的选择  
-
-    - ownership    
-        - **optimize for independence** (without being helped or influenced by other people) rather than pay whenever you can in life  
-        - accountability (**responsible for what they do** and must be able to **give a satisfactory reason** for it) on your output  
-
-    - 创造力 + 领导力  
-        - invest your creativity, skills and efforts into solving big/hard problems** and you will receive big rewards  
-        - if the work doesn't require **creativity**, **delegate it, automate it, or leave it**  
-        - it's **leveraged versus un-leveraged**    
-            - forget rich versus poor, white-collar versus blue  
-            - **code, media,  capital, labor**    
-    
-
 * **organize your day around whatever your personal "Big 3 or 4" priorities**  - worth doing each day  
     - mission life motion - work  
         + build my businesses ventures 
@@ -47,19 +16,52 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + exercise/gym time, diet, & overall health  
         + food, high protein, weight  
 
-    - my dating (sex life) & social life  
+    - my families & social life  
         + relationships, inner circle & social networks  
 
 
-* **optimize for independence**  (**without being helped or influenced** by other people) rather than pay whenever you can in life  
-    -   if you have **independence and you're accountable** (**responsible for what they do** and must be able to **give a satisfactory reason** for it) on your output, as opposed to your input - that's the dream  
-    - Think for yourself - make your own decisions and form your own opinions, without depending on others  
-    - think of others - have that opinion about him or her  
- 
-* **Learn to enjoy your life while solving them**  
-    - you will always have problems  
-    - 不妨看看巴菲特和芒格的生活方式  
-        + **每天做自己喜欢的事，任何情况下都不改乐观，消费随意也不放纵**    
+* **信条**    
+    + health - energy  
+        - physical health  
+
+        - emotional health  
+            + Master your emotions  
+                - Don't give away your emotions for free  
+            + 压力  
+                - **写下来，辩真伪**；  伪->不管；  真- 定解决方案  
+                - 内心戏 - 叫停内心戏的关键在于**觉察**，一旦觉察在内心编故事，**赶快叫停止损**  
+
+    + 自信 - **全然接纳真实的自我**  
+        - stay humble but know your worth  
+        - know your strength and weaknesses,and evolve your mindset  
+            + admit to what you fears are, and facing them  
+        - Be open to growth, feedback & learning  
+        
+        - Learn to **enjoy your life while solving them**      
+            - you will always have problems  
+            - 不妨看看巴菲特和芒格的生活方式  
+                + **每天做自己喜欢的事，任何情况下都不改乐观，消费随意也不放纵**    
+    
+    + 选择 -  **努力用在选择上**  
+        - **take calculated risks**, be willing to work harder than anyone else  
+        - put your energy into the right people  
+        - self-care  
+            + stop feeling guilty for choosing peace over people 
+            + **觉察他人对自己的影响，同时分辨出自己内心的声音**，同时做出自己相应的选择  
+            + 真诚 - 是**体谅自己的同时 也体谅对方**， 而不是过多付出  
+
+    + 创造力 + 领导力  
+        - invest your creativity, skills and efforts into solving big/hard problems** and you will receive big rewards  
+        - if the work doesn't require **creativity**, **delegate it, automate it, or leave it**  
+        - it's **leveraged versus un-leveraged**    
+            + forget rich versus poor, white-collar versus blue  
+            + **code, media,  capital, labor**    
+
+    + ownership    
+        - **optimize for independence** (without being helped or influenced by other people) rather than pay whenever you can in life  
+        - accountability (**responsible for what they do** and must be able to **give a satisfactory reason** for it) on your output, as opposed to your input  
+
+
 
 ### Goal -> be a **Great** man  
 * **Health, Love, and your mission**, in the order. Nothing else matters.  
