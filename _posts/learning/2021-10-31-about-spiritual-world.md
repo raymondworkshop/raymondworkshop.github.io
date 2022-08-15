@@ -49,6 +49,17 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning  
+* 因信称义  
+    - 领受神的话  
+    - **对耶和华的 信心慢慢增加**  
+        + “亚伯兰信耶和华，耶和华就 以此为他的义” 15-6
+        + “因为耶和华听见了你的苦情” 16-11
+        + 耶和华的使者对她说“你回到你主母那里，服在她手下”；
+        又说“我必使你的后裔及其繁多，甚至不可胜数” 16-9，10  
+
+        + “亚伯来，你不要惧怕，**我是你的盾牌**，必大大地赏赐你” 15-1 
+        "Do not be afraid, Abram. **I am your shield**, your very great reward."  
+
 * 相信神的心  
     - "For the Spirit God gave us does not make us timid, but **gives us power, love and self-discipline**" - 提后1-7  
     - **我们有能力，拣选要做的**，我自己就去做  

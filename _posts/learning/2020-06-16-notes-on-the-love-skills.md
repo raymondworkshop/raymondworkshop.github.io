@@ -17,6 +17,8 @@ categories: [notes, important, softskills, love, self, learning]
         + is she more likely to nag me, make demands on me,
         cause me drama, attention seek and drain my energy?  
 
+    - **你和谁在一起最轻松自然，无拘无束**，谁就最爱你  
+
 * **有问题一定要沟通**，**遇到问题千万别逃避不谈**  
     - 对方说出问题所在不要打断对方发言，**耐心听取对方的感受**；
     **沟通当中使对方明白自己**，同时**对对方的回馈重视他的发言**，从而化解误解  

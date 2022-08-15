@@ -4,6 +4,8 @@
     - Blog on what your learning  
         + [Rust-101](https://www.ralfj.de/projects/rust-101/)  
 
+    - markdown -> slides/pdf  
+
     -  personal wiki system to help with the management of a repository of records which includes {daily logs}, notes on {various projects} and {curated pages of general knowledge}
         +  [https://wiki.xxiivv.com/site/home.html](https://wiki.xxiivv.com/site/about.html)  
 

@@ -125,6 +125,9 @@ abstract: "like listening, persuation ... "
 
 
 ##### Effective Communication  
+* Clear communication is so attractive.
+I love people who make things clear to me and don't just secretly expect, assume or hope.
+
 * **Talk slow** when you speak, and **smile** during every interaction  
 
 * seek to **understand the other person's perspectives**  instead of judging them definitely  

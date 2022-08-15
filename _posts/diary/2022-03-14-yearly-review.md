@@ -5,11 +5,137 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-08-15  
+* TODO  
+    - 能量提升  
+        + **Start your day before the SUN**  - you can feel like a winner  
+        + *内心戏* -> 叫停内心戏的关键在于**觉察**，一旦觉察在内心编故事，**赶快叫停止损**  
+
+    - **努力用在选择上**, 前期投入大量工作  
+        +  **take calculated risks**, be willing to work harder than anyone else  
+        + self-care  
+            + 真诚 - 是**体谅自己的同时 也体谅对方**， 而不是过多付出  
+            - choose your friends  
+                + stop feeling guilty for choosing peace over people  
+
+* SELF  
+    - Master your emotions  
+        + everyone makes mistakes, 
+        what people want to see is **how you respond to it and improve**  
+        
+        + **觉察他人对自己的影响，同时分辨出自己内心的声音**，同时做出自己相应的选择  
+
+        + Self care 
+            - stop feeling guilty for choosing peace over people  
+
+    - 自信是**对自己有合适，客观的看法**  - **全然接纳真实的自我**  
+        + 我知道自己大概做到了什么程度，这时别人对我们的评价很重要; 但一旦**自己有了概念**，就需要**从外界认可带来的自信过渡到内生的自我接纳和自信心**  
+            - 从寻求认可 到**寻求支持**， “**我想做的事是这样，你可不可以支持我**”  
+            - **assertive**, 有自己的东西； 有需要就一定会说出来，把他的要求说出来       
+
+        + **stay humble but know your worth**  
+
+        + **focus on what you want** rather than what you don't want
+
+        + **Don't over-apologize** unless you did something wrong  
+            + **express your sympathy (understanding or caring) or regret** without actually apologizing  
+            + "**I hope this hasn't been too much trouble**" not "I'm sorry"  
+
+        + act **like a boss**  
+
+    -  **optimize for independence**  (**without being helped or influenced** by other people) rather than pay whenever you can in life  
+        + if you have **independence and you're accountable** (**responsible for what they do** and must be able to **give a satisfactory reason** for it) on your output, as opposed to your input - that's the dream  
+
+        +  **Accountability** is something you can take on immediately  
+            - **find things that interest you and allow you to take on accountability**  
+            - **you can put yourself in a position to learn quickly**  
+            - you **offer to help** and **become the owner's solving their fundraising problem**    
+            - **you build specific knowledge by taking accountability for things** that other people don't know how to do  
+                + people will line up behind you, and the leverage will come 
+                + you have to put yourself in positions where you can **exercise judgement**  
+
+        + **Take responsibility for your actions**  
+            - **if you do, own up to it**; Finish what you start  
+            - **if you can do something by yourself**, don't ask for help  
+            - **you should ask for help when you really need it**. This shows people that **you're humble and know your limits**. It also shows that **you're open to being vulnerable with others**. this will gain people's respect.  
+
+    -  **invest your creativity, skills and efforts into solving big/hard problems** and you will receive big rewards  
+        + if the work doesn't require **creativity**, **delegate it, automate it, or leave it**  
+        + it's **leveraged versus un-leveraged**    
+            - forget rich versus poor, white-collar versus blue  
+            - **code, media,  capital, labor**    
+
+        + **努力用在选择上**， **前期投入大量工作**  
+
+
+* 积极沟通   
+    - **有问题一定要积极沟通**  
+        + 对方说出问题所在，**耐心听取对方的感受**；
+        **沟通当中使对方明白自己**，同时对对方的反馈**重视他的感受和发言**，从而化解误会  
+
+        + 遇到问题千万不要逃避  
+            - 逃避责任，和恐惧  -> 害怕受罚/被人抛弃    
+            - 零和游戏的过多竞争  
+
+        + **talk to smart colleagues**  
+            - 仔细挑选游戏玩家 - **努力用在选择上**  
+                + 极端思维  
+                + 不要玩零和游戏  
+            -  Drop those who are **constantly judging you**   
+                + get away from people to take you down  
+
+    - **理解或了解对方的想法**，同时也**了解她对我的看法**  
+        + 有时候太封闭自己  
+        + fear  
+        + 零和游戏下的过度竞争  
+
+
+* social skills  
+    - **保持和大圈子不脱节**，**小圈子真心聊得来**    
+        + 不需要削尖脑袋挤入最主流， 自己找到舒适的小圈子，和最主流和平相处即可  
+
+* love
+    - 两个人在一起久了，最终还是**两个脑子和心灵的交流**  
+        + **能聊得来，思想意识在类似的水平上**  
+        + you are hot as well, that's a bonus  
+    
+    - **喜欢对方的外形**，**更看重对方的精神世纪**  
+        + 眷恋她的身体，**眷恋她的灵魂**  
+
+    - **理解和支持对方**  - 心灵导师  
+        + 眼神和动作**传达支持的信息**  
+            - “are you ok?”  
+            - "what's up?"  
+        + 让她明白这些造成压力的事件并**没那么可怕**  
+            - 明确帮忙分析  
+        + 情感支持  
+            - 需要**被理解和被认可**，就算有错，也别着急责怪他们  
+
+        + **根据对方需求调整帮助**  
+            - 要明白对方真正想要的帮助是什么  
+
+        + close enough  
+            - **liten to her for 5 minutes**,**tell her it's going to be ok**, then change the topic 
+            - listen to her and **add in your thoughts**;don't try to fix her problems, **understand them**  
+                + when **a trait or feeling** comes up, that **you agree with**, **tell her**    
+                + she will feel a 'connection' with you and her interest will rise  
+
+    - a strong personality  
+        + **爱自己**, **把最好的自己送给爱人**  
+        + when he speaks, he speaks with passion  
+        + when he listens, he makes me feel like i am the only one in his world  
+        
+    - women  
+        + women **wants to add value to his life**, not be the centre of his world  
+        + women want to **feel the exception, unique**  
+        + men want to **feel needed**  
+
+
 #### 2022-08-08  
 * TODO  
     - Think about your next step    
 
-    - more communication with Amos  
+    - more communication with Amon  
     
     - **我们有能力，拣选要做的，我自己就去做**   
 
@@ -24,7 +150,7 @@ tags: [diary, review, important, learning, lesson]
         + how to make full use of it    
 
     - hiking  
-        + OK, amos is so happy, and mary is a good communicator  
+        + OK, amon is so happy, and mary is a good communicator  
 
 * SELF  
     - 周二感觉到无助  
@@ -203,7 +329,7 @@ Repeat and refine until you create your desired lifestyle.
 
 * self-caring  
     - **Don't give away your emotions for free**  
-        + **stop feeling responsible for** how they treat you;it is not your worth and not you   
+        + **stop feeling responsible for** how they treat you; it is not your worth and not you   
         + choose the non-emotional response to any given situation  
 
     - **用事实和逻辑**去看问题  

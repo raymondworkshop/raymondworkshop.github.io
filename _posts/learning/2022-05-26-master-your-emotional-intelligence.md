@@ -8,24 +8,33 @@ abstract: "Master your emotions. and you can Control your life  ."
 ---
 
 #### Notes  
-* **自強不息，明辨是非**，你的前行就**充滿陽光和力量**   
-    - **因精神懒惰而带来的那种宿命情结**，而导致给自己找主子  
-    - 在集体中寻找个人价值 同时伺机破坏规则的狡写  
-
 * **Master your emotions**  
     - Control your life  
-    - No one will control you  
+        + No one will control you  
+
+    - **express emotions, but they don't lead you**    
+        + your emotions no longer dictate your actions  
+
+    - **自強不息，明辨是非**，你的前行就**充滿陽光和力量**   
+        +  **因精神懒惰而带来的那种宿命情结**，而导致给自己找主子  
+        + 在集体中寻找个人价值 同时伺机破坏规则的狡写  
 
     - **The world just reflects your own feelings back at you**. 
         + Reality has no judgements  
         + 对**现实的认知**是关键  
 
-* The fundamental **insecurity** - most ppl need **failth in something**  
-    - religion, givt, academia.  
-    - Few are **comfortable with decentralized systems**.  
+    - everyone makes mistakes, what people want to see is **how you respond to it and improve**    
 
-* **learn to say no**  
-    - some people feel no shame when they take advantage of your kindness 
+* 识别真正消耗能量的压力来源
+    - The fundamental **insecurity** - most ppl need **failth in something**  
+        + religion, givt, academia.  
+        + Few are **comfortable with decentralized systems**.  
+    
+    - *内心戏* -> 叫停内心戏的关键在于**觉察**，一旦觉察在内心编故事，**赶快叫停止损**  
+
+    - 压力
+        + **写下来，辩真伪**；  伪->不管；  真- 定解决方案  
+
 
 * avoid toxic people or losers  
     - victim mentality  
@@ -55,6 +64,10 @@ abstract: "Master your emotions. and you can Control your life  ."
     + Don't give away your emotions for free  
         - **stop feeling responsible for** how they treat you   
         - it is not your worth and not you  
+    
+    * **learn to say no**  
+        - some people feel no shame when they take advantage of your kindness  
+        - **take calculated risks**, and be willing to work harder than anyone else  
             
     + **you don't need the approval of others**   
         - don't have to explain yourself to someone who has never taken  
@@ -84,8 +97,6 @@ abstract: "Master your emotions. and you can Control your life  ."
     + a happy person isn't someone who's happy all the time  
         - he effortlessly interprets events in such a way that **they don't lose their innate peace**    
             
-
-
 
 #### Intuition  
 * mindfulness  

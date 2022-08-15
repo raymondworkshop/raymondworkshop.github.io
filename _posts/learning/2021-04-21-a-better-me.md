@@ -7,6 +7,60 @@ categories: [learning, self, insight, important]
 abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great"
 ---
 
+### TODO  
+* 信条  
+    - health  
+        - emotional health  
+        - physical health  
+
+    - 自信 - **全然接纳真实的自我**  
+        - stay humble but know your worth  
+        - know your strength and weaknesses,and evolve your mindset  
+            + admit to what you fears are, and facing them  
+        - Be open to growth, feedback & learning  
+        - 乐观  
+    
+    - 选择 -  **努力用在选择上**  
+        - **take calculated risks**, be willing to work harder than anyone else  
+        - put your energy into the right people  
+        - self-care  
+            + stop feeling guilty for choosing peace over people 
+            + **觉察他人对自己的影响，同时分辨出自己内心的声音**，同时做出自己相应的选择  
+
+    - ownership    
+        - **optimize for independence** (without being helped or influenced by other people) rather than pay whenever you can in life  
+        - accountability (**responsible for what they do** and must be able to **give a satisfactory reason** for it) on your output  
+
+    - 创造力 + 领导力  
+        - invest your creativity, skills and efforts into solving big/hard problems** and you will receive big rewards  
+        - if the work doesn't require **creativity**, **delegate it, automate it, or leave it**  
+        - it's **leveraged versus un-leveraged**    
+            - forget rich versus poor, white-collar versus blue  
+            - **code, media,  capital, labor**    
+    
+
+* **organize your day around whatever your personal "Big 3 or 4" priorities**  - worth doing each day  
+    - mission life motion - work  
+        + build my businesses ventures 
+
+    - my fitness in my life  
+        + exercise/gym time, diet, & overall health  
+        + food, high protein, weight  
+
+    - my dating (sex life) & social life  
+        + relationships, inner circle & social networks  
+
+
+* **optimize for independence**  (**without being helped or influenced** by other people) rather than pay whenever you can in life  
+    -   if you have **independence and you're accountable** (**responsible for what they do** and must be able to **give a satisfactory reason** for it) on your output, as opposed to your input - that's the dream  
+    - Think for yourself - make your own decisions and form your own opinions, without depending on others  
+    - think of others - have that opinion about him or her  
+ 
+* **Learn to enjoy your life while solving them**  
+    - you will always have problems  
+    - 不妨看看巴菲特和芒格的生活方式  
+        + **每天做自己喜欢的事，任何情况下都不改乐观，消费随意也不放纵**    
+
 ### Goal -> be a **Great** man  
 * **Health, Love, and your mission**, in the order. Nothing else matters.  
 
@@ -19,7 +73,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + **if you can do something by yourself**, don't ask for help  
         + **you should ask for help when you really need it**. This shows people that **you're humble and know your limits**. It also shows that **you're open to being vulnerable with others**. this will gain people's respect.  
 
-* **focus on yourself firstly** and stop worrying about tomorrow
+* **focus on yourself firstly** and stop worrying about tomorrow - self care  
     - **body and mental  Health**
         + keep you in shape
         + keep clean/neat
@@ -32,9 +86,6 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - families
         + **love**    
 
-    - **evolve your mindset**
-        +  Be open to growth, feedback & learning
-        + **Growth starts when you stop taking criticism personally**
 
     - **update your knowledge and keep you creative**  
 
@@ -54,6 +105,10 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + entrepreneurs  
         + don't expect fake people to be real with you  
 
+        + 当我们不再愿意和拒绝改变的老朋友老同事来往时，我们会有负罪感。  
+            - **这是成长的代价**，也是成长的标志  
+            - **在路途中寻找同行者**，而非拽着人一起上路  - 选择  
+
 
 * intentional/**planned your actions**
     - step back if you find yourself **giving more energy than you receive**  
@@ -67,7 +122,11 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 * peace in mind
     - 主动去爱  
     - 自立起来  
-    - 选择人生  
+
+    - **选择人生**  
+        + "**勿以小恶而忘大善**"的做人做事态度  
+        + 美国人感情谈的少，利益谈的多，容易心平气和地就事论事  
+
     - 要能分辨出，  **觉察他人对自己的影响， 同时分辨出自己内心的声音**
     **同时做出自己相应反应的选择**  
 
@@ -91,11 +150,15 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + pride  
         + worried  + unsettled, upset
 
+    - Self care -  **Don't give away your emotions for free**   
+        + **stop feeling guilty for choosing peace over peole**, you are the first   
+        + **stop feeling responsible for** how they treat you   
+        + it is not your worth and not you  
+    
     - **complementary differences**    
         + enable me to love myself  
         + help me reach beyond my limitations 
         + confront my unresolved issues  
-
 
 
 * Physical Factors  
@@ -106,41 +169,81 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
     - **充分彰显自己， 决不贬低别人** 
     - 讲诚信，规则  
+
     - **大爱无疆**， 不极端， 不仇恨   
         + 滴水之恩，当涌泉相报
         + **活一天开心一天**  
+
     - **期望 做的更好一点**  
-    - 思维向前 
 
     - Never be a victim when you suffer  
         + you are **the master of your fate**   
         + you can captain your soul  
 
 
-#### TO IMPROVE  
-* organize your day around whatever your personal "Big 3 or 4" priorities  - worth doing each day  
-    - mission life motion - work  
-        + build my businesses ventures 
-
-    - my fitness in my life  
-        + exercise/gym time, diet, & overall health  
-        + food, high protein, weight  
-
-    - my dating (sex life) & social life  
-        + relationships, inner circle & social networks  
-
-
-* **Start your day before the SUN**  - you can feel like a winner  
-    -  look good, and feel good 
-
-    - relax after 9:00pm at night  
+#### Practice Confidence  - **全然接纳真实的自我**  
+* 自信是**对自己有合适，客观的看法**  
+    - **self-respect is true confidence**  
+        + **不要害怕去争取能让你的生活和自己变得更好的东西**  
+        + **being assertive in a polite, courteous, and respectful way**  
+            -  如果你有一个好想法，就说出来   
+        + **Take responsibility for your actions**  
+            - **If you do, own up to it**  
+            - **if you can do something by yourself**, don't ask for help.  
+            - **you should ask for help when you really need it**.  This shows people that **you're humble and know your limits**. It also shows that **you're open to being vulnerable with others**. this will gain people's respect.  
 
 
-* Know yourself, and improve your mindset  
-    - **know your strengths and weaknesses**  
-    - admit to what you fears are, and facing them  
-    - reading  
- 
+    - 我知道自己大概做到了什么程度，这时别人对我们的评价很重要;
+    但一旦**自己有了概念**，就需要**从外界认可带来的自信过渡到内生的自我接纳和自信心**  
+
+    - **全然接纳真实的自我**    
+        + 我当然会努力， 但努力的原因不是你告诉我满分是100分，我只有80分，
+        而是 **因为我知道自己可以做得更好**   
+
+    - **寻求支持， 自己争取，不依赖别人**      
+        + 从寻求认可 到**寻求支持**， “**我想做的事是这样，你可不可以支持我**”  
+        + **有主见**， 不依赖别人， 要自己争取   
+        + **assertive**, 有自己的东西； 有需要就一定会说出来，把他的要求说出来  
+
+    -  stay humble but know your worth  
+
+* **Don't over-apologize** unless you did something wrong  
+    - **express your sympathy (understanding or caring) or regret** without actually apologizing  
+        + "**I hope this hasn't been too much trouble**" not "I'm sorry"  
+
+    - act **like a boss**  
+        + Took a while but you can deal  
+            - "**Thanks for your patient**" not "sorry for the delay"  
+        + I made a small error  
+            - "**Thanks for letting me know**" not "sorry my bad totally missed that"  
+        + Yeah, You are welcome  
+            - "**always happy to help**"  not "no worry"  
+        + my schedule matters to  
+            - "**could you do** ...?"  not "what works best for you?"  
+        + I know what I'm doing  
+            - "**It'd be best if we** ..."  not "I think maybe we should ..."  
+        + working this is hard  
+            - "**It'd be easier to discuss in person**" not "rewriting email for 40 minutes"  
+        + Do you get it?  
+            - "**Let me know if you have questions**" not "Hopefully that makes sense?"  
+        + I have an appointment  
+            - "**I will need to leave for at** ..."  not "Could I possibly leave early"  
+        + where the heck are we on this  
+            - "**When can I expect an update**"  not "just wanted to check in"  
+
+* **catch yourself** when you're good  
+    - stop negative self-talk  
+
+* Drop those who are **constantly judging you**   
+    - get away from people to take you down  
+
+* Expect success  
+    - **focus on what you want** rather than what you don't want  
+
+* take risks  
+    - focus on your growth  
+
+
 
 #### self-analysis
 
@@ -179,24 +282,22 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + **Spiritual**, but not religious
             - like **self-identify**, not communal or organizational dimensions
 
-
     - **your demerits**
         + 老是 follow 别人的心态
             - be confident
             - 加强自己的 交流能力
 
-        + not a good listerner,  not outgoing, not cheerful, or forgiving
-        + 和人打交道的能力
-        + like daydreams, and less actions
+        + 和人打交道的能力  
+
+        + like daydreams, and less actions 
+
         + **过于追逐理念， 而失去了具体的生活体验**
             - 容易陷入 道德控诉， 以及 布道者和控诉者的口水陷阱
             - **多问怎么做的问题**， 少问 为什么要做的问题
 
-
         + 买的是 理念/idea, 而不是**利益**
             - 不太贴地
             - **在商言商**
-
 
         + **过于追求平等， 或者 过于给予别人平等**， 而不是公平
             - 是人格平等， 而**不是 物质/利益 平等**
@@ -207,11 +308,15 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         + **过于 同情底层 而忽视 上层 和自己** 
             - 这一点受到父亲的影响  
                 + 因为 发觉 自己比较容易 受到 底层的人的 尊重  
-                + 注意保护自己
-            - 忽视了**底层的“恶”**， 只看到上层的“假”
+                + 注意保护自己  
+                    - self-care  
+                + **帮助别人是 帮助对方自立**，而不是和对方一样  
+
+            - 忽视了**底层的“恶”**， 只看到上层的“假”  
+
             - 只 同情 底层，或者 想得到底层人的尊敬 或领导
-                + 其实底层的人比较weaker， 所以比较势利
-                + 应该是 **同情 善良的人**， 而不是 经济意义上的 底层
+                + 其实底层的人比较weaker， 所以比较势利  
+                + 应该是 **同情 善良的人**， 而不是 经济意义上的 底层  
            
         +  老爸 还是受法家的影响 
             - 老家的人 过于 相信 国家， 过于保守  
@@ -262,6 +367,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
         + TOIMPROVE -　和人打交道的能力
 
+
 * **the fear of Poverty**
     - indifference
         + **lack of ambition**
@@ -274,7 +380,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
     - should seek the company of thouse who demand and receive riches
 
-* money makes difference
+* money makes difference  
     - you could be independence, self-respect and manhood
 
 * **build a wall** against negative influences in your own mind
@@ -293,8 +399,8 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     - what do u most **desire**? do u intend to acquire it?
         + **how much time daily do u devote to acquiring it**?
 
-#### stronger - Monk Mode
 
+#### stronger - Monk Mode  
 * **putting your own needs first**
     - wise men always please themselves firstly, then **give the woman the option to accept how he does things**
         + women choose to do things his way
@@ -306,8 +412,8 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 * reference
     - [MONK MODE: STRONGER, SMARTER, MORE REFINED](https://illimitablemen.com/2014/04/13/monk-mode/)
 
-#### The quest for power
 
+#### The quest for power  
 * **man must poss power** - high-value persons -> being better than other people
     - require self-discipline, motivation, **selfishness, no qualms in taking power from others**
     - self-improvement, actualisation, enrich yourself, and improve your skillsets

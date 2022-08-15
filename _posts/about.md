@@ -3,7 +3,7 @@ title: About
 date: 2012-03-19
 ---
 
-Hi, my name is Raymond ZHAO Wenlong, a Computer Engineer & Scientist based in Hong Kong NOW.
+Hi, my name is Raymond ZHAO Wenlong, a Computer Engineer & Scientist based in Hong Kong.
 
 I am a RA at Chinese University of Hong Kong. Before this, I was technical officer in HSUHK, RA in City University of Hong Kong and Hong Kong Baptist University, and Software Engineer in Alcatel-Lucent (Nokia now) and HKCREO.
 <br>     
