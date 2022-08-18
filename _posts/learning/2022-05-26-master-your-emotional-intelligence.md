@@ -15,6 +15,9 @@ abstract: "Master your emotions. and you can Control your life  ."
     - **express emotions, but they don't lead you**    
         + your emotions no longer dictate your actions  
 
+    - self-confidence  - an outcome of doing well  
+        +  **understand, value, and apply the Core Assets** -> happier, and more resilient  
+
     - **自強不息，明辨是非**，你的前行就**充滿陽光和力量**   
         +  **因精神懒惰而带来的那种宿命情结**，而导致给自己找主子  
         + 在集体中寻找个人价值 同时伺机破坏规则的狡写  
@@ -24,6 +27,17 @@ abstract: "Master your emotions. and you can Control your life  ."
         + 对**现实的认知**是关键  
 
     - everyone makes mistakes, what people want to see is **how you respond to it and improve**    
+
+* Integrity - be good people and do the right thing  
+    - strong moral **compasses**  
+        - **know what's right**, care about what's right, and do what's right  
+        - this **sets boundaries**, **resist temptations**, and **guide on how to act the right way**  
+        - it gives **peace of mind** when you do the right thing   
+        - thus **you are true to yourself and honest with others**  
+
+    - learn by example 
+        - **warmth, reasonable demands, and high responsiveness**    
+        - "You know our rules - I know you can do better."     
 
 * 识别真正消耗能量的压力来源
     - The fundamental **insecurity** - most ppl need **failth in something**  
@@ -121,7 +135,12 @@ abstract: "Master your emotions. and you can Control your life  ."
         + avoid the toxic things  
         + invest in developing control  
 
-#### improve your emotional intelligence  
+#### **Empathy**  - think "**we**", not "me"  
+* help us care about each other and **help bring out the humanity** in the best possible way  
+
+* build relationship satisfaction  
+
+##### improve your emotional intelligence  
 * being emotional intelligence  
     - **knowing and understanding yourself**,
     thus, it helps you make better decisions  
@@ -159,9 +178,72 @@ abstract: "Master your emotions. and you can Control your life  ."
             - ask **"how you can support them"**  they might know that   
             - **"how they can support themselves"**  because that way you know only help them in the acute situation  
 
-
 * reference 
     - [6 steps to improve your emotional intelligence](https://www.youtube.com/watch?v=D6_J7FfgWVc)
+
+
+* **Focus on what matters**      
+    - Notice your thoughts  
+        - "What your body feels like"  
+        - "What your ears hear"  
+        - "what is happening right now"  
+
+    - recoginze  
+        - "How am I feeling" -> "**what's causing it**"   
+        - **take a slow, deep breath** -> calm down  
+
+    - positive self-talk  
+        - "**I think I can**"  
+        - "I can get through this"  
+        - "**I don't like it, but I can handle it**"  
+        - "Stay calm. Carry on"  
+
+    - **Stop, Think, Act Right** 
+
+
+##### affective empathy - feel with another  
+* recognize and feel others' emotions   
+
+* **read nonverbal cues** in facial expressions, gestures, posture, and vocie tone  
+    - happy, sad, stressed, scared, frustrated, and angry  
+    - ask 
+        + "**How did that make you feel**?"  
+        + "**are you anxious, worried, sad**?" 
+    - share feelings in a safe way  
+        + "I'm frustrated with this book." 
+        + "I'm irritable ..."  
+
+    - create family connections
+        + "**what was the best/hardest/most fun part of your day and why**"  
+
+* listening fully  
+    - look eye-to-eye or on the wall behind the speaker's head  
+    - **try to learn one common thing about the person or sth you have in common**    
+        + "we both like ... "  
+        + "we had the same ..."  
+
+    - label the feeling  
+        + "you sound stressed" 
+        + "you seem angry"  
+        + " you look happy"  
+        + "can I help", "I'm glad you told me"  
+
+##### **cognitive empathy**   - perspective taking  
+* step into her shoes, understand his view and take his perspective  
+
+* **understand others' feelings, thoughts, and desires**  
+    - they can grasp others' needs 
+
+
+##### behavioral empathy  - act with compassion  
+* do something to help  
+
+* how to care  
+    - console - "**I'm sorry**", "You didn't deserve that"    
+    - assist  -  "**Do u need help**?"   
+    - reassure - "**I'm here for you**"  
+    - empathize - "**I know how you feel**"
+
 
 
 #### 情商  
@@ -263,7 +345,16 @@ abstract: "Master your emotions. and you can Control your life  ."
     - ch4 - The Value of Suffering
 
 
+
+#### **Empathy**  - think "**we**", not "me"  
+* help us care about each other and **help bring out the humanity** in the best possible way  
+
+* build relationship satisfaction  
+
+
+
 #### reference
 * [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  
 * [Why Has Nobody Told Me This Before](https://book.douban.com/subject/35777114/) by Dr. Julie Smith
 * [紅玫瑰yu与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲    
+* [Thriver]  

@@ -223,12 +223,23 @@ abstract: "on How to make choices"
         + some of **our deep-deated emotional reactions** might come from
         those aspects of **our personality that we are not able to change**  
         + **the heart** has its reasons which reason does not know  
+    
+    - put second order thinking 
+        + always ask "**and then what**"  
+            - think about the consequences  
+        + **think through time** 
+            - what do the consequences look like in 10 minutes?  10 months?  10 years?  
+        + identify your decision and think through and **write down the consequences**  
+            - **review these regularly** you'll be able to help calibrate your thinking  
 
 * use a pros and cons list  
     - good reasons or good consequences 
 
 * spend more time thinking carefully about a difficult and important decision  
 
+
+* reference  
+    - [Second-Order Thinking: What Smart People Use to Outperform](https://fs.blog/second-order-thinking/)
 
 ##### leadership 
 

@@ -7,6 +7,29 @@ categories: [learning, thinking, self,  important]
 abstract: "Notes on energy and time management skills"
 ---
 
+#### Notes on physical health  
+* eat good  
+    - enjoy food  
+
+* sleep good  
+    - 早睡早起  
+
+* more exercises  
+
+##### FOOD  
+* enjoy food  
+
+##### exercises
+
+#####  hiking  
+* feel great to walk in Nature  
+
+##### swimming  
+* TODO  
+
+##### badminton  
+
+
 #### Notes on Time Management  
 * **Time** is more valuable than money  
     - Time is your most precious asset. Spend it wisely.  

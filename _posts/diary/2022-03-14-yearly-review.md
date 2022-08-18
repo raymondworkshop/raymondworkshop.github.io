@@ -7,6 +7,8 @@ tags: [diary, review, important, learning, lesson]
 
 #### 2022-08-15  
 * TODO  
+    - Think about your next step  
+    
     - 能量提升  
         + **Start your day before the SUN**  - you can feel like a winner  
         + 内心戏 
