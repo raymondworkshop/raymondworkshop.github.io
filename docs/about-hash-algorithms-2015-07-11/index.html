@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<!--
+<meta http-equiv="content-language” content=”en, zh”>
+-->
+<script>
+    MathJax = {
+        tex: {
+            inlineMath: [['$', '$']]
+        },
+        svg: {
+            fontCache: 'global'
+        }
+    };
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<title>  - muyun_</title>
+<link rel=" stylesheet" href="/static/style.css">
+<link rel="stylesheet" href="/static/pygments.css">
+<nav>
+    <h1><small><a href="/index.html">bestraymond</a></small></h1>
+    <ul>
+        <li><a href="/index.html"> Blog </a>
+        <li><a href="/slides.html"> Slides </a>
+            <!--
+        <li><a href="/projects.html"> Projects </a>
+            -->
+
+            <!--
+        <li><a href="/bookshelf.html"> Bookshelf </a>
+        -->
+
+            <!--
+        <li><a href="/talks.html"> Talks </a>
+            -->
+
+        <li><a href="/about.html"> About </a>
+    </ul>
+</nav>
+
+<section class="content">
+    <!--
+    <header>
+        
+<title> About Hash Algorithms</title>
+
+      </header>
+      -->
+    
+<article class="post">
+    <header>
+        <h1><strong>About Hash Algorithms</strong></h1>
+    </header>
+    <p class="body"><blockquote>
+<p>An introduction of Hash function </p>
+</blockquote>
+<h4>Introduction</h4>
+<ul>
+<li>
+<p>a set of N items</p>
+<ul>
+<li>
+<p>we can sort them with binary search in O(log N) time using a structure(i.e, an array) of O(N) space .</p>
+</li>
+<li>
+<p>while a hashing technique can consume O(N) space, and answers
+a dictionary query in O(1) expected time.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>We can reference key-value pairs using arrays by doing arithmetic operations to <strong>transform keys into array indices</strong>. Thus there are two steps</p>
+<ul>
+<li>
+<p>compute a <strong>hash function</strong> that transfers the search key into an array index</p>
+</li>
+<li>
+<p><strong>collision-resolution process</strong> that deals with two or more different keys (may hash to the same array index)</p>
+</li>
+</ul>
+</li>
+</ul>
+<h4>hash functions</h4>
+<ul>
+<li>
+<p>hashing</p>
+<ul>
+<li>
+<p>the hash function h maps the university U of keys into the $T[0...m-1]$</p>
+<ul>
+<li>$h : U -&gt; T = {0, 1, ..., m-1}$</li>
+</ul>
+</li>
+<li>
+<p>uniform hashing assumption: assume that any given element in U is equally likely to hash into
+  any of the m slots, independently of where any other element has hashed to .</p>
+<ul>
+<li>For any diff integers $k_1$ and $k_2$, $Pr(h(k_1)=h(k_2)) \leq 1/m$</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>a good hash function</p>
+<ul>
+<li>deterministic: equal keys produce the same hash value</li>
+<li>efficient to compute</li>
+<li>uniformly distribute the keys among the integer values [0, m-1]<ul>
+<li>each key is equally likely to be hashed to one of m indices</li>
+<li>The reason for this requirement is that the cost of hashing-based methods goes up sharply
+  as the number of collisions-pairs of inputs that are mapped to the same hash value- increases.
+  If some hash values are more likely to occur than others, a larger fraction of the lookup
+  operations will have to search through a larger set of colliding table entries. [2]</li>
+<li>[Note]: the random is uniform</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>hashing by division h(k) = k mod m</p>
+<ul>
+<li>
+<p>map a key k into one of m slots</p>
+</li>
+<li>
+<p>if we know that the keys are random real numbers k
+    independently and uniformly distributed in the range $0 \leq k &lt; 1$
+    then, the hash function: $h(k) = floor(k_m)$</p>
+</li>
+<li>
+<p>the division method can give good results, assumimg that a prime
+  number k that is unrelated to any patterns in the distribution of keys .</p>
+</li>
+</ul>
+</li>
+<li>
+<p>hashing by multiplication</p>
+</li>
+<li>
+<p>universal hashing</p>
+<ul>
+<li>TODO</li>
+</ul>
+</li>
+</ul>
+<h4>for the collision-resolution process</h4>
+<ul>
+<li>
+<p>collision: two keys may hash to the same slot</p>
+</li>
+<li>
+<p>hashing with separate chaining (link structure)</p>
+<ul>
+<li>
+<p>linked list of the key-value pairs whose keys hash to that index</p>
+</li>
+<li>
+<p>the basic idea is to choose m to be sufficiently large that the lists are sufficiently short to enable
+efficient search through a two-step process</p>
+</li>
+</ul>
+</li>
+<li>
+<p>hashing with linear probing</p>
+<ul>
+<li>
+<p>open-addressing: store N key-value pairs in a hash table of size m&gt;N</p>
+</li>
+<li>
+<p>the idea is that rather than using memory space for references in linked lists, we use it for
+the empty entries in the hash table, which mark the ends of probe sequences</p>
+</li>
+</ul>
+</li>
+</ul>
+<h4>hashtables vs other dictionary implementations</h4>
+<ul>
+<li>
+<p>choosing a good capacity m</p>
+<ul>
+<li>We can choose the table size m to be sufficiently small that we do not waste a huge area of
+  contiguous memory with empty chains but sufficiently large that we donot waste time searching through
+  long chains.</li>
+</ul>
+</li>
+<li>
+<p>hashtables are sometimes good because</p>
+<ul>
+<li>the keys do not have to come from an ordered type</li>
+<li>in practice we can set things up for constant-time performance</li>
+</ul>
+</li>
+<li>
+<p>hashtables aren't always the best choice because</p>
+<ul>
+<li>you cannot easily read things out in a sorted order, assuming these was such an order</li>
+<li>you can't really get a good hash function that be can computed quickly, so they're usally
+  bad for small dictionaries</li>
+<li>resizing is very expensive, and probably can't be used in most real-time systems</li>
+</ul>
+</li>
+</ul>
+<h4>reference</h4>
+<ul>
+<li>Juraj Hromkovic - ch3 "Design and Analysis of Randomized Algorithms"</li>
+<li>Robert Sedgewick and Kevin Wayne - ch3.4, "Algorithms"</li>
+<li><a href="http://cs.lmu.edu/~ray/notes/hashtables/">hashtable</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hash_function">hash function</a></li>
+</ul></p>
+</article>
+
+
+
+
+</section>
+
+
+<div class="footer">
+    <ul>
+        <small>&copy; 2022 <a href="/index.html"></a>bestraymond</small>
+    </ul>
+</div>

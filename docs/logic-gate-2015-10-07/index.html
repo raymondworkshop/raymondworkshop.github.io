@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<!--
+<meta http-equiv="content-language” content=”en, zh”>
+-->
+<script>
+    MathJax = {
+        tex: {
+            inlineMath: [['$', '$']]
+        },
+        svg: {
+            fontCache: 'global'
+        }
+    };
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<title>  - muyun_</title>
+<link rel=" stylesheet" href="/static/style.css">
+<link rel="stylesheet" href="/static/pygments.css">
+<nav>
+    <h1><small><a href="/index.html">bestraymond</a></small></h1>
+    <ul>
+        <li><a href="/index.html"> Blog </a>
+        <li><a href="/slides.html"> Slides </a>
+            <!--
+        <li><a href="/projects.html"> Projects </a>
+            -->
+
+            <!--
+        <li><a href="/bookshelf.html"> Bookshelf </a>
+        -->
+
+            <!--
+        <li><a href="/talks.html"> Talks </a>
+            -->
+
+        <li><a href="/about.html"> About </a>
+    </ul>
+</nav>
+
+<section class="content">
+    <!--
+    <header>
+        
+<title> Logic Gate</title>
+
+      </header>
+      -->
+    
+<article class="post">
+    <header>
+        <h1><strong>Logic Gate</strong></h1>
+    </header>
+    <p class="body"><blockquote>
+<p><small>What is XOR? </small></p>
+</blockquote>
+<h4>exclusive or (XOR)  <a href="http://stackoverflow.com/questions/14526584/what-does-the-xor-operator-do">1</a> , <a href="http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/BitOp/xor.html">2</a></h4>
+<ul>
+<li>
+<p>used in cryptography because it let's us <strong>'flip' the bits</strong> using a mask in a reversable operations</p>
+</li>
+<li>
+<p>p<sub>1</sub> (+) p<sub>2</sub> (+) ... (+) p<sub>n</sub> is true if the number of variables with the value true (1) is odd, because the XOR is associative</p>
+</li>
+<li>
+<p>XOR is the same as addition modulo 2</p>
+<ul>
+<li>p<sub>1</sub> (+) p<sub>2</sub> (+) ... (+) p<sub>n</sub> == ( p<sub>1</sub> + p<sub>2</sub> + ... + p<sub>n</sub>) % 2 - dividing mod 2 is one way to determine if a number is even or odd</li>
+<li>Only the variables that have value 1 contribute to the sum, that determines how many variables have value 1</li>
+</ul>
+</li>
+<li>
+<p>doing parity check</p>
+<ul>
+<li>kind of checksum: use the XOR to check whether there is the flip</li>
+</ul>
+</li>
+</ul></p>
+</article>
+
+
+
+
+</section>
+
+
+<div class="footer">
+    <ul>
+        <small>&copy; 2022 <a href="/index.html"></a>bestraymond</small>
+    </ul>
+</div>

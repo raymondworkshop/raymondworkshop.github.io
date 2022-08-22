@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<!--
+<meta http-equiv="content-language” content=”en, zh”>
+-->
+<script>
+    MathJax = {
+        tex: {
+            inlineMath: [['$', '$']]
+        },
+        svg: {
+            fontCache: 'global'
+        }
+    };
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<title>  - muyun_</title>
+<link rel=" stylesheet" href="/static/style.css">
+<link rel="stylesheet" href="/static/pygments.css">
+<nav>
+    <h1><small><a href="/index.html">bestraymond</a></small></h1>
+    <ul>
+        <li><a href="/index.html"> Blog </a>
+        <li><a href="/slides.html"> Slides </a>
+            <!--
+        <li><a href="/projects.html"> Projects </a>
+            -->
+
+            <!--
+        <li><a href="/bookshelf.html"> Bookshelf </a>
+        -->
+
+            <!--
+        <li><a href="/talks.html"> Talks </a>
+            -->
+
+        <li><a href="/about.html"> About </a>
+    </ul>
+</nav>
+
+<section class="content">
+    <!--
+    <header>
+        
+<title> Summary about Probability and Statistics</title>
+
+      </header>
+      -->
+    
+<article class="post">
+    <header>
+        <h1><strong>Summary about Probability and Statistics</strong></h1>
+    </header>
+    <p class="body"><blockquote>
+<p>[updating] A Summary about Probability and Statistics </p>
+</blockquote>
+<h4>Bayesians</h4>
+<h4>Statistical Inference</h4>
+<ul>
+<li>
+<p>总体和样本</p>
+<ul>
+<li>总体分布是一个概率分布族(因为参数未知)</li>
+<li>非参数总体(假定总体有一定的概率分布而并不明确知其道数学形式) </li>
+<li>从总体中抽出的<strong>独立随机</strong>的样本  </li>
+</ul>
+<p><br/></p>
+</li>
+<li>
+<p>由样本推断总体：为解决具体问题而抽样，<strong>样本分布族规定了问题的统计模型(概率分布)</strong>，样本的具体数值推断样本分布中的未知参数。比如 依据样本 $\chi_1, ..., \chi_n$ 对分布 $N(\mu, \sigma^2)$中的参数 $\mu$ 作推断，这个推断的具体内容依据样本 $\chi_1, ..., \chi_n$ 算出一个数作为 $\mu$ 估计值。  </p>
+<p><br/></p>
+</li>
+<li>
+<p>Frequentist - 极大似然估计方法 (Maximum likelihood estimation) (要求假设的分布函数有参数形式) 是用来估计一个概率模型的参数的一种方法。 </p>
+<p>假设总体有分布  $f(\chi;\theta_1,...,\theta_k)$, $\chi_1,...\chi_n$  为抽出的样本; 當有了結果 $\chi$（样本）时，即在所有由原因 $\theta$ 而产生的可能性中，寻找一个值使这个 $\chi$（样本）的“可能性”最大(即似然程度最大)。  </p>
+<p>则有似然函数:      <br />
+$$
+L(\theta|\chi_1,...,\chi_n) = f(\chi_1|\theta)f(\chi_2|\theta)...f(\chi_1|\theta) = \prod_{i=1}^n f(\chi_i|\theta)<br />
+$$</p>
+<p>$$
+log(L(θ|\chi_1,...,\chi_n)) = \sum_{i=1}^n {\log(f(\chi_i|\theta))}
+$$</p>
+<p>我们要似然程度最大, 即“极大似然估计”:  <br />
+$$
+\hat{\theta} = \mathop {argmax}_{\theta}
+$$</p>
+</li>
+</ul>
+<h4>Nonparametric statistics</h4>
+<p>One of the biggest problems with tests like the chi-squared test is that they make a lot 
+of assumptions about how your data was generated. Often we could figure out that this is 
+without having to make a bunch of assumptions .  </p>
+<h4>TODO</h4>
+<h4>reference</h4>
+<ul>
+<li><a href="https://github.com/rmcelreath/statrethinking_winter2019">Statistical Rethinking: A Bayesian Course with Examples in R and Stan</a> </li>
+<li><a href="https://jvns.ca/blog/2017/04/17/statistics-for-programmers/">Some good "Statistics for programmers" resources</a></li>
+<li><a href="http://episte.math.ntu.edu.tw/articles/mm/mm_03_3_07/index.html">统计学浅谈</a></li>
+<li>陈希孺的《概率论与数理统计》</li>
+</ul></p>
+</article>
+
+
+
+
+</section>
+
+
+<div class="footer">
+    <ul>
+        <small>&copy; 2022 <a href="/index.html"></a>bestraymond</small>
+    </ul>
+</div>
