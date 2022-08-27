@@ -12,6 +12,12 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
 
 * **work on hard problems till it's simple**, then think about **how I would coach my former self through it**  
 
+* 独立思考能力和分辨能力  
+    - 表达和发挥你的兴趣   
+    - 有趣味又有自己独立的主见，独立的思考的完整人  
+    - 活着的一个重要目的 是 自由最大化  
+        + 自由自在的生活  
+
 
 #### Practical Thinking skills  
 
@@ -148,6 +154,8 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
 
 
 #### Positive Values  - **develop and upgrade your potentials and talents**    
+* 表达你的兴趣，发挥你的兴趣和价值  
+    
 * Aristotle's answer is that you should develop your talents for your ultimate good/happiness  
 
 * From Kant, you should cultivate your talent for your rationality and moral duty   

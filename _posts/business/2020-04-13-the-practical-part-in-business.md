@@ -8,6 +8,7 @@ categories: [notes, learning, business, ideas, important, management]
 
 #### notes  
 * lessons    
+    - **認清楚自己想要什麼，然後去做**，但**不會給自己設限**    
 
     - **focus on developing and cultivating your plan**, when **you have your plan** and **you can feel it's right** for you  
         + what others are doing won't matter  

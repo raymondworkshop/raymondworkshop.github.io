@@ -18,6 +18,7 @@ abstract: "Notes on energy and time management skills"
 
 ##### FOOD  
 * enjoy food  
+    - 阿拉丁咖啡屋  
 
 ##### exercises
 

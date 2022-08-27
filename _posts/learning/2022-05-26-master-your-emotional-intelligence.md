@@ -27,6 +27,26 @@ abstract: "Master your emotions. and you can Control your life  ."
         + 对**现实的认知**是关键  
 
     - everyone makes mistakes, what people want to see is **how you respond to it and improve**    
+   
+
+* self-care  - love yourself  
+    - 不会随意扩大自己的情绪响应人群, 感性的人会自动将响应对象**限定在自己的亲人好友和少数熟人**  
+        + 感性的人对日常的人和事有丰富的情绪响应，很快能够设身处地、从对方的视角和角度来看待问题、感受生活  
+        + 这是刹车装置，起到自我保护作用  
+
+    - every problem is not your problem  
+        + quit trying to save everyone and focus on what you can control  
+
+    - 识别真正消耗能量的压力来源  
+        + The fundamental **insecurity** - most ppl need **failth in something**  
+            - religion, givt, academia  
+            - Few are **comfortable with decentralized systems**  
+
+        +  *内心戏* -> 叫停内心戏的关键在于**觉察**，一旦觉察在内心编故事，**赶快叫停止损**  
+
+        + 压力
+            - **写下来，辩真伪**；  伪->不管；  真- 定解决方案  
+
 
 * Integrity - be good people and do the right thing  
     - strong moral **compasses**  
@@ -37,20 +57,11 @@ abstract: "Master your emotions. and you can Control your life  ."
 
     - learn by example 
         - **warmth, reasonable demands, and high responsiveness**    
-        - "You know our rules - I know you can do better."     
-
-* 识别真正消耗能量的压力来源
-    - The fundamental **insecurity** - most ppl need **failth in something**  
-        + religion, givt, academia.  
-        + Few are **comfortable with decentralized systems**.  
-    
-    - *内心戏* -> 叫停内心戏的关键在于**觉察**，一旦觉察在内心编故事，**赶快叫停止损**  
-
-    - 压力
-        + **写下来，辩真伪**；  伪->不管；  真- 定解决方案  
-
+        - "You know our rules - I know you can do better."  
 
 * avoid toxic people or losers  
+    - 遇到烂人烂事，及早抽身  
+    
     - victim mentality  
         + ones that complain, gossip, and play victim 
 
@@ -67,7 +78,6 @@ abstract: "Master your emotions. and you can Control your life  ."
     - desrespect you  
         + if people didn't respect without money, they won't respect you with it  
 
-    
     - 說謊成性的偽君子，没有教养的叫骂者，偏执狂，不求上进的颓废着，误国误民的国师  
     
 
@@ -244,7 +254,9 @@ abstract: "Master your emotions. and you can Control your life  ."
     - reassure - "**I'm here for you**"  
     - empathize - "**I know how you feel**"
 
-
+* 教育  
+    - 西方家庭父母不太包办孩子饮食， 但很注重**语言沟通和情感援助**  
+        + 会尽量利用吃饭时间**倾听孩子，一起聊天**，比较容易及时发现情绪问题  
 
 #### 情商  
 * 觉察  

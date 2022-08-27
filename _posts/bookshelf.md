@@ -6,9 +6,11 @@ date: 2012-03-19
 ### log of training & books and my ratings
 
 #### training-2022 
-* Communication  
-    - [Couples Counselling](https://alison.com/topic/learn/121714/introduction-to-counselling)  
+* leadship  
+    - [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2022/home)  
+    - [Philosophy and Critical Thinking](https://learning.edx.org/course/course-v1:UQx+META101x+1T2022/home)  
     - [Managing Emotions in Times of Uncertainty & Stress](https://www.coursera.org/learn/managing-emotions-uncertainty-stress/home/week/1)  
+    - [Couples Counselling](https://alison.com/topic/learn/121714/introduction-to-counselling)  
 
 
 * Entrepreneur  

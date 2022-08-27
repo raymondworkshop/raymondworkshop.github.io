@@ -49,6 +49,11 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning  
+* church is a family  
+    - church helps up to **grow in God** and to fulfill his plan for our lives  
+    - "From him the whole body, joined and held together by every **supporting ligaments**,
+    **grows and builds itself up in love**, as each part does its work" - ephesians 4:16
+
 * 因信称义  
     - 领受神的话  
     - **对耶和华的 信心慢慢增加**  
