@@ -1,20 +1,25 @@
 ---
 layout: post
-title: "On Collaboration: Leadership, Teamwork, and Negotiation"
+title: "On leadership and coaching skills"
 date: 2020-03-16
 comments: true
 categories: [softskills, coach, self, learning, leadership, important]
+abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
 ---
 
-##### People skills    
-* better social skills 
-    - more chance of getting people to **like you** and **do what you want them to do**  
+##### persuasion skills  
+* TODO  
 
-    - **actions, energy, and body languages** tell you everything you need to know  
+* copywriting  
+    - The words you use just connect them, increase their impact, and explain them to your reader.
 
-* reference  
-    -  [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2021/home)  
+* reference
+    - [Persuasive Communication](https://alison.com/topic/learn/103807/nlp-s-persuasion-techniques)
+    - [Rhetoric: The Art of Persuasive Writing and Public Speaking](https://learning.edx.org/course/course-v1:HarvardX+AESTHINT15+1T2022/home)  
+    - [cuhk toastmaster](http://www.cuhk.edu.hk/ccc/toastmasters/)
 
+
+##### public speaking skills  
 
 ##### soft skills  
 * 沟通交际能力  
@@ -105,6 +110,10 @@ categories: [softskills, coach, self, learning, leadership, important]
 
 
 * People skills  
+    -  better social skills 
+        + more chance of getting people to **like you** and **do what you want them to do**  
+        + **actions, energy, and body languages** tell you everything you need to know  
+
     - Emotional Intelligence  
         + **what key quality** did this leader possess that was so important for you?  
         + leaders are judged about how they handle themselves and others  
@@ -161,7 +170,7 @@ categories: [softskills, coach, self, learning, leadership, important]
     美欧军中都相当强调士官在基层部队中扮演“专家与灵魂”的角色  
 
 * reference 
-    -[High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration/lecture/wwgwx/introduction-to-course-1-with-dean-blount)
+    - [High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration/lecture/wwgwx/introduction-to-course-1-with-dean-blount)
 
 
 
@@ -282,7 +291,7 @@ categories: [softskills, coach, self, learning, leadership, important]
 
 #### 同理心 empathy  
 * **同理心**   
-    - i **feel** your suffering  - 我**感同身受**  
+    - I **feel** your suffering  - 我**感同身受**  
         + **feeling and imagining yourelf into the humanity of another**  
         + no judgments, advice, analysis, detachment, sympathy, fixing  
 

@@ -20,8 +20,14 @@ abstract: "Notes on the management skills in the practical part"
    - **认真地做当下能做的最好的选择**，未来就会是它最好的样子； 放下对未来的期待和担忧  
 
 * **ownership and result** (责任和风险)  
+   - **Entrepreneurs tolerate uncertainty** more than any other profession  
+
+   - self-taught, skilled, emotion-intelligent, in shape, **energetic**, focuses on internal control  
+       + **learning by doing** > learning by asking for advice  
+
    - 不是 insight, 也不是 execution  
-   - I define it, although I respect you  
+   
+   - **I define it**, although I respect you  
 
    - 愿意 出面担当，在不确定的项目中，冒着犯错的风险尝试  
        + 大多华裔，太怕犯错，不敢担责，不敢为人先，之在后面嘀咕  

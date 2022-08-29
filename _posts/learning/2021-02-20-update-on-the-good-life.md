@@ -31,7 +31,11 @@ abstract: "notes on the GOOD life - beauty and love "
     - [Influence](https://www.coursera.org/learn/wharton-influence?specialization=wharton-success)  
 
 
-#####  **Build myself - healthy, free, wealthy, and loved**  
+#####  **Build myself - healthy, free, wealthy, and loved**    
+* **自我的自主性是第一** 
+    - 有一个自主性的意识在，对这个事情有基本判断；
+    从现实出发，试试看； 否则全部都是别人给你设的，怎么样去满足别人的要求，那会很痛苦  
+
 * **My Self is loved**  
     - **She loves me for who I am**, and not who I am acting or trying to be  
     - Being a human, **I need it**. similaryly, **my Self needs love**.  

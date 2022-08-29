@@ -49,6 +49,11 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning  
+* **经历和彰显基督的能力**    
+    - 越来越敞开  
+    - 最大的诫命 是 “全心爱主你的神”  
+    - 其次是 要爱邻舍如同自己  
+
 * church is a family  
     - church helps up to **grow in God** and to fulfill his plan for our lives  
     - "From him the whole body, joined and held together by every **supporting ligaments**,

@@ -3,7 +3,7 @@ layout: post
 title: "尋路中國(Country Driving)"
 date: 2014-12-05
 comments: true
-categories: [writing, china]
+categories: [writing, china, notes]
 abstract: '總結自 Peter Hessler的<a href="http://book.douban.com/subject/5414391">[尋路中國(Country Driving)]</a>'
 ---
 

@@ -40,6 +40,21 @@ abstract: "on How to make choices"
     - [Thoughts on Man's Purpose in Life](https://govleaders.org/rickover-purpose.htm)  
 
 
+##### making good decisions  
+* **focus on the process** of making a decision  
+    - **emotions** are crucial in helping us come to a decision  
+    - need to **listen to our feelings** because we often have to live with the decisions that we have made  
+        + some of **our deep-deated emotional reactions** might come from
+        those aspects of **our personality that we are not able to change**  
+    - **the heart** has its reasons which reason does not know  
+
+* use a pros and cons list  
+    - good reasons or good consequences 
+
+* spend more time thinking carefully about a difficult and important decision  
+
+
+
 #### The Self-Awareness Onion  
 * understanding your emotions  
     - identify blind spots in ourselves and then expressing the affected emotions appropriately  

@@ -1,14 +1,24 @@
 ---
 layout: post
-title: "About thinking skills and self-reflections"
+title: "About self-actualization and self-reflections"
 date: 2017-11-16
 comments: true
 categories: [learning, thinking, important, self, lessons]
-abstract: "record the lessons,Know more about yourself, and self-actualization "
+abstract: "learn from your mistakes, and know more about yourself"
 ---
 
 #### lessons and skills  
 * skills  
+    - **自我的自主性是第一** 
+        +  **有一个自主性的意识在，对这个事情有基本判断**；
+        **从现实出发，试试看**； 否则全部都是别人给你设的，怎么样去满足别人的要求，那会很痛苦  
+        + **你的存在是先的，然后去不去做**  只是一个选择，结果也是多样的  
+    
+    - **从具体的问题看**，从周边非常具体地看生活  
+        + **我们只能懂小的东西**，也不懂大的东西  
+        + 用大的象征符号说话是很容易的，因为**它不用去处理那些丰富的，细致的，互相矛盾的材料**  
+        + **当你被那些宏大的东西绝对化**之后，小的东西不仅被忽视，而且觉得小的东西不应该存在  
+
     - **做好可控的因素**， 对不可控的因素 担心也没用  
         + 减少内耗  
 
@@ -20,7 +30,15 @@ abstract: "record the lessons,Know more about yourself, and self-actualization "
         + 需要什么，再学习什么，不要脱离实际  
 
     - 商人玩的是 **赚钱的游戏**  
-        + **尽可能避免零和游戏**，因为它并不创造财富 
+        + **尽可能避免零和游戏**，因为它并不创造财富  
+
+    - like the people who like you back or support you  
+        + or loyal to you  
+        + 看到他想要提高并让队友们变得更好  
+            - tit-for-tat: <small>现代博弈论也证明了最优战略是“**一报还一报**”</small>   
+
+    - your family is the most important thing in life  
+        + invest as much quality time with them as possible  
 
     - skipped toxic people  
         + 负面的人 
@@ -28,10 +46,7 @@ abstract: "record the lessons,Know more about yourself, and self-actualization "
         + deal with people how they deal with you, hardly, barely, and accordingly  
         + stop worrying about people who doen't even care about you   
 
-    - like the people who like you back  
-        + or loyal to you  
-        + 看到他想要提高并让队友们变得更好  
-            - tit-for-tat: <small>现代博弈论也证明了最优战略是“**一报还一报**”</small>   
+
 
 * lessons  
     - 有底线即可, 无必要追求风骨  
@@ -205,14 +220,6 @@ abstract: "record the lessons,Know more about yourself, and self-actualization "
 * 关心 受难的人
 
 
-#### Tools for better thinking  
-* TODO  
-
-* Conflict Resolution Diagram  
-    - Find win-win solutions to conflicts  
-
-* reference 
-    - [Tools for better thinking](https://untools.co/)
 
 #### The Minto Pyramid Principle  
 * TODO  
@@ -220,56 +227,6 @@ abstract: "record the lessons,Know more about yourself, and self-actualization "
 * reference  
     - [The Minto Pyramid Principle](https://book.douban.com/subject/1460277/)
 
-
-####  总结自[思考的技术](http://book.douban.com/subject/3138847/)
-
-* 不要把假设和结论混为一谈; **搜集证据,印证假设到导出真正结论过程中的逻辑思考**  
-  
-* 认清现象和原因的不同; **很多都不是原因,而是现象(结果)**  
-    - 在许多个案中,真正的原因只有其中一个,而其他只是这个原因导致的现象  
-  
-  
-* **如果发现自己的假设是错的,重新做假设,再次出发就行了**  
-    - **一直悔恨自己的人生,与固执于错误的假设是一样没有意义的**  
-  
-  
-* 在提出假设的阶段,真正的成败挑战才登场  
-    - **解决问题的能力,就是为印证假设不辞辛苦的行动力**  
-    - **给出的建议中,只要有一个就足够了**  
-  
-  
-* **逻辑思考的基础在于累积事实,如果呈现的是事实,就一定要虚心接受**  
-    - **当自己的意见和对方不同时,以秉持事实为证的信念**  
-  
-  
-* 线性思考行不通; 科学的方法是**问为什么,理由**  
-    - **真的是这样吗? 才是工作的开始,要听的是论点**  
-    - 一个问题有数百个变量,且随时间而变化,所以答案不唯一; 要准确做出判断几乎不可能 ,但是**以科学的方法思考,则可做整体的控制**  
-    - 现在已进入像叶子不知会掉落何处的复杂体系中,几乎所有问题都没有答案  
-    - **培养孩子养成动脑思考的习惯,让孩子对无解的问题设法提出假设,并不厌其烦努力证明自己的假设是否正确**  
-  
-    
-*  世界上许多问题本来就没有答案; 那些**忠于自己,能够找出属于自己的答案的人,其生命力比起已经习惯别人给出答案的人,一定更为强韧**  
-    - **就算没有答案,也会自己提出假设,反复求证,直到找出答案**; 不管碰到任何困难,都勇于接受挑战,坚持到底,才是教育的根本    
-    - **思考方式,重视的是如何才能导出结论**,而不是有没有知识  
-    - **以假设前提进行回答,有前提就有结论的思考模式**; 对问题的前提先做个明确的假设,若前提错误,可以改变前提再回答  
-     
-     
-*  **不太需要思考的事,尽量减少思考,且绝不没事自寻烦恼,生活要非常简单,把能规律化的事情规律化**  
-    - **训练自己常保持好奇心,和别人接触的机会增长见识**  
-    - 做一些可以让自己生存下去的投资,**请问你成长了多少**   
-    - 最伤脑筋的是**做什么事都半途而废的人**  
-    - **碰到自己没有遇到过的问题时,尝试解决**  
-    - **常常提出质疑,然后找出问题的解决方法**  
-
-
-#### How to think clearly  
-* TODO  
-* reference 
-    - [保罗·格雷厄姆：如何成为独立思考的人？](http://openmindclub.blog.caixin.com/archives/238538)
-    - [How to Think For Yourself](http://paulgraham.com/think.html)
-    - [How to think clearly](https://psyche.co/guides/how-to-think-clearly-to-improve-understanding-and-communication)
-    - [Rethinking Fear](https://fs.blog/rethinking-fear/)
 
 
 #### Friend & Foe  

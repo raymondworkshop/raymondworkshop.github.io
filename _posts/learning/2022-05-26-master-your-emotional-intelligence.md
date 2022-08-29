@@ -9,6 +9,8 @@ abstract: "Master your emotions. and you can Control your life  ."
 
 #### Notes  
 * **Master your emotions**  
+    - love and accept yourself  
+
     - Control your life  
         + No one will control you  
 
@@ -19,6 +21,8 @@ abstract: "Master your emotions. and you can Control your life  ."
         +  **understand, value, and apply the Core Assets** -> happier, and more resilient  
 
     - **自強不息，明辨是非**，你的前行就**充滿陽光和力量**   
+        + **找个自己能踏踏实实做的事情，用心琢磨**，
+        当你做出成绩时，就会觉得这事有意思，有成就感，慢慢就能越做越好  
         +  **因精神懒惰而带来的那种宿命情结**，而导致给自己找主子  
         + 在集体中寻找个人价值 同时伺机破坏规则的狡写  
 
@@ -29,14 +33,25 @@ abstract: "Master your emotions. and you can Control your life  ."
     - everyone makes mistakes, what people want to see is **how you respond to it and improve**    
    
 
-* self-care  - love yourself  
+* self-care  - love and accept yourself  
+    - **Find yourself, be true to yourself** and never stray from that person  
+        + **Other people's opinion doesn't matter**   
+        + every problem is not your problem 
+            - To live your life worried about others is to live a lie 
+            - quit trying to save everyone and focus on what you can control  
+
+        + **Accept your faults for what they are** and never stop working on them  
+
     - 不会随意扩大自己的情绪响应人群, 感性的人会自动将响应对象**限定在自己的亲人好友和少数熟人**  
         + 感性的人对日常的人和事有丰富的情绪响应，很快能够设身处地、从对方的视角和角度来看待问题、感受生活  
         + 这是刹车装置，起到自我保护作用  
 
-    - every problem is not your problem  
-        + quit trying to save everyone and focus on what you can control  
-
+    - **stoicism** (对痛苦处之泰然) strengthens your meditation  
+        + stoicism (the quality of experiencing pain or trouble without complaining or showing your emotions)  
+            -  a well-ordered mind  
+        + be aware of **the sounds, sights** around you  
+        + be aware of **your breath**  
+    
     - 识别真正消耗能量的压力来源  
         + The fundamental **insecurity** - most ppl need **failth in something**  
             - religion, givt, academia  
@@ -107,6 +122,10 @@ abstract: "Master your emotions. and you can Control your life  ."
         - some people feel no shame when they take advantage of your kindness  
         
     + avoid toxic people  
+        - treat you like **your time** doesn't matter  
+        - **your feelings** are worthless  
+        - **your soul** is replaceable  
+
         - drain you  or try to control you  
         - make you question your self worth  
         - don't apologize for their shitty behavior  

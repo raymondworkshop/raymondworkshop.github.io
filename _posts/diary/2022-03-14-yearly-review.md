@@ -5,6 +5,10 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-08-29  
+* review your decisions  
+    - fear to make decisions  
+
 #### 2022-08-15  
 * TODO  
     - Think about your next step  

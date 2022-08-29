@@ -14,11 +14,14 @@ abstract: "Notes on energy and time management skills"
 * sleep good  
     - 早睡早起  
 
-* more exercises  
+* get in shape  
+    - **lifelong fitness** should be a priority in your life  
+    - more exercises  
 
 ##### FOOD  
 * enjoy food  
     - 阿拉丁咖啡屋  
+    - Lime Garden - 青悅 - 越南菜  
 
 ##### exercises
 
