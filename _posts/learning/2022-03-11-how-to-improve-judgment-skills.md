@@ -49,10 +49,21 @@ abstract: "on How to make choices"
     - **the heart** has its reasons which reason does not know  
 
 * use a pros and cons list  
-    - good reasons or good consequences 
+    - good reasons or good consequences  
 
 * spend more time thinking carefully about a difficult and important decision  
 
+* Bayesian  
+    - observe -> find patterns -> create a short-cut framework -> realize your framework sucks 
+        + **ask open-ended quesitons**    
+        + **seeing some patterns** in the answers  
+        + **make a framework from these patterns**. now I can make decisions quickly  
+        + wait, this is a situation my framework does not account for  
+
+    - **先有碎片而后不断构建框架**  
+        + **不断根据新的碎片 修正甚至打破旧的框架 并构建新的框架**， 开始比较慢，但最终会后来居上 
+            - 先有框架后有碎片，容易上手，开始会看上去遥遥领先，但后面就僵化而无法增长  
+            - 框架固化后 最大坏处 是容易偏执的去 “占小便宜吃大亏”， 因为已经成为本  
 
 
 #### The Self-Awareness Onion  

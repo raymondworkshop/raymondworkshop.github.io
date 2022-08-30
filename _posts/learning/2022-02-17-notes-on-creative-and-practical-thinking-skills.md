@@ -346,15 +346,21 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
     - rahter than give up, we struggle along a scale of process. 
     The journey to **understand more** about the mysteries of the world and **explain them with reason is the core of our nature**    
 
-#### **experienced or seen** rather than theory    
 
+#### **experienced or seen** rather than theory    
 *  实证主义    
+    - 经验归纳  -> 用丰富的具象事物 来 验证 理论假设  
+        + 一种信息是让你认识到**更多的事实**，另外一种信息是 **加深你对世界的理解**； 
+        **探寻更广（非更多）的第一种信息是用来排出候选的第二种信息**，而不是用来印证第二种信息；  
+        **如果没有对具象事物足够的细节把握**，抽象的思维方式很容易陷入自说自话，纸上谈兵的困境   
+
     - **发现一个新现象， 到依据这一新发现形成一个假设**， 再到发送一个新探测器去检测这一假设  
 
 *  判例法  
     - **经验主义**  - **依靠感官认识世界， 再进行“归纳思维”**， 不同于 理性主义  
         + 司法更加能动性  
         + **更能 “反馈” 以及适应社会动态**  
+
     - **更 “稳定和延续性”**， 更有助于确保商人的基本人权  
 
     - 普通法 向 成文法 靠拢 （成文法（议会的法律） 优于 普通法 （法院的规定）  
@@ -370,9 +376,9 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
             - 框架固化后 最大坏处 是容易偏执的去 “占小便宜吃大亏”， 因为已经成为本
 
     - observe -> find patterns -> create a short-cut framework -> realize your framework sucks 
-        + ask open-ended quesitons  
+        + **ask open-ended quesitons**    
         + seeing some patterns in the answers  
-        + make a framework from these patterns. now I can make decisions quickly  
+        + **make a framework from these patterns**. now I can make decisions quickly  
         + wait, this is a situation my framework does not account for  
 
     - **证伪主义** -> 科学的工作就是 通过寻找不符合理论的观察/实验 来对理论进行证伪  
@@ -385,8 +391,8 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
 
 
 * 自由市場 vs 计划经济  
-    - 自由市场 是**动态均衡**， 强调 事后纠正  
-    - 计划经济 事静态均衡， 强调 事前计划  
+    - 自由市场 是**动态均衡**， 强调 **事后纠正**  
+    - 计划经济 事静态均衡， 强调 **事前计划**    
 
 
 * 道德  

@@ -54,6 +54,12 @@ date: 2012-03-19
 * [Serious Python](https://book.douban.com/subject/30206213/) by Julien Danjou    
 * [Writing Interpreters and Compilers for the Raspberry Pi Using Python](https://www.amazon.com/gp/product/B089M41NGB/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) by Anthony J. Dos Reis  
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
+
+* [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
+* [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina  
+* [The Art of Clean Code](https://book.douban.com/subject/35615724/) by Christian Mayer  
+* [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore  
+
 * [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
 * [Producing Open Source Software](https://producingoss.com/en/index.html)  
 

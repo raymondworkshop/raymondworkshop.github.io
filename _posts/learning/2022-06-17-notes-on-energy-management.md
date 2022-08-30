@@ -23,10 +23,13 @@ abstract: "Notes on energy and time management skills"
     - 阿拉丁咖啡屋  
     - Lime Garden - 青悅 - 越南菜  
 
-##### exercises
+##### exercises  
 
 #####  hiking  
 * feel great to walk in Nature  
+    - 大尾督 单车
+    - 大埔 - 大埔滘林徑藍路  
+    - 青衣自然径  
 
 ##### swimming  
 * TODO  
@@ -51,8 +54,8 @@ abstract: "Notes on energy and time management skills"
 
 * time management is about energy management  
 
-#### Need a system and mindset to support your efforts  
 
+#### Need a system and mindset to support your efforts  
 
 
 #### Focus on what matters  

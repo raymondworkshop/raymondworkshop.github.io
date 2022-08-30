@@ -6,8 +6,77 @@ tags: [diary, review, important, learning, lesson]
 ---
 
 #### 2022-08-29  
-* review your decisions  
-    - fear to make decisions  
+* review on how you make decisions  
+    - 逃避，害怕去面对  
+        - 同情心  
+        - 害怕责任  
+        - 任务完成度  
+        - 承担后果     
+        - no self-care  
+
+* love  
+    - **acievement** or **accomplishment** (achieved after a lot of work or effort)  
+        + by creating a work or doing a deed    
+        + **nurture your functional excellence** - a talent, a skill, a craft, a knack  
+    
+    - experience 
+        + **experiencing something** - such as **goodness, truth, and beauty** - by experiencing nature and culture or, by experiencing another human being in his very uniqueness - by loving her.  
+
+
+    - find your true purpose, and **nurture your functional excellence**    
+        +  "each of us has some gift - a talent, a skill, a craft, a knack - that gives us pleasure and engage us, and **the path to our happiness often lies within that gift**"  
+
+    - nurture him with love, support and encouragement from his parents   
+
+
+
+* focus - think - decide - act  
+    - you need **act more**            
+
+
+##### 你到底在害怕什么  
+* **你到底在害怕什么**？  
+    -  **fear** -> angry, upset, worried, uninspired, sad  
+    -  **当我们面对内心的恐惧时， 抛开“应该”** ,然后我们就会发现“烦”随之消散，结果比我们规划的还要好  
+    -  **引起我情緒的那些念頭都是真的嗎**？  
+        + 當下，**我的生命中，什麼才是真的**？  
+            - 自己，家人，事业    
+        + 我提醒自己，只有我能对自己的情绪负责，从真实发生的事情中进入当下  
+
+* **Set yourself free from fear**  
+    - **the freedom would empower** one to face failure courageously   
+    - Fear is temporary. Regret is forever     
+    - already been living through the worst times  
+    - see this as an opportunity to be a new start    
+
+    - **forgiveness can set you free**  
+        + "I forgave all of those kids who mocked and teased me.
+        **I forgave them to unburden myself of anger and resentment. I like myself**" 
+
+##### making good decisions  
+* **focus on the process** of making a decision  
+    - **emotions** are crucial in helping us come to a decision  
+    - need to **listen to our feelings** because we often have to live with the decisions that we have made  
+        + some of **our deep-deated emotional reactions** might come from
+        those aspects of **our personality that we are not able to change**  
+    - **the heart** has its reasons which reason does not know  
+
+* use a pros and cons list  
+    - good reasons or good consequences  
+
+* spend more time thinking carefully about a difficult and important decision  
+
+* Bayesian  
+    - observe -> find patterns -> create a short-cut framework -> realize your framework sucks 
+        + **ask open-ended quesitons**    
+        + **seeing some patterns** in the answers  
+        + **make a framework from these patterns**. now I can make decisions quickly  
+        + wait, this is a situation my framework does not account for  
+
+    - **先有碎片而后不断构建框架**  
+        + **不断根据新的碎片 修正甚至打破旧的框架 并构建新的框架**， 开始比较慢，但最终会后来居上 
+            - 先有框架后有碎片，容易上手，开始会看上去遥遥领先，但后面就僵化而无法增长  
+            - 框架固化后 最大坏处 是容易偏执的去 “占小便宜吃大亏”， 因为已经成为本  
 
 #### 2022-08-15  
 * TODO  
