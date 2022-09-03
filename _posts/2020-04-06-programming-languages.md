@@ -9,11 +9,11 @@ abstract: "[Updating] Notes on programing languages"
 ---
 
 #### Interpreters  
+parse: program   ->  abstract-syntax-tree  
+eval:  abstract-syntax-tree  ->  result   
+
+
 TODO  
-
-#### Systematic program design  
-* problem analysis -> data definitions 
-
 
 #### Python Data Model -> A Framework/API for core language constructs
 We can leverage the Python Data Model to build new classes.  

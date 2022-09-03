@@ -41,6 +41,9 @@ abstract: "Live a life created for you, instead of the life you create"
 
 
 #### 不确定性 -> 计划 vs 无为  
+* 放弃对确定性的执着  
+    - fear - 没有安全感  
+    
 * 顺势而为，臣服于生活  
     - 放下执念，而不是试着去掌控一切  
 

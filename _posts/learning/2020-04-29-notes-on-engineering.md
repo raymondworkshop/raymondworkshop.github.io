@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Updating-notes-on-practical-engineering-thinking"
+title: "notes on Engineering"  
 date: 2020-04-29
 comments: true
 categories: [learning, engineering, course, important, manager]
@@ -30,7 +30,7 @@ categories: [learning, engineering, course, important, manager]
 
 * 软件工程 = 过程 + 方法 + 工具  
 
-* 瀑布模型- 有序可控
+* 瀑布模型- 有序可控  
     - 需求分析
         + 了解老板的想法 + 调研 + **设计原型**
         + 让老板给反馈, **写产品设计文档**, 划分不同模块
@@ -41,12 +41,33 @@ categories: [learning, engineering, course, important, manager]
 
     - 軟件測試
 
-* 原型开发,  增量模型(模块化小瀑布),  迭代模型
-* 敏捷开发
+* 原型开发,  增量模型(模块化小瀑布),  迭代模型  
+
+* 敏捷开发  
     - scrum(过程管理) + 极限编程(工程实践) + 看板(可视化)
 
 * 分而治之的策略
-    - 拆分 + 流程
+    - 拆分 + 流程  
+
+
+* 组织规划力  
+    - 规划 把事情做成的流程计划  - f(x)  
+  
+    - **用“3”的概念 先掌握住大框架**， 再对细节做螺旋状前进  
+
+    - 幕后制作过程花絮  
+        + 看规划过程，希望能学习它的制作方法  
+
+    -  可以看到整体，也知道自己处在什么阶段  
+        + 可以看到前景，做事也有动力  
+        + 对于大规划中属于同性质的作业持续做就可以了  
+        + 或者学生相信这个教练的规划，就会全力努力  
+
+#### agile 
+* While I don't believe there is a one-size-fits-all development process I am a fan of some aspects **agile development practices** and **the lean startup movement** (especially as it applies to software process) - but am always eager to try new models and methods.  
+
+* reference  
+    
 
 #### System Design and Software Engineering  
 * TODO  

@@ -8,6 +8,11 @@ abstract: "Notes on energy and time management skills"
 ---
 
 #### Notes on physical health  
+* your metal state can be fixed by your physical state    
+    - stressed ? **gym for 1 hour**  
+    - cannot focus?  walk for 10 minutes  
+    - low energy?  sleep 8 hours  
+
 * eat good  
     - enjoy food  
 
@@ -36,6 +41,7 @@ abstract: "Notes on energy and time management skills"
 
 ##### badminton  
 
+##### running  
 
 #### Notes on Time Management  
 * **Time** is more valuable than money  

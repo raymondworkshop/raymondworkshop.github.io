@@ -1,6 +1,7 @@
 
 ### notes 
 * ideas  
+    - some like pinboard app  
     
     - Blog on what your learning  
         + [Rust-101](https://www.ralfj.de/projects/rust-101/)  

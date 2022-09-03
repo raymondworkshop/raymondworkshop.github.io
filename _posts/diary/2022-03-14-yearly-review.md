@@ -5,6 +5,11 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-09-02  
+* 提升你的专业能力  
+    - wealth  
+
+
 #### 2022-08-29  
 * review on how you make decisions  
     - 逃避，害怕去面对  
@@ -19,7 +24,7 @@ tags: [diary, review, important, learning, lesson]
         + by creating a work or doing a deed    
         + **nurture your functional excellence** - a talent, a skill, a craft, a knack  
     
-    - experience 
+    - experience  
         + **experiencing something** - such as **goodness, truth, and beauty** - by experiencing nature and culture or, by experiencing another human being in his very uniqueness - by loving her.  
 
 
@@ -27,7 +32,6 @@ tags: [diary, review, important, learning, lesson]
         +  "each of us has some gift - a talent, a skill, a craft, a knack - that gives us pleasure and engage us, and **the path to our happiness often lies within that gift**"  
 
     - nurture him with love, support and encouragement from his parents   
-
 
 
 * focus - think - decide - act  
