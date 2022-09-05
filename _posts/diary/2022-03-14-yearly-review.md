@@ -5,9 +5,85 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
-#### 2022-09-02  
-* 提升你的专业能力  
-    - wealth  
+#### 2022-09-05  
+* Framework    
+    - SELF  
+        + health  
+        + EQ  
+        + mindset  
+            - **爱 -》 自信 -》 独立 -》 选择 -》 创造力 -》 领导力**    
+                + 爱 <- 圣经， 家人  
+                + 自信 <- stay humble but know your worth  
+                + 独立 <- the ability to live your life without being helped or influenced by other people  
+                    - **optimize for independence**    
+                    - 这意味着自由  
+
+                + **选择**  
+                    - **努力用在选择上，前期投入大量工作**  
+                        + 放弃对确定性的执着，顺势而为 
+                        + 认清楚自己想要什么，然后去做，不会给自己设限  
+                    - **accountability**  
+                        + responsible for what you do and must be able to give a satisfactory reason fot it  
+
+                + **创造力**  
+                    - **invest your skills/creativity**     
+                    - some gift - a skill, a craft, a talent, a knock - gives us pleasure and engage us,and the path to our happiness often lies within that gift  
+
+                + **领导力**    
+                    - leadship - delegate it, automate it, or leave it     
+
+    
+    - love  
+        + Ivy  
+            - I can make sure with Ivy  
+            - 很深的情绪体验  
+            - I feel that she is 善良+能干  
+
+        + families  
+
+    - business  
+        + 架构师 + 企业家  
+            - 软件 - 产品 - 生意  
+
+        + engineering   
+
+        + people skills  
+
+        + languages  
+
+        + wealth  
+
+
+
+* TOIMPROVE    
+    - engineering  
+
+    - languages    
+
+    - EQ  
+
+    - love  
+
+    
+
+* DONE    
+    - finish a bit about interpreter project   
+        + a bit happy  
+
+    - Don't finish the project  
+
+    - energy management  
+
+    - EQ  
+        + 沙田区的 过于学生思维，感觉不太适合现在的自己  
+            - 阶段和年龄不一样了  
+            - 可以跟读圣经 
+
+    - 买了意外险  
+
+    - 上了一次语言课  
+
+    - 最近作息不好  
 
 
 #### 2022-08-29  
@@ -81,6 +157,8 @@ tags: [diary, review, important, learning, lesson]
         + **不断根据新的碎片 修正甚至打破旧的框架 并构建新的框架**， 开始比较慢，但最终会后来居上 
             - 先有框架后有碎片，容易上手，开始会看上去遥遥领先，但后面就僵化而无法增长  
             - 框架固化后 最大坏处 是容易偏执的去 “占小便宜吃大亏”， 因为已经成为本  
+
+    - 不断的打破和构建自己的认知  
 
 #### 2022-08-15  
 * TODO  

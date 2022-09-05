@@ -5,39 +5,27 @@ date: 2012-03-19
 
 ### log of training & books and my ratings
 
-#### training-2022 
-* leadship  
+#### training-2022  
+*  [Developing An Entrepreneurial Mindset: First Step Towards Success](https://www.coursera.org/learn/entrepreneurial-mindset/home/week/1)  
+*  **[軟件工程之美](https://time.geekbang.org/column/article/82337)**  
+*  [Managing Emotions in Times of Uncertainty & Stress](https://www.coursera.org/learn/managing-emotions-uncertainty-stress/home/week/1)  
+*  [Philosophy and Critical Thinking](https://learning.edx.org/course/course-v1:UQx+META101x+1T2022/home)  
+* [pronunciation](https://www.coursera.org/learn/pronunciation-american-english-project/home/week/1)  
+
+* SKILLS   
+    - [Startup School](https://www.startupschool.org/curriculum) 
     - [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2022/home)  
-    - [Philosophy and Critical Thinking](https://learning.edx.org/course/course-v1:UQx+META101x+1T2022/home)  
-    - [Managing Emotions in Times of Uncertainty & Stress](https://www.coursera.org/learn/managing-emotions-uncertainty-stress/home/week/1)  
     - [Couples Counselling](https://alison.com/topic/learn/121714/introduction-to-counselling)  
 
-
-* Entrepreneur  
-    - [Startup School](https://www.startupschool.org/curriculum) 
-    - **[軟件工程之美](https://time.geekbang.org/column/article/82337)**  
-
-    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
     - [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2021/home)
     - [Persuasive Communication](https://alison.com/topic/learn/103806/persuasive-communication-learning-outcomes)  
     - [Designing Your Career](https://learning.edx.org/course/course-v1:StanfordOnline+XDES300+1T2020/home)  
     - [Rhetoric: The Art of Persuasive Writing and Public Speaking](https://learning.edx.org/course/course-v1:HarvardX+AESTHINT15+1T2022/home)  
     - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
-
-
-* tech  
+ 
     - [CS 61A: Structure and Interpretation of Computer Programs](https://cs61a.org/)  
     - [Great Ideas in Computer Architecture](https://cs61c.org/su22/)  
-    - [Software Design](https://www.coursera.org/learn/software-design-development-life-cycle/home/week/1)
-    - [Game Theory](https://www.coursera.org/learn/game-theory-1/home/week/1)  
-    - [Microeconomics](https://learning.edx.org/course/course-v1:MITx+14.01x+3T2021/home)  
-
-
-* Writing  
-    - [writing](https://www.coursera.org/learn/advanced-writing/home/week/1)  
-    - [pronunciation](https://www.coursera.org/learn/pronunciation-american-english-project/home/week/1)  
-
-* Personal  
+ 
     - [Creative and Practical Thinking Skills](https://learning.edx.org/course/course-v1:HKPolyUx+Lifedeath101x+1T2022/home) (8/10)  
 
 
@@ -55,32 +43,32 @@ date: 2012-03-19
 * [Writing Interpreters and Compilers for the Raspberry Pi Using Python](https://www.amazon.com/gp/product/B089M41NGB/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) by Anthony J. Dos Reis  
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
 
-* [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina  
-* [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
-* [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore  
-
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
+* [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
 * [The Art of Clean Code](https://book.douban.com/subject/35615724/) by Christian Mayer  
+* [Permission to Feel](https://book.douban.com/subject/34871932/) by Marc Brackett  
+* [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina  
+* [Think Bayes, 2nd](https://book.douban.com/subject/35428149/) by Allen Downey  
 
-* [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
+
 * [Producing Open Source Software](https://producingoss.com/en/index.html)  
-
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling  
+* [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore  
 
 * [Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer  
 * [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan  
 * [The Long Tail](https://book.douban.com/subject/26584041/) by Chris Anderson  
+* [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
 
 * [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  (9/10)    
 * [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  
 * [Why Has Nobody Told Me This Before](https://book.douban.com/subject/35777114/) by Dr. Julie Smith  
 * [紅玫瑰yu与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲    
 
-* [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  
+* [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  (8/10)  
 * [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti  
 * [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
-* [From Cold War to Hot Peace](https://book.douban.com/subject/27126169/) by Michael McFaul  
 
 #### training-2021  
 * [Professional development: Improve yourself, always](https://www.coursera.org/learn/professional-development-improve-yourself/home/welcome)  
