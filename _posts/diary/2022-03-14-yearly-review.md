@@ -56,15 +56,38 @@ tags: [diary, review, important, learning, lesson]
 
 
 * TOIMPROVE    
+    - finish current project  
+        + TOCHECK  
+        
     - engineering  
+        + 完成  **[軟件工程之美](https://time.geekbang.org/column/article/82337)**  
+        + 完成一些书  
+            - [The Art of Clean Code](https://book.douban.com/subject/35615724/) by Christian Mayer 
+            -  [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
+            -  [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
+
+        + 参加一些开源项目  
+        + 实际开发一些项目  
+        + 交流  
+
 
     - languages    
+        + 英文发音课  
+        + 英文写作课  
+        + 练广东话  
+        + 参加一些meetup  
 
     - EQ  
+        + 先完成 《Permission to Feel》  
 
     - love  
+        + 多和Ivy 交流  
 
-    
+    - mindset    
+        + 参加一些meetup  
+        + 多读传记  
+        +  [Think Bayes, 2nd](https://book.douban.com/subject/35428149/) by Allen Downey  
+
 
 * DONE    
     - finish a bit about interpreter project   

@@ -50,7 +50,6 @@ date: 2012-03-19
 * [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina  
 * [Think Bayes, 2nd](https://book.douban.com/subject/35428149/) by Allen Downey  
 
-
 * [Producing Open Source Software](https://producingoss.com/en/index.html)  
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling  
