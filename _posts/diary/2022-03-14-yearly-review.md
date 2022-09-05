@@ -54,7 +54,6 @@ tags: [diary, review, important, learning, lesson]
         + wealth  
 
 
-
 * TOIMPROVE    
     - finish current project  
         + TOCHECK  
@@ -70,7 +69,6 @@ tags: [diary, review, important, learning, lesson]
         + 实际开发一些项目  
         + 交流  
 
-
     - languages    
         + 英文发音课  
         + 英文写作课  
@@ -84,9 +82,10 @@ tags: [diary, review, important, learning, lesson]
         + 多和Ivy 交流  
 
     - mindset    
-        + 参加一些meetup  
         + 多读传记  
         +  [Think Bayes, 2nd](https://book.douban.com/subject/35428149/) by Allen Downey  
+        + 参加一些meetup  
+
 
 
 * DONE    

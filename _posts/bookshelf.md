@@ -6,7 +6,7 @@ date: 2012-03-19
 ### log of training & books and my ratings
 
 #### training-2022  
-*  [Developing An Entrepreneurial Mindset: First Step Towards Success](https://www.coursera.org/learn/entrepreneurial-mindset/home/week/1)  
+*  **[Entrepreneurial Mindset](https://www.coursera.org/learn/entrepreneurialmindset/home/week/1)**    
 *  **[軟件工程之美](https://time.geekbang.org/column/article/82337)**  
 *  [Managing Emotions in Times of Uncertainty & Stress](https://www.coursera.org/learn/managing-emotions-uncertainty-stress/home/week/1)  
 *  [Philosophy and Critical Thinking](https://learning.edx.org/course/course-v1:UQx+META101x+1T2022/home)  
