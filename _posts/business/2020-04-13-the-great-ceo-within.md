@@ -158,7 +158,7 @@ abstract: "Notes on the management skills in the practical part"
         + **the more influence they feel they have on the outcome**, the more they'll be invested in the final result
 
     - **Write a draft** for an issue or decision
-        + proposed solution
+        + proposed solution  
         + include **both a detailed description of the issue** and **the proposed solution**
             - make a guess
         + **invite people to make comments and questions** before  the meeting
@@ -169,9 +169,9 @@ abstract: "Notes on the management skills in the practical part"
         + like require junior people to speak and ask questions first
         + then give more senior folks a chance to give feedback
 
-    - RAPID
+    - RAPID  
 
-* **Impeccable Agreements**
+* **Impeccable Agreements**  
     - precisely defined and fully agreed to (written) by all relevant people
         + successful follow-through of the agreement
             - like **decision with specific actions**, responsible individuals, and due dates
@@ -219,12 +219,12 @@ abstract: "Notes on the management skills in the practical part"
         + Joy is an even better motivator than fear
 
 
-* Issue Identification and Conflict Resolution
+* Issue Identification and Conflict Resolution  
     -  when people feel distrust or dislike, usually because **they don't feel heard**
 
-    -  repeak back what you heard
-       + "**I think I heard you say** ... "
-       + "**That's right**"
+    -  repeak back what you heard 
+       + "**I think I heard you say** ... "  
+       + "**That's right**"  
     - **Steps**
        + Feeling
           - anger, fear, sadness, joy
@@ -260,7 +260,7 @@ abstract: "Notes on the management skills in the practical part"
 
 #### Infrastructure
 
-* ch20 - Goal-Tracking System
+* ch20 - Goal-Tracking System 
 
 #### Collaboration
 * ch24 - organizational structure
@@ -282,8 +282,8 @@ abstract: "Notes on the management skills in the practical part"
         + **the current health** of the entity, **both the good and the not good**
 	      + with the not good, **what the issue is in detail and a proposed solution**
 	          - this can **make requests for help from the manager**
-	      + good ?
-	      + not good?
+	      + good ?  
+	      + not good?  
             - describe the issue in detail, as weel as your proposed solution.
 	          - **what you can do to solve the issue**
 	          - **what I (your manager) can do to help unblock you**
@@ -316,7 +316,7 @@ abstract: "Notes on the management skills in the practical part"
 #### Processes
 
 #### reference
-* [The Great CEO Within]  
+* [The Great CEO Within](https://read.amazon.com/?asin=B07ZLGQZYC&ref_=kwl_kr_iv_rec_5&language=en-US)    
 * [the lean startup]  
 * [getting real]  
 * [rework]  

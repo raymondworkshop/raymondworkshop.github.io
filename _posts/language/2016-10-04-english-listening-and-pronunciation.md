@@ -7,8 +7,22 @@ categories: [language, english, important]
 abstract: "English Listening and Pronunciation"
 ---
 
+#### American English Pronunciation  
+* notes  
+    - clothing  /ˈkloʊ.ðɪŋ/  
+    - vest /vest/  
+        + v - voiced, making a sound with the vocal cords  
+            - the lips under the top teeth
+        + west  - the lips  
+        + f - Voiceless, meaning only air passes through the mouth
+
+    - g /dʒiː/
+    - J /dʒeɪ/
+
+* reference  
+    - [American English Pronunciation](https://www.coursera.org/learn/american-english-pronunciation-consonant-sounds/home/week/1)  
+
 #### ELP: English Listening and Pronunciation 
-* TODO  
 
 * errors  
     - says /sez/  
@@ -22,7 +36,7 @@ abstract: "English Listening and Pronunciation"
     - [ESL GOLD](https://eslgold.com/)  
 
 
-#### intonation  
+#### **intonation**    
 * melody - music
 * stress  
     - the content words 
@@ -68,8 +82,13 @@ abstract: "English Listening and Pronunciation"
         + 双唇微开，**舌后跟轻触口腔软腭**，把气往前推
         + *girl*， *clean, clock*
  
-    - [f] -> 上齒咬下唇，没有爆破 *coffee* 
+    - [f] -> 上齒咬下唇，没有爆破 *coffee*  
+        +  Voiceless, meaning only air passes through the mouth
     - [v] -> *very* 
+        + voiced, making a sound with the vocal cords  
+            - **the lips under the top teeth**  
+        + west  - the lips  
+        
     - [θ, ð] -> **舌尖伸出来**
 
     - **[l](https://www.youtube.com/watch?v=hvvMmlbs2KI&index=44&list=PLzc5ffj3_Cb5mPVzIFiJelpInJjae8NG2)** 
@@ -174,7 +193,8 @@ abstract: "English Listening and Pronunciation"
   
 
 #### refereence
-*   **[ELP: English Listening and Pronunciation](https://homepage.ntu.edu.tw/~karchung/ELPF21.html)**  
+*   **[ELP: English Listening and Pronunciation](https://homepage.ntu.edu.tw/~karchung/ELPF21.html)** 
+*   [Intonation](http://rachelsenglish.com/video-categories/#consonants)  
 *   [Professional English](https://www.coursera.org/learn/speak-english-professionally/home/week/1)
 *   [Pronunciation Workshop Video Training Program](http://www.bilibili.com/video/av2681140/)
 *   [cuhk](https://www.ilc.cuhk.edu.hk/EN/ENResources/Speaking_Pronun.aspx)
@@ -183,6 +203,5 @@ abstract: "English Listening and Pronunciation"
 *   [Improve Your English Communication Skills](https://www.coursera.org/learn/professional-emails-english/home/welcome)
 *   [Writing in the Sciences](https://lagunita.stanford.edu/courses/Medicine/SciWrite./Fall2015/info)
 *   [essential skills for the workplace](https://www.coursera.org/learn/project-management-basics/home/welcome)
-*   [Improve Your English Communication Skills](https://www.coursera.org/specializations/improve-english)
 *   [English Skills for Business](https://www.coursera.org/specializations/business-english)
 

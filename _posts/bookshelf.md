@@ -10,18 +10,15 @@ date: 2012-03-19
 *  **[軟件工程之美](https://time.geekbang.org/column/article/82337)**  
 *  [Managing Emotions in Times of Uncertainty & Stress](https://www.coursera.org/learn/managing-emotions-uncertainty-stress/home/week/1)  
 *  [Philosophy and Critical Thinking](https://learning.edx.org/course/course-v1:UQx+META101x+1T2022/home)  
-* [pronunciation](https://www.coursera.org/learn/pronunciation-american-english-project/home/week/1)  
+* [American English Pronunciation](https://www.coursera.org/learn/american-english-pronunciation-consonant-sounds/home/week/1)  
 
 * SKILLS   
     - [Startup School](https://www.startupschool.org/curriculum) 
     - [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2022/home)  
     - [Couples Counselling](https://alison.com/topic/learn/121714/introduction-to-counselling)  
 
-    - [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2021/home)
     - [Persuasive Communication](https://alison.com/topic/learn/103806/persuasive-communication-learning-outcomes)  
-    - [Designing Your Career](https://learning.edx.org/course/course-v1:StanfordOnline+XDES300+1T2020/home)  
     - [Rhetoric: The Art of Persuasive Writing and Public Speaking](https://learning.edx.org/course/course-v1:HarvardX+AESTHINT15+1T2022/home)  
-    - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
  
     - [CS 61A: Structure and Interpretation of Computer Programs](https://cs61a.org/)  
     - [Great Ideas in Computer Architecture](https://cs61c.org/su22/)  

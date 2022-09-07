@@ -57,6 +57,12 @@ tags: [diary, review, important, learning, lesson]
 * TOIMPROVE    
     - finish current project  
         + TOCHECK  
+
+    - mindset    
+        + [The Great CEO Within](https://read.amazon.com/?asin=B07ZLGQZYC&ref_=kwl_kr_iv_rec_5&language=en-US)
+        +  [Think Bayes, 2nd](https://book.douban.com/subject/35428149/) by Allen Downey  
+        + 参加一些meetup  
+        + 多读传记  
         
     - engineering  
         + 完成  **[軟件工程之美](https://time.geekbang.org/column/article/82337)**  
@@ -69,23 +75,21 @@ tags: [diary, review, important, learning, lesson]
         + 实际开发一些项目  
         + 交流  
 
+    - love  
+        + 多和Ivy 交流  
+        + 读 《Relationship Magic》  
+
+    - EQ  
+        + 先完成 《Permission to Feel》  
+
     - languages    
         + 英文发音课  
         + 英文写作课  
         + 练广东话  
         + 参加一些meetup  
 
-    - EQ  
-        + 先完成 《Permission to Feel》  
-
-    - love  
-        + 多和Ivy 交流  
-
-    - mindset    
-        + 多读传记  
-        +  [Think Bayes, 2nd](https://book.douban.com/subject/35428149/) by Allen Downey  
-        + 参加一些meetup  
-
+    - business  
+        + [Leaving the Rat Race with Python An Insiders Guide to Freelance Developing]
 
 
 * DONE    
