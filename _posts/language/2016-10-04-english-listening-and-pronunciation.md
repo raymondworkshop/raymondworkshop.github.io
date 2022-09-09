@@ -56,10 +56,10 @@ abstract: "English Listening and Pronunciation"
     - n -> none 放在单词结尾时，舌头还保留再前鄂原位置
     - l -> milk 
     - v -> victor 上牙輕咬下嘴唇
-    - s -> 嘴型 稍微大
-    - ɔ -> 喉咙 张开，
+    - s -> 嘴型 稍微大  
+    - ɔ -> 喉咙 张开  
     - a: -> 喉咙发音
-    - e, æ -> 后面喉咙, æ 更靠后
+    - e, æ -> 后面喉咙, æ 更靠后  
     - ei, ai -> 不能漏掉 /i/
     - au -> 不能漏掉 /u/
     - t p d k -> 

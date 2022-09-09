@@ -9,12 +9,12 @@ date: 2012-03-19
 *  **[Entrepreneurial Mindset](https://www.coursera.org/learn/entrepreneurialmindset/home/week/1)**    
 *  **[軟件工程之美](https://time.geekbang.org/column/article/82337)**  
 *  [Managing Emotions in Times of Uncertainty & Stress](https://www.coursera.org/learn/managing-emotions-uncertainty-stress/home/week/1)  
-*  [Philosophy and Critical Thinking](https://learning.edx.org/course/course-v1:UQx+META101x+1T2022/home)  
+* [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2022/home)  
 * [American English Pronunciation](https://www.coursera.org/learn/american-english-pronunciation-consonant-sounds/home/week/1)  
+*  [Philosophy and Critical Thinking](https://learning.edx.org/course/course-v1:UQx+META101x+1T2022/home)  
 
 * SKILLS   
     - [Startup School](https://www.startupschool.org/curriculum) 
-    - [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2022/home)  
     - [Couples Counselling](https://alison.com/topic/learn/121714/introduction-to-counselling)  
 
     - [Persuasive Communication](https://alison.com/topic/learn/103806/persuasive-communication-learning-outcomes)  
@@ -40,9 +40,9 @@ date: 2012-03-19
 * [Writing Interpreters and Compilers for the Raspberry Pi Using Python](https://www.amazon.com/gp/product/B089M41NGB/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) by Anthony J. Dos Reis  
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
 
+* [The Art of Clean Code](https://book.douban.com/subject/35615724/) by Christian Mayer (8/10)  
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
-* [The Art of Clean Code](https://book.douban.com/subject/35615724/) by Christian Mayer  
 * [Permission to Feel](https://book.douban.com/subject/34871932/) by Marc Brackett  
 * [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina  
 * [Think Bayes, 2nd](https://book.douban.com/subject/35428149/) by Allen Downey  

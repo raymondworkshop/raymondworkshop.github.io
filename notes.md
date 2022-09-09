@@ -3,7 +3,7 @@
 * ideas  
     - some like pinboard app  
     
-    - Blog on what your learning  
+    - Blog on what your learning or tutorial  
         + [Rust-101](https://www.ralfj.de/projects/rust-101/)  
 
     - markdown -> slides/pdf  

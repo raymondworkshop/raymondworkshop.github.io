@@ -68,6 +68,7 @@ tags: [diary, review, important, learning, lesson]
         + 完成  **[軟件工程之美](https://time.geekbang.org/column/article/82337)**  
         + 完成一些书  
             - [The Art of Clean Code](https://book.douban.com/subject/35615724/) by Christian Mayer 
+            - [system design](https://www.karanpratapsingh.com/courses/system-design)
             -  [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
             -  [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
 
