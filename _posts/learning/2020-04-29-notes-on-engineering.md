@@ -63,21 +63,47 @@ categories: [learning, engineering, course, important, manager]
         + 对于大规划中属于同性质的作业持续做就可以了  
         + 或者学生相信这个教练的规划，就会全力努力  
 
+#### a minimalistic mindset  
+* focus  
+    - **focus on the vital few** and ignore the trivial many  
+        + on the tasks that **matter**  
+    - 80/20  
+        + 20% delivers 80% of the results  
+
+* keep it **simple**  
+    - apply simplicity in design  
+    - less is more  
+
+* MVP - **a minimal viable product**  
+    - **focus on one hypothesis** at a time about your user's needs  
+        + **spend more time thinking about what features to implement**  than actually implementing them  
+    - release your MVP quickly and often  
+        + max the rate of progress toward product-market fit
+
+* doing one thing well  
+
+* less is more in Design  
+
+
+
+#### System Design and Software Engineering  
+* TODO  
+
+* reference  
+    - [building Systems](https://codewithstyle.info/software-vs-systems/)
+    - [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
+    - [Software Design](https://www.coursera.org/learn/software-design-development-life-cycle/home/week/1)
+    - [Engineering Software as a Service](https://book.douban.com/subject/24316596/) by Armando Fox / David Patterson  
+    - [Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer 
+    - [The Mythical Man Month](https://book.douban.com/subject/1494471/)
+
+
 #### agile 
 * While I don't believe there is a one-size-fits-all development process I am a fan of some aspects **agile development practices** and **the lean startup movement** (especially as it applies to software process) - but am always eager to try new models and methods.  
 
 * reference  
     
 
-#### System Design and Software Engineering  
-* TODO  
-
-* reference  
-    - [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
-    - [Software Design](https://www.coursera.org/learn/software-design-development-life-cycle/home/week/1)
-    - [Engineering Software as a Service](https://book.douban.com/subject/24316596/) by Armando Fox / David Patterson  
-    - [Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer 
-    - [The Mythical Man Month](https://book.douban.com/subject/1494471/)
 
 ##### 500L
 * TODO 

@@ -176,7 +176,6 @@ abstract: "notes on the GOOD life - beauty and love "
 ##### **learn about yourself**    
 * **time and peace of mind** are the most expensive mode of payment 
 
-
 *  **self-growth**    
     - **模仿比聪明和努力更重要**  
        >  + **交流**进而产生对比,对比自然分出高低; **低的自然模仿高的**

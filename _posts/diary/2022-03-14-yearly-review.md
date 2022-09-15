@@ -5,6 +5,12 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-09-13  
+* 面对压力和不确定性  
+    - 真有可能不太适合创业  
+
+
+
 #### 2022-09-05  
 * Framework    
     - SELF  

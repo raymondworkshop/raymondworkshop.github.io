@@ -49,6 +49,15 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning  
+* **对神的信心**    
+    - God's promise not to count our sins against us  
+        + 罪会破坏你的灵魂和生活   
+        + 耶稣解决罪的方式 是 耶稣替你死在十字架上 
+
+    - 顺从神的旨意 和 自己的意愿 之间的挣扎  
+        + “你不必为这童子和你的使女忧愁”  
+    - “**感到平静**”就去做  
+
 * **经历和彰显基督的能力**    
     - 越来越敞开  
     - 最大的诫命 是 “全心爱主你的神”  

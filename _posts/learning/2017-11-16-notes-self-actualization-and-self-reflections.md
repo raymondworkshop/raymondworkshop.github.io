@@ -13,6 +13,8 @@ abstract: "learn from your mistakes, and know more about yourself"
         +  **有一个自主性的意识在，对这个事情有基本判断**；
         **从现实出发，试试看**； 否则全部都是别人给你设的，怎么样去满足别人的要求，那会很痛苦  
         + **你的存在是先的，然后去不去做**  只是一个选择，结果也是多样的  
+        + **不断突破并改写自己的叙事框架**，才可以获得这一层次的自由  
+            - 否则 社会或他人潜移默化的规训  
     
     - **从具体的问题看**，从周边非常具体地看生活  
         + **我们只能懂小的东西**，也不懂大的东西  
@@ -46,6 +48,12 @@ abstract: "learn from your mistakes, and know more about yourself"
         + deal with people how they deal with you, hardly, barely, and accordingly  
         + stop worrying about people who doen't even care about you   
 
+* softskills  
+    - **看到自己愿意的**就主动争取和结交  
+    - **不断的鼓励自己，挑战自己**  
+        + 输了我可以重来，没有第一我可以再抢第一  
+        + **不管什么，我都可以站起来**
+        + 在这个过程中变得自信    
 
 
 * lessons  

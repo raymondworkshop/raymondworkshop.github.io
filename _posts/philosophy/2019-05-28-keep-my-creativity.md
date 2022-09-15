@@ -159,6 +159,7 @@ abstract: "About creativity"
     - **prototypes** are designed to answer just a few questions 
         + you could ignore unimportant details 
 
+
 #### 创意产品 - 从创意连接到产品的人 - 
 
 * PM 

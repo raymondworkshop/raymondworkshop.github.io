@@ -37,11 +37,7 @@ abstract: "Notes on the management skills in the practical part"
    没有必要说服所有人  
        + **把重心放在 证明你自己的能力和判断上**；无须为别人的无知和傲慢负责  
 
-#### ideas from <The Making of a Manager>  
 
-#### ideas from <the lean-startup>   
-
-#### ideas from <getting real>  
 
 #### The Beginning  from <The Great CEO Within>  
 * 软体公司成长记  
@@ -69,6 +65,7 @@ abstract: "Notes on the management skills in the practical part"
 
         + without a formal management
 
+
 #### Individual Habits  - optimize yourself  
 * track goals, priorities, and tasks
     - get things done
@@ -82,7 +79,7 @@ abstract: "Notes on the management skills in the practical part"
 * When you say it twice, **write it down**
     - to a 2nd audience or in a 2nd situation, just share it **in written form**
 
-* **Gratitude and Appreciation**
+* **Gratitude and Appreciation**  
     - **we perform our best when we are having fun and feeling good about ourselves**  
         + "Great", "Good idea, it was the right thing to do"
     - **daily gratitude** to yourself
@@ -152,7 +149,7 @@ abstract: "Notes on the management skills in the practical part"
     - **75% of your net worth is liquid asset**
 
 
-#### Group Habits
+#### Group Habits  
 *  Decision-Making
     - Creating Buy-in a decision
         + **the more influence they feel they have on the outcome**, the more they'll be invested in the final result
@@ -313,7 +310,12 @@ abstract: "Notes on the management skills in the practical part"
 	      + do not use email, text, or voicemail to give feedback, unless 100 positive
   
 
-#### Processes
+#### ideas from <The Making of a Manager>  
+
+#### ideas from <the lean-startup>   
+
+#### ideas from <getting real>  
+
 
 #### reference
 * [The Great CEO Within](https://read.amazon.com/?asin=B07ZLGQZYC&ref_=kwl_kr_iv_rec_5&language=en-US)    
