@@ -12,6 +12,7 @@ date: 2012-03-19
 * [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2022/home)  
 * [American English Pronunciation](https://www.coursera.org/learn/american-english-pronunciation-consonant-sounds/home/week/1)  
 *  [Philosophy and Critical Thinking](https://learning.edx.org/course/course-v1:UQx+META101x+1T2022/home)  
+* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego   
 
 
 #### reading-2022  
@@ -30,6 +31,7 @@ date: 2012-03-19
 * [The Art of Clean Code](https://book.douban.com/subject/35615724/) by Christian Mayer (8/10)  
 * [Hello](https://book.douban.com/subject/26426841/) by Yevgeniy Brikman  
 
+* [why's (poignant) Guide to Ruby](https://poignant.guide/book/) 
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
 * [Permission to Feel](https://book.douban.com/subject/34871932/) by Marc Brackett  

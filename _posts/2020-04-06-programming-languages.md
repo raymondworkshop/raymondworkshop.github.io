@@ -9,8 +9,7 @@ abstract: "[Updating] Notes on programing languages"
 ---
 
 #### Interpreters  
-parse: program   ->  abstract-syntax-tree  
-eval:  abstract-syntax-tree  ->  result   
+program  - parse -> abstract-syntax-tree - eval -> result  
 
 
 TODO  
