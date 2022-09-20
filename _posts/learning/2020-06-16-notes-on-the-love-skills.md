@@ -49,10 +49,18 @@ categories: [notes, important, softskills, love, self, learning]
         + never apologize to anyone for **being who you are**  
         + once you've accepted your flaws, no one can use them against you  
 
-    - in control of your life  
 
-    - listen to her, add in your thoughts, and understand her    
+    - **listen to her, add in your thoughts**, and understand her    
         +  when **a trait or feeling** comes up, that **you agree with**, **tell her**    
+        +  **do things that make her feel enriched**    
+            - **试着了解对方的感受**  
+                + 将心比心  
+            - gentle  
+                + **先考虑对方感受**  
+                + 公共意识强， **不影响别人**  
+                + 温柔： “**我到底错在哪，你能否告诉我**”  
+            
+        
         + 同理心会话  
             - 以真实的渴望，**了解她的思想，感觉和愿望**  
                 + **听感觉问自己 ”她正体验什么样的情绪“**    
@@ -70,7 +78,10 @@ categories: [notes, important, softskills, love, self, learning]
         + trust him  
         + relax him  
         + respect him  
-        + enlighten him  (explain or understand)
+        + enlighten him  (explain or understand)  
+
+    - in control of your life  
+
 
 
 * show your woman in **adequate love and appreciation**    

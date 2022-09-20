@@ -7,7 +7,40 @@ categories: [ important, self, softskills, learning]
 abstract: "Master your emotions. and you can Control your life  ."
 ---
 
+#### express your love  
+* 同理心会话  
+    - 以真实的渴望，**了解她的思想，感觉和愿望**  
+        + **听感觉问自己 ”她正体验什么样的情绪“**    
+        +  ”听起来你觉得失望， 因为我 ...“  
+        +  ”你是不是需要 ...“  
+
+    - 学习表白自己 
+        + **告诉对方自己的思想和感觉**   
+
+    - **一起面对你们的问题和担扰，不要过于克制和隐藏**  
+        + 这样她才知道你信任她，你们两个会更亲近  
+
+    - 開始在你生命中嘗試，看看你能為別人做些什麼   
+
+* Good vibe, positive, open-minded  
+    - Good vibe - **the positive feelings** given off by a person, place, or situation  
+
+* gentle, modest and giving  
+    - **先考虑对方感受**  
+        +  **听感觉问自己 ”她正体验什么样的情绪“**  
+        + 将心比心 - 试着了解对方的感受  
+    - 温柔  
+        + **“你能不能告诉我， 我到底错在哪里”**    
+    - 细节
+        + 开门  
+    - **不影响别人**， 公共意识强  
+
+
 #### Notes  
+* In comes from within  
+    - **focus on yourself** and not the world  
+    - **fight the battles inside you first and then watch** the world change around you  
+
 * **Master your emotions**  
     - love and accept yourself  
 

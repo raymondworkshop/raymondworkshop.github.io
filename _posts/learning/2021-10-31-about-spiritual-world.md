@@ -49,6 +49,14 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning  
+* **顺服神的带领**    
+    - 态度是服的  
+    - 专心享受主， 内心得到安静， 轻松  
+    - “在上有权柄的，人人当服从，因为没有权柄不是从神来的。凡掌权的都是神设立的” - 罗马书13-1  
+    - 神试验亚伯拉罕的水准 目的是 **克服自己的弱點**  
+        +  “信心因着行为才得成全” - 雅阁书2-22  
+            - 人称义是因着行为，不是单因着信  
+
 * **对神的信心**    
     - God's promise not to count our sins against us  
         + 罪会破坏你的灵魂和生活   

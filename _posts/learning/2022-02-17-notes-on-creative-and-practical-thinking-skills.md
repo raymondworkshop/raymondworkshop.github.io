@@ -347,6 +347,9 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
     The journey to **understand more** about the mysteries of the world and **explain them with reason is the core of our nature**    
 
 
+    - Science isn’t something to believe in, nor is it an absolute. 
+    It’s **a cyclic process of evaluating and changing your mind based on new, better evidence and data**  
+
 #### **experienced or seen** rather than theory    
 *  实证主义    
     - 经验归纳  -> 用丰富的具象事物 来 验证 理论假设  
@@ -355,6 +358,8 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
         **如果没有对具象事物足够的细节把握**，抽象的思维方式很容易陷入自说自话，纸上谈兵的困境   
 
     - **发现一个新现象， 到依据这一新发现形成一个假设**， 再到发送一个新探测器去检测这一假设  
+
+
 
 *  判例法  
     - **经验主义**  - **依靠感官认识世界， 再进行“归纳思维”**， 不同于 理性主义  
@@ -410,7 +415,12 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
 
 
 #### Empiricism  
-from John Locke to David Hume    
+* **演化的保守主义** - **相信普通人的常识和习惯**    
+    - 抽象理念可能会出错，但常识就可靠的多，因为**常识毕竟经过时间的考验**  
+    - **生活的经验，朴素的常识** 比 抽象的真理更重要    
+        + “**我从不让抽象的东西主宰自己**” - 柏克
+    - from John Locke, David Hume to Edmund Burke    
+    
 
 
 #### Rationalism  

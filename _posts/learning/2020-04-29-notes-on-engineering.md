@@ -6,51 +6,8 @@ comments: true
 categories: [learning, engineering, course, important, manager]
 ---
 
-#### notes on software engineering  
-* 规划力  - 从ideas 到 发布的过程  
-
-* **engineering thinking and project thinking** on every task
-    - 想法 + 概念 + 计划 + 设计 + 开发 + 发布  
-
-    - inception of idea 1-2  
-        +  **想法** : 识别问题 - **清晰地定义问题, 研究其可行性, 检查是否有可行方案**  
-        
-    - proof of concept 3-6  
-        +  **概念** - **提出概念性解决方案**, 可能有多个方案,最终确定一个  
-        + **可行性计划** - 如何实施, 人员,任务,时间, 预算  
-
-    - production of samples/prototypes/tools  7-8  
-        + **设计** - 将解决方案细化, 设计架构和划分功能模块  
-
-    - conduct of trial schemes  9-10  
-       + 开发 - 根据设计方案, 实施构建, 并迭代  
-
-    - use in public sector/launch into open market   
-       + 发布  
-
-* 软件工程 = 过程 + 方法 + 工具  
-
-* 瀑布模型- 有序可控  
-    - 需求分析
-        + 了解老板的想法 + 调研 + **设计原型**
-        + 让老板给反馈, **写产品设计文档**, 划分不同模块
-    -  軟件設計
-        + 根據產品設計文檔, 把整体架构确定, **写技术方案**
-        + 开会讨论, 确认整体技术方案, 按照功能模块拆分
-    -  程序編碼
-
-    - 軟件測試
-
-* 原型开发,  增量模型(模块化小瀑布),  迭代模型  
-
-* 敏捷开发  
-    - scrum(过程管理) + 极限编程(工程实践) + 看板(可视化)
-
-* 分而治之的策略
-    - 拆分 + 流程  
-
-
-* 组织规划力  
+### notes on software engineering  
+* 组织规划力  - 从ideas 到 发布的过程  
     - 规划 把事情做成的流程计划  - f(x)  
   
     - **用“3”的概念 先掌握住大框架**， 再对细节做螺旋状前进  
@@ -63,12 +20,85 @@ categories: [learning, engineering, course, important, manager]
         + 对于大规划中属于同性质的作业持续做就可以了  
         + 或者学生相信这个教练的规划，就会全力努力  
 
+#### project thinking  
+* 工程化的思维 
+    - 想法  
+        + 识别问题  
+        + 头脑风暴，收集想法 
+
+    - 概念  
+        - 现有解决方案的需求  
+        - 约束条件  
+
+    + 计划 
+        - 定义目标， 制定时间计划表  
+
+    + 设计  
+        - 模型，算法，概念驗證  
+        - 根据头脑风暴的结果，来确定最终设计  
+
+    + 開發  
+        - 构建和测试  
+
+    + 发布 
+        - 展示结果  
+    
+    + inception of idea 1-2  
+        -   **想法** : 识别问题 - **清晰地定义问题, 研究其可行性, 检查是否有可行方案**  
+        
+    + proof of concept 3-6  
+        -   **概念** - **提出概念性解决方案**, 可能有多个方案,最终确定一个  
+        -  **可行性计划** - 如何实施, 人员,任务,时间, 预算  
+
+    + production of samples/prototypes/tools  7-8  
+        -  **设计** - 将解决方案细化, 设计架构和划分功能模块  
+
+    + conduct of trial schemes  9-10  
+        - 开发 - 根据设计方案, 实施构建, 并迭代  
+
+    + use in public sector/launch into open market   
+        - 发布  
+
+* 软件工程 = 过程 + 方法 + 工具  
+
+* 瀑布模型- 有序可控  
+    - 需求分析
+        + 了解老板的想法 + 调研 + **设计原型**
+        + 让老板给反馈, **写产品设计文档**, 划分不同模块
+    -  軟件設計
+        + 根據產品設計文檔, 把整体架构确定, **写技术方案**
+        + 开会讨论, 确认整体技术方案, 按照功能模块拆分
+    -  程序編碼
+
+    - 軟件測試  
+
+* 原型开发,  增量模型(模块化小瀑布),  迭代模型  
+
+* 敏捷开发  
+    - scrum(过程管理) + 极限编程(工程实践) + 看板(可视化)  
+    - 用户故事，理解用户需求
+    - 在迭代中采用**渐进式的架构设计**； sprint **只做适合当前需求的架构设计**  
+    - 定期重构解决技术债务  
+    - 功能开发的同时编写自动测试代码  
+    - 自动化持续构建  
+
+* 分而治之的策略
+    - 拆分 + 流程  
+
+
+#### 项目规划篇  
+TODO  
+
 #### a minimalistic mindset  
 * focus  
     - **focus on the vital few** and ignore the trivial many  
         + on the tasks that **matter**  
+    
     - 80/20  
         + 20% delivers 80% of the results  
+        + Find what works. Do less of what doesn't  
+
+    
 
 * keep it **simple**  
     - apply simplicity in design  

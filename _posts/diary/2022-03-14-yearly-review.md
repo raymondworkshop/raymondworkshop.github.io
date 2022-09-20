@@ -5,11 +5,88 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-09-19  
+* softskills in work  
+    - **顺从**，尊重，平等， 没有负面情绪  
+
+    - Respect  
+        + Take responsibility for your actions  
+
+        + ownership  
+            - I define it, although I respect you  
+            - Finish what you start. If you do, own up to it and maintain the respect  
+
+        + if you can do something by yourself, don't ask for help.  
+
+        + **you should ask for help when you really need it**.
+            - **This shows people that you're humble and know your limits**.
+            It also shows that you're open to being vulnerable with others. this will gain people's respect. 
+
+    - confident yet courteous (polite, showing respect)
+        + know you're worth and also be kind (humble and don't look down on others) 
+        + 我不跟人比 但我跟自己相处很好所以我自信  
+
+    
+    - cultures  
+        + face cultures  
+            - people derive their self worth **from earning the respect of others** 
+
+        + dignity cultures  
+            - believe in speaking their mind and being **self-reliant**  
+            - their self worth is **self determined** and they are very comfortable engaging in **direct, rational, fact-based conversation**    
+            - status and titles are not nearly as important as **information and talent**  
+
+    - 自己有掌控力的感觉很好  
+
+
+* love  
+    - **positive**, open-minded  
+    - **understanding**   
+        + **listen to her, add in your thoughts**, and understand her  
+            - **liten to her for 5 minutes**,**tell her it's going to be ok**, then change the topic 
+            - when **a trait or feeling** comes up, that you agree with, **tell her**  
+            - **一起面对你们的问题和担扰，不要过于克制和隐藏**，这样她才知道你信任她，你们两个会更亲近  
+            - she will feel a 'connection' with you and her interest will rise  
+
+        + 同理心会话  
+            - **了解对方的感受**，将心比心  
+                + **听感觉问自己 ”她正体验什么样的情绪“**  
+            - **简单描述听到和看到的事情**，并对情绪感受之共鸣 
+                + “**听你讲... 感觉你很...**”  
+            - 温柔
+                + “**我到底错在哪，你能否告诉我**”    
+
+        + Just **listen for and reflect feelings** unless she asks you to solve problem  
+            - she just wants you to listen  
+
+    - **caring**  
+        + support her  
+        + do things that make her feel enriched    
+
+
+* love  
+    - 要想让爱情持久，须经提纯过程， 要不断地去除杂质 （负面情绪）
+        + 在爱的过程中 **细细体味**， 能够真切地**感觉到这个提纯的过程**， 也是生命的提纯过程
+        + 在这个不断提纯的过程中， 生命得到净化，成为一个无比清澈美好的存在  
+    - 就像一块粗糙的石头 小心剖开， 发掘出 其中 晶莹剔透的宝玉；  就像一片芜杂的噪音中 分辨出悦耳的旋律 
+    - 不断去除  负面（不利于身心健康的）情绪， 如 嫉妒， 计较， 比较， 怨恨  
+        + 嫉妒：  为什么是她不是我得到了  
+        + 比较：  为什么她得到的比我多  
+        + 怨恨：  为什么我没有她幸运  
+        + 伤感：  为什么他不像我爱他那么爱我
+
+    - 保留下正面的（有利于身心健康的）东西， 如 欢喜， 欣赏， 温柔， 热爱  
+        +  欣赏：  她怎么会如此美好 
+        +  温柔：  她怎么会如此可爱
+        +  喜欢：  她怎么会如此聪明
+        +  热爱：  她怎么会如此罕见 
+        +  惊喜：  我怎么会如此幸运 
+        +  狂喜：  **由于她的存在引发了我的爱情**，我爱了  
+
+
 #### 2022-09-13  
 * 面对压力和不确定性  
     - 真有可能不太适合创业  
-
-
 
 #### 2022-09-05  
 * Framework    

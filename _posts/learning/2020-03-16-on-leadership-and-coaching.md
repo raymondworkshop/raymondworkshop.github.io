@@ -22,13 +22,30 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
 ##### public speaking skills  
 
 ##### soft skills  
+* Notes  
+    - **尊重，平等，顺从从**（配合自己的上司把事情做好）
+        + be subject to the **authorities**  
+        + authority - **the moral or legal right or ability to control**   
+        + TODO  from <Margin Call>  
+    - **没有负面情绪**  
+
 * 沟通交际能力  
+    - **how to present you**     
+        + 用正面的态度表达  
+        + 用什么语气表达  
 
 * 批判思考能力   
 
 * 领导决策能力  
+    - 自控力  
 
 * 同理心  
+
+* 学习能力  
+    - **you learn something by doing it yourself, by asking questions, by thinking, and by experimenting**  
+    - **understand**, don't memorize  
+    - **learn principles**, not formulas  
+
 
 
 ##### Leadership   
