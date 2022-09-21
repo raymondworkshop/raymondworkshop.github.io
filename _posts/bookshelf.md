@@ -29,13 +29,13 @@ date: 2012-03-19
 * [Writing Interpreters and Compilers for the Raspberry Pi Using Python](https://www.amazon.com/gp/product/B089M41NGB/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) by Anthony J. Dos Reis  
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
 * [The Art of Clean Code](https://book.douban.com/subject/35615724/) by Christian Mayer (8/10)  
-* [Hello](https://book.douban.com/subject/26426841/) by Yevgeniy Brikman  
 
-* [why's (poignant) Guide to Ruby](https://poignant.guide/book/) 
-* [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
-* [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
+* [Hello, Startup](https://book.douban.com/subject/26426841/) by Yevgeniy Brikman  
 * [Permission to Feel](https://book.douban.com/subject/34871932/) by Marc Brackett  
 
+* [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
+* [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
+* [why's (poignant) Guide to Ruby](https://poignant.guide/book/) 
 
 * [Producing Open Source Software](https://producingoss.com/en/index.html)  
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  

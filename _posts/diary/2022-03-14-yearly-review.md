@@ -36,7 +36,8 @@ tags: [diary, review, important, learning, lesson]
             - their self worth is **self determined** and they are very comfortable engaging in **direct, rational, fact-based conversation**    
             - status and titles are not nearly as important as **information and talent**  
 
-    - 自己有掌控力的感觉很好  
+    - 自己有**掌控力**的感觉很好  
+        + 自己设计了去大澳的hiking计划  
 
 
 * love  
