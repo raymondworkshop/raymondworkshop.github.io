@@ -24,19 +24,23 @@ date: 2012-03-19
 
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho (9/10)  
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (7/10)  
-* [Python Distilled](https://book.douban.com/subject/35563594/) by David M. Beazley  
-* [Serious Python](https://book.douban.com/subject/30206213/) by Julien Danjou    
 * [Writing Interpreters and Compilers for the Raspberry Pi Using Python](https://www.amazon.com/gp/product/B089M41NGB/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) by Anthony J. Dos Reis  
-* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  
+* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  (7/10) 
 * [The Art of Clean Code](https://book.douban.com/subject/35615724/) by Christian Mayer (8/10)  
 
 * [Hello, Startup](https://book.douban.com/subject/26426841/) by Yevgeniy Brikman  
 * [Permission to Feel](https://book.douban.com/subject/34871932/) by Marc Brackett  
+* [Python Distilled](https://book.douban.com/subject/35563594/) by David M. Beazley  
+* [Serious Python](https://book.douban.com/subject/30206213/) by Julien Danjou  
+* [Effective Python: 2nd Edition](https://book.douban.com/subject/34868258/) by Brett Slatkin  
 
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
-* [why's (poignant) Guide to Ruby](https://poignant.guide/book/) 
+* [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore  
+* [CPython Internals](https://book.douban.com/subject/35405785/) by Anthony Shaw  
 
+* [why's (poignant) Guide to Ruby](https://poignant.guide/book/) 
+* [Programming Rust, 2nd Edition](https://book.douban.com/subject/34973905/) by Jim Blandy  
 * [Producing Open Source Software](https://producingoss.com/en/index.html)  
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 
@@ -44,7 +48,6 @@ date: 2012-03-19
 * [Think Bayes, 2nd](https://book.douban.com/subject/35428149/) by Allen Downey  
 
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling  
-* [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore  
 
 * [Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer  
 * [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan  
