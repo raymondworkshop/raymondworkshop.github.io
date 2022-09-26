@@ -25,6 +25,7 @@ abstract: "notes on the GOOD life - beauty and love "
     - identify required habits  
     - develop habits one day at a time  
 
+
 * reference  
     - [Success](https://www.coursera.org/learn/wharton-success/home/week/1)  
     - [Leading the Life You Want](https://www.coursera.org/learn/leading-the-life-you-want/home/week/1)  
@@ -33,8 +34,16 @@ abstract: "notes on the GOOD life - beauty and love "
 
 #####  **Build myself - healthy, free, wealthy, and loved**    
 * **自我的自主性是第一** 
-    - 有一个自主性的意识在，对这个事情有基本判断；
-    从现实出发，试试看； 否则全部都是别人给你设的，怎么样去满足别人的要求，那会很痛苦  
+    - 有一个自主性的意识在，**对这个事情有基本判断，从现实出发，试试看**； 
+    否则全部都是别人给你设的，怎么样去满足别人的要求，那会很痛苦  
+
+    - 成熟是一个逐渐淘汰的过程，不是越来越宽容，什么都能接受  
+        + **知道什么对我最重要，什么不重要，然后做一个简单的人**    
+
+    - **A man, ultimately, only has himself**    
+        + Strong men know **no one is coming**, and start **helping themselves**  
+
+    - **Be the best version of yourself**, not the best imitation of someone else    
 
 * **My Self is loved**  
     - **She loves me for who I am**, and not who I am acting or trying to be  
@@ -47,6 +56,7 @@ abstract: "notes on the GOOD life - beauty and love "
 
 * > **always be kind to yourself**  
     > - treat yourself as your dear friend, with kindness and patience  
+    > surrounding youself with **positive people**, with **mutual trust** and **support relationship**  
 
 * > you **only can "Make" yourself**, not "Found" youself  
     > - keep learning, thinking & risking  
@@ -76,7 +86,7 @@ abstract: "notes on the GOOD life - beauty and love "
 
     -  attain **peace with your mind** - self awareness
         + their mind is **humble servant** and not a terrible master
-        + the less judgemental you are,
+        + the less judgemental you are  
             - how your mind works, and how to attain peace
         +  **Mere observing, rather than making conclusions of the situation**
 
@@ -93,6 +103,16 @@ abstract: "notes on the GOOD life - beauty and love "
     - happiness is about peace, all you want is privacy, not to be famouss
 
     - growth happens in the places **you're scared to go**
+
+
+* dignity cultures  
+    - believe in **speaking their mind** and **being self-reliant**
+    - their **self worth is self determined** and they are very comfortable engaging in
+    **direct, rational, fact-based conversation**  
+    - status and titles are not nearly as important as **information and talent**  
+    - 美国重视**诚实和积极的回应**； 日本文化崇尚礼貌和被动的回应  
+    - face cultures  
+        + people derive their self worth **from earning the respect of others**  
 
 
 ##### **Build love and families** 
@@ -117,6 +137,7 @@ abstract: "notes on the GOOD life - beauty and love "
 
 * 多姿多彩的人生  
     - **对人生的丰富的理解**，不是观念的生活    
+
     - 想象别人的生活； 旁观别人的生活  
         + 和别人沟通的时候，**想象这个人遇到事情会怎么办**    
 
@@ -183,7 +204,6 @@ abstract: "notes on the GOOD life - beauty and love "
        >  + **跟不同的人社交**, 老师越多越好
        >     -  要找不同的老师,  模仿对象越多越好, 这样才可能青出于蓝
        >  + 要想和优秀的人在一起, 懂他真实的快乐, 懂他真实的痛苦,并且 给予他能量  
-
 
 
 * **just being yourself is the biggest favor** you can do to yourself

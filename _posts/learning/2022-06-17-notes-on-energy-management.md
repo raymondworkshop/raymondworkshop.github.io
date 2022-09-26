@@ -27,6 +27,7 @@ abstract: "Notes on energy and time management skills"
 * enjoy food  
     - 阿拉丁咖啡屋  
     - Lime Garden - 青悅 - 越南菜  
+    - PUTIEN 莆田 - 福建菜  
 
 ##### exercises  
 
@@ -35,6 +36,7 @@ abstract: "Notes on energy and time management skills"
     - 大尾督 单车
     - 大埔 - 大埔滘林徑藍路  
     - 青衣自然径  
+    
 
 ##### swimming  
 * TODO  

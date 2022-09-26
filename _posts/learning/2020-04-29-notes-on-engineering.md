@@ -20,6 +20,9 @@ categories: [learning, engineering, course, important, manager]
         + 对于大规划中属于同性质的作业持续做就可以了  
         + 或者学生相信这个教练的规划，就会全力努力  
 
+    - 自下而上做，自上而下思考  
+
+
 #### project thinking  
 * 工程化的思维 
     - 想法  

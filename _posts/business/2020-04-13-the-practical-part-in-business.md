@@ -8,7 +8,6 @@ categories: [notes, learning, business, ideas, important, management]
 
 #### notes  
 * lessons    
-   
     - CEO of a startup is to **hire generalists to build** and **then hire specialists so scale**    
 
     - **認清楚自己想要什麼，然後去做**，但**不會給自己設限**    
@@ -29,14 +28,29 @@ categories: [notes, learning, business, ideas, important, management]
 
 
 * mindset on modern society (business)  
-    -  **practical ability** is more important       
-        + **对建立垄断型的商业模式缺乏意识** 
-            - 真正的巨额利润，来自**长期的复合增长**  
+    - **竞争，开放， 共享** 是共同进步的所有秘密  
+        + **共享** - **sharing gives back more** than you put in  
+            - mastery  
+                + the best way to learn is to teach  
+                + they **make everyone around them better**, the only way to do that is to teach  
+            - quality  
+                + lead to higher quality code  
+            - labor  
+                + make it **possible for projects to become larger and higher quality** than anything you could do on your own  
+            - marketing  
+                + the work you share becomes a permanent part of your **resume** 
+            - ownership   
+            - **don't share your 'secret sauce'**  
+                + Google search ranking algorithms is **one of their beggest competitive advantages**, they will not share   
+                + **generic infrastructure projects**, you benefit more from giving and getting the community involved  
 
-        + 商业+技术  
-            - 技术细节如果不能**改变商业模式**，也无法**增加垄断性**，就不值得探究    
+        + **开放**    
+            - **交易** - **分工** - **积累** - **专业** - **集体大脑**    
+            -   贸易其实是 互惠的  
+                + 当今国际化专业分工与贸易带来的巨大技术优势  
 
-    -   商人玩的是 **赚钱的游戏**  
+
+    -  商人玩的是 **赚钱的游戏**  
         + **尽可能避免零和游戏**，因为它并不创造财富；多元化机会  
             - treat people as friends and **attempt to win together**   
             rather than to treat people as enemies and attempt to win on your own  
@@ -58,6 +72,14 @@ categories: [notes, learning, business, ideas, important, management]
  
     - 专注于**赚钱的项目**，而不是被理想催着走  
         + 大多数人从未创造或发布过任何东西，所以发布本事就是一个值得庆祝的大事  
+
+    -  **practical ability** is more important       
+        + **对建立垄断型的商业模式缺乏意识** 
+            - 真正的巨额利润，来自**长期的复合增长**  
+
+        + 商业+技术  
+            - 技术细节如果不能**改变商业模式**，也无法**增加垄断性**，就不值得探究    
+
 
 
 * **practical part** in business    

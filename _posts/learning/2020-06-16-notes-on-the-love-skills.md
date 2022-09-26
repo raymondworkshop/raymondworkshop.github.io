@@ -49,6 +49,13 @@ categories: [notes, important, softskills, love, self, learning]
         + never apologize to anyone for **being who you are**  
         + once you've accepted your flaws, no one can use them against you  
 
+    - **Good vibe** - **the positive feelings** given off by a person, place, or situation  
+        + curiosity about her  
+        + a bit cheeky and slightly irreverent when you're talking to her  
+        + just have fun  
+        + simple, polite, generous
+        + **random acts of kindness**  
+        + respect    
 
     - **listen to her, add in your thoughts**, and understand her    
         +  when **a trait or feeling** comes up, that **you agree with**, **tell her**    
@@ -81,7 +88,6 @@ categories: [notes, important, softskills, love, self, learning]
         + enlighten him  (explain or understand)  
 
     - in control of your life  
-
 
 
 * show your woman in **adequate love and appreciation**    

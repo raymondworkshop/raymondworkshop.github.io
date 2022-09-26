@@ -69,7 +69,9 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
 
 * Leadership  
     - gift vs tit-for-tat leadership style  
-        + tit-for-tat: <small>现代博弈论也证明了最优战略是“**一报还一报**”</small>   
+        + tit-for-tat: <small>现代博弈论也证明了最优战略是“**一报还一报**”</small>  
+        + **Responsibility without authority is slavery**  
+            - authority - **the moral or legal right or ability to control**     
 
     - **middle people and task**  <- Blake and Mouton's Leadership Grid  
         + focus on **work output** as well as **employee morale**   

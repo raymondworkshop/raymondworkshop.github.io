@@ -170,7 +170,6 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
         + turn history into inspiration and wisdom for solving the big problems of the world  
 
 
-
 #### Positive Values  - **develop and upgrade your potentials and talents**    
 * 表达你的兴趣，发挥你的兴趣和价值  
     
@@ -334,6 +333,7 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
     - **碰到自己没有遇到过的问题时,尝试解决**  
     - **常常提出质疑,然后找出问题的解决方法**  
 
+
 ### 关于实证主义哲学和生活方式 
 
 #### 从证实 到证伪  
@@ -358,7 +358,6 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
         **如果没有对具象事物足够的细节把握**，抽象的思维方式很容易陷入自说自话，纸上谈兵的困境   
 
     - **发现一个新现象， 到依据这一新发现形成一个假设**， 再到发送一个新探测器去检测这一假设  
-
 
 
 *  判例法  
