@@ -188,7 +188,8 @@ abstract: "learn from your mistakes, and know more about yourself"
 
 * you should work hard and always think about how you can do better and take on more responsibility.
 
-    Also, life is not only about work, it’s also about your relationships with your family and romantic partner, friendship, and self-interest. Life is everything and if you don’t balance well you won’t be happy.
+    - life is not only about work, it’s also about your relationships with your family and romantic partner, friendship, and self-interest. 
+    - Life is everything and if you don’t balance well you won’t be happy.
 
 
 #### 我该做什么贡献

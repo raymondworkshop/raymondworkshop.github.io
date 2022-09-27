@@ -31,6 +31,8 @@ abstract: "Skills: How to work on hard problems"
 
     - 减少选择性  
         + 优先级选择  
+        + **Part of optionality** is being willing to make changes  
+        + "One of the difficult things about making decisions is it reduces opportunity in the short term, but **that's the only thing that really creates great opportunity in the long term**. If you don't make decisions, you try to **live too much in a liminal opportunity space**, you **might be just missing very big opportunities** and not creating what the really big opportunities are" 
 
     -  skill acquisition  
         + access to a subject expert and know how to guide you through  

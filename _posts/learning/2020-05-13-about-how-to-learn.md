@@ -148,8 +148,8 @@ then to **explore the most interested part** you feel
 ##### references 
 * [Mastery-ch5](https://book.douban.com/subject/1461005/) by George Leonard 
 
-#### Learning How to Learn - apply the ideas 
 
+#### Learning How to Learn - apply the ideas 
 * practice makes permanent
   - focus module: study it hard by focusing intently
   - diffuse module: then take a break or at least change your focus on something different for awhile
@@ -182,12 +182,15 @@ then to **explore the most interested part** you feel
 
 #### 实践学习法  - 边做边学  - 实践-反馈-实践-反馈
 * 只需記住最简单的定义即可
-* **把学到的理论放到实践的情境中理解**
+    - **把学到的理论放到实践的情境中理解**
 * **找人指导你实践并寻求反馈**
     - 更能从实践的失败里得到有建设性的反馈
+    - 将反馈得到的新知识运用到下一次实践中 
+    - 再次找人指导你实践并寻求反馈 
 
-* 将反馈得到的新知识运用到下一次实践中 
-* 再次找人指导你实践并寻求反馈 
+* 你已经知道的是什么？根据已经知道的，你有什么假设？我们马上可以行动起来的第一步是什么？
+    - 最有效的学习途径就是：**具备一定基础知识后，投入到实践活动中，然后发现了问题进行调研学习**  
+    - start small  
 
 
 #### reference

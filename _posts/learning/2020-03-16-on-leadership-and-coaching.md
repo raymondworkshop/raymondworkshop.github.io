@@ -47,8 +47,46 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
     - **learn principles**, not formulas  
 
 
-
 ##### Leadership   
+* 分享利益, 独立决定  
+    - 负责人 **先征求上下左右**一些人(相关人)的意见, **拿出一个方案**    
+        + 主要看**有无遗漏,有无质疑**的声音  
+        + 如有质疑, 评估一下是否有道理; 然后负责人自己就把这件事情决定了  
+    - 做决策并不想一次性解决所有问题, 而是**追求在原有基础上取得进步**, 有瑕疵也没关系  
+    - **独立决断背后是每一个人本身的责任**   
+
+    - **追求共好**    
+        + 支持彼此的工作，肯定彼此的努力，不受困于个人的恩怨好恶  
+        + 分享利益, 决策自己做就好了  
+
+    - 不要太优柔寡断    
+        + **Part of optionality** is being willing to make changes  
+        + "One of the difficult things about making decisions is it reduces opportunity in the short term, but **that's the only thing that really creates great opportunity in the long term**. If you don't make decisions, you try to **live too much in a liminal opportunity space**, you **might be just missing very big opportunities** and not creating what the really big opportunities are" 
+        
+* How to make big decisions  
+    1.  Think about the specifications  - a detailed description of how something should be done, made, etc  
+        1.1  encourages **opinions** not facts (with relevance) firstly  
+            - people who voice an opinion also **take responsibility for defining what needs** to be looked at, atudied, and tested  
+
+    2.  explore the alternatives  
+        2.1  find the appropriate measurement  - a risk-taking judgment  
+            2.1.1 look for **the 'feedback' before** the decision  
+        2.2  insist on **alternatives of measurement** so that they can choose the one appropriate one  
+            2.2.1 one does not make a decision unless there is disagreement  
+                + **disagreement alone can provide alternatives to a decision**   
+                + disagreement is needed to stimulate the **imagination**  - **a new and different way of perceiving and understanding**  
+            2.2.2 find out why people disagree
+                + converned first with **understanding**       
+                + use conflict of opinion as a tool to **make sure all major aspects of an important matter are looked at carefully**    
+
+    3.  the risks and gains weighted  
+        3.1  act if the **benefits greatly outweight cost and risk**   
+        3.2  **act or do not act**; no half-action  
+
+    4.  Do not rush into a decision unless you are sure **you understand it**  
+
+    5.  A decision requires **courage** as much as it requires **judgment**   
+
 * Growth Mindset  
     - a belief in their own ability to **learn and respond in the face of challenge**   
         + cultivate growth mindsets  and know how to fail  
@@ -264,7 +302,7 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
     - **bring conversations back to interests**, away from power and rights 
         + Don't get personal attack   
             - stop saying things like you are making me mad or you are so unreasonable   
-            - "I'm frustrated now beacuse this is a really important matter for me"   
+            - "**I'm frustrated now beacuse** this is a really important matter for me"   
 
         + Send a Mixed-Message  
             - show other party you **cannot be taken advantage of**  
@@ -280,7 +318,7 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
     - use Rights and Power  
         + when the other party will not come to the table  
         + when you have exhausted all of your options  
-            - "look I'm running out of optimism here. My goal is to settle this but **I feal that I might need to seek legal council**. Do you have any more ideas?"  
+            - "look I'm running out of optimism here. My goal is to settle this but **I feal that I might need to seek legal council**. **Do you have any more ideas**?"  
 
         + when the other party is not taking you seriously  
             
@@ -300,7 +338,6 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
     - **be proactive**    
         + **ask questions, ask for evidence, and suggest contingencies** 
         when the information you need is not available  
-
 
 
 * reference  

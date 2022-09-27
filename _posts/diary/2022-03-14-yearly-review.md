@@ -5,6 +5,147 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-09-26  
+* how to manage the relationship with Amos  
+    - mentor ?  
+    - **asking for advice**  
+        + seeking advice and another's perspective can lead to long-term benefits makes people **feel committed to your success** (an investment).  
+        + we just flattered someone by seeking their advice **if the request is not completely obvious**  
+            - asking for advice shows deference and respect  
+        + follow up with everyone of your advice givers and **let them know how much their insights have helped**    
+            - if you didn't take their advice, it was **their insight that helped you think about your situation in a different light**, and that their unique perspective turned out to be essential for your success  
+
+        + self-promotion doesn't always work very well    
+
+    -  coaching  
+        + learn how to break through other people's **limiting and self-defeating beliefs** to help them live a more empowered and successful life  
+
+    - 因为年龄，性别和阅历的差别，或者还没有见面的人  
+        + **应该保持一定的距离感**， 不能像平辈好友一样随便， 给人举止轻浮的感觉  
+        + **让对方知道你的尊敬，感激之情** 
+        + 开始上班后给对方**汇报一下自己的感受和进展** 
+        + **让对方参与到你的事业发展中来**，这样很自然地增强了这种导师的指导关系 
+    
+
+* focus more on your project  
+
+* Decision-Making  
+    - 不要太优柔寡断    
+        + **Part of optionality** is being willing to make changes  
+        + "One of the difficult things about making decisions is it reduces opportunity in the short term, but **that's the only thing that really creates great opportunity in the long term**. If you don't make decisions, you try to **live too much in a liminal opportunity space**, you **might be just missing very big opportunities** and not creating what the really big opportunities are" 
+        
+    - How to make important decisions  
+        1.  Think about the specifications  - a detailed description of how something should be done, made, etc  
+            1.1  encourages **opinions** not facts (with relevance) firstly  
+                - people who voice an opinion also **take responsibility for defining what needs** to be looked at, atudied, and tested  
+
+        2.  explore the alternatives  
+            2.1  find the appropriate measurement  - a risk-taking judgment  
+                2.1.1 look for **the 'feedback' before** the decision  
+            2.2  insist on **alternatives of measurement** so that they can choose the one appropriate one  
+                2.2.1 one does not make a decision unless there is disagreement  
+                    + **disagreement alone can provide alternatives to a decision**   
+                    + disagreement is needed to stimulate the **imagination**  - **a new and different way of perceiving and understanding**  
+                2.2.2 find out why people disagree
+                    + converned first with **understanding**       
+                    + use conflict of opinion as a tool to **make sure all major aspects of an important matter are looked at carefully**    
+
+        3.  the risks and gains weighted  
+            3.1  act if the **benefits greatly outweight cost and risk**   
+            3.2  **act or do not act**; no half-action  
+
+        4.  Do not rush into a decision unless you are sure **you understand it**  
+
+        5.  A decision requires **courage** as much as it requires **judgment**    
+
+
+    - 分享利益, 独立决定  
+        +  做决策并不想一次性解决所有问题, 而是**追求在原有基础上取得进步**, 有瑕疵也没关系  
+        + **独立决断背后是每一个人本身的责任**   
+
+        + 负责人 **先征求上下左右**一些人(相关人)的意见, **拿出一个方案**    
+            - 主要看**有无遗漏,有无质疑**的声音  
+            - 如有质疑, 评估一下是否有道理; 然后负责人自己就把这件事情决定了  
+
+    - **追求共好**    
+        + 支持彼此的工作，肯定彼此的努力，不受困于个人的恩怨好恶  
+        + 分享利益, 决策自己做就好了  
+
+    -   Think about **which leadership style would be most useful for the goals of your ogranization**?  
+        +  **what can you do** in the next 30 days to begin to develop and cultivate this style?  
+        +  **Who can be part of your support system** in your leadership development? 
+        + **each of us is a work in progress**, and we are never complete  
+
+
+* insight  
+    - "Forget rich versus poor, white-collar versus blue. 
+    **It's now leveraged versus un-leveraged**."
+
+* Cultural Intelligence  
+    - **a person's capability to adapt effectively** to new cultural contexts  
+    - you **understand the other person's worldview**  
+        + affect **how we motivate people** in our organizations  
+            - 以前会觉得这样不真诚  
+            - 这个是 其实是 尊重别人的一种表现  
+
+    - **Face Cultures** 
+        + people **derive their self worth from earning the respect of others**  
+        + people are often embedded in stable, hierarchical relationships  
+
+    - **Dignity Cultures**   
+        + believe in **speaking their mind** and being self-reliant  
+        + their own **self worth is self determined** and they are very comfortable engaging in **direct, rational, fact-based conversation**  
+        + status and titles are not nearly as important as **information and talent**  
+
+
+* 更好的沟通  
+    + 在不得罪人的情况下， **能做出成绩，很快会遇到同盟进而受人尊重和喜欢** 
+    + 别过分在意别人怎么看你，**想想该怎么去实现你的目标** 
+        - **讲话和做事特别的直来直去，私下则非常轻松愉快**，还会常常组织大家出去 Happy Hour 
+        - **坚定地告诉别人， 我要做什么什么了，如果有反对意见请提出来** 
+        - **坚定，包括肯定且确切地表达正面或负面的意见**
+       
+    + 对做事情要有Ownership  
+        - 不要潜意识地撇清和推诿责任  
+
+    + 不要**把过分亲的关系当回事**     
+        - 不要把人想的太好  
+
+        - **善良的人会从你的最大利益**出发, 对你好  
+            +  **判断不清楚对方对自己好的目的**, 也看不到自己所作所为的后果  
+            + 小人在对我们好的时候, 根本没有考虑我们的最大利益, 只想赚他们自己的利益   
+
+
+* 尊重他人的观点  
+    - **倾听对方**  
+        + **注视对方**，安静地**听对方在讲什么**，并**思考对方的观点**  
+        + 即使不同意，在反驳之前，也要**试着站在对方角度，理解对方**    
+        + 倾听，并让他人自己做决定时一种尊重  
+
+    - **问问题**  
+        + 问**一些开放性，引导性的问题**，让对方觉得你是认真听，并消化吸收了自己观点  
+        + 提问**可以让对方讲的更深入**  
+            - 根据特定话题，**问下对方的感受**，而不是追问细节；
+            问“**之后你觉得怎么样？**”，即使你知道答案，也要让对方自己说出自己的情况 
+            - **问几个针对他的问题**，引导他打开话闸子；
+            “你觉得xxx怎么样？”  
+
+    - **礼貌地表示不同意**  
+        + 在反对之前试着了解对方的立场。
+        **先表明对对方立场的肯定，然后说出自己的观点**。
+        比如“**说得很好，但我的观点稍有不同**...”  
+        + 对人不对事  
+
+    - 学会站在别人的角度考虑问题  
+
+    - 选择策略  
+        + **有时说出自己的观点和看法是尊重他人学识的表现**；
+        有时，**隐藏自己的观点和看法可以避免不必要的争端**    
+        + 如果你说出某个争端，试着将气氛缓和下来；
+        可以将自己观点表述出来，听听他们如何争辩； “你觉得呢？”  
+        + 有时争论过无数次，都没结果，可以不必提起这个话题  
+
+
 #### 2022-09-19  
 * softskills in work  
     - **顺从**，尊重，平等， 没有负面情绪  

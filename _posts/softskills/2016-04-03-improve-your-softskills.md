@@ -158,7 +158,7 @@ abstract: "Some lessons or experiences about team skills, communications"
             - like they could improve their health, and contribute to the community 
         + Extrinsic Motivation is driven by **the promise of extrinsic rewards** like money, resources, or material gain  
             - like they could save money or gain a good public image  
- 
+
         + **affirm intrinsic motivation** can lead to greater insight, and better performance  
 
     - The How of Happiness  
@@ -167,7 +167,6 @@ abstract: "Some lessons or experiences about team skills, communications"
         + better social 
 
     - Decision Making  
-
         + Most decision-makers are **risk-averse when it comes to good things** like making money, saving lives 
         + But **risk-seeing** when it comes to negative things 
         + **Confirmation Bias**   
@@ -179,8 +178,8 @@ abstract: "Some lessons or experiences about team skills, communications"
     - four steps to make decision  
         + **Build in tests of disconfirmatin**   
     - what would prove you wrong?  
-    - **Reward team members for providing controversial data**  
 
+    - **Reward team members for providing controversial data**  
         + **Establish policies** in advance of obtaining outcome  
         + Bring in outsiders, but don't tell them your preferred course of action  
     
@@ -218,7 +217,7 @@ abstract: "Some lessons or experiences about team skills, communications"
 
 
 ##### Build your Teamwork  - how to design and lead high performance teams 
-* goal-setting -
+* goal-setting 
     - tactical teams - like basketball team, the flight crew   
         + need clarity  
         + **training togeter**  
@@ -235,7 +234,6 @@ abstract: "Some lessons or experiences about team skills, communications"
         + set the stage for optimal performance   
 
 * Size and Diversity  
-
     - Size 
         + Teams should be **between five and nine members**    
         + **choose the fewest number of people** possible to accomplish the task 
@@ -256,7 +254,6 @@ abstract: "Some lessons or experiences about team skills, communications"
             - **need some conflict management skills**     
 
 * Roles and Rules  
-
     - **Leader and Team Responsibility**    
         + Manager-led team  
         + Self-managing teams  
@@ -355,8 +352,6 @@ abstract: "Some lessons or experiences about team skills, communications"
         + **individuals** are more creative than teams   
         + **strive for quantity**, not quality    
 
-    
-
 ##### Negotiation  
 * Preparation and Leverage     
     - develop your  BATNA - Best Alternative To a Negotiated Agreement  
@@ -372,6 +367,7 @@ abstract: "Some lessons or experiences about team skills, communications"
 
         + Once you determine your BATNA, then devise your reservation price  
             - the lowest amount you can agree to or hightest one you can pay inside a negotiation  
+
     - Target Points and Anchoring  
         + set a target point  - do as much research as I can  
             - your interests -> what is really important to you 
@@ -524,6 +520,7 @@ abstract: "Some lessons or experiences about team skills, communications"
      
 * 坏消息  
     - 不是很重要，邮件通知即可  
+
 * **主观的事情尽可能面对面沟通**，客观的事情可以用邮件  
     - **主观看法，最好不要给对方留底**  
     - 说服别人的事情，都属于主观沟通  
@@ -555,6 +552,7 @@ abstract: "Some lessons or experiences about team skills, communications"
         
     - 不要把过分亲的关系当回事   
         + 不要把人想的太好  
+        
     - 就事论事, 对事不对人   
         + **目标是把事情做好  - 只要对方在这件事情上信守承诺 就ok**  
 
@@ -568,7 +566,7 @@ abstract: "Some lessons or experiences about team skills, communications"
         - **坚定，包括肯定且确切地表达正面或负面的意见**
        
     + 对做事情要有Ownership 
-        - 不要潜意识地撇清和推诿责任
+        - 不要潜意识地撇清和推诿责任  
 
 * 和做此决定的大老板做一次平心静气的谈话
     + **了解一下大老板对你的职业安排，并了解TA在做此决定时对你的有待提高的部分的分析**，以便你有的放矢地去改进。
@@ -593,15 +591,15 @@ abstract: "Some lessons or experiences about team skills, communications"
        + 是否其他人造成这个人做错, 是另外一件事    
 
 *  互相帮助,互相提携  
-   - 把邦忙着都作为参与者  
+   - 把帮忙者都作为参与者  
   
 
 * **追求共好**    
   - 支持彼此的工作，肯定彼此的努力，不受困于个人的恩怨好恶 
   - 分享利益, 决策自己做就好了 
 
-#### Updating  
 
+#### Updating  
 * Be a grat communicator  
     - Imparting information  
         + know your audience  

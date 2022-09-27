@@ -102,7 +102,6 @@ TODO
         + Find what works. Do less of what doesn't  
 
     
-
 * keep it **simple**  
     - apply simplicity in design  
     - less is more  

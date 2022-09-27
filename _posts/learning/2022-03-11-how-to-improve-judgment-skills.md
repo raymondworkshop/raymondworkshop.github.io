@@ -221,6 +221,7 @@ abstract: "on How to make choices"
         + 能做多少事和你的微观环境有关  
             - **要重视，挑选和管理的，就是周围的“五六个人”**  
             - 最看重的 **是否是我愿意与之一起工作的那一类人**  
+        + start small, think big, experiment with ideas  
 
     - **通过做事来“准备”的**，而不是通过“准备”来做事的  
         + 对于机会，你永远不会觉得你准备好了  
@@ -258,6 +259,31 @@ abstract: "on How to make choices"
         + identify your decision and think through and **write down the consequences**  
             - **review these regularly** you'll be able to help calibrate your thinking  
 
+
+- How  
+    1.  Think about the specifications  - a detailed description of how something should be done, made, etc  
+        1.1  encourages **opinions** not facts (with relevance) firstly  
+            1.1.1 people who voice an opinion also **take responsibility for defining what needs** to be looked at, atudied, and tested  
+
+    2.  explore the alternatives  
+        2.1  find the appropriate measurement  - a risk-taking judgment  
+            2.1.1 look for **the 'feedback' before** the decision  
+        2.2  insist on **alternatives of measurement** so that they can choose the one appropriate one  
+            2.2.1 one does not make a decision unless there is disagreement  
+                + **disagreement alone can provide alternatives to a decision**   
+                + disagreement is needed to stimulate the **imagination**  - **a new and different way of perceiving and understanding**  
+            2.2.2 find out why people disagree
+                + converned first with **understanding**       
+                + use conflict of opinion as a tool to **make sure all major aspects of an important matter are looked at carefully**    
+
+    3.  the risks and gains weighted  
+        3.1  act if the **benefits greatly outweight cost and risk**   
+        3.2  **act or do not act**; no half-action  
+
+    4.  Do not rush into a decision unless you are sure **you understand it**  
+
+    5.  A decision requires **courage** as much as it requires **judgment**   
+
 * use a pros and cons list  
     - good reasons or good consequences 
 
@@ -266,6 +292,7 @@ abstract: "on How to make choices"
 
 * reference  
     - [Second-Order Thinking: What Smart People Use to Outperform](https://fs.blog/second-order-thinking/)
+
 
 ##### leadership 
 

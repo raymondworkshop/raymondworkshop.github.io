@@ -3,7 +3,7 @@ title: About
 date: 2012-03-19
 ---
 
-Hi, my name is Raymond ZHAO Wenlong, I enjoys working on engineering, product, and diversity.
+Hi, I'm Raymond ZHAO Wenlong. I am a software engineer who enjoys working on engineering, product, culture, and diversity.  
 
 I am a RA at Chinese University of Hong Kong. Before this, I was technical officer in HSUHK, RA in City University of Hong Kong and Hong Kong Baptist University, and Software Engineer in Alcatel-Lucent (now Nokia Corporation) and HKCREO (a Fintech startup).
 <br>     
