@@ -9,6 +9,9 @@ abstract: "Notes on the management skills in the practical part"
 
 
 #### notes  
+* 维持创造者思维， creation is about building  
+    - 维持创造者思维，专注于 **将脑中的想法转变为可工作的最小实现**的过程  
+
 * software business  
 
 *  work in small teams/companies with the lean members    

@@ -8,17 +8,26 @@ abstract: 'notes on Self Learning'
 ---
 
 #### notes  
-* **learn the first principle and basic** firstly  
-then to **explore the most interested part** you feel  
+* **learn the first principle and basic** firstly then to **explore the most interested part** you feel  
+    - **根据已经知道的，你有什么假设**？  **马上可以行动起来的第一步是什么**？  
+    - 具备一定基础知识后，投入到实践活动中，然后发现了问题进行调研学习  
 
-* how  
+* HOW    
     - 阅读  
+        + Work out a first principles understanding of X  
+        + learn the first principle and basic** firstly then to **explore the most interested part** you feel  
     - 问人/交流  
+        + See people who excel at X do it up close  
+
     - 学习先进经验  
     - 知识迁移  
     - 写作（思考，复盘，总结）  
     - 边干边学  
 
+* There are 3 ways to build confidence in your ability to do X without actually having done X.
+    - See people who excel at X do it up close.  
+    - Work out a first principles understanding of X.  
+    - Develop confidence in your capacity to learn anything, including X.  
 
 #### what to learn  
 * TODO  

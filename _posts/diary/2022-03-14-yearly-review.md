@@ -5,7 +5,70 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-10-03  
+* manage the relationship with Amos  
+
+* 增重  
+    - 多吃蛋白质： 肉，鱼，蛋，坚果  
+        + 蛋白質 是合成肌肉最重要的物質  
+        + 55*2 = 110 克  
+
+    - 碳水化物物： 白面包，米饭， **番薯**  
+        + 牛奶，鸡蛋，酸奶， 巧克力棒  
+
+    - 高能量食物  
+        + 堅果：  杏仁，核桃，花生  
+        + 高脂：  牛奶，奶油  
+        + 肉  
+        + 穀物：  米飯，燕麥  
+        + 黑巧克力，花生醬  
+        + 配合不需要太多咀嚼食物比如香蕉  
+
+    - 技巧  
+        + 用餐前不要喝水  
+        + 喝全脂牛奶  
+        + 加晚餐  
+        
+
+* 提高情绪智能  
+    - **the heart decides**, the head rationalizes  
+        + use your judgment to **figure out what kinds of environments you can thrive in**,
+    and **then create an environment around you** so you're statistically likely to succeed  
+    - 了解自己为什么有这个反应  
+
+
+* self  
+    - **开放好奇的心态**  
+        + 了解别人怎么想，有什么值得学习，借鉴的地方  
+
+    - 自信心  
+        + 不要过多担心猜疑 是不是做对了  
+            - **being assertive in a polite, courteous, and respectful way**    
+                + if you don't want to do something, say so  
+                + if you've got a dissenting opinion and know in your heart that you're right, say so  
+                + 如果你有一个好想法，就说出来   
+            -  **你想要什么，就去争取**  
+                + **不要害怕去争取能让你的生活和自己变得更好的东西**  
+                + **别人真心想去做，就支持**； 这不是自私  
+            - 照顾好自己  
+                + **给自己与给他人相同的关心**，就是一种自尊  
+                + 知道何时求助。 **要对自己的能力有信心**，**但也要知道什么事情超出了自己的能力**。
+                不要在不必要的时候为难自己。  
+
+
+        + 倾听别人的同时也有足够的自信心把自己的经历敞开交流  
+            - **礼貌地表示不同意**  
+                + 在反对之前试着了解对方的立场。**先表明对对方立场的肯定，然后说出自己的观点**。
+                比如“**说得很好，但我的观点稍有不同**...”  
+
+            - 选择策略  
+                + **有时说出自己的观点和看法是尊重他人学识的表现**；有时，**隐藏自己的观点和看法可以避免不必要的争端** 
+
+
 #### 2022-09-26  
+
+* how to build trusts  
+
 * how to manage the relationship with Amos  
     - mentor ?  
     - **asking for advice**  

@@ -22,8 +22,15 @@ abstract: "notes on the GOOD life - beauty and love "
         + spend more time with **family and friends**  
             +  happy, freedom     
 
+
+    - use your judgment to **figure out what kinds of environments you can thrive in**,
+    and **then create an environment around you** so you're statistically likely to succeed  
+
     - identify required habits  
-    - develop habits one day at a time  
+        +  develop habits one day at a time  
+
+    - surround yourself with **positive** people, with **mutual trust**  and **support relationship**   
+
 
 
 * reference  

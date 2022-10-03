@@ -31,6 +31,12 @@ abstract: "learn from your mistakes, and know more about yourself"
     - **围绕眼前的实践来提升认知**  
         + 需要什么，再学习什么，不要脱离实际  
 
+    - **愿意接受挑战**  
+        + Strong men know no one is coming, and start helping themselves  
+        + “**失意不要灰心，得意切莫忘形**； 求人不如求己，做人要有骨气”  
+        + accountable  
+
+
     - 商人玩的是 **赚钱的游戏**  
         + **尽可能避免零和游戏**，因为它并不创造财富  
 

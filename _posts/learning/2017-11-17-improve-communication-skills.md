@@ -20,6 +20,7 @@ abstract: "like listening, persuation ... "
     - **支持自己** 
         + **你想要什么，就去争取**  
             - **不要害怕去争取能让你的生活和自己变得更好的东西**  
+            - **别人真心想去做，就支持**； 这不是自私  
         + **being assertive in a polite, courteous, and respectful way**    
             - if you don't want to do something, say so  
             - if you've got a dissenting opinion and know in your heart that you're right, say so  
@@ -108,7 +109,7 @@ abstract: "like listening, persuation ... "
 
 
 
-* 最终对立方  
+* 尊重对立方  
     - 在不了解时不要随意评判别人  
 
     - 要看到别人的闪光点和温暖的地方  
@@ -467,7 +468,7 @@ I love people who make things clear to me and don't just secretly expect, assume
     - love to have friends and enjoy helping others
 
 
-#### listening
+#### listening  
 * many people want **approval and validation**, not "your opinion"
     - 說服別人最好的方法不是爭辯，而是**傾聽**
     - 设法**从对方的立场去理解一件事情**，先**同意对方的观点，然后再从对方的观点来解释，为什么我们自己的主张是合理的**
@@ -564,7 +565,7 @@ I love people who make things clear to me and don't just secretly expect, assume
     - skills
         + we wanna **presume a problem, and we're then more likely to gather accurate and truthful infomation**
 
-* Active Listening
+* Active Listening  
     - listen to other people to figure out **what their needs are, how our ideas interact with their needs**
 
     - encourage - "tell me more about ..."  "I'd like to hear more ..."

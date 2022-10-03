@@ -63,7 +63,8 @@ abstract: "About Cantonese"
 “麻烦你 ...“ 
 ”有件事想你帮下忙 ... “ 
 
-
+#### reference
+* [粵語網路課堂](https://www.ilc.cuhk.edu.hk/workshop/chinese/cantonese/onlinetutorial/romanization.aspx)
 
 #### 地道广东话 
 打完斋不要和尚 - 过河拆桥 

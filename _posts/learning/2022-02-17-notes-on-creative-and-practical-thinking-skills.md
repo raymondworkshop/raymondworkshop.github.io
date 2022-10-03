@@ -7,6 +7,20 @@ categories: [learning, thinking, self, life, important]
 abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方式"
 ---
 
+#### Notes  
+* separate the processes of creation from improving  
+    - creation is about building  
+        + 维持创造者思维，专注于 **将脑中的想法转变为可工作的最小实现**的过程  
+        + MVP - 顺应自身当前的代码素养，不额外付出打磨的精力  
+
+    - Improving is refactoring and algorithms  
+        + 再重构和优化，提升工程能力  
+
+    - you cann't write and edit, or sculpt and polish, or make and analyze at the same time  
+        + while you invent, don't select. while you sketch, don't inspect. 
+        while you write the first draft, don't reflect. At the start, the creator mind must be unleashed from judgement.  
+
+
 #### How to think clearly  
 * TODO  
 
@@ -15,8 +29,9 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
 * Conflict Resolution Diagram  
     - Find win-win solutions to conflicts  
 
-* reference 
-    - [Tools for better thinking](https://untools.co/)
+* reference  
+    - [critical thinking](https://philosophy.hku.hk/think/critical/ct.php)  
+    - [Tools for better thinking](https://untools.co/)  
     - [保罗·格雷厄姆：如何成为独立思考的人？](http://openmindclub.blog.caixin.com/archives/238538)
     - [How to Think For Yourself](http://paulgraham.com/think.html)
     - [How to think clearly](https://psyche.co/guides/how-to-think-clearly-to-improve-understanding-and-communication)
@@ -67,7 +82,6 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
     - "Life is difficult and complicated and beyong anyone's total control and the humility to know that will enable you to survive its vicissitudes."     
     - never give up, and stand up again  
     - be humbled by the experience of being challenged by setbacks and failures, which she has successfully overcome  
-
 
 
 ##### Nick Vujicic - How to Love 

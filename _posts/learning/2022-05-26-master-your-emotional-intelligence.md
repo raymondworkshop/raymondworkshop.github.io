@@ -20,7 +20,7 @@ abstract: "Master your emotions. and you can Control your life  ."
     - **一起面对你们的问题和担扰，不要过于克制和隐藏**  
         + 这样她才知道你信任她，你们两个会更亲近  
 
-    - 開始在你生命中嘗試，看看你能為別人做些什麼   
+    - 開始在你生命中嘗試，**看看你能為別人做些什麼**     
 
 * Good vibe, positive, open-minded  
     - Good vibe - **the positive feelings** given off by a person, place, or situation  

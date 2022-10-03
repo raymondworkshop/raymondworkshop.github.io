@@ -177,7 +177,7 @@ TODO
 
 
 #### notes on engineering
-* **Problem Solving**
+* **Problem Solving**  
     - Before you go rushing out to learn to code, figure out what your problem actually is.
         + Do you even have a problem?
         + Can you explain it to others in a way they can understand?

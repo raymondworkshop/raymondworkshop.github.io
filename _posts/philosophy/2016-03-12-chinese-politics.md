@@ -36,6 +36,15 @@ abstract: '总结自 《透视中国政治》'
     - 权力只对权力的来源负责，同时**权力也主要为权力的来源分配利益**，
     背后都是政治经济学逻辑在驱动，口头上的道德感所具备的实际约束力非常弱  
 
+    - 集权社会的软肋与命门，就是**权力高度单极之下的领导者作为自然人**，其本身的认知盲区、私人心结、情绪波动等诸多个人缺陷，一旦遭遇掣肘，就会放大为整个社会的木桶短板，且由全体社会成员为其买单  
+        + 所以只能通过宣传来造神，让民众盲目迷信大大的领袖光环。此类教训与悲剧在历史上反反复复地重演着  
+        + 个人崇拜可以解读成风险分配策略，即通过造神，**避免将错误决策造成的风险分配回给领袖**。错误都是下面人的  
+
+    - When you are a dictator, you don't perceive the reality as it is (descriptive), you perceive it as **what it should be** (normative)  
+        + 权力高度集中之下 没有不同声音  
+        + When the reality is off from their expectations, they **exercise absolute power to reshape it**. It works when the reality is not adversarial.  
+
+
 
 * 思想  
     - 传统中国思想观念， **太早成熟而且完整系统**， **任何改变都要整体的改变**    
