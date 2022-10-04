@@ -27,22 +27,23 @@ date: 2012-03-19
 * [Writing Interpreters and Compilers for the Raspberry Pi Using Python](https://www.amazon.com/gp/product/B089M41NGB/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) by Anthony J. Dos Reis  
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  (7/10) 
 * [The Art of Clean Code](https://book.douban.com/subject/35615724/) by Christian Mayer (8/10)  
+* [Serious Python](https://book.douban.com/subject/30206213/) by Julien Danjou  (8/10)  
 
 * [Hello, Startup](https://book.douban.com/subject/26426841/) by Yevgeniy Brikman  
 * [Permission to Feel](https://book.douban.com/subject/34871932/) by Marc Brackett  
+* [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
 * [Python Distilled](https://book.douban.com/subject/35563594/) by David M. Beazley  
-* [Serious Python](https://book.douban.com/subject/30206213/) by Julien Danjou  
 * [Effective Python: 2nd Edition](https://book.douban.com/subject/34868258/) by Brett Slatkin  
 
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
-* [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
 * [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore  
 * [CPython Internals](https://book.douban.com/subject/35405785/) by Anthony Shaw  
 
-* [why's (poignant) Guide to Ruby](https://poignant.guide/book/) 
-* [Programming Rust, 2nd Edition](https://book.douban.com/subject/34973905/) by Jim Blandy  
 * [Producing Open Source Software](https://producingoss.com/en/index.html)  
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
+* [why's (poignant) Guide to Ruby](https://poignant.guide/book/) 
+* [Programming Rust, 2nd Edition](https://book.douban.com/subject/34973905/) by Jim Blandy  
+
 
 * [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina  
 * [Think Bayes, 2nd](https://book.douban.com/subject/35428149/) by Allen Downey  
