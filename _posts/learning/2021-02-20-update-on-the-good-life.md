@@ -23,7 +23,8 @@ abstract: "notes on the GOOD life - beauty and love "
             +  happy, freedom     
 
 
-    - use your judgment to **figure out what kinds of environments you can thrive in**,
+    - **the heart decides**, the head rationalizes  
+        + use your judgment to **figure out what kinds of environments you can thrive in**,
     and **then create an environment around you** so you're statistically likely to succeed  
 
     - identify required habits  

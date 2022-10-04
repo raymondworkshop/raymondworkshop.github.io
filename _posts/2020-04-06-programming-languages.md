@@ -11,8 +11,8 @@ abstract: "[Updating] Notes on programing languages"
 #### Interpreters  
 program  - parse -> abstract-syntax-tree - eval -> result  
 
+[sspy.py](https://github.com/muyun/dev.wic/blob/master/sspy.py) -a tiny scheme interpreter with python- shows the detail.  
 
-TODO  
 
 #### Python Data Model -> A Framework/API for core language constructs
 We can leverage the Python Data Model to build new classes.  
