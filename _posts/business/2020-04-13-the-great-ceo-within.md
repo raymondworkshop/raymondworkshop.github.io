@@ -124,22 +124,22 @@ abstract: "Notes on the management skills in the practical part"
 * **Health and Well-Being**
     - **Prioritize your helth**
     - **exercise**
-        + sign up for group activities or get a trainer
-        + get the company to pay for it
+        + sign up for group activities or get a trainer  
+        + get the company to pay for it  
 
     - **Mental Health**
-        + **build a CEO support group** composed of yoru peers
-        + important to **have someone to speak to, listen to you, and help feelings flow through you**
-        + get a therapist
-        + **meditation**
+        + **build a CEO support group** composed of yoru peers  
+        + important to **have someone to speak to, listen to you, and help feelings flow through you**  
+        + get a therapist  
+        + **meditation**  
 
     - Sleep
         + sleep before 11:30pm and get up before 8:00am
         + at least 7 hours
 
-        + **write down whatever it is** that you woke up thinkg about
-           - then transfer it to your GTD system
-           - write down all of your next actions, ...
+        + **write down whatever it is** that you woke up think about
+           - then transfer it to your GTD system  
+           - write down all of your next actions, ...  
 
         + if you wake during the night, don't fight it
            - do something soothing, like reading from a paper book
@@ -225,7 +225,8 @@ abstract: "Notes on the management skills in the practical part"
     -  repeak back what you heard 
        + "**I think I heard you say** ... "  
        + "**That's right**"  
-    - **Steps**
+
+    - **Steps**  
        + Feeling
           - anger, fear, sadness, joy
        + Fact

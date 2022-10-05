@@ -29,31 +29,30 @@ date: 2012-03-19
 * [The Art of Clean Code](https://book.douban.com/subject/35615724/) by Christian Mayer (8/10)  
 * [Serious Python](https://book.douban.com/subject/30206213/) by Julien Danjou  (8/10)  
 
-* [Hello, Startup](https://book.douban.com/subject/26426841/) by Yevgeniy Brikman  
+* [Hello, Startup](https://book.douban.com/subject/26426841/) by Yevgeniy Brikman  (9/10)  
 * [Permission to Feel](https://book.douban.com/subject/34871932/) by Marc Brackett  
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
+* [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
 * [Python Distilled](https://book.douban.com/subject/35563594/) by David M. Beazley  
 * [Effective Python: 2nd Edition](https://book.douban.com/subject/34868258/) by Brett Slatkin  
 
-* [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
-* [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore  
-* [CPython Internals](https://book.douban.com/subject/35405785/) by Anthony Shaw  
+* [Think Bayes, 2nd](https://book.douban.com/subject/35428149/) by Allen Downey  
+* [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
 
+* [CPython Internals](https://book.douban.com/subject/35405785/) by Anthony Shaw  
 * [Producing Open Source Software](https://producingoss.com/en/index.html)  
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
-* [why's (poignant) Guide to Ruby](https://poignant.guide/book/) 
-* [Programming Rust, 2nd Edition](https://book.douban.com/subject/34973905/) by Jim Blandy  
-
+* [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore  
 
 * [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina  
-* [Think Bayes, 2nd](https://book.douban.com/subject/35428149/) by Allen Downey  
 
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling  
-
 * [Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer  
 * [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan  
 * [The Long Tail](https://book.douban.com/subject/26584041/) by Chris Anderson  
-* [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
+
+* [why's (poignant) Guide to Ruby](https://poignant.guide/book/) 
+* [Programming Rust, 2nd Edition](https://book.douban.com/subject/34973905/) by Jim Blandy 
 
 * [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  (9/10)    
 * [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  
