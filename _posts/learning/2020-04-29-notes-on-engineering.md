@@ -6,6 +6,8 @@ comments: true
 categories: [learning, engineering, course, important, manager]
 ---
 
+
+
 ### notes on software engineering  
 * 组织规划力  - 从ideas 到 发布的过程  
     - 规划 把事情做成的流程计划  - f(x)  

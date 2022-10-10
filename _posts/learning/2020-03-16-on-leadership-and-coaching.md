@@ -29,6 +29,11 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
         + TODO  from <Margin Call>  
     - **没有负面情绪**  
 
+    - leadership skills  
+        + 要让球员们都**追随自己**，他们必须要**相信我们说的话和做的事**；
+        我们必须对他们进行**正确的引导和激励**  
+        + 我需要让他们感觉到我作为一名教练，**每天也在进步**，而且我**每天也在帮助他们**    
+
 * 沟通交际能力  
     - **how to present you**     
         + 用正面的态度表达  

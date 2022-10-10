@@ -15,6 +15,15 @@ categories: [notes, learning, business, ideas, important, management]
         + remove yourself from the business  
         + scale  
 
+    - employee value **proposition**    
+        + benefits  
+        + compensation  
+        + careers  
+        + well-being  
+        + purpose  
+        + **hire key questions**  
+        + **plan for the worst**, hope for the best  
+
     - CEO of a startup is to **hire generalists to build** and **then hire specialists so scale**    
 
     - **認清楚自己想要什麼，然後去做**，但**不會給自己設限**    

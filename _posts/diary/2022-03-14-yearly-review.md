@@ -5,7 +5,57 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-10-10  
+
+* 增重 
+
+* manage the relationships  
+    - can feel the love  
+
+
+
+* **Identify your deepest values** 
+    - TODO  
+        + your family values 
+            - **education**, leadership/service the community,  honest, <del>status</del> 
+        + what do u do for a living?  
+            - creativity, mind  
+            - appearance  
+            - wealth  
+        + how to spend your money on?  
+            - creativity    
+
+    - What comes from your heart  
+        + the heart maybe based on things like your past/experiences, needs/how you feel, and the present/other people around you,choices  
+
+    - practice how to listen to your heart  
+        + write what comes to you  
+            - write or think **without letting in the doubting voice**    
+            - "**I have a feeling that** ..."  
+            - "**My heart tells me that** ..."  
+        + find a quiet place **where you can let your emotions and thoughts flow freely**  
+
+
+    - practice to let your values play a big role in decision-making, but do so rationally  
+
+
+* self-reflection  
+    - 在沙田教区，感觉不够融入，不够信任    
+        + 作为一个学习的地方  
+        + 过度竞争 - 对手  
+
+    - 回应的时候  **关注 与 交流者/听者的感受**    
+        + 不要太直率 （关注事实和对错） 或者 太自我  
+        + 听者更注重自己的感受， 而不是事实和对错  
+
+ 
+
+
 #### 2022-10-03  
+* Learn to observe your own mind  
+    - The patterns, the little things. What makes you overthink & anxious, what makes you happy, what works, what doesn't. 
+    - **People, places, energies** that nourish you & drain you. Take notes and study the patterns. It'll change your life.
+
 * manage the relationship with Amos  
 
 * 增重  
@@ -31,7 +81,7 @@ tags: [diary, review, important, learning, lesson]
         
 
 * 提高情绪智能  
-    - **the heart decides**, the head rationalizes  
+    - Use your heart/values within your rational thought process
         + use your judgment to **figure out what kinds of environments you can thrive in**,
     and **then create an environment around you** so you're statistically likely to succeed  
     - 了解自己为什么有这个反应  
@@ -43,7 +93,7 @@ tags: [diary, review, important, learning, lesson]
 
     - 自信心  
         + 不要过多担心猜疑 是不是做对了  
-            - **being assertive in a polite, courteous, and respectful way**    
+            - **being assertive in a polite, and respectful way**    
                 + if you don't want to do something, say so  
                 + if you've got a dissenting opinion and know in your heart that you're right, say so  
                 + 如果你有一个好想法，就说出来   

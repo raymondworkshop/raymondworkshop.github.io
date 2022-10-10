@@ -11,6 +11,10 @@ abstract: "like listening, persuation ... "
 
 * TODO  
 
+* 说话声音**低**一点（就有磁性）， **慢**一点（就有气质）， 敢**停顿**（显示权威）  
+    - 任何时候都不要紧张，永远展现出**舒适放松**的状态  
+    - 永远把任何你想接触的人**当成老朋友**交谈就行  
+
 * reference  
     - [The Art of Persuasion](https://alison.com/topic/learn/103806/persuasive-communication-learning-outcomes)
 
@@ -104,9 +108,7 @@ abstract: "like listening, persuation ... "
         + 尊重别人时间； 守时，做好准备  
 
     - 提供帮助  
-        + 当别人心情不好或遇到麻烦，就试着鼓励对方；
-        如“**你能做到的**“ 
-
+        + 当别人心情不好或遇到麻烦，就试着鼓励对方；如“**你能做到的**“ 
 
 
 * 尊重对立方  

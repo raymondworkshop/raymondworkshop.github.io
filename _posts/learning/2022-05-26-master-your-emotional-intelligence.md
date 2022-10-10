@@ -14,7 +14,7 @@ abstract: "Master your emotions. and you can Control your life  ."
         +  ”听起来你觉得失望， 因为我 ...“  
         +  ”你是不是需要 ...“  
 
-    - 学习表白自己 
+    - 学习表白自己  
         + **告诉对方自己的思想和感觉**   
 
     - **一起面对你们的问题和担扰，不要过于克制和隐藏**  
@@ -52,6 +52,7 @@ abstract: "Master your emotions. and you can Control your life  ."
 
     - self-confidence  - an outcome of doing well  
         +  **understand, value, and apply the Core Assets** -> happier, and more resilient  
+        
 
     - **自強不息，明辨是非**，你的前行就**充滿陽光和力量**   
         + **找个自己能踏踏实实做的事情，用心琢磨**，
@@ -172,7 +173,173 @@ abstract: "Master your emotions. and you can Control your life  ."
 
     + a happy person isn't someone who's happy all the time  
         - he effortlessly interprets events in such a way that **they don't lose their innate peace**    
+
+
+#### Permission to feel            
+* Feel Emotions  
+    - **How are you feeling?**    
+        + Give ourselves and others permission to feel  
+        + **Accept and acknowledge that there's no shame in expressing our emotions**    
+
+
+    - **open minds and good intentions**    
+        + **his sincere interest in me** and **how I felt and his obvious desire to help me**   
+        + **I'm here for you**. **I want to understand you and help you**. I'm not judging.  
+
+    - **emotions determine what you care about** in the moment  
+        + **Identify, express, and harness feelings** can help us **create positive, satisfying lives**  
+        +  **the ability to monitor one's own and others' feelings and emotions**, to discriminate among them and **to use this information to guide** one's thinking and actions  
+
+
+* Recognize Emotion  
+    - **Just sense it**. **Feel it**.  
+        + **take a slow, deep breath**    
+            - turn off your analytic mind for a moment  
+            - **get a clear - visceral - sense of your underlying emotional state**    
+
+        + **What is your emotional state** at this exact moment?  
+        + **check for physical clues**?  Am I energized or depleted?  
+        + energy + pleasantness  
+
+    - **notice a change** in one's own **thoughts, energy, or body** or in someone else's **facial expression, body language, or voice**    
+
+    - basic emotions  
+        + happiness  
+        + sadness  
+            - **disappointment** <- unmet expectations  
+        + anger  
+            - <- unfairness  
             
+        + fear  
+            - **fear** is the sense of a danger that lies just ahead  
+            - **anxiety** is worry about future uncertainty and our inability to control what will happen to us  
+
+            - **pressure** is the force from the outside that tells us something important, and will depend on how we perform  
+            - **stress** is what we feel when facing too many demands and fear we may not be up to it  
+
+        + surprise - an unexpected event
+        + disgust  - a strong feeling of disapproval and dislike  
+
+
+* Understand Emotion  
+    - understand those feelings and **know their source**   
+        + **what experiences actually caused** those feelings, then **see how they influence our thoughts and decisions**    
+
+    - try to understand our own feelings 
+        + **what just happened**?  
+            - **Tell me something: what's going on**?    
+            - **what was I doing before** I started feeling this way?  
+        **who were you with**?  
+            - "**what's happening** at X that makes you hate it so much?"   
+
+
+        + **How are you feeling**?  
+
+        + **why do you feel that way**?  
+            - What is the underlying reason for this feeling?  
+            - search for **the underlying theme or possible cause** that fuels the emotion  
+            -  **what memories do I have** about this situation or place?  
+
+        + **what do you need right now**? **what can I do to support you**?  
+
+
+
+* Label Emotion  
+    - labeling emotions **accurately increases self-awareness** and **helps us to communicate emotions effectively**, reducing misunderstanding in social interactons  
+
+    - patterns  
+        + shame, guilt, and embarrassment  
+            - **shame** is from the outside  - from **our perception that other people believe** we broke a moral or ethical rule or some shared convention  
+            - **guilt** is we make of ourselves when **we feel remorse or responsibility for something we did**, usually something that feels wrong  
+            - **embarrassment** is when we've **been caught violating some social norm**, such as how to dress for an occasion, or how to behave in a certain situation  
+
+        + Jealousy and envy  
+            - **jealousy** is a form of fear of losing someone important to you, especially to someone else  like romantic couple or children  or classmates  
+                + **feel threatened and fear the loss** of their relationship  
+
+            - **envy** has to do with wanting **something that someone else has**  
+
+        + Joy and contentment  
+            - **joy feels energetic**; joy is caused by a sense of **getting what one wants**   
+            - **contentment feels calm**; contentment is caused by **a sense of completeness** (not wanting or needing anything)  
+
+        + Stress and pressure  
+            - **Stress** is a response to **too many demands** and not enough resources to meet them  
+            - **pressure** is a situation where you perceive something is **dependent on the ourcome of your performance** like performing in front of a group or acing an interview  
+
+
+    - Yellow - high-energy, high-pleasantness feelings  
+        + happy  
+        + joy  
+        + surprise  
+        + excitement  
+
+    - Red - high-energy, unpleasant  
+        + anger  
+        + fear  
+        + anxiety  
+            - an uncomfortable feeling of nervousness or worry about something that is happening or might happen in the future  
+
+    - Blue - low-energy, low-pleasantness  
+        + sad    
+
+
+    - Green - low-energy, high-pleasantness  
+        + feel calm or content  
+
+
+* Express Emotion  
+    - **know how and when to display our emotions**, depending on the setting, the people we're with, and the context  
+
+* Regulate Emotion  
+    - **monitor, temper, and modify emotional reactions** in helpful ways to reach personal and professional goals  
+    - **use this skills/strategies to manage their own emotions and help others** with theirs  
+    - TODO  
+
+
+
+#### The Self-Awareness Onion  
+* understanding your emotions  
+    - identify blind spots in ourselves and then expressing the affected emotions appropriately  
+    - fear -> angry, upset, worried, uninspired, sad  
+    - love   
+ 
+* ask **why we feel certain emotions**    
+    - **the root cause** of the emotions that overwhelm us. 
+    Once we understand that root cause, we can ideally do something to change it   
+    -  why do you feel uninspired?  why do you feel worried?  
+    you failed to achieve some goal?  what you consider success or failure?  
+    - **引起我情緒的那些念頭都是真的嗎**？  
+    - 當下，**我的生命中，什麼才是真的**？  
+        + 我提醒自己，只有我能对自己的情绪负责，从真实发生的事情中进入当下  
+
+* your **underlying values**  
+    - if you want to change how you see your problems, 
+    you have to **change what you value** and **how you measure failure/success**  
+
+    - **values-based questions** and **the metric** to assess progress toward that value  
+        + why do you feel such a need to be rich in the first place?  
+        + how am I choosing to measure myself?  By what standard am I judging myself and everyone around me?  Why do you consider this to be success/failure?  
+
+    - define **good, healthy values**  
+        + **reality-based, socially constructive, immediate and controllable**    
+        + can be achieved internally, immediate and controllable and engage you with the world  
+        + honesty (you have complete control over, reflects reality, and it benefits others), self-respect, curiosity, humility, creativity  
+        + bad values are generally reliant on **exernal events**, **outside of your control**, socially destructive or magic to achieve  
+            - manipulation or violence, being liked by everybody,feeling good all the time, not being liked by everybody  
+
+    - **当我们面对内心的恐惧时， 抛开“应该”**  
+    然后我们就会发现“烦”随之消散，结果比我们规划的还要好  
+
+
+* **Values are about prioritization**    
+    -  **you values determine the nature of your problems**, the nature of your problems determines the quality of your lives  
+    - **the question is your priorities**, and that therefore **influence your decision-making**    
+
+
+* reference 
+    - ch4 - The Value of Suffering  
+
 
 #### Intuition  
 * mindfulness  
@@ -310,6 +477,7 @@ abstract: "Master your emotions. and you can Control your life  ."
     - 西方家庭父母不太包办孩子饮食， 但很注重**语言沟通和情感援助**  
         + 会尽量利用吃饭时间**倾听孩子，一起聊天**，比较容易及时发现情绪问题  
 
+
 #### 情商  
 * 觉察  
     - **觉察他人对自己的影响，同时分辨出自己内心的声音**，同时做出自己相应的选择  
@@ -359,54 +527,7 @@ abstract: "Master your emotions. and you can Control your life  ."
     - 不允许不同意见的表达，赶紧逃离  
 
 * reference  
-    - [10条职场情商法则，让你少走十年弯路](http://nulishehui.blog.caixin.com/archives/257073)
-
-
-#### The Self-Awareness Onion  
-* understanding your emotions  
-    - identify blind spots in ourselves and then expressing the affected emotions appropriately  
-    - fear -> angry, upset, worried, uninspired, sad  
-    - love   
- 
-* ask **why we feel certain emotions**    
-    - **the root cause** of the emotions that overwhelm us. 
-    Once we understand that root cause, we can ideally do something to change it   
-    -  why do you feel uninspired?  why do you feel worried?  
-    you failed to achieve some goal?  what you consider success or failure?  
-    - **引起我情緒的那些念頭都是真的嗎**？  
-    - 當下，**我的生命中，什麼才是真的**？  
-        + 我提醒自己，只有我能对自己的情绪负责，从真实发生的事情中进入当下  
-
-* your **underlying values**  
-    - if you want to change how you see your problems, 
-    you have to **change what you value** and **how you measure failure/success**  
-
-    - **values-based questions** and **the metric** to assess progress toward that value  
-        + why do you feel such a need to be rich in the first place?  
-        + how am I choosing to measure myself?  
-        By what standard am I judging myself and everyone around me?  
-        Why do you consider this to be success/failure?  
-
-    - define **good, healthy values**  
-        + **reality-based, socially constructive, immediate and controllable**    
-        + can be achieved internally, immediate and controllable and engage you with the world  
-        + honesty (you have complete control over, reflects reality, and it benefits others), self-respect, curiosity, humility, creativity  
-        + bad values are generally reliant on **exernal events**, **outside of your control**, socially destructive or magic to achieve  
-            - manipulation or violence, being liked by everybody,
-        feeling good all the time, not being liked by everybody  
-
-    - **当我们面对内心的恐惧时， 抛开“应该”**  
-    然后我们就会发现“烦”随之消散，结果比我们规划的还要好  
-
-
-* **Values are about prioritization**    
-    -  **you values determine the nature of your problems**, 
-    the nature of your problems determines the quality of your lives  
-    - **the question is your priorities**, and that therefore **influence your decision-making**    
-
-
-* reference 
-    - ch4 - The Value of Suffering
+    - [10条职场情商法则，让你少走十年弯路](http://nulishehui.blog.caixin.com/archives/257073)  
 
 
 
@@ -417,7 +538,8 @@ abstract: "Master your emotions. and you can Control your life  ."
 
 
 
-#### reference
+#### reference  
+* [Permission to Feel](https://book.douban.com/subject/34871932/) by Marc Brackett  
 * [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  
 * [Why Has Nobody Told Me This Before](https://book.douban.com/subject/35777114/) by Dr. Julie Smith
 * [紅玫瑰yu与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲    

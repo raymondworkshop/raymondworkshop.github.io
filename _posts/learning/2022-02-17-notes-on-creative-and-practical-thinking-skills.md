@@ -52,6 +52,70 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
 * Fear is temporary. Regret is forever.  
 
 
+#### **Think rationally about the heart**    
+* **Listen to your heart/values**, and **train your mind to work** in harmony with it  
+    - Make choices that **best serve your values** and that **prioritize the ones that are most important** to you  
+
+    - Think carefully and let your values play a big role in decision-making, but do so rationally  
+
+
+* **Identify your deepest values** 
+    - TODO  
+        + your family values - **education**, wealth, appearance  
+        + what do u do for a living?  
+        + how to spend your money on?  
+
+    - What comes from your heart  
+        + the heart maybe based on things like your past/experiences, needs/how you feel, and the present/other people around you,choices  
+
+    - how to listen to your heart  
+        + write what comes to you  
+            - write or think **without letting in the doubting voice**    
+            - "**I have a feeling that** ..."  
+            - "**My heart tells me that** ..."  
+        + find a quiet place **where you can let your emotions and thoughts flow freely**  
+
+    - listen to your heart, **don't trust it automatically**  
+        + sometimes it's wrong    
+
+
+
+* **Use your values within your rational thought process**    
+    - **Gain as much information as you can about choices**    
+        + what is **the probable benefit** of a decision?  will it be something you'll **ever regret**?  your rational mind and heart may be giving you conflicting thoughts and a decision, and you will need to **seek out all possible detail and evaluate it**    
+
+    - **Identify problems**: what might go wrong?   
+
+    - **Explore options**: think carefully about **what's best for you**  
+        + your first intuition might be right. howerver, sometimes, **your heart needs to be balanced with a rational decision**  
+
+* **Consider the problem in terms of your highest values**   
+    - How do the possible solutions relate to your values  
+        + **make a map of your values** - from most important to least - to see where they land in your personal hierarchy   
+
+
+
+* listen to you heart  
+    - the heart is decidedly different -- **softer and simpler**    
+        + in the mind, **judgments and reactions are in control** and you feel justified being judgemental and angry  
+
+    - **shift your attention on the heart area** and **reconnect with feelings of care and appreciation** or other heart qualities of **self-compassion**, **compassion** for others, **forgiveness**, **appreciation** and **kindness**, then be able to distinguish intuitive heart feelings from mental and emotional preferences  
+        + shift your attention to the area of your heart and **breather slowly and deeply**    
+        + activate and sustain a genuine **feeling of appreciation or care** for someone or something in your life  
+        + radiate these **feelings of care and appreciation toward yourself and others**   
+        + **Notice how this extended radiation of care has affected your body, emotions and thinking**    
+            - you get your head in sync with your deeper heart intent   
+
+    - focus on your body, not your mind
+        + **what does your body feel like** right now? 
+        pay attention to the feeling of the clothes on your skin, and try to ignore any thoughts that you're having  
+            - **experience physical sensations that are associated with emotions**    
+
+
+* reference  
+    - [Make your heart and mind work together](https://www.wikihow.com/Make-Your-Heart-and-Mind-Work-Together)  
+
+
 #### Practical Thinking skills  
 
 ##### Bruce Lee  - who are you  

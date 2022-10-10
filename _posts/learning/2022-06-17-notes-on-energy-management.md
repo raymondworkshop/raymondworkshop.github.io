@@ -29,6 +29,7 @@ abstract: "Notes on energy and time management skills"
     - Lime Garden - 青悅 - 越南菜  
     - PUTIEN 莆田 - 福建菜  
     - 湘川沪 - China land restaurant   
+    - 金禧茶樓  
 
 ##### exercises  
 
@@ -38,6 +39,7 @@ abstract: "Notes on energy and time management skills"
     - 大埔 - 大埔滘林徑藍路  
     - 青衣自然径  
     - 凤坑家乐径  
+    - 白水碗Pak Shui Wun  
     
 
 ##### swimming  

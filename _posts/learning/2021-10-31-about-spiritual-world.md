@@ -49,6 +49,12 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning  
+* 信仰基督的人  
+    - 基督在我里面活着； 包括好人，恶人  
+    - “Blessed are **the meek** for they will inherit the earch” - 马太福音5-5  
+        + meek - **quiet, gentle, and not willing to argue** or express your opinions in a forceful way  
+        + gentle - calm, kind, or soft  
+
 * 学习**给什么**，主耶稣就是来做仆人的   
     - 要彼此做仆人： **牺牲，给予，奉献，服事**    
     - 当主变化我的时候，拼命改变自己  
