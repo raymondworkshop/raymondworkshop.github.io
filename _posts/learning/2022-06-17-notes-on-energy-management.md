@@ -31,6 +31,12 @@ abstract: "Notes on energy and time management skills"
     - 湘川沪 - China land restaurant   
     - 金禧茶樓  
 
+* notes  
+    - 先吃生的后吃熟的，先吃蔬菜后吃肉，最后才吃碳水化合物   
+        + 先吃沙律和水果
+        + 再吃生的，刺生  
+        + 再吃煮过的  
+
 ##### exercises  
 
 #####  hiking  

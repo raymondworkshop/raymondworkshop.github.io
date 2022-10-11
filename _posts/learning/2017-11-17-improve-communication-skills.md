@@ -35,7 +35,7 @@ abstract: "like listening, persuation ... "
             - **if you can do something by yourself**, don't ask for help.  
             - **you should ask for help when you really need it**.
             This shows people that **you're humble and know your limits**.
-            It also shows that **you're open to being vulnerable with others**. this will gain people's respect. 
+            It also shows that **you're open to being vulnerable with others**. this will gain people's respect.  
 
 
     - **要有雄心**  
@@ -86,8 +86,7 @@ abstract: "like listening, persuation ... "
     - 选择策略  
         + **有时说出自己的观点和看法是尊重他人学识的表现**；
         有时，**隐藏自己的观点和看法可以避免不必要的争端**    
-        + 如果你说出某个争端，试着将气氛缓和下来；
-        可以将自己观点表述出来，听听他们如何争辩； “你觉得呢？”  
+        + 如果你说出某个争端，试着将气氛缓和下来；可以将自己观点表述出来，听听他们如何争辩； “你觉得呢？”  
         + 有时争论过无数次，都没结果，可以不必提起这个话题  
 
 

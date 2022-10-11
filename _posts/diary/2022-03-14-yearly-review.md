@@ -12,16 +12,14 @@ tags: [diary, review, important, learning, lesson]
 * manage the relationships  
     - can feel the love  
 
-
-
 * **Identify your deepest values** 
     - TODO  
         + your family values 
             - **education**, leadership/service the community,  honest, <del>status</del> 
         + what do u do for a living?  
-            - creativity, mind  
+            - wealth
+            - creativity, mind   
             - appearance  
-            - wealth  
         + how to spend your money on?  
             - creativity    
 

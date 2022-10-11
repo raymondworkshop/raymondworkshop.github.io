@@ -11,7 +11,6 @@ date: 2012-03-19
 *  [Managing Emotions in Times of Uncertainty & Stress](https://www.coursera.org/learn/managing-emotions-uncertainty-stress/home/week/1)  
 * [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2022/home)  
 * [American English Pronunciation](https://www.coursera.org/learn/american-english-pronunciation-consonant-sounds/home/week/1)  
-*  [Philosophy and Critical Thinking](https://learning.edx.org/course/course-v1:UQx+META101x+1T2022/home)  
 * [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego   
 
 
@@ -21,6 +20,8 @@ date: 2012-03-19
 
 * [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan   (9/10)  
 * [The Subtle Art of Not Giving a Fck](https://book.douban.com/subject/26895197/) by Mark Manson  (8/10)  
+* [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  (9/10)    
+* [少年王晶闖江湖](https://book.douban.com/subject/6795881/) (note: 有些思維可以借鑑)  (8/10)  
 
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho (9/10)  
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (7/10)  
@@ -32,14 +33,16 @@ date: 2012-03-19
 * [Hello, Startup](https://book.douban.com/subject/26426841/) by Yevgeniy Brikman  (9/10)  
 * [Permission to Feel](https://book.douban.com/subject/34871932/) by Marc Brackett  
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
+* [Practices of the Python Pro](https://book.douban.com/subject/33447247/) by  Dane Hillard  (7/10)  
+* [CPython Internals](https://book.douban.com/subject/35405785/) by Anthony Shaw  
+* [500 Lines or Less](http://aosabook.org/en/index.html)  
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
 * [Python Distilled](https://book.douban.com/subject/35563594/) by David M. Beazley  
 * [Effective Python: 2nd Edition](https://book.douban.com/subject/34868258/) by Brett Slatkin  
 
+
 * [Think Bayes, 2nd](https://book.douban.com/subject/35428149/) by Allen Downey  
 * [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
-
-* [CPython Internals](https://book.douban.com/subject/35405785/) by Anthony Shaw  
 * [Producing Open Source Software](https://producingoss.com/en/index.html)  
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 * [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore  
@@ -51,15 +54,13 @@ date: 2012-03-19
 * [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan  
 * [The Long Tail](https://book.douban.com/subject/26584041/) by Chris Anderson  
 
-* [why's (poignant) Guide to Ruby](https://poignant.guide/book/) 
 * [Programming Rust, 2nd Edition](https://book.douban.com/subject/34973905/) by Jim Blandy 
+* [why's (poignant) Guide to Ruby](https://poignant.guide/book/) 
 
-* [力量从那里来](https://book.douban.com/subject/35694196/) by  李一诺  (9/10)    
 * [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  
 * [Why Has Nobody Told Me This Before](https://book.douban.com/subject/35777114/) by Dr. Julie Smith  
 * [紅玫瑰yu与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲    
 
-* [少年王晶闖江湖](https://book.douban.com/subject/6795881/)  (8/10)  
 * [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti  
 * [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
 
