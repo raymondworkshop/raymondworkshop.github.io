@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "Notes on programing languages"
-date: 2021-04-06 
+date: 2022-04-06 
 update: 2022-01-22  
 comments: true
 categories: [home, programming]
 abstract: "[Updating] Notes on programing languages"
 ---
 
-#### Interpreters  
+#### Interpreters on 2022   
 program  - parse -> abstract-syntax-tree - eval -> result  
 
-[sspy.py](https://github.com/muyun/dev.wic/blob/master/sspy.py) -a tiny scheme interpreter with python- shows the detail.  
+For example, [sspy.py](https://github.com/muyun/dev.wic/blob/master/sspy.py) - a tiny scheme interpreter with python - shows the details.  
 
 
 #### Python Data Model -> A Framework/API for core language constructs

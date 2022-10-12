@@ -12,7 +12,21 @@ abstract: "Notes on the management skills in the practical part"
 * 维持创造者思维， creation is about building  
     - 维持创造者思维，专注于 **将脑中的想法转变为可工作的最小实现**的过程  
 
-* software business  
+* learn how to **propose better solutions**   
+    - the first thing you should do is **define the problem**,
+    **your idea** for the solution, **your target user base**  
+    - **Do your research**.  **know all the existing solutions out there**,
+    and **exactly how your spec is different and better**      
+
+    - start mocking up screens. Get in deep
+
+    - **defining great specifications** is a more important part of creating digital tools than writing the code itself  
+        + **what your one-sentence description will be** when your app appears in a store   
+
+    - reference  
+        + [Please Do Learn How to Propose Better Solutions](http://smarterware.org/2012/05/please-do-learn-how-to-propose-better-solutions/)
+
+* digital business  
 
 *  work in small teams/companies with the lean members    
 

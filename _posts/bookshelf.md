@@ -31,7 +31,9 @@ date: 2012-03-19
 * [Serious Python](https://book.douban.com/subject/30206213/) by Julien Danjou  (8/10)  
 
 * [Hello, Startup](https://book.douban.com/subject/26426841/) by Yevgeniy Brikman  (9/10)  
+* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling  
 * [Permission to Feel](https://book.douban.com/subject/34871932/) by Marc Brackett  
+* [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
 * [Practices of the Python Pro](https://book.douban.com/subject/33447247/) by  Dane Hillard  (7/10)  
 * [CPython Internals](https://book.douban.com/subject/35405785/) by Anthony Shaw  
@@ -39,7 +41,8 @@ date: 2012-03-19
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
 * [Python Distilled](https://book.douban.com/subject/35563594/) by David M. Beazley  
 * [Effective Python: 2nd Edition](https://book.douban.com/subject/34868258/) by Brett Slatkin  
-
+* [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina  
+* [Crossing the Chasm](https://book.douban.com/subject/25806284/) by Geoffrey A. Moore  
 
 * [Think Bayes, 2nd](https://book.douban.com/subject/35428149/) by Allen Downey  
 * [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
@@ -47,9 +50,7 @@ date: 2012-03-19
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 * [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore  
 
-* [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina  
 
-* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling  
 * [Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer  
 * [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan  
 * [The Long Tail](https://book.douban.com/subject/26584041/) by Chris Anderson  
