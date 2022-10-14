@@ -9,6 +9,6 @@ I am a RA at Chinese University of Hong Kong. Before this, I was a technical off
 
 I got my M.Sc. in Computer Science at Chinese University of Hong Kong and B.Eng. in Electronic and Information Engineering at WuHan University. He also hold a Diploma in International Business Communication at The University of Hong Kong.  
 
-I live in Hong Kong. I am also available for short term consulting, [Reach out](bestraymond@icloud.com) if you'd like to chat.  
+I live in Hong Kong. I am also available for short term consulting, [reach out](bestraymond@icloud.com) if you'd like to chat.  
 
 All opinions are my own.  
