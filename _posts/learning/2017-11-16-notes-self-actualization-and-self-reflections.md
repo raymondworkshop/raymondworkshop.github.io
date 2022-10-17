@@ -23,6 +23,9 @@ abstract: "learn from your mistakes, and know more about yourself"
 
     - **做好可控的因素**， 对不可控的因素 担心也没用  
         + 减少内耗  
+        + In comes from within  
+            - **focus on yourself** and not the world    
+            - **fight the battles inside you first and then watch the world** change around you  
 
     - **只做必须之事**， 也把必须之事做好  
         + 做的适宜，不做没有目标的事   
@@ -40,7 +43,7 @@ abstract: "learn from your mistakes, and know more about yourself"
     - 商人玩的是 **赚钱的游戏**  
         + **尽可能避免零和游戏**，因为它并不创造财富  
 
-    - like the people who like you back or support you  
+    - like the people who **like you back** or **support you**    
         + or loyal to you  
         + 看到他想要提高并让队友们变得更好  
             - tit-for-tat: <small>现代博弈论也证明了最优战略是“**一报还一报**”</small>   

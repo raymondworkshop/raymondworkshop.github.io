@@ -39,9 +39,13 @@ abstract: "Master your emotions. and you can Control your life  ."
 #### Notes  
 * In comes from within  
     - **focus on yourself** and not the world  
-    - **fight the battles inside you first and then watch** the world change around you  
+    - **fight the battles inside you first and then watch the world** change around you  
 
 * **Master your emotions**  
+    - **stay in touch with your primary emotions** long enough 
+        + **recognize and challenge your secondary emotions** can help you reduce their effects  
+        + the secondary emotions usually **cover up what you really feel** and **send confusing signals to the outside world about what you need**.  For example, if you are sad and need support and closeness, signaling secondary anger will tell others that they should stay away and thus create distance.  
+
     - love and accept yourself  
 
     - Control your life  
@@ -53,7 +57,6 @@ abstract: "Master your emotions. and you can Control your life  ."
     - self-confidence  - an outcome of doing well  
         +  **understand, value, and apply the Core Assets** -> happier, and more resilient  
         
-
     - **自強不息，明辨是非**，你的前行就**充滿陽光和力量**   
         + **找个自己能踏踏实实做的事情，用心琢磨**，
         当你做出成绩时，就会觉得这事有意思，有成就感，慢慢就能越做越好  
@@ -76,6 +79,8 @@ abstract: "Master your emotions. and you can Control your life  ."
 
         + **Accept your faults for what they are** and never stop working on them  
 
+    -  **skipped toxic people**    
+    
     - 不会随意扩大自己的情绪响应人群, 感性的人会自动将响应对象**限定在自己的亲人好友和少数熟人**  
         + 感性的人对日常的人和事有丰富的情绪响应，很快能够设身处地、从对方的视角和角度来看待问题、感受生活  
         + 这是刹车装置，起到自我保护作用  
@@ -95,6 +100,10 @@ abstract: "Master your emotions. and you can Control your life  ."
 
         + 压力
             - **写下来，辩真伪**；  伪->不管；  真- 定解决方案  
+
+        + Forgiving  - Ignore nonsense   
+            - Forgiving does not depend on their apology  
+            - Forgiving them means that their actions don't control you anymore  
 
 
 * Integrity - be good people and do the right thing  
@@ -363,6 +372,7 @@ abstract: "Master your emotions. and you can Control your life  ."
         + do the hard things  
         + avoid the toxic things  
         + invest in developing control  
+
 
 #### **Empathy**  - think "**we**", not "me"  
 * help us care about each other and **help bring out the humanity** in the best possible way  

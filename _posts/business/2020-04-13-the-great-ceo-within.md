@@ -11,6 +11,9 @@ abstract: "Notes on the management skills in the practical part"
 #### notes  
 * 维持创造者思维， creation is about building  
     - 维持创造者思维，专注于 **将脑中的想法转变为可工作的最小实现**的过程  
+    - **an app is an act of self-expression**, the same way a novel, a painting, a lego starship, or a gourmet meal is  
+        +  The difference is you can distribute your app to millions of people from your spare room over a phone line, so **the potential impact of your creation is enormous**  
+        + you can do the same with a blog post or an ebook, but a software app is a utility as well as a work of art. If you make a great one, **it can become an intimate part of your users' everyday life**, like their fork or belt.    
 
 * learn how to **propose better solutions**   
     - the first thing you should do is **define the problem**,

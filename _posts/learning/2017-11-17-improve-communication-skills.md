@@ -20,6 +20,11 @@ abstract: "like listening, persuation ... "
 
 
 ##### Respect is all  
+* notes 
+    - 发言时 注意 和听者的关系  
+        + **观众更重视 自己的感受和联系**， 而不是对错   
+
+
 * 尊重自己  
     - **支持自己** 
         + **你想要什么，就去争取**  
@@ -36,7 +41,6 @@ abstract: "like listening, persuation ... "
             - **you should ask for help when you really need it**.
             This shows people that **you're humble and know your limits**.
             It also shows that **you're open to being vulnerable with others**. this will gain people's respect.  
-
 
     - **要有雄心**  
         + **保持自我的最好状态**就是一种自我尊重  
@@ -128,7 +132,8 @@ abstract: "like listening, persuation ... "
 
 ##### Effective Communication  
 * Clear communication is so attractive.
-I love people who make things clear to me and don't just secretly expect, assume or hope.
+    - **make things clear to me and don't just secretly expect, assume or hope**  
+    - 坦诚  
 
 * **Talk slow** when you speak, and **smile** during every interaction  
 

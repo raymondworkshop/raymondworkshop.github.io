@@ -30,6 +30,7 @@ abstract: "Notes on energy and time management skills"
     - PUTIEN 莆田 - 福建菜  
     - 湘川沪 - China land restaurant   
     - 金禧茶樓  
+    - Pepperonis Pizza & Cafe  - 西貢意大利西餐  
 
 * notes  
     - 先吃生的后吃熟的，先吃蔬菜后吃肉，最后才吃碳水化合物   
@@ -41,11 +42,13 @@ abstract: "Notes on energy and time management skills"
 
 #####  hiking  
 * feel great to walk in Nature  
-    - 大尾督 单车
+    - 大尾督 单车  
     - 大埔 - 大埔滘林徑藍路  
     - 青衣自然径  
     - 凤坑家乐径  
     - 白水碗Pak Shui Wun  
+    - 昂平高原  
+        + 从 梅子林村 出发 
     
 
 ##### swimming  

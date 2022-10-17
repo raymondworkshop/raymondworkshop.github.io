@@ -5,6 +5,14 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-10-17  
+* Conscious living  
+
+* TODO  
+    - **wealth**  
+    - **appearance**    
+    - creativity  
+
 #### 2022-10-10  
 
 * 增重 
@@ -17,9 +25,9 @@ tags: [diary, review, important, learning, lesson]
         + your family values 
             - **education**, leadership/service the community,  honest, <del>status</del> 
         + what do u do for a living?  
-            - wealth
-            - creativity, mind   
-            - appearance  
+            - **wealth**
+            - **creativity**   
+            - **appearance**    
         + how to spend your money on?  
             - creativity    
 
@@ -32,7 +40,6 @@ tags: [diary, review, important, learning, lesson]
             - "**I have a feeling that** ..."  
             - "**My heart tells me that** ..."  
         + find a quiet place **where you can let your emotions and thoughts flow freely**  
-
 
     - practice to let your values play a big role in decision-making, but do so rationally  
 

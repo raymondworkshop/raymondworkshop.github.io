@@ -20,6 +20,7 @@ categories: [notes, important, softskills, love, self, learning]
     - **你和谁在一起最轻松自然，无拘无束**，谁就最爱你  
 
 * **有问题一定要沟通**，**遇到问题千万别逃避不谈**  
+    - 坦诚  
     - 对方说出问题所在不要打断对方发言，**耐心听取对方的感受**；
     **沟通当中使对方明白自己**，同时**对对方的回馈重视他的发言**，从而化解误解  
 
@@ -166,7 +167,6 @@ categories: [notes, important, softskills, love, self, learning]
         
         + "you know what, **I can handle this**. This is going to be all right. 
         There is a way to deal with this. **I'm going to figure this out**."  
-
 
 
 * TODO  

@@ -49,6 +49,11 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning  
+* 上帝会供应你**所需的信心**  
+    - 只需**专心信靠上帝**，**相信他会赐我能力胜任**  
+    - “要把一切的忧虑交给你，**请帮助我尽自己的本分**，其他的就全然交托给你”  
+        + 用尽自己的天赋/能力  
+
 * 信仰基督的人  
     - 基督在我里面活着； 包括好人，恶人  
     - “Blessed are **the meek** for they will inherit the earch” - 马太福音5-5  
