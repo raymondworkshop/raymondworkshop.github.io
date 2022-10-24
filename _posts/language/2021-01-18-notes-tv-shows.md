@@ -7,6 +7,24 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### S08E16  
+> I think that's the youngest girl ever to reject me.    
+>
+
+> I just talked to Joey, **I wanted to see you how you were**.  
+> 
+> No, all he's thinking about is how you're taking this.  
+> Listen, it's completely **freaking him out** (吓坏了).  
+> 
+
+> No, I'm serious. You need to **find out where she is** (知道她的感觉)  
+> Because if **she's not where you are** (不喜欢你), then you can start to **move past this** (你可以放下).  If she is **where you are** (喜欢你), then my feeling weird shouldn't **stand in the way** (妨碍你们).  
+>  
+
+you know what?  **I'm gonna take you out to dinner tonight**.  
+**I found this place that makes the greatest** mozzarella sticks.  
+
+
 #### best call soul  
 >Thanks for lunch. I’ll get the next one.
 >Thanks for taking the time. Good to see you, jimmy
