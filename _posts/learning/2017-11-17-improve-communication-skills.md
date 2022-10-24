@@ -23,6 +23,9 @@ abstract: "like listening, persuation ... "
 * notes 
     - 发言时 注意 和听者的关系  
         + **观众更重视 自己的感受和联系**， 而不是对错   
+        + people only **understand you from their level of perception**. **If necessary, explain your actions**, not yourself.  
+            - it's not your job to make people understand you. **It's your job to understand yourself**. **The moment you understand yourself you'll feel at peace**. Others don't need to understand that. But **you're at peace**, **this is what matters**.  
+            - Those who really know you don't need your explanation.  
 
 
 * 尊重自己  

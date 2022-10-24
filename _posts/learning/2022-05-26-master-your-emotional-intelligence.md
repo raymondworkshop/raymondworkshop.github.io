@@ -184,6 +184,58 @@ abstract: "Master your emotions. and you can Control your life  ."
         - he effortlessly interprets events in such a way that **they don't lose their innate peace**    
 
 
+#### The heart vs The mind  
+* Balance between **a soft heart** and **a sharp intellect**   
+    - It **truly makes you happy** and you have a **well-informed decision**  
+        + if you are able to **identify the consequences** and **still want to do it** or **have a way to address said consequences** if you do jump in you  
+
+    - Reflect on both **your approach** and **your reactions**   
+        + **hold back 3-5 seconds**, **evaluate what I am about to say**, and **the merit of its value to** the discussion    
+        + **how you message things** as much as the impact as the words themselves  
+            - **the moments you have made comments both with all heart or all mind**,reflect on the  mistakes you have made      
+
+        + **reflect on your reactions**, where have you **allowed someone's words to affect you emotionally**    
+            - **we create the reactions we have**, and **we choose to give power to some people** and not to others  
+            - **our reactions are ultimately within our control**  
+            - "**If a cracy homeless person on the subway gave you the kind of feedback** you received, how would you react"  
+
+    -  when you communicate with another person, you're **exploring the depths of your own consciousness**    
+
+    - **Dealing with your family and friends with your heart** and **business with your head**    
+
+
+* A soft heart  
+    - your heart is more of **the carefree, easy-going part** of the thought process that **allows you to follow a passion** or **go down a route that may not make sense but just feels right**  
+        + following your heart can **lead you to be happier and better adjusted** then sometimes, the greater risk can lead to the greater reward    
+        + **friendly and comfortable** with everyone  
+            - **sensitive to others'needs, feelings, and emotions**  
+
+    - when you tune into the heart station, your attitude adjusts and you find **responses that are much more staisfying to you** and **better for the whole**  
+        + shift **your attention on the heart area** and **breather slowly and deeply**    
+        + reconnect with **feelings of appreciation or care for someone or something** in your life  
+            - Notice **how this extended radiation of care has affected your body, emotions and thinking**    
+            - appreciation - the act of **recognizing or understanding that something is valuable, important, or as described**  
+            - care - the process of **protecting** someone or something and **providing** what that person or thing needs  
+
+        + radiate the feelings of **appreciation or care toward yourself and others**     
+
+    - **meditation**    
+         + when we **perceive the world as a part of us**, **love flows** strongly between the world and us  
+
+         + oneness  
+             - truth + love  
+             - knowing you're already connected  
+        
+
+
+* a sharp intellect  
+    - the mind lets you **weigh the pros and cons**, think of **potential consequences**, and look at it from a more logical perspective  
+    - in the workplace, following your mind can lead to **fewer failures** and leave you in a more stable position because you've weighted your pros and cons 
+
+    - **the approach was purely a logical outburst**, **with little consideration for the feelings** of the other person, **not considered using his heart in the situation**  
+        +  **sensitive to others'needs, feelings, and emotions**    
+
+
 #### Permission to feel            
 * Feel Emotions  
     - **How are you feeling?**    

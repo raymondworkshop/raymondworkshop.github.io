@@ -5,13 +5,120 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
-#### 2022-10-17  
-* Conscious living  
+#### 2022-10-24  
+* self-reflection  
+    - conscious living  
+        + It's your job to **understand yourself**  
+            - **The moment you understand yourself** **you'll feel at peace**  
+        + **能清楚自己为什么要做某件事情**,是一种有普遍价值的生活技能     
+            - 当你**开放自信**时，人们会欣赏; 当你迷失或虚伪时，人们一眼就可以看出来  
+
+    - passion  
+        + figure out **what it is you burn for**, and then live for it  
+        + the best way to protect your peace of mind and energy is by **concentrating on what matters most you** and **your purpose**  
+
+    - your relationships as **external projections of the real you**  
+        + the purpose of each relationshp is to **teach you how to love yourself from the inside out**    
+        + when you communicate with another person, you're **exploring the depths of your own consciousness**    
+        + when you learn to love everyone and everything, you **come into aligment with your true self**      
+
+    - softskills  
+        + 沟通技巧必你纯熟  
+        + 处事方式比你圆滑  
+
+    
+* DONE 
+    -  **appearance** 
+        + 增重    
+
+    - programming  
+        + <Python distilled>
+        + <SICP>  
+
+    - language  
+        + more English  
+
+    - others  
+        + 开始办理销户  
+
 
 * TODO  
-    - **wealth**  
-    - **appearance**    
-    - creativity  
+    - Project  
+        + paper reading  
+
+        + explore web3  
+            - [The Newbies Guide to Crypto](https://helpthisbook.com/sunny/the-newbies-guide-to-crypto/89be5a1e-a223-4c46-ac56-718f56baa112)  
+
+    -  <Personal Development for Smart People>    
+
+    - Think big  
+        + 自己限制了自己  
+        + Big & small goals take the same effort, why not go big ?  
+
+
+    - Behave Masculine  
+        + strength  
+            - stop putting everyone else's needs ahead of your own  
+            - stop seeking approval from others and **impress yourself** instead  
+
+        + assertiveness  
+            - **behave confidently** and is **not frightened to say what they want or believe**  
+            - confident  
+                + the quality of **being certain of your abilities** or of **having trust in** people, plans, or the future  
+
+        + calm  
+            - **peaceful**, **quiet**, and without worry  
+
+        + leadership  
+        + courage, independence        
+
+
+#### 2022-10-17  
+ 
+*  self-reflection  
+    - work  
+        + improve your cantonese and english  
+
+        + programming  
+            - python  
+            - js  
+
+        + explore web3  
+            - [The Newbies Guide to Crypto](https://helpthisbook.com/sunny/the-newbies-guide-to-crypto/89be5a1e-a223-4c46-ac56-718f56baa112)
+
+    - self  
+        + your relationships as **external projections of the real you**  
+            - the purpose of each relationshp is to **teach you how to love yourself from the inside out**  
+            - when you communicate with another person, you're **exploring the depths of your own consciousness**    
+            - when you learn to love everyone and everything, you **come into aligment with your true self**      
+
+        +  **appearance** 
+            - 增重    
+                
+        + **being assertive** in a polite way  
+            - **behave confidently** and is **not frightened to say what they want or believe**  
+
+        + apply what Bible's in your mind    
+
+        + * mange the relationships with families  
+            - love  
+
+        +  **内省及由此而获得的自我认识**    
+            - **能想清楚自己为什么要做某件事情**，是一种有普遍价值的生活技能 
+            - 当你迷失或虚伪时，人们一眼就可以看出来；**当你开放和自信时**，人们会欣赏  
+
+    - improve  
+        + **plan for the worst**, hope for the best   
+
+
+* TODO  
+    - Conscious living  
+        + **wealth**  <- career/business  
+        + creativity  <- reading/chatting  
+
+    - TOREAD  
+        + <Personal Development for Smart People>  
+
 
 #### 2022-10-10  
 
@@ -25,9 +132,9 @@ tags: [diary, review, important, learning, lesson]
         + your family values 
             - **education**, leadership/service the community,  honest, <del>status</del> 
         + what do u do for a living?  
-            - **wealth**
-            - **creativity**   
+            - **wealth**  
             - **appearance**    
+            - **creativity**   
         + how to spend your money on?  
             - creativity    
 
@@ -50,10 +157,8 @@ tags: [diary, review, important, learning, lesson]
         + 过度竞争 - 对手  
 
     - 回应的时候  **关注 与 交流者/听者的感受**    
-        + 不要太直率 （关注事实和对错） 或者 太自我  
         + 听者更注重自己的感受， 而不是事实和对错  
-
- 
+        + 不要太直率 （关注事实和对错） 或者 太自我  
 
 
 #### 2022-10-03  
@@ -68,7 +173,7 @@ tags: [diary, review, important, learning, lesson]
         + 蛋白質 是合成肌肉最重要的物質  
         + 55*2 = 110 克  
 
-    - 碳水化物物： 白面包，米饭， **番薯**  
+    - 碳水化物物： 白面包，米饭， **番薯**    
         + 牛奶，鸡蛋，酸奶， 巧克力棒  
 
     - 高能量食物  
@@ -87,8 +192,7 @@ tags: [diary, review, important, learning, lesson]
 
 * 提高情绪智能  
     - Use your heart/values within your rational thought process
-        + use your judgment to **figure out what kinds of environments you can thrive in**,
-    and **then create an environment around you** so you're statistically likely to succeed  
+        + use your judgment to **figure out what kinds of environments you can thrive in**,and **then create an environment around you** so you're statistically likely to succeed  
     - 了解自己为什么有这个反应  
 
 
@@ -107,8 +211,7 @@ tags: [diary, review, important, learning, lesson]
                 + **别人真心想去做，就支持**； 这不是自私  
             - 照顾好自己  
                 + **给自己与给他人相同的关心**，就是一种自尊  
-                + 知道何时求助。 **要对自己的能力有信心**，**但也要知道什么事情超出了自己的能力**。
-                不要在不必要的时候为难自己。  
+                + 知道何时求助。 **要对自己的能力有信心**，**但也要知道什么事情超出了自己的能力**。不要在不必要的时候为难自己。  
 
 
         + 倾听别人的同时也有足够的自信心把自己的经历敞开交流  

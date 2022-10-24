@@ -31,6 +31,7 @@ abstract: "Notes on energy and time management skills"
     - 湘川沪 - China land restaurant   
     - 金禧茶樓  
     - Pepperonis Pizza & Cafe  - 西貢意大利西餐  
+    - 憶食尚臘味煲仔飯  
 
 * notes  
     - 先吃生的后吃熟的，先吃蔬菜后吃肉，最后才吃碳水化合物   

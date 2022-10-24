@@ -7,7 +7,9 @@ abstract: "a long-running note where I store the date, the person/project, the d
 ---
 
 ### a long-running note  
-*  this allows you to look back and see how things turned out
+*  this allows you to look back and see how things turned out  
+
+#### logs  
 
 #### **Decision-Making**    
 
