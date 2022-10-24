@@ -6,6 +6,45 @@ tags: [diary, review, important, learning, lesson]
 ---
 
 #### 2022-10-24  
+
+* TODO  
+    - Career    
+        + paper reading  
+
+        + Skills  
+            - <Python distilled>  
+            - <SICP>  
+
+        + language  
+            - more English  
+
+        + Reading  
+            - <Personal Development for Smart People>    
+            - [The Newbies Guide to Crypto](https://helpthisbook.com/sunny/the-newbies-guide-to-crypto/89be5a1e-a223-4c46-ac56-718f56baa112)  
+
+
+    - Health    
+        + **appearance** 
+            - 增重    
+            - exercise  
+
+
+    - Relationships 
+        + Hiking  
+
+
+    - Your spiritual connection
+        + bible reading  
+        + alpha  
+
+
+    - Self  
+        + Think big  
+            - 自己限制了自己  
+            - Big & small goals take the same effort, why not go big ?  
+
+
+
 * self-reflection  
     - conscious living  
         + It's your job to **understand yourself**  
@@ -26,6 +65,22 @@ tags: [diary, review, important, learning, lesson]
         + 沟通技巧必你纯熟  
         + 处事方式比你圆滑  
 
+    - Behave Masculine  
+        + strength  
+            - stop putting everyone else's needs ahead of your own  
+            - stop seeking approval from others and **impress yourself** instead  
+
+        + assertiveness  
+            - **behave confidently** and is **not frightened to say what they want or believe**  
+            - confident  
+                + the quality of **being certain of your abilities** or of **having trust in** people, plans, or the future  
+
+        + calm  
+            - **peaceful**, **quiet**, and without worry  
+
+        + leadership  
+        + courage, independence   
+
     
 * DONE 
     -  **appearance** 
@@ -42,35 +97,6 @@ tags: [diary, review, important, learning, lesson]
         + 开始办理销户  
 
 
-* TODO  
-    - Project  
-        + paper reading  
-
-        + explore web3  
-            - [The Newbies Guide to Crypto](https://helpthisbook.com/sunny/the-newbies-guide-to-crypto/89be5a1e-a223-4c46-ac56-718f56baa112)  
-
-    -  <Personal Development for Smart People>    
-
-    - Think big  
-        + 自己限制了自己  
-        + Big & small goals take the same effort, why not go big ?  
-
-
-    - Behave Masculine  
-        + strength  
-            - stop putting everyone else's needs ahead of your own  
-            - stop seeking approval from others and **impress yourself** instead  
-
-        + assertiveness  
-            - **behave confidently** and is **not frightened to say what they want or believe**  
-            - confident  
-                + the quality of **being certain of your abilities** or of **having trust in** people, plans, or the future  
-
-        + calm  
-            - **peaceful**, **quiet**, and without worry  
-
-        + leadership  
-        + courage, independence        
 
 
 #### 2022-10-17  

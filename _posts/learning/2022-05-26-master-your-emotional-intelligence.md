@@ -199,7 +199,9 @@ abstract: "Master your emotions. and you can Control your life  ."
             - **our reactions are ultimately within our control**  
             - "**If a cracy homeless person on the subway gave you the kind of feedback** you received, how would you react"  
 
-    -  when you communicate with another person, you're **exploring the depths of your own consciousness**    
+        +  when you communicate with another person, you're **exploring the depths of your own consciousness**    
+            - the purpose of each relationshp is to **teach you how to love yourself from the inside out**   
+            - when you learn to love everyone and everything, you **come into aligment with your true self**    
 
     - **Dealing with your family and friends with your heart** and **business with your head**    
 
