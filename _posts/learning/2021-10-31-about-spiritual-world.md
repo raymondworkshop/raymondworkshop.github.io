@@ -49,6 +49,14 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning  
+* 爱上帝，服务他人  
+    - **kindness & love**    
+    - 上帝use me, 作为改变的一部分？  
+        + 社会需要哪方面的改变？  
+
+    - 神 放在雅各身上的各种磨练，是对他的盼望，**以让他本性可以改变**    
+        + 比如 雅各的欺骗，自尊  
+
 * 以耶和华 **引领**我  
     - “我也与你同在。 你无论往哪里去，我必保佑你，领你归回这地，**总不离弃你**，直到我成全了向你所应许的。”  创世纪 28-15  
 

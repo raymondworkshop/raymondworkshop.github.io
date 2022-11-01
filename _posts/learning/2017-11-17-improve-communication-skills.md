@@ -134,7 +134,10 @@ abstract: "like listening, persuation ... "
 
 
 ##### Effective Communication  
-* Clear communication is so attractive.
+* **Evaluate what you say into the value** to the discussion  
+    - **Do you comment all mind or all heart**?  
+
+* Clear communication is so attractive  
     - **make things clear to me and don't just secretly expect, assume or hope**  
     - 坦诚  
 

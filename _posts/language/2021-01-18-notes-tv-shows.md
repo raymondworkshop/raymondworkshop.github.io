@@ -7,6 +7,14 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### S08E17  
+
+so when **you're done with your tea** (喝完茶)  
+
+I don't know. **I guess could**. It's just we didn't really **end things on such good terms** (闹的不太愉快).  
+
+
+
 #### S08E16  
 > I think that's the youngest girl ever to reject me.    
 >

@@ -18,7 +18,7 @@ abstract: "learn from your mistakes, and know more about yourself"
 
     - 处事方式比你圆滑  
         + 真诚 or ?  
-            - 以对方喜欢的方式 对待对方  
+            - **以对方喜欢的方式 对待对方**    
             - 老板有权以自己最得心应手的方式来工作
                 + 与他们共事的人有责任观察他们，了解他们的工作方式，**适应老板**  
 
@@ -44,6 +44,21 @@ abstract: "learn from your mistakes, and know more about yourself"
         + In comes from within  
             - **focus on yourself** and not the world    
             - **fight the battles inside you first and then watch the world** change around you  
+
+
+    - Fairness  
+        + Fairness means **treating people according to their needs**    
+            - explore the differences and **develop them into talents**. 
+            This development can still be considered fair, even though it isn't equal  
+
+        + In a broader social context, fairness takes the form of **justice**  
+            - fairly **balance the needs of the individual with the needs of the larger whole**    
+
+        + equality means treating everyone **exactly the same**  
+            - only in the sense that they'rea ll equally part of the same whole  
+            - at the basic level of equal human rights  
+
+
 
     - **只做必须之事**， 也把必须之事做好  
         + 做的适宜，不做没有目标的事   
@@ -143,6 +158,7 @@ abstract: "learn from your mistakes, and know more about yourself"
 
 * 天性 - *性格，动机，价值观*
 
+
 ##### 自己的工作方式是怎样的？ - how do I work? - 自己平时是怎样把事情做成的
 * **读者型（习惯阅读信息）** 还是 听者型（习惯听取信息）
  
@@ -155,18 +171,19 @@ abstract: "learn from your mistakes, and know more about yourself"
 * 从写来学习  
 * 从听来学习  
 
-*  **对“解決问题”的向往**
-    + 凡是有价值的思想，都是从“具体的问题”下手的
-    + **先研究问题的各方面事实，看看病在哪里； 再提出种种解决方法，然后加上想象力，推想一个假定的解决法**
+*  **对“解決问题”的向往**  
+    + 凡是有价值的思想，都是从“具体的问题”下手的  
+    + **先研究问题的各方面事实，看看病在哪里； 再提出种种解决方法，然后加上想象力，推想一个假定的解决法**  
 
-*  **自我教育**
-    + 贵族教育是非实用性的； 对于普通家庭出身的我，需要一技傍身，没那么多适错的机会
-    + 素质教育更重要的是心智的提升
-        - 差距最大的是 **演讲能力和写作能力**
-    + **走出家族的影响，不要被孝道文化所合理化**
+*  **自我教育**  
+    + 贵族教育是非实用性的； 对于普通家庭出身的我，需要一技傍身，没那么多适错的机会  
+    + 素质教育更重要的是心智的提升  
+        - 差距最大的是 **演讲能力和写作能力**  
+    + **走出家族的影响，不要被孝道文化所合理化**  
     + 说的有没有道理很重要  
 
-* **开发思维框架**，而不是工具和技术层面
+* **开发思维框架**，而不是工具和技术层面  
+
 
 ##### 自我管理  
 * 自省能力的优劣  
@@ -208,6 +225,7 @@ abstract: "learn from your mistakes, and know more about yourself"
 
 *  把自己的思维放到5年，10年后，想想自己需要什么样的生活
 
+
 ##### 自己属于何处
 * 知道自己的长处，工作方式和价值观  
 
@@ -243,6 +261,7 @@ abstract: "learn from your mistakes, and know more about yourself"
 
 * 对人礼貌，要**学会对人微笑和怎样对人说话**
 
+
 ##### 认知
 * 富人思维
     - **自主催化，闭环的能力** -> 独立的内生循环， 进而可以自己解放出来
@@ -254,7 +273,6 @@ abstract: "learn from your mistakes, and know more about yourself"
 ##### 关注
 * 关心政治和社会
 * 关心 受难的人
-
 
 
 #### The Minto Pyramid Principle  

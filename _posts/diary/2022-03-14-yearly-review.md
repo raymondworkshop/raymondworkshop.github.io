@@ -5,8 +5,78 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
-#### 2022-10-24  
+#### 2022-10-31  
+* TODO  
+    - work  
 
+    - connect on love
+        + **shift your attention on the heart area** and breather slowly and deeply  
+        + express affection or care  
+            - reconnect with **feelings of appreciation or care for someone or something** in your life  
+
+            - appreciation - the act of **recognizing or understanding that something is valuable, important, or as described**  
+                +  **a recent accomplishment**    
+                + point out **a unique talent** or **skill** you admire,
+                or share **a small detail that impresses you**    
+
+            - care - the process of **protecting** someone or something and **providing** what that person or thing needs  
+
+        + enjoy each other's company   
+
+* DONE  
+    - work  
+        + paper reading  
+        + programming  
+        + setup python env  
+
+    - career  
+        + Your career is to express yourself through the meida of building  
+            - what you express  
+            -  who you are  
+        + language  
+            - <friends>   
+            - language exchanging   
+
+    - health  
+        + physics  
+            - 喝牛奶  
+            - play badminton on saturday  
+            - hiking  
+
+        + bible reading  
+
+
+    - relationship  
+        + understand yourself  
+            - 能清楚自己为什么要做某件事  
+
+        + BBQ  
+            - 自己做的太多，交流的太少  
+
+        + dinner with Liu wei  
+
+    - learning          
+        + oneness and courage on <Personal Development for Smart People>  
+
+        + reflect on your reactions and your approach  
+            - evaluate what you say into the value to the discussion  
+                + do you comment all mind and all words?  
+                + sensitive to the emotions, feelings  
+                    - friendly + comfortable  
+
+            - your reactions are within your control  
+
+            - when you communicate with another person, you're exploring the depths of your own consciousness  
+
+
+* 30m reflect  
+    - relfect on your **work**, **career**, **health**, and **relationship** to 
+    maintain a clear vision of **what you want** and **how to get there**    
+
+    
+
+
+#### 2022-10-24  
 * TODO  
     - Career    
         + paper reading  

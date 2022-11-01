@@ -192,7 +192,7 @@ abstract: "Master your emotions. and you can Control your life  ."
     - Reflect on both **your approach** and **your reactions**   
         + **hold back 3-5 seconds**, **evaluate what I am about to say**, and **the merit of its value to** the discussion    
         + **how you message things** as much as the impact as the words themselves  
-            - **the moments you have made comments both with all heart or all mind**,reflect on the  mistakes you have made      
+            - **the moments you have made comments both with all heart or all mind**,reflect on the mistakes you have made      
 
         + **reflect on your reactions**, where have you **allowed someone's words to affect you emotionally**    
             - **we create the reactions we have**, and **we choose to give power to some people** and not to others  
@@ -228,14 +228,117 @@ abstract: "Master your emotions. and you can Control your life  ."
              - truth + love  
              - knowing you're already connected  
         
-
-
 * a sharp intellect  
     - the mind lets you **weigh the pros and cons**, think of **potential consequences**, and look at it from a more logical perspective  
     - in the workplace, following your mind can lead to **fewer failures** and leave you in a more stable position because you've weighted your pros and cons 
 
     - **the approach was purely a logical outburst**, **with little consideration for the feelings** of the other person, **not considered using his heart in the situation**  
         +  **sensitive to others'needs, feelings, and emotions**    
+
+
+#### Personal Development for Smart People  
+* Truth  
+    - **share information** and **learn from each other**    
+
+* Love  
+    - **connect on love**, **express affection** and **enjoy each other's company**    
+
+    - love  
+        + **the choice** to approach or avoid  
+        + initiate connections with others and **then communicate to explore the depths** of those bonds  
+        + when you communicate with another person, you're **exploring the depths of your own consciousness**  
+        + when **you learn to love everyone and everything**, you **come into alignment with your true self**    
+
+
+    - connection  
+        + **freedom to connect with what you want** and to disconnect from what you don't want  
+     
+
+    - communication  
+        + **enough common ground** to form a strong bond while also **stimulating growth** in new directions  
+        + **identify shared interests, values, and attitudes**; **explore and learn from the differences**  
+        + mutual understanding rooted in **love and trust**  
+            - **sharing build trust**, and trust creates stronger bonds  
+                + **immerse yourself in an activity with another person**, like going on a date, a party, or on a vacation together  
+            - connect with each other for the purpose of **learning and growing**   
+            - smiling, eye contact, an open posture  
+
+        + the true purpose of relationships is **self-exploration**    
+            - **you are exploring different aspects of yourself**    
+            - **explore you thoughts in writing**, my external world has shifted to **reflect that internal growth**    
+
+    - community  
+        + you can presuppose that **everyone else is a part of you**    
+            - **everyone has something to teach you**. 
+            Loving another person becomes the same thing as loving a part of yourself  
+
+        + Recognize that **you're both part of the same whole**    
+            - hold that thought for a moment, and notice that it feels good  
+
+        
+    - Appreciation  
+        + **a recent accomplishment**    
+        + point out **a unique talent** or **skill** you admire,
+        or share **a small detail that impresses you**    
+
+
+
+* Power  - decide consciously  
+    - encourage and support each other to achieve your dreams  
+
+    - **self-determination**    
+        + completely free to decide what you want  
+        + no matter what happens, you're responsible  
+        + **you can never reduce your responsibility by trying to make yourself powerless**     
+    
+    - focus your attention on **what you want**        
+        + **aligning yourself with truth and love** will help you evaluate the possibilities  
+        +  **consciously claim your power** and **do the best you can with it**  
+        + as you **grow your power**, you'll **be able to fulfill your needs and desires with greater ease**.  
+
+    - **focus on the present**, and how this goal can improve the quality of your life in this very moment  
+        + consider **how the goal improve your life right now**  
+        + "how does setting this goal improve my present reality?"  
+
+    - **you'll learn a lot about yourself** when you discover the kinds of **goals that really drive you**  
+
+    - fail  
+        + it's better to **fail as the powerful being you are** instead of trying to hide from the truth and live as a mouse    
+        + when you make mistakes and **learn from them**, **you grow stronger**  
+
+        
+* Oneness  
+    - **integrate the mental and the emotional sides**   
+        + if only emotional side, you'll **intuitively sense that we're all connected on 
+        some level**, but you'll **lack a sensible model of reality** in which your **intuitive understanding can be explained**  
+        + you'll feel connected and joyful at times, but you'll have a hard time **integrating that into all parts of your life**  
+
+    - how  
+        + **start with logic or intuition**  
+        + then **use your progress as leverage to explore the other side**    
+        + you can even **switch back and forth in order to gradually elevate both aspects**   
+
+    - in the mind, **deciding to view the world through the interconnectedness**    
+        + **see yourself as part of a larger body**, and to **accept the new level of responsibility** that arises from that perspective    
+
+        + choose to **cooperate** instead of compete  
+        + **nonviolence** is more intelligent than violence  
+        + **fairness** is a better approach than prejudice  
+            - Fairness means **treating people according to their needs**  
+            -  explore the differences and **develop them into talents**  
+            - fairly **balance the needs of the individual with the needs of the larger whole**   
+
+    - the emotional choice is to **tune into this ever-present connection** and **to experience it as joy**  
+        + **feel the connectedness directly**, experience oneness is a much more natural and nonthreatening manner  
+        + **grasp it on an intuitive level**      
+
+
+
+* Authority  
+
+* Courage  
+
+* Intelligence  
 
 
 #### Permission to feel            
