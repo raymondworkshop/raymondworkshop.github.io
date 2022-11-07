@@ -5,10 +5,115 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-11-07  
+* TODO  
+    - work  
+        + paper reading    
+
+    - connection  
+
+    - health  
+        + a bit running  
+        
+
+* Reflect  
+    - work    
+        + No paper work  
+
+        + **structure your life** so that you have the time and money to do what you love  
+            - making a living from doing what you love is the most obvious way  
+                + have to make money too - and the money will not follow  
+
+            - do what you love for a good life as an avocation, neither career nor hobby  
+                + especially that **values self-expression**  
+                + a fulfilling avocation - an activity someone is avocationcalled to doavocation in the life,it's part of **who you are** not just what you can do 
+
+            - a paid job - **I like and I'm good at**, providing me a comfortable living  
+
+            - hobby - **enjoy doing**   
+
+        + **好好做自己，把自己的长处发挥到最大限度**  
+
+        + **只要你找到你爱的舞台，你的能量是无限的**   
+
+        +  **The Golden Mean** - **a balance between our rationality and our animal drives** 
+            - **do it just right**  
+                + do the right thing in the right way at the right time in the right place to the right person  
+                + don't do too much, and don't do too little  
+
+            - use **common senste** to start with, then we **learn through trial and error**   
+                + **observe and learn from good examples**, and being excellence **takes practice**  
+                + don't be disappointed at your failures  
+
+            - **luck, good or bad, always plays its part**  
+                + **take challenges as opportunities to cultivate your strengths** and work on your weakness 
+
+            - **live a life of continual improvement**  (learn from your mistakes)
+                +  **deliberate before taking any action** for a better and more appropriate result  
+
+                + **evaluate and seek further ways of improvement** after taking any action 
+                + **repeat the appropriate action and turn it into our habit**    
+
+    - health  
+        + No exercise  
+
+    - connection    
+        + **focus on the guy** you are talking 
+            - 尽量少提不在场的人   
+
+* DONE  
+    - career      
+        + <Composing Programs> on programming  
+
+        + conscious leadership  
+
+        + learning skills   
+            - First: **Learn it by the mind** <- virtual it    
+            - Then:  **Practice it by the hand**  
+            - Finally: Do it by heart  
+
+
+    - health  
+        + milk + bread  
+
+    - connection    
+        + bible 
+            - 小事 
+                + "have a nice day" and go away  
+            - God loves me, and god uses me to save the others  
+                +  **如何体会到 God 的爱**？  
+                +  I love you, I need you  
+
+            - chat with 曹  
+
+
+        + **好好做自己** => fairness  
+            - 把自己的长处发挥到最大限度 -> **好好做自己**， 活出自己的樣子  
+                +  **develop your talents**, explore the differences;
+                This development can still be considered fair, even though it isn't equal    
+                + **唯有如此，我们的同类才能找到彼此**，认出对方  
+                    - 知道自己从来不是太奇怪  
+                    - 知道自己不是孤孤单单  
+
+            - treat people **according to their needs**  
+                + 让 Dennis 领路  
+
+            - in a broader social context, **balance the needs of the individual with the needs** of the larger whole  
+            
+        + **You know you're good at something** **when you make decisions with your instincts** not your conscious mind  
+            - **只要你找到你爱的舞台，你的能量是无限的**    
+            - shift your attention on **the heart area** and breather slowerly and deeply  
+            - reconnect with **feelings of appreciation or care** in your life    
+
+    - others  
+        + 销户 + 补助申请  
+
+
 #### 2022-10-31  
 * TODO  
     - work  
-
+        + Do the most important tasks every day  
+        
     - connect on love
         + **shift your attention on the heart area** and breather slowly and deeply  
         + express affection or care  
@@ -23,6 +128,7 @@ tags: [diary, review, important, learning, lesson]
 
         + enjoy each other's company   
 
+
 * DONE  
     - work  
         + paper reading  
@@ -35,7 +141,7 @@ tags: [diary, review, important, learning, lesson]
             -  who you are  
         + language  
             - <friends>   
-            - language exchanging   
+            - language exchanging    
 
     - health  
         + physics  
@@ -48,7 +154,7 @@ tags: [diary, review, important, learning, lesson]
 
     - relationship  
         + understand yourself  
-            - 能清楚自己为什么要做某件事  
+            - **能清楚自己为什么要做某件事**    
 
         + BBQ  
             - 自己做的太多，交流的太少  

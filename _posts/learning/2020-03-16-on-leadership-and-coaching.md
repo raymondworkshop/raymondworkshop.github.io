@@ -20,9 +20,10 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
 
 
 ##### public speaking skills  
+* TODO  
 
 ##### soft skills  
-* Notes  
+* notes  
     - **尊重，平等，顺从从**（配合自己的上司把事情做好）
         + be subject to the **authorities**  
         + authority - **the moral or legal right or ability to control**   
@@ -58,7 +59,7 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
         + 主要看**有无遗漏,有无质疑**的声音  
         + 如有质疑, 评估一下是否有道理; 然后负责人自己就把这件事情决定了  
     - 做决策并不想一次性解决所有问题, 而是**追求在原有基础上取得进步**, 有瑕疵也没关系  
-    - **独立决断背后是每一个人本身的责任**   
+        + **独立决断背后是每一个人本身的责任**   
 
     - **追求共好**    
         + 支持彼此的工作，肯定彼此的努力，不受困于个人的恩怨好恶  
@@ -66,7 +67,31 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
 
     - 不要太优柔寡断    
         + **Part of optionality** is being willing to make changes  
-        + "One of the difficult things about making decisions is it reduces opportunity in the short term, but **that's the only thing that really creates great opportunity in the long term**. If you don't make decisions, you try to **live too much in a liminal opportunity space**, you **might be just missing very big opportunities** and not creating what the really big opportunities are" 
+        + "One of the difficult things about making decisions is it reduces opportunity in the short term, but **that's the only thing that really creates great opportunity in the long term**. If you don't make decisions, you try to **live too much in a liminal opportunity space**, you **might be just missing very big opportunities** and not creating what the really big opportunities are"  
+
+    - **所有的決定都是微观的**， 是在具体的环境里面对具体的问题做出的   
+        + 提高整体认知，**选择做当下最适合自己**，最值得做的事  
+        + **要重视，挑选和管理的， 就是周围的 “五六个人”**    
+        + 最看重的， 是 **是否我愿意与之一起工作的那一类人**   
+            - kind  
+            - positive  
+                + 想把事情做好  
+                + how you can do better and take on more responsibility  
+            - 有能力 以及 不自卑   
+            - cooperation  
+
+        +  **每一次小选择都作为了解自己的入口**， 慢慢就可以看到更多真相  
+            - 每一个小选择里 **改变思维方式， 锻炼能力**，获得对应的成长  
+            - 对自己更好的认识， 进而 自信而不自负  
+
+        + **通过做事 来“准备”的**， 而不是通过“准备”来做事的  
+            - 面对机会，**没准备好不是问题**，**要勇敢把握**，多做几次就好了 <- accountability  
+            - **多做就会积累经验，提高判断力**  
+
+    - 区分有效欲望  
+        + **通过深度自我对话**， 不断追问 “**为什么要做这件事，它有多重要，多紧急**”；
+        **理清不同目标的优先级**    
+            
         
 * How to make big decisions  
     1.  Think about the specifications  - a detailed description of how something should be done, made, etc  
@@ -91,6 +116,7 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
     4.  Do not rush into a decision unless you are sure **you understand it**  
 
     5.  A decision requires **courage** as much as it requires **judgment**   
+
 
 * Growth Mindset  
     - a belief in their own ability to **learn and respond in the face of challenge**   

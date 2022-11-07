@@ -286,7 +286,7 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
 
 
 *  **The Golden Mean** - **a balance between our rationality and our animal drives** 
-    - **do it just right** 
+    - **do it just right**  
         + do the right thing in the right way at the right time in the right place to the right person  
         + don't do too much, and don't do too little  
         
@@ -449,13 +449,19 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
         + 在民主化的背景下 但保证法制  
 
 
-*  经验主义  -> 实证主义的方法论 -> **实验科学**  
+*  经验主义  -> 实证主义的方法论 -> **实验科学**  《= 归纳法， 而不是推理  
     - 从观察事件入手，**从经验观察出发**， 通过精确描述，推断出自然规律， 进而证实这些事件  
     - **通过观察归纳建立一个理论后，在该理论基础上进行演绎推理，预测可能的现象； 然后通过实证检验为这个理论及其演绎寻找**  -> Bayesian  
         + **先有碎片而后不断构建框架**  
         + **不断根据新的碎片 修正甚至打破旧的框架 并构建新的框架**， 开始比较慢，但最终会后来居上 
             - 先有框架后有碎片，容易上手，开始会看上去遥遥领先，但后面就僵化而无法增长  
-            - 框架固化后 最大坏处 是容易偏执的去 “占小便宜吃大亏”， 因为已经成为本
+            - 框架固化后 最大坏处 是容易偏执的去 “占小便宜吃大亏”， 因为已经成为本  
+
+        + 当我们观察，了解这个世界的时候，**一定要靠更多的事实，经验做基础**，  而不是急于把它套在一个很大的理论框架，概念上  
+            - 很多大的成败都不是可以简单归于一般性的原因，有很多具体的原因； **很多细小的事情决定成败**，后来的成功失败又重新塑造了人们对历史对社会对人生的看法  
+
+        + **所有的决定都是微观的**，是在具体的环境里面对具体问题做出的  
+
 
     - observe -> find patterns -> create a short-cut framework -> realize your framework sucks 
         + **ask open-ended quesitons**    

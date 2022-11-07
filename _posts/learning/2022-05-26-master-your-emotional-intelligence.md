@@ -11,7 +11,7 @@ abstract: "Master your emotions. and you can Control your life  ."
 * 同理心会话  
     - 以真实的渴望，**了解她的思想，感觉和愿望**  
         + **听感觉问自己 ”她正体验什么样的情绪“**    
-        +  ”听起来你觉得失望， 因为我 ...“  
+        +  ”**听起来**你觉得失望， 因为我 ...“  
         +  ”你是不是需要 ...“  
 
     - 学习表白自己  
@@ -370,20 +370,26 @@ abstract: "Master your emotions. and you can Control your life  ."
     - **notice a change** in one's own **thoughts, energy, or body** or in someone else's **facial expression, body language, or voice**    
 
     - basic emotions  
-        + happiness  
-        + sadness  
+        + happiness  (present and past)  
+            - joy  - an inner feeling, connect with meaning and purpose  
+
+        + sadness (past)  
             - **disappointment** <- unmet expectations  
-        + anger  
+            - down  
+            - miserable - a deep unhappiness 
+
+        + anger (present)   
             - <- unfairness  
             
-        + fear  
+        + fear (future)  
             - **fear** is the sense of a danger that lies just ahead  
             - **anxiety** is worry about future uncertainty and our inability to control what will happen to us  
 
             - **pressure** is the force from the outside that tells us something important, and will depend on how we perform  
             - **stress** is what we feel when facing too many demands and fear we may not be up to it  
 
-        + surprise - an unexpected event
+        + surprise (future)  
+        
         + disgust  - a strong feeling of disapproval and dislike  
 
 

@@ -122,7 +122,7 @@ abstract: "on How to make choices"
         + warmth and competence
 
     - **appreciate the needs of the others** while we need to **advance our own interests and concerns**  
-        + **too much empathy(feeling the other person's emotions)** making deep cooperation when they're likely to be exploited  
+        + **too much empathy (feeling the other person's emotions)** making deep cooperation when they're likely to be exploited  
 
     - Trust but verify  
         + **think carefully about what we do not want to believe**,and **what we want to believe**, before we place our trust in others 
@@ -230,7 +230,7 @@ abstract: "on How to make choices"
 
     - 区分有效欲望 
         + 通过深度自我对话， 不断追问自己“**为什么要做这件事，它有多重要，多紧急**”； 
-        理清不同目标的优先级 
+        理清不同目标的优先级  
 
 
 * reference 

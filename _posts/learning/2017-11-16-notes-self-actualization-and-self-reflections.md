@@ -46,7 +46,7 @@ abstract: "learn from your mistakes, and know more about yourself"
             - **fight the battles inside you first and then watch the world** change around you  
 
 
-    - Fairness  
+    - Fairness  - 好好做自己  
         + Fairness means **treating people according to their needs**    
             - explore the differences and **develop them into talents**. 
             This development can still be considered fair, even though it isn't equal  
@@ -57,8 +57,6 @@ abstract: "learn from your mistakes, and know more about yourself"
         + equality means treating everyone **exactly the same**  
             - only in the sense that they'rea ll equally part of the same whole  
             - at the basic level of equal human rights  
-
-
 
     - **只做必须之事**， 也把必须之事做好  
         + 做的适宜，不做没有目标的事   
@@ -611,38 +609,38 @@ abstract: "learn from your mistakes, and know more about yourself"
     + **追求独立（不愿意失去自尊），却能力不足以至于不得不听话**
 
 * **如何才能取得成果**
-    + 决策者还是**顾问**？
-    + 决策者， 需要顾问来迫使他们思考
+    + 决策者还是**顾问**？  
+    + 决策者， 需要顾问来迫使他们思考  
 
-* 压力下表现出色， 还是按部就班，可预测的工作环境？
+* 压力下表现出色， 还是按部就班，可预测的工作环境？  
 
-* 管理你的生活
-    + **定义对你而言什么是“有意义的”**
+* 管理你的生活  
+    + **定义对你而言什么是“有意义的”**  
 
-* 管理 自己的 精疲力竭
+* 管理 自己的 精疲力竭  
 
-* 心态管理
-    + 与其抱怨，不如正视
-    + 不自卑，不攀比，坚持最好的自我
-    + **和有视野有资源的同学做朋友**
-    + **努力争取自己想要的东西，珍惜和感恩自己的所得**
-    + **不忘初心，珍惜所有，用自己的资源多去提携他人，朋友和孩子**
+* 心态管理  
+    + 与其抱怨，不如正视  
+    + 不自卑，不攀比，坚持最好的自我  
+    + **和有视野有资源的同学做朋友**  
+    + **努力争取自己想要的东西，珍惜和感恩自己的所得**  
+    + **不忘初心，珍惜所有，用自己的资源多去提携他人，朋友和孩子**  
 
 
 #### 自己的价值观是什么 - what are my values?
-* what kind of person do I want to see in the mirror?
-    + 每天早晨在镜子里想看到一个什么样的人？
-        -  做有价值的事情
+* what kind of person do I want to see in the mirror?  
+    + 每天早晨在镜子里想看到一个什么样的人？  
+        -  做有价值的事情  
 
-*  把自己的思维放到5年，10年后，想想自己需要什么样的生活
+*  把自己的思维放到5年，10年后，想想自己需要什么样的生活  
 
 #### 自己属于何处
-* 知道自己的长处，工作方式和价值观
-* “是的，我将做这件事。但是，我将按照我自己的特点，采取这样的方式来做这件事，进行这样的组织安排，这样来处理当中所牵涉的关系。这是我在这个时间范围内应该会取得的成果，因为这就是我。”
+* 知道自己的长处，工作方式和价值观  
 
-* you should work hard and always think about how you can do better and take on more responsibility.
+* “是的，我将做这件事。但是，我将按照我自己的特点，采取这样的方式来做这件事，进行这样的组织安排，这样来处理当中所牵涉的关系。这是我在这个时间范围内应该会取得的成果，因为这就是我。”  
 
-    Also, life is not only about work, it’s also about your relationships with your family and romantic partner, friendship, and self-interest. Life is everything and if you don’t balance well you won’t be happy.
+* you should work hard and always think about how you can do better and take on more responsibility  
+    - Also, life is not only about work, it’s also about your relationships with your family and romantic partner, friendship, and self-interest. Life is everything and if you don’t balance well you won’t be happy.  
 
 
 #### 我该做什么贡献
@@ -657,21 +655,22 @@ abstract: "learn from your mistakes, and know more about yourself"
     - 正在做这些工作的人必须确保懂得他们设法做的事什么，为什么要做这件事，如何去做以及期望什么结果
     - **组织建立在信任的基础上； 信任意味着彼此了解**
 
-* 广结善缘
-    - 不要一次性的利益交换，基于长久积累的信任； 能多帮就多帮
+* 广结善缘  
+    - 不要一次性的利益交换，基于长久积累的信任； 能多帮就多帮  
 
-* 走出自己的世界
-    - **把自己那个世界规则吃透，各种人都要认识**
-    - 你走出自己的世界，是为了追寻多元的价值
+* 走出自己的世界  
+    - **把自己那个世界规则吃透，各种人都要认识**  
+    - 你走出自己的世界，是为了追寻多元的价值  
 
-*  对人不能冷血，对事不能温情
-    - **对人要有温情，对事要严厉**
+*  对人不能冷血，对事不能温情  
+    - **对人要有温情，对事要严厉**  
 
-* 对人礼貌，要**学会对人微笑和怎样对人说话**
+* 对人礼貌，要**学会对人微笑和怎样对人说话**  
 
-#### 认知
-* 富人思维
-    - **自主催化，闭环的能力** -> 独立的内生循环， 进而可以自己解放出来
+
+#### 认知  
+* 富人思维  
+    - **自主催化，闭环的能力** -> 独立的内生循环， 进而可以自己解放出来  
 
 
 #### 管理后半生

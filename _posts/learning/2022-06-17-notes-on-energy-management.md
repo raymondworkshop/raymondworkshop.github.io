@@ -32,6 +32,7 @@ abstract: "Notes on energy and time management skills"
     - 金禧茶樓  
     - Pepperonis Pizza & Cafe  - 西貢意大利西餐  
     - 憶食尚臘味煲仔飯  
+    - 十二味  
 
 * notes  
     - 先吃生的后吃熟的，先吃蔬菜后吃肉，最后才吃碳水化合物   
@@ -49,7 +50,7 @@ abstract: "Notes on energy and time management skills"
     - 凤坑家乐径  
     - 白水碗Pak Shui Wun  
     - 昂平高原  
-        + 从 梅子林村 出发 
+        + 从 梅子林村 出发  
     
 
 ##### swimming  

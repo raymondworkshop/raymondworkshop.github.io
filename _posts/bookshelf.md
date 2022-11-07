@@ -52,7 +52,6 @@ date: 2012-03-19
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 * [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore  
 
-
 * [Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer  
 * [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan  
 * [The Long Tail](https://book.douban.com/subject/26584041/) by Chris Anderson  
