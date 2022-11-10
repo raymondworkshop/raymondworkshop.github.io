@@ -7,6 +7,33 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
+#### tone
+
+> **I was thinking we could try** changing the background color.
+> **I'm not sure about that**. **Maybe we could** keep it the same.  
+> Hmm, **I don't know**. **Maybe we could try** another light color.
+> Yeah, **we could try that**.
+> Ok.  
+> 
+
+> Here's a spreadsheet I made.  
+> **Thank you** **but I'm finding it** a little difficult to understand.  
+> ho, **I see**. **what's the problem**?  
+> **I feel like maybe** the columns could be clearer.  
+> Okay. **Do you have any ideas about what I could try** to improve it?  
+> **Maybe you could try** adding a column with headings.  
+> Okay, I'll try that.  
+> **Thank you**. **Don't worry if it's too much effort**.  
+> 
+
+> **Do you think you could** finish that document soon?  
+> I can't right now but I can do it later today.  
+> Okay. **I don't suppose you could** do it a bit sooner, could you?  
+> **Not really. Sorry**, I'm a bit tied up at the moment.
+> Okay, **don't worry**. **Let me know when you're free**.
+> Sure, will do.  
+> 
+
 #### S08E17  
 
 so when **you're done with your tea** (喝完茶)  

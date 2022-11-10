@@ -6,12 +6,11 @@ date: 2012-03-19
 ### log of training & books and my ratings
 
 #### training-2022  
-*  **[Entrepreneurial Mindset](https://www.coursera.org/learn/entrepreneurialmindset/home/week/1)**    
 *  **[軟件工程之美](https://time.geekbang.org/column/article/82337)**  
-*  [Managing Emotions in Times of Uncertainty & Stress](https://www.coursera.org/learn/managing-emotions-uncertainty-stress/home/week/1)  
-* [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2022/home)  
+* [Better Writing in English](https://www.coursera.org/learn/business-writing-english/home/week/1)    
 * [American English Pronunciation](https://www.coursera.org/learn/american-english-pronunciation-consonant-sounds/home/week/1)  
-* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) by McMaster University & University of California San Diego   
+*  [Entrepreneurial Mindset](https://www.coursera.org/learn/entrepreneurialmindset/home/week/1)    
+*  [Managing Emotions in Times of Uncertainty & Stress](https://www.coursera.org/learn/managing-emotions-uncertainty-stress/home/week/1)  
 
 
 #### reading-2022  
@@ -31,8 +30,9 @@ date: 2012-03-19
 * [Serious Python](https://book.douban.com/subject/30206213/) by Julien Danjou  (8/10)  
 
 * [Hello, Startup](https://book.douban.com/subject/26426841/) by Yevgeniy Brikman  (9/10)  
-* [Permission to Feel](https://book.douban.com/subject/34871932/) by Marc Brackett  
-* [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina  
+* [Permission to Feel](https://book.douban.com/subject/34871932/) by Marc Brackett   
+* [Be The One](https://read.amazon.com/?asin=B09F736D69&ref_=kwl_kr_iv_rec_1&language=en-US) by Eileen Lamb  
+* [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina 
 * [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  
 
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling  

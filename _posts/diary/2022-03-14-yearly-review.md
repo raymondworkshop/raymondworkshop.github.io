@@ -10,11 +10,17 @@ tags: [diary, review, important, learning, lesson]
     - work  
         + paper reading    
 
+        + programming  
+
     - connection  
+        + understand yourself  
+            - **能清楚自己为什么要做某件事**    
+            - 区分有效欲望  
+                + **通过深度自我对话**， 不断追问 “**为什么要做这件事，它有多重要，多紧急**”；**理清不同目标的优先级**    
 
     - health  
         + a bit running  
-        
+
 
 * Reflect  
     - work    
@@ -65,7 +71,33 @@ tags: [diary, review, important, learning, lesson]
     - career      
         + <Composing Programs> on programming  
 
-        + conscious leadership  
+        + **conscious leadership**  
+            - **taking full responsibility** for the your livies   
+                + locate the cause and **control of our lives** in ourselves, not in external events  
+                + "**what can we learn** and **how can we grow from this**?"  
+                    - **open to the possibility** that instead of controlling and changing the world,
+                perhaps the world is just right the way it is 
+            - **grow in self-awareness** and **curiosity as a path to rapid learning** 
+                + commit to knowing yourself  
+                +   **每一次小选择都作为了解自己的入口**， 慢慢就可以看到更多真相  
+                    - 每一个小选择里 **改变思维方式， 锻炼能力**，获得对应的成长  
+                    - 对自己更好的认识， 进而 自信而不自负  
+
+            - Feel all Feelings  
+                + each feeling invites us **in a specific way to grow in awareness and knowing**    
+                + locate the feeling in the body and then vocalize the feeling  
+                    - anger  
+                    - fear  
+                    - sadness  
+                    - joy  
+                    - excitement  
+
+            - conscious listening  
+                + listen for the content (**head**), **the emotions** (**heart**), and base **desire** (**gut**) being expressed by the other person  
+
+            - Appreciation  
+
+
 
         + learning skills   
             - First: **Learn it by the mind** <- virtual it    
