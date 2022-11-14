@@ -49,6 +49,11 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning  
+* 做事尽力  
+    - 雅各 **做什么事情都很尽力**    
+        + 前半生 **与人竞争**  
+    - “只剩下雅各一人” - 不安/恐惧  - 創世紀 32-24 
+
 * 爱上帝，服务他人  
     - **kindness & love**    
     - 上帝use me, 作为改变的一部分？  

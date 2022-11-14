@@ -5,6 +5,113 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-11-14  
+* TODO  
+
+* Reflect  
+    - know your dominant connection strategy, and use it to regain your closeness  
+        + connect on **truth**  
+            - **share** information and **learn from** each other  
+
+        + connect on power  
+            - **encourage and support** each other to achieve your dreams  
+            - empower gives you official **authority** or the **freedom** to do sth  
+                + power is a direction  
+                + you can do a lot more good for others **when you keep yourself strong**    
+
+        + connect on love   
+            - **express affection** and **enjoy** each other's company  
+                + affection - feelings of liking or love  
+            - don't judge people  
+                + orient them on **how to not make that mistake next time**  
+            - **compliment** people  
+                + **notice the good** in others  
+                + express **respect**, **approval**, **admiration**  
+            - show empathy  
+                + just listen  
+                + if they are sad, be sad with them, if they are happy be cheerful with them  
+
+    - softskills  
+
+        + only develop deeper relationships with the ones who meet my personal criteria  
+            - a commitment to **conscious growth**  
+            - not who aer **dishonest**, **abusive**, **irresponsible**, apathetic, unaware  
+
+        + if you sense a **compatible** connection, **lower your shields**    
+            - one is naturally **open** and **friendly**  
+            - **allow your feelings to guide you**, and **let the relationship develop as it may**    
+
+        + go first; go positive  
+            - tit-for-tat  
+            - make this work for you **by going positive and going first**    
+
+        + being slightly kinder than average is rewarded while being somewhat less kind than average is punished asymmetrically 
+
+            +  **Respond with empathy and kindness** when someone makes an inviting  
+                - empathy - share some's feelings or experiences  
+
+            + Be **friendly** and inviting if you realize the connection isn't right for you  
+                - friendly - behaving in a pleasant way  
+
+            + **Be honest but gentle** when you find it necessary to turn people down, careful not to desempower them  
+                - gentle - not violent, or strong  
+
+
+    - connection  
+        + energy audits  
+
+        + 这些事情**很不开心**，**那一定是错的**    
+            - 察觉这些问题  
+            - 是怎样的问题  
+            - 怎样解决这个问题  
+            - 记住 自己为什么要做这个，得到之后我们会有什么  
+
+        + friendly and comfortable with everyone  
+            - **reconnect with feelings of appreciation or care** for someone or something in your life  
+                + when you **tune into the heart station**, find **responses that are much more stastifying to you** and **better for the whole**    
+            - sensitive to others' **needs**, **feelings**, and **emotions**  
+
+
+        + commit to knowing yourself  
+            - when you've lost, try to **connect yourself to those moments of pure happiness**, of you and them rembmber how you felt  
+                + stay open to the happiness that life has to offer for us all
+
+            - **每次小选择都作为了解自己的入口**， 慢慢就可以看到更多真相    
+                + 每次小选择里改变思维方式，锻炼能力  
+        
+        + 深度自我对话  
+            -  Why do we **feel certain emotions**?  
+                + 引起我情绪的念头是 真的吗？  
+                    - 当下我的生命中，什么才是真的  
+                + 只有我能对自己的情绪负责  
+
+            - **为什么要做这件事**，它有多重要，多紧急  
+                + 区分有效欲望  
+                + **通过深度自我对话**， 不断追问 “**为什么要做这件事，它有多重要，多紧急**”；**理清不同目标的优先级**    
+
+
+* DONE  
+    - connection  
+        + hiking  
+            - feel good to chat with someone in good mood in hiking  
+                + 努力让大家都开心， 自己也开心  
+                + 不要 刻意伤害别人  
+                + 注意保护自己  
+            - feel good to be around young guys  
+
+        + pass floral flower ticket  
+            - Mary 沟通能力很棒, 分寸感    
+                + 了解细节， 总结别人的， follow-up  
+                + “can I know the details?"  
+                + “looks good. been to ... few times before. I can make it”  
+                + "You or anyone else I know going also?"  
+                + "I noticed this. Wonder what kind of ..., as I want to do ... also"  
+                + "Nice. Thx for passing ... probably not so appealing for guys"  
+                + "OK, will enjoy it, and well noted their no show penalty. Thx"  
+                + "Fun workshop, today"  
+                + "It was really nice, thx again. I will look into ... shortly."  
+
+
 #### 2022-11-07  
 * TODO  
     - work  

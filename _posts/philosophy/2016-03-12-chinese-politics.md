@@ -67,6 +67,9 @@ abstract: '总结自 《透视中国政治》'
                 + 人生的真理 就在 真善美  
                 + **以科学求真**  
                 + **以宗教求善**  
+                    - when we leave "morality and goodness" to each individual it is often limited by their daily circumstances  
+                    - religion **demands goodness, morality and kindness for the pleasre of God**,regardless of how bad things get for you  
+                    - non-religious low IQ people are worse  
                 + **以艺术求美**  
 
         + **人类是一个共同体**，千万不要总以为自己特殊，做任何事情都必须遵守国际规则  
