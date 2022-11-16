@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "notes on English Writing"
+title: "Notes on English Writing"
 date: 2022-11-16
 comments: true
 categories: [language, writing]
