@@ -35,6 +35,9 @@ date: 2012-03-19
 * [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina 
 * [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  
 
+* [The Millionaire Next Door](https://book.douban.com/subject/1620201/) by Thomas J. Stanley / William D. Danko  
+* [From Cold War to Hot Peace](https://book.douban.com/subject/27126169/) by Michael McFaul  
+
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling  
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
 * [Practices of the Python Pro](https://book.douban.com/subject/33447247/) by  Dane Hillard  (7/10)  
