@@ -61,13 +61,12 @@ date: 2012-03-19
 * [紅玫瑰yu与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲    
 * [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti  
 
-
-* ~~[Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer  ~~
-* ~~[Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan~~  
-* ~~[The Long Tail](https://book.douban.com/subject/26584041/) by Chris Anderson  ~~
-* ~~[重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  ~~
-* ~~[Programming Rust, 2nd Edition](https://book.douban.com/subject/34973905/) by Jim Blandy ~~
-* ~~[why's (poignant) Guide to Ruby](https://poignant.guide/book/) ~~
+* <del>[Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer</del>
+* <del>[Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan</del>  
+* <del>[The Long Tail](https://book.douban.com/subject/26584041/) by Chris Anderson</del>
+* <del>[重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东</del>
+* <del>[Programming Rust, 2nd Edition](https://book.douban.com/subject/34973905/) by Jim Bland</del>
+* <del>[why's (poignant) Guide to Ruby](https://poignant.guide/book/)</del>
 
 
 * SKILLS   
