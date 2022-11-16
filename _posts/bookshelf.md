@@ -30,11 +30,12 @@ date: 2012-03-19
 * [Serious Python](https://book.douban.com/subject/30206213/) by Julien Danjou  (8/10)  
 
 * [Hello, Startup](https://book.douban.com/subject/26426841/) by Yevgeniy Brikman  (9/10)  
-* [Permission to Feel](https://book.douban.com/subject/34871932/) by Marc Brackett   
-* [Be The One](https://read.amazon.com/?asin=B09F736D69&ref_=kwl_kr_iv_rec_1&language=en-US) by Eileen Lamb  
-* [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina 
-* [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  
+* [Permission to Feel](https://book.douban.com/subject/34871932/) by Marc Brackett   (8/10)  
+* [Be The One](https://read.amazon.com/?asin=B09F736D69&ref_=kwl_kr_iv_rec_1&language=en-US) by Eileen Lamb  (6/10)  
+* [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina (9/10)  
 
+* [A Guide to the Good Life:The Ancient Art of Stoic Joy](https://book.douban.com/subject/4684151/) by William B. Irvine  
+* [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  
 * [The Millionaire Next Door](https://book.douban.com/subject/1620201/) by Thomas J. Stanley / William D. Danko  
 * [From Cold War to Hot Peace](https://book.douban.com/subject/27126169/) by Michael McFaul  
 
@@ -55,19 +56,18 @@ date: 2012-03-19
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 * [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore  
 
-* [Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer  
-* [Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan  
-* [The Long Tail](https://book.douban.com/subject/26584041/) by Chris Anderson  
-
-* [Programming Rust, 2nd Edition](https://book.douban.com/subject/34973905/) by Jim Blandy 
-* [why's (poignant) Guide to Ruby](https://poignant.guide/book/) 
-
 * [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  
 * [Why Has Nobody Told Me This Before](https://book.douban.com/subject/35777114/) by Dr. Julie Smith  
 * [紅玫瑰yu与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲    
-
 * [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti  
-* [重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  
+
+
+* ~~[Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer  ~~
+* ~~[Inspired](https://book.douban.com/subject/27161852/) by Marty Cagan~~  
+* ~~[The Long Tail](https://book.douban.com/subject/26584041/) by Chris Anderson  ~~
+* ~~[重读20世纪中国小说](https://book.douban.com/subject/35572732/) by 许子东  ~~
+* ~~[Programming Rust, 2nd Edition](https://book.douban.com/subject/34973905/) by Jim Blandy ~~
+* ~~[why's (poignant) Guide to Ruby](https://poignant.guide/book/) ~~
 
 
 * SKILLS   
