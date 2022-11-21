@@ -503,6 +503,25 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
     - **生活的经验，朴素的常识** 比 抽象的真理更重要    
         + “**我从不让抽象的东西主宰自己**” - 柏克
     - from John Locke, David Hume to Edmund Burke    
+
+
+* **内在世界 创造 外在世界**   
+    -  mind create reality    
+        + 我们大脑只能接受这个光谱：  苹果是红色的  
+
+    - **我认为看到的世界** 或 **我认为看到的困境**  
+        + **困境跟我們如何去感知这个困境**有直接关系； 它不是客观存在的，只不过是你认为而已  
+        + 走出困境一个很重要的一点 是 **要有一个不同的眼光 去看这个困境**  
+            -  比如 他们不知道我的需求是什么， 我没有表达我的需求  
+
+    - 如何无解的一个问题，虽然可能现在还无解，但如果我知道规律是这样的话，**如果我能从更高的角度上去看它**，**它就不一样**    
+        + "No problem can be solved from the same level of consciousness that created it"  - Albert Einstein    
+
+    - when you communicate with another person, **you're exploring the depths of your own consciousness**  
+        + the essence of love is **the decision to connect** or not  
+
+        + the purpose of each relationship is to **teach you how to love yourself from the inside out**    
+            - when you learn to love everyone and everything, you come into align with your true self  
     
 
 

@@ -43,23 +43,14 @@ categories: [notes, important, softskills, love, self, learning]
 
 
 * more attractive to women  when you show them  
-    - **competent**  
-        + able to **do something well**  
-    - assertive  
-        + **behave confidently** and is **not frightened to say what they want or believe**  
-        + never apologize to anyone for **being who you are**  
-        + once you've accepted your flaws, no one can use them against you  
-
-    - **Good vibe** - **the positive feelings** given off by a person, place, or situation  
-        + curiosity about her  
-        + a bit cheeky and slightly irreverent when you're talking to her  
-        + just have fun  
-        + simple, polite, generous
-        + **random acts of kindness**  
-        + respect    
-
     - **listen to her, add in your thoughts**, and understand her    
+        + look her in the eyes, **don't interrupt her**    
+            - let her see that you really care about what she has to say  
+            - **don't give her advice unless she asks for it**  
+            - **remember what she says** and follow up about it    
+
         +  when **a trait or feeling** comes up, that **you agree with**, **tell her**    
+
         +  **do things that make her feel enriched**    
             - **试着了解对方的感受**  
                 + 将心比心  
@@ -81,6 +72,47 @@ categories: [notes, important, softskills, love, self, learning]
 
         + support her  
         + inspire her  (make her want to do something and can do it)  
+
+    - **show her how much you care**  
+        + **getting her a meaningful gift**  
+        + **write her love letters** to surprise her when she's having a bad day  
+        + tell her you love her, give her meaningful compliments, plan romantic dates  
+
+    - Be open    
+        + willing to **open up to her**  
+            - **what's on your mind**, **what your fears are**,
+            what your childhood was like, drama you've having with your friends  
+
+        + like telling her what you did or **talking about your concerns** about ...  
+
+        + **make an effort to be the best person** you can be  
+            - Don't try to be perfect  
+
+    - **Be dependable**  
+        + **support her when she's upset**   
+        + let her see that she can depend on you to **be there when she needs you**    
+        + let she feels like you're avilable and **wanting to help**  
+
+    - make an effort to win over **her friends and family**    
+        + **be kind to her friends**, **show an interest** in them, and **let them see how much you like** your girl    
+        + treat her family with **respect and care**, and take the time to really get to **know them** and to **open up about yourself**    
+             
+
+    - **competent**  
+        + able to **do something well**  
+
+    - assertive  
+        + **behave confidently** and is **not frightened to say what they want or believe**  
+        + never apologize to anyone for **being who you are**  
+        + once you've accepted your flaws, no one can use them against you  
+
+    - **Good vibe** - **the positive feelings** given off by a person, place, or situation  
+        + curiosity about her  
+        + a bit cheeky and slightly irreverent when you're talking to her  
+        + just have fun  
+        + simple, polite, generous
+        + **random acts of kindness**  
+        + respect    
 
     - him  
         + trust him  

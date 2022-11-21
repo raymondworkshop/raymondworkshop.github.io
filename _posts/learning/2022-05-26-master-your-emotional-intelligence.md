@@ -197,11 +197,11 @@ abstract: "Master your emotions. and you can Control your life  ."
         + **reflect on your reactions**, where have you **allowed someone's words to affect you emotionally**    
             - **we create the reactions we have**, and **we choose to give power to some people** and not to others  
             - **our reactions are ultimately within our control**  
-            - "**If a cracy homeless person on the subway gave you the kind of feedback** you received, how would you react"  
+            - "**If a crazy homeless person on the subway gave you the kind of feedback** you received, how would you react"  
 
         +  when you communicate with another person, you're **exploring the depths of your own consciousness**    
-            - the purpose of each relationshp is to **teach you how to love yourself from the inside out**   
-            - when you learn to love everyone and everything, you **come into aligment with your true self**    
+            - the purpose of each relationship is to **teach you how to love yourself from the inside out**   
+            - when you learn to love everyone and everything, you **come into alignment with your true self**    
 
     - **Dealing with your family and friends with your heart** and **business with your head**    
 
@@ -309,8 +309,7 @@ abstract: "Master your emotions. and you can Control your life  ."
         
 * Oneness  
     - **integrate the mental and the emotional sides**   
-        + if only emotional side, you'll **intuitively sense that we're all connected on 
-        some level**, but you'll **lack a sensible model of reality** in which your **intuitive understanding can be explained**  
+        + if only emotional side, you'll **intuitively sense that we're all connected on some level**, but you'll **lack a sensible model of reality** in which your **intuitive understanding can be explained**  
         + you'll feel connected and joyful at times, but you'll have a hard time **integrating that into all parts of your life**  
 
     - how  

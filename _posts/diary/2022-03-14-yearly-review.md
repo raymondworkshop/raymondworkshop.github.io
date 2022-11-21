@@ -5,6 +5,54 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-11-21  
+* TODO  
+
+* Reflect  
+    - **觉察他人对自己的影响**， 同时 **分辨出自己内心的声音**， 同时做出自己相应的选择  
+
+    - build a trusting, friendly relationship  
+        + demonstrate **your memory and care** for their lives  
+
+        + curious about them, both at work and at home
+            - allow them to speak about themselves    
+        
+        + **show them you heard them by saying**    
+            - "**I think I heard you say** ..." and then **repeating back to them the highlights** of what they said to you  
+            - write down as much information about the person as you remember  
+
+        + **prove that you remember by saying** at the next meeting  
+            - "**The last time we talked, you said** ...", and **again repeat the highlights**    
+            - it's heartwarming when we find someone who cares enough about the details of our lives to remember them  
+
+        + **let them know what they have doen that you appreciate**  
+            - be explicit about your intent to build a relationship  
+            - "I only wanna work with investors with whom I have a good relationship. So let's start with a coffee to get to know each other personally"
+
+    - **内在世界 创造 外在世界**    
+        + 我认为看到的困境 **跟我們如何去感知这个困境**有直接关系 
+            - 困境不是客观存在的，只不过是你认为而已  
+            - 走出困境一个很重要的一点 是 **要有一个不同的眼光 去看这个困境**  
+                + 比如 他们不知道我的需求是什么， 我没有表达我的需求  
+            - 如何无解的一个问题，**如果我能从更高的角度上去看它**，**它就不一样**    
+                + "No problem can be solved from the same level of consciousness that created it"  - Albert Einstein    
+        
+      
+        + **reflect on your reactions**, where you allow someone's words to affect you emotionally  
+            - **our reactions are ultimately within our control**    
+            - **we create the reactions** we have, and **we choose to give power to** some people and not to others  
+            - "If a crazy homeless person on the subway gave you the kind of feedback you received, how would you react?"
+
+        + when you communicate with another person, **you're exploring the depths of your own consciousness**  
+            - the essence of love is **the decision to connect** or not  
+            - the purpose of each relationship is to **teach you how to love yourself from the inside out**   
+                + when you learn to love everyone and everything, you come into align with your true self  
+
+
+* DONE  
+
+
+
 #### 2022-11-14  
 * TODO  
 
@@ -32,10 +80,9 @@ tags: [diary, review, important, learning, lesson]
                 + if they are sad, be sad with them, if they are happy be cheerful with them  
 
     - softskills  
-
         + only develop deeper relationships with the ones who meet my personal criteria  
             - a commitment to **conscious growth**  
-            - not who aer **dishonest**, **abusive**, **irresponsible**, apathetic, unaware  
+            - not who are **dishonest**, **abusive**, **irresponsible**, apathetic, unaware  
 
         + if you sense a **compatible** connection, **lower your shields**    
             - one is naturally **open** and **friendly**  
@@ -182,8 +229,7 @@ tags: [diary, review, important, learning, lesson]
             - **taking full responsibility** for the your livies   
                 + locate the cause and **control of our lives** in ourselves, not in external events  
                 + "**what can we learn** and **how can we grow from this**?"  
-                    - **open to the possibility** that instead of controlling and changing the world,
-                perhaps the world is just right the way it is 
+                    - **open to the possibility** that instead of controlling and changing the world, perhaps the world is just right the way it is 
             - **grow in self-awareness** and **curiosity as a path to rapid learning** 
                 + commit to knowing yourself  
                 +   **每一次小选择都作为了解自己的入口**， 慢慢就可以看到更多真相  
@@ -203,7 +249,6 @@ tags: [diary, review, important, learning, lesson]
                 + listen for the content (**head**), **the emotions** (**heart**), and base **desire** (**gut**) being expressed by the other person  
 
             - Appreciation  
-
 
 
         + learning skills   
@@ -313,13 +358,11 @@ tags: [diary, review, important, learning, lesson]
 
             - when you communicate with another person, you're exploring the depths of your own consciousness  
 
-
 * 30m reflect  
     - relfect on your **work**, **career**, **health**, and **relationship** to 
     maintain a clear vision of **what you want** and **how to get there**    
 
     
-
 
 #### 2022-10-24  
 * TODO  
@@ -621,7 +664,7 @@ tags: [diary, review, important, learning, lesson]
         5.  A decision requires **courage** as much as it requires **judgment**    
 
 
-    - 分享利益, 独立决定  
+    - **分享利益**, 独立决定  
         +  做决策并不想一次性解决所有问题, 而是**追求在原有基础上取得进步**, 有瑕疵也没关系  
         + **独立决断背后是每一个人本身的责任**   
 

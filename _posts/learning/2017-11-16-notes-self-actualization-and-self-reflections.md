@@ -114,8 +114,7 @@ abstract: "learn from your mistakes, and know more about yourself"
 
 
     - **要对自己是什么样的人感到舒服**  
-        + 并让别人看到你是怎么样的人；
-        然后让他们决定是否要你成为他们的领导  
+        + 并让别人看到你是怎么样的人；然后让他们决定是否要你成为他们的领导  
 
 
 * 心中宁静  

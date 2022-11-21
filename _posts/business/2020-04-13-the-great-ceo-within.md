@@ -35,29 +35,35 @@ abstract: "Notes on the management skills in the practical part"
 
 
 *  对于 “不确定性大的事情” 的选择    
-   - 这个选择会不会**扩大视野，加深认知**    
-   - 你到底在害怕什么？  
-   - **认真地做当下能做的最好的选择**，未来就会是它最好的样子； 放下对未来的期待和担忧  
+    - 这个选择会不会**扩大视野，加深认知**    
+    - 你到底在害怕什么？  
+    - **认真地做当下能做的最好的选择**，未来就会是它最好的样子； 放下对未来的期待和担忧  
 
 * **ownership and result** (责任和风险)  
-   - **Entrepreneurs tolerate uncertainty** more than any other profession  
+    - **Entrepreneurs tolerate uncertainty** more than any other profession  
 
-   - self-taught, skilled, emotion-intelligent, in shape, **energetic**, focuses on internal control  
-       + **learning by doing** > learning by asking for advice  
+    - self-taught, skilled, emotion-intelligent, in shape, **energetic**, focuses on internal control  
+        + **learning by doing** > learning by asking for advice  
 
-   - 不是 insight, 也不是 execution  
+    - 不是 insight, 也不是 execution  
    
-   - **I define it**, although I respect you  
+    - **I define it**, although I respect you  
 
-   - 愿意 出面担当，在不确定的项目中，冒着犯错的风险尝试  
-       + 大多华裔，太怕犯错，不敢担责，不敢为人先，之在后面嘀咕  
+    - 愿意 出面担当，在不确定的项目中，冒着犯错的风险尝试  
+        + 大多华裔，太怕犯错，不敢担责，不敢为人先，之在后面嘀咕  
 
-   - work with people **I respect and like**  
-       + **只需要说服愿意去相信你和支持你的那一部分人**即可，并和他们一起工作就可以；
+    - work with people **I respect and like**  
+        + **只需要说服愿意去相信你和支持你的那一部分人**即可，并和他们一起工作就可以；
    没有必要说服所有人  
-       + **把重心放在 证明你自己的能力和判断上**；无须为别人的无知和傲慢负责  
+        + **把重心放在 证明你自己的能力和判断上**；无须为别人的无知和傲慢负责  
 
-
+* Talk about your company with the confidence  
+    - Tell one's story in a humble way  
+        + credit: 'it could not have happened without [name the others involved]'  
+        + hard work: 'we had to put in so much to make it happen, for example, [describe the hard work]'  
+        + Vulnerability: 'it was most difficult for me when '   
+        + Duty: 'we were driven by our dream to [noble motive]'  
+        + Gratitude: 'I am so proud and thankful that ...'  
 
 #### The Beginning  from <The Great CEO Within>  
 * 软体公司成长记  

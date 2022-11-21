@@ -35,10 +35,14 @@ date: 2012-03-19
 * [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina (9/10)  
 
 * [A Guide to the Good Life:The Ancient Art of Stoic Joy](https://book.douban.com/subject/4684151/) by William B. Irvine  
+* [Relationship Magic: Waking Up Together](https://book.douban.com/subject/33253917/) by Guy Finley  
 * [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  
 * [The Millionaire Next Door](https://book.douban.com/subject/1620201/) by Thomas J. Stanley / William D. Danko  
+* [紅玫瑰与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲    
+
 * [From Cold War to Hot Peace](https://book.douban.com/subject/27126169/) by Michael McFaul  
 
+* [Code](https://book.douban.com/subject/1494026/) by Charles Petzold  
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling  
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
 * [Practices of the Python Pro](https://book.douban.com/subject/33447247/) by  Dane Hillard  (7/10)  
@@ -58,7 +62,6 @@ date: 2012-03-19
 
 * [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  
 * [Why Has Nobody Told Me This Before](https://book.douban.com/subject/35777114/) by Dr. Julie Smith  
-* [紅玫瑰yu与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲    
 * [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti  
 
 * <del>[Shape Up](https://book.douban.com/subject/34945817/) by Ryan Singer</del>
