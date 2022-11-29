@@ -451,6 +451,8 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
 
 *  经验主义  -> 实证主义的方法论 -> **实验科学**  《= 归纳法， 而不是推理  
     - 从观察事件入手，**从经验观察出发**， 通过精确描述，推断出自然规律， 进而证实这些事件  
+    - 实证科学的可操作性  
+
     - **通过观察归纳建立一个理论后，在该理论基础上进行演绎推理，预测可能的现象； 然后通过实证检验为这个理论及其演绎寻找**  -> Bayesian  
         + **先有碎片而后不断构建框架**  
         + **不断根据新的碎片 修正甚至打破旧的框架 并构建新的框架**， 开始比较慢，但最终会后来居上 
@@ -488,6 +490,8 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
     - 只由**问题的现象直接跳跃到 道德的答案**  
         + 将一切问题引向为道德层  
         + 不需要你自己百分百干净（道德评判）， 只要看你说的**是否有道理或是事实**，无论你是否别有用心，否则再干净也不行  
+    - Intentions don't matter. Actions do.
+        + That's why being ethical is hard  
 
 * cognitive vs emotional intelligence  
     - one cognitive factor is an analytical thinking style  - thinking  

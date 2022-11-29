@@ -5,8 +5,60 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-11-28  
+* TODO  
+
+* REFLECT  
+    - self  
+        - we need to **advance our own interests and concerns** while appreciate the needs of others  
+            + 个人要努力，个人要卓越， 个人要有内心的力量， 这种内心的力量带来内心的喜乐和恬静  
+        - more love and power than truth  
+
+    - families  
+        - Win her families  
+            + treat her families **with respect and care**    
+            + **take time to really know them**    
+            + open up about yourself  
+
+        - Win her friends  
+            + be kind to her friends  
+            + show on interest in them  
+            + let them see how much you like your girl  
+
+        - wechat with my families  
+            + feel their worries and love  
+
+    - meetup    
+        - bowling meetup  
+            + the bowling and food is good, while I cannot feel the connections with them  
+            + Claire is good  
+        - english meetup  
+            + Gillian is good  
+        - bible meetup  
+        - hiking meetup  
+            + don't like ones who complains a lot  
+
+    - others  
+        - 办理户口注销  
+            + 收到付费 - 容易信任对方的小动作  
+        - 办理回乡证  
+            + 基层政府人员尽量少打交道  
+            + non-religious low IQ people are worse  
+
+        - 没有家的感觉  
+  
+
+
 #### 2022-11-21  
 * TODO  
+    - paper  
+
+    - programming  
+
+    - reading  
+
+    - skills  
+    
 
 * Reflect  
     - **觉察他人对自己的影响**， 同时 **分辨出自己内心的声音**， 同时做出自己相应的选择  
@@ -41,11 +93,11 @@ tags: [diary, review, important, learning, lesson]
         + **reflect on your reactions**, where you allow someone's words to affect you emotionally  
             - **our reactions are ultimately within our control**    
             - **we create the reactions** we have, and **we choose to give power to** some people and not to others  
-            - "If a crazy homeless person on the subway gave you the kind of feedback you received, how would you react?"
+            - "If a crazy homeless person on the subway gave you the kind of feedback you received, how would you react?"  
 
         + when you communicate with another person, **you're exploring the depths of your own consciousness**  
             - the essence of love is **the decision to connect** or not  
-            - the purpose of each relationship is to **teach you how to love yourself from the inside out**   
+            - the purpose of each relationship is to **teach you how to love yourself from the inside out**    
                 + when you learn to love everyone and everything, you come into align with your true self  
 
 

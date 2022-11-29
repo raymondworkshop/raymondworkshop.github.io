@@ -9,7 +9,8 @@ abstract: "learn from your mistakes, and know more about yourself"
 
 #### lessons and skills  
 * skills  
-    - **自我的自主性是第一** 
+    - **自我的自主性是第一**  
+        +  人生苦短，**尽量消解不确定性**，把生活主动权掌握在自己手上  
         +  **有一个自主性的意识在，对这个事情有基本判断**；
         **从现实出发，试试看**； 否则全部都是别人给你设的，怎么样去满足别人的要求，那会很痛苦  
         + **你的存在是先的，然后去不去做**  只是一个选择，结果也是多样的  
@@ -44,6 +45,14 @@ abstract: "learn from your mistakes, and know more about yourself"
         + In comes from within  
             - **focus on yourself** and not the world    
             - **fight the battles inside you first and then watch the world** change around you  
+
+        + “空”  - 禪宗  
+            - 我的心超越这一切，**孤寂而自由**   
+                + 无论外界怎么变迁，我只是随时应变，但我的心不会随之而迁流  
+            - 宋明的**新儒家 和 禅宗 是有一条秘密通道的**， 而薛宝钗就位于这条秘密通道上  
+                + **一扇大门的存在， 她对世界保持着一种疏离感**； 
+                在大门之内，她的**生命依旧向着阳光怒放** 
+
 
 
     - Fairness  - 好好做自己  

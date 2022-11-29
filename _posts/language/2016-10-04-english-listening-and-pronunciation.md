@@ -194,6 +194,7 @@ abstract: "English Listening and Pronunciation"
 
 #### refereence
 *   **[ELP: English Listening and Pronunciation](https://homepage.ntu.edu.tw/~karchung/ELPF21.html)** 
+* [Shadowing technique – your secret key to English fluency](https://www.italki.com/en/blog/shadowing-technique-your-secret-key-to-english-fluency)  
 *   [Intonation](http://rachelsenglish.com/video-categories/#consonants)  
 *   [Professional English](https://www.coursera.org/learn/speak-english-professionally/home/week/1)
 *   [Pronunciation Workshop Video Training Program](http://www.bilibili.com/video/av2681140/)
