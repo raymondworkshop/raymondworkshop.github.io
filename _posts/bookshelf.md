@@ -24,7 +24,7 @@ date: 2012-03-19
 
 * [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho (9/10)  
 * [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (7/10)  
-* [Writing Interpreters and Compilers for the Raspberry Pi Using Python](https://www.amazon.com/gp/product/B089M41NGB/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) by Anthony J. Dos Reis  
+* [Writing Interpreters and Compilers for the Raspberry Pi Using Python](https://www.amazon.com/gp/product/B089M41NGB/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) by Anthony J. Dos Reis  (7/10)  
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford  (7/10) 
 * [The Art of Clean Code](https://book.douban.com/subject/35615724/) by Christian Mayer (8/10)  
 * [Serious Python](https://book.douban.com/subject/30206213/) by Julien Danjou  (8/10)  
@@ -33,31 +33,37 @@ date: 2012-03-19
 * [Permission to Feel](https://book.douban.com/subject/34871932/) by Marc Brackett   (8/10)  
 * [Be The One](https://read.amazon.com/?asin=B09F736D69&ref_=kwl_kr_iv_rec_1&language=en-US) by Eileen Lamb  (6/10)  
 * [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina (9/10)  
+* [Practices of the Python Pro](https://book.douban.com/subject/33447247/) by  Dane Hillard  (7/10)  
+* [Python Distilled](https://book.douban.com/subject/35563594/) by David M. Beazley  (9/10)  
+* [Effective Python: 2nd Edition](https://book.douban.com/subject/34868258/) by Brett Slatkin  
+(8/10)  
 
-* [A Guide to the Good Life:The Ancient Art of Stoic Joy](https://book.douban.com/subject/4684151/) by William B. Irvine  
-* [Relationship Magic: Waking Up Together](https://book.douban.com/subject/33253917/) by Guy Finley  
+* [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
+* [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
+* [Love and Work](https://www.amazon.com/Love-Work-Find-What-Rest/dp/B09WZ842HQ/ref=sr_1_1?crid=34KOZI0XVLK79&keywords=Love+and+Work&qid=1669863896&sprefix=love+and+work%2Caps%2C859&sr=8-1) by Marcus Buckingham  
+* [Meditations](https://book.douban.com/subject/30313414/)  
 * [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  
+* [Relationship Magic: Waking Up Together](https://book.douban.com/subject/33253917/) by Guy Finley  
+
+* [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
+* [Code](https://book.douban.com/subject/1494026/) by Charles Petzold  
+* [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
+* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling   
+* [A Guide to the Good Life:The Ancient Art of Stoic Joy](https://book.douban.com/subject/4684151/) by William B. Irvine  
+
 * [The Millionaire Next Door](https://book.douban.com/subject/1620201/) by Thomas J. Stanley / William D. Danko  
 * [紅玫瑰与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲    
+* [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman  
 
 * [From Cold War to Hot Peace](https://book.douban.com/subject/27126169/) by Michael McFaul  
 
-* [Code](https://book.douban.com/subject/1494026/) by Charles Petzold  
-* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling  
-* [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
-* [Practices of the Python Pro](https://book.douban.com/subject/33447247/) by  Dane Hillard  (7/10)  
 * [CPython Internals](https://book.douban.com/subject/35405785/) by Anthony Shaw  
 * [500 Lines or Less](http://aosabook.org/en/index.html)  
-* [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
-* [Python Distilled](https://book.douban.com/subject/35563594/) by David M. Beazley  
-* [Effective Python: 2nd Edition](https://book.douban.com/subject/34868258/) by Brett Slatkin  
 
 * [Crossing the Chasm](https://book.douban.com/subject/25806284/) by Geoffrey A. Moore  
 
 * [Think Bayes, 2nd](https://book.douban.com/subject/35428149/) by Allen Downey  
-* [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
 * [Producing Open Source Software](https://producingoss.com/en/index.html)  
-* [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 * [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore  
 
 * [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  
@@ -128,7 +134,7 @@ date: 2012-03-19
 
 * [The Element Of Style](https://www.goodreads.com/book/show/35899148-the-element-of-style) by Wililam Strunk Jr.
 * [A Little History of Philosophy](https://book.douban.com/subject/6812274/) by Nigel Warburton
-* [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman 
+* [The Design of Everyday Things](https://en.m.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman  
 * [流言](https://book.douban.com/subject/1980436/) by 張愛玲 
 
 * [The Cashflow Quadrant](https://book.douban.com/subject/1817043/) by C. P. A. Robert T. Kiyosaki with Sharon L. Lechter

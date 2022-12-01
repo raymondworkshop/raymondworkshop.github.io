@@ -40,10 +40,13 @@ abstract: "Notes on energy and time management skills"
         + 再吃生的，刺生  
         + 再吃煮过的  
 
-##### exercises  
 
-#####  hiking  
-* feel great to walk in Nature  
+#####  activity  
+* activity  
+    - bowling  
+    - 飞盘  
+      
+* hiking  
     - 大尾督 单车  
     - 大埔 - 大埔滘林徑藍路  
     - 青衣自然径  
