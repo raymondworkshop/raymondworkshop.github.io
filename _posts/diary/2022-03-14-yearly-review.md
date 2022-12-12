@@ -5,6 +5,130 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-12-12 
+* TODO  
+    - paper & chat  
+
+* REFLECT  
+    - self  
+        +  **find sth makes you laugh or intrigues you**    
+            - **you draw strength and love from it**, and this then **gives you the energy** you need to keep moving  
+            - **your loves are so specific and wise** that only they can show you your right way to overcome your life's challenges  
+            - 一方面**直觉非常重要**，可是另一方面又要**及时吸取新的观念修正**自己的直觉  
+            - express your loves  
+                + turn from lvoes into actions  
+
+
+        + important to build relationships and develop people  
+            - balance **task- and people-related needs** at work  
+            - balance getting tasks done and relationships  
+
+        + highlights  
+            - feel happy to hear from Ivy  
+                + I am sure that I love her  
+                + experience the love 
+
+            - nice chatting when someone share his expertises/viewpoints  
+                + experience the truth  
+
+            - experience the wood  
+
+
+    - win her families  
+        + **show your caring**    
+            - creat an allies env  
+            - **care about them and their opinions**, needs and wants    
+                + remember when someone tells you their likes or dislikes  
+            - **notice their mood** and ask if they are okay  
+            - ask how they are  
+            - **plan events** with them  
+                + make dinner plans, see a movie, go for a walk together 
+            - buy a small gift, send a letter or postcard   
+
+    - relationships    
+        + find the patterns, and **use the patterns to build** the relationships  
+        + avoid the toxic relationships  
+            - respect & win-win  
+
+    - meetup  
+        + 飞盘  
+            - don't feel good  
+            - 没有配合的乐趣  
+
+        + hiking  
+            - 一般般  
+            - so cold  
+
+        + some close friends  
+            - 基督徒  
+            
+
+    - habits  
+        + 尽量少熬夜  
+            - 少看电视剧  
+        
+        + 尽量早起床  
+            - 少躺在床上刷手机  
+
+        + 发现韩国电影还是有些共鸣  
+
+
+
+#### 2022-12-05
+* TODO  
+    - paper  
+
+    - programming  
+
+* REFLECT  
+    - self  
+        +  **your loves are so specific and wise** that
+        only they can show you your right way to overcome your life's challenges  
+        
+        + find sth makes you laugh or intrigues you  
+
+        + show collaboration  
+            - being polite   
+
+        + feel a bit sad that Ivy doesn't response me  
+
+
+    - families  
+        - why are you afraid to see the Ivy's messages?  
+            - fear  
+                + listening to them, being curious about them, and admiring them as part of the real you, and they will show you what you truly love  
+                + **love or no love**    
+                    - when you step into things you love, you will feel fear  
+                    - **the path of fear is the path of love**    
+
+            - 无力感， 熟悉感  
+                
+            - **I can feel her love**    
+            - 自己的事业不振      
+            - 可以提升自己  
+
+        - Win her families  
+            + treat her families **with respect and care**    
+            + **take time to really know them**    
+            + open up about yourself  
+
+    - mind create reality  
+        - 内在世界 创造 外在世界  
+
+    - meetup  
+        - 飞盘  
+            + 社交 + 户外  
+                - 攀岩，露营 
+            + 自己喜欢 控制节奏的 团体运动： 阅读比赛+技术精湛  
+        - cantonese meetup  
+            + communicate with the sharing  
+        -  english meetup  
+            + I like the questions  
+        -  hiking meetup  
+            + good  
+
+
+
 #### 2022-11-28  
 * TODO  
 

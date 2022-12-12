@@ -33,6 +33,7 @@ abstract: "About financial planning and education"
 
 * reference  
     - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
+    - [CS 007: PERSONAL FINANCE FOR ENGINEERS](https://cs007.blog/about/)
     
 
 #### notes on bitcoin 
@@ -155,8 +156,6 @@ abstract: "About financial planning and education"
 
 
 ###### 债券价格和利率的关系
-
-
 
 
 ##### reference 

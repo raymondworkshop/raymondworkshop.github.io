@@ -9,10 +9,12 @@ abstract: "notes about TV shows like 'Friends' "
 
 #### tone
 
-> **I was thinking we could try** changing the background color.
+it feels like these people are **collaborating**.  
+they're thinking more about the other person, and **the opinion** and **feelings**, and they're **not being too direct**.  
+> **I was thinking we could try** changing the background color.  
 > **I'm not sure about that**. **Maybe we could** keep it the same.  
-> Hmm, **I don't know**. **Maybe we could try** another light color.
-> Yeah, **we could try that**.
+> Hmm, **I don't know**. **Maybe we could try** another light color.  
+> Yeah, **we could try that**.  
 > Ok.  
 > 
 
@@ -24,15 +26,35 @@ abstract: "notes about TV shows like 'Friends' "
 > **Maybe you could try** adding a column with headings.  
 > Okay, I'll try that.  
 > **Thank you**. **Don't worry if it's too much effort**.  
-> 
+>  
 
 > **Do you think you could** finish that document soon?  
 > I can't right now but I can do it later today.  
 > Okay. **I don't suppose you could** do it a bit sooner, could you?  
-> **Not really. Sorry**, I'm a bit tied up at the moment.
-> Okay, **don't worry**. **Let me know when you're free**.
+> **Not really. Sorry**, I'm a bit tied up at the moment.  
+> Okay, **don't worry**. **Let me know when you're free**.  
 > Sure, will do.  
 > 
+
+> What are you doing?  
+> Making salad.  
+> **I don't think you're supposed to do** it like that.  
+> Oh, **what's the problem**?  
+> **I think you're supposed to** wash the leaves first,
+**but I'm sure it doesn't matter** too much.  
+> oh whoops, **I guess** I forgot to do that.  
+> **Don't worry**. **I'm sure it's fine**.  
+> I hope so.  
+>  
+
+
+> **Do you think you could** write the draft for this next article?   
+> Hmm, **I'd prefer** if someone else could do it **if possible** **as it's not my field**.  
+> **It would be great if you could** do it because Judy's on holiday.  
+> Okay, I'll have a go.  
+> Thank you so much.  
+> No worries.  
+
 
 #### S08E17  
 

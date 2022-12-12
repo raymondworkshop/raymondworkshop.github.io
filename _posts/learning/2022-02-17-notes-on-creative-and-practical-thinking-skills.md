@@ -24,7 +24,12 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
 #### How to think clearly  
 * TODO  
 
-* Tools for better thinking  
+* The really smart thinkers are clear thinkers.
+    - **They understand the basics at a very fundamental level**  
+    - **Fundamentals are key to understanding how things work**, and **most high performers have the fundamentals down in their respective disciplines**.  
+    It could be in science, music, architecture or anything.      
+    - I would rather **understand the basics really well** than memorize all kinds of complicated concepts
+        + I can't stitch together and can't retrive from the basics.  
 
 * Conflict Resolution Diagram  
     - Find win-win solutions to conflicts  
@@ -505,7 +510,9 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
 * **演化的保守主义** - **相信普通人的常识和习惯**    
     - 抽象理念可能会出错，但常识就可靠的多，因为**常识毕竟经过时间的考验**  
     - **生活的经验，朴素的常识** 比 抽象的真理更重要    
-        + “**我从不让抽象的东西主宰自己**” - 柏克
+        + “**我从不让抽象的东西主宰自己**” - 柏克  
+    - 一方面**直觉非常重要**，可是另一方面又要**及时吸取新的观念修正**自己的直觉  
+
     - from John Locke, David Hume to Edmund Burke    
 
 

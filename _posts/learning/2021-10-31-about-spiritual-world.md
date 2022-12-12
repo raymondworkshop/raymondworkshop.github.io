@@ -49,6 +49,22 @@ abstract: "About Spiritual world - relationships with self, families, friends, o
 
 
 #### Learning  
+* **以神的眼光来看待自己的苦难**    
+    - “不要因为把我卖到这里自忧自恨，这是神差我在你们以先来，为要保全生命”  
+    - 约瑟试探哥哥的内心，引領他們悔改，进而宽恕  
+    
+* 约瑟 **尽心去做事, 没有灰心**    
+    - ”耶和华与他同在，他就百事顺利“ 創世纪 39-2  
+        + “the LORD was with Joseph and gave him success in everything he did“    
+        + “耶和华使他手里所办的事都顺利”  創世纪 39-3  
+
+    - 开始关心身边的人 - 服事王的酒政和膳长    
+        + “但你得好处的时候，求你记念我，施恩与我，在法老面前提说我，救我处这监牢” 40-14  
+
+    - the testing of your faith produces perseverance  
+        + “因為知道你們的信心經過试验，就生忍耐； 但忍耐也当成功，使你们成全，完备，毫无缺欠” 雅各书1-3,4  
+        + “because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything”
+     
 * 做事尽力  
     - 雅各 **做什么事情都很尽力**    
         + 前半生 **与人竞争**  
