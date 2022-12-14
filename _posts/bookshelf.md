@@ -35,20 +35,19 @@ date: 2012-03-19
 * [Personal Development for Smart People](https://book.douban.com/subject/3183403/) by Steve Pavlina (9/10)  
 * [Practices of the Python Pro](https://book.douban.com/subject/33447247/) by  Dane Hillard  (7/10)  
 * [Python Distilled](https://book.douban.com/subject/35563594/) by David M. Beazley  (9/10)  
-* [Effective Python: 2nd Edition](https://book.douban.com/subject/34868258/) by Brett Slatkin  
-(8/10)  
+* [Effective Python: 2nd Edition](https://book.douban.com/subject/34868258/) by Brett Slatkin  (8/10)  
 
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
 * [Love and Work](https://www.amazon.com/Love-Work-Find-What-Rest/dp/B09WZ842HQ/ref=sr_1_1?crid=34KOZI0XVLK79&keywords=Love+and+Work&qid=1669863896&sprefix=love+and+work%2Caps%2C859&sr=8-1) by Marcus Buckingham  
 * [Meditations](https://book.douban.com/subject/30313414/)  
-* [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  
-* [Relationship Magic: Waking Up Together](https://book.douban.com/subject/33253917/) by Guy Finley  
-
+* [張愛玲經典散文](https://www.millionbook.net/mj/z/zhangailing/zalj/index.html)  
+* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling   
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 * [Code](https://book.douban.com/subject/1494026/) by Charles Petzold  
+* [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  
+* [Relationship Magic: Waking Up Together](https://book.douban.com/subject/33253917/) by Guy Finley  
 * [How to Solve It](https://book.douban.com/subject/1456890/) by G. Polya  
-* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling   
 * [A Guide to the Good Life:The Ancient Art of Stoic Joy](https://book.douban.com/subject/4684151/) by William B. Irvine  
 
 * [The Millionaire Next Door](https://book.douban.com/subject/1620201/) by Thomas J. Stanley / William D. Danko  

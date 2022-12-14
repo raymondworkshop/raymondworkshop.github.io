@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Year 2022 plan and review"
+title: "Year 2022 Weekly check-ins"
 date: 2022-01-27  
 tags: [diary, review, important, learning, lesson]
 ---
 
 #### 2022-12-12 
 * TODO  
-    - paper & chat  
+    - what are my priorities?  
+        + paper & chat  
+    - What help do I need from my leader?  
+
+* REVIEW
+    - What activities did I love last week?  
+
+    - What activities did I loathe last week?  
 
 * REFLECT  
     - self  
