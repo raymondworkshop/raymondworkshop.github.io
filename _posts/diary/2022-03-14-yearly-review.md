@@ -5,6 +5,144 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
+#### 2022-12-19
+* TODO  
+    - Priorities  
+        + paper & chat  
+
+    - What help do I need from my leader?  
+
+    - FOCUS  
+        + skills  
+            - Engineering  
+            - English  
+            
+        + love  
+
+        + Wealth  
+
+ 
+* REVIEW  
+    - What activities/moments did I love last week?  
+        + 收到转到的钱    
+            - 以及 领到 消费券  
+        + bible reading  
+            - 和年轻人聊天  
+        + Watch the world cup  
+            - 喜欢惊心动魄  
+
+        + Watch <白莲花度假村>  
+            - 水上摩托以及大海的美  
+              
+
+    - What activities/moments did I loathe last week?  
+        + spend too much on wealth checking  
+
+    - activities  
+        + meet Renee  
+            - She is good, but I'm not sure about the plan  
+            - “不要搞人”  
+
+        + cancel the hiking  
+            - 一种 陈腐的气息  
+            - 自己喜欢 年轻 （朝气蓬勃）的  
+
+    - TODO  
+        + 驾车  
+        + 游水    
+
+
+* REFLECT  
+    - SELF  
+        + **Love-strength** has more power than group-strength  
+            - where in this crowd is your voice?  
+                + **Where is your language to describe the unique loves and loathes**
+                that define your Wyrd?  
+
+            - **The strength of knowing who you uniquely are**, **where you find love in the world**, and **how to turn love into contribution**    
+
+            - Love-strength is **self-reliant**, and **abundant**  
+                + It is **always and only derived from who you are**, and **there is no one else like you**  
+                + **you're different**. Difference, like love, is an infinitely abundant resource  
+                + This love-strength leads to **openness** and **curiosity**    
+
+            - love-strength **begins with you taking your own loves seriously**,and
+             being deeply curious about **how these loves can be channeled in some helpful or productive way**    
+
+
+        + 锻炼自己的**直觉**  
+            - 一方面**直觉非常重要**，可是另一方面又要**及时吸取新的观念修正自己的直觉**    
+            - **经验主义** - 他的理论出自他个人的经验  
+                + 事物的想象方面与事物在实际上的真实情况  
+                + 应当怎样生活  与 实际上怎样生活  
+
+        + **亲疏一定要有别**    
+            - **经过压力测试的关系值得珍惜**； 没有时间考验和压力测试的关系，要区别对待  
+
+        + 别把自己当受害者  
+            - Just do what you have to do  
+
+        + If you want to be wealthy, **spend your time earning, learning, or relaxing**  
+            - **Outsource or ignore everything else**.  
+
+    - friends  
+        + **对自己有充足的自信**也**懂得赞美他人**  
+        + 拥有**同理心**， 不抱着**批判态度对待他人**    
+        + 不怨天尤人并**懂得调整自己**  
+        + 得到他人肯定时，**懂得感激**  
+        + 面对高压环境**不会惊慌失措**    
+
+        + **不会利用制造罪恶感（Guilt）去勒索他人**  
+            - Guilt: a feeling of worry or unhappiness that you have because you have done something wrong, such as causing harm to another person  
+                + 只要犯错，就有罪恶感，同时恐惧遭到惩罚    
+                    -  经年累月积累的罪恶感  
+                    -  罪惡感令人 自卑  
+
+                + 感到内疚 - 是**对某项特定行为**持有否定的态度    
+                    - 因为我们的行为影响了别人，并且我们觉得自己对此负有责任     
+                    - “我会为迟到而感到难过。 我给同事带来了不便”    
+                + 感到羞耻 - 会以一种**消极态度看待自己**    
+                    - 觉得自己做错事了 - 意识到自己违反了某种社会规范  
+                    - “我真是个失败者，没法和大家一起工作”  
+
+                + Judge not, less ye be judged  
+                    - 审断别人，造成别人的罪恶感  
+
+                + 罪恶感影响我们最妙的一招是 **自责**   
+
+
+            -  基督教有 “原罪”概念，**更强调人与上帝的关系**， 这个关系的重要性超过了人与人的关系  
+                + 人与人的关系相对而言**成为手段**，次要的事物  
+                    - 重视与他人关系而产生的羞耻感也相对缓和  
+                    - 上帝的评价 - **教会提供的内化伦理标准**所做出的个人自我评价  
+                    - 评价标准可能更具有普遍性，而作为评价所要关照的**材料可能是来自个人内心深处的自我感觉**  
+
+                + 东方人倾向以他人的评价， 而非上帝的审判，来决定自我存在的价值  
+                    - **在乎他人怎么看自己**  
+                    - 公开向他人认错，非常困难，因为**预期将因此而被他人否定**      
+
+
+            - **摆脱罪恶感**  
+                + 很多赎罪的方法，包括 道歉，支付罚款，和服刑  
+
+                + 西方基督教文化， 在星期日的彌撒裡，**借著餅（神的身體）與 酒 （神的寶血）**，**都被赦免（清洗）掉了**，走出教堂，就能迎接另一美好星期的开始  
+                    -  **忏悔的宗教认罪意识**也可以帮助我们处理罪恶感  
+
+                + 中国儒家文化，未能提供此种宗教仪式性的“去罪恶感”机制  
+                    - 清洗罪恶感的方式 变成**自我惩罚（受苦和折磨）**  
+                        + **“罪恶感 - 赎罪 - 自我惩罚”**  的人性枷锁  
+
+                    - 通常一般人的“去罪恶感”与赎罪的手段是 **令自己不快乐（以苦为乐）**  
+                        + 中国文化与文学里**缺乏快乐**，自然**孕育不出风趣幽默**的文学花朵 
+
+                +  任何事情只要能增加快乐，就能减轻罪恶感  
+                    - 自我接纳（自尊），接纳别人，建立自尊（自卑的反面）  
+                    - 乐于助人  
+
+                +  家长，教师，法官在控诉时，最好**采取建设性的行为**，**最好避免羞辱那些违反规则的人**，进而选择帮助他们了解自己的行为对他人的影响，并采取措施，弥补自己的过失  
+
+
+
 #### 2022-12-12 
 * TODO  
     - what are my priorities?  
