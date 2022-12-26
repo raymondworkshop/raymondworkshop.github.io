@@ -40,7 +40,9 @@ date: 2012-03-19
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling   
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
+* [A Guide to the Good Life](https://book.douban.com/subject/4684151/) by  William B. Irvine  
 * [Meditations](https://book.douban.com/subject/30313414/)  
+
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 * [Code](https://book.douban.com/subject/1494026/) by Charles Petzold  
 * [張愛玲經典散文](https://www.millionbook.net/mj/z/zhangailing/zalj/index.html)  
