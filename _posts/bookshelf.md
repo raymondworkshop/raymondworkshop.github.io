@@ -5,6 +5,14 @@ date: 2012-03-19
 
 ### log of training & books and my ratings
 
+#### reading-2023  
+* [Meditations](https://book.douban.com/subject/30313414/)  
+* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling   
+* [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
+* [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
+* [A Guide to the Good Life](https://book.douban.com/subject/4684151/) by  William B. Irvine  
+* [Relationship Magic: Waking Up Together](https://book.douban.com/subject/33253917/) by Guy Finley  
+
 #### training-2022  
 *  **[軟件工程之美](https://time.geekbang.org/column/article/82337)**  
 * [Better Writing in English](https://www.coursera.org/learn/business-writing-english/home/week/1)    
