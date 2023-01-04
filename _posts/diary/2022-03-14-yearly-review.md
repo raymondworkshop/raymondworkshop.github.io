@@ -5,7 +5,16 @@ date: 2022-01-27
 tags: [diary, review, important, learning, lesson]
 ---
 
-#### 2022-12-19
+
+#### 2023-01-04  
+* TODO  
+    - 总结下这些年来 自己各方面的经验教训
+
+* REVIEW 
+
+
+
+#### 2022-12-19  
 * TODO  
     - Priorities  
         + paper & chat  
@@ -32,7 +41,7 @@ tags: [diary, review, important, learning, lesson]
             - 喜欢惊心动魄  
 
         + Watch <白莲花度假村>  
-            - 水上摩托以及大海的美  
+            - 大海的美, 游泳以及水上摩托  
               
 
     - What activities/moments did I loathe last week?  

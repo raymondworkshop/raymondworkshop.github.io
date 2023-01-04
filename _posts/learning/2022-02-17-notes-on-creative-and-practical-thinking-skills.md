@@ -64,7 +64,7 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
     - Think carefully and let your values play a big role in decision-making, but do so rationally  
 
 
-* **Identify your deepest values** 
+* **Identify your deepest values**  
     - TODO  
         + your family values - **education**, wealth, appearance  
         + what do u do for a living?  
@@ -420,8 +420,11 @@ abstract: "Success: Practical Thinking Skills, and 实证主义哲学, 生活方
 ### 关于实证主义哲学和生活方式 
 
 #### 从证实 到证伪  
-* **可证伪性**  
-    - 现在科学 从发现正确 到 **试错中前进**  
+* 科学 - **可证伪性**  
+    - 现在科学 从发现正确 到 **修正假设，试错中 尽量接近对**  
+        + 科学是 **不断探索未知，修正假设的过程中的一系列实践**， 不是绝对正确的真理  
+        + 专家**会搞错**，但**知道怎么根据专业知识不断调整认知，尽量接近对**    
+
     - 现在正确的，将来都可能是错误的    
  
 * sicence needs to fail  
