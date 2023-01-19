@@ -10,7 +10,7 @@ In the book [The Effective Executive](https://www.amazon.com/Effective-Executive
 
 #### notes-2021 
 
-This note is mainly based on the context of western culture/structures  
+This note is a summary on the book <The Effective Executive> 
 
 #### to effect  - **get the right things done** 
 

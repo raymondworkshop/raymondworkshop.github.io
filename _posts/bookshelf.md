@@ -6,12 +6,17 @@ date: 2012-03-19
 ### log of training & books and my ratings
 
 #### reading-2023  
+* [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  (9/10)  
+* [紅玫瑰与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲 (9/10)  
 * [Meditations](https://book.douban.com/subject/30313414/)  
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling   
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
 * [A Guide to the Good Life](https://book.douban.com/subject/4684151/) by  William B. Irvine  
 * [Relationship Magic: Waking Up Together](https://book.douban.com/subject/33253917/) by Guy Finley  
+* [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb  
+* [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  
+
 
 #### training-2022  
 *  **[軟件工程之美](https://time.geekbang.org/column/article/82337)**  
