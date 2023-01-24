@@ -9,6 +9,7 @@ date: 2012-03-19
 * [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  (9/10)  
 * [紅玫瑰与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲 (9/10)  
 * [Meditations](https://book.douban.com/subject/30313414/)  
+* [The Hard Thing About Hard Things](https://book.douban.com/subject/25823036/) by  Ben Horowitz  
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling   
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
