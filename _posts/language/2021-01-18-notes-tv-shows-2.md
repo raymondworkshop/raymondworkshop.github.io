@@ -11,6 +11,10 @@ abstract: "notes about TV shows like 'Friends' "
 
 it feels like these people are **collaborating**.  
 they're thinking more about the other person, and **the opinion** and **feelings**, and they're **not being too direct**.  
+
+be supposed to == to be intended to 被期望  
+
+
 > **I was thinking we could try** changing the background color.  
 > **I'm not sure about that**. **Maybe we could** keep it the same.  
 > Hmm, **I don't know**. **Maybe we could try** another light color.  
@@ -496,4 +500,4 @@ Let me get it straight.
 
 
 #### reference
-* [老友记第八季](https://www.tangrenjie.tv/vod/play/id/12311/sid/1/nid/15.html)
+* [老友记第八季](https://www.tangrenjie.tv/vod/play/id/12311/sid/1/nid/18.html)
