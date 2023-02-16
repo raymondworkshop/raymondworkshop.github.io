@@ -8,11 +8,6 @@ abstract: "About financial planning and education"
 ---
 
 #### notes  
-* 投資 **對投資人好**的公司  
-    - 考慮 投資人的回報      
-    - 穩定分红 或 股票回购 （ 推高股價）   
-    - 不斷提高自己的利潤率   
-
 * understand wealth  
     - **financial independence** is more important than displaying social status  
 
@@ -24,8 +19,17 @@ abstract: "About financial planning and education"
     - 财富 应该反映**你对生活的满足感，你的选择，以及你为了享受生活而必须管理的资源**； 不局限于金钱多寡  
     - 医疗/残障保险  
 
-* understand money  
-    - understand leverage, compound interest and integrity
+    - understand money  
+        + understand leverage, compound interest and integrity  
+
+
+* how to choose stocks/bonds  
+
+
+* 投資 **對投資人好**的公司  
+    - 考慮 投資人的回報      
+    - 穩定分红 或 股票回购 （ 推高股價）   
+    - 不斷提高自己的利潤率   
 
 
 #### Financial Accounting Made Fun  

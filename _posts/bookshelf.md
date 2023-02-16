@@ -9,6 +9,10 @@ date: 2012-03-19
 * [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  (9/10)  
 * [紅玫瑰与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲 (9/10)  
 * [Meditations](https://book.douban.com/subject/30313414/)  
+* [Your Erroneous Zones](https://book.douban.com/subject/1795975/) by Wayne W. Dyer  
+* [The Common Path to Uncommon Success](https://book.douban.com/subject/35783877/) by John Lee Dumas  
+* [HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)  
+* [HBR's 10 Must Reads on Managing Yourself](https://book.douban.com/subject/5415037/)  
 * [The Hard Thing About Hard Things](https://book.douban.com/subject/25823036/) by  Ben Horowitz  
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling   
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
