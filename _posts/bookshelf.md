@@ -10,9 +10,11 @@ date: 2012-03-19
 * [紅玫瑰与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲 (9/10)  
 * [Meditations](https://book.douban.com/subject/30313414/)  
 * [Your Erroneous Zones](https://book.douban.com/subject/1795975/) by Wayne W. Dyer  
-* [The Common Path to Uncommon Success](https://book.douban.com/subject/35783877/) by John Lee Dumas  
+* [Rich Dad, Poor Dad](https://book.douban.com/subject/1341506/) by Robert T. Kiyosaki   
 * [HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)  
 * [HBR's 10 Must Reads on Managing Yourself](https://book.douban.com/subject/5415037/)  
+* [飞鸟和池鱼](https://book.douban.com/subject/35426612/) by 张惠雯  
+* [The Common Path to Uncommon Success](https://book.douban.com/subject/35783877/) by John Lee Dumas  
 * [The Hard Thing About Hard Things](https://book.douban.com/subject/25823036/) by  Ben Horowitz  
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling   
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
