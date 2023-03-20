@@ -3,7 +3,17 @@ title: Bookshelf
 date: 2012-03-19
 ---
 
-### log of training & books and my ratings
+### log of training & books and my ratings  
+
+
+#### course  
+* [Startup School](https://www.startupschool.org/curriculum)  
+* Entrepreneurship 
+    - [DO Your Venture: Entrepreneurship For Everyone](https://www.edx.org/course/do-your-venture-entrepreneurship-for-everyone)   
+    - [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2022/home)  
+    - [Accounting and Finance](https://www.edx.org/course/accounting-and-finance)  
+    - [Marketing Management](https://courses.edx.org/course_modes/choose/course-v1:IIMBx+MK102x+2T2022/)  
+
 
 #### reading-2023  
 * [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  (9/10)  
@@ -13,6 +23,8 @@ date: 2012-03-19
 * [Rich Dad, Poor Dad](https://book.douban.com/subject/1341506/) by Robert T. Kiyosaki   
 * [HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)  
 * [HBR's 10 Must Reads on Managing Yourself](https://book.douban.com/subject/5415037/)  
+* [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
+* [Code](https://book.douban.com/subject/1494026/) by Charles Petzold  
 * [飞鸟和池鱼](https://book.douban.com/subject/35426612/) by 张惠雯  
 * [The Common Path to Uncommon Success](https://book.douban.com/subject/35783877/) by John Lee Dumas  
 * [The Hard Thing About Hard Things](https://book.douban.com/subject/25823036/) by  Ben Horowitz  

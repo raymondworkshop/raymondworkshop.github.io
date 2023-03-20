@@ -2136,4 +2136,5 @@ Repeat and refine until you create your desired lifestyle.
     - movies  
     
 
-* notes on lessons and self-reflections
+* notes on lessons and self-reflections  
+
