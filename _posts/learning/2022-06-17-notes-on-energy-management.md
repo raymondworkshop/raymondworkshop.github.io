@@ -58,8 +58,10 @@ abstract: "Notes on energy and time management skills"
     - 黄牛山  
     - 芝麻灣郊遊徑  
     - 塘福泳滩  
-    - 
-    
+    - 大棠烧烤场  
+        + 燒烤炭/炭精/火钳/打火机， 燒烤網， 燒烤夾， 燒烤叉， 一次性纸盘/水杯     
+        + 馒头，（牛油蒜蓉燒）青口，红薯/锡箔纸， 牛肉，棉花糖，蜜糖， 盐/胡椒，可乐，水果    
+
 
 ##### swimming  
 * TODO  

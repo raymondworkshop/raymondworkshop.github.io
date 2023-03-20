@@ -7,12 +7,14 @@ date: 2012-03-19
 
 
 #### course  
-* [Startup School](https://www.startupschool.org/curriculum)  
-* Entrepreneurship 
-    - [DO Your Venture: Entrepreneurship For Everyone](https://www.edx.org/course/do-your-venture-entrepreneurship-for-everyone)   
+* Entrepreneurship  
     - [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2022/home)  
+    - [DO Your Venture: Entrepreneurship For Everyone](https://www.edx.org/course/do-your-venture-entrepreneurship-for-everyone)   
     - [Accounting and Finance](https://www.edx.org/course/accounting-and-finance)  
     - [Marketing Management](https://courses.edx.org/course_modes/choose/course-v1:IIMBx+MK102x+2T2022/)  
+
+* [Startup School](https://www.startupschool.org/curriculum)  
+
 
 
 #### reading-2023  

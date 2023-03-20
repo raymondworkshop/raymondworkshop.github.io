@@ -23,6 +23,8 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
         + middle class  -> comfort  
         + poor  -> survival  
 
+    - “我们做的是小本买卖，尽量不怨天尤人，努力顺应形势”  
+
     - **focused on creating things that make you come alive**  and the right people will find you  
         + your family  
         + your purpose  
