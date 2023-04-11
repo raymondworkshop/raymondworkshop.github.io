@@ -7,6 +7,12 @@ categories: [learning, todo]
 abstract: "TODO -  driving"
 ---
 
+##### 2023-04-11  
+* 切线
+   - 望镜，看盲点，切线
+
+* 熟悉路线
+
 ##### 2023-02-18  
 * 档位  
     - P档位： 停留时使用P档  

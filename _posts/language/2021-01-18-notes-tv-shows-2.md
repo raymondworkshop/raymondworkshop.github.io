@@ -7,7 +7,7 @@ categories: [language, shows]
 abstract: "notes about TV shows like 'Friends' "
 ---
 
-#### tone
+#### tone  
 
 it feels like these people are **collaborating**.  
 they're thinking more about the other person, and **the opinion** and **feelings**, and they're **not being too direct**.  
@@ -58,6 +58,11 @@ be supposed to == to be intended to 被期望
 > Okay, I'll have a go.  
 > Thank you so much.  
 > No worries.  
+
+
+#### Succession
+
+**Can I possibly please grab you** just for five minutes?  
 
 
 #### S08E17  

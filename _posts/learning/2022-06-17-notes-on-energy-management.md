@@ -33,6 +33,7 @@ abstract: "Notes on energy and time management skills"
     - Pepperonis Pizza & Cafe  - 西貢意大利西餐  
     - 憶食尚臘味煲仔飯  
     - 十二味  
+    - Gaia Ristorante  
 
 * notes  
     - 先吃生的后吃熟的，先吃蔬菜后吃肉，最后才吃碳水化合物   
