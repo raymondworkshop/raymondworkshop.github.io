@@ -10,6 +10,90 @@ abstract: "a long-running note where I store the date, the person/project, the d
 *  this allows you to look back and see how things turned out  
  
 
+#### 2023-04-18  
+* TODO  
+    - work  
+
+    - read  
+        + <創新求存: 黎智英事業與生活的創新之道>  
+
+    - skills  
+        + critical thinking  
+            - 为什么别人说什么我就相信什么  
+                + 中国之人， “**下愚而上诈**“合谋  
+
+            - TODO  
+
+        + **绝对观念**  - **believe in an absolute authority**  
+            - 人是需要一个 绝对的人 来引领？  
+            
+            - 贝叶斯公式概括了 人们学习过程的原则  
+                +  认知世界（学习）的方法:  人们首先有一个先验猜测，然后结合观测数据，修正先验，得到更为合理的后验概率
+                + 贝叶斯定理的应用方法是 **建立在主观判断的基础上，先主观猜测一个值**，然后**根据经验事实不断地修正**，最后得到客观世界的本质  
+
+            - Science 
+                + It's a **cyclic process of evaluating** and **changing your mind based on new, better evidence and data**    
+
+                + Distinguishing **healthy skepticism** from denialism is very important  
+                    - denialism means rejecting all empirical evidence, while skepticism welcomes and indeed requires all empirical evidence and available data  
+
+                    - Whilst science is empirical and welcomes change and systematic learning, denialism can be related to absolutist views  
+        
+        + **intention**    
+            - manipulate vs persuasion  
+
+        + **沟通和说服他人**的能力    
+            - sincere  
+                + (of a person, feelings, or behaviour) not pretending or lying; honest  
+            
+            - 社会心理学  
+                + **利用人已有的偏見來達到自己的目的**    
+
+* DONE  
+    - SELF  
+        + 自信的表达自己  Speak for yourself  
+
+        + "**通过创造事业，体现自己的能力**"  
+            - 努力工作不纯粹是为了赚钱  
+
+        + 恐惧 是对思维影响最大的  
+            - 邪教  - **奖励要等到将来， 必须服从的指示是现在**    
+
+        + 工作中的渣男心态  
+            - 我是来**赚钱的**，不是来生气的  
+                + 别被责任心绑架，**学会盘算 投入产出比**    
+            - 随便你怎么看，怎么想，**我无所谓**    
+                + 情感不重要，该演就演，价值第一  
+            - 不要入戏太深，始终保留自己的初心  
+            - 大家发财都好了  
+
+
+    - relaitonships  
+        + TOXIC  
+            - **They weaken you** in order to control you  
+                + **their need to control**  such as incompetence, insecurity, narcissism, jealousy, or just plain pettiness  
+
+            - protect your mental health  
+                + **create distance** between your mental health and their abusive behaviors
+                + view their words and actions as separate from you 
+                + exercise, meditate, journal, and do things that you love that remind you of who you are, and what you value  
+
+            - surround yourself with friends and people who **support and encourage you**  
+                + consider talking to a coach, therapist  
+
+    - 投资  
+        + HSBC -> IBKR -> firstrade  
+            - Wise -> alipay  
+            - howto alipay with HKID  
+
+    - acitvities  
+        + 理发 @shenzhen  
+        + frizbee  
+            - Good to paly the fun games  
+
+        + MAN FOOTBALL    
+
+
 #### 2023-04-11  
 * TODO  
     - work  
@@ -64,7 +148,6 @@ abstract: "a long-running note where I store the date, the person/project, the d
         + meet 营养师  
 
 
-
 * lesson/review  
 
 
@@ -90,7 +173,7 @@ abstract: "a long-running note where I store the date, the person/project, the d
         + 基于 自愿和私有的资源  
         + 中国之人， “**下愚而上诈**“合谋    
             - 这种人的骨子里**自带上邦大国的骄傲和自豪**，无法理解也不愿承认自己的民族、国家和世界主流文明的差距，
-        他对于环境的偶尔不满**更多是个人利益的失衡**，而不是出于对公平正义的理解和向往  
+        他对于环境的偶尔不满**更多是个人利益的失衡**，而不是出于**对公平正义的理解和向往**    
 
 
 * 自信  
