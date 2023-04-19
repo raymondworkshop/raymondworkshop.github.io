@@ -3,11 +3,29 @@ layout: post
 title: "The log of your life"
 date: 2022-08-08  
 tags: [diary, review, important, learning, lesson]
-abstract: "a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  "
+abstract: "a master self-observer"
 ---
 
-### a long-running note  
+### a long-running note  on self-observer  
+* self-observation  
+    - **Indentify important behaviors**, recording the frequency and duration  
+        + valuable tool for personal growth and development  
+        + help you understand yourself better and make meaningful changes  
+
+
+    - Identify the behaviors that you feel are especially important for you to either increase or reduce  
+    - Keep a record of the frequency and duration of these important behaviors  
+
+    - Note the conditions that exist when you display these behaviors  
+
+    - Identify other important factors concerning these behaviros  
+        + the time or who  
+
+    - try to keep the process simple enough that you will not be discouraged from using it  
+
+
 *  this allows you to look back and see how things turned out  
+    - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
  
 
 #### 2023-04-18  
