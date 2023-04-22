@@ -9,7 +9,9 @@ date: 2012-03-19
 #### course  
 * Entrepreneurship  
     - [Building a Lean Startup](https://learning.edx.org/course/course-v1:DavidsonX+JiE+2T2022/home)  
-    - [The Entrepreneurial Mindset](https://www.edx.org/course/the-entrepreneurial-mindset)  
+    - [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2022/home)  
+    - [DO Your Venture](https://www.edx.org/course/do-your-venture-entrepreneurship-for-everyone)  
+    - [Microeconomics & Business](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2022/home)  
 
 * Leadership Essentials  
     - [Critical Thinking & Problem Solving](https://www.edx.org/course/critical-thinking-problem-solving-3)   
