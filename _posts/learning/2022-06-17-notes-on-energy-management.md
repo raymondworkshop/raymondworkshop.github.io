@@ -28,12 +28,13 @@ abstract: "Notes on energy and time management skills"
     - 阿拉丁咖啡屋  
     - Lime Garden - 青悅 - 越南菜  
     - PUTIEN 莆田 - 福建菜  
-    - 湘川沪 - China land restaurant   
+    - 湘川沪 - China land restaurant    
     - 金禧茶樓  
     - Pepperonis Pizza & Cafe  - 西貢意大利西餐  
     - 憶食尚臘味煲仔飯  
     - 十二味  
     - Gaia Ristorante  
+    - harbour Fun Restaurant & Bar - 湾仔海滨  
 
 * notes  
     - 先吃生的后吃熟的，先吃蔬菜后吃肉，最后才吃碳水化合物   
