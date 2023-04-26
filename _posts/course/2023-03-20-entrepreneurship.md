@@ -6,7 +6,21 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 ---
 
 #### People Management  
-TODO  
+* People management  
+    - Understand and Deliver Policies to your team in a manner that motivates and enhances employee committed to organizatons  
+        + you understand your team best like their capabilities and motivation       
+
+    - People Management is about developing the long term Managerial and Technical capability of people in organizations  
+
+* Two Facets of people management  
+    - Understand human behaviour  
+        + **Understanding perception**    - which you interpret this situation   
+            - the perceptual lens that we use shapes the reality of what we see  
+
+        + **Understanding Motivation**
+
+    - Understand organization structures, strategy and processes  
+    
 
 #### Entrepreneurship For Everyone  
 

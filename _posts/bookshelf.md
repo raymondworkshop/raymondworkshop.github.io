@@ -27,6 +27,12 @@ date: 2012-03-19
 
 
 #### reading-2023  
+* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling   
+* [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
+* [A Guide to the Good Life](https://book.douban.com/subject/4684151/) by  William B. Irvine  
+* [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb  
+* [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
+
 * [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  (9/10)  
 * [紅玫瑰与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲 (9/10)  
 * [Meditations](https://book.douban.com/subject/30313414/)  
@@ -34,17 +40,12 @@ date: 2012-03-19
 * [Rich Dad, Poor Dad](https://book.douban.com/subject/1341506/) by Robert T. Kiyosaki   
 * [HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)  
 * [HBR's 10 Must Reads on Managing Yourself](https://book.douban.com/subject/5415037/)  
-* [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 * [Code](https://book.douban.com/subject/1494026/) by Charles Petzold  
 * [飞鸟和池鱼](https://book.douban.com/subject/35426612/) by 张惠雯  
 * [The Common Path to Uncommon Success](https://book.douban.com/subject/35783877/) by John Lee Dumas  
 * [The Hard Thing About Hard Things](https://book.douban.com/subject/25823036/) by  Ben Horowitz  
-* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling   
 * [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)  
-* [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
-* [A Guide to the Good Life](https://book.douban.com/subject/4684151/) by  William B. Irvine  
 * [Relationship Magic: Waking Up Together](https://book.douban.com/subject/33253917/) by Guy Finley  
-* [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb  
 * [Emotional Intimacy](https://read.amazon.com/reader?asin=B00E6EFGHS&ref_=kwl_kr_iv_rec_1&language=en-US) by Masters, Robert Augustus  
 
 
