@@ -27,9 +27,10 @@ date: 2012-03-19
 
 
 #### reading-2023  
-* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling   
+* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling    
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
 * [A Guide to the Good Life](https://book.douban.com/subject/4684151/) by  William B. Irvine  
+* [500 Lines or Less](https://aosabook.org/en/index.html)  
 * [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb  
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 

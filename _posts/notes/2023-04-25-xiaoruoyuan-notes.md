@@ -1,13 +1,11 @@
 ---
-title: "notes on 萧若元"
+title: "Notes on 萧若元"
 date: 2023-04-25
 tags: [learning, business, startup, important]
 abstract: "notes on 萧若元"
 ---
 
 #### notes on <岿然回望>  
-
-#### 
 
 
 #### notes on <边缘回望>  

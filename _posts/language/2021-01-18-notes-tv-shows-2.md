@@ -59,6 +59,28 @@ be supposed to == to be intended to 被期望
 > Thank you so much.  
 > No worries.  
 
+#### S08E21  
+I am **freaking out**. (心慌)  
+
+**There's nothing to worry about**. We have plenty of time.  
+
+I'm **getting my revenge**. (我要报复他)  
+
+**Don't get too worked up over it**. (别兴奋过头)  
+
+**I'm fascinated** by paleontology.  
+
+You didn't see **how brazen** she was. (明目张胆)  
+
+> I actually came here to ask you out.  
+> Yeah, actuall I'm free now. You want to get coffee?  
+> 
+
+Do u feel better?  
+
+Are you sure you don't want something more?  
+
+
 
 #### Succession
 
