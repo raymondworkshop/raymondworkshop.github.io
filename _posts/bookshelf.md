@@ -8,8 +8,9 @@ date: 2012-03-19
 
 #### course  
 * Entrepreneurship  
-    - [Building a Lean Startup](https://learning.edx.org/course/course-v1:DavidsonX+JiE+2T2022/home)  
     - [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2022/home)  
+
+    - [Building a Lean Startup](https://learning.edx.org/course/course-v1:DavidsonX+JiE+2T2022/home)  
     - [DO Your Venture](https://www.edx.org/course/do-your-venture-entrepreneurship-for-everyone)  
     - [Microeconomics & Business](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2022/home)  
 
