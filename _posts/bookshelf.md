@@ -28,6 +28,9 @@ date: 2012-03-19
 
 
 #### reading-2023  
+* [我做生意的心得]  
+* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford   
+* [How to Design Programs, 2nd](https://htdp.org/2023-3-6/Book/index.html)  
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling    
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
 * [A Guide to the Good Life](https://book.douban.com/subject/4684151/) by  William B. Irvine  

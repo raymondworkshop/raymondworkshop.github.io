@@ -16,8 +16,9 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
     - Understand human behaviour  
         + **Understanding perception**    - which you interpret this situation   
             - the perceptual lens that we use shapes the reality of what we see  
+            - perception - a belief or opinion  
 
-        + **Understanding Motivation**
+        + **Understanding Motivation**  
 
     - Understand organization structures, strategy and processes  
     

@@ -28,12 +28,75 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
  
 
+#### 2023-05-02  
+* TODO  
+
+* REVIEW  
+
+    - SELF  
+        + how do u know what you want?    
+            - 太 nice, 没要求  
+
+            - 界限感 / 分寸感  
+                + 为别人付出太多  - 不知道自己要什么  
+
+            - 你情我愿， 没什么道德不道德  
+
+
+        + **对爱的人使出浑身解数，勇往直前**    
+            - 面对爱她，她不爱的人杀伐果断  
+            - 属于你的积极争取，不属于你的果断放弃  
+
+        + **视赚钱为责任** 
+            - **钱是个生产工具**，因为创造事业赚钱便是创造就业机会  
+
+        + 为什么别人说什么我就相信什么  
+            - **宣传是要代替宣传对象去想**，希望对方不加思考而完全接受;
+            教育却是要启发教育者去想，**希望学生经过自己的思考才决定**要不要接受    
+            - 人性的 阴暗面  
+            
+
+        + Critical thinking  
+            - 批判思考 强调 **分辨是非对错** - 判别这些新的概念或理论 是否正确，能否真正解决要处理的问题  
+                + X 是什么意思？   - **搜集正确资讯**的活动  
+                + X 有什么根据？   - **论证/推翻某些结论及解决难题**
+
+            - 大学教育的 一个目标 正是要 **建立自己的原则和理想**  
+                + 社会游戏      
+
+    - love  
+        + how to become closer  
+
+    - insight  
+        + **內卷**文化  
+            - **不患寡而患不均**， 只关注蛋糕怎么切，每个人都希望多得一点  
+
+    - reading  
+
+    - softskills  
+        + 交情 vs 规则  
+
+        + 吸引力法则  
+            - 困乏感  
+            - **找适合我的东西去做好它**，不要什么都去争  
+            - 我的存在就是一个好大的贡献  
+
+    - activities  
+        + driving  
+            - 切线  
+
+        + language  
+
+        + Man United    
+
+
 #### 2023-04-24  
 * TODO  
     - business  
         + work  
 
     - love  
+        + how to become closer  
 
     - self  
         + 锻炼 
