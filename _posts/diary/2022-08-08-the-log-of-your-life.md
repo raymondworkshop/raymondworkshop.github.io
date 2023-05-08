@@ -28,6 +28,74 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
  
 
+#### 2023-05-08  
+* TODO 
+
+* REVIEW  
+    - SELF  
+        + 认真而不加评判地**去感受一个人**， **体会一件事**    
+            - 不用刻意去做， 不必太用力  
+
+        + 认知不会带来财富， 财富要么是**价值的置换**，要么是**风险的担负**    
+            - 识别**价值和风险**    
+
+        + **做回自己最重要**，不要报啥仇  
+
+        + To be free is to **lead one's self**    
+            - most people want the power but can't handle the responsibility that comes with it. 
+            Self destruction becomes inevitable  
+
+            - freedom is not free, **the burden of leadership** and **all it entails is the cost incurred**.  To lead one's self inadequately is to be mired in chaos, and continuous chaos is the default state of failure.  Nothing grows. You just eat yourself.  
+
+            - Woman does not want to be free because she is not equipped to be.  
+            This is why they are as paradoxically obsessed with man as they are with **independence** - because they direly need the former whilst craving the latter.  
+    
+    - love  
+        + act around girlfriend's parents  
+            + **they deserve your respect and admiration**    
+            + **these are the people responsible for giving you the girl**    
+
+            + Make good conversation  
+                - **act like you care about the conversation**    
+                    + **ask lots of questions**, nod politely, and give her paretns your full attention  
+                        - **take the time to elaborate to show that you care**    
+                        - **give them a deeper answer**    
+                - make sure you're genuinely happy to be there  
+
+            + **Be as mature as you can**    
+                - **show that you're mature by talking about your future plans**,talking about your family with respect, avoiding complaining too much  
+
+                - be polite, be graceful and kind during conversation  
+
+            + **Make it clear how much you like their daughter**    
+                - their daughter is really special to you by finding ways to **compliment her and show her affection by talking about her accomplishments or the things you like to do together**   
+
+            + Treat their daughter **with respect**  
+                - **encourage their daughter when she speaks**    
+                - **talk about how accomplished she is** or **how many great qualities** she has  
+                - **be a gentleman and treat her like a lady**     
+
+        + She **takes her mind off her meaningless affairs by minding other people's business**    
+            + so she creates dramas, wants to control your life, **looks for a guy to cure the boredom**   she has in life  
+            + this type of woman must be avoides at all costs  
+
+
+    - softskills  
+        + **micro-expression** are universal  
+            - surprise  
+            - anger  
+            - fear  
+            - disgust  
+            - happiness  
+            - contempt  
+
+            - keep your focus on the face  
+            - listen to your intuition  
+
+
+        + 港人自私，认同钱和个人利益  
+
+
 #### 2023-05-02  
 * TODO  
 
