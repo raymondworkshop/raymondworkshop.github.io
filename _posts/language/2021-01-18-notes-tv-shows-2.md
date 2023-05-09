@@ -59,6 +59,25 @@ be supposed to == to be intended to 被期望
 > Thank you so much.  
 > No worries.  
 
+#### S08E22  
+Well, obviously I won't be able to come.  
+
+I **just want take a moment** and **thank you guys for how great you've been** during this time.  
+
+I know how miserable you are.  **I wish** there was something I could do.  
+
+**I wish I can** take everybody But Chandler's always supported my career. 
+This will be my way of paying you back.  
+
+I think **it's still gonna be a while**.  
+
+I am **actually with her on this one**. (这一次我同意她)
+
+> You've been a little **short** with me lately. (不耐烦)  
+> I'm not trying to **irritate** you.  (惹怒)  
+
+
+
 #### S08E21  
 I am **freaking out**. (心慌)  
 
@@ -527,4 +546,4 @@ Let me get it straight.
 
 
 #### reference
-* [老友记第八季](https://www.tangrenjie.tv/vod/play/id/12311/sid/1/nid/22.html)
+* [老友记第八季](https://www.tangrenjie.tv/vod/play/id/12311/sid/1/nid/23.html)

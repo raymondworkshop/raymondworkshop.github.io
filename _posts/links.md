@@ -26,7 +26,7 @@ date: 2012-03-19
 * [How To Win Friends And Influence People](https://socialskillswisdom.com/)  
 * [The Book of Pook](https://bookofpook.com/)  
 
-* [Lambda the Ultimate - Group blog that tracks innovations in Programming Languages research](http://lambda-the-ultimate.org/)
+* [Lambda the Ultimate - Group blog that tracks innovations in Programming Languages research](http://lambda-the-ultimate.org/)  
 
 * [Great list of books to read](https://catonmat.net/top-100-books-part-one)
 * [新郎](https://www.daocaorenshuwu.com/book/xinlang/)
