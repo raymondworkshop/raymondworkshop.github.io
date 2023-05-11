@@ -30,12 +30,15 @@ date: 2012-03-19
 #### reading-2023  
 * [我做生意的心得]  
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford   
-* [How to Design Programs, 2nd](https://htdp.org/2023-3-6/Book/index.html)  
-* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling    
+* [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb  
+* [Code Complete - A Practical Handbook of Software Construction](https://book.douban.com/subject/1432042/)  
+* [Deep Learning from Scratch](https://book.douban.com/subject/30270959/)  
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
+* [How to Design Programs, 2nd](https://htdp.org/2023-3-6/Book/index.html)  
+
+* [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling    
 * [A Guide to the Good Life](https://book.douban.com/subject/4684151/) by  William B. Irvine  
 * [500 Lines or Less](https://aosabook.org/en/index.html)  
-* [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb  
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 
 * [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  (9/10)  
