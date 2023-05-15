@@ -28,6 +28,95 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
  
 
+#### 2023-05-15  
+* TODO  
+
+* REVIEW  
+    - SELF  
+        + 我是来到**这个世界承受丰盛的生命的**，我要让**希望主宰命运** 而不是妄想的迫害  
+
+        + 有些**身懒**  
+            - **喜欢就去争取**      
+
+        + 自我接纳 - **“存在”本身**就很棒； 相信 “**自己是有价值**”  
+            - **基于你当下认知水平所能做出的最优选择**， 不用纠结是否真的是“最佳”  
+                + **哪怕选择有误，也没关系**， 只要能够从中**吸取经验和教训**，改进自己的认知即可  
+                + 一次选择对整体影响微乎其微，你的命运不是由一次选择所决定的，而是**无数个选择所叠加之后的结果**  
+
+            - **把时间和精力投入到有效的行动和思考中**， 每次遇到困难都想办法克服，每次遭遇你都能从中学习和成长     
+
+            - **提升选择所需的觉知**和**勇气**    
+                + 觉察**自己思维的模式**    
+                + 勇气就是 不逃避痛苦  
+
+
+        + 真正的快乐， 就是 **喜欢就争取**， **得到就珍惜**， **失去就放下**    
+            - **人越自立**，**人生就会更快乐**    
+
+
+        + You **need experience to discern the "truths"** sprouting from books.  
+            - **Experience allows you to decide whether you agree or disagree with an author's "facts"**    
+            - **Doing and gaining experience is how you can better compile the knowledge in books** better  
+            - Experience is important  
+
+
+        + **不要为我们无法决定的事情负责**    
+            - 若那些我们无法成就的事情，其受阻的因素不是来自我们自身，我们就不应为此责怪自己，陷入懊悔与沮丧泥潭  
+
+
+        + **稳定是个幻觉**， 是人为制造的概念， 并不是复杂系统的常态    
+            - **复杂系统更多的时候，是 “三年不开张开张吃三年”**    
+                + **把未来N年需要用的现金屯起来**，不要依赖一个人为制造的“稳定现金流”  
+            - 稳定现金流是个 “伪概念”  
+                + 资产流动性会锁住或变差  
+                + 容易掉入各种“陷阱” - 你惦记固定利息/收入，人家惦记你本金  
+
+        + god
+            - **相信耶稣已经担当了我的罪恶**，才明白耶稣的爱  
+            - **在神面前有没有深刻发现自己的罪恶**，如果发现的越多，被赦免的越多，得到的爱就越多  
+
+
+    - Families  
+        + Love  
+            - She is **supposed to celebrate life with you**, **not use you as a peon**.  Be a man and respect attends to itself.  
+
+
+    - softskills  
+        +  首先知道**自己的利益点**    
+            - 在冲突中学会**降级冲突**， **找到自己的利益点**； **尽量团结别人**，但同时不能无限出让自己的利益  
+            - 不论什么情况，你越平静，对方越平静  
+
+        +  **一定要站在对方立场说话，认同对方认为重要的点**，同时**再摆出自己希望对方做的事情**  
+            - “**我知道什么东西对你非常重要**，**我认为你的意见很对**，**我们可以这么考虑一下**，**如果这样做，也可以保证这个东西也能完成**，而且**还能完成得更好**”  
+            -  每次对话的时候，**重复对方前一句话的最后几个字**，来表示同意  
+            - 当和人合作的时候，双方发表意见，一定要认真倾听，**听出她的利益点在哪里**，**什么对她来说是最重要的**    
+
+        + **Make sure you do so with intention**, **aim to be realistic but optimism**    
+            - "**I'm feeling a little tired** today, but **I'm grateful for how well** we've worked together and that we're set to send the client a proposal **we can all be proud of**."   
+            - "Because of X, I'm feeling X and X. But here's what I'm planning to do next to make it better: X.  And here's what I need from you: X. What do you need from me?"  
+
+            - Avoid oversharing  
+                + "Be curious about your own intentions"  
+                + "How would I feel if my manager said this to me?"  
+
+        + **Acknowledge what people are feeling**    
+            - You can **openly and honestly share ideas, questions, and concerns** without being judged or humiliated  
+                + "**I know a lot is changing, and that can be stressful**. Let me know what I can do to support you"  
+            - **Praise your team openly and often**  
+                + If they're not getting a financial reward, make sure they're getting a psychological award  
+                + Let people know when they're doing good work.  
+
+        + 成功来自于 **远离心术不正**的人  
+            - 小心**别人可能操纵他们的方式**    
+            - 把那些不好的人从你的生活中踢出去  
+            - **试图了解某人的才能**，而不是关注他们是否出身名校    
+
+        + **远离有使命感**的人  
+            - 观念之争，却要**上升到人格高度**，全方位地证明是个坏人  
+            - 在人格上批倒一个人，甚至不惜歪曲自己的认知  
+            - 人与人的感情是复杂的，也是多面的  
+
+
 #### 2023-05-08  
 * TODO 
 
