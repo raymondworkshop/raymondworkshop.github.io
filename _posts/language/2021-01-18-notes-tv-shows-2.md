@@ -59,6 +59,13 @@ be supposed to == to be intended to 被期望
 > Thank you so much.  
 > No worries.  
 
+#### S08E23  
+we've **narrowed it down to** two names (考虑两个)  
+
+Can I just say, I **really admire what you're doing** (佩服你做的)  
+
+That's **never gonna happen with** Ross. 
+
 #### S08E22  
 Well, obviously I won't be able to come.  
 
