@@ -28,6 +28,69 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
  
 
+#### 2023-05-22 
+* TODO  
+
+* REVIEW  
+    - SELF  
+        + GOD  
+            - "My mother and brothers are those who **hear God’s word and put it into practice**."    
+            - "they go on their way they are choked by  **life’s worries, riches and pleasures**, and they do not mature”"
+
+        + 一个小人物的视角，应该**从自身利益出发**看问题， 多关注**自身感受**    
+            - **多关注自身利益**，**不要从所谓国家的视角看问题**    
+            - **牺牲小我完成大我**根深蒂固深入中国人的潜意识里  
+            - 从来都是政府胡作非为给你添乱， “政府不要给你添乱” 才是小人物该有的思维  
+
+            - **关注宏大叙事远甚于关注自身利益的家国情怀**， 惨杂 奉献，团结，牺牲的假故事中  
+                + 喜欢站在模糊的所谓国家的视角来看问题， 而忽略**真实的个体的苦难和感受**    
+
+        + Your **mental and emotional well-being** are worth it    
+            - **Forgive**, **let go**, **and move on**    
+            - Life is too precious to **waste on negativity, drama, and grudges**.  
+            
+
+        + **Talking slowly** and **clearly**    
+            - Gym  
+
+    - Families  
+        + **help your spouse cope with work stress**    
+            - **Listen**, focus on **what your partner is saying**    
+                + **Don't interrupt**    
+                + **Don't offer advice**, sometimes your partner just needs to be heard  
+
+            - **Offer support**, **show engagement** in what your partner is saying  
+                + **Empathize** and **sympathize**  
+                + Say supportive things and **use supportive languages**  
+                + Follow up on the conversation later if you are not mentally ready to deal with your partner's problems  
+
+            - **Play career coach**, **asking good questions** to help your partner identify blind spots  
+                + **Inquiry**  
+                    - "**What makes you think** that's the case?"  
+                + **Offer advice** - but be gentle about it  
+                    - "I have a suggestion on a path forward. **Can I share it**?"  
+
+            - **Reflect**, **notice your partner's attitude**, **mood**, and **patterns**    
+                +  **chronic stress** is a signal that your significant other may "be in the wrong place"  
+                + "**How are things going**?" Are u where you want to be?  **Are you satisfied**?  
+
+            - **Encourage outside** friendships and interests  
+                + **give them the freedom and space to pursue things they enjoy** - such as hobby or a sport  
+                + see a therapist or work with a career coach   
+
+
+    - SOFTSKILLS  
+        + **先要搞清楚Why**, **然后定义清楚what的边界**， **才能具体到how** 的 where, who, when  
+            - 大领导一下子进入具体方案，然后变成了， 大家帮着为这个方案找理由。  果因倒置  
+
+        + **比你层次高的人 鼓励你**， **同一层次的人 欣赏你**  
+            - 比你层次低的人， 注意力外散， 嫉妒心强， 才纠缠你，诋毁你  
+
+        + **acknowledge and encourage how good** it is  
+            - If you want behavior to stop ,  **discourage/ignore/make known it is not acceptable**, while firm and consistent. Eventually, it should stop  
+
+
+
 #### 2023-05-15  
 * TODO  
 
