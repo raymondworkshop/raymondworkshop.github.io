@@ -28,6 +28,49 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
  
 
+#### 2023-05-30  
+* TODO  
+
+* REVIEW  
+    - GOD  
+        + **对耶稣的信心**  
+            - “你不要害怕，因為我与你同在；不要惊慌，因为我是你的神。我必坚固你，我必帮助你；我必用我公义的右手扶持你。”  以赛亚书 41-10  
+
+    - Self  
+        + Successful people rarely work longer hours than the average person.  
+            - The difference is that they've **built themselves into the position of working on tasks that generate more results**  
+            - You can't do this if you are **always working on low-level tasks** that are assigned to you  
+
+        + 人生最大的困难， 就在于自己总给自己设限， 否定自己    
+            - **敢于尝试，敢于折腾的人**， 无论成败， **总能看到不同的风景**，总有新收获  
+
+        + Life is too precious to waste on negativity, drama, and grudges.  **Forgive, let go, and move on**.  
+            - you **mental and emotional well-being** are worth it.  
+
+    - Families  
+
+    - SKILLS    
+        + **对那些并没有把他的最大利益放在心上的人**，鲍勃依然会给予信任  
+
+        + **这项工作重要吗**？ 是的
+            - **这项工作只有我们能做吗**？  不是
+            - **继续做下去对我们来说重要吗**？  不是。 所以我们推出了    
+
+        + 一个社会公共政策， **需要照顾不同阶层的人利益**； 不能简单地要求一部分人“发扬风格”去成全另外一部分人  
+            - 如果政府经常性要求一部分发扬风格， 实际上是破坏了市场经济最基础的产权制度。  而政府本应该做的事保护私人产权，而不是破坏。  
+
+        
+    - Others  
+        + 公积金提取  
+
+        + hiking  
+
+        + driving  
+
+        + man matches  
+
+
+
 #### 2023-05-22 
 * TODO  
 
