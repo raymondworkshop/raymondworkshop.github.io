@@ -7,6 +7,9 @@ categories: [learning, todo]
 abstract: "TODO -  driving"
 ---
 
+##### 2023-09-15  
+* 咨询师傅  
+
 ##### 2023-05-30  
 * 开车 
     - **踩脚掣**，power, 放手掣， 由P波转D波  

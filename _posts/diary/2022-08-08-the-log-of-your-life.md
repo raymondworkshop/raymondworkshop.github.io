@@ -28,6 +28,48 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
  
 
+#### 2023-06-07  
+* TODO  
+
+* REVIEW  
+    - GOD  
+
+    - SELF  
+        + Self-love  
+            - talk a little nicer to yoruself today  
+
+        + 要积极主动  
+            
+
+        + Two traps you need to avoid  
+            - **caring** what they think  
+            - **Thinking** that they care  
+
+        + **不要平庸**      
+            - 不断**思考想要什么**， **优势是什么**， **如何发挥优势得到想要的**，付出努力执行，开辟一条最适合的路  
+            - 平庸 - 大众/主流  
+                + 不愿动脑，不肯用心，不付出心思， 得过且过  
+
+        
+        + 国民普遍的**精神世界和心灵封闭**， 缺少基本的现代文明人的见识   
+            - **农业社会根本不可能富裕**， 也没有盛世  
+            - 底层拼技能， 中层拼管理， **高层拼价值观**  - 会体现在你决策的方方面面  
+
+    - Families    
+        + 爱的关系是 **emotional acceptance**    
+            - 警惕 那个 否认你感觉的人  - emotional invalidation  
+            - 比如 “你太敏感了”  
+    
+    - Skills  
+        + 向上管理  
+
+        + **这项工作重要吗**？  
+            - **这项工作只有我们能做吗**？  
+            - **继续做下去对我们来说重要吗**？  
+
+        + 人与人之间的代沟不是年龄， 而是**思想**    
+
+
 #### 2023-05-30  
 * TODO  
 
