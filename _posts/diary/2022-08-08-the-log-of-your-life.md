@@ -28,6 +28,53 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
  
 
+#### 2023-06-12  
+* TODO 
+
+* REVIEW  
+    - GOD  
+        + 学会了对耶稣的信心  
+            - 减缓了对物质的忧虑， 对福音的自豪感， 以及对众人的责任感  
+
+    - SELF  
+        + 要积极主动   
+            - 想要更自由  
+
+        + **追求慷慨之誉**，必然招致贪婪之名   
+            - **明智之士宁愿承受吝啬之名**， 因为它虽然带来丑名但不引起憎恨
+                + 追求慷慨之誉，必然招致贪婪之名， 而贪婪之名则使丑名与憎恨两者俱来  
+
+            -  当你慷慨而为时，你就失去了使用慷慨的能力，不是**使自己贫穷以至被人轻视**，就是**因为要避免陷于贫穷**而贪得无厌惹人憎恨  
+
+            - 一个君主头一件事就是， 必须提放被人轻视和憎恨， 而慷慨却会给你带来这两者  
+
+    - FAMILIES  
+        + **Think like a king**    
+            - She's loyal to u **based on how much she respects you** not how much she likes you  
+
+        + 平静  
+            - **好了为我骄傲**，**差强人意多加鼓励**；  **凡事努力去做****尽力而为**，**结果顺其自然**  
+
+    - SKILLS  
+        + 批判性思考  - 相信证据  
+            - **相信证据**，**根据证据来支持自己的观点**， 而不是为了反对而反对  
+            **如果不是基于证据**， **而是基于立场**， 将导致一些不必要的争论  
+
+            - 通过**实现你成为记者的梦想**，你将**有机会越过所有政治姿态看问题**    
+
+        + 领导力  
+            - “领导力” 非一人之事，强调的是 **组织里每个人“自我领导力”** 整体价值极大化，包括决策者    
+                + 组织很难只凭英明领导而强大；  只有**上下对“领导”有相对接近的认知**，**同时共力迈向组织目标**，才有机会高效成功  
+
+                + 决策者首先要认知**培育员工素养**的重要性，同时**以身示范所声称的价值观**。  **员工理解而跟随管理者的整体素养**呈现，逐渐形成“组织文化”， 上风下偃，决策者被赞誉为优良领导者  
+
+        + **It's time to make a new decision based on new information**  
+            - more practical, resilient and generous  
+            - this is not flip-flopping or even embarrassin  
+            - Instead of 'I was wrong'  
+           
+
+
 #### 2023-06-07  
 * TODO  
 
