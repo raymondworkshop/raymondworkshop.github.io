@@ -83,7 +83,7 @@ abstract: "a master self-observer"
 
     - SELF  
         + Self-love  
-            - talk a little nicer to yoruself today  
+            - talk a little nicer to yourself today  
 
         + 要积极主动  
             
