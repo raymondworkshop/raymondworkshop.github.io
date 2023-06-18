@@ -10,6 +10,8 @@ date: 2012-03-19
 * Entrepreneurship  
     - [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2022/home)  
 
+    -  [Business Communication](https://www.edx.org/course/business-communication-3)  
+
     - [Building a Lean Startup](https://learning.edx.org/course/course-v1:DavidsonX+JiE+2T2022/home)  
     - [DO Your Venture](https://www.edx.org/course/do-your-venture-entrepreneurship-for-everyone)  
     - [Microeconomics & Business](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2022/home)  
@@ -17,7 +19,6 @@ date: 2012-03-19
 * Leadership Essentials  
     - [Critical Thinking & Problem Solving](https://www.edx.org/course/critical-thinking-problem-solving-3)   
 
-    - [Business Communication](https://www.edx.org/course/business-communication-3)  
 
     - [Teamwork & Collaboration](https://www.edx.org/course/teamwork-collaboration-3)  
 
