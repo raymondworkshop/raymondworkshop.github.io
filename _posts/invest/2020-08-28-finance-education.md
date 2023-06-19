@@ -24,6 +24,7 @@ abstract: "About financial planning and education"
 
 
 * how to choose stocks/bonds  
+    - 读懂上市公司**财报**    
 
 
 * 投資 **對投資人好**的公司  

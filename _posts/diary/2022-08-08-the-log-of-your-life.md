@@ -28,6 +28,56 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
  
 
+#### 2023-06-19  
+* TODO  
+
+* REVIEW  
+    - GOD  
+        + 会让自己平静  
+
+    - SELF  
+        + **Speak for yourself**    
+            - That's your opinion (not mine)  
+
+        + **Self-love is not selfish**.  It's essential  
+
+        + 自由  
+            - 对自己内心的反应 **有观察和觉知**， 然后有一个 **有意识的选择和回应**的时候  
+                + 这就是 **有自主选择的自由**  
+
+        + 自信  
+            - **对自己好一点**，**放下对自己的评判**    
+            - **对自己不设限**    
+                + 可以去试下，**想下也没啥**不可以  
+                + 想到一些可能性，**不要马上说不可能**      
+
+    - FAMILIES  
+        + love  
+
+    - SKILLS  
+        + 注重**创造性**和**情感**    
+            - **想一想何以为人**，尽可能朝那个方向靠拢  
+            - 注重创造性和情感， 把重点放在那些把人和机器区别开来，并且不会被淘汰的东西上  
+
+        + 知道**如何解决问题**， 以及知道**哪些问题要去解决**    
+
+    - meetup  
+        + 办理提取社保基金  
+
+        + 上了四天cpd课程 - 浪费时间  
+
+        + 上了领袖力的课程  
+            - 表达能力  
+
+        + china  
+            - 首先要**愚民**，然后**给他们苦难**， 最后给他们一点点**甜头**和一个虚无缥缈的**精神**寄托  
+
+            - **现实感的缺失**   
+                + **不接地气**，**缺乏现实感**，**对实现目标的客观困难没有清醒认识**的纨绔二代  
+                + **过于迷信意志**的作用，轻视能力的局限  
+                + 不断向下属提自认为合理的要求， **既不给出具体方案**，**也不会为下属提供解决问题所需的资源**    
+
+
 #### 2023-06-12  
 * TODO 
 
