@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes on programing languages"
-date: 2022-04-06 
+date: 2023-04-06 
 update: 2022-01-22  
 comments: true
 categories: [home, programming]
