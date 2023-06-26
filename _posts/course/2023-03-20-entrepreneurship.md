@@ -6,15 +6,15 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 ---
 
 #### People Management  
-* People management  
+* People management - understanding **human behavior** and **organizational context**    
     - Understand and Deliver Policies to your team in a manner that motivates and enhances employee committed to organizatons  
         + you understand your team best like their capabilities and motivation       
 
     - People Management is about developing the long term Managerial and Technical capability of people in organizations  
 
 * Two Facets of people management  
-    - Understand human behaviour  
-        + **Understanding perception**    - which you interpret this situation   
+    - Understand and predict human behaviour  
+        + **Understanding perception**    - which you **interpret this situation**     
             - the perceptual lens that we use shapes the reality of what we see  
             - perception - a belief or opinion  
 

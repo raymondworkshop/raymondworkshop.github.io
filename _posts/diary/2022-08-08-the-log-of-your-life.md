@@ -28,6 +28,100 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
  
 
+#### 2023-06-26  
+* TODO  
+    - programming  
+    - check 社保资金    
+
+* REVIEW  
+    - GOD  
+        + **认识自己和耶稣的关系**  
+            - 舍己 - **与罪恶的自己做属灵的争战**   
+            - **顺从耶稣的话** 过生活  
+                + “What good is it for someone to gain the whole world, and yet lose or forfeit their very self? “ Luke 9-25  
+            - “永生”的问题， 也就没什么恐惧  
+
+    - SELF  
+        + **自我察觉**    
+            - 对**自己内心的反应 有观察，有觉知**， 有一个 **有意识的选择和回应**的时候  
+
+            - 绝对思维  
+
+        + **improve your self-esteem**    
+            - **be kind to yourslef**    
+                + **what makes you happy** and **what you value in life**  
+
+            - **look after yourself**    
+                + **do some physical activity**  
+                + think about **your diet**  
+                + practice **mindfulness** and **meditation**  
+
+            - **build a support network**  
+                + **talk to someone you trust**    
+                **Having someone listen to you** and **show they care** can help   
+
+                + Focus on positive relationships 
+                spend more time with people who make you feel good about yourself  
+
+            -  try to **recognize positives**    
+                + **celebrate your successes**, not matter how small they may seem  
+                + write a list of things you like about yourself  
+
+            - **practice saying no**  
+                + **pause, take a breath and think about how you feel before** agreeing to do sth you don't want to  
+
+            - try to avoid comparing yourself to others  
+                + 对自己好一点， 放下对自己的评判  
+                + 对自己不设限  
+                    - 可以去试下，想一下也没啥不可以  
+                    - 想到一些可能性，不要马上说不可能  
+
+
+    - FAMILIES
+
+    - SKILLS  
+        + **从世界看中国**， 海阔天空  
+            - 摆脱坐井观天的小农世界观  
+
+
+        + 擅长控制复杂度  
+            - 懂得**利用各种方式和技巧将复杂的事物拆分处理**，避免一下子有太多复杂的事同时在脑中  
+
+        + Choose your friends carefully  
+            - ensuring that you both are **mature** and have **enough self-esteem** to build  trust over time  
+                + self-esteem is **how we value and perceive ourselves**, it's based on our opinions and beliefs about ourselves  
+
+            - Then **set expectations at the start** about what you can and can't share  
+
+            - **Be clear in your roles in conversation**, whether you're talking in "work mode" or "friend mode"  
+
+            - Finally, **do your job**, **even if it requires difficult converstions**    
+
+
+        + 情商  
+            - surprise  
+            - Anger  
+                + Anger is a response to a perceived **threat** or **injustice**    
+            - fear  
+            - disgust  - 反感  
+                + a strong feeling of **disapproval and dislike** at a situation, person's behavior, etc  
+                + disgust is a response to sth that is considered **offensive or unclean**  
+                + disgust involves **down-turned lips**      
+            - happiness  
+            - contempt  - 蔑视  
+                + a feeling of **disliking** and having **no respect** for someone or something  
+                + a response to sth or someone that is considered **inferior** or **unworthy**  
+                + inadvertently **pulling one side of the mouth up**    
+
+    - meetup  
+        + meet up with Renee  
+
+        + meetup @CUAEA  
+            - 社交 **自己有些害羞**   
+            - 良好的沟通能力  
+    
+
+
 #### 2023-06-19  
 * TODO  
 
