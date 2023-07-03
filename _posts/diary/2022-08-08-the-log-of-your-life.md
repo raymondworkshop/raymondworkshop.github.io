@@ -28,6 +28,108 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
  
 
+#### 2023-07-03  
+* TODO  
+    - check 中大竞赛  
+
+    - 运动  
+
+* REVIEW  
+    - GOD  
+        + 有荣耀  - 与神同在，得永远生命  
+            - "for whoever is not against you is for u"  
+
+    - SELF  
+        + **You get rewarded for unique knowledge**, **not for effort**    
+            - Effort is required to create unique knowledge  
+
+        + **不断追求各种原始第一手信息**， 是**思维脱贫和物质脱贫**的最有效有力的方式  
+            - **人的愚昧很大程度上是因为缺乏原始第一手的信息**    
+            - 潜意识里被诱导形成各种错误可笑的思维模型  
+
+        + **情绪勒索**    
+            - **渴望他人认同**的人  
+                + **没有自我认同**，只能依靠他人的评价  
+                + 当希望获得别人的认同时，就会为了满足别人而不顾自身感受  
+
+            - 过度负责的人  
+                + **通常为不是自己的问题负责**  
+                一旦有人说“这是你的问题”， 就会自动承担下责任，扛上许多不属于自己的担子  
+
+            - 无法拒绝别人的人  
+                + 过度的同情心，一旦**被提出要求就无法拒绝**；
+                别人展开悲情攻势，就会难以拒绝而揽下事务  
+
+
+
+    - FAMILIES  
+
+    - SKILLS  
+        + Emotional mature  
+            - Emotional immature people are deeply activated by **perceived criticism**.  
+            This is because they feel a lot of **internal shame**  .  
+
+        + How to mature in relationships  
+            - Reframe criticism  
+                + don't take things as a personal attack  
+
+            - **ask a follow up question**    
+                + "**are you asking me to check in more**? would that help u feel more connected"  
+
+            - **Don't use reactivity** to avoid situations  
+                + **Take deep breaths** when you feel uncomfortable.  Tell yourself "I am safe"  
+
+            - Find solutions and connection  
+                + accept they have flaws and seek to **find a middle groud**  
+
+            - learn how to feel uncomfortable    
+
+        + **认同他人 进而拉近关系**    
+            - 先讲对方想听的， 再讲对方听的进去的；
+            再讲你该讲的，最好讲你想讲的  
+
+
+        + 面对无故刁难你的同事  
+            - 喜欢让别人不痛快的，**多半是他们自己过得不快乐**， 这样才心里平衡  
+                + 不用随便开始因为别人的刁难而开始怀疑自己  
+
+            - 恶人总是喜欢挑软柿子捏的  
+                + **认真审视自己在公司，部门和团队中的定位和表现**，找出自己被人误认为“弱”的根本原因  
+                    - 是**说话不自信**，不该谦虚的时候偏偏谦虚  
+                    - 应该出头主持时候放弃  
+                    - 没有学会在同事和老板面前**对自己做出的成绩找到庆祝的理由**    
+                    - 业务能力弱，还是业务上出错因此影响了进度  
+
+                + **要把自己的不满在理性的分析后主动和对手提出**    
+                    - **明确地反对同事的刁难**，也希望同事可以用积极正面的方式
+                    **敢于把他的阴暗在大家面前抖露出来**    
+
+            - Never give up   
+                + **认真分析清楚自己岗位的重要性和你在这个位置上的可取代性**  
+                    - **积极进取**，让领导能够真正“看”到你  
+                    - 让刁难你的同事知道： 你很感激让你意识到自己的上进空间  
+
+
+        + 在匮乏模式中， “**特权+失权**”的格局  
+            - 在匮乏模式下的文化氛围中，人与人之间平等交流是被拒斥的，维系和平的，是对**等级制度**的遵循。在人与人之间的交流沟通中，寻求的不是“平等”， 而是“**有序**”  
+
+        + 海权文明的价值观  
+            - **做大蛋糕，开辟新天地，解决冲突**， 要求： **个体， 自由， 勇敢**    
+            - 暴力垄断，实行海禁的陆权文明， 求生存需要： 集体，安全， 忧患  
+    
+    - meetup  
+        + meet with Renee  
+            - 买了营养餐  
+
+            - **不断适合的过程**    
+            - 演讲 - 对话  
+
+        + cashflow board game  
+            - small talk  
+            - 非工资收入 > 总支出  
+                + **cashflow**    
+
+
 #### 2023-06-26  
 * TODO  
     - programming  
