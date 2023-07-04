@@ -59,6 +59,18 @@ be supposed to == to be intended to 被期望
 > Thank you so much.  
 > No worries.  
 
+#### S09E03  
+I'm sorry, **are u just used to saying** that?    
+**I can'b be away from u** for that long.  
+
+Rich, **I promise, first thing tomorrow, we'll find** another doctor.  
+But I gotta get up early, and I'm not feeling well.  
+
+I **got hold up** (耽搁) at Dr. Cattlem's oofice  
+
+This is just something I have to do
+
+
 #### S08E23  
 we've **narrowed it down to** two names (考虑两个)  
 
@@ -553,4 +565,4 @@ Let me get it straight.
 
 
 #### reference
-* [老友记第八季](https://www.tangrenjie.tv/vod/play/id/12310/sid/1/nid/1.html)
+* [老友记第九季](https://www.tangrenjie.tv/vod/play/id/12310/sid/1/nid/1.html)

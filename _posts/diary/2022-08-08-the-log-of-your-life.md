@@ -34,6 +34,8 @@ abstract: "a master self-observer"
 
     - 运动  
 
+    - work  
+
 * REVIEW  
     - GOD  
         + 有荣耀  - 与神同在，得永远生命  
@@ -60,9 +62,8 @@ abstract: "a master self-observer"
                 + 过度的同情心，一旦**被提出要求就无法拒绝**；
                 别人展开悲情攻势，就会难以拒绝而揽下事务  
 
-
-
     - FAMILIES  
+        + Love  
 
     - SKILLS  
         + Emotional mature  
