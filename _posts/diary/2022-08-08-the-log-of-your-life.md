@@ -28,6 +28,193 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
  
 
+#### 2023-07-24  
+* TODO 
+
+* REVIEW  
+    - GOD  
+
+    - SELF  
+        + 情商  
+            - **管理自我情绪**以及**管理他人情绪**的能力  
+
+        + 如何同上司打交道  
+            - 能上去的都比较奸诈  
+
+        + 不做烂好人  
+            - **保持有分寸的善良**    
+
+            - 对自己诚实 及 有承诺  
+                + 绝对100%完成  
+
+        + Sophisticated and confident enough to **stand on their own**  
+            - or eager to please or easy to shame  
+                
+            - manipulative  
+                + extremely **self-serving** and manipulative reputation  
+
+                + find one who is eager to please or easy to shame  
+                    - make you feel bad about yourself, and put you down when talking with others    
+
+                + be willing to risk small public confrontations  
+                    - "you looked like you disagreed strongly with what we just heard. was there sth you wanted to add? Did u wanna counter either the conclusion or any of the specifics, or are u comfortable with the report?"
+
+
+        + **无论在谁面前，只要你不欠他的，就没必要唯唯诺诺**  
+            - 你的软弱会让对方更加看不上你； 心软和不好意思，只会杀死自己； 理性的薄情和无情才是生存利器 - 毛姆 
+
+        + **The energy you use to hate on others is what makes you a loser**    
+            - you could have been **using that energy to win**    
+
+
+    - FAMILIES  
+
+    - Skills  
+        + 无限游戏  
+            - **开放系统，无限游戏里**，**战略布局上保持一定模糊**，是一种艺术，也是**最大化自身选择的必要**    
+                + 无限游戏里**追求精确的容错率太低**， 而且性价比低  
+
+                + 以工程师思维，**想寻求对方精准的承诺**，甚至一厢情愿的为了获得对方精准承诺，而过早做出不必要的让步  
+                    - 精确和优化到了极致，就异化为教条  
+
+        + 职业发展最重要的事情之一， 就是 **不断追求更好的工作环境**  
+            - 在不好的环境里， 和一群平庸的人为伍，会极大限制个人发展  
+
+        + 安全感  
+            - 同善良的人交往，不是图他可以好到什么地方，而是**他不会坏到什么地方**；   
+            人与人交往首先需要安全感，然后才是成就感和愉悦感。
+
+        + **结合自己的经历， 价值观 来衡量**  社会事件  
+        
+        + 人的双面性 - 一半天使，一半魔鬼  
+            - 道德 是 **利己和损人** 的界限  
+
+            - **文明人的道德伦理是共同的**  
+                + 善，恶基本是一样的 
+                + 从野蛮走向文明基本追求一样的  
+
+            - 第一层 - 人 - 道德  
+                + 第二层 - 文化 - 生活方式，语言，习俗  
+                + 用文化的问题 **掩盖 制度的问题**  
+                + 用道德的问题 **掩盖 制度的问题**  
+
+            - 重家事，轻个人奋斗  
+            
+            - 洛克  - 自然人  
+
+            - 中国经典著作
+                + 没有做到的
+
+        + china  
+            - 工业水平问题 与政治体制紧密相连。  国营企业掌握最大的资源，但国营企业不做官，你就没地位。做技术的只要出点名，也会变成官。 民营企业今天不知道明天，**不可能以技术为先导，而是以销售为先导**，最好的人都**干销售，市场**。   
+
+            - 中国是个专制国家，它的原则是**恐怖**。 恐怖的目的是 **沉默**。 
+            再专制国家里人的命运和牲畜一样， 就是**本能，服从和惩罚**。  
+                + 国富而贫治：  千万**不能让百姓有钱**  
+                + 民愚而易制：  千万**不能开启民智**
+
+    - meetup  
+        + amway 直销
+            - 主动  
+            - 经营系统  
+            - 表现出 不太在乎   
+
+        + 邀约  
+            - 邀约是**要热情**  
+                + 源于**深刻自用感受**    
+                + 有信念，珍惜同样价值的人，传染别人  
+                + 要有技巧，沒技巧要有**感情**    
+
+            - 邀约是要面皮  
+                + 面皮 = 钱  
+
+            - 自我对话  
+                + 被人拒绝好伤心， 别人拒绝无感觉， 选人被我捡 = hr  
+            
+            - 做生意是要想办法  
+
+
+#### 2023-07-10  
+* TODO  
+ 
+
+* REVIEW  
+    - GOD  
+
+    - SELF  
+        + 主动积极  
+
+        + **财富是对认知的补偿**，**而不是对勤奋的奖赏**    
+            - 整天工作的人， 是发不了财的  
+
+        + 鄙视“**庸俗**”  
+            - 思想水平， 审美情趣  
+            - 进而**崇拜伟大** -> "慕强"  
+                + 不喜欢点滴的功利性改进，喜欢**宏伟**的东西  
+
+            - **泛道德化**，甚至泛宗教化；  崇尚精神，贬低物质； 崇尚情感，鄙视理性  
+                + 反感西方的理性主义，更相信心灵而不相信理性  
+
+            - 虚无感  
+                + “伟大”和“道德”很难兼容， 对道德的极度关注变成了 道德的虚无感  
+
+            - 一个社会能够健康运转，往往不取决与它的伟大深刻之物是什么，而是它的**庸俗浅薄之物是什么**    
+
+        + money <-> **trade**  
+            - **money creates a tension** between individualistic and interpersonal motives  
+            - with money, we become **more likely to prioritize our feeligns, desires, and goals** over getting along with and helping others  
+
+
+
+    - FAMILIES  
+        + **a woman is a responsibility**, not a privilege  
+            - the fruits of your hard work are a **privilege**, it's her privilege to share in them and your hornor to provide them - assuming she's worthy  
+
+        + **Humor** is always good  
+            - always be **lighspirited, warm, and humorous**    
+            - but when she is talking to u seriously, **always listen** and **understand how she feels**    
+
+    - SKILLS  
+        + Use the model in any venture that you want to succeed with  
+            - **know your why**   
+            - create **intention** - sth that you want and plan to do  
+            - have a **plan**  
+
+
+        + Manage up  
+            - TODO  
+
+        + 把需求产品好， **把产品商业化**    
+
+
+
+        + listening  
+            - **asking questions and listening** could be more effective  
+                + **attentive and non-judgmental listening** seems to make an employee more relaxed, more self-aware  
+
+        + CHINA  
+            - 文明人的边界意识是 能清晰的判别和区分， **精准的用， 你，我来陈述**，很少用我们；**用了我们，必然基于一个共识**    
+                + 中国人的边界意识的核心 是**侵略性**，以将别人的利益划归自我  
+
+            - 循环的怪圈  
+                + **法家的性恶论**  - 儒表法里  
+                    - 疑人之心与**防人之法**  
+
+                + 法家的 “性恶论”  -> 极端专制  
+                    - 捍卫神授皇权  
+                    - 法家的“权力制衡”是皇权本位的， 置天下于一家而不允许他人染指  
+
+                + 近代西方的 “权力制衡”是 民权本位的， 为了防止独夫们垄断公共领域  
+                    - 捍卫天赋人权  
+
+        + 不要同价值观不同的人辩论/吵架  
+            - 只输出观点，把时间浪费在上面没意义  
+
+
+    - meetup  
+
+
+
 #### 2023-07-03  
 * TODO  
     - check 中大竞赛  
