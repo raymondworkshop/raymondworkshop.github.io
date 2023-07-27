@@ -7,12 +7,11 @@ date: 2012-03-19
 * [theoutline](https://theoutline.com/)  
 * [acmqueue](https://queue.acm.org/)  
  
-* [Vedio lectures](http://videolectures.net/)
+* [Video lectures](http://videolectures.net/)
 * [GRANTS in USA ](https://www.grants.gov/web/grants/search-grants.html)
     - especailly in small business
 * [NASA](https://www.nasa.gov/)
-* [Dollar Street](https://www.gapminder.org/) 
-* [uses this](https://usesthis.com/interviews/tracy.chou/)
+
 * [thewirechina](https://www.thewirechina.com/)
 
 #### insightful  
@@ -36,6 +35,8 @@ date: 2012-03-19
 
 #### CHECK  
 * **[Naval](https://nav.al/)**  
+* [uses this](https://usesthis.com/interviews/tracy.chou/)  
+
 * **[Tom Preston-Werner ](https://tom.preston-werner.com/)**  
 
 * **[Joel On Software](https://www.joelonsoftware.com/)**
