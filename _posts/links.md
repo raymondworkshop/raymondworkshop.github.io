@@ -103,8 +103,7 @@ date: 2012-03-19
 * [云风的BLOG](http://blog.codingnow.com/)
 
 
-#### funs
-* [土摩托日记](http://www.immusoul.com/)
+#### funs  
 * [余英时](https://www.aisixiang.com/data/search.php?keyWords=%D3%E0%D3%A2%CA%B1&searchfield=author)  
 * [刘瑜](http://www.aisixiang.com/thinktank/liuyu.html)
 * [资中筠](http://www.aisixiang.com/thinktank/zizhongyun.html)
