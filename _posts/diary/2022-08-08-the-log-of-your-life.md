@@ -24,9 +24,115 @@ abstract: "a master self-observer"
     - try to keep the process simple enough that you will not be discouraged from using it  
 
 
+*  a structured reflection of recent past events and decisions, and mental rehearsal for future ones  
+
 *  this allows you to look back and see how things turned out  
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
- 
+
+
+#### 2023-07-31  
+* TODO  
+    - 完成CU的工作， 踏上新的征程    
+
+* REVIEW  
+    - GOD  
+        +  **Love your neighbor as yourself** - 路加福音 10-27  
+            - **愿意怜悯别人的**，你就是他的邻舍  
+            - Love the lord your God with all your heart and with all your soul and with all your strength and with all your mind  
+
+        + **恢复与主建立爱的关系**  
+            - 被撒旦的罪恶： 情欲，贪婪，恐惧，忧虑 所伤的灵魂，才知道耶稣的怜悯，对我的爱通过十字架彰显出来  
+
+        + 回到圣经 - **通过这段经文 想同我讲什么**    
+
+    - SELF  
+        + 存在主义哲学特别**强调选择**，它认为**存在先于本质**，而不是本质先于存在 
+            - 人并没有什么先赋的本质，他**通过自己在生活中的一次次选择**，**塑造了自己的生命**，**自己的本质**  
+
+        + 战胜恐惧最好的办法是 **面对它**    
+            - **不敢面对**， 害怕和逃避  
+                + **当我们尝试这些挑战时**，自尊就会提升  
+
+            - **面对真实的自我**  - 恢复与主的爱的关系  
+                + 认识触发事件的因素 - **内心的批评声隐藏了真实的自我**  
+                + 识别外部的消极批评 - 过于倾听外部的声音， 进而自我否定  
+                +  **用行动来检验自己消极想法是错误的** - 行动计划 - 勇气  
+
+            - **与值得信任的，关心我们的朋友** **开城谈谈这些信念和想法**，以重获对自己真实的评价  
+
+
+        + 对**真实世界的观察能力**，**逻辑思考能力** 和 **对照常识的验证能力**      
+
+        + 应该**多关注目标**， 而不应该关注自己的各种不好  
+            - **主动意味着人格成熟**， 也意味着生命力旺盛  
+
+        + 真正的财务自由，**应先让心灵自由**，然后**从现实出发，反推实现自由的条件**，再以非任性的克制去贯彻这种“自由”  
+            - 人们往往把任性叫做自由，而任性只是非理性的自由  
+
+
+    - FAMILY  
+
+
+    - BUSINESS  
+        + Selling is **to work in collaboration with** a client or colleague **to drive change** 
+            + Selling is **persuading, inspiring, and leading**    
+            + Seller is just a person who'd **taken a genuine interest in your problem** and **is helping you solve it**    
+
+        + 成功的销售者 一般都 **具有较强的 同理心**，**察言观色并迅速调节反应的能力**  
+
+        + 员工需要**帮上级分忧**，不论上级是不是老板  
+            - 对上级的态度应该是 **尽心尽力**，不能是掏心掏肺  
+                + 全身心**为上级考虑**，**帮上级解决问题**，但不会100%信任  
+                + 掏心掏肺 是指 完全信任上级， 对上级没有任何防备  
+
+            - 对上级**有条件付出**，即**大部分情况下好好完成工作**，不可以对上级无条件付出  
+                + **让上级明白，千里马想要吃高级草料是正常的，是合理诉求**，而且值这个价  
+                    - **在适当的场合提条件，适度的向上级表达自己的需求**，要对上级提出自己的需求，渴望，目标，想法  
+                    -  不要默默接受，这样长期你会变成最容易被人忽视的人  
+
+            - **良好的支持自己的工作**，就是属于自己的工作  
+                + 如果对工作的理解永远是对事，而不对人，不太可能获得事业长久  
+                + 而不仅仅是把属于自己的工作做好  
+
+            - 工作晋升 是**看你辅佐上司的情况效果如何**， 而不是看你做成了多少事情  
+
+            - 在企业工作，客观规则就是  **Up or Out**  
+
+        + 商业的本质就是**让人性得到释放**    
+            - 必须专注用户的**高频的刚需** 和 **巨大的痛点**    
+          
+
+    - SKILLS  
+        + Manipulation is when they **repeatedly trigger your mental health and nervous system**, then focus on your reaction when you address their toxic behavior, instead of their disrespect  
+            - especially when they know their actions will trigger you, then they still go ahead & do it, and then complain about your reaction  
+
+
+        + 不管思考什么事，最重要的是 **在一开始就想明白要搭建出怎样的框架**    
+            - 一旦有了框架，接下来只要填满就行  
+
+        + 大清挨打不在“弱”， 而在**拒绝市场逻辑**，**死抱强盗逻辑**  
+            - 中国学理的 源头 是 **打动君王**  
+                + 最重要的是 **站在君王的角度**， **替他的利益打算**  
+
+            - 西方学理的 源头 是 **逻辑和常识**        
+
+        + 中国之人， **下愚而上诈**    
+            - **少数人的无耻**和**多数人的无知**  
+                + 千万不要低估官员的腐败程度， 千万不要低估老百姓的愚昧程度  
+
+            - **上层越来越奸诈**，**下层越来越郁闷**，**自然离文明越来越远**    
+                + 上面的人不让你说，下面的人不听你说  
+
+        + 易中天把国人常有的逻辑问题，大致分三类  
+            - 奴以立场定是非，人以是非定立场  
+                + 问**态度**，不问事实  
+                + 问**动机**，不问是非  
+                + 问**亲疏**，不问道理  
+
+
+    - MEETUP  
+
+
 
 #### 2023-07-24  
 * TODO 
@@ -106,10 +212,9 @@ abstract: "a master self-observer"
                 + 没有做到的
 
         + china  
-            - 工业水平问题 与政治体制紧密相连。  国营企业掌握最大的资源，但国营企业不做官，你就没地位。做技术的只要出点名，也会变成官。 民营企业今天不知道明天，**不可能以技术为先导，而是以销售为先导**，最好的人都**干销售，市场**。   
+            - 工业水平问题 与政治体制紧密相连。  国营企业掌握最大的资源，但国营企业不做官，你就没地位。做技术的只要出点名，也会变成官。 民营企业今天不知道明天，**不可能以技术为先导，而是以销售为先导**，最好的人都**干销售，市场**  
 
-            - 中国是个专制国家，它的原则是**恐怖**。 恐怖的目的是 **沉默**。 
-            再专制国家里人的命运和牲畜一样， 就是**本能，服从和惩罚**。  
+            - 中国是个专制国家，它的原则是**恐怖**。 恐怖的目的是 **沉默**。 在专制国家里人的命运和牲畜一样， 就是**本能，服从和惩罚**  
                 + 国富而贫治：  千万**不能让百姓有钱**  
                 + 民愚而易制：  千万**不能开启民智**
 
