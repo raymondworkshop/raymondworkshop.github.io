@@ -32,7 +32,8 @@ abstract: "a master self-observer"
 
 #### 2023-07-31  
 * TODO  
-    - 完成CU的工作， 踏上新的征程    
+    - 完成CUHK的工作， 踏上新的征程    
+        + 最大的收获 是更了解自己，也更自信  
 
 * REVIEW  
     - GOD  
