@@ -10,10 +10,14 @@ date: 2012-03-19
 * Entrepreneurship  
     - [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2022/home)  
 
-    -  [Business Communication](https://www.edx.org/course/business-communication-3)  
+    - [Empathy and Emotional Intelligence at Work](https://www.edx.org/course/empathy-and-emotional-intelligence-at-work)  
+
+    - [Business Communication](https://www.edx.org/course/business-communication-3)  
 
     - [Building a Lean Startup](https://learning.edx.org/course/course-v1:DavidsonX+JiE+2T2022/home)  
+
     - [DO Your Venture](https://www.edx.org/course/do-your-venture-entrepreneurship-for-everyone)  
+
     - [Microeconomics & Business](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2022/home)  
 
 * Leadership Essentials  
@@ -30,6 +34,7 @@ date: 2012-03-19
 
 #### reading-2023  
 * [我做生意的心得]  
+* [We Need to Talk: How to Have Conversations That Matter]  
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford   
 * [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb  
 * [Code Complete - A Practical Handbook of Software Construction](https://book.douban.com/subject/1432042/)  
