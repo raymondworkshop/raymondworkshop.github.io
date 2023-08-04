@@ -5,6 +5,9 @@ tags: [learning, business, startup, important]
 abstract: "Improve my mindset and knowledge on Entrepreneur"
 ---
 
+#### Building Peer Networks  
+TODO  
+
 #### People Management  
 * People management - understanding **human behavior** and **organizational context**    
     - Understand and Deliver Policies to your team in a manner that motivates and enhances employee committed to organizatons  
