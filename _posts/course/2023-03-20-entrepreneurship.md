@@ -5,6 +5,9 @@ tags: [learning, business, startup, important]
 abstract: "Improve my mindset and knowledge on Entrepreneur"
 ---
 
+#### Getting Work Done Through Others  
+TODO  
+
 #### Building Peer Networks  
 TODO  
 

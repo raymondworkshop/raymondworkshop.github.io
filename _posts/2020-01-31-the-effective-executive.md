@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Effective Executive"
+title: "Summary about <The Effective Executive>"
 date: 2020-12-31
 comments: true
 categories: [home, softskills, important]
