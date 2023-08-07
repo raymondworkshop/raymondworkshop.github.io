@@ -29,6 +29,84 @@ abstract: "a master self-observer"
 *  this allows you to look back and see how things turned out  
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
 
+#### 2023-08-07  
+* TODO 
+
+* REVIEW  
+    - GOD  
+
+    - SELF  
+        + 人际关系方面， **大都讲利益，少讲道理**     
+            - **过分追求理想，客观，中立**，**很容易陷入孤立无援的困境**    
+
+        + 概率， 而非因果  
+            - 历史上 **每一步 都是 努力和选择**的结果  
+                + 价值是普世的，但是 历史不是单一的  
+                + 一旦有了**选择**， 情况就不一样了  
+
+            - **人文世界的 因果关系** 不是物理世界的因果关系  
+                + 人文世界是**概率关系**， 因为A, **很可能**会是B  
+
+            - **客观规律 是一种过时的观念** - 并不是必然  
+                + 任何个人/民族的历史， 都是**有个体性的**，别人是无法复制的  
+                + 启蒙运动以来， 多次显示 **对未来的预测能力 似乎没有提高**    
+                    - 科学乐观主义  
+                    - **概率分析**  
+                + **决定论** -> 宿命论  
+                    - 相信历史是决定的  
+                    - 相信文化是决定的    
+
+
+            - **历史的过程 是不确定的** - 不能作为因果链  
+                + 一个因果环节都预言不了， 那十几个环节可以预言？  
+                + **稍微高维的 基本上都是 随机漫游**；  为愚蠢开拓  
+
+            - 虽然长时间的历史 是不确定的， 但**我们努力是有方向的**  
+                + 有一种价值 值得我们去努力：  **普世价值** - **文明**而非野蛮  
+                + 谋事在人，成事在天  
+
+            
+    - FAMILIES  
+        + Love  
+            - **Listen to her** and **add in your thougths** (don't try to fix her problem, **understand them**)  
+                + **when a trait or feeling comes up** that you agree with, **tell her**    
+
+                + she will feel a "connection" with you and her interest will rise  
+
+
+    - BUSINESS  
+        + 偏门发财， 发财立品  
+
+        + Your communication style, executive presence, or relationships could be holding back your career.  
+
+    - Skills  
+       
+        + 上学就是 **学习方法**， 学会**人际交往**， 学会**对事物的基本判断**    
+
+        + 先赞同， 后表达自己  
+            - **先说对方想听的** （我最初也这么想的）
+                + 这个问题很重要 或这个观点很有道理， 稍微重复对方观点  
+            - **然后再讲自己想讲的** （现在觉得这么想会有问题，问题是）  
+                + 讲自己的观点  
+        
+        + 有什么期望，**提前说清楚期待**    
+            - 感受的整理  
+            - **保持好奇心**  
+                + 了解对方  
+                + 尊重别人的观点  
+
+        + **acknowledging negative emotions**, people feel that you care more, and there are more willing to trust u   
+            - "Hey, you seem upset"  
+            - "**how are u feeling** right now?"  
+                + it may also be less effective in **competitive setting**, where people might question the intent of the acknowledger  
+
+            - **emotions** are fundamental to our identities and inner experiences  
+
+        + China  
+            - 北京大学袁刚教授："社会主义体制说穿了，就是**由国家充当总地主和总资本家**，以养活几千万干部，建立起一个等级森严的特权社会，产生了一个鱼肉百姓、高高在上的干部阶级，普通百姓则仍然处于被奴役统治、被残酷剥削的社会地位"  
+
+    - meetup  
+
 
 #### 2023-07-31  
 * TODO  
