@@ -8,10 +8,10 @@ categories: [home, programming]
 abstract: "[Updating] Notes on programing languages"
 ---
 
-#### Interpreters on 2022   
+#### Interpreters on 2023   
 program  - parse -> abstract-syntax-tree - eval -> result  
 
-For example, [sspy.py](https://github.com/muyun/dev.wic/blob/master/sspy.py) - a tiny scheme interpreter with python - shows the details.  
+[sspy.py](https://github.com/muyun/dev.wic/blob/master/sspy.py) - a tiny scheme interpreter with python - shows the details.  
 
 
 #### Python Data Model -> A Framework/API for core language constructs

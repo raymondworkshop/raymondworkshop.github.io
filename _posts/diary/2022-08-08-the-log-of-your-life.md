@@ -29,6 +29,7 @@ abstract: "a master self-observer"
 *  this allows you to look back and see how things turned out  
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
 
+
 #### 2023-08-07  
 * TODO 
 
