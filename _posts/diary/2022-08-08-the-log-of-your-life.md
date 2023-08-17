@@ -30,6 +30,111 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
 
 
+#### 2023-08-14  
+* TODO  
+
+* REVIEW  
+    - GOD  
+        + Two kinds of fools - those who take religion literally, and those who think it has no value  
+
+        + "神的儿女"  
+            - 祷告 
+                + “我们日用的饮食”  
+                + “**赦免我们的罪**，因为我们也赦免凡亏欠我们的人。不叫我们遇见试探；救我们脱离凶恶” 
+                    + 宽恕我们属灵的罪  
+                + “情词迫切地直求”  
+                    + “shameless audacity”  
+
+    - SELF  
+        + 当**讨好型人格的人开始慢慢学着设立边界**时，最难过的不是失去朋友，而是认识到有些人从来都不是自己的朋友   
+
+        + **交真朋友**很简单 - **对喜欢你的人好**    
+            - 总会有人喜欢你，也总会有人讨厌你  
+            - 人以类聚； 你只需要对他们好就可以了  
+            - 真朋友都会尊重你的决定，体贴你的考量  
+
+        + 商业是**互惠**  
+            - 无商不奸 - **权力垄断下的逐利**    
+            - 没有竞争  
+
+        + **勤快** - 帮别人  
+
+        + Train your mindset to **never become distracted by those who wanna make you angry** about the things that you cannot control  
+
+        + 成长型思维 - 和自己比 
+
+    - FAMILIES  
+
+    - BUSINESS  
+        + **创业者是需求驱动**，打工者是任务驱动  
+            - 创业者在无限环境中解决问题，打工者在有限环境中解决问题  
+
+        + **外圆**内方  
+            - 商业 - 识计数  
+            - 朴实  - 对真实不要要求那么高    
+
+        + 说话做事**有目的性**  
+            - 说话都是为了**满足对方的精神需求**，**达到自己的目的**  
+                + **支持，顺应**对方的观点  
+            - 听别人说话不会只听表面，而是会考虑他为什么会这么说    
+
+        + Leaders  
+            - **Confident in themselves**, **connected to others**, **committed to purpose**, and **emotionally courageous**    
+                + Benevolence  
+                    - they **believe you care about their interests**, and **have the motivation** to go beyond your self-needs to cater to the needs  
+                    - Identify **similarities**    
+                        + people will be more open to your ideas if **they feel your values overlap with theirs**  
+                        + when sb shares a thing or two about their life, try to **relate to them in some way by sharing sth from your own**  
+                        + when talk about your ideas, **link them to your values**  
+
+                    - show kindness and compassion  
+                        + ask how your teammates **how they are feeling** and **be genuinely interested**  
+
+                    - show restraint  
+                        + manage **personal and professional boundaries**  
+
+                + Communication style  
+                    - **Down-to-earth storytelling**, **drawing on memorable results**, is vastly more powerful than a cerebral, academic style  
+                    - improve your accent  
+
+                + Competence  
+                    - Be predictable and dependable  
+                        + remove mysteriousness **around your actions by explaining your motives, values, and criterion**  
+                        + "**Here is what I think we should do**. **Let us focus on** doing X. **The reason why I am suggesting this is because I have considered the following facts**: A, B, and C. **Here are my assumptions and rationale for why these facts have led me to pick** X over other options. **I am open to feedback** and **would love you to weigh in on the best path forward**"       
+
+                    - **Be thoughtful about what you promise**  
+                        + **offer actionable ways** where you like their ideas  
+                        + **avoid over-promising** and under-delivering  
+
+                    - be organized and planful  
+                        + do your homework and study the agenda  
+                        + **show up with a list of questions, research, or solutions that maybe of interest** to the stakeholders  
+
+                + **Integrity** - how you adhere to strong moral principles and how honest you are  
+                    - listen to and considering your teammate's **perspectives** 
+                    - do better than what is expected of you, and help others achieve excellence  
+
+    - SKILLS  
+        + 这里的人**友善**，也尊重我  
+
+        + 中国社会是 **权责不对等**    
+            - **权力万能**， 权力支配一切  
+                + 投入对政治冒险，政治投机，权力经营  
+                + **权力支配一切**，特别支配经济利益是古代中国制度腐败的基础  
+
+            - **普通人没有权利，但要承担责任**；  **掌握权力的，丝毫不受规则约束**    
+                + 很多普通人受到损害，第一想法却是  “**我做错了什么**？” ； 甚至集体开始反思 “中国人有哪些毛病”  - 反向种族主义，导致很多人不能站在个人具体的位置上伸张权利  
+            - 中国人的 **精英意识**    
+
+        +  蒙味主义 
+            - **操控我们的情感**，煽动我们的情绪，同时**削弱我们的理性思考**，然后**用暴力来引导我们的行为**，来为“洗脑者”服务  
+            - **个人丧失了个体性**，**丧失了个人的尊严**，同时**丧失了个人怎么能够决定自己的命运**，同时**参与决定国家和历史命运的能力**    
+            - 启蒙运动 - 人不断地追求个人解放，追求理性来认识这个世界，能够控制我们的行为  
+
+
+    - MEETUP  
+
+
 #### 2023-08-07  
 * TODO 
 
