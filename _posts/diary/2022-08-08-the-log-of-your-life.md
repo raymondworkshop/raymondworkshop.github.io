@@ -30,6 +30,142 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
 
 
+#### 2023-08-30  
+* TODO  
+
+* REVIEW  
+    - GOD  
+        + ”神的儿女”    
+            - “愿你的旨意行在地上”    
+
+        + 祷告  
+            - “我们日用的饮食”  
+            - “**赦免我们的罪**，因为**我们也赦免凡亏欠我们的人**。 不叫我们遇见试探；救我们脱离凶恶”  
+                + 宽恕我们属灵的罪  
+
+            - ”情词迫切地直求“  
+                + ”shameless audacity“  
+
+        + "尚且知道拿好东西给儿女；何况天父，岂不更将圣灵给求他的人吗？"   
+
+    - SELF  
+        + **外圆内方**  
+            - 商业 - **识计数**  
+            - **对真实不要要求那么高**  
+                + 老实  
+
+        + 如何建立自我边界  
+            - 一定要**明确自己的底线**和**他人的出发点**  
+
+        + 幸福的秘诀是**自由**，自由的秘诀是勇敢，勇敢的秘诀是爱    
+            - 勇敢是一个人**觉得自己充足，安全**  
+            - **自由是有信心做自己，不做害羞的事，不计算别人的恶**。 而这些心态都是只能在爱里长出来的花朵  
+            - 爱才带来自由
+                + 不爱你的人会限制你表达自己，害怕你成为自己  
+            - **不以自己为耻**，敢大方表达自己的情感  
+            - **不以自己为卑**，敢自信地完成自己的计划  
+
+        + 做人最紧要开心    
+            - **不要害怕做錯什么**，**即使错了**，**也不必懊恼**，**人生就是对对错错，可况有许多事**，回头看，**对错已经无所谓了**  
+            - **永远不要埋怨已发生的事**，**你强大就去改变它**； **弱小就去接受它**。 它让你烦躁和郁闷只是你的无能   
+            - **所谓的大人物也是人而已**，不要自卑，**你又不欠他钱**  
+
+        + 如果一个思想能带来**幸福**，那它应该是发于**善念**  
+            - 所有思想都是存疑的，理想的人**不会过于坚信自己是正确的**  
+            - 马克思接着要给无产阶级带来幸福，可他的思想却给资产阶级带来不幸；
+            因为这种**仇恨**因素，他的思想是灾祸    
+
+        + **勤快** - **主动帮被人**    
+
+        + **理解**，**认同**， **顺应别人的观点**  
+
+        + **在生活世界做自己的主人**  
+            - **不做概念和短语的奴隶**  
+            - Archibald MacLeish的话：“我们不是生活在观念世界：无论是好是坏，我们生活在生活世界。”  
+
+        + **远离情色**  
+            - 很消耗人  
+            - 远离报复 - 原谅  
+
+
+    - FAMILIES  
+        + 爸妈真的好辛苦， 压力好大  
+            - 我要好好努力  
+
+        + **针对性扩大相应阅读和体验**，让她亲自接触，看，理解到更广的事实，自然产生对抗性信息免疫   
+            - “我们来看看维基百科是怎么说的？”  
+
+    - BUSINESS  
+        + 商业是 **互惠**  
+            - 无商不奸 - **权利垄断下的逐利**    
+            - 没有竞争  
+
+        + **懂人性**  
+            - **找出共同点**  
+                + 我跟你**很相似**  
+                + **家人**/学习/工作/**兴趣**/**经历**/儿时故事  
+                + “你就好啦，这么fit”  
+
+            - 频密沟通接触  
+
+
+        + 说话做事**有目的性**  
+            - 说话都是为了满足对方的精神需求，**达到自己的目的**  
+            - 听别人说话不会只听表面，而是会考虑他为什么会这么说  
+
+    - SKILLS  
+        + The art of managing up  
+            - **Align** personal & organizational goals  
+                + clearly **understanding your manager's goal** and **how they relate to the company goals**  
+
+            - **Help them do their best work**  
+                + **understand what their reports need to do** their best work  
+                + communication / scheduling / problems / feedback    
+
+            - Always consider your manager's **Trust & Safety**    
+                + Honing **your sense of empathy on whether your manager feels safe** can help u avoid the missteps  
+                + By **being clear about your intentions** and **paying attention to your manager's emotional response**, you can build a more trusting relationship with your manager  
+
+            - **Package problems** in a helpful way  
+                + **Concisely give your audience the context** they need to understand the problem  
+                + **Frame your request** in a way **where it's obvious what they need to do**  
+                    - **make your request clear** and **explain why it is important to take action**; or **provide helpful framing and information** around what would be helpful to solve the problem  
+                    - **understanding why different stakeholders have certain style preferences** is key to **building empathy and making effective arguments**  
+                        + preferred types of data  
+                        + what's the right level of detail for you audience  
+                        + format and preparation - group or public  
+
+                    - constrain the scope of your ask  
+                        + easier to agree to help with a problem that can be solved in **the short-term**  
+
+                    - establish a shared language for framing problems  
+                        + **communicating that it is a monkey problem**  and that you need **help transformign it into a rock problem** is essential in these cases    
+
+        + **明了别人的利益所在**，**找到可接受的分配方案**，才能真实解决问题  
+            - **利益有颗粒度，感情和道理没有**。 感情只论有与没有。大道理更是大义凛然，人各一套；**利益却可以定义**，**可以定量**，可以切割，**可以交换**  
+            - **情感早已决定了方向**，**理性只提供技术服务**  
+            - **大多数人吵架是为了利益**  
+                + 很正常，但他们不愿承认。即不愿对外承认，也不愿对自己承认。**好像承认就会低人一头**。 所以讲感情，讲公理，讲相关不相关的一大堆东西，又为了骗过别人，还得先骗自己，因为只有自己信了才能让别人相信    
+
+        + **先说对方想听的**  
+            - **再说对方听得进的**
+            - **然后再说你该说的**  
+            - **最后再说你想说的**                  
+
+        + 交真朋友其实特别简单 - **对喜欢你的人好**    
+            - 总会有人喜欢你，也总会有人讨厌你 
+            - 人与人之间有这种吸引  
+    
+    - insight  
+        + 朱素娥这个角色**不是为了践行某个主义而被塑造出来的假人**，也不是能够轻松踩对人生每一步的超人，她是**一个很具体的普通人**  
+            - 每个人最要紧的是**知道自己在做什么**，我很清楚我做法医的工作是要验明每个死者的真正死因，不可以让他们死得不明不白，所以我每次工作都会很专心，当我专心做事时我根本就没有空害怕，也没有时间去害怕，但我唯一最怕的就是工作做得不够好  
+
+        + 奥本海默生活在“**真理**”的世界里，而这些人却生活在“**利害**”的现实中  
+            - 奥本海默太天真，也过于温情。他的荣誉感让他想通过听证会清洗强加在自己头上的污点。而他的对手却是要将他置于死地  
+
+    - meetup  
+
+
 #### 2023-08-14  
 * TODO  
 
