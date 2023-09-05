@@ -38,6 +38,10 @@ abstract: "a master self-observer"
 
     - love  
 
+    - Project  
+        + add front-end into my website
+        +  ReactJS  + FLASK  
+
 * REVIEW  
     - GOD  
         + **人没有给予平等的能力**， 要平等给上帝要去  
