@@ -3,7 +3,7 @@ title: About
 date: 2012-03-19
 ---
 
-Hi, I'm Raymond ZHAO Wenlong. I am a software engineer & scientist with a broad skillset and deep expertise in engineering, product, technical writing, and culture.  
+Hi, I'm Raymond ZHAO Wenlong. I am both an engineer & a product manager with a broad skillset and deep expertise in engineering, product, and technical writing.  
 
 I was a Technical Officer in HSUHK, RA (in Chinese University of Hong Kong, City University of Hong Kong, and Hong Kong Baptist University), and Software Engineer in Alcatel-Lucent (now Nokia Corporation) and HKCREO (a Fintech startup).  
 
