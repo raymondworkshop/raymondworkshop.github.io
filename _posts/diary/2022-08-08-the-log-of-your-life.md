@@ -61,13 +61,18 @@ abstract: "a master self-observer"
             - 过分追求理想，客观，中立，很容易陷入孤立无援的困境   
 
     - FAMILIES  
-        + you can **only participate her loving you**, you cann't make her love you   
+        + You can **only participate her loving you**, you cann't make her love you   
             - 爱情不能被创造，只能看她徐徐展开， unfold herself  
 
         + 爸妈老了，自己应该承担更多责任了  
 
     - Business  
         + 生意人， **只看是否能赚钱**，而不会辨忠奸  
+        
+        + **外圆内方**  
+            - 商业 - **识计数**  
+            - **对真实不要要求那么高**  
+                + 老实  
         
 
     - SKILLS  
