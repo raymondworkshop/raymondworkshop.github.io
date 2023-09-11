@@ -30,6 +30,60 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
 
 
+#### 2023-09-11  
+* TODO 
+    - 工作  
+
+    - Love  
+    
+    - Project  
+        +  add front-end into my website
+        +  ReactJS  + Flask  
+
+    - 租房  
+
+* REVIEW  
+    - GOD  
+        + 我们**按着自己的感动和能力去爱身边**的人，没必要一上来就去爱贱人  
+            - **可以先从爱自己身边的人开始**, **一点一点成长**，最终的标杆，是耶稣给我们打下的标准  
+            - 我们**需要小心**，避免我们的爱心因为贱人而渐渐熄灭  
+
+        + 人是桥梁  
+
+    - SELF  
+        + 生活在真实中  
+            - 个性的觉察  
+                + 各种起起伏伏，**情绪都是一个很好的了解自己的窗口**    
+
+            - 申辩思维 - **理智不会被情感拖着走**  
+            - 共情，**差异中寻求共识**，多元共存 
+                + 独立思考 **是指 与他人一起思考**  
+
+        + **把你天生的这些东西再进一步**    
+            - 所有的事情，你能不能在你这辈子里面，都能再进一步  
+
+        + 选择说哪些话，**对自己与他人的心灵安定有帮助**，是言语可以发挥的正向力量  
+            - 善意的谎言  
+                + 先说优势，再说劣势  
+
+
+    - FAMILIES  
+        + 爱情 - **心理可视性**    
+            - “**我知道你很难过**，**我只是想让你知道我都在**”  
+
+    - BUSINESS  
+        + 掌握大局，了解细节  
+            - 关注细节必须**以能够把握住全局**为前提  
+
+    - SKILLS  
+        + removing yourself from people that repeatedly **trigger your mental health** and **lower your vibe** is top tier self-care  
+        
+        + China  
+            - 向领导汇报的技巧是：  下属提出的问题必须是 领导能解决以及愿意解决的  
+
+    - MEETUP  
+  
+
 #### 2023-09-04  
 * TODO  
     - 工作  
@@ -37,6 +91,10 @@ abstract: "a master self-observer"
     - 租房  
 
     - Love  
+    
+    - Project  
+        +  add front-end into my website
+        +  ReactJS  + Flask  
 
 * REVIEW  
     - GOD  

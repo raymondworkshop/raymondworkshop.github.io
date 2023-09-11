@@ -40,7 +40,7 @@ abstract: "a master self-observer"
 
     - Project  
         + add front-end into my website
-        +  ReactJS  + FLASK  
+        +  ReactJS  + Flask  
 
 * REVIEW  
     - GOD  
