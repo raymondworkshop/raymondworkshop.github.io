@@ -37,7 +37,7 @@ abstract: "a master self-observer"
     - Love  
     
     - Project  
-        +  add front-end into my website
+        +  add front-end into my website  
         +  ReactJS  + Flask  
 
     - 租房  
@@ -75,11 +75,28 @@ abstract: "a master self-observer"
         + 掌握大局，了解细节  
             - 关注细节必须**以能够把握住全局**为前提  
 
+        + make your request for help smart  
+            - **specific**  
+                + clearly state what it is you need help with  
+                + people **need details** to gauge whether they can help or not  
+            - meaningful  
+                + **explain to your colleagues why the request is important** to u,
+                even if you think that it's self-evident  
+            - action-oriented  
+                + state what exactly needs to be done
+
+            - time-bound  
+                + clearly state what is your deadline  
+
+            - "Hey, Katie, I know you're busy, but could u spare me a few minutes of your time, please? I have some trouble with one report, for a really important new client. Could u please have a look at it? (The report is in the attachment) I'm not sure I covered all the main points.  
+            
+               My deadline is on Frieday, and I would appreciate it if you could help me with this one.  "
+
     - SKILLS  
         + removing yourself from people that repeatedly **trigger your mental health** and **lower your vibe** is top tier self-care  
         
         + China  
-            - 向领导汇报的技巧是：  下属提出的问题必须是 领导能解决以及愿意解决的  
+            - 向领导汇报的技巧是: 下属提出的问题必须是 领导能解决以及愿意解决的  
 
     - MEETUP  
   
@@ -132,7 +149,6 @@ abstract: "a master self-observer"
             - **对真实不要要求那么高**  
                 + 老实  
         
-
     - SKILLS  
         + **对方想要什么，那你就给什么**    
             - 喜欢炫耀的人， 其实想要别人的赞美，那你就多恭维几句  
