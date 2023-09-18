@@ -30,11 +30,66 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
 
 
+#### 2023-09-18  
+* TODO  
+    - LOVE  
+
+    - 租房  
+
+    - WORK  
+
+    - Project  
+
+* REVIEW  
+    - GOD  
+
+    - SELF  
+        + **与他人一起思考**，**差异中寻求共识**    
+            - 独立思考， 同理心  
+
+        + **你有没有完全发挥你的理财潜力**  
+            - 赚大钱的主要原因 是继续资助一个慈善机构  
+
+        + **时时观看自己的想法和行动** - 觉察  
+            - **可以让我们活出今天的自己**，而不是活在过去；
+            可以让我们有效掌握情况，**完整发挥我们的知识和天赋**    
+
+        + 过于 坦诚，**心实**    
+
+
+    - FAMILIES  
+
+    - BUSINESS  
+        + 小生意  
+
+    - SKILLS  
+        + manage-up  
+            - **ask questions**    
+                + **ask for her advice or opinion on an issue**  
+                    - admitting that you don't know everything and that you're **self-aware enough to know** when to ask for help  
+                + **let the boss know that you value** what she thinks  
+
+            - Take constructive criticism  
+                + you wanna your boss to see that you really care about your job and 
+                that you see that there's room for you to grow  
+
+            - **Be friendly but professional** without being friends  
+                + **smile** at your boss, **say hello**, stop to make small talk, and **get to know a few things** about him that you can ask about  
+
+            - Offer **suggestions**  
+                + TODO  
+
+
+    - MEETUP  
+
+
 #### 2023-09-11  
 * TODO 
     - 工作  
+        + A good chat  
 
     - Love  
+        + No  
     
     - Project  
         +  add front-end into my website  
@@ -77,20 +132,21 @@ abstract: "a master self-observer"
         + 掌握大局，了解细节  
             - 关注细节必须**以能够把握住全局**为前提  
 
-        + make your request for help smart  
+        + **make your request for help** smart  
             - **specific**  
                 + clearly state what it is you need help with  
                 + people **need details** to gauge whether they can help or not  
             - meaningful  
                 + **explain to your colleagues why the request is important** to u,
                 even if you think that it's self-evident  
+
             - action-oriented  
-                + state what exactly needs to be done
+                + **state what exactly needs** to be done
 
             - time-bound  
                 + clearly state what is your deadline  
 
-            - "Hey, Katie, I know you're busy, but could u spare me a few minutes of your time, please? I have some trouble with one report, for a really important new client. Could u please have a look at it? (The report is in the attachment) I'm not sure I covered all the main points.  
+            - "Hey, Katie, I know you're busy, but **could u spare me a few minutes** of your time, please? **I have some trouble** with one report, **for a really important new client**. **Could u please have a look at it**? (The report is in the attachment) I'm not sure I covered all the main points.  
             
                My deadline is on Frieday, and I would appreciate it if you could help me with this one.  "
 
