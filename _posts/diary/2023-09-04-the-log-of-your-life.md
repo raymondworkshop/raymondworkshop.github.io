@@ -36,7 +36,8 @@ abstract: "a master self-observer"
 
     - 租房  
 
-    - WORK  
+    - BUSINESS  
+        + design the courses    
 
     - Project  
 
