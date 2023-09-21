@@ -47,6 +47,21 @@ abstract: "a master self-observer"
         + **与他人一起思考**，**差异中寻求共识**    
             - 独立思考， 同理心  
 
+        + 换位思考  
+            - 先**尝试了解对方**，**明白对方的思考逻辑**，再**尝试让对方了解自己**  
+            - **不做无谓的竞争**  
+                + 双向学习，**互相有好的影响**； 别人的成功不一定是你的失败  
+            - 积极行动  
+                + **主动创造有利环境**，不逃避自己所负责任； 不期望谁能推着你向前  
+
+        + 细心  
+            - 递纸巾  
+
+        + 主动开口，**面带笑容**    
+
+        + 脑中老是浮现过往的情景/对话  
+            - focus  
+
         + **你有没有完全发挥你的理财潜力**  
             - 赚大钱的主要原因 是继续资助一个慈善机构  
 
@@ -58,9 +73,22 @@ abstract: "a master self-observer"
 
 
     - FAMILIES  
+        + 你**不用一个人解决问题**    
+            - 对别人的情绪反应很敏感，但提问也不会给压力  
 
     - BUSINESS  
-        + 小生意  
+        + 小生意   
+            - **弄清顾客真正的心理需求**，并且真心地为客户解决问题，并告诉对方你将可为对方带来如何的转变  
+
+
+        + 如何改变**问题陈述的背景**  
+            - 如何解构命题，解构资源  
+            - 在这道题，**最值钱的东西，其实是在斯坦福课堂上宣讲的三分钟**    
+
+        + 决策的本质就是**资源分配**  
+            - 当你从**资源角度**而不是情绪和对错角度去看待问题，更容易做看清问题的本质  
+
+
 
     - SKILLS  
         + manage-up  
@@ -74,10 +102,26 @@ abstract: "a master self-observer"
                 that you see that there's room for you to grow  
 
             - **Be friendly but professional** without being friends  
-                + **smile** at your boss, **say hello**, stop to make small talk, and **get to know a few things** about him that you can ask about  
+                + **smile** at your boss, **say hello**, stop to make small talk, and **get to know a few things about him** that you can ask about  
 
             - Offer **suggestions**  
-                + TODO  
+                + Speak up if you have an idea about how something could be improved or done differently in the workplace  
+                + Just make sure that you **offer your suggestions privately** so **your boss doesn't feel as if he's being attacked or chastised** in front of other employees  
+
+            - Communicate  
+                + If you disagree, **kindly suggest or ask if things could be done a bit differently**  
+
+            - Be Self-motivated  
+                + you want your boss to think that you can work well on your own without being supervised  
+
+
+        + **不要和愚蠢的人争论**，他们会把你拖到他们那样的水平，然后回击你  
+
+        + Repeat what works  
+
+        + China  
+            - 知识分子 有一种 “**强者的自我想象**”  
+                + 在对待博弈问题时，**自动把自己想象成强的一方，并发展出相应立场**，比如在劳资关系上，自动把自己想象成资的一方  
 
 
     - MEETUP  
