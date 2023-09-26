@@ -35,6 +35,9 @@ abstract: "a master self-observer"
     - LOVE  
 
     - BUSINESS  
+        + CEH  
+        + Learn how to negotiate  
+
 
     - 租房  
 
