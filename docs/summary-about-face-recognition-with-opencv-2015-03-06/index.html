@@ -129,12 +129,12 @@
 </ul>
 </li>
 </ul>
-<pre class="lang-c++"><span class="w">      </span><span class="n">Mat</span><span class="w"> </span><span class="n">p</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">spatial_histogram</span><span class="p">(</span><span class="w"></span>
-<span class="w">                </span><span class="n">lbp_image</span><span class="p">,</span><span class="w"> </span><span class="cm">/* lbp_image */</span><span class="w"></span>
-<span class="w">                </span><span class="k">static_cast</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span><span class="p">(</span><span class="n">std</span><span class="o">::</span><span class="n">pow</span><span class="p">(</span><span class="mf">2.0</span><span class="p">,</span><span class="w"> </span><span class="k">static_cast</span><span class="o">&lt;</span><span class="kt">double</span><span class="o">&gt;</span><span class="p">(</span><span class="n">_neighbors</span><span class="p">))),</span><span class="w"> </span><span class="cm">/* number of possible patterns */</span><span class="w"></span>
-<span class="w">                </span><span class="n">_grid_x</span><span class="p">,</span><span class="w"> </span><span class="cm">/* grid size x */</span><span class="w"></span>
-<span class="w">                </span><span class="n">_grid_y</span><span class="p">,</span><span class="w"> </span><span class="cm">/* grid size y */</span><span class="w"></span>
-<span class="w">                </span><span class="nb">true</span><span class="p">)</span><span class="w"></span>
+<pre class="lang-c++"><span class="w">      </span><span class="n">Mat</span><span class="w"> </span><span class="n">p</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">spatial_histogram</span><span class="p">(</span>
+<span class="w">                </span><span class="n">lbp_image</span><span class="p">,</span><span class="w"> </span><span class="cm">/* lbp_image */</span>
+<span class="w">                </span><span class="k">static_cast</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span><span class="p">(</span><span class="n">std</span><span class="o">::</span><span class="n">pow</span><span class="p">(</span><span class="mf">2.0</span><span class="p">,</span><span class="w"> </span><span class="k">static_cast</span><span class="o">&lt;</span><span class="kt">double</span><span class="o">&gt;</span><span class="p">(</span><span class="n">_neighbors</span><span class="p">))),</span><span class="w"> </span><span class="cm">/* number of possible patterns */</span>
+<span class="w">                </span><span class="n">_grid_x</span><span class="p">,</span><span class="w"> </span><span class="cm">/* grid size x */</span>
+<span class="w">                </span><span class="n">_grid_y</span><span class="p">,</span><span class="w"> </span><span class="cm">/* grid size y */</span>
+<span class="w">                </span><span class="nb">true</span><span class="p">)</span>
 </pre>
 <pre><code>  The parameters *gird_x* and *grid_y* control the grid size of the spatial histograms.
           At last the feature vectors (p here is the spatial histogram) are given .

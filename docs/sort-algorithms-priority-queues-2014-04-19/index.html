@@ -99,43 +99,43 @@ because the height of a complete binary tree of size N is lgN.</p>
 <p>The basic algorithm swim (bottom-up reheapify) moves up the heap until we reach a node with a larger key, or the root.</p>
 <p>The function swim(int k) with Java  </p>
 <pre class="lang-java"><span class="c1">//the parent of the node at position k in a heap is at position k/2</span>
-<span class="kd">private</span> <span class="kt">void</span> <span class="nf">swim</span><span class="p">(</span><span class="kt">int</span> <span class="n">k</span><span class="p">){</span>
-    <span class="k">while</span><span class="p">(</span><span class="n">k</span> <span class="o">&gt;</span> <span class="mi">1</span> <span class="o">&amp;&amp;</span> <span class="n">less</span><span class="p">(</span><span class="n">k</span><span class="o">/</span><span class="mi">2</span><span class="p">,</span> <span class="n">k</span><span class="p">)){</span>  <span class="c1">//the node&#39;s key larger than parent&#39;s key</span>
-        <span class="n">exch</span><span class="p">(</span><span class="n">k</span><span class="o">/</span><span class="mi">2</span><span class="p">,</span> <span class="n">k</span><span class="p">);</span>              <span class="c1">//exchange the node with its parent</span>
-        <span class="n">k</span> <span class="o">=</span> <span class="n">k</span><span class="o">/</span><span class="mi">2</span><span class="p">;</span>
-    <span class="p">}</span>
+<span class="kd">private</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">swim</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">k</span><span class="p">){</span>
+<span class="w">    </span><span class="k">while</span><span class="p">(</span><span class="n">k</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">1</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">less</span><span class="p">(</span><span class="n">k</span><span class="o">/</span><span class="mi">2</span><span class="p">,</span><span class="w"> </span><span class="n">k</span><span class="p">)){</span><span class="w">  </span><span class="c1">//the node&#39;s key larger than parent&#39;s key</span>
+<span class="w">        </span><span class="n">exch</span><span class="p">(</span><span class="n">k</span><span class="o">/</span><span class="mi">2</span><span class="p">,</span><span class="w"> </span><span class="n">k</span><span class="p">);</span><span class="w">              </span><span class="c1">//exchange the node with its parent</span>
+<span class="w">        </span><span class="n">k</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">k</span><span class="o">/</span><span class="mi">2</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
 <span class="p">}</span>
 </pre>
 <p>The sink algorithm movs down the heap until we reach a node with both children smaller(or equal,) or the bottom. </p>
 <p>The function sink(int k) with Java  </p>
 <pre class="lang-java"><span class="c1">//the children of the node at position k in a heap are at positions 2k and 2k+1</span>
-<span class="kd">private</span> <span class="kt">void</span> <span class="nf">sink</span><span class="p">(</span><span class="kt">int</span> <span class="n">k</span><span class="p">){</span>
-    <span class="k">while</span><span class="p">(</span><span class="mi">2</span><span class="o">*</span><span class="n">k</span> <span class="o">&lt;=</span> <span class="n">N</span><span class="p">){</span>
-        <span class="kt">int</span> <span class="n">j</span> <span class="o">=</span> <span class="mi">2</span><span class="o">*</span><span class="n">k</span><span class="p">;</span>                    <span class="c1">//the children of the node</span>
-        <span class="k">if</span> <span class="p">(</span><span class="n">j</span> <span class="o">&lt;</span> <span class="n">N</span> <span class="o">&amp;&amp;</span> <span class="n">less</span><span class="p">(</span><span class="n">j</span><span class="p">,</span> <span class="n">j</span><span class="o">+</span><span class="mi">1</span><span class="p">))</span> <span class="n">j</span><span class="o">++</span><span class="p">;</span> <span class="c1">//find the smaller children</span>
-        <span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="n">less</span><span class="p">(</span><span class="n">k</span><span class="p">,</span> <span class="n">j</span><span class="p">))</span> <span class="k">break</span><span class="p">;</span>
-        <span class="n">exch</span><span class="p">(</span><span class="n">k</span><span class="p">,</span> <span class="n">j</span><span class="p">);</span>                     <span class="c1">//swap the node with the smaller children</span>
-        <span class="n">k</span> <span class="o">=</span> <span class="n">j</span><span class="p">;</span>
-    <span class="p">}</span>
+<span class="kd">private</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">sink</span><span class="p">(</span><span class="kt">int</span><span class="w"> </span><span class="n">k</span><span class="p">){</span>
+<span class="w">    </span><span class="k">while</span><span class="p">(</span><span class="mi">2</span><span class="o">*</span><span class="n">k</span><span class="w"> </span><span class="o">&lt;=</span><span class="w"> </span><span class="n">N</span><span class="p">){</span>
+<span class="w">        </span><span class="kt">int</span><span class="w"> </span><span class="n">j</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">2</span><span class="o">*</span><span class="n">k</span><span class="p">;</span><span class="w">                    </span><span class="c1">//the children of the node</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">j</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="n">N</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">less</span><span class="p">(</span><span class="n">j</span><span class="p">,</span><span class="w"> </span><span class="n">j</span><span class="o">+</span><span class="mi">1</span><span class="p">))</span><span class="w"> </span><span class="n">j</span><span class="o">++</span><span class="p">;</span><span class="w"> </span><span class="c1">//find the smaller children</span>
+<span class="w">        </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="o">!</span><span class="n">less</span><span class="p">(</span><span class="n">k</span><span class="p">,</span><span class="w"> </span><span class="n">j</span><span class="p">))</span><span class="w"> </span><span class="k">break</span><span class="p">;</span>
+<span class="w">        </span><span class="n">exch</span><span class="p">(</span><span class="n">k</span><span class="p">,</span><span class="w"> </span><span class="n">j</span><span class="p">);</span><span class="w">                     </span><span class="c1">//swap the node with the smaller children</span>
+<span class="w">        </span><span class="n">k</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">j</span><span class="p">;</span>
+<span class="w">    </span><span class="p">}</span>
 <span class="p">}</span>
 </pre>
 <p>The insert algorithm requires no more than 1 + lgN compares, which involving <strong>moving along a path between the root and the bottom of the heap</strong> whose number of links is no more than lgN.</p>
 <p>The function insert(key x)</p>
-<pre class="lang-java"><span class="kd">public</span> <span class="kt">void</span> <span class="nf">insert</span><span class="p">(</span><span class="n">Key</span> <span class="n">x</span><span class="p">){</span>
-    <span class="n">pq</span><span class="o">[++</span><span class="n">N</span><span class="o">]</span> <span class="o">=</span> <span class="n">x</span><span class="p">;</span>
-    <span class="n">swim</span><span class="p">(</span><span class="n">N</span><span class="p">);</span>     <span class="c1">//swim up through the heap</span>
+<pre class="lang-java"><span class="kd">public</span><span class="w"> </span><span class="kt">void</span><span class="w"> </span><span class="nf">insert</span><span class="p">(</span><span class="n">Key</span><span class="w"> </span><span class="n">x</span><span class="p">){</span>
+<span class="w">    </span><span class="n">pq</span><span class="o">[++</span><span class="n">N</span><span class="o">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">x</span><span class="p">;</span>
+<span class="w">    </span><span class="n">swim</span><span class="p">(</span><span class="n">N</span><span class="p">);</span><span class="w">     </span><span class="c1">//swim up through the heap</span>
 
 <span class="p">}</span>
 </pre>
 <p>The heap algorithms require no more than 2lgN compares for remove the maximum; The operation involves moving the heap path no more than lgN, and it requires two compares for each node on the path (except at the bottom): one to find the child with larger key, the other to decide whether that child needs to be promoted.</p>
 <p>The function delMax()</p>
-<pre class="lang-java"><span class="kd">public</span> <span class="n">Key</span> <span class="nf">delMax</span><span class="p">(){</span>
-    <span class="n">Key</span> <span class="n">max</span> <span class="o">=</span> <span class="n">pq</span><span class="o">[</span><span class="mi">1</span><span class="o">]</span><span class="p">;</span> <span class="c1">//the largest key off the top</span>
-    <span class="n">exch</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="n">N</span><span class="o">--</span><span class="p">);</span>    <span class="c1">//exchange the last one with root</span>
-    <span class="n">sink</span><span class="p">(</span><span class="mi">1</span><span class="p">);</span>         <span class="c1">//sink sown through the heap</span>
-    <span class="n">pq</span><span class="o">[</span><span class="n">N</span><span class="o">+</span><span class="mi">1</span><span class="o">]</span> <span class="o">=</span> <span class="kc">null</span><span class="p">;</span>  <span class="c1">//to avoid loitering and help with garbage collection</span>
+<pre class="lang-java"><span class="kd">public</span><span class="w"> </span><span class="n">Key</span><span class="w"> </span><span class="nf">delMax</span><span class="p">(){</span>
+<span class="w">    </span><span class="n">Key</span><span class="w"> </span><span class="n">max</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">pq</span><span class="o">[</span><span class="mi">1</span><span class="o">]</span><span class="p">;</span><span class="w"> </span><span class="c1">//the largest key off the top</span>
+<span class="w">    </span><span class="n">exch</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="n">N</span><span class="o">--</span><span class="p">);</span><span class="w">    </span><span class="c1">//exchange the last one with root</span>
+<span class="w">    </span><span class="n">sink</span><span class="p">(</span><span class="mi">1</span><span class="p">);</span><span class="w">         </span><span class="c1">//sink sown through the heap</span>
+<span class="w">    </span><span class="n">pq</span><span class="o">[</span><span class="n">N</span><span class="o">+</span><span class="mi">1</span><span class="o">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">null</span><span class="p">;</span><span class="w">  </span><span class="c1">//to avoid loitering and help with garbage collection</span>
 
-    <span class="k">return</span> <span class="n">max</span><span class="p">;</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">max</span><span class="p">;</span>
 <span class="p">}</span>
 </pre>
 <h4>Performance Analysis:</h4>
