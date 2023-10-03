@@ -30,16 +30,52 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
 
 
-#### 2023-10-03. 
-* TODO 
+#### 2023-10-08  
+* TODO  
     - LOVE  
 
     - BUSINESS  
         + Learn how to negotiate  
 
     - Project  
+        + Learn english  
         + [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)   
-        + read "Getting Acquired How I Built and Sold My SaaS Startup"  
+            + read "四步创业法"    
+            + read "Getting Acquired How I Built and Sold My SaaS Startup"  
+            + read “轻创业”  
+            + read “有钱人和你想的不一样”  
+
+* REVIEW  
+    - GOD  
+
+    - SELF  
+
+    - FAMILIES  
+
+    - BUSINESS 
+
+    - SKILLS  
+
+    - MEETUP  
+        + 和ben 聊天感觉很差 - 没有边界感  
+
+
+#### 2023-10-03
+* TODO 
+    - LOVE  
+
+    - BUSINESS  
+        + 发ceh计划给issci  
+
+        + Learn how to negotiate  
+
+    - Project  
+        + Learn english  
+        + [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)   
+            + read "四步创业法"    
+            + read "Getting Acquired How I Built and Sold My SaaS Startup"  
+            + read “轻创业”  
+            + read “有钱人和你想的不一样”  
 
 
 * REVIEW  
@@ -70,6 +106,8 @@ abstract: "a master self-observer"
 
     - FAMILIES  
         + ask Ivy out for a date - failure  
+
+        + 帮姐存钱 - 换钱  
 
         + **情绪价值**  
             - **被理解**，被看见， 被关心  
@@ -123,7 +161,12 @@ abstract: "a master self-observer"
                 + 辱民 - 无自尊自信； 互相检举 
                 + 贫民 
 
-    - MEETUP
+    - MEETUP    
+        + 帮小忙很开心  
+            - 回答别人咨询中大学习问题  
+
+        + 国庆山顶看烟花 - 很棒  
+
 
 
 #### 2023-09-25  
