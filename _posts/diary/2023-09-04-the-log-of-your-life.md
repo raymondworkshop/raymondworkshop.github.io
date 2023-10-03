@@ -31,13 +31,15 @@ abstract: "a master self-observer"
 
 
 #### 2023-10-03. 
-* TODO
+* TODO 
     - LOVE  
 
     - BUSINESS  
         + Learn how to negotiate  
 
-    - Project
+    - Project  
+        + [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)   
+        + read "Getting Acquired How I Built and Sold My SaaS Startup"  
 
 
 * REVIEW  
