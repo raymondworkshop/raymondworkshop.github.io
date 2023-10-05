@@ -65,7 +65,7 @@ abstract: "a master self-observer"
     - LOVE  
 
     - BUSINESS  
-        + 发ceh计划给issci  
+        + 发ceh计划给isaac   
 
         + Learn how to negotiate  
 
