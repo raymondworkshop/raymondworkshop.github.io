@@ -30,9 +30,37 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
 
 
-#### 2023-10-08  
+#### 2023-10-15  
 * TODO  
     - LOVE  
+
+    - BUSINESS  
+
+    - PROJECT  
+        + Learn english  
+        + [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)   
+            + read "四步创业法"    
+            + read "Getting Acquired How I Built and Sold My SaaS Startup"  
+            + read “轻创业”  
+            + read “有钱人和你想的不一样”  
+
+* REVIEW  
+    - GOD  
+
+    - SELF  
+
+    - FAMILIES  
+
+    - BUSINESS    
+
+    - SKILLS  
+
+    - MEETUP 
+
+#### 2023-10-10  
+* TODO  
+    - LOVE  
+        + write a love letter  
 
     - BUSINESS  
         + Learn how to negotiate  
@@ -49,12 +77,67 @@ abstract: "a master self-observer"
     - GOD  
 
     - SELF  
+        + Build long-term relationships with people who have **already built a healthy relationship with themselves**    
+            - if they aren't there yet, be patient, let them do their own journey first  
+
+        + **自我表达很重要**    
+
+        + 主观现实
+            - **普遍意义的典型性**  - 大量的对生活本身的所谓客观的认识的基础上 的主观  
+
+        + **是让人信任**，而不是让人喜欢  
+
+        + 很多人一辈子不敢自由，**和害怕失去控制有关**    
+            - 要么胆子不够，要么智慧浅薄  
+                + 控制非常用力而效果不好，但这是无数人唯一懂得的人生状态 
+            - **自由有一定的风险**，**有一定的失控感**  
+                + **奴役和封闭才是可以完全控制的**    
 
     - FAMILIES  
+        + **情绪价值**  
+            - **被理解，被关心**，被看见，被呵护  
+
+        + Love - **tease her**, **Ignore her**, **make her laugh**  
+            - as long as you don't bore her  
+
+        + 表达  
+            - 拥抱  
+            - 你说 ... 
+            - 照片集； “你赢就是我赢”， “我们一起打败这个世界 或被世界打败 ”  
+
+        
 
     - BUSINESS 
+        + 会行得通，因为**我会让它行得通**  
+            - 有钱人期待成功； 他们**对自己的能力和创意有信心**；
+            他们相信万一不小心撞了墙，他们**可以找到其他方式来达到成功**  
+
+            - 有钱人冒的是**经过计划了的风险**，他们会做研究，付出必要的努力，**再根据具体的信息和事实做决定**
+
+            - **会在短时间内尽可能地努力**，然后**根据周详的考虑再决定是否继续投入**      
+
+
+
+        + 有钱人会**专注于他们想要的东西上**；  你所专注的事物会扩大  
+            - **去做就是了**， 你**不必在第一天就万事齐备** 
+
+            - 只要让他们下场玩，就可以**在当下做出明智的决定**，**然后再修正**，**沿路调整做法**  
+
+            - 尽可能短时间里就准备妥当，然后行动，然后再沿途修正 
+
+            - **当障碍出现了，就把它处理掉**，**然后很快重新聚焦在你的目标上**； 把时间和能量放在想法和行动上，稳定向前，朝着目标迈进  
+
+
+        + 先要搞清楚why, 然后定义清楚what 边界，才能具体到how的 where, who ,when  
+
 
     - SKILLS  
+        + China
+            - 许当然不是什么企业家，可能也不是什么正经人。 但是，他并没有给党国财政造成什么损失  
+        + 中国学生常常有“**内外有别**”原则，**很难把自己处于“在外”位置** 
+            - 学生离开它**会有离群的感觉**，**不安全的感觉** 
+            - 听到别人批评共产党，马上认为是等同于批评“中国”，而且**批评中国等同于批评我**，因为我是中国人  
+            - 与移民态度有关，印度人不带来“内外有别”的锁脑概念，**愿意与美国社会同化**  
 
     - MEETUP  
         + 和ben 聊天感觉很差 - 没有边界感  
