@@ -9,12 +9,8 @@ date: 2012-03-19
 #### course  
 * Entrepreneurship  
     - [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)  
-    
-    - [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2022/home)  
 
     - [Business Communication](https://learning.edx.org/course/course-v1:RITx+LEAD101+2T2023/home)  
-
-    - [Empathy and Emotional Intelligence at Work](https://www.edx.org/course/empathy-and-emotional-intelligence-at-work)  
 
     - [Building a Lean Startup](https://learning.edx.org/course/course-v1:DavidsonX+JiE+2T2022/home)  
 
@@ -25,10 +21,7 @@ date: 2012-03-19
 * Leadership Essentials  
     - [Critical Thinking & Problem Solving](https://www.edx.org/course/critical-thinking-problem-solving-3)   
 
-
     - [Teamwork & Collaboration](https://www.edx.org/course/teamwork-collaboration-3)  
-
-    - [Public Speaking](https://www.edx.org/course/public-speaking-2)  
 
 * [Startup School](https://www.startupschool.org/curriculum)  
 

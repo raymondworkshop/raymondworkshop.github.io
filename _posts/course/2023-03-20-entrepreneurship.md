@@ -5,6 +5,12 @@ tags: [learning, business, startup, important]
 abstract: "Improve my mindset and knowledge on Entrepreneur"
 ---
 
+#### Becoming an Entrepreneur  
+* TODO  
+
+*  [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)  
+
+
 #### Getting Work Done Through Others  
 TODO  
 
@@ -27,6 +33,9 @@ TODO
         + **Understanding Motivation**  
 
     - Understand organization structures, strategy and processes  
+
+*  [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2022/home)  
+
     
 
 #### Entrepreneurship For Everyone  

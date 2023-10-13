@@ -57,7 +57,7 @@ abstract: "a master self-observer"
 
     - MEETUP 
 
-#### 2023-10-10  
+#### 2023-10-10  - 金錢只會讓你現有的自己更加強大  
 * TODO  
     - LOVE  
         + write a love letter  
@@ -105,8 +105,6 @@ abstract: "a master self-observer"
             - 你说 ... 
             - 照片集； “你赢就是我赢”， “我们一起打败这个世界 或被世界打败 ”  
 
-        
-
     - BUSINESS 
         + 会行得通，因为**我会让它行得通**  
             - 有钱人期待成功； 他们**对自己的能力和创意有信心**；
@@ -143,7 +141,7 @@ abstract: "a master self-observer"
         + 和ben 聊天感觉很差 - 没有边界感  
 
 
-#### 2023-10-03
+#### 2023-10-03 - 尊重别人的想法，不主观批评  
 * TODO 
     - LOVE  
 
@@ -252,7 +250,7 @@ abstract: "a master self-observer"
 
 
 
-#### 2023-09-25  
+#### 2023-09-25  - 不要对谁都特别好； 别人你的善良变成别人利用的本钱  
 * TODO  
     - LOVE  
 
@@ -302,7 +300,7 @@ abstract: "a master self-observer"
     - MEETUP  
 
 
-#### 2023-09-18  
+#### 2023-09-18  - 与他人一起思考，差异中寻求共识  
 * TODO  
     - LOVE  
 
