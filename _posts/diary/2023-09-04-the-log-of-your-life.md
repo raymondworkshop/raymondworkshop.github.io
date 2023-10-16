@@ -61,16 +61,19 @@ abstract: "a master self-observer"
 #### 2023-10-16  
 * TODO  
     - LOVE  
+        + hiking  
 
     - BUSINESS  
+        + [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home). 
 
     - PROJECT  
         + Learn english  
-        + [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)   
+        + reading    
+            + read “有钱人和你想的不一样”  
             + read "四步创业法"    
             + read "Getting Acquired How I Built and Sold My SaaS Startup"  
             + read “轻创业”  
-            + read “有钱人和你想的不一样”  
+
 
 * REVIEW  
     - GOD  
