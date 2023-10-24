@@ -45,6 +45,7 @@ abstract: "Notes on energy and time management skills"
 
 #####  activity  
 * activity  
+    - tennis  
     - bowling  
     - 飞盘  
       
@@ -65,6 +66,7 @@ abstract: "Notes on energy and time management skills"
         + 馒头，（牛油蒜蓉燒）青口，红薯/锡箔纸， 牛肉，棉花糖，蜜糖， 盐/胡椒，可乐，水果    
 
     - 北潭凹  
+    - 大潭  
 
 
 ##### swimming  
