@@ -56,8 +56,6 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
     - Potential - give confidence that you would be **creating value** that you can capture 
         + access each problem based on **whether there is a real need with customers** who are desperate for a solution  
 
-
-
     -  Ask yourself **why you're starting a company** in the first place?  
         + **to be your own boss**, to change the world, to improve people's lives  
 
@@ -79,7 +77,32 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
     - process - **managing the culture** relative to norms and expectations  
 
 
-#### Understand what your customers want  
+#### Understanding Customers  
+* **learn the needs and preferences** of your potential customers  
+
+    - determine potential customers  
+
+    - write an interview guide  
+
+    - conduct the interview. 
+
+
+* what to do  
+    - Focus on **the need**, not the solution  
+
+    - Bias - you are there **to uncover a need**, not there to validate what you think  
+
+    - Do it **in person**, one at a time - this will allow you to pick up on **cues from gestures and facial expressions**  
+
+    - Ask open-ended questions - this **makes it a conversation** and allows you to get to more depth of the need you may not have thought about before  
+
+    - listen much more than you talk  
+
+    - **understand their priorities**  
+
+    - get subjects to tell a story  
+
+
 * TODO  
 
 #### Develop and test your product or service  
@@ -92,7 +115,8 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 
 #### Getting Work Done Through Others  
-TODO  
+
+
 
 #### Building Peer Networks  
 TODO  

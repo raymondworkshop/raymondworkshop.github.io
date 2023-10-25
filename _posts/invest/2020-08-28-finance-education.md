@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "About finance education"
+title: "!About finance education"
 date: 2020-08-29
 comments: true
 categories: [learning, invest, financial]
-abstract: "About financial planning and education"  
+abstract: "让钱帮你工作"  
 ---
 
 #### notes  
 * understand wealth  
+    - 让钱帮你工作  
+        + 理财工具进行投资: 股票，债券，汇市，不动产 以及拥有抵押或其他会增值的资产  
+
     - **financial independence** is more important than displaying social status  
 
     - wealth is assets and businessed that earn while you sleep  
@@ -17,6 +20,7 @@ abstract: "About financial planning and education"
         + status is **your rank in the social hierarchy**  
 
     - 财富 应该反映**你对生活的满足感，你的选择，以及你为了享受生活而必须管理的资源**； 不局限于金钱多寡  
+    
     - 医疗/残障保险  
 
     - understand money  
@@ -36,19 +40,49 @@ abstract: "About financial planning and education"
 #### Financial Accounting Made Fun  
 * TODO  
 
+* your ultimate goal should be increasing cash flow  
+    - **grow the passive income** with dividends  
+
 * reference  
     - [Financial Accounting Made Fun](https://learning.edx.org/course/course-v1:BabsonX+BPET.ACCx+2T2018/home)  
     - [CS 007: PERSONAL FINANCE FOR ENGINEERS](https://cs007.blog/about/)
     
 
+##### 股票  - 深入研究  
+* TODO  
+
+* EPS = Earnings per share
+    - EPS 是公司获利的指标 
+
+* Beta is a measure of a stock's volatility in relation to the overall market.
+
+* 市盈率  PE = Price-to-Earning Ratio  
+    - PE = 每股市价 / 每股盈利
+        + PE 越低, 代表投资者能以相对较低的价格购入股票
+
+
+* 市帳率/市净率  PB = Price-to-Book Ratio  
+    -  PB = 每股市价 / 每股净资产  
+        + 在评估高风险企业, 当资产大量为实物资产的时候
+        + PB 越低, 代表投资者能以相对较低的价格购入
+
+
+*  股息率  Dividend yield
+    - 股息率 = 過去12個月每股派息金額／股價 × 100%
+
+
+##### 债券  
+
+##### 不动产  
+
+##### 抵押  
+
+##### 汇市  
+
+
 #### notes on bitcoin 
 * [https://karpathy.github.io/2021/06/21/blockchain/](https://karpathy.github.io/2021/06/21/blockchain/)  
 
-
-#### Financial education  
-* your ultimate goal should be increasing cash flow  
-    - **grow the passive income** with dividends  
-    
 
 
 #### 投资策略  
@@ -155,24 +189,7 @@ abstract: "About financial planning and education"
 怎么计算收益率? 
 
 
-##### EPS = Earnings per share
-* EPS 是公司获利的指标 
 
-##### Beta is a measure of a stock's volatility in relation to the overall market.
-
-##### 市盈率  PE = Price-to-Earning Ratio  
-* PE = 每股市价 / 每股盈利
-    - PE 越低, 代表投资者能以相对较低的价格购入股票
-
-
-##### 市帳率/市净率  PB = Price-to-Book Ratio  
-*  PB = 每股市价 / 每股净资产  
-    - 在评估高风险企业, 当资产大量为实物资产的时候
-    - PB 越低, 代表投资者能以相对较低的价格购入
-
-
-##### 股息率  Dividend yield
-* 股息率 = 過去12個月每股派息金額／股價 × 100%
 
 
 
