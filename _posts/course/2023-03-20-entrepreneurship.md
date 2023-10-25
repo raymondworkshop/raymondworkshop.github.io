@@ -23,7 +23,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
         + **find those 20% of things** that are going to yield 80% of the results   
 
 
-#### Identify a problem  and purpose
+##### Identify a problem  and purpose
 * **Focusing on the problem** not the solutions - **No bad problems** to solve  
     - write down **all problems**  
     - ask "how might this work?"  
@@ -77,14 +77,22 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
     - process - **managing the culture** relative to norms and expectations  
 
 
-#### Understanding Customers  
+##### Understanding Customers  
 * **learn the needs and preferences** of your potential customers  
 
     - determine potential customers  
+        
+    - write **an interview guide  with a few open-ended questions**   
+        + to **learn about their needs and ideas**  
+        + leave room to **make it a conversation**     
 
-    - write an interview guide  
+    - conduct the interview  
+        + Do not sell, this is **the time to learn**    
 
-    - conduct the interview. 
+    - analyze the data  - **find the key insights** from each customer type  
+        + gender, age, and difference in **buying behavior**    
+        + **develop a customer persona** - the one person within your target market  
+        + **list out everything you know**  
 
 
 * what to do  
@@ -95,28 +103,32 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
     - Do it **in person**, one at a time - this will allow you to pick up on **cues from gestures and facial expressions**  
 
     - Ask open-ended questions - this **makes it a conversation** and allows you to get to more depth of the need you may not have thought about before  
+        + **how do u do** things now?  
+        + **how do u wish you** did things?  
+        + what u think can **bridge the gap**?  
 
     - listen much more than you talk  
 
     - **understand their priorities**  
 
     - get subjects to tell a story  
+ 
 
+##### Designing your offering 
+* TODO 
 
-* TODO  
+##### Testing your offering 
 
-#### Develop and test your product or service  
-
-#### Define your targets  
-
-#### Build a model to meet targets  
+##### Planning Business Logistics  
+* Build a model to meet targets  
 
 *  [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)  
 
 
+
+
 #### Getting Work Done Through Others  
-
-
+* TODO  
 
 #### Building Peer Networks  
 TODO  
