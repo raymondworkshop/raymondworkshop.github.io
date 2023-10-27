@@ -10,7 +10,7 @@ date: 2012-03-19
 * Entrepreneurship  
     - [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)  
 
-    - [Business Communication](https://learning.edx.org/course/course-v1:RITx+LEAD101+2T2023/home)  
+    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
 
     - [Building a Lean Startup](https://learning.edx.org/course/course-v1:DavidsonX+JiE+2T2022/home)  
 
