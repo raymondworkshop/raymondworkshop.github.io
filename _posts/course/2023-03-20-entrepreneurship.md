@@ -171,6 +171,8 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
     
     
 ##### Planning Business Logistics  - Growth  
+* TODO  
+
 * Build a model to meet targets  
 
 *  [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)  
