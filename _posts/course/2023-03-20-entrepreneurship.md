@@ -5,6 +5,13 @@ tags: [learning, business, startup, important]
 abstract: "Improve my mindset and knowledge on Entrepreneur"
 ---
 
+#### The Entrepreneurial Mindset
+* TODO  
+
+* reference  
+    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)
+
+
 #### Entrepreneurial myths  - **the pursuit of opportunity** beyond resources controlled  
 * pursuit  - **the actions** of an individual entrepreneur - drive, focus, discipline, and balance  
     - Only open mind and willingness to learn  
@@ -23,11 +30,10 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
         + **find those 20% of things** that are going to yield 80% of the results   
 
 
-##### Identify a problem  and purpose
+##### Identify a purpose and problem 
 * **Focusing on the problem** not the solutions - **No bad problems** to solve  
     - write down **all problems**  
     - ask "how might this work?"  
-
 
     - how current customers **aren't completely satisfied with their current** products or services  
         + Listen to customers in the market about **their frustrations** 
@@ -115,16 +121,59 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
  
 
 ##### Designing your offering 
-* TODO 
+* Use surveys to determine **the most important dimension to your customers**    
+    - **Customer priorities**  - who is **paying for the offering**  
+        + **survey** - test or learn about your target customers  
+        + craft unbiased questions to **test your hypotheses** including
+    **multiple choice, rank order, and open-ended questions**    
 
-##### Testing your offering 
+* Competitive positioning    
+    - **commercialize these ideas** and consistently creating value for both the customers and your business  
 
-##### Planning Business Logistics  
+    - list the things that your customer cares about  
+        + **select just the top two things** your customers cares most about  
+
+    - rate the competitors on how well they address the top two customer priorities
+
+    - **access where you want your offering**  
+
+
+* **Develop your value proposition**  
+    - clearly identify your specific customer  
+
+    - use numbers in the benefit, such as '30% less water usage'
+
+    - user promise, over deliver  
+        + focus on your target **customer's highest priority**   
+
+    - keep it short and simple (just one sentence)
+
+    - startup success is more about execution than the idea itself  
+        + **after you've developed your solution**, you shouldn't be concerned about people stealing it.  
+
+
+##### Testing your offering  - prove the value of the service first  
+
+* MVP - minimum viable product - and how to develop it  
+    - **test just the core functionality** of your offering to see **if customers will change behavior**  
+        + the product or service  
+            - **prototyping your product's core functionality to test the concept** as simply as possible  
+
+        + **the customer behavior**  
+
+* Customer acquistion - the channels and methods for selling  
+
+* Elevator pitches  
+    - why - statement of purpose  
+    - how with your value proposition  
+        + strategy to achieve it  
+    - what - the resulting offering  
+    
+    
+##### Planning Business Logistics  - Growth  
 * Build a model to meet targets  
 
 *  [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)  
-
-
 
 
 #### Getting Work Done Through Others  
