@@ -87,6 +87,32 @@ abstract: "a master self-observer"
                 + 口口声声说世界上没有善恶的人，大概率说明他要做恶了  
                 + 辩证法是 恶想要和善占有同样的级别；  辩证法就是**恶想要和善占同样级别的位格**    
 
+        + Truth is universal 
+            - Ultimately **the right thing is that which is true**  
+                + It's wrong to hurt people and right to care for them  
+                + it's wrong to steal and right to give  
+                + it's wrong to cheat and right to play fair  
+
+
+            - Integrity vs Loyal  
+                + Integrity is **loyal to yourself** and **your own beliefs**   
+                    - it's how people determine **lyour character** and **lreliability/dependability** over time. 
+                    it's also loyalty to yourself  
+
+                    - you may **lose some acquaintances** but **never any real friends**, 
+                    while you can gain a base of solid, loyal people around u  
+
+                + Loyalty  
+                    - Loyalty cannot be part of a person’s morals if he has no real integrity  
+
+                    - you should only be loyal to a group if their intentions match your own  
+
+                    - you should only be loyal to a person if they care about u and your well-being  
+
+                    - Loyalty to someone else is also important but you could be loyal to a bad person 
+
+
+
         + BBQ  
 
     - SELF  
@@ -136,6 +162,8 @@ abstract: "a master self-observer"
             - 不太愿意和**安全感不足的人交往**    
                 + 往往这种人会**把安全放在否定一切的位置上**，像个无底的洞。 自己年轻时候也有安全感不足的时候，没有其他方法，当时只能自我治疗。
                 国家也是这样，追求绝对安全的结果就是其他啥都没信心了  
+
+            - 聚焦自己学到了什么  
 
         + **overconfidence** is better  
             - express confidence in nonverbal ways 
