@@ -29,7 +29,7 @@ abstract: "a master self-observer"
 *  this allows you to look back and see how things turned out  
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
 
-#### 2023-10-30      
+#### 2023-11-06  
 * TODO  
     - LOVE  
 
@@ -55,6 +55,159 @@ abstract: "a master self-observer"
     - SKILLS  
 
     - MEETUP 
+    
+
+#### 2023-10-30      
+* TODO  
+    - LOVE  
+
+    - BUSINESS  
+
+    - PROJECT  
+        + Learn english  
+        + [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)   
+            + read "四步创业法"    
+            + read "Getting Acquired How I Built and Sold My SaaS Startup"  
+            + read “轻创业”  
+            + read “有钱人和你想的不一样”  
+
+* REVIEW  
+    - GOD  
+        + **Guard your value**, **guard your identity**  
+            - 真善美是不言而喻不言自明的存在，而恶事要人花心思去产生的，怎能在同一个位格呢？  
+        
+        + 善肯定是先存在的   
+            - **善才是实体**， **恶是善的亏欠**，恶没有实体， 所以不是二元对立，而是**一元亏损**  
+                + **先有神有伊甸园，有美好和完全，才有恶**  
+                + 恶就是对前者的破坏  
+
+            - **救赎也不是除去恶**，而是恢复原来的完美， reprogram  
+                  
+            - **恶一定要先模糊善恶观念**，然后才能登堂入室 
+                + 口口声声说世界上没有善恶的人，大概率说明他要做恶了  
+                + 辩证法是 恶想要和善占有同样的级别；  辩证法就是**恶想要和善占同样级别的位格**    
+
+        + BBQ  
+
+    - SELF  
+        + **观察你的想法**，判断**它对于你的快乐和成功有没有益处**    
+            - **你有能力控制你的心灵**  
+                + **你会控制你的想法**， 你不会让你的想法控制你  
+                + **你的心灵是在帮助你工作**，你才是船长  
+                + **你可以选择自己要怎么想**， 只要把注意力集中在这些想法上就可以  
+                    
+            - **每件事都是中性的**， **事情的意义都是我们赋予它的**，所以我们要编一个故事， 给予它一些意义  
+                + 我们的想法都不是真实的，既然要编故事，不如**编一个可以支持我们的故事**  
+
+                + **做生意是一边做，一边讲故事**  - **更同时一边改写这个尝试中的故事**   
+                    - **只有你才对事业的发展有个整体概念和信念**，这是推动你作尝试，勇于走向无知，不测的未来的原动力； 创业是一条不断尝试的学习曲线  
+
+                    - 我不相信事业是由一连串的聪明操作做出来的； 我相信事业是概念的延续    
+
+
+            - **只注意那些会加强你力量的想法**，不再专注那些会减弱你力量的想法  
+                + “**谢谢你让我知道这件事**”， 然后就换成其他**更鼓励作用的思考方式**  
+                + 这样的逃避又有什么好处呢？ 
+                    - 我要创造值得自己骄傲的东西    
+                + do not respond to negativity  
+
+            - 不会**因为恐惧而不去做**某些事情   
+
+
+        + 这个世界上有太多人**追求自由的灵魂**，根本不喜欢奴役别人，也不喜欢被别人奴役  
+            - 他们**喜欢美**，**喜欢创造**，**喜欢和平**，**爱开玩笑**，**直来直去**，**聪明无比**   
+            - 你让他们管事儿，他们都嫌烦； 太多这种可爱的事了  
+
+        + 主动帮人解决问题  
+
+
+        + 诱惑绑定  
+            - 限定自己只有在做“**应该做的事”的后**， 才可以享受 “你想做的事”  
+
+
+        + I either love you, **wish you well**, or **I hope you heal**  
+            - I have **no energy to hate anyone**. I honestly have **no space** in my heart to carry that sh*t around .
+
+            - You deserve to be surrounded by **people who bring out your softer side** - not your survival side  
+                + feeling safe to be our softer seleves **heals our nervous system**    
+            
+        + learn to recognize the **thoughtful, kind, generous** people  
+            - they are rare, but they exist, they tend to live private lives  
+            - 不太愿意和**安全感不足的人交往**    
+                + 往往这种人会**把安全放在否定一切的位置上**，像个无底的洞。 自己年轻时候也有安全感不足的时候，没有其他方法，当时只能自我治疗。
+                国家也是这样，追求绝对安全的结果就是其他啥都没信心了  
+
+        + **overconfidence** is better  
+            - express confidence in nonverbal ways 
+                + **body language and tone of voice** -  **standing tall**, **speaking loudly**, 
+            and **dominating conversation**  
+            - one way people express confidence is **verbally**  - with specific expressions of confidence in their judgments  
+                + beneficial until it became clear that performance fell short  
+            
+
+    - FAMILIES  
+        + she is **supposed to celebrate life with u**, not use u as a peon  
+            - Be a man and respect attends to itself  
+
+
+    - BUSINESS    
+        + 付费  - 我提供价值给你，应该被付费  
+            - 更加提升自己，**让自己做的更有价值**  
+            - 相信自己做的事是有价值的  
+
+        + **少数群体要找到自己的 Community**    
+            - 我想着同样适用于中国社会中政治立场上的“少数群体”。 无论在哪里，总还是有那么一些人，在恶劣的环境中依然在坚持自己，
+            没有被政治的高压吞噬。 **找到这些人并加入他们**，或者哪怕只是相信有这些人存在，**对高压环境中失落的个体都有着非凡的意义**。这或许也是“星火”的隐喻之一吧。
+
+        + management  
+            - **Use the right person for the right job**    
+            - 争取资源  
+            - **Don't hire people who hire people to do their jobs**    
+
+            - 在确定的事情上积累，在不确定的事情上， 低成本试错  
+
+        + 去找那些可以**用实际成果证明他们能力的人**， 向他们学习  
+            - 务必确定此人在你所重视的这个领域上**曾经成功过**    
+
+        + 被动收入  
+            - **让钱帮你工作** - 理财工具进行投资  
+                + 股票，债券，汇市，不动产 以及拥有抵押或其他会增值的资产  
+
+            - **让事业为你工作** 
+                + 从事业不断产生收益，而不需亲自参与事业的运作就能接受获利  
+                + 比如出租房产，从书籍，音乐或软件获得版税，专利所得  
+                + 成为经销商，拥有储存库，拥有贩卖机或其他投币式的机器，直销与传销  
+                +  设立任何一种系统化的，不需要靠你就能自行运作的生意  
+
+        + 冲突 - 沟通  
+            - “I wanted to get some time with u to talk about our working relationship. 
+            I feel some dead air, and I think it’s important to **clear it out**”
+
+    - SKILLS  
+        + reduce your stres  
+            - **do not respond to negativity**    
+            - get more sleep  
+            - spend time outdoors  
+            - **give without expecting a get**    
+            - make time to exercise  
+
+        + china  
+            - 太平天国时期，美国传教士 #密迪乐 来到中国，他看到了种种匪夷所思的苦难，然后做出诊断  
+                + 中国最需要的不是现代科技，而是**基础文明** - **契约精神**，**权利意识**，还有**对民主政治和个人自己的理解** - 也就是“普世价值”    
+
+            - 现在中美对决的是**民用科技**，  是**需要市场验证的高科技产品**  
+                + 既然是商品， **性价比就很重要**，而不仅仅是性能先进与否的问题；
+                因此， **市场机制**是不容或缺的基础配置原则。  
+                + **资本市场不仅能够集中社会闲置资源于生产链**， 更加重要的是 它**能够把资源配置给那些最有效率的企业**；
+                **从而最优化的产出和技术创新**         
+                + 军工技术，很显然政府是投资主体，中国原本比较擅长的举国体制或许可以胜任  
+
+            - 中国经济在上升，人家**在经济上跟你竞争**，但在北京的意识中，他们认为这是政治斗争  
+
+
+    - MEETUP 
+        + hiking  yeah
+        + PCT  
 
 
 #### 2023-10-24  
