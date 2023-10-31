@@ -12,7 +12,16 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)
 
 
+
+#### Technology Entrepreneurship: Lab to Market
+* TODO  
+
+* reference  
+    - [Technology Entrepreneurship: Lab to Market](https://learning.edx.org/course/course-v1:HarvardX+LBTechX1+3T2023/home)
+
 #### Entrepreneurial myths  - **the pursuit of opportunity** beyond resources controlled  
+* 生意就是 寻找机会，创造出**有人需要的资源来换钱**    
+
 * pursuit  - **the actions** of an individual entrepreneur - drive, focus, discipline, and balance  
     - Only open mind and willingness to learn  
     -  The best way to prove your credibility is by **making real progress with your idea**  
@@ -170,21 +179,44 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
     - what - the resulting offering  
     
     
-##### Planning Business Logistics  - Growth  
-* TODO  
+##### Growth  - operations and financials    
+* **Operations** include internal logistics, how your offering is made, sold, and delivered  
+    - **the builder** - the tech part  
+        + **manage all of the research and development to get the product made**  
+    
+    - **the brander** - the marketing  
+        + connect your offering to your customer with **the marketing and design**.   
+ 
+    - **the business developer** covers finances and sales    
+        
+* Financials  
+    - **revenue model** for products  
+        + **sell the product** directly  
+        + **license** it to a bigger  company  
 
-* Build a model to meet targets  
+    - revenue model for services  
+        + **charge users** like netflix
+        + **charge businesses** for data or advertising like yelp  
+
+    - Pricing  
+        + start with a higher price and discounting to get to your target amount  
+
+    - sales projections     
+        + Top-down , and down-top  
+
+        + gross profit  
+
+        + net profit  
+
+    - Investment need  
 
 *  [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)  
 
 
-#### Getting Work Done Through Others  
-* TODO  
-
-#### Building Peer Networks  
-TODO  
 
 #### People Management  
+* TODO  
+
 * People management - understanding **human behavior** and **organizational context**    
     - Understand and Deliver Policies to your team in a manner that motivates and enhances employee committed to organizatons  
         + you understand your team best like their capabilities and motivation       

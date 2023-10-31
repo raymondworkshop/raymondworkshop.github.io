@@ -5,6 +5,10 @@ tags: [learning, business, startups]
 abstract: "notes on 肥仔黎"
 ---
 
+#### notes on <创业>  
+* TODO  
+
+
 #### notes on <生意>  
 
 ##### 没有适合的意识便没有分寸  

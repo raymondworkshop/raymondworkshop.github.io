@@ -33,15 +33,32 @@ abstract: "a master self-observer"
 * TODO  
     - LOVE  
 
+    - SELF    
+        + 睡眠  
+            - 在床上休息至少7个半小时  
+
+            -  清晨去沐浴室外明亮的光线  
+                + 早起
+
+            - 3-2-1规则
+                + 睡前3小时停止进食  
+                + 睡前2小时停止工作  
+                + 睡钱1小时停止使用电子产品  
+
+            - 最适合睡眠的温度是 21度或更低  
+
+            - 保持卧室清爽  
+                + 杂物等同于精神上的杂乱  
+
     - BUSINESS  
 
     - PROJECT  
         + Learn english  
         + [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)   
+            + read “创业” by 黎智英  
             + read "四步创业法"    
             + read "Getting Acquired How I Built and Sold My SaaS Startup"  
-            + read “轻创业”  
-            + read “有钱人和你想的不一样”  
+            + read “轻创业”   
 
 * REVIEW  
     - GOD  
@@ -62,14 +79,16 @@ abstract: "a master self-observer"
     - LOVE  
 
     - BUSINESS  
+        + 
 
     - PROJECT  
         + Learn english  
         + [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)   
+            + read “创业” by 黎智英  
             + read "四步创业法"    
             + read "Getting Acquired How I Built and Sold My SaaS Startup"  
             + read “轻创业”  
-            + read “有钱人和你想的不一样”  
+              
 
 * REVIEW  
     - GOD  
