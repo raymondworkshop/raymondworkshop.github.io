@@ -13,11 +13,28 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 
 
-#### Technology Entrepreneurship: Lab to Market
+#### People Management  
 * TODO  
 
-* reference  
-    - [Technology Entrepreneurship: Lab to Market](https://learning.edx.org/course/course-v1:HarvardX+LBTechX1+3T2023/home)
+* People management - understanding **human behavior** and **organizational context**    
+    - Understand and Deliver Policies to your team in a manner that motivates and enhances employee committed to organizatons  
+        + you understand your team best like their capabilities and motivation       
+
+    - People Management is about developing the long term Managerial and Technical capability of people in organizations  
+
+* Two Facets of people management  
+    - Understand and predict human behaviour  
+        + **Understanding perception**    - which you **interpret this situation**     
+            - the perceptual lens that we use shapes the reality of what we see  
+            - perception - a belief or opinion  
+
+        + **Understanding Motivation**  
+
+    - Understand organization structures, strategy and processes  
+
+*  [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2022/home)  
+
+    
 
 #### Entrepreneurial myths  - **the pursuit of opportunity** beyond resources controlled  
 * 生意就是 寻找机会，创造出**有人需要的资源来换钱**    
@@ -214,28 +231,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 
 
-#### People Management  
-* TODO  
 
-* People management - understanding **human behavior** and **organizational context**    
-    - Understand and Deliver Policies to your team in a manner that motivates and enhances employee committed to organizatons  
-        + you understand your team best like their capabilities and motivation       
-
-    - People Management is about developing the long term Managerial and Technical capability of people in organizations  
-
-* Two Facets of people management  
-    - Understand and predict human behaviour  
-        + **Understanding perception**    - which you **interpret this situation**     
-            - the perceptual lens that we use shapes the reality of what we see  
-            - perception - a belief or opinion  
-
-        + **Understanding Motivation**  
-
-    - Understand organization structures, strategy and processes  
-
-*  [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2022/home)  
-
-    
 
 #### Entrepreneurship For Everyone  
 
