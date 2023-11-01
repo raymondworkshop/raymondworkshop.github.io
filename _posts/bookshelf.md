@@ -8,7 +8,9 @@ date: 2012-03-19
 
 #### course  
 * Entrepreneurship  
-    - [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)  
+    - [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2022/home) 
+
+    - [Microeconomics & Business](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2022/home)  
 
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
 
@@ -16,7 +18,6 @@ date: 2012-03-19
 
     - [DO Your Venture](https://www.edx.org/course/do-your-venture-entrepreneurship-for-everyone)  
 
-    - [Microeconomics & Business](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2022/home)  
 
 * Leadership Essentials  
     - [Critical Thinking & Problem Solving](https://www.edx.org/course/critical-thinking-problem-solving-3)   
