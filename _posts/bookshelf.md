@@ -30,10 +30,20 @@ date: 2012-03-19
 
 
 #### reading-2023  
-* [我做生意的心得]  
+* [创业-事实与偏见] 
+* [Designing Your Life: How to Build a Well-Lived, Joyful Life](https://book.douban.com/subject/26878394/)  
+* [Trump: The Art of the Deal](https://book.douban.com/subject/1817125/)   
+* [Secrets of the Millionaire Mind](https://book.douban.com/subject/1776200/)  
+* [The Open Society and Its Enemies](https://book.douban.com/subject/35013329/)  
+
 * [We Need to Talk: How to Have Conversations That Matter]  
-* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford   
 * [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb  
+
+* [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
+* [Rich Dad, Poor Dad](https://book.douban.com/subject/1341506/) by Robert T. Kiyosaki   
+
+
+* [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford   
 * [Code Complete - A Practical Handbook of Software Construction](https://book.douban.com/subject/1432042/)  
 * [Deep Learning from Scratch](https://book.douban.com/subject/30270959/)  
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
@@ -42,13 +52,11 @@ date: 2012-03-19
 * [Start Small, Stay Small](https://book.douban.com/subject/5924300/) by Rob Walling    
 * [A Guide to the Good Life](https://book.douban.com/subject/4684151/) by  William B. Irvine  
 * [500 Lines or Less](https://aosabook.org/en/index.html)  
-* [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 
 * [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  (9/10)  
 * [紅玫瑰与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲 (9/10)  
 * [Meditations](https://book.douban.com/subject/30313414/)  
 * [Your Erroneous Zones](https://book.douban.com/subject/1795975/) by Wayne W. Dyer  
-* [Rich Dad, Poor Dad](https://book.douban.com/subject/1341506/) by Robert T. Kiyosaki   
 * [HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)  
 * [HBR's 10 Must Reads on Managing Yourself](https://book.douban.com/subject/5415037/)  
 * [Code](https://book.douban.com/subject/1494026/) by Charles Petzold  
