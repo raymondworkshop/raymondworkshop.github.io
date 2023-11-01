@@ -8,7 +8,6 @@ date: 2012-03-19
 
 #### course  
 * Entrepreneurship  
-    - [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2022/home) 
 
     - [Microeconomics & Business](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2022/home)  
 
@@ -20,6 +19,8 @@ date: 2012-03-19
 
 
 * Leadership Essentials  
+    - [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2022/home) 
+
     - [Critical Thinking & Problem Solving](https://www.edx.org/course/critical-thinking-problem-solving-3)   
 
     - [Teamwork & Collaboration](https://www.edx.org/course/teamwork-collaboration-3)  

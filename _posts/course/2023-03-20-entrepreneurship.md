@@ -14,23 +14,34 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 
 #### People Management  
-* TODO  
 
-* People management - understanding **human behavior** and **organizational context**    
-    - Understand and Deliver Policies to your team in a manner that motivates and enhances employee committed to organizatons  
-        + you understand your team best like their capabilities and motivation       
+* Getting Work Done Through Others  
+    - TODO  
 
-    - People Management is about developing the long term Managerial and Technical capability of people in organizations  
-
-* Two Facets of people management  
-    - Understand and predict human behaviour  
-        + **Understanding perception**    - which you **interpret this situation**     
-            - the perceptual lens that we use shapes the reality of what we see  
+* People management    
+    - Understanding and predicting **employee behaviour**    
+        + **Understanding perception and interpretation**    - which you **interpret this situation**     
+            - the perceptual lens that we use **shapes the reality of what we see**  
             - perception - a belief or opinion  
+            - how do I manage my perceptual biases?  
 
-        + **Understanding Motivation**  
+        + **Identifying the intrinsic and extrinsic Motivation** is a key aspect of development  
+            - **intrinsic** - passion, drive, accomplishment, recognition, challenging task  
 
-    - Understand organization structures, strategy and processes  
+            - **extrinsic** - pay, human resource, managerial support, working condition 
+
+    - Understanding organizational system and processes  
+        + Organizational Structure  
+
+        + Organizational Culture  
+
+    - **a broker** to align the organizational expectations with the team's expectations.   
+        + Trust  
+        + see the big picture   
+        + Integrity  
+        + make touch decisions  
+
+ 
 
 *  [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2022/home)  
 
@@ -228,9 +239,6 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
     - Investment need  
 
 *  [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)  
-
-
-
 
 
 #### Entrepreneurship For Everyone  
