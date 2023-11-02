@@ -16,7 +16,58 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 #### People Management  
 
 * Getting Work Done Through Others  
-    - TODO  
+    - Stakeholders management, differing expectations    
+
+    - **prioritize** your tasks  
+        + list **to-do tasks**   
+
+        + determine what is **urgent** and what is **important**  
+
+        + understand **which tasks have long term value** for you, your manager, and your organization  
+            -  **access periodically which of the tasks are high impact and value**    
+
+        + think about **the effort required** to complete the task  
+
+        + be flexible  - reprioritize once there is a crisis  
+
+
+    - **understand your team**      
+        + requirement to understand  
+            - **abilities** , motivation, need, aspirations, skills, knowledge, expertise  
+
+        + understand whether **they are performing**  or not performing   
+
+        + Understanding **diversity**  
+            - **bring out those different perspectives**, **integrate them** and **provide some meaningful solution to** your tem  
+
+    - defining and assigning tasks effectively    
+        + **delegation**  
+            - it requires you, as a manager, to **trust**    
+                + when I assign responsibility I know that individual will deliver to the best of their capability 
+
+            - **by delegating more** you will be able to do things that are **important** , that **add value**  to yourself and the organization  
+
+            - delegation is also about the opportunity that **i get for myself to be able to grow in my career and responsibility**  
+
+        + **assigning tasks**   
+            - have **periodic conversations** with your employee  
+                - good understanding of both **the knowledge that the employee has**, 
+                and also the understanding about **the job that the employee has**  
+                + what is it that he or she is **doing**  
+                + what are the ways in which it could be **done differently**  
+                + do they see **ways of improving** what it is that they are doing  
+
+            - **Keep an open mind** when you are using that feedback that you get from different people  
+                + have an independent assessment of the team member for yourself 
+                + assign some responsibilities, **track them carefully**, **understand why they are performing** or not able to perform before you arrive at a judgment  
+
+            - provide periodic **feedback** that **help the team members to grow**   
+    
+            
+          
+    - 2.5 Weekly Insights and Conclusion  
+        + TODO  
+
 
 * People management    
     - Understanding and predicting **employee behaviour**    

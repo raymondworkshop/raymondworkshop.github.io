@@ -35,8 +35,8 @@ date: 2012-03-19
 * [Trump: The Art of the Deal](https://book.douban.com/subject/1817125/)   
 * [Secrets of the Millionaire Mind](https://book.douban.com/subject/1776200/)  
 * [The Open Society and Its Enemies](https://book.douban.com/subject/35013329/)  
-
 * [We Need to Talk: How to Have Conversations That Matter]  
+
 * [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb  
 
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
