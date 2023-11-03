@@ -7,6 +7,17 @@ abstract: "notes on 肥仔黎"
 
 #### notes on <创业>  
 
+##### 大波莲与飞仔黎  
+* 我们直接处理生产流程，**透过和工人的接触，交谈****掌握他们工作上遇到的困难**。 这样我们便有机会不断简化和修正生产系统，方法和程序。  
+    + have **periodic conversations** with your employee  
+        - good understanding of both **the knowledge that the employee has**, 
+                and also the understanding about **the job that the employee has**  
+            + what is it that he or she is **doing**  
+            + what are the ways in which it could be **done differently**  
+            + do they see **ways of improving** what it is that they are doing  
+
+* **解决了每一天的困难**，**我也就学到新的东西**，**有新的体会**，而更重要的是**这让我发现自己新的能力**。 那么我又怎能不每一天都兴奋莫名？  
+
 ##### 双手是大脑的先锋  
 * 我们于是**收拾心情**，决定**不再计划**，**见步行步**，**以实际行动**走出困境  
 
@@ -28,6 +39,7 @@ abstract: "notes on 肥仔黎"
 * **诚信**是做生意宝贵的资产。   
 
 * 我就是骑骆驼上路，**希望在生意的旅途上，透过不断吸收教训，不断忏悔**，将骆驼逐渐琢磨变成一条细小得穿得过针孔的骆驼毛，到其时天堂的路便会给我敞开了。  
+
 
 ##### 记住，那是一双好心人的手  
 * 跟我共事过的人都还**对我的为人有信心**  

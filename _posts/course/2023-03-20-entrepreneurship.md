@@ -15,8 +15,13 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 #### People Management  
 
+* Assessment and Evaluation  
+    - TODO  
+
 * Getting Work Done Through Others  
-    - Stakeholders management, differing expectations    
+    - **Stakeholders management** is one of the key aspects of being an effective manager  
+        + differing expectations    
+        + **figure out how the interest** of customers, suppliers, communities, employees and financier **go in the same direction**  
 
     - **prioritize** your tasks  
         + list **to-do tasks**   
@@ -26,18 +31,19 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
         + understand **which tasks have long term value** for you, your manager, and your organization  
             -  **access periodically which of the tasks are high impact and value**    
 
-        + think about **the effort required** to complete the task  
+            - think about **the effort required** to complete the task  
 
-        + be flexible  - reprioritize once there is a crisis  
+        + be flexible  - reprioritize once there is a crisis  apparently
 
 
-    - **understand your team**      
-        + requirement to understand  
-            - **abilities** , motivation, need, aspirations, skills, knowledge, expertise  
+    - **understand your team members**      
+        + Don't use your own yardsticks to access your team members  
+            - requirement to understand  
+                + **abilities** , motivation, need, aspirations, skills, knowledge, expertise  
 
-        + understand whether **they are performing**  or not performing   
+            - understand whether **they are performing**  or not performing   
 
-        + Understanding **diversity**  
+        + **recognize and engage with diversity of thoughts**    
             - **bring out those different perspectives**, **integrate them** and **provide some meaningful solution to** your tem  
 
     - defining and assigning tasks effectively    
@@ -45,9 +51,12 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
             - it requires you, as a manager, to **trust**    
                 + when I assign responsibility I know that individual will deliver to the best of their capability 
 
-            - **by delegating more** you will be able to do things that are **important** , that **add value**  to yourself and the organization  
+                + **by delegating more** you will be able to do things that are **important** , that **add value**  to yourself and the organization  
 
-            - delegation is also about the opportunity that **i get for myself to be able to grow in my career and responsibility**  
+                + delegation is also about the opportunity that **i get for myself to be able to grow in my career and responsibility**  
+
+            - outline the expectation, get them specific comments  
+                + I shoud not do this, I am the manager  
 
         + **assigning tasks**   
             - have **periodic conversations** with your employee  
@@ -59,14 +68,13 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
             - **Keep an open mind** when you are using that feedback that you get from different people  
                 + have an independent assessment of the team member for yourself 
-                + assign some responsibilities, **track them carefully**, **understand why they are performing** or not able to perform before you arrive at a judgment  
+                + assign some responsibilities, **track them carefully**, **understand why they are performing** 
+                or not able to perform before you arrive at a judgment  
 
             - provide periodic **feedback** that **help the team members to grow**   
     
-            
-          
-    - 2.5 Weekly Insights and Conclusion  
-        + TODO  
+    - TODO  
+        + [Successful Delegation](https://www.mindtools.com/aru27rv/successful-delegation) 
 
 
 * People management    

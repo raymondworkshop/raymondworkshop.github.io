@@ -15,6 +15,8 @@ date: 2012-03-19
 * [thewirechina](https://www.thewirechina.com/)
 
 #### insightful  
+* [ILLIMITABLE MEN](https://illimitablemen.com/)  
+* [Startup Playbook(https://playbook.samaltman.com/)
 * [How to Get Rich](https://nav.al/rich)  
 * [Thoughts on Man's Purpose in Life](https://govleaders.org/rickover-purpose.htm)  
 * [My Approach to Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)

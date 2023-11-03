@@ -67,6 +67,8 @@ abstract: "Notes on energy and time management skills"
 
     - 北潭凹  
     - 大潭  
+    - 千島湖大欖涌水塘  
+    - 流水響郊遊徑  
 
 
 ##### swimming  
