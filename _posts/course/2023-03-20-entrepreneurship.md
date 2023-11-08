@@ -15,8 +15,37 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 #### People Management  
 
-* Assessment and Evaluation  
-    - TODO  
+* Performance Management - Assessment and Evaluation  
+    - **Align** employee action with the firms goals  
+        + **planing and goal setting**   -> **set direction** for your team members  
+            - **broken down** to an individual level  
+        + **coaching and feedback**    
+            - Leadership  
+                + depend on others to get work done  
+                + delegate for self growth  
+                    - **people whom you can trust**, **to whom you can delegate**,
+                    and **who will then take over responsibility from you**  
+                    - free up more time for you to do **what is important** both from an 
+                    organizational perspective as well as your own personal growth and career perspective    
+            
+            -  **good coaching** = review  + feedback  
+                + reflect on your capability to **coach others**
+                    - coaching lies your own personal growth 
+
+                + **have the following information** before your coach  
+                    - **clarity about the performance goals and measurements** for each team  
+                    - have a good sense of what are the **organizational constraints** that could be obstructing performance from an employee's point of view  
+                        + employee is overloaded?  not have adequate resources? 
+
+                    - good sense of **personal constraints** that are allowing an employee not to perform   
+                        + lack of motivation, skills, or knowledge  
+                    - **clarity on how to give feedback** to that employee  
+
+                + you will **use objective data to support subjective assessment**    
+
+
+        + **evaluation and measurement**    
+            - 3.4 TODO  
 
 * Getting Work Done Through Others  
     - **Stakeholders management** is one of the key aspects of being an effective manager  

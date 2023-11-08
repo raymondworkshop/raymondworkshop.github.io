@@ -30,7 +30,16 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
 
 
+#### 2023-11-13  
+* TODO  
+    - LOVE  
 
+    - SELF  
+
+    - BUSINESS  
+
+    - PROJECT  
+  
 
 
 #### 2023-11-07    
