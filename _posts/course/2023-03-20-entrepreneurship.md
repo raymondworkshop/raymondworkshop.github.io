@@ -15,10 +15,14 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 #### People Management  
 
+* Building Peer Networks 
+    - TODO  John
+
 * Performance Management - Assessment and Evaluation  
     - **Align** employee action with the firms goals  
         + **planing and goal setting**   -> **set direction** for your team members  
             - **broken down** to an individual level  
+        
         + **coaching and feedback**    
             - Leadership  
                 + depend on others to get work done  
@@ -30,7 +34,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
             
             -  **good coaching** = review  + feedback  
                 + reflect on your capability to **coach others**
-                    - coaching lies your own personal growth 
+                    - **coaching lies your own personal growth**   
 
                 + **have the following information** before your coach  
                     - **clarity about the performance goals and measurements** for each team  
@@ -45,7 +49,18 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 
         + **evaluation and measurement**    
-            - 3.4 TODO  
+            - have a thorough knowledge of the performance appraisal format  
+                + have clarity and understanding of the context  
+                + **observe and monitor performance**    
+                + make **judgments on individual performance**    
+                + create a **personal development plan**    
+Complete
+            - help the person become **more self-aware**    
+                + help you understand what is **your own style**    
+                + **how much are we able to capture and understand the clues** that people give us  
+                    - "maybe you should have done this differently"  
+                    - "I think there is another way to look at this problem"  
+
 
 * Getting Work Done Through Others  
     - **Stakeholders management** is one of the key aspects of being an effective manager  
