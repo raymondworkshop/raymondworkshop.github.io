@@ -31,6 +31,7 @@ date: 2012-03-19
 
 #### reading-2023  
 * [创业-事实与偏见] 
+* [Hit Refresh](https://book.douban.com/subject/27614523/) by Satya Nadella  
 * [How to Become a People Magnet](https://book.douban.com/subject/36238899/)
 * [Designing Your Life: How to Build a Well-Lived, Joyful Life](https://book.douban.com/subject/26878394/)  
 * [Trump: The Art of the Deal](https://book.douban.com/subject/1817125/)   
