@@ -16,7 +16,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 #### People Management  
 
 * Building Peer Networks 
-    - TODO  John
+    - TODO 
 
 * Performance Management - Assessment and Evaluation  
     - **Align** employee action with the firms goals  
