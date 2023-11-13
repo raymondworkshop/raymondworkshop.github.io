@@ -39,6 +39,17 @@ abstract: "a master self-observer"
     - BUSINESS  
 
     - PROJECT  
+
+* REVIEW  
+    - GOD  
+
+    - SELF  
+
+    - FAMILIES  
+
+    - BUSINESS  
+
+    - MEETUP  
   
 
 
