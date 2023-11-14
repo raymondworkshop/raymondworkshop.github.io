@@ -33,6 +33,7 @@ abstract: "a master self-observer"
 #### 2023-11-20  
 * TODO  
     - LOVE  
+        + invitation  
 
     - SELF  
         + 人际关系  
