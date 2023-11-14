@@ -30,26 +30,144 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
 
 
-#### 2023-11-13  
+#### 2023-11-20  
 * TODO  
     - LOVE  
 
     - SELF  
+        + 人际关系  
+            - 《亲密关系》 
 
-    - BUSINESS  
+    - BUSINESS    
+        + [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)   
+            + read “创业” by 黎智英  
+            + read "四步创业法"    
+            + read "Getting Acquired How I Built and Sold My SaaS Startup"  
+            + read “轻创业”   
 
     - PROJECT  
+        + Learn english 
+
+
+#### 2023-11-13  
 
 * REVIEW  
     - GOD  
 
     - SELF  
+        + 感到弱小， 不能主导  
+            - 不敢看回复  
+
+        + ask yourself before to do anything  
+            - will it make me **money** ?  
+                + earning  
+            - will it give me **fun**?  
+                + relaxing  
+            - will it make me **wiser**?  
+                + learning  
+
+        + spend your time **earning, learning, or relaxing** if you wanna be wealthy  
+            - **outsource or ignore** everything else   
+            
+
+        + **钱就是自由** 
+            - 只有钱可以买下一家人的命  
+            - 不能把钱降低到一点都不在乎的地步； 
+            人生中最重要的东西不一定恩那个用钱来换  
+        
+        + 属于你的积极争取，不属于你的果断放弃  
 
     - FAMILIES  
+        + 给Ivy 发邀请  
+            - 不敢看回复  
+            - 喜欢别人 
+                + 自己就觉得自卑  
+
+        + choose a **supportive** woman  
+            - one **uplfts** and **doesn't drain you**  
+            - the right woman will embrace your vulnerability and strengthen your bond    
+
+        + 帮姐转钱  
 
     - BUSINESS  
+        + **don't hire people who hire people to do their jobs**  
+            - don't work for people who hire people to do their jobs  
+            - it emphasises the **importance of personal involvement and accountability** in decision-making  
+
+        + 如何开发市场？  
+            + **自用**  
+            + **服务**+**教育**  
+                - “**有什么问题，我给你讲**”   
+
+            + **站的定**，**好有自信**    
+
+        + 相对于别人的财产，人们**更爱护自己的财产**；
+            - 为了得到斯密式的结果，你**需要一种货币来促进交换**。  
+            为了让这种货币受到广泛尊重，我们使用的诀窍是**由主权国家发行货币**
+
+        + **研究是创造新知识**， **产生有意义的新组合越多**，产生新成果概率就越大  
+            - **伟大的创新是不能被计划的**，但是支持更多人进行创新，伟大创新涌现的概率就会增加  
+            - **所有科技的进步都产生新的知识组合**，它不是无中生有地创造了全新的知识； **任何复杂的知识都是最基本的知识的组合**，只不过组合的复杂程度不一样  
+            - **产生有意义的新组合是个概率问题**，一定要产生新组合足够多，才会有足够多的有意义的新组合  
+            - 支持研究的人越多，产生新组合就越多，就越会更多产生有意义的新组合  
+    
+    - SKILLS  
+        + **不要假设**，**多问一步**，**求证**, 问 为什么    
+            + rejection therapy - 如何不再怕被拒绝？  
+            
+            + 当人拒绝时，学习能将'No' 变 'yes'  
+                - **讲出对方的疑问**，**得到对方的信任**  
+
+        + 沟通能力  
+            - **好好倾听，先去理解别人**  
+                + **先彻底理解对方的想法**，充分理解他们所说的话  
+
+            - **让对方显示你听到了**，并且明白他们的意图  
+                + “**正是**”  
+                + **然后**， 可以给对方提出一些建议， 或者挑战对方说的话或观点  
+
+            - **审视下自己的讲话习惯**  
+
+            - **不要以批评别人为目的**  
+                + **倾听是为了理解**，并不是为了攻击别人  
+
+            - 选择交流的适当渠道  
+                + **面对面交流**是最好的形式  
+                + **电话交流缺少当面观察的机会**，全靠声音传达信息  
+                + 短信交流，只有文字，连声音都没有  
+
+
+
+        + 上下人际关系 
+            + **向上链接**，但不要向上索取    
+                - 与高能量的人相处，**多展示自己的价值**，**增加有被他需要的可能性**，时机到了他会提携你  
+
+            + **向下兼容**， 但不要向下链接  
+                - 与低能量的人相处，**只需包容**，**满足他的精神情绪**即可  
+
+        + **科举制度对中国人的思维方式的塑造**  
+            - 科举制产生的考试文化是一种**非常强调个人竞争**而**非集体协作的文化**， 而抗议，选举等民主行为是需要协作的集体行为  
+
+            - 中国的文化是**不鼓励我们跟别人协同去做一件事情**的，但是我们高度**鼓励你个人要取得你自己的成绩**，**靠个人奋斗**，靠自我的提拔  
+
+            - **缺乏思辨文化**， **缺乏“权利意识”**  
+                + 因为“他们不把糟糕的政策和产生这种政策的体制联系在一起”，这跟中国**缺乏思辨文化** 有关。  
+                此外，很多中国人依旧**缺乏“权利意识”** ，没有厘清**国家的概念** 以及**国家与“公民”的先后顺序** ，这在一定程度上默许了政府越界  
+
+            - 普世价值  
+                + 以“**尊重他人的权利**、**保障利己和自由的权利**、**拥有惩戒害人者的权利**”者三项原则为最主要的表现，三位一体而不可分割  
+
 
     - MEETUP  
+        + amway meetup  
+
+        + 私家车堂  
+
+        + 见 马伟姐  
+            - 私人关系  
+
+        + <喜欢你我也是>  
+        
   
 
 
