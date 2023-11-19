@@ -7,7 +7,7 @@ Hi, I'm Raymond ZHAO Wenlong. I am a freelance developer with a broad skillset a
 
 I was a Technical Officer in HSUHK, RA (in Chinese University of Hong Kong, City University of Hong Kong, and Hong Kong Baptist University), and Software Engineer in Alcatel-Lucent (now Nokia Corporation) and HKCREO (a Fintech startup).  
 
-I got my M.Sc. in Computer Science at Chinese University of Hong Kong and B.Eng. in Electronic and Information Engineering at WuHan University. He also hold a Diploma in International Business Communication at The University of Hong Kong.  
+I got my M.Sc. in Computer Science at Chinese University of Hong Kong and B.Eng. in Electronic and Information Engineering at WuHan University.   
 
 I live in Hong Kong. I am also available for short term consulting, [reach out](bestraymond@icloud.com) if you'd like to chat.  
 
