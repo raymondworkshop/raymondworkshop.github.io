@@ -31,20 +31,158 @@ abstract: "a master self-observer"
 
 
 #### 2023-11-20  
-* TODO  
+* REVIEW    
     - LOVE  
-        + invitation  
+        + ~invitation~  
 
     - SELF  
-        + 人际关系  
-            - 《亲密关系》 
+        + 我想要什么？  
+            - 发现真理 - **了解自己是谁**    
+            
+        + 早上准时起床， 不要赖床  
+
+
+        + **when we see ourselves clearly**    
+            - we are more confident and more creative  
+            - we also make better decisions and communicate more effectively  
+
+        + confident  
+            - **get into shape** and **dress well**    
+                + the easiest way to become confident is to **look good**    
+            - **everyone is human**  
+                + everyone has their problems, insecurities, and doubts  
+                + stop thinking they're better than you  
+
+        + **不要自证清白**    
+            - **自证清白说明你给了别人审判你的权力**    
+            - 你没法证明你没做这件事，你没法证明你心里的动机不龌龊  
+
+    - Families    
+
+        + **开朗，善良， 勇敢，知道自己要什么**  
+            - 不纠结，简单直接; 不猜疑，不拐弯抹角  
+
+        + SELF - **直接，大胆地表达自己内心的感受**  
+            - **表达感受**  
+                + “**我有一些困惑，分不清你的一些状态**”  
+                + “**我观察到你已经不了解我了**， **你对我的想法是什么**？” 
+                + “我觉得挺好的，昨天你有觉得我心情不好吗？ 还是你昨天比较累？”  
+
+            - 提出需求  
+            - 给出做法  
+                + **有没有想共同解决**？  
+
+        + 爱具体的人，而不是抽象的概念  
+            - 在**彼此匹配和筛选的过程**中， 你**不断的看到自己**，**看到对方**； **不断确定彼此心意和适合度**    
+            - 这个过程很重要，**当度过这个过程**，**你就会觉得很幸福**  
+
+
+        + 寻找亲密关系，其实就是 **寻找自我**  
+            - **了解自己的期望**及**背后的需求**  
+                + “**我真正想要她给我的是什么**？”  
+                + 我们希望伴侣做或说一些事，其实是**为了满足自己某些情绪上的需求**    
+                + 幼时的需求， 便是构筑梦中情人的骨架 - **归属感和确认自己的重要性**  
+
+            - **我愿不愿意放弃这项期望呢**？  
+                + 我愿不愿意不再把满足这项需求当作伴侣的职责？  
+                **我愿不愿意寻求自己内在的力量来满足我的所有需求**？     
+
+            - **怎样才能知道你是不是真的放手了呢**？  
+                + **如果你感到爱在你和伴侣之间交流**，**你就知道你已做到**  
+                + **如果你没有感到轻松**，**那么你可能还没有完全放手** 
+                或者，如果你真的已经放手，却发现在第一个期望背后，还有另一个更强的期望等着浮现  
+
+            - **一切都取决于你的意向**  
+                + **如果愿意放手**，就有机会发现，**你所需要的一切**，**其实都存在于你心里**，**不假外求**；
+                如果不愿意放手，就请做好心理准备来面对更糟的情形  
+                + **不被满足的期望**，**迟早会变成愤恨**  
+
+                + 如果有精神上的信仰  
+                    - 在你不再用期望来束缚伴侣之后，你**可以想象自己已把需求交付给内心的那种高层次的力量**  
+
+            - **学习放手和接受**  
+                +  **当放弃一项需求时**，**我们便把心中原本被需求占据的空间释放出来**；
+                宇宙中是不容许有空洞存在的，所以**我们心中的空间就会被爱所填满**  
+                +  如果不把自己的需求强加在伴侣身上，你就**能在自己内心找到你真正需要的事物**；
+                **摆脱了需求的束缚**，**你就能感受到纯粹的爱**； 然后，**你能和情人分享的事情就更多了**  
+                + **学着接纳你的伴侣**，**也能让你学习到接纳本来的自我**，而不再认为你需要些什么来让自己变得完整    
+                + 学会放手和接纳之后，你一定会明白，**你原本就是一个完整的个体**，**所需要的一切，都存在于你心中**    
+
+            - 在亲密关系月晕现象的中心，**存在着真爱之光**  
+                + 这种力量，才是 **人与人互相吸引的真正原因**  
+
+
+
+        +  人际关系  
+            -  **choose your friends carefully**, ensuring that you both are **mature** and have **enough self-esteem to build trust over time**  
+
 
     - BUSINESS    
+        + Money doesn't buy happiness - it **buys freedom**    
+
         + [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+3T2023/home)   
-            + read “创业” by 黎智英  
-            + read "四步创业法"    
-            + read "Getting Acquired How I Built and Sold My SaaS Startup"  
-            + read “轻创业”   
+            - read “创业” by 黎智英  
+            - read "四步创业法"    
+            - read "Getting Acquired How I Built and Sold My SaaS Startup"  
+            - read “轻创业”   
+
+        + when you become a leader, your job is to **define the problem**   
+            - not solve it  
+
+            - **成就需求比较高的人**， 他们**选择的目标往往有相当的挑战性**，但**同时也有相当胜算的概率**  
+                + 在这过程中，他们往往**要进行仔细的权衡和慎重的选择**。 这就是企业家精神  
+
+        + networking 
+            - **热情**  
+                + **fake it until you make it**  
+            - 好奇心  
+                + every person is **a door to a different world**  
+            - **喜欢你**  
+                + 有什么推荐哈  
+                + 真是没想过  
+            
+            - FORM 一个人的资讯  
+                + 
+              
+
+
+
+        + walking **the line between confidentiality and transparency**    
+            - **Set the mode** - "work mode" or "friend mode"  
+            - First, **choose your friends carefully**, ensuring that you both are **mature** and have **enough self-esteem to build trust over time**  
+            - Then **set expectations at the start** about **what you can** and **can't share**.   
+                + **Be clear, in your roles in converstaion** whether you're talking in 'work mode' or 'friend mode'  
+            - Then, be transparent with others in your organization about your friendship  
+            - Finally, do your job, even if it requires difficult conversations  
+
+
+        + Social skills  
+            - **calling people by name** is a great way to set yourself apart  wherein a conversation  
+            - **being an active, attentive listener** is a key part of good social skills  
+                + ask open-ended questions - "what are your plans for the weekend?"  
+            - end conversations **gracefully**  
+                + simply mention sth else you have to do, thank the person for their time,
+                and let them know that you'd like to talk again some other time  
+                + "I have to go to class, but **it was great talking to you**. **want to grab coffee sth**."  
+            - read a classic literature novel  
+
+    - SKILLS  
+        + EQ - how you see yourself clearly 
+            - taking time to **acknowledge how you feel about experiences**    
+            - pay attention to **your body**  
+            - observe **how your emotions and behavior are connected**    
+                + when you feel strong emotions, **how do u react**?  
+            - avoid judging your own emotions  
+                + **all the emotions you have are valid**, even the negative ones  
+            - practice **deciding how to behave**  
+                + you can't help what emotions you feel, but you can **decide how you wanna react to them**    
+
+        + **把问题清楚的写下来**，问题就已经解决了一半  
+
+        + china  
+            + 不是市场经济本事导致道德溃败，而是不讲规则的市场经济，处处都**讲“潜规则”的市场经济导致道德溃败**    
+
+    - MEETUP    
 
     - PROJECT  
         + Learn english 
