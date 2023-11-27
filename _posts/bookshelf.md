@@ -33,6 +33,7 @@ date: 2012-03-19
 
 * [创业-事实与偏见] 
 * [亲密关系](https://book.douban.com/subject/27072923/) by Rowland S. Miller  
+* [HBR Guide to Negotiating]
 * [富爸爸穷爸爸](https://book.douban.com/subject/1033778/)  
 * [Hit Refresh](https://book.douban.com/subject/27614523/) by Satya Nadella  
 * [How to Become a People Magnet](https://book.douban.com/subject/36238899/)
