@@ -35,19 +35,16 @@ date: 2012-03-19
 * [亲密关系](https://book.douban.com/subject/27072923/) by Rowland S. Miller  
 * [HBR Guide to Negotiating]  
 * [富爸爸穷爸爸](https://book.douban.com/subject/1033778/)  
-* [Hit Refresh](https://book.douban.com/subject/27614523/) by Satya Nadella  
-* [How to Become a People Magnet](https://book.douban.com/subject/36238899/)
+* [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey  
+* [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer 
 * [Designing Your Life: How to Build a Well-Lived, Joyful Life](https://book.douban.com/subject/26878394/)  
 * [Trump: The Art of the Deal](https://book.douban.com/subject/1817125/)   
 * [Secrets of the Millionaire Mind](https://book.douban.com/subject/1776200/)  
 * [The Open Society and Its Enemies](https://book.douban.com/subject/35013329/)  
-* [We Need to Talk: How to Have Conversations That Matter]  
 
 * [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb  
 
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
-* [Rich Dad, Poor Dad](https://book.douban.com/subject/1341506/) by Robert T. Kiyosaki   
-
 
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford   
 * [Code Complete - A Practical Handbook of Software Construction](https://book.douban.com/subject/1432042/)  
