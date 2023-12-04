@@ -54,7 +54,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
                 + **observe and monitor performance**    
                 + make **judgments on individual performance**    
                 + create a **personal development plan**    
-Complete
+
             - help the person become **more self-aware**    
                 + help you understand what is **your own style**    
                 + **how much are we able to capture and understand the clues** that people give us  
@@ -144,7 +144,6 @@ Complete
         + Integrity  
         + make touch decisions  
 
- 
 
 *  [People Management](https://learning.edx.org/course/course-v1:IIMBx+HR101x+2T2022/home)  
 

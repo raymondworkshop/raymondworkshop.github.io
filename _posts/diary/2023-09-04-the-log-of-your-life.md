@@ -30,12 +30,181 @@ abstract: "a master self-observer"
     - a long-running note where I store the date, the person/project, the decision or piect of feedback given and then a column for how things turned out  
 
 
+#### 2023-12-04  
+* TODO  
+    - LOVE  
+
+    - 读圣经  
+
+    - BUSINESS  
+        + HKOI 培训辅导  - <美国前奥数国家队教练罗博深，每个孩子都应该学奥数>
+
+        + 销售技能  
+
+        + reading  
+
+
+* REVIEW  
+    - GOD  
+        + **有什么礼物或经验， 是我的灵魂想借着这件事赐给我的吗**？  
+            - **真心相信自己的灵魂**， **没有什么问题是大到爱无法解决的**    
+
+        + **心安**的感觉  
+            - 符合神的心意  
+
+            - **向神敞开**， 多听神的话  
+
+        + 亚当夏娃的选择导致每个人一生下来就有罪的本性，**罪的倾向**    
+            - 透过**对基督的信**， 我们可以从罪的后果中得到解脱，最后**从罪里解脱**    
+
+        + 没有很深的体会  
+
+    - SELF  
+        + **人的话听听就完了**     
+            - **我们说出来的都是perspective** , **主观感受和客观事实编制过后的产物** 
+
+            - 人不完全，语言也有极大的局限性，本事又不是个完美的工具    
+
+
+        + **防人之心不可无**    
+            - 别人怎么看你，不关你的事  
+
+            - **目标是用来指引方向的**，不是用来达成的  
+
+        + 职场成功要素 是 **沟通力**    
+            - 最大的挑战是 **克服认知差距**   
+                + 人对于认知是先天有差异的，如果**能理解认知差异存在**，**就会有更多同理心**    
+            - 解决认知差异的困扰就是 **靠提问**  
+                + **提问是种校准**，在任何环境下都要**保持好奇心**，并多开口**练习提问**，**消泯认知差异**  
+                + 藉由**提问中学习**，**互信**  
+
+            - **自我领导力** - 为人  
+                + 自我领导力， 能不能**领导自己成为更满意的人**， 面对困境是不是能迎风前行，突破自我，炼心  
+            - 成事  
+                + **解决问题的能力**，需要经验与学习  
+
+
+        + **财富背后带来的独立和自由**    
+
+        
+        + 西方真正推崇的是**信心**和**勇气**  
+            - 对**自我identity的把握和自豪**，**对世界的信任和热爱**； 这是建立在信仰基础上的    
+
+
+        + **判断能力**  
+            - 他看起来如此**镇定**，如此**优雅**，**总是先思考一步**，**知道每个人在哪里**，**用大脑控制身体**    
+
+
+        + **降低内耗**  
+            - **不预设**  
+            - 我只跟对方自然的沟通，**不预设对方是否喜欢我**，**不预设是否话里有话**    
+            - **如果遇到什么问题，我就坦诚沟通，就事论事**。 也不要担心对方会不会因为我的发问产生偏见  
+            - **不惧怕坦诚沟通，这是筛选的过程**。  你坦诚， 留下的自然就是坦诚的人  
+
+        + The output of a human life is essentially **the expression of our repeated habits**  
+            - **Just changing the env** around the individual changes the behavior.  
+            - when you lose the baggage of yoru identity, of your ego, of yourself, 
+            **what fills in the space is the freedom to create**.  And that freedom to create is also the freedom to take risks.  
+
+    - LOVE  
+        + TODO  
+        
+        + Women are attracted to men that **can make decisions**, **bring ideas**, and **give solid advice**    
+            - Being passive and useless is a major turn off  
+
+    - FAMILIES   
+        + 沟通 - **发现彼此的痛苦**    
+            - **问问自己，是否曾经有过一样的感觉**    
+            - **知道对方跟我有同样的感觉**，就**更能让我把她看作镜中的自己**    
+
+        + 很会照顾人  
+            - “我觉得咱俩想的是一样的”  
+
+    - BUSINESS  
+        + **Sales skills**    
+            - **do your homework**  
+                + **what business problem** does he need solved?  
+                + put yourself in the shoes of your customer  
+
+            - **plan and practice**  
+                + enlist a trusted colleague to **role-play** a sales call with you  
+                + **ask for feedback and advice** on how can you improve your pitch  
+
+            - **listen more** than you talk  
+                + focus on **how you can help your prospective customer**    
+                + don't let your ego get in the way  
+
+            - close the deal  
+                + at the end of the meeting, **ask permission to move forward** with the customer by saying:
+                **are u ready to take the next step**?  
+
+            - think long term  
+                + sales is rarely a one and done deal  
+                + **stay in touch** with prospective customers  
+
+        + **先构筑资产项**， 然后才用资产所产生的收入购买奢侈品      
+            - **事业重心是你的资产项** ，而不是你的收入项    
+            - 把额外收入用来**购买可产生收入的资产**    
+
+            - 获得我所喜爱的资产  
+                + **通过买卖小公司的股票和房地产**，**努力增加我的资产项**    
+                + **如果你喜爱你所投资的对象**，**了解它并懂得游戏规则**，**风险就会降低**  
+
+                + 我买的股票都是小公司的； 有时我甚至自己创办小公司并把它们上市，在新股发行中创造财富，我喜爱这种游戏  
+                    -   **我喜欢小公司的股票，尤其是刚成立的公司**，因为我是一个企业家  
+
+                + **以企业的形式提供好处和保护**  
+                    - **法律实体**， 可以保护富人  
+
+        + 小商家最好要做**高利润生意**  
+            - **边际成本非常低**， **运营模式和产品标准可以无限复制**， 这样才能实现利润最大化  
+            - 高利润生意是无论营业额增加多少，**运营成本都是不变的**，也就是边际成本非常低  
+            - 高利润生意不是单品利润高  
+
+        + 在美国做生意记住两点， 合法雇人+**买保险**（能多买就多买）  
+            - 无需整天担心害怕出意外  
+            - 雇员只可以通过保险索赔，保险赔多少就是多少  
+
+        + **零售经纪**公司 webull  
+
+
+    - SKILLS  
+
+        + **有意让自己周围都是他喜欢的人**  
+            - 许多最富有的人内心都是**空洞**，他们总是试图填补这些空洞；
+            查理知道不能用钱来填补这些空洞。 这就是为什么他花这么多时间和家人在一起   
+
+        + 基于左翼的情感天平，往往是**将强弱的概念置于是非的分野之上**，即**弱者天然正义**    
+            - 在许多情况下，这确实是对的。因为无论是在历史上还是在现实中，倚强凌弱的现象都是相当普遍地存在的。**但这只是概率，不是公理**    
+        
+        + 中国每一个人都**觉得自己可以做别人的庄家**      
+            - **觉得自己是越多人的庄家自己就能控制风险**，这才是进入互害漩涡的根本原因    
+            - 如果几个人自发开一桌赌桌，他们内部赌，输赢就是这几个人之间。 但在中国，很快会有人跑过来用暴力把自己做成这一桌的庄家  
+
+        + 中国人的两个特点  
+            - 对说谎的容忍度极高， 只看**利弊不管对错**    
+            - 华人思维，遇事不看对不对， 而是**对我是否有利**？  
+
+        +  **超越物体未有查看交通情况** 
+            - 過死車就騎著中線，迎面有車要3個車位前停低比佢過左先，過完死車入返中線  
+            - 在「扒頭」之前，應該觀察中鏡、左右鏡、倒後鏡，留意尾隨/ 反方向的車輛，繼而「打燈」➡「扒頭」  
+            - 驾照考试 Fail  
+            - 学车易  
+
+    - MEETUP  
+        + 周末去摄影聚会  
+            - 有些无聊  
+
+        + 周五聚餐  
+            - 环境很棒  
+
+
 #### 2023-11-27  
 * REVIEW  
     - GOD  
         + **先成为自己**    
             - **找到你的热情所在**， **自然就找到吃饭的本事**    
-            - 耶稣的思想： **先和神连接， 开启自己的心灵之旅**。  别光靠着吃饭活着，还**要靠神的话**    
+            - 耶稣的思想： **先和神连接， 开启自己的心灵之旅**。  别**光靠着吃饭活着，还要靠神的话**    
 
         + **快乐是生命本身**  
             - **快乐就是心灵得到了满足**，为了自己的心活着的人才有信仰基础  

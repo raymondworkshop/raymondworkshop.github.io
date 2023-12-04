@@ -31,7 +31,7 @@ date: 2012-03-19
 
 #### reading-2023  
 
-* [创业-事实与偏见] 
+* [创业-事实与偏见]  
 * [亲密关系](https://book.douban.com/subject/27072923/) by Rowland S. Miller  
 * [HBR Guide to Negotiating]  
 * [富爸爸穷爸爸](https://book.douban.com/subject/1033778/)  
