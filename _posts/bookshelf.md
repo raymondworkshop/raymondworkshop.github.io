@@ -31,9 +31,9 @@ date: 2012-03-19
 
 #### reading-2023  
 
-* [创业-事实与偏见]  
+* [事实与偏见]  
 * [亲密关系](https://book.douban.com/subject/27072923/) by Rowland S. Miller  
-* [HBR Guide to Negotiating]  
+* [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)  
 * [富爸爸穷爸爸](https://book.douban.com/subject/1033778/)  
 * [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey  
 * [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer 
@@ -43,12 +43,10 @@ date: 2012-03-19
 * [The Open Society and Its Enemies](https://book.douban.com/subject/35013329/)  
 
 * [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb  
-
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 
 * [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford   
 * [Code Complete - A Practical Handbook of Software Construction](https://book.douban.com/subject/1432042/)  
-* [Deep Learning from Scratch](https://book.douban.com/subject/30270959/)  
 * [A Philosophy of Software Design](https://book.douban.com/subject/35680420/) by John Ousterhout  
 * [How to Design Programs, 2nd](https://htdp.org/2023-3-6/Book/index.html)  
 
