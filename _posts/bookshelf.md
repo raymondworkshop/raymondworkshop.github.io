@@ -35,12 +35,15 @@ date: 2012-03-19
 * [亲密关系](https://book.douban.com/subject/27072923/) by Rowland S. Miller  
 * [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)  
 * [富爸爸穷爸爸](https://book.douban.com/subject/1033778/)  
+* [That Will Never Work](https://book.douban.com/subject/34824730/) by Marc Randolph  
 * [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey  
-* [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer 
+* [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer  
+* [Scaling People](https://www.amazon.com/Scaling-People-Tactics-Management-Building-ebook/dp/B0BRYQJ49K) by Claire Hughes Johnson  
+
 * [Designing Your Life: How to Build a Well-Lived, Joyful Life](https://book.douban.com/subject/26878394/)  
 * [Trump: The Art of the Deal](https://book.douban.com/subject/1817125/)   
 * [Secrets of the Millionaire Mind](https://book.douban.com/subject/1776200/)  
-* [The Open Society and Its Enemies](https://book.douban.com/subject/35013329/)  
+* [The Road to Serfdom](https://book.douban.com/subject/3184542/)  
 
 * [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb  
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
