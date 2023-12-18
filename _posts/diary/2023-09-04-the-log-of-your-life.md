@@ -40,6 +40,10 @@ abstract: "a master self-observer"
     - SELF  
 
     - BUSINESS  
+        + 《清醒地活》    
+        + 《富爸爸穷爸爸》  
+        + 《HBR Guide to Negotiating》 
+        + 《世界简史》  
 
 
 * REVIEW  
