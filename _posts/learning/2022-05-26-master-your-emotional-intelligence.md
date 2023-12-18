@@ -113,7 +113,7 @@ abstract: "Master your emotions. and you can Control your life  ."
         - it gives **peace of mind** when you do the right thing   
         - thus **you are true to yourself and honest with others**  
 
-    - learn by example 
+    - learn by example  
         - **warmth, reasonable demands, and high responsiveness**    
         - "You know our rules - I know you can do better."  
 

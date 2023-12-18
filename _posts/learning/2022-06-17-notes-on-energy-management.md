@@ -35,6 +35,7 @@ abstract: "Notes on energy and time management skills"
     - 十二味  
     - Gaia Ristorante  
     - harbour Fun Restaurant & Bar - 湾仔海滨  
+    - 北京烤鸭 -  湘川滬   
 
 * notes  
     - 先吃生的后吃熟的，先吃蔬菜后吃肉，最后才吃碳水化合物   
@@ -46,7 +47,7 @@ abstract: "Notes on energy and time management skills"
 #####  activity  
 * activity  
     - tennis  
-    - bowling  
+    - ~bowling~  
     - 飞盘  
       
 * hiking  
@@ -69,6 +70,7 @@ abstract: "Notes on energy and time management skills"
     - 大潭  
     - 千島湖大欖涌水塘  
     - 流水響郊遊徑  
+    - 南涌  
 
 
 ##### swimming  
