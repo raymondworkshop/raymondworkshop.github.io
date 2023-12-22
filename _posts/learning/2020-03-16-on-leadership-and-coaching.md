@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "On leadership and coaching skills"
+title: "!!On management, leadership, negotiation skills"
 date: 2020-03-16
 comments: true
 categories: [softskills, coach, self, learning, leadership, important]
 abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
 ---
+
+##### management skills  
+* TODO  
+
+* reference  
+    - [事实与偏见] 
 
 ##### persuasion skills  
 * TODO  
@@ -13,18 +19,18 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
 * copywriting  
     - The words you use just connect them, increase their impact, and explain them to your reader.
 
-* reference
+* reference  
+    -  [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)    
+
     - [Persuasive Communication](https://alison.com/topic/learn/103807/nlp-s-persuasion-techniques)
     - [Rhetoric: The Art of Persuasive Writing and Public Speaking](https://learning.edx.org/course/course-v1:HarvardX+AESTHINT15+1T2022/home)  
     - [cuhk toastmaster](http://www.cuhk.edu.hk/ccc/toastmasters/)
+ 
 
-
-##### public speaking skills  
-* TODO  
 
 ##### soft skills  
 * notes  
-    - **尊重，平等，顺从从**（配合自己的上司把事情做好）
+    - **尊重，平等，顺从**（配合自己的上司把事情做好）
         + be subject to the **authorities**  
         + authority - **the moral or legal right or ability to control**   
         + TODO  from <Margin Call>  
