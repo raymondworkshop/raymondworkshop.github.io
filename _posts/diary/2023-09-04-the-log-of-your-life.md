@@ -49,6 +49,11 @@ abstract: "a master self-observer"
             - cannot get the response from Ivy  
             - the business from Ma wei  
 
+        + 一回家就躺在床上     
+            - 暖气  
+            - 没有目标  
+            - 太关注钱/银行账户  
+
         + 太实在  
             - 不太灵活  
             - 销售 - 看别人脸色， 会说话  
@@ -76,9 +81,6 @@ abstract: "a master self-observer"
             - 我怎样帮助别人  
                 + 任何情况下都可以帮助他人，帮助他人让我们有极大的富足感      
 
-        + **把金钱问题换成现金流来思考**， 能做的事就变多了  
-            - **现金流** - **稳定且持续性的收入和支出**    
-
 
     - FAMILIES    
         + 同理心会话  
@@ -97,6 +99,9 @@ abstract: "a master self-observer"
 
 
     - BUSINESS    
+        + **把金钱问题换成现金流来思考**， 能做的事就变多了  
+            - **现金流** - **稳定且持续性的收入和支出**    
+
         + **销售的技能**和有关市场营销的知识  
             - 帮助**克服因失败造成的沮丧和恐惧**心理  
 
