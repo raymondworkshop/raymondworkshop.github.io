@@ -3,10 +3,10 @@ title: About
 date: 2012-03-19
 ---
 
-Hi, I'm Raymond ZHAO Wenlong. I am a freelance engineering consultant with a broad skillset and deep expertise in product, engineering, technical writing, and the realted services.  
+Hi, I'm Raymond ZHAO Wenlong. I am a freelance IT consultant in Hong Kong now.  
 
 I was a Technical Officer in HSUHK, RA (in Chinese University of Hong Kong, City University of Hong Kong, and Hong Kong Baptist University), and Software Engineer in Alcatel-Lucent (now Nokia Corporation) and HKCREO (a Fintech startup).  
 
 I got my M.Sc. in Computer Science at Chinese University of Hong Kong and B.Eng. in Electronic and Information Engineering at WuHan University.   
 
-I live in Hong Kong. All opinions are my own.  
+All opinions are my own.  
