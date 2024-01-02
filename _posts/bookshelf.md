@@ -28,19 +28,30 @@ date: 2012-03-19
 * [Startup School](https://www.startupschool.org/curriculum)  
 
 
+#### reading-2024  
+* [事实与偏见]  
+* [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer  
+* [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)  
+* [That Will Never Work](https://book.douban.com/subject/34824730/) by Marc Randolph  
+* [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey  
+* [富爸爸穷爸爸](https://book.douban.com/subject/1033778/)  
+* [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
+* [HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)  
+* [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb  
+* [Designing Your Life: How to Build a Well-Lived, Joyful Life](https://book.douban.com/subject/26878394/)  
+
 
 #### reading-2023  
 
 * [事实与偏见]  
 * [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer  
-* [Designing Your Life: How to Build a Well-Lived, Joyful Life](https://book.douban.com/subject/26878394/)  
 
 * [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)  
 * [That Will Never Work](https://book.douban.com/subject/34824730/) by Marc Randolph  
 * [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey  
-* [富爸爸穷爸爸](https://book.douban.com/subject/1033778/)  
+* [富爸爸穷爸爸](https://book.douban.com/subject/1033778/)  (8/10)  
 
-* [亲密关系](https://book.douban.com/subject/27072923/) by Rowland S. Miller  
+* [亲密关系](https://book.douban.com/subject/27072923/) by Rowland S. Miller  (9/10)  
 * [Scaling People](https://www.amazon.com/Scaling-People-Tactics-Management-Building-ebook/dp/B0BRYQJ49K) by Claire Hughes Johnson  
 
 * [Trump: The Art of the Deal](https://book.douban.com/subject/1817125/)   
