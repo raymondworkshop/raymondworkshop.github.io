@@ -9,6 +9,4 @@ I was a Technical Officer in HSUHK, RA (in Chinese University of Hong Kong, City
 
 I got my M.Sc. in Computer Science at Chinese University of Hong Kong and B.Eng. in Electronic and Information Engineering at WuHan University.   
 
-I live in Hong Kong. I am also available for short term consulting, [reach out](bestraymond@icloud.com) if you'd like to chat.  
-
-All opinions are my own.  
+I live in Hong Kong. All opinions are my own.  
