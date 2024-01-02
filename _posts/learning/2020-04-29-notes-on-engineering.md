@@ -10,7 +10,7 @@ categories: [learning, engineering, course, important, manager]
 
 ### notes on software engineering  
 * 组织规划力  - 从ideas 到 发布的过程  
-    - 规划 把事情做成的流程计划  - f(x)  
+    - 规划 **把事情做成的流程计划**  - f(x)  
   
     - **用“3”的概念 先掌握住大框架**， 再对细节做螺旋状前进  
 
@@ -22,7 +22,8 @@ categories: [learning, engineering, course, important, manager]
         + 对于大规划中属于同性质的作业持续做就可以了  
         + 或者学生相信这个教练的规划，就会全力努力  
 
-    - 自下而上做，自上而下思考  
+    - 自上而下思考，自下而上做  
+        + 自上而下的目标定位， 自下而上的改进  
 
 
 #### project thinking  

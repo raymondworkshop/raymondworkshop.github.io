@@ -5,7 +5,7 @@ date: 2012-03-13
 
 ### List of some of my Slides!  
 
-#### November, 2021 - A summary on factoid Question Answering (QA)  
+#### November, 2022 - A summary on factoid Question Answering (QA)  
 * Check out the summary on [Question Answering](https://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)  
 
 #### June, 2021 - An introduction and the related experiments on Natural Legal Language Processing  
