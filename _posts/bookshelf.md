@@ -8,9 +8,9 @@ date: 2012-03-19
 
 #### course  
 * Entrepreneurship  
-    - [Microeconomics & Business](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2022/home)  
-
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
+
+    - [Accounting and Finance](https://learning.edx.org/course/course-v1:IIMBx+AC104x+2T2022/home)  
 
 
 * [Startup School](https://www.startupschool.org/curriculum)  
