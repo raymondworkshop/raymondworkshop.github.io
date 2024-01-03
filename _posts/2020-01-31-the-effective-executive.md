@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summary about 'The Effective Executive'"
-date: 2020-12-31
+date: 2022-12-31
 comments: true
 categories: [home, softskills, important]
 abstract: "About how to get the right things done"

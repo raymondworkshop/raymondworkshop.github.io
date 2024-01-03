@@ -9,7 +9,7 @@ abstract: "a master self-observer"
 #### 2024-01-02  
 * TODO  
     - JOBS  
-        + 
+        
         
     - SELF  
         + self-talk  
@@ -17,6 +17,11 @@ abstract: "a master self-observer"
 
         + management and negotiations  
             - <事实与偏见>  
+
+    - SKILLS  
+        + ENGLISH  
+
+        + Sales  
 
 
 * REVIEW  
