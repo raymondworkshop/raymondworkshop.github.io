@@ -12,8 +12,6 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)
 
 
-
-
 #### People Management  
 
 * Essentials of Communication  
@@ -44,6 +42,10 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
             - **step back** and **think of conflicts largely from task**, work-related, deliverables-related  
                 + **focus on the sturctural aspects of the conflict**    
                 + do not convert each conflict into a personal conflict  
+
+    - TODO  
+         + [Peer relationships: How to stop being competitive with your peers and be a better leader](https://katemats.com/blog/peer-relationships/)  
+         + [5 Tips for Building Relationships at Work](https://www.indeed.com/career-advice/career-development/building-relationships-at-work)  
 
 
 * Performance Management - Assessment and Evaluation  
