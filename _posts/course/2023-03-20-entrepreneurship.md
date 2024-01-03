@@ -13,10 +13,38 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 
 
+
 #### People Management  
 
+* Essentials of Communication  
+    - TODO  
+
 * Building Peer Networks 
-    - TODO 
+    - **Inter-dependencies**  
+        + **The expectations** we have from each other  - the tasks and goals  
+        + Our deliverables are related  
+        + The time spent in **managing conflicts** and **ensuring co-ordination**  
+
+    - ability to influence peers     
+        + Through **Relationship**  - a reciprocity of give and take  
+        + Through **Expertise** - my pear does not have and nees  
+        + Through **Support** them in their responsibilities      
+
+    - Building effective relationship with Peers  
+        + Understanding Peer's Needs and Bringing Value  
+            - **understand the peer's context** as well as **your own context** 
+            - problem centred, idea centred  
+
+        + **Awareness of your own and peer's strengths and weaknesses** and see how complement them   
+            - **focus on the strengths and the positive aspects** of the partner  
+
+        + Manage conflicts effectively and co-create new ideas with them  
+            - a need for **a periodic review and feedback**    
+
+            - **step back** and **think of conflicts largely from task**, work-related, deliverables-related  
+                + **focus on the sturctural aspects of the conflict**    
+                + do not convert each conflict into a personal conflict  
+
 
 * Performance Management - Assessment and Evaluation  
     - **Align** employee action with the firms goals  
@@ -115,7 +143,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
                 + assign some responsibilities, **track them carefully**, **understand why they are performing** 
                 or not able to perform before you arrive at a judgment  
 
-            - provide periodic **feedback** that **help the team members to grow**   
+            - provide **periodic review, feedback** that **help the team members to grow**   
     
     - TODO  
         + [Successful Delegation](https://www.mindtools.com/aru27rv/successful-delegation) 
