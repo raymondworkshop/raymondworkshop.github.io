@@ -6,6 +6,114 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-01-08  
+* TODO  
+
+* REVIEW  
+    - GOD  
+        + **上帝帮助那些自助的人**    
+            - 只需要**依照福音书的教诲**，**以耶稣基督为榜样**，在尘世中生活、工作，这就是善行  
+            - 只有上帝知道拣选，这实际上是**不可知**的。 既然不可知，每一个信徒就没必要去担心自己，业无必要为求择选而格外行善事  
+            - 加尔文的伦理乃是 **自强，自助，勤勉，守信， 虔诚**， 在尘世中尽自己的天职   
+
+        + 富人的荣耀感  
+            - **勤奋的创造地上的财富**，就是遵从上帝的最好方法  
+            - 在高处时他们应得的，你富有时因为你内在的某些东西  
+
+        + 新教伦理  - 正确使用这些恩赐  
+            - 我们若思考神为何创造饮食，就会发现这不但是**为了人的需要**， 也是**为了人的享受**和**使人快乐**    
+
+        + calling  - 上帝安排的任务  
+            - 上帝应许的唯一生存方式， 不是要人们以苦修的禁欲主义超越世俗道德，而是**要人完成个人在现世里所处地位赋予他的责任和义务**，这是天职  
+            - 个人道德活动所能采取的最高形式，应是**对其履行世俗事物的义务进行评价**    
+         
+
+    - SELF  
+        + 太实在， 容易轻信别人  
+            - **精于算计**    
+            - **take calculated decisions**, and **keep moving forward**  
+
+        + 外圆内方  
+            -  **Understand their needs**    
+            - **Communicate your value**    
+            - **Negotiate with respect**    
+            - **Follow up with care**  
+            - **Learn from feedback**    
+
+        + Embrace risk, **take calculated decisions**, and **keep moving forward**    
+            - **Don't let fear of failure hold you back**    
+            - Fear is the biggest hurdle in the journey  
+
+        + **Strong**, **Centred**, and **confident**  
+            - Most women like men who show strength, resiliency, and adequate self-esteem  
+
+        + **Go out** and **creates your changces**    
+            - Stop being shy, no one's care about you  
+
+        + **self love**  and **self awareness**    
+            - love yourself but **alsoe analyze and be critical of how you think, act & behave**    
+            - No sorry, only commit you have is **to your own success**    
+            - becoming the best version of yourself requires you cutting negative people out of your life  
+
+        + **热忱**， **用心**和**努力**   - 自助  
+            - 做好自己的部分，业看看是否可以照顾下其他人  
+
+        + 尽到85%的努力即可  
+            - 追求完美往往会让我们感受不佳，筋疲力尽  
+
+    - FAMILIES  
+        + 先小爱，再大爱  
+            - **眷恋她的身体**，**眷恋她的灵魂**    
+            - 爱时一种发自内心的不可抑制的激情  
+
+    - BUSINESS    
+        + 集中精力开发管理才能  
+            - 现金流管理  
+            - 人事管理  
+            - 个人时间管理  
+
+        + 理财天赋  
+            - **我想要实现财务自由**， 我想要金钱为我工作  
+            - **参加研讨会**，静下心来研究某一专题或开阔视野  
+            - 先增加自己资产  
+            - **要为自己想要的东西先付出**， 然后才能得到加倍的回报  
+
+        + Sales  
+            - **Understand their needs**    
+            - **Communicate your value**    
+            - **Negotiate with respect**    
+            - **Follow up with care**  
+            - **Learn from feedback**    
+
+        + 沟通  
+            - **理解对方的想法**  
+            - 为啥有这个想法  
+                + 有一些共同点 - **大家都是想解决这个问题**  
+            - **同意对方的情绪**  
+                
+            - 不需要个人化 - 讨论的都是这个**内容**  
+
+            - 停一停  
+
+            - **感受下身体不舒服的地方**    
+                + 深呼吸    
+
+        + **金钱应该有价值**， 不应该挥霍在毫无实用的物品上  
+
+        
+
+    - SKILLS  
+        +  贝叶斯思维  
+            - **不确定性**，由新的信息/证据不断迭代  
+            - p(A|B) = p(B|A) / p(B) * p(A)  
+                + 先验 p(A)， **新的信息 p(B) （这个新细节一定要独特，足够小概率）**， **p(B|A) 用来证伪，用来排除**   
+
+            - 极端思维， 很难证实/证伪这个问题  
+
+    
+    - MEETUP  
+
+
 #### 2024-01-02  
 * TODO  
     - JOBS  

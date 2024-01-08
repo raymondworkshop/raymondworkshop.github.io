@@ -15,7 +15,12 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 #### People Management  
 
 * Essentials of Communication  
-    - TODO  
+    - Process of Communication   
+        + **Reflect on whether the effectiveness** of communication is impacted by the receiver or other facotrs  
+        + **Do not underestimate the role** of medium, message and noist in distoring     
+
+    - 5.3 Barriers to Communication  
+        + TODO  
 
 * Building Peer Networks 
     - **Inter-dependencies**  
