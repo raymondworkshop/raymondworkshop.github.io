@@ -14,13 +14,64 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 #### People Management  
 
-* Managing Self
-    - TODO  
+* Managing Self - think, reflect, and introspect about yourself  
+    - Build on your Strength and fix your weaknesses    
+
+    - **Understanding the purpose of the role**  
+        + **one's contribution**, **one's contribution into larger** organizational purpose, 
+        **one's contribution into larger professional aspiration**    
+
+        + **Be clear on what is your contribution to the organization**    
+            - in terms of professional development, career growth, contribution to the organization  
+            - **what is the purpose** of your role?  
+            - **why are the set of activities** assigned to you?  
+            - where will you be headed in the coming years?  
+
+    - **demonstrate values as a manager**  
+        + **Getting Things Done Through People**    
+            - **how much I trust others** will determine how much I delegrate  
+                + how much I delegate will determine **whether i'm getting things done throught people**, or i'm doing it myself  
+            - give up on your strengths
+            - ask others to lead on your strengths  
+            - pick on more responsibilities from your weak areas  
+        
+        + **Enjoying Success of your Direct reports**  
+            - your direct reports are an integral aspect of your performance  
+            - **your long-term success depends on the kind of direct reports who you invest and grow**    
+
+        + **Demonstrating visible integrity**  
+            - **you follow the process and policy first** before you implement it to your direct reports  
+            - If the policy is ambiguous then ask whether you used a **fair judgment** in arrive at a decision  
+            - If still unclear on some aspects:
+                + **talk** to credible senior leaders for counsel and advice  
+                - perform the **mirror test**    
+
+    - **Spaces for development**  
+        + **startup or pilot** projects  
+            - non-threatening, to bring value to the organization  
+        + **unstructured assignment**  
+            - **tolerance** to live with an ambiguous problem with uncertainty  
+            - **ability to put together** a structure on a relatively unstructured problem  
+            - judge which alternative to choose as a final decision  
+
+        + **turnaround opportunity**    
+            - ability to move from a crisis to a stable environment  
+
+        + Increasing the scope of work  
+            
+        + Being part of cross-functional teams and task forces  
+            - understand a problem from different perspectives  
+             
+ 
+    - 6.7 Weekly Insights and Conclusion  
+        + TODO     
+
+
 
 * Essentials of Communication  
     - Process of Communication   
         + **Reflect on whether the effectiveness** of communication is impacted by the receiver or other facotrs  
-        + **Do not underestimate the role** of medium, message and noist in distoring     
+        + **Do not underestimate the role** of medium, message and noise in distoring     
 
     - Barriers to Communication  
         + Selective Perception  
@@ -172,7 +223,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
             - **bring out those different perspectives**, **integrate them** and **provide some meaningful solution to** your tem  
 
     - defining and assigning tasks effectively    
-        + **delegation**  
+        + **delegation is about trust**     
             - it requires you, as a manager, to **trust**    
                 + when I assign responsibility I know that individual will deliver to the best of their capability 
 
@@ -205,8 +256,9 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 * People management    
     - Understanding and predicting **employee behaviour**    
         + **Understanding perception and interpretation**    - which you **interpret this situation**     
-            - the perceptual lens that we use **shapes the reality of what we see**  
+            - the perceptual lens that we use **shapes the reality of what we see**   
             - perception - a belief or opinion  
+                + **the way we see others will impact** the way we behave with them   
             - how do I manage my perceptual biases?  
 
         + **Identifying the intrinsic and extrinsic Motivation** is a key aspect of development  

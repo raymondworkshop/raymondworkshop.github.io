@@ -21,9 +21,10 @@ date: 2012-03-19
 #### reading-2024  
 * [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer  
 * [事实与偏见]  
+* [HBR's 10 Must Reads on Managing Yourself]  
+
 
 #### reading-2023  
-
 * [事实与偏见]  
 * [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer  
 
