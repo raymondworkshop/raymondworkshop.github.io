@@ -14,13 +14,59 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 #### People Management  
 
+* Managing Self
+    - TODO  
+
 * Essentials of Communication  
     - Process of Communication   
         + **Reflect on whether the effectiveness** of communication is impacted by the receiver or other facotrs  
         + **Do not underestimate the role** of medium, message and noist in distoring     
 
-    - 5.3 Barriers to Communication  
-        + TODO  
+    - Barriers to Communication  
+        + Selective Perception  
+        + Information Overload  
+            - use data and facts from multiple sources to arrive at a judgement  
+        + Language  
+        + Lack of Self Awareness  
+
+    - Consequences of Ineffective Communication  
+        + **misunderstanding** -> **confusion** -> **defensiveness** -> **mistrust** -> **conflict**    
+
+    - Conflict and its Management  
+        + Conflicts provide space for  
+            - thinking out of the box  
+            - thinking constructively  
+            - adding value to the organization  
+
+        + **Manage self to manage conflict effectively**    
+            - stay calm and understand different perspectives  
+            - listen to understand not to argue or defend  
+            - look for positive spaces to build conversations  
+            - present your viewpoint tactfully and appropriately  
+            - focus on the future  
+            - do not make personal attacks  
+            - do not lose self respect by shouting and abuse  
+            - ask questions and pick your battles that you want to fight  
+            - be creative in finding solutions  
+            - celebrate agreements  
+
+        + Overcome Barriers  
+            - active listening  
+                + **listen to understand**, not listening to reply    
+                + **active listening is listening to what is unsaid**, not what is said  
+                + **ask the right question**, **paraphrase**, **summarise**, **help to arrive at a clarity**    
+
+            - being open minded  
+                + listening to different perspectives  
+                + willing to inquire  
+                + examining issues from receivers point of view  
+                + actively seeking solutions to resolve problems  
+                + having fewer judgements  
+                + open to reviewing decisions  
+
+        + [Barriers and Gateways to Communication](https://hbr.org/1991/11/barriers-and-gateways-to-communication)
+
+
 
 * Building Peer Networks 
     - **Inter-dependencies**  
