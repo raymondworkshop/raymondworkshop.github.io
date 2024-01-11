@@ -22,7 +22,7 @@ date: 2012-03-19
 * [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer  
 * [事实与偏见]  
 * [HBR's 10 Must Reads on Managing Yourself]  
-
+* [Emotional Intelligence](https://book.douban.com/subject/1772153/)
 
 #### reading-2023  
 * [事实与偏见]  
@@ -40,7 +40,7 @@ date: 2012-03-19
 * [Antifragile](https://book.douban.com/subject/10545758/) by Nassim Nicholas Taleb  
 * [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham  
 
-* [Trump: The Art of the Deal](https://book.douban.com/subject/1817125/)   
+* [The Art of the Deal](https://book.douban.com/subject/1817125/)   
 * [Secrets of the Millionaire Mind](https://book.douban.com/subject/1776200/)  
 * [The Road to Serfdom](https://book.douban.com/subject/3184542/)  
 
