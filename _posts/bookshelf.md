@@ -9,6 +9,8 @@ date: 2012-03-19
 #### course  
 * Entrepreneurship  
     - [職場素養 (Professionalism)](https://www.coursera.org/learn/zhichang-suyang/home/week/1)  
+
+    - [MichiganX: Successful Negotiation: Essential Strategies and Skills](https://learning.edx.org/course/course-v1:MichiganX+SN401x+2T2023a/home)  
     
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
 

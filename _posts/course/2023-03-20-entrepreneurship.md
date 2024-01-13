@@ -12,7 +12,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)
 
 
-#### People Management  
+#### **People Management**    
 
 * Managing Self - think, reflect, and introspect about yourself  
     - Build on your Strength and fix your weaknesses    
@@ -62,11 +62,6 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
         + Being part of cross-functional teams and task forces  
             - understand a problem from different perspectives  
              
- 
-    - 6.7 Weekly Insights and Conclusion  
-        + TODO     
-
-
 
 * Essentials of Communication  
     - Process of Communication   
@@ -119,7 +114,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 
 
-* Building Peer Networks 
+* Building Peer Networks  
     - **Inter-dependencies**  
         + **The expectations** we have from each other  - the tasks and goals  
         + Our deliverables are related  
