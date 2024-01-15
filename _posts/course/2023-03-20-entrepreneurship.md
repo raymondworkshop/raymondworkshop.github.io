@@ -5,11 +5,24 @@ tags: [learning, business, startup, important]
 abstract: "Improve my mindset and knowledge on Entrepreneur"
 ---
 
-#### The Entrepreneurial Mindset
+#### DO Your Venture: Entrepreneurship For Everyone  
 * TODO  
 
 * reference  
-    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)
+    - [DO Your Venture: Entrepreneurship For Everyone](https://learning.edx.org/course/course-v1:IIMBx+EP101x+2T2022/home)  
+
+
+#### Marketing Management  
+* Marketing - buyer vs seller  
+    - B2C, B2B, Institutional market     
+    - marketing evolves through **the social system**  
+
+    - marketing management     
+        + choosing target markets and growing customers through delivering customer value  
+
+    - 1.6 Business Models  
+        + TODO    
+
 
 
 #### **People Management**    

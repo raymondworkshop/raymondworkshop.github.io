@@ -14,7 +14,7 @@ date: 2012-03-19
 
     - [Accounting and Finance](https://learning.edx.org/course/course-v1:IIMBx+AC104x+2T2022/home)  
 
-    - [MichiganX: Successful Negotiation: Essential Strategies and Skills](https://learning.edx.org/course/course-v1:MichiganX+SN401x+2T2023a/home)  
+    - [Marketing Management](https://www.edx.org/learn/marketing-management/indian-institute-of-management-bangalore-marketing-management)  
     
     - [Startup School](https://www.startupschool.org/curriculum)  
 
