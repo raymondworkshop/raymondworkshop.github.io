@@ -6,6 +6,82 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-01-15
+* TODO  
+    - jobs  
+
+    - practice the sales skills - **learn the needs** **and preferences**, **ideas**    
+        + **focus on the need**, not the solution  
+        + **ask open-ended questions**, and **allows you to get to more depth of the need** you may not have thought before   
+        +  如何讲故事  
+
+    - courses 
+        +  [Accounting and Finance](https://learning.edx.org/course/course-v1:IIMBx+AC104x+2T2022/home)  
+
+
+* REVIEW  
+    - GOD  
+        + **人的局限性**  - sin 
+            - 虽然你心里想好，但是行动不出来  
+            - 你从生下来就戴着这个无形的枷锁，让你想行事光明、有序、尊贵，却行不出来。让你变成假恶丑的奴隶。这个枷锁，叫罪  
+
+        + Dear Jesus, I believe in you, thanks for you forgiving me  
+
+    - SELF  
+        + **外圆**内方  
+            - **顺着对方的思路和对方聊天**， 多融入大家的话题      
+            - **Put yourself in the shoes of your customer**    
+            - 不要太抽离,不要把别人过于理想化   
+
+            - **Go out and creates your chances**, No one cares about you, stop being shy  
+            
+        + **做事勤力**，**懂得放松**    
+            - 做人及人事方面厉害； 懂得去创造一些机会，让大家去连接  
+
+        + 我觉得你有很多钱， 但是**没有钱跟我分享，我觉得没有意义**  
+
+        + I love building products and teams  
+
+
+    - FAMILIES  
+        + **听下对方的感受**  
+            - **听下她讲什么**，**感受下她的感受**    
+
+        + he looked at her with **the level of presence and focus** for 2m  
+            - **a warm intense eye contact without breaking-up**    
+
+    - BUSINESS  
+        + **养成随时记录的习惯**    
+            - 将自己的绩效记录下来实现了一系列加薪  
+
+        + **managerial jouney** is really about **observation and reflection**    
+            - keep a journal that allows you to **record the events of your life**    
+            - Find role models and mentors who will be able to **give you sound advice and judgment** that will help u shape a positive future  
+            - learn something new each year that you did not know  
+
+        + **Delegating** has the mindset  
+            - **being behind the people in terms of giving the direction** or something they might not require directions  
+            - if there is something goes wrong, we should, at least, have that mindset of "**ok, we will fix it**"
+            
+
+        + Identify a problem and **validate the market need**  
+            - build the solution  
+
+        + translating **an inspiring vision into a clear strategy** is something that each leader needs to work on  
+
+        + 中国  
+            - **要么足够有才华**，比如信息量，其他， **要么足够软**，**姿态足够乖巧**    
+
+    - SKILLS  
+        + course - <People Management>  
+
+    - MEETUP  
+        + EQ meetup  
+        + language meetup on sales, language   
+        + startup interview  
+
+
+
 #### 2024-01-08  
 * TODO  
 
