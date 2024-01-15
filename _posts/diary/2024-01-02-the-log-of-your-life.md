@@ -18,6 +18,8 @@ abstract: "a master self-observer"
     - courses 
         +  [Accounting and Finance](https://learning.edx.org/course/course-v1:IIMBx+AC104x+2T2022/home)  
 
+    - 不要赖床刷手机  
+
 
 * REVIEW  
     - GOD  
@@ -49,6 +51,7 @@ abstract: "a master self-observer"
 
         + he looked at her with **the level of presence and focus** for 2m  
             - **a warm intense eye contact without breaking-up**    
+
 
     - BUSINESS  
         + **养成随时记录的习惯**    
