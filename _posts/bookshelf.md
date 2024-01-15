@@ -10,7 +10,7 @@ date: 2012-03-19
 * Entrepreneurship  
     - [職場素養 (Professionalism)](https://www.coursera.org/learn/zhichang-suyang/home/week/1)  
 
-    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)  
+    - [Entrepreneurship For Everyone](https://learning.edx.org/course/course-v1:IIMBx+EP101x+2T2022/home)  
 
     - [Accounting and Finance](https://learning.edx.org/course/course-v1:IIMBx+AC104x+2T2022/home)  
 
@@ -20,10 +20,10 @@ date: 2012-03-19
 
 
 #### reading-2024  
+* [Emotional Intelligence](https://book.douban.com/subject/1772153/)  
 * [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer  
 * [事实与偏见]  
 * [HBR's 10 Must Reads on Managing Yourself]  
-* [Emotional Intelligence](https://book.douban.com/subject/1772153/)
 
 #### reading-2023  
 * [事实与偏见]  
