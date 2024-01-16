@@ -56,7 +56,6 @@ date: 2012-03-19
 * [500 Lines or Less](https://aosabook.org/en/index.html)  
 
 * [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm  (9/10)  
-* [紅玫瑰与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲 (9/10)  
 * [Meditations](https://book.douban.com/subject/30313414/)  
 * [Your Erroneous Zones](https://book.douban.com/subject/1795975/) by Wayne W. Dyer  
 * [HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)  
