@@ -14,14 +14,22 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 #### Marketing Management  
 * Marketing - buyer vs seller  
-    - B2C, B2B, Institutional market     
-    - marketing evolves through **the social system**  
+    - **satisfy its customers' wants and needs** while meeting the organization's goals  
+        + **Understand the customers before** designing and producing a product for them  
+        + B2C, B2B, Institutional market     
+        + marketing evolves through **the social system**  
 
     - marketing management     
-        + choosing target markets and growing customers through delivering customer value  
+        + **choosing target markets** and **growing customers** through delivering customer value  
 
-    - 1.6 Business Models  
-        + TODO    
+    -  **Business Models**   - how this business works  
+        + modeling the firm as a value creating activities for competitive advantage  
+
+    - **marketing starts with the consumers** where as selling starts with the manufacturer or supplier  
+
+* Marketing Management  
+    - TODO 
+        
 
 
 
