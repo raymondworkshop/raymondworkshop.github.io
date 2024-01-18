@@ -1,54 +1,54 @@
 ---
 layout: post
 title: "On Education and  Learning "
-date: 2017-12-20
-update: 2022-01-22  
+date: 2020-12-20
+update: 2022-01-22
 comments: true
 categories: [notes, education]
 abstract: "On Education and  Learning "
 ---
 
-> <del><small>關於教育 - 摘錄自《魔鬼老大，天使老二》</small></del> <br/> 
+> <del><small>關於教育 - 摘錄自《魔鬼老大，天使老二》</small></del> <br/>
 
-#### Notes from Bruce Lee 
+#### Notes from Bruce Lee
 
-The best way of learning is not through the computation of information.  
+The best way of learning is not through the computation of information.
 
-**When we discover**, we are uncovering our own ability, our own eyes, in order to find our potential, to see what is going on, to discover how we can enlarge our lives, to find the means at our disposal that will let us cope with a difficult situation.  
+**When we discover**, we are uncovering our own ability, our own eyes, in order to find our potential, to see what is going on, to discover how we can enlarge our lives, to find the means at our disposal that will let us cope with a difficult situation.
 
-**The ability to really see** is something like "I am experiencing this; now I feel this; now I don't want to work anymore; now I am bored."  and sequently the world is opening up.  
+**The ability to really see** is something like "I am experiencing this; now I feel this; now I don't want to work anymore; now I am bored." and sequently the world is opening up.
 
+#### 第一章 来自于 《魔鬼老大，天使老二》
 
-
-#### 第一章 来自于 《魔鬼老大，天使老二》  
 **喜歡创造的感觉 - 在自己手里花长时间创作出完美的作品，在职业上从技术转向产品。**
 
 **关注他们的智力和技能，也会关注他们的情感和品德。都需要成长为快乐的，独立的，有用的人。**
 
-#### 第二章 智力开发和习惯 
-专注的能力 - 专注做一件事情 
+#### 第二章 智力开发和习惯
 
-时间管理 - 哪些时间花得有价值，哪些没什么收益，又自己想办法改进 
+专注的能力 - 专注做一件事情
 
-阅读 - **使阅读成为一个享受的过程**。这种享受，才是阅读带来的最大收益 
+时间管理 - 哪些时间花得有价值，哪些没什么收益，又自己想办法改进
 
-一本“正在读的书” - 读书不是完成任务，也没有任何目的，它只是一件“一直在做的事”， 有空就做。 
+阅读 - **使阅读成为一个享受的过程**。这种享受，才是阅读带来的最大收益
 
-一定不会把许多时间花在追求考试的名次上，**花时间在广泛阅读，探索自己感兴趣的领域，培养表达能力等方面**。 
+一本“正在读的书” - 读书不是完成任务，也没有任何目的，它只是一件“一直在做的事”， 有空就做。
+
+一定不会把许多时间花在追求考试的名次上，**花时间在广泛阅读，探索自己感兴趣的领域，培养表达能力等方面**。
 
 希望能培养一个享受学习本身的人。
 
 **学习中文，是希望能很好地阅读，流利地交流，擅长写作，考试不重要**。
 
-**学文要真正融会贯通。学习文科的目标很实用：能写好文章，能清晰地交流，能有自己的创意和思考**。 
+**学文要真正融会贯通。学习文科的目标很实用：能写好文章，能清晰地交流，能有自己的创意和思考**。
 
-**学理需要懂得逻辑缘由。 学理的目标是理解：他需要懂得每一个步骤背后的概念和逻辑**。 
+**学理需要懂得逻辑缘由。 学理的目标是理解：他需要懂得每一个步骤背后的概念和逻辑**。
 
 #### 第三章 创造力
 
 **大量阅读高质量小说的孩子往往更有创意，更容易保持对世界的新鲜感。**
 
-教孩子严谨地，踏实地，一步步地做一件完美的事。**设计和产品是一个锻炼完整的思考和执行的过程，是学会问问题和解决问题的过程**。**最终完成的产品必须是完整的**。 
+教孩子严谨地，踏实地，一步步地做一件完美的事。**设计和产品是一个锻炼完整的思考和执行的过程，是学会问问题和解决问题的过程**。**最终完成的产品必须是完整的**。
 
 **所有产品，从如何满足用户需求，到如何赏心悦目，都是特别重要的**。在这个过程中，我发现许多人专业技能很强，但**缺乏全面统筹的能力**，他们按自己的想法做事而不站在他人的立场，偏重难点而忽略体验，**他们可以完成任务，但无法进行领导和协调**。
 
@@ -60,11 +60,11 @@ The best way of learning is not through the computation of information.
 
 博士训练可以得到一种解决复杂问题的能力。比如**分析问题**->预测问题的复杂程度和工作量，分解问题，看出关键点; **不怕未知**，理解路途中遇到的曲折。
 
-“1万小时规则”，是指**花在改进和更卓越的练习上的时间**，是指**刻意的，自我批判的**，反复的练习。 只有发自内心的乐于求知的热情，才能有长久坚持的耐心。 
+“1 万小时规则”，是指**花在改进和更卓越的练习上的时间**，是指**刻意的，自我批判的**，反复的练习。 只有发自内心的乐于求知的热情，才能有长久坚持的耐心。
 
 **不会有人手把手教你怎么去做。这个时候，拥抱未知，相信自己能够学会，并且一步步踏实学习的人，就是新领域的驾驶者。**
 
-东方教育的孩子有硬技能却不能活学活用，害怕不确定性，不愿冒险。如能加上西方教育的**创造性，实用性**，敢于探索的精神，就能成最优秀的人。 
+东方教育的孩子有硬技能却不能活学活用，害怕不确定性，不愿冒险。如能加上西方教育的**创造性，实用性**，敢于探索的精神，就能成最优秀的人。
 
 #### 第四章 更幸福
 
@@ -86,7 +86,7 @@ The best way of learning is not through the computation of information.
 
 需要外在肯定自己才会高兴的孩子未必是最自信的。**自信，不是一个外在的表现，而更多是内在对自己的认同和对其他人的认同**。
 
-**先学会“做好一件事”， 再学会“知道你的角色和团队协作”，以及学会“如何与不同的人沟通”，以后再考虑领导力的事**。真正的领袖，他们的共性是谦逊，自我约束，勤奋，讲究效率，他们有对人的理解，有对一件事反复操作的耐心。 
+**先学会“做好一件事”， 再学会“知道你的角色和团队协作”，以及学会“如何与不同的人沟通”，以后再考虑领导力的事**。真正的领袖，他们的共性是谦逊，自我约束，勤奋，讲究效率，他们有对人的理解，有对一件事反复操作的耐心。
 
 **做实事积累到一定程度，加上不断自我学习，反思和进步，领导力自然会应运而生**。
 
@@ -107,6 +107,4 @@ The best way of learning is not through the computation of information.
 
 **家，社区是最温暖的地方，是属于我们自己的东西：亲密的朋友，家人，熟悉的歌曲，任何时候伸出双手就可以触及的信任和亲情。**
 
-#### 第六章 - 放大快乐 
-
-
+#### 第六章 - 放大快乐
