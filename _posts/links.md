@@ -38,8 +38,9 @@ date: 2012-03-19
 
 #### CHECK  
 * **[Naval](https://nav.al/)**  
-* [uses this](https://usesthis.com/interviews/tracy.chou/)  
+* [Tracy Chou's blog](https://triketora.com/) 
 * **[Stargirl](https://thea.codes/)**  
+* [uses this](https://usesthis.com/interviews/tracy.chou/)  
 
 * **[Tom Preston-Werner ](https://tom.preston-werner.com/)**  
 
@@ -53,7 +54,7 @@ date: 2012-03-19
 
 * **[Cate](https://cate.blog/about/)**
 * **[Kate Matsudaira](http://katemats.com/about/)**  
-* [Tracy Chou's blog](https://triketora.com/)  
+ 
 * [Niniane](http://niniane.blogspot.hk/)  
 * [programming in the twenty-first century](http://prog21.dadgum.com/)  
 * [bast.bookmarks](https://bast.fr/bookmarks/)  
