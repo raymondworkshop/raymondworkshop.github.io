@@ -61,7 +61,7 @@
     <p class="body"><blockquote>
 <p><small> A share about Android NDK - build c/c++ code into shared lib app uses </small></p>
 </blockquote>
-<h4>Android NDK  - build c/c++ code into shared lib app uses</h4>
+<h4>Android NDK - build c/c++ code into shared lib app uses</h4>
 <ul>
 <li>
 <p>Android.mk - glue the c/c++ code to the Android NDK</p>
@@ -70,7 +70,7 @@
 </ul>
 </li>
 <li>
-<p>Application.mk  - defines properties for all the modules that app uses</p>
+<p>Application.mk - defines properties for all the modules that app uses</p>
 </li>
 <li>
 <p>ndk-build -</p>
@@ -85,7 +85,7 @@
 <h4>about the linking [TO UPDATE]</h4>
 <ul>
 <li>
-<p>Linking - concatenates blocks together, and decides on run-time locations for the concatenated blocks </p>
+<p>Linking - concatenates blocks together, and decides on run-time locations for the concatenated blocks</p>
 <ul>
 <li>
 <p>symbol resolution step - symbol table in .symtab associate each global symbol (functions and global variables) reference with a unique symbol definition</p>
@@ -96,18 +96,18 @@
 </ul>
 </li>
 <li>
-<p>linking with static libraries </p>
+<p>linking with static libraries</p>
 <ul>
 <li>related functions can be compiled into separate object modules and then packaged in a single static library file; At link time, the linker will copy only the object modules(symbol resolution) that are referenced by the program.</li>
 </ul>
 </li>
 <li>
 <p>advantages
-need to maintain and update the static libraries periodically<br />
-At run time, the code of the functions like I/O functions is duplicated in the text segment of each running process</p>
+    need to maintain and update the static libraries periodically<br />
+    At run time, the code of the functions like I/O functions is duplicated in the text segment of each running process</p>
 </li>
 <li>
-<p>dynamic linking with shared libraries </p>
+<p>dynamic linking with shared libraries</p>
 <ul>
 <li>a single copy of the .text section of a shared libray in memory can be shared by different running</li>
 </ul>

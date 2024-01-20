@@ -59,7 +59,7 @@
         <h1><strong>About Hash Algorithms</strong></h1>
     </header>
     <p class="body"><blockquote>
-<p>An introduction of Hash function </p>
+<p>An introduction of Hash function</p>
 </blockquote>
 <h4>Introduction</h4>
 <ul>
@@ -71,7 +71,7 @@
 </li>
 <li>
 <p>while a hashing technique can consume O(N) space, and answers
-a dictionary query in O(1) expected time.</p>
+    a dictionary query in O(1) expected time.</p>
 </li>
 </ul>
 </li>
@@ -100,7 +100,7 @@ a dictionary query in O(1) expected time.</p>
 </li>
 <li>
 <p>uniform hashing assumption: assume that any given element in U is equally likely to hash into
-  any of the m slots, independently of where any other element has hashed to .</p>
+    any of the m slots, independently of where any other element has hashed to .</p>
 <ul>
 <li>For any diff integers $k_1$ and $k_2$, $Pr(h(k_1)=h(k_2)) \leq 1/m$</li>
 </ul>
@@ -115,9 +115,9 @@ a dictionary query in O(1) expected time.</p>
 <li>uniformly distribute the keys among the integer values [0, m-1]<ul>
 <li>each key is equally likely to be hashed to one of m indices</li>
 <li>The reason for this requirement is that the cost of hashing-based methods goes up sharply
-  as the number of collisions-pairs of inputs that are mapped to the same hash value- increases.
-  If some hash values are more likely to occur than others, a larger fraction of the lookup
-  operations will have to search through a larger set of colliding table entries. [2]</li>
+    as the number of collisions-pairs of inputs that are mapped to the same hash value- increases.
+    If some hash values are more likely to occur than others, a larger fraction of the lookup
+    operations will have to search through a larger set of colliding table entries. [2]</li>
 <li>[Note]: the random is uniform</li>
 </ul>
 </li>
@@ -136,7 +136,7 @@ a dictionary query in O(1) expected time.</p>
 </li>
 <li>
 <p>the division method can give good results, assumimg that a prime
-  number k that is unrelated to any patterns in the distribution of keys .</p>
+    number k that is unrelated to any patterns in the distribution of keys .</p>
 </li>
 </ul>
 </li>
@@ -163,7 +163,7 @@ a dictionary query in O(1) expected time.</p>
 </li>
 <li>
 <p>the basic idea is to choose m to be sufficiently large that the lists are sufficiently short to enable
-efficient search through a two-step process</p>
+    efficient search through a two-step process</p>
 </li>
 </ul>
 </li>
@@ -175,7 +175,7 @@ efficient search through a two-step process</p>
 </li>
 <li>
 <p>the idea is that rather than using memory space for references in linked lists, we use it for
-the empty entries in the hash table, which mark the ends of probe sequences</p>
+    the empty entries in the hash table, which mark the ends of probe sequences</p>
 </li>
 </ul>
 </li>
@@ -186,8 +186,8 @@ the empty entries in the hash table, which mark the ends of probe sequences</p>
 <p>choosing a good capacity m</p>
 <ul>
 <li>We can choose the table size m to be sufficiently small that we do not waste a huge area of
-  contiguous memory with empty chains but sufficiently large that we donot waste time searching through
-  long chains.</li>
+    contiguous memory with empty chains but sufficiently large that we donot waste time searching through
+    long chains.</li>
 </ul>
 </li>
 <li>
@@ -202,7 +202,7 @@ the empty entries in the hash table, which mark the ends of probe sequences</p>
 <ul>
 <li>you cannot easily read things out in a sorted order, assuming these was such an order</li>
 <li>you can't really get a good hash function that be can computed quickly, so they're usally
-  bad for small dictionaries</li>
+    bad for small dictionaries</li>
 <li>resizing is very expensive, and probably can't be used in most real-time systems</li>
 </ul>
 </li>

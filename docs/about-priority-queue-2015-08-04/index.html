@@ -61,26 +61,18 @@
     <p class="body"><h4>Stack: FILO (first in, last out) <a href="http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html" title="stack and heap">1</a></h4>
 <ul>
 <li>Stored in computer RAM</li>
-<li>
-<p>stack grows and shrinks as functions push and pop local variables;
-   Variables are allocated and freed automatically .</p>
-</li>
-<li>
-<p>CPU manage the memory, reading from and writing to stack variables is very fast</p>
-</li>
+<li>stack grows and shrinks as functions push and pop local variables;
+    Variables are allocated and freed automatically .</li>
+<li>CPU manage the memory, reading from and writing to stack variables is very fast</li>
 </ul>
 <h4>Heap <a href="http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html" title="stack and heap">1</a></h4>
 <ul>
 <li>Stored in computer RAM</li>
 <li>heap variables are essentially global in scope.</li>
-<li>
-<p>Heap memory is slightly slower to be read from and written to, 
-   because one has to use pointers to access memory on the heap.</p>
-</li>
-<li>
-<p>If we need variables like arrays and structs that can change size dynamically,
-   then we will likely need to allocate them on the heap.</p>
-</li>
+<li>Heap memory is slightly slower to be read from and written to,
+    because one has to use pointers to access memory on the heap.</li>
+<li>If we need variables like arrays and structs that can change size dynamically,
+    then we will likely need to allocate them on the heap.</li>
 </ul>
 <h4>queue : FIFO</h4>
 <h4>stack : FILO (first in, last out)</h4>
@@ -91,19 +83,17 @@
 <ul>
 <li>
 <p>We collect a set of items, then process the one with the largest key, <strong>then perhaps collect more items</strong>,
- then process the one with the current largest key.</p>
+    then process the one with the current largest key.</p>
 </li>
 <li>
 <p>a collection in which items can be added at any time, but the only item that can be removed is the one
-   with the <strong>highest priority</strong>.</p>
-</li>
-</ul>
+    with the <strong>highest priority</strong>.</p>
 </li>
 <li>
 <p>The implementations</p>
-<ul>
+</li>
 <li>
-<p>unordered array/linked-list: </p>
+<p>unordered array/linked-list:</p>
 <ul>
 <li>To insert: push in the stack. O(1)</li>
 <li>To remove the max: exchange the MAX with the item at the end, and then delete that one. o(n)</li>
@@ -131,8 +121,8 @@
 </li>
 <li>
 <p>In a heap, the highest (or lowest) priority item is always stored <strong>at the root</strong>, hence the name "heap".
-       A heap is not a sorted structure and can be regarded as <strong>partially ordered</strong> . There is no particular
-       relationship among ndoes on any given level, even among the siblings <a href="http://www.cs.cmu.edu/~adamchik/15-121/lectures/Binary%20Heaps/heaps.html" title="priority queues">4</a>.</p>
+    A heap is not a sorted structure and can be regarded as <strong>partially ordered</strong> . There is no particular
+    relationship among ndoes on any given level, even among the siblings <a href="http://www.cs.cmu.edu/~adamchik/15-121/lectures/Binary%20Heaps/heaps.html" title="priority queues">4</a>.</p>
 </li>
 <li>
 <p>A heap is useful data structure when we need to <strong>remove the object with the highest (or lowest) priority</strong>.</p>

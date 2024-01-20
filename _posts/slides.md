@@ -7,30 +7,30 @@ date: 2012-03-13
 
 #### September, 2023 - A summary on factoid Question Answering (QA)
 
-- Check out the summary on [Question Answering](https://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)
+-   Check out the summary on [Question Answering](https://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)
 
 #### June, 2022 - An introduction and the related experiments on Natural Legal Language Processing
 
-- Check out the introduction and the related experiments on [NLP in legal domain](https://github.com/muyun/dev.nllp/blob/master/docs/nllp-20210618.pdf)
-  - The unstructured legal texts are not only commercial ones, but also judgments, scholarly articles, arguments and pleadings
+-   Check out the introduction and the related experiments on [NLP in legal domain](https://github.com/muyun/dev.nllp/blob/master/docs/nllp-20210618.pdf)
+    -   The unstructured legal texts are not only commercial ones, but also judgments, scholarly articles, arguments and pleadings
 
 #### Nov 24, 2021 - My slide on Japan in views of culture at HKU SPACE
 
-- Check out the introduction on [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso)
+-   Check out the introduction on [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso)
 
 #### 2018 - 2020 - Some of my slides on Artificial Intelligence and its applications in language & speech at HSUHK
 
-- [How to define the objectives and collect or generate your dataset](https://docs.google.com/presentation/d/1Y7zrC9QLHHcFlQpn3Yb2_paOgU_xB1B4yJwjM6ah98E/edit?usp=sharing)
-- [Algorithm: word embeddings based mapping](https://docs.google.com/presentation/d/1XpAfL3T-A0cxyRjVbmZFE2M8jsFQrwycfGX042OSP18/edit?usp=sharing)
-- [Algorithm: Support Vector Machine on word-embedding](https://docs.google.com/presentation/d/1GoGhYoFfq1Ha2MoseFj5KcWrzu0IISQ2/edit#slide=id.p1)
-- [Algorithm: Convolutional Neural Network for Sentence Classification](https://docs.google.com/presentation/d/1w8Qw0U5P9FVhO8-4WYMb0-foUYG47CBE/edit#slide=id.p1)
-- [The experiments based on Convolutional Neural Network](https://docs.google.com/presentation/d/1JKskq_ufcVFyvbG0yfBc1aRl0PLv39ak/edit#slide=id.p1)
-- [Algorithm: Recurrent Neural Network](https://docs.google.com/presentation/d/1UG5GBp7PH-8pOlXFw_jMKGQQpUtEe2xV/edit#slide=id.p1)
-- [Algorithm: Long short-term memory Network](https://docs.google.com/presentation/d/1f-5p59g9NrMlYHkhjagAYe7OO-23P-R-/edit#slide=id.p1)
-- [Algorithm: Hier-attention Network](https://docs.google.com/presentation/d/1MWM-tzy_I7I-MWqkIF3u9KodEKW3K2Tb/edit#slide=id.p1)
-- [Top-N Sort Algorithm](https://docs.google.com/presentation/d/1kpzEqbFUUvQ3dsSITs5C8ifK0VfOyAB0/edit#slide=id.p1)
-- [TOP-N Algorithm on word embeddings](https://docs.google.com/presentation/d/1kpzEqbFUUvQ3dsSITs5C8ifK0VfOyAB0/edit#slide=id.p1)
-- [iSpeaking - Automatic Speech Recognition for L2 (english&chinese) learners](https://docs.google.com/presentation/d/1qQC-UeyoCN7V9WVZTzPQqjbsb1NS8HI3/edit#slide=id.p1)
+-   [How to define the objectives and collect or generate your dataset](https://docs.google.com/presentation/d/1Y7zrC9QLHHcFlQpn3Yb2_paOgU_xB1B4yJwjM6ah98E/edit?usp=sharing)
+-   [Algorithm: word embeddings based mapping](https://docs.google.com/presentation/d/1XpAfL3T-A0cxyRjVbmZFE2M8jsFQrwycfGX042OSP18/edit?usp=sharing)
+-   [Algorithm: Support Vector Machine on word-embedding](https://docs.google.com/presentation/d/1GoGhYoFfq1Ha2MoseFj5KcWrzu0IISQ2/edit#slide=id.p1)
+-   [Algorithm: Convolutional Neural Network for Sentence Classification](https://docs.google.com/presentation/d/1w8Qw0U5P9FVhO8-4WYMb0-foUYG47CBE/edit#slide=id.p1)
+-   [The experiments based on Convolutional Neural Network](https://docs.google.com/presentation/d/1JKskq_ufcVFyvbG0yfBc1aRl0PLv39ak/edit#slide=id.p1)
+-   [Algorithm: Recurrent Neural Network](https://docs.google.com/presentation/d/1UG5GBp7PH-8pOlXFw_jMKGQQpUtEe2xV/edit#slide=id.p1)
+-   [Algorithm: Long short-term memory Network](https://docs.google.com/presentation/d/1f-5p59g9NrMlYHkhjagAYe7OO-23P-R-/edit#slide=id.p1)
+-   [Algorithm: Hier-attention Network](https://docs.google.com/presentation/d/1MWM-tzy_I7I-MWqkIF3u9KodEKW3K2Tb/edit#slide=id.p1)
+-   [Top-N Sort Algorithm](https://docs.google.com/presentation/d/1kpzEqbFUUvQ3dsSITs5C8ifK0VfOyAB0/edit#slide=id.p1)
+-   [TOP-N Algorithm on word embeddings](https://docs.google.com/presentation/d/1kpzEqbFUUvQ3dsSITs5C8ifK0VfOyAB0/edit#slide=id.p1)
+-   [iSpeaking - Automatic Speech Recognition for L2 (english&chinese) learners](https://docs.google.com/presentation/d/1qQC-UeyoCN7V9WVZTzPQqjbsb1NS8HI3/edit#slide=id.p1)
 
 #### Word Embeddings
 
@@ -72,10 +72,10 @@ This report is based on the existence of homophily to measure the influence of u
 
 #### Reference:
 
-- [acmqueue](https://queue.acm.org/)
-- [SCI-HUB](http://sci-hub.cc/)
-- [ACL Anthology](http://aclweb.org/anthology/index.html)
-- [The morning paper](http://blog.acolyer.org)
-- [Paper Trail](http://the-paper-trail.org/blog/)
-- [arXiv](http://arxiv.org/)
-- [Simon Peyton Jones's "how-to" slides](http://classes.engr.oregonstate.edu/eecs/spring2016/cs519-001/how-to-paper-talk-OSU.pdf)
+-   [acmqueue](https://queue.acm.org/)
+-   [SCI-HUB](http://sci-hub.cc/)
+-   [ACL Anthology](http://aclweb.org/anthology/index.html)
+-   [The morning paper](http://blog.acolyer.org)
+-   [Paper Trail](http://the-paper-trail.org/blog/)
+-   [arXiv](http://arxiv.org/)
+-   [Simon Peyton Jones's "how-to" slides](http://classes.engr.oregonstate.edu/eecs/spring2016/cs519-001/how-to-paper-talk-OSU.pdf)
