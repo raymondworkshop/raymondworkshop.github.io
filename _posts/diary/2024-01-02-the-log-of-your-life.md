@@ -24,7 +24,7 @@ abstract: "a master self-observer"
         -   <The Untethered Soul The Journey Beyond Yourself>
         -   <轻创业>
         -   <Getting Acquired How I Built and Sold My SaaS Startup>
-        -   programming
+        -   JS programming
 
 -   REVIEW
 

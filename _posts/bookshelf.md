@@ -22,18 +22,19 @@ date: 2012-03-19
 #### reading-2024
 
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
+-   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
+-   [家人使用說明書](https://www.kobo.com/hk/zh/ebook/nq0y0iptaDyhGddlDIxTyQ) by 黑川伊保子
 -   [事实与偏见]
 -   [HBR's 10 Must Reads on Managing Yourself]
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
+-   [That Will Never Work](https://book.douban.com/subject/34824730/) by Marc Randolph
+-   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey
 
 #### reading-2023
 
 -   [事实与偏见]
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 
--   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
--   [That Will Never Work](https://book.douban.com/subject/34824730/) by Marc Randolph
--   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey
 -   [富爸爸穷爸爸](https://book.douban.com/subject/1033778/) (8/10)
 
 -   [亲密关系](https://book.douban.com/subject/27072923/) by Rowland S. Miller (9/10)

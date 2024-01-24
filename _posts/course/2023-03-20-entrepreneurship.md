@@ -16,7 +16,23 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
 -   Consumer Behavior
 
-    -   TODO
+    -   People do not buy products or services, **they buy benefits**
+
+        -   **the utility** of the product, and **how one feels** when she/he owns a certain product or brand
+        -   understand buying behavior
+
+        -   know **who playes what role**
+            -   **to identify the need**, target the initiator
+            -   **to decide one brand or other**, target the influencer
+            -   **promote his or her product and service** to the decision maker
+            -   buyer, user
+
+    -   Consumer decision making process
+        -   need recognition
+        -   pre-purchase information search
+        -   **evaluation of alternatives**
+        -   purchase decision
+        -   post-purchase behavior
 
 -   Differentiation, Competition and Positioning
 
@@ -26,12 +42,22 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
     -   Competition
 
-    -   process of Positioning
-        -   **designing a company's offering and image to** occupy **a positive image in the mind** of target group
-            -   **Value proposition**
-        -   **identifying the competitors** and analyzing the competitors
-        -   **identiry the similarities and dissimilarities** between your brand and competitors
-        -   summarize the positioning and essence of the brand
+    -   Positioning - try to **create a difference in the consumer's mind** about their producct, or brand
+
+        -   do this on the basis of **certain attributes which is important to consumers**,
+            which is desirable, which is differentiable
+
+            -   **positioning is dynamic** because marketing is dynamic
+
+        -   say that we are **different from competition**
+
+            -   **designing a company's offering and image to** occupy **a positive image in the mind** of target group
+                -   **Value proposition**
+            -   **identifying the competitors** and analyzing the competitors
+            -   **identiry the similarities and dissimilarities** between your brand and competitors
+            -   summarize the positioning and essence of the brand
+
+        -   **how do you communicate this ideas** in the mind of the consumer?
 
 -   Segmentation and Targeting
 
