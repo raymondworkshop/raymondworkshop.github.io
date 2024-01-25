@@ -28,11 +28,16 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
             -   buyer, user
 
     -   Consumer decision making process
-        -   need recognition
+
+        -   need recognition - **the gap** between the actual state and the desired state
         -   pre-purchase information search
         -   **evaluation of alternatives**
+            -   comparing and contrasting
         -   purchase decision
         -   post-purchase behavior
+
+    -   B2B marketing and marketing strategy
+        -   TODO
 
 -   Differentiation, Competition and Positioning
 
