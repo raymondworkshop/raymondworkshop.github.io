@@ -6,6 +6,129 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-01-29
+
+-   TODO
+
+    -   JOBS
+
+        -   langauge partner
+
+            -   製作企劃書
+
+            -   文心科技 - 文心雕龍
+                -   RZ Workshop Limited
+
+    -   taiwan trip
+
+    -   Learning
+
+        -   course
+
+            -   [Marketing Management]
+            -   <The Untethered Soul The Journey Beyond Yourself>
+            -   <轻创业>
+            -   <Getting Acquired How I Built and Sold My SaaS Startup>
+            -   JS programming
+
+        -   English/Cantonese - **Pronunication** is the key
+
+            -   work on **eliminating your accent**
+            -   adopting **cultural traits**
+            -   **repeat the sentence** until speaker tells you no accent
+            -   **use verbs and expressions** that locals use
+
+        -   **現金流管理**
+            -   **保險** 是個很好的行業 - 底線思維
+            -   **稅務規劃** - 最經濟的路徑
+
+-   REVIEW
+
+    -   GOD
+
+    -   SELF
+
+        -   who feels when I feel?
+
+            -   I am **behind everything**, **just watching**
+            -   I look outside, and **see all that I see**
+                -   I am **aware of the thoughts, emotions, and a world** **coming in through my senses**
+
+        -   磨练你的 **书面和口头表达能力**
+
+            -   发射什么信号，就吸引什么类型的人
+            -   **正能量** - **笑容，积极乐观**，对人友好
+            -   **自信而不傲慢**， 幽默
+            -   对他人真诚的关注和兴趣
+            -   倾听，对对方尊重和理解
+
+        -   **Buy yourself cake and flowers and get through it**. It's not over until it's over
+
+            -   Do small things that **give you immediate gratification and keep going**
+
+        -   **Life must be felt**, not observed
+
+            -   **to create, to excel, and to be concerned** about the world and its affairs.
+
+        -   **自信与幸福感都是内聚而外绽**， 是**点滴超越自我**，对实质精进的肯定
+
+            -   **诚实面对内在**，**摒弃暗黑懦弱**，**果敢取舍提升**，才有真正的尊严与竞争力
+
+    -   FAMILIES
+
+        -   扮演**老婆的閨蜜**
+
+            -   溫柔體貼
+            -   同理心
+
+        -   Talking to girls - **understand her**, don't try to fix her
+            -   **Listen to her** and **add in your thoughts**
+            -   **When a trait or feeling comes up that you agree with**, tell her
+            -   she will feel a '**connection**' with you and her interest will rise
+
+    -   BUSINESS
+
+        -   **先谈好利益**再行动
+
+            -   对方真心 Buy 啥
+
+        -   leaders improve the effectiveness by **moving back and forth in different contexts**
+
+            -   the expert vs the learner
+            -   the constant vs the adaptor
+            -   the tactician vs the visionary
+                -   well-defined plans
+            -   the teller vs the listener
+            -   the power holder vs the power sharer
+            -   the intuitionist vs the analyst
+            -   the perfectionist vs the accelerator
+
+        -   manager
+
+            -   負責足球談話， 讓球員和經紀知道**他們如何融入項目**，**回答任何战术问题**，以及**为什么这笔交易是有意义的**；
+                然后是合同方面的问题
+
+        -   拉特克利夫的副手戴夫-布雷斯福德在体育界**备受尊敬**，并**以建立高标准而闻名**
+            -   以在他周围**建立了一支强大的专家团队**而闻名，这些专家都是该领域最好的，同时**也培养了一种强大的心态**
+
+    -   SKILLS
+
+        -   **自由意志才有道德底线**
+
+        -   **Pronunication** is the key
+
+            -   work on **eliminating your accent**
+            -   adopting **cultural traits**
+            -   **repeat the sentence** until speaker tells you no accent
+            -   **use verbs and expressions** that locals use
+
+        -   美国成功的人都不是咬牙切齿的
+            -   **把自己榨得太厉害的人**， **情感人格都失调**，无以为继，没后劲
+            -   而不是 遵循内心的 passion 一直干下去
+
+    -   MEETUP
+        -   no show on hiking
+
 #### 2024-01-22
 
 -   TODO
