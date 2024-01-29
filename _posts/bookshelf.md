@@ -9,15 +9,15 @@ date: 2012-03-19
 
 -   Entrepreneurship
 
-    -   [職場素養 (Professionalism)](https://www.coursera.org/learn/zhichang-suyang/home/week/1)
-
-    -   [Startup School](https://www.startupschool.org/curriculum)
+    -   [Marketing Management](https://www.edx.org/learn/marketing-management/indian-institute-of-management-bangalore-marketing-management)
 
     -   [Entrepreneurship For Everyone](https://learning.edx.org/course/course-v1:IIMBx+EP101x+2T2022/home)
 
     -   [Accounting and Finance](https://learning.edx.org/course/course-v1:IIMBx+AC104x+2T2022/home)
 
-    -   [Marketing Management](https://www.edx.org/learn/marketing-management/indian-institute-of-management-bangalore-marketing-management)
+    -   [職場素養 (Professionalism)](https://www.coursera.org/learn/zhichang-suyang/home/week/1)
+
+    -   [Startup School](https://www.startupschool.org/curriculum)
 
 #### reading-2024
 
@@ -29,9 +29,8 @@ date: 2012-03-19
 -   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
 -   [家人使用說明書](https://www.kobo.com/hk/zh/ebook/nq0y0iptaDyhGddlDIxTyQ) by 黑川伊保子
 -   [事实与偏见]
--   [HBR's 10 Must Reads on Managing Yourself]
--   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
 -   [That Will Never Work](https://book.douban.com/subject/34824730/) by Marc Randolph
+-   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
 -   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey
 
 #### reading-2023
