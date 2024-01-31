@@ -36,8 +36,11 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
         -   purchase decision
         -   post-purchase behavior
 
-    -   B2B marketing and marketing strategy
+    -   5. B2B marketing and marketing strategy
+
         -   TODO
+
+    -   ## Marketing Strategy: Product, Service and Pricing Decision
 
 -   Differentiation, Competition and Positioning
 
