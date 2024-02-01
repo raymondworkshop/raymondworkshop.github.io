@@ -17,8 +17,6 @@ date: 2012-03-19
 
     -   [Startup School](https://www.startupschool.org/curriculum)
 
-    -   [職場素養 (Professionalism)](https://www.coursera.org/learn/zhichang-suyang/home/week/1)
-
 #### reading-2024
 
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
