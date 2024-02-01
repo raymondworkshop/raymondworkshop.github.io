@@ -9,15 +9,15 @@ date: 2012-03-19
 
 -   Entrepreneurship
 
-    -   [Marketing Management](https://www.edx.org/learn/marketing-management/indian-institute-of-management-bangalore-marketing-management)
-
     -   [Entrepreneurship For Everyone](https://learning.edx.org/course/course-v1:IIMBx+EP101x+2T2022/home)
 
-    -   [Accounting and Finance](https://learning.edx.org/course/course-v1:IIMBx+AC104x+2T2022/home)
+    -   [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2023/home)
 
-    -   [職場素養 (Professionalism)](https://www.coursera.org/learn/zhichang-suyang/home/week/1)
+    -   [Marketing Management](https://www.edx.org/learn/marketing-management/indian-institute-of-management-bangalore-marketing-management)
 
     -   [Startup School](https://www.startupschool.org/curriculum)
+
+    -   [職場素養 (Professionalism)](https://www.coursera.org/learn/zhichang-suyang/home/week/1)
 
 #### reading-2024
 
