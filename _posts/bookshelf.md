@@ -11,9 +11,9 @@ date: 2012-03-19
 
     -   [Entrepreneurship For Everyone](https://learning.edx.org/course/course-v1:IIMBx+EP101x+2T2022/home)
 
-    -   [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2023/home)
+    -   [Business Communication](https://learning.edx.org/course/course-v1:RITx+LEAD101+1T2024/home)
 
-    -   [Marketing Management](https://www.edx.org/learn/marketing-management/indian-institute-of-management-bangalore-marketing-management)
+    -   [Critical Thinking & Problem Solving](https://learning.edx.org/course/course-v1:RITx+LEAD103+1T2024/home)
 
     -   [Startup School](https://www.startupschool.org/curriculum)
 
