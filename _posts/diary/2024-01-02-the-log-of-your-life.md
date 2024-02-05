@@ -6,6 +6,124 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-02-05
+
+-   TODO
+
+    -   SELF
+
+    -   LEARNING
+
+        -   Management
+
+        -   Languagne
+
+        -   PROGRAMMING
+
+        -   COUSES
+
+            -   <The Untethered Soul The Journey Beyond Yourself>
+            -   <轻创业>
+            -   <Emotional Intelligence>
+            -   JS programming
+            -   <底层逻辑>
+
+            -   [Entrepreneurship For Everyone](https://learning.edx.org/course/course-v1:IIMBx+EP101x+2T2022/home)
+
+            -   [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2023/home)
+
+-   REVIEW
+
+    -   GOD
+
+    -   SELF
+
+        -   外圆内方
+
+            -   过于真诚， 追求真理
+            -   每个人的着眼点，利益不同
+            -   **顺着对方的思路**， 了解对方的着眼点
+
+        -   **要会算数**， 要精明
+
+            -   商界讲究的是 互赢
+            -   **要知道自己的目的/目标**
+            -   要了解对方的着眼点
+                -   过于负责
+            -   实惠
+            -   谈判能力
+
+        -   西方的管理模式 + 内里的儒家哲学
+
+            -   **optimistic and driven** people
+            -   让员工有归属感，安心， 让员工喜欢你
+            -   **推销生意**
+
+        -   **pronounication** is the key
+
+            -   work on **eliminating your accent**
+
+                -   this changes how natives behave towards you unconsciously,
+                    And it also gives you an ability to adapt to **a new self-image**
+
+                -   **repeat the sentence** until speaker tells you no accent
+
+            -   adopting **cultural traits**
+            -   use verbs and expressions that locals use
+
+    -   FAMILIES
+
+        -   **having fun with** the woman
+            -   **don't take your outings** so seriously
+            -   **a woman must feel comfortable and secure** with u before intimacy can begin
+
+    -   BUSINESS
+
+        -   SAAS
+
+            -   Language learning
+            -   网站
+            -   中介+community
+
+        -   product manager who **looks at a product from a CEO’s perspective**
+            and **focuses on its commercialisation**, **marketing**, and **profitability**
+
+        -   **有策略展示自己的能力和價值**
+
+            -   让对方认识到他们比你更需要你
+
+        -   现金流管理
+            -   应急 + 储蓄
+            -   **将剩下的大部分钱用了犒赏自己**，花在任何可能让生活变得更轻松的事情上
+            -   税务规划 是最经济的爬山路径
+
+    -   SKILLS
+
+        -   吸引别人注意力和好感
+
+            -   **发射什么信号**，**就吸引什么类型的人**
+            -   **笑容，乐观积极**，对人友好
+            -   **自信而不傲慢**
+            -   对他人真诚的兴趣，对对方的关注和兴趣
+            -   倾听的艺术， 对对方的尊重和理解
+            -   幽默
+
+        -   普通法 common law
+
+            -   **重視案例判決**， 且互相援引；司法獨立，法官可以演繹條例
+            -   普通法**可以跨國援引**， 無形中服從一定國際規範（英美規範）， 進而可以保障商人利益
+            -   botwoon-up
+            -   法律經濟學
+            -   大陸法 civil law
+                -   比較硬性法規
+                -   top-down
+
+        -   china
+            -   对人一点真诚都没有
+                -   不尊重自己，业不尊重别人， 喜欢看别人痛苦
+
+    -   MEETUP
+
 #### 2024-01-29
 
 -   TODO
