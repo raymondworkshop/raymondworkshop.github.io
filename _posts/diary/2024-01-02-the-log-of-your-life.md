@@ -20,12 +20,14 @@ abstract: "a master self-observer"
 
         -   PROGRAMMING
 
+            -   JS programming + react
+
         -   COUSES
 
             -   <The Untethered Soul The Journey Beyond Yourself>
             -   <轻创业>
             -   <Emotional Intelligence>
-            -   JS programming
+
             -   <底层逻辑>
 
             -   [Entrepreneurship For Everyone](https://learning.edx.org/course/course-v1:IIMBx+EP101x+2T2022/home)
