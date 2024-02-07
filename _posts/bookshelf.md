@@ -23,14 +23,14 @@ date: 2012-03-19
 
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
+-   [The Manager's Path](https://book.douban.com/subject/26997855/) by Camille Fournier
+-   [家人使用說明書](https://www.kobo.com/hk/zh/ebook/nq0y0iptaDyhGddlDIxTyQ) by 黑川伊保子
+-   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
+
 -   [沉思录](https://book.douban.com/subject/10429639/)
 -   [HBR's 10 Must Reads on Managing Yourself](https://book.douban.com/subject/5415037/)
--   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
--   [The Manager's Path](https://book.douban.com/subject/26997855/) by Camille Fournier
 -   [HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)
 -   [Benjamin Franklin——An American Life](https://book.douban.com/subject/2990595/)
-
--   [家人使用說明書](https://www.kobo.com/hk/zh/ebook/nq0y0iptaDyhGddlDIxTyQ) by 黑川伊保子
 
 -   [事实与偏见]
 -   [That Will Never Work](https://book.douban.com/subject/34824730/) by Marc Randolph
