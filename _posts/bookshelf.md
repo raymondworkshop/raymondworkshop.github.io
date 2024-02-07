@@ -11,7 +11,7 @@ date: 2012-03-19
 
     -   [Entrepreneurship For Everyone](https://learning.edx.org/course/course-v1:IIMBx+EP101x+2T2022/home)
 
-    -   [Business Communication](https://learning.edx.org/course/course-v1:RITx+LEAD101+1T2024/home)
+    -   [Exercising Leadership](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2023/home)
 
     -   [Critical Thinking & Problem Solving](https://learning.edx.org/course/course-v1:RITx+LEAD103+1T2024/home)
 
