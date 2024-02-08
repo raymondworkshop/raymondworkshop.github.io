@@ -9,6 +9,6 @@ I was a Technical Officer in HSUHK, RA (in Chinese University of Hong Kong, City
 
 I got my M.Sc. in Computer Science at Chinese University of Hong Kong and B.Eng. in Electronic and Information Engineering at WuHan University.
 
-If you’ve got any questions, suggestions or would like to discuss a project then email me at **bestraymond@icloud.com**. I’d be happy to hear from you.
+If you’ve got any questions, suggestions or would like to discuss a project then email me at '**bestraymond@icloud.com**'. I’d be happy to hear from you.
 
 All opinions here are my own.
