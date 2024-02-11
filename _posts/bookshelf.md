@@ -9,13 +9,13 @@ date: 2012-03-19
 
 -   Entrepreneurship
 
+    -   [Marketing Management](https://learning.edx.org/course/course-v1:IIMBx+MK102x+2T2022/home)
+
     -   [Entrepreneurship For Everyone](https://learning.edx.org/course/course-v1:IIMBx+EP101x+2T2022/home)
 
     -   [Exercising Leadership](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2023/home)
 
     -   [Critical Thinking & Problem Solving](https://learning.edx.org/course/course-v1:RITx+LEAD103+1T2024/home)
-
-    -   [Management](https://learning.edx.org/course/course-v1:DoaneX+BUS242X+2T2023/home)
 
     -   [Startup School](https://www.startupschool.org/curriculum)
 
