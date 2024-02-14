@@ -6,6 +6,118 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-02-14
+
+-   TODO
+
+    -   SELF
+
+    -   FAMILIES
+
+    -   BUSINESS
+
+    -   LEARNING
+
+-   REVIEW
+
+    -   GOD
+
+        -   作为自己的 **core**
+
+    -   SELF
+
+        -   自己要**先相信自己**
+
+            -   不认输， 毅力，魄力， 有良知
+
+        -   focus on **building yourself physically, mentally, and financially**, **your business** and **your life**
+
+        -   adventurous, honest, well-read
+
+        -   制造对你的好感
+            -   **仪容整洁**
+            -   **表达到你这个人**
+            -   保持**微笑**
+            -   **适当的招呼**
+            -   **不要有小动作**，不要大力点头
+            -   保持眼神接触，望住对方额头
+            -   **细心聆听**， **对不同的人讲不同的话**
+            -   不要谈政治，婚姻，宗教
+            -   适当时间， **大胆进攻**
+            -   目标论
+            -   **资料收集和了解对方**
+
+    -   FAMILIES
+
+        -   create her like **your annoying little sister**
+
+            -   **playfully teasing her** and **making her laugh**
+                -   this can help u to **create a lighthearted and fun dynamic** between you two
+            -   **listen and support her** when she needs it
+                -   this can help to **build trust and strengthen your bond**
+            -   be protective of her
+                -   **show that you care about her and are protective** of her, just as you would be with a little sister
+                -   this can help to **make her feel safe and secure** around you
+
+        -   为了共同塑造和谐的伴侣关系，**明确地向对方表达自己的愿望和需求**非常重要
+
+    -   BUSINESS
+
+        -   **看到香港人需要什么**， 然后**有很强的能力去思考一个方案**，解决这个问题
+
+            -   很强的思考解决方案的能力， 很强的执行力
+            -   工作就是生命
+
+        -   idea - 投资**市场可以接受的技术**
+
+            -   需要技术，**这项技术一定赢**
+            -   **需要有好的计划**， 告诉投资者，这是可行的计划
+
+            -   然后，成与败 只在于**团队的执行力**
+
+                -   **起起伏伏很正常**， 魄力， 不用多想
+                -   **团队的执行力**， 大型计划是需要熬的
+
+            -   小公司， **转身快**， 接触到客户要求，**理解市场变化大**
+                -   大公司， 有包袱， 会伤害到自己的传统盈利
+
+        -   partner
+
+            -   **有成功案例**， **性格适合**
+            -   主动，**有责任心**， **对这个事情上心**
+            -   服务行业
+
+        -   生意的本質 是**價值交換**
+
+            -   營銷的本質 是**找對人，說對話**
+            -   銷售的本質 是**幫助客戶解決問題**
+
+        -   eastern society
+            -   tend to be dialectical thinker, **a grey area**
+            -   emphasise the use of **self-criticism**, **maintain group harmony**
+        -   western society
+
+            -   **analytical thinking**
+                -   pay more attention to **focal objects and specific details**,
+                    and tend to believe the outcome is a **clear result of a cause and effect relationship**
+            -   **self-enhancement**
+                -   one **directly express his desires** and **promote his self-images**;
+                    He is **open and direct about his abilities and accomplishements**
+
+        -   合法避税， 是对自己财富负责任的管理
+
+    -   SKILLS
+
+        -   港人**重机敏， 多趋利**， 但做人仍有原则，亦多认同普世价值
+
+            -   趋利而行，不落人后，正是港人特色
+
+        -   国人用口号与标签， **代替求证和思考**
+
+    -   MEETUP
+        -   台灣行沒能成行
+            -   申請太晚， 太大意
+
 #### 2024-02-05
 
 -   TODO

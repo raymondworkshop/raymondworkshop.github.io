@@ -40,7 +40,7 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
         -   TODO
 
-    -   ## Marketing Strategy: Product, Service and Pricing Decision
+    -   Marketing Strategy: Product, Service and Pricing Decision
 
 -   Differentiation, Competition and Positioning
 
@@ -622,8 +622,6 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 #### Entrepreneurship For Everyone
 
 #### Accounting and Finance
-
-#### Marketing Management
 
 #### reference
 
