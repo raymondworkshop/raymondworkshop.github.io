@@ -91,6 +91,8 @@ abstract: "Improve my mindset and knowledge on Entrepreneur"
 
     -   **marketing starts with the consumers** where as selling starts with the manufacturer or supplier
 
+-   TODO
+
 #### **People Management**
 
 -   Managing Self - think, reflect, and introspect about yourself
