@@ -6,6 +6,113 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-02-19
+
+-   TODO
+
+    -   SELF
+
+    -   BUSINESS
+
+    -   LEARNRNING
+        -   negotiation
+        -   JS
+        -   English **pronunication**
+            -   work on **eliminating your accent**
+                -   this changes **how natives behave towards you unconsciously**,
+                    And it also gives you an ability to adapt to **a new self-image**
+            -   **repeat the sentence** until speaker tells you no accent
+                -   find a native speaker to help u
+            -   use verbs and expressions that locals use
+            -   adopting cultural traits
+        -   EQ
+
+-   REVIEW
+
+    -   GOD
+
+    -   SELF
+
+        -   **不纠结**
+
+            -   **对身不由己的事情， 自己也没办法负责**
+
+        -   她们的内在力量是 **自由和自尊**
+
+            -   力量的源泉， 是**父母的爱与尊重**， **支持与信任**
+            -   很多欧美的姑娘，无论是活波开朗，还是安静内向， **言谈举止都是从容舒展**， 闪耀着超越年龄的智慧光芒
+                -   几个东亚来的，无论年龄性别， 都**像兔子一样**， 无时无刻不在察言观色，迎合， 躲闪
+
+        -   **flirty** vibe or playfull
+
+            -   **making fun of sth**, 調侃
+            -   **relax and talk freely**, and **know the girl**
+
+                -   don't take yourself too seriously
+
+            -   **maybe they could like you**
+
+                -   "**I was wonderfuling if you wanted to get a drink sometime**?"
+                -   we should get a drink sometime; I know this really cool place. I'd like to take you out
+                -   such as family, work, hobbies, people on the other tables, food
+
+                -   **a bar**
+                    -   **feel relaxed and comfortable** and able to talk
+                    -   **maybe going a walk**
+
+            -   **we should do this again sometime**
+                -   a very brief, light kiss at the end
+                -   " so are we exclusive?"
+                -   "where do u stand on that?"
+
+        -   你认为我该做些什么呢？
+
+    -   FAMILIES
+
+    -   BUSINESS
+
+        -   RF workshop limited
+
+            -   BEAN lab
+
+        -   曹興誠
+
+            -   **解决问题** - 研究
+
+                -   **面临什么问题， 该怎么解决，这中间逻辑怎么样，有哪些事证**
+
+            -   管理很簡單，就是**邏輯加常識**
+
+                -   從常識判斷，曹興誠掌握**人性對成就感的渴望**，鼓勵員工為聯電集團創業
+                    -   「出土開疆闢土，是我們最高的榮譽，」曹興誠藉由不斷成立新公司，讓部屬出去當總經理，打造新的舞台。聯電的關係企業網綿密，透過聯電與各子公司間的互相投資持股，魚幫水、水幫魚，讓彼此的地位都更穩固
+                -   從邏輯分析，**將利潤分享員工，最能留住人才、累積專業**，並且吸引更多人才進來，所以聯電開風氣之先發股票紅利給員工
+
+                -   **財務操作靈活善布局**
+
+            -   **謀事者眾，則成**， 謀事者寡，則敗
+
+                -   他相信**集思廣益**能創造最大效果。進入聯電後，他就開始組織核心團隊
+
+            -   **主動出擊**
+                -   即使遭受攻擊，也**要積極反抗，絕不坐以待斃**，從聯電積極申請專利上就可看出
+
+        -   王維基
+            -   看到**当地需要什么**， 然后**有很强的能力去思考一个方案**，**解决这个问题**
+                -   解决的过程就会改变那个现状，以及改变自己的处境
+            -   我尝试自己先做， 作一个示范； 这样**同事会觉得被受尊重**，才会愿意跟随你工作
+                -   **成熟和可信的同事**， 放手被他来做
+
+    -   SKILLS
+
+        -   贝叶斯 - **旧假设 + 新证据** = **新假设**
+
+            -   先有一个**先验猜测**（主管判断），然后**根据经验事实不断地修正先验**， **得到更为合理的后验概率** （更客观世界的本质）
+
+        -   理论缺乏一贯性
+            -   也就是说， 是**依靠权力而生的**
+
+    -   MEETUP
+
 #### 2024-02-14
 
 -   TODO

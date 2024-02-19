@@ -9,9 +9,9 @@ date: 2012-03-19
 
 -   Entrepreneurship
 
-    -   [Exercising Leadership](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2023/home)
-
     -   [Marketing Management](https://learning.edx.org/course/course-v1:IIMBx+MK102x+2T2022/home)
+
+    -   [Exercising Leadership](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2023/home)
 
     -   [Entrepreneurship For Everyone](https://learning.edx.org/course/course-v1:IIMBx+EP101x+2T2022/home)
 
@@ -20,19 +20,20 @@ date: 2012-03-19
 #### reading-2024
 
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
+-   [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford
+-   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
 
 -   [家人使用說明書](https://www.kobo.com/hk/zh/ebook/nq0y0iptaDyhGddlDIxTyQ) by 黑川伊保子
--   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
 -   [Benjamin Franklin——An American Life](https://book.douban.com/subject/2990595/)
 
+-   [That Will Never Work](https://book.douban.com/subject/34824730/) by Marc Randolph
 -   [沉思录](https://book.douban.com/subject/10429639/)
 -   [HBR's 10 Must Reads on Managing Yourself](https://book.douban.com/subject/5415037/)
 -   [HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)
 -   [The Manager's Path](https://book.douban.com/subject/26997855/) by Camille Fournier
 
 -   [事实与偏见]
--   [That Will Never Work](https://book.douban.com/subject/34824730/) by Marc Randolph
 -   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey
 
 #### reading-2023
