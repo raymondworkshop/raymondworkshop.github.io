@@ -6,6 +6,51 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-02-26
+
+-   TODO
+
+    -   Learning
+        -   EQ
+        -   Negotiations
+        -   JS
+        -   English/Cantonese
+
+-   REVIEW
+
+    -   GOD
+    -   SELF
+
+        -   预判意图
+        -   **不纠结**
+            -   **对身不由己的事， 自己也没办法负责**
+        -   **making fun of** sth
+
+            -   **relax and talk freely**, and **know the girl**
+
+        -   成熟和自信的人
+
+        -   没有犯法， 很多事情觉得做的不理想， **承认不足或不够**
+
+    -   FAMILIES
+
+    -   BUSINESS
+
+        -   **觉察到人 较重视什么** 才是重点
+            -   激发他人的需要
+        -   **思考本身也很有趣， 中间逻辑通不通， 有哪些实证**
+
+        -   沟通技能
+            -   我只认识乔尔和阿夫拉姆， **他们是非常好的人，很有礼貌**，**也是曼联的狂热支持者**。 **我理解球迷们的沮丧和愤怒**， **但我会向前看**，而不是向后看
+            -   我们将评估自己有多少可用资金， **并善加利用**。 **我们必须找到世界上最优秀的人才**， 且**确保他们拥有好的性格和人格**，同时**也要为精英体育人士的成功创造良好的环境**
+
+    -   MEETUP
+
+        -   meet with 云姨
+            -   很好的一个开始
+
+    -   SKILLS
+
 #### 2024-02-19
 
 -   TODO
