@@ -6,6 +6,85 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-03-05
+
+-   TODO
+
+    -   GOD
+    -   Learning
+        -   EQ
+        -   Negotiations
+        -   JS
+        -   English/Cantonese
+
+-   REVIEW
+
+    -   GOD
+    -   SELF
+
+        -   静坐半个时辰， 让自己心静下来，防止处于浮躁状态，被事务牵着走
+
+    -   LOVE
+
+        -   **以大哥哥的角度**传输
+
+            -   懂得比对方多
+
+        -   **teasing**
+            -   幽默，让对方笑起来
+        -   适当的肢体接触
+        -   **flirting**
+
+            -   调情
+            -   时机和度
+            -   性暗示笑话或文字
+
+        -   转场
+            -   酒吧， 溜达
+            -   要不要来我家
+
+    -   FAMILIES
+
+    -   BUSINESS
+
+        -   partner
+
+            -   希望是专业人士， 也有商业头脑， 有自己的想法
+            -   成熟自信
+            -   开朗，积极
+
+        -   **想象有足够吸引人的功能来进入**这个竞争激烈的市场
+
+            -   观察，等待， 然后完善现有的早期科技产品
+
+        -   meet with Iris Wang
+
+            -   她有些迷茫
+            -   希望被别人 leader
+
+        -   meet with Marie
+            -   赞同她的 commit + value
+            -   感觉她对 股权，利益分配不是很在行
+            -   项目也不是很有吸引力和有前景
+
+    -   MEETUP
+
+        -   飞盘
+
+    -   SKILLS
+        -   商业社交
+            -   **发现对方关注点，制造共同话题** - topic
+            -   **令对方对你产生兴趣** - interest
+                -   送小礼物
+                -   分享“小秘密”， 拉近距离
+                -   多称赞对方
+                -   说“对方感兴趣”的话题
+            -   **层层推进**， 切入 保险 - points
+                -   通过简单问题铺垫，引导向风险，引发对方对风险的思考，切入保险功用
+            -   尝试成交
+        -   driving
+            -
+
 #### 2024-02-26
 
 -   TODO

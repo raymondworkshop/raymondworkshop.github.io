@@ -23,6 +23,7 @@ date: 2012-03-19
 -   [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford
 -   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
+-   [The Art of Agile Development](https://book.douban.com/subject/2751184/) by
 
 -   [家人使用說明書](https://www.kobo.com/hk/zh/ebook/nq0y0iptaDyhGddlDIxTyQ) by 黑川伊保子
 -   [Benjamin Franklin——An American Life](https://book.douban.com/subject/2990595/)
