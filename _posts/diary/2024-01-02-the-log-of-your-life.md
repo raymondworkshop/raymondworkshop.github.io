@@ -6,11 +6,87 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-03-11
+
+-   TODO
+
+    -   GOD
+
+    -   lifestyle
+
+        -   早睡早起
+
+    -   Learning
+
+        -   EQ
+        -   Negotiations
+        -   Driving
+        -   JS
+
+    -   English/Cantonese
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+
+        -   要常常喜乐， 不住祷告， 凡事谢恩
+
+    -   SELF
+
+        -   **我们要时刻保持自信**， **纵然有时你并不这样认为**，但时间久了渐渐就自然会有自信
+
+            -   保着**同理心**， **多尝试去了解别人**
+
+        -   珍惜自己时间
+
+        -   积极锻炼， 喜欢社交
+
+        -   **只有一件事会使人疲劳， 那就是摇摆不定，优柔寡断**
+            -   每做一件事， 都会使人身心解放，**即使把事情办坏了， 也比什么都不做强** —— 斯蒂芬·茨威格
+
+    -   FAMILIES
+
+        -   **配合气氛**， 即使假装
+
+    -   BUSINESS
+
+        -   partner
+
+            -   commit + value
+            -   专业人士
+
+        -   ideas
+            -   心理学
+                -   rootd
+            -   过期知名域名
+                -   使用 AI 向这些网站提供内容
+
+    -   MEETUP
+
+        -   meet with Laila
+
+            -   Improve your english
+
+        -   meet with David
+            -   务实
+
+    -   SKILLS
+
+        -   driving
+            -   超越物体
+        -   中国官场潜规则，是 **二把手要主动去挑明一把手对二把手的意图**
+            -   不能等着一把手主动来找二把手挑明，不然对一把手而言，就落下了痕迹，暴露了一把手的意图，**让其他看穿了一把手的心思**，这是官场的一大禁忌，也是二把手必须具备的政治智慧
+
 #### 2024-03-05
 
 -   TODO
 
     -   GOD
+
+    -   lifestyle
+        -   早睡早起
     -   Learning
         -   EQ
         -   Negotiations
@@ -49,8 +125,8 @@ abstract: "a master self-observer"
 
         -   partner
 
-            -   希望是专业人士， 也有商业头脑， 有自己的想法
-            -   成熟自信
+            -   **专业人士**， 也**有商业头脑**， 有自己的想法
+            -   **成熟自信**， **有精神力**
             -   开朗，积极
 
         -   **想象有足够吸引人的功能来进入**这个竞争激烈的市场
@@ -83,7 +159,6 @@ abstract: "a master self-observer"
                 -   通过简单问题铺垫，引导向风险，引发对方对风险的思考，切入保险功用
             -   尝试成交
         -   driving
-            -
 
 #### 2024-02-26
 
