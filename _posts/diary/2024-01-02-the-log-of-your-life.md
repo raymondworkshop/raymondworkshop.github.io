@@ -6,6 +6,213 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-03-18
+
+-   TODO
+
+    -   GOD
+
+    -   lifestyle
+
+        -   早睡早起
+
+    -   Learning
+
+        -   EQ
+        -   Negotiations
+        -   Driving
+        -   JS
+
+    -   English/Cantonese
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+
+        -   信心是**对神的认知**
+            -   信心是向着神
+        -   爱心是向着圣徒
+            -   喜乐 是恩典
+            -   交托给神， 神的旨意
+        -   盼望是在于未来
+
+        -   **凡事向他诉说**
+            -   祷告时，不要寻求感觉，**你要信住的灵与你同在**； **只要照着你里面所觉得的**，**或照着你的记忆**，
+                **一件一件的向主认罪，直到你再无可认**， **从感觉，记忆里都没有了**。 然后你应该相信，就在这时，你已被灵所充满
+                -   认罪就是**倒出自己**， 祷告就是**接受主**
+                -   我们**呼出罪**，也就**吸入神自己**
+
+    -   SELF
+
+        -   **Feel her mood or trusted**
+
+            -   humor - laugh
+            -   drinking
+            -   food
+
+        -   配合气氛
+
+        -   **明白自己真正需要什么**， **一定要光明正大的去争取**， 不然好事永远不会落到你头上
+
+            -   **自己不喜欢什么，一定得大大方方地讲出来**， 不然别人会认为你并不在意
+
+        -   **ask people how they think** not what they think
+
+        -   将军
+
+            -   **利用机构 一个人做几百个人做的事**
+
+        -   求知探索就是最大的乐趣
+
+    -   FAMILIES
+
+        -   **走进这个人的心里** - 信任+尊重
+            -   **建立性张力**
+                -   **flirting** - 幽默， 逗她笑
+                -   **温柔缓慢 肢体接触**
+                -   身体接触（耳朵，肩膀， 后背）
+            -   让女生感受到 **你对她感兴趣**
+                -   **适当的夸赞**
+
+    -   BUSINESS
+
+        -   果断地**向重要人物发起互动， 询问信息并请求资源**
+
+            -   **发出群体为导向的信号**
+                -   **目的是推动所在群体的利益**
+                -   避免刻板印象 - 女性比男性更需要将群体和他人的需求置于自身利益之上
+            -   工具性网络 （寻求建议，请求资源和建立联盟） + 情感性网络 （友谊和社会支持）
+
+        -   Entrepreneurship
+
+            -   Yes, we can
+
+                -   **know and build on your core competencies**
+                -   build on them, invest in them, **nurture them**, **make them more robust**
+
+            -   **Problem-first**, not product-first logic
+
+            -   **Think Narrow**, not broad
+
+            -   **Ask for the cash**, ride the float
+
+                -   **cash is the lifeblood** of the entrepreneurial venture
+
+            -   Beg, Borrow
+
+                -   **Borrow most of the assets** they needed
+
+            -   **Never ask permission** (Beg forgiveness later)
+                -   Big companies have armies of lawyers
+                    -   'yes' takes a long time
+                    -   anyone can say 'No'
+
+        -   Management
+
+            -   the art of delegating
+            -   resolving conflict
+
+                -   **it's about resolution**, not winning
+                -   Give up on the idea of 'winning'
+
+                    -   being the person who **helps everyone get on the same page** so they can move forward
+
+                -   start by **looking for common ground**, start to **sort out the facts and key priorities**
+
+                    -   **why does each person think what they think**?
+                    -   **Is there outside information that could influence or persuade** them otherwise?
+                    -   why do u think what you think?
+
+                -   Focus on **the facts** (not the perceptions)
+
+                    -   only speak for yourself, talk about your experience, your knowledge, and the facts at hand
+                    -   just look at **what is in front of you**
+                        -   what is the goal
+                        -   what are the possible solutions
+                        -   how can we measure each of them
+                        -   do we have any experiences or resources we can draw on to get more information
+                        -   how can we reach a compromise that acknowledges everyone's needs?
+
+                -   **repeat back the other person's words** to them
+
+                    -   “ ok, that makes sense. Just to make sure I completely understand, you are saying …”
+
+                -   **stick with it and seek a conclusion**
+                    -   it is better to **seek a conclusion to the conflict** than to just accept it
+
+            -   leadership
+
+                -   **your relationships** mean the most
+
+                    -   **the team and people matter more** than the work, role or subject matter
+
+                -   **Do what matters**
+                    -   **work as close to the customers and the money** as you can
+                    -   Ideally **results should be measurable and conencted to** customers (or top level directives)
+                -   **customers are everything**
+
+                    -   focus on **what customers care about** and **how you can add value**
+
+                -   **Act like an owner**
+
+                    -   **be grateful**; **embrace and appreciate** every opportunity
+
+                -   **Over communicate** and be as transparent as you can
+                    -   Never be afraid of bad news; it's always **better to get ahead of it**
+
+        -   If you **care about the outcome**, **focus on what's right**, not who is right
+
+            -   The best response is "**You might be right**"
+
+        -   ideas
+            -   免费买卖二手书
+            -   talk with God based on bible
+
+    -   SKILLS
+
+        -   some programming
+
+        -   **Ask questions**
+
+            -   **gets audience involved**, **frames a conversation**
+            -   Reframe as a conversation, not as a performance
+
+        -   驾驶考试 Fail
+
+            -   有些害怕失去信心
+
+        -   英国
+
+            -   喜欢**避免冲突**， 假装没事
+            -   **自嘲** 是最多人喜欢的事
+                -   我们都是一般人
+            -   **脚踏实地**的生活
+            -   **平凡而快乐** 而不是 一直暴露在傲慢而成功的人面前
+
+    -   MEETUP
+
+        -   AI 与新科学
+
+            -   AI 作为 **连接器**的角色
+            -   Ai is good at **understanding very high-dim data** and **extract underlying patterns/relationship** from very large data
+            -   寻找高纬空间数据的**低维结构**
+                -   学习压缩/解压缩
+                -   学习转换（非线形）
+            -   chatDoctor
+
+        -   理发， 洗牙
+
+        -   Meet up with 独行者组织
+
+            -   多听别人的发言
+            -   感觉不是同龄人， 考虑问题不太一致
+
+        -   看剧《三少爷的剑》
+
+            -   有些浪费时间
+
 #### 2024-03-11
 
 -   TODO
