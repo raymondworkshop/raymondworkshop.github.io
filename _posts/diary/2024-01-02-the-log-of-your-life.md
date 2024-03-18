@@ -129,11 +129,11 @@ abstract: "a master self-observer"
 
                     -   only speak for yourself, talk about your experience, your knowledge, and the facts at hand
                     -   just look at **what is in front of you**
-                        -   what is the goal
-                        -   what are the possible solutions
-                        -   how can we measure each of them
-                        -   do we have any experiences or resources we can draw on to get more information
-                        -   how can we reach a compromise that acknowledges everyone's needs?
+                        -   what is **the goal**
+                        -   what are **the possible solutions**
+                        -   **how can we measure** each of them
+                        -   **do we have any experiences or resources** we can draw on to get more information
+                        -   **how can we reach a compromise** that acknowledges everyone's needs?
 
                 -   **repeat back the other person's words** to them
 
