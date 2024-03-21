@@ -20,6 +20,7 @@ abstract: "a master self-observer"
 
         -   EQ
         -   Negotiations
+            -   resolving conflict
         -   Driving
         -   JS
 

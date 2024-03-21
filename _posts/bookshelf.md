@@ -19,14 +19,17 @@ date: 2012-03-19
 
 #### reading-2024
 
+-   [Software Design by Example](https://third-bit.com/sdxjs/)
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
--   [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford
 -   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
+-   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey
+-   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
 -   [The Art of Agile Development](https://book.douban.com/subject/2751184/) by
 
 -   [家人使用說明書](https://www.kobo.com/hk/zh/ebook/nq0y0iptaDyhGddlDIxTyQ) by 黑川伊保子
 -   [Benjamin Franklin——An American Life](https://book.douban.com/subject/2990595/)
+-   [HBR Guide to Buing A Small Business](https://book.douban.com/subject/31683130/)
 
 -   [That Will Never Work](https://book.douban.com/subject/34824730/) by Marc Randolph
 -   [沉思录](https://book.douban.com/subject/10429639/)
@@ -35,7 +38,6 @@ date: 2012-03-19
 -   [The Manager's Path](https://book.douban.com/subject/26997855/) by Camille Fournier
 
 -   [事实与偏见]
--   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey
 
 #### reading-2023
 
