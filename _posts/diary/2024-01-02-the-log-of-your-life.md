@@ -18,11 +18,11 @@ abstract: "a master self-observer"
 
     -   Learning
 
+        -   JS/Programming
+
         -   EQ
-        -   Negotiations
+        -   Business/Negotiations
             -   resolving conflict
-        -   Driving
-        -   JS
 
     -   English/Cantonese
         -   **Shadowing** on a daily basis
@@ -46,12 +46,14 @@ abstract: "a master self-observer"
 
             -   will u walk with Jesus?
             -   Dear Jesus, I believe you
-                Thank you for forgiving me
-                Come into my life and I will follow you
+                **Thank you for forgiving me**
+                **Come into my life** and I will follow you
 
         -   talk with GOD based on bible
 
     -   SELF
+
+        -   you **happen to be watching one's thoughts, emotions, and sensor world**
 
         -   我要**当欲望的主人**， 而不是欲望的奴隶
 
