@@ -46,6 +46,8 @@ date: 2012-03-19
 -   **[Stargirl](https://thea.codes/)**
 -   [uses this](https://usesthis.com/interviews/tracy.chou/)
 
+-   [John’s thoughts](https://johnjago.com/blog/)
+
 -   **[Tom Preston-Werner ](https://tom.preston-werner.com/)**
 
 -   **[Joel On Software](https://www.joelonsoftware.com/)**
