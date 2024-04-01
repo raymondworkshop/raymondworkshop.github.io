@@ -6,6 +6,134 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-04-01
+
+-   TODO
+
+    -   GOD
+
+    -   Learning
+
+        -   JS/Programming
+
+        -   EQ
+        -   Business/Negotiations
+            -   resolving conflict
+
+    -   English/Cantonese
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+    -   SELF
+
+        -   Lucid self - you **happen to be watching one's thoughts, emotions, and sensor world**
+
+            -   you can **pull back and see everything**
+            -   **Distance yourself** from your psyche
+                -   **do this by setting the direction of your life** when you're clear and not letting the wavering mind deter you
+            -   **maintain objective awareness** instead of being lost in them
+
+        -   多**附和对方**
+
+            -   **气氛很重要**， **扮演好**
+
+    -   FAMILIES
+
+        -   做她的好朋友， **扮演**好“老公”角色
+
+        -   She will feel a 'connection' with you and her interest will rise
+            -   **Understand them**, don't try to fix her problems
+                -   **Listen to her** and **add in your thoughts**
+            -   **When a trait or feeling comes up that you agree with**, **tell her**
+
+    -   BUSINESS
+
+        -   Negotiation
+
+            -   **Understand first**
+                -   people wanna **be understood and accepted**
+                -   you demo empathy and a sincere **desire to understand what the other side is experiencing**
+            -   Negotiation is not a battle. It's a **dicovery**
+
+                -   smiling
+                -   **mirroring** - **run smoothly and makes the opponent reveal more information**
+
+            -   **Label the emotion**
+
+                -   **help you to confirm that** you have identified the right emotion
+                -   **it signals to your opponent that you truly understand him** which creates a stronger bond and makes your opponent like you
+                    -   **summary what your opponent just told you** and **give it back to him**
+                    -   "**It seems like** ..."
+                -   **label all the negative things that your opponent might say** against you duing the meeting
+                    -   **your opponent will be more focused on the solution** rather than complaining
+
+            -   "**That is right**"
+                -   it puts the other side's empathy on steroids
+
+        -   **生意** + **投资理财**
+
+            -   **股票**
+            -   买楼
+
+        -   第一次创业
+
+            -   自己很熟悉的行业
+            -   前途
+            -   **生产** + **管理** + **销售**
+            -   共患难， 共富贵
+
+        -   第二次生意
+
+            -   **管理才能**
+                -   **如何建立团队**
+                    -   **默契** - **沟通顺畅**， **责任划分清楚**， **愿景目标一致**
+                    -   **彼此互补**
+                        -   产品 - 工匠
+                        -   市场与品牌经营 - 商人
+                        -   协调与建立制度管理 - 总管
+            -   找一个帮你的人
+                -   **有个事要靠你**
+
+        -   ideas
+            -   民间工艺品
+
+    -   SKILLS
+
+        -   **遇到不该留痕的话题 就别在线上讨论**
+
+            -   必须知情的同事就告诉他 “**你过来找我当面聊**”
+                遇到不一定合规合法的操作就拉律师进来， 邮件标题和群聊标题加 “a/c priv”
+            -   在美国公司想要做一些比较敏感的事， 最重要的 mindset 是**想好如何公关**
+                -   如果我们今天做的事情明天出现在 New York Times， **这对我们来说意味着什么**？ **我们要怎样处理**
+
+        -   china
+
+            -   政府所制定的政策是 **如何使得政府更有钱**， 从而能更自如地操纵企业，民众
+
+                -   政府并不创造条件， 让全体百姓去享受制造业的惠利
+
+            -   受中共管控的企业 **追求的是 大钱和快钱**， 只能从西方富有国家那里挣得
+
+            -   中共有意在国贸中去强化不对称关系， 企业从政府中获得各种补贴 进而人为地压低价格
+
+        -   现实中 只有少数人能够**分离观点和事实** 然后就 **事实进行建设性的讨论**
+            -   中国政治环境对此产生负面影响，因为从合法性开始就依赖于 “我这一方的观点即事实”的断言
+            -   陈述观点时 加上 “**我认为**” 或者引入量化思维 “我有 80%的信心认为”
+
+    -   MEETUP
+
+        -   hkwalls
+
+            -   it's good
+            -   西環是個好愜意的地方
+
+        -   觀影
+            -   張晉 武俠
+            -   《雙重幻想》
+
 #### 2024-03-25
 
 -   TODO

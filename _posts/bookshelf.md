@@ -22,8 +22,9 @@ date: 2012-03-19
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 -   [Software Design by Example](https://third-bit.com/sdxjs/)
 -   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
--   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey
 -   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
+-   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey
+-   [The Making of a Manager](https://book.douban.com/subject/30379338/)
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
 -   [The Art of Agile Development](https://book.douban.com/subject/2751184/) by
 
