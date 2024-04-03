@@ -11,8 +11,6 @@ date: 2012-03-19
 
     -   [Marketing Management](https://learning.edx.org/course/course-v1:IIMBx+MK102x+2T2022/home)
 
-    -   [Exercising Leadership](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2023/home)
-
     -   [Entrepreneurship For Everyone](https://learning.edx.org/course/course-v1:IIMBx+EP101x+2T2022/home)
 
     -   [Startup School](https://www.startupschool.org/curriculum)
@@ -21,8 +19,8 @@ date: 2012-03-19
 
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 -   [Software Design by Example](https://third-bit.com/sdxjs/)
--   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
 -   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
+-   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
 -   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey
 -   [The Making of a Manager](https://book.douban.com/subject/30379338/)
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
