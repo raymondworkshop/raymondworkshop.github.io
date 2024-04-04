@@ -19,12 +19,15 @@ date: 2012-03-19
 
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 -   [Software Design by Example](https://third-bit.com/sdxjs/)
+-   [Order out of Chaos](https://www.amazon.com/Order-out-Chaos-Negotiation-Communicator/dp/1647827248) by Scott Walker
 -   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
--   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
 -   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey
+-   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
+-   [Search Inside Yourself](https://book.douban.com/subject/7155765/) by Chade-Meng Tan
+-   [The Art of Agile Development](https://book.douban.com/subject/2751184/) by
+
 -   [The Making of a Manager](https://book.douban.com/subject/30379338/)
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
--   [The Art of Agile Development](https://book.douban.com/subject/2751184/) by
 
 -   [家人使用說明書](https://www.kobo.com/hk/zh/ebook/nq0y0iptaDyhGddlDIxTyQ) by 黑川伊保子
 -   [Benjamin Franklin——An American Life](https://book.douban.com/subject/2990595/)
