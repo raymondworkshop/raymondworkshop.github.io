@@ -24,9 +24,11 @@ date: 2012-03-19
 -   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey
 -   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
 -   [Search Inside Yourself](https://book.douban.com/subject/7155765/) by Chade-Meng Tan
--   [The Art of Agile Development](https://book.douban.com/subject/2751184/) by
+-   [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore
+-   [Mythical Man-Month](https://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959/?tag=daniellemires-20) by Frederick Brooks Jr.
 
 -   [The Making of a Manager](https://book.douban.com/subject/30379338/)
+-   [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Productivity-ebook/dp/B000WH7PKY/?tag=daniellemires-20) by David Allen
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
 
 -   [家人使用說明書](https://www.kobo.com/hk/zh/ebook/nq0y0iptaDyhGddlDIxTyQ) by 黑川伊保子
