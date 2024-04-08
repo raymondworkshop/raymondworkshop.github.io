@@ -17,11 +17,12 @@ date: 2012-03-19
 
 #### reading-2024
 
+-   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey
+-   [Order out of Chaos](https://www.amazon.com/Order-out-Chaos-Negotiation-Communicator/dp/1647827248) by Scott Walker
+-   [Business Made Simple](https://book.douban.com/subject/35956375/)
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 -   [Software Design by Example](https://third-bit.com/sdxjs/)
--   [Order out of Chaos](https://www.amazon.com/Order-out-Chaos-Negotiation-Communicator/dp/1647827248) by Scott Walker
 -   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
--   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey
 -   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
 -   [Search Inside Yourself](https://book.douban.com/subject/7155765/) by Chade-Meng Tan
 -   [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore

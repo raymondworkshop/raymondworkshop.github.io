@@ -6,6 +6,220 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-04-08
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   read more, do more
+            -   less movies
+
+    -   Learning
+
+        -   JS/Programming
+
+        -   EQ
+            -   <Order Out of Chaos>
+        -   Business/Negotiations
+
+            -   resolving conflict
+
+        -   reading
+            -   <世界简史>
+            -   <The Untethered Soul The Journey Beyond Yourself>
+            -   <老婆使用說明書>
+            -   <Business Made Simple>
+
+    -   English/Cantonese
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+    -   SELF
+
+        -   认识自己 - **自己是怎样的人**
+
+            -   **你想怎么样**
+            -   **你现在在做什么**
+
+        -   **找到自己的定位**
+
+            -   **有独当一面的地方**， **才有价值**
+                -   基于自己的经验和能力
+            -   **即说自己， 也照顾到其他人**
+                -   这个是我的性格， 我觉得每个人的性格都不一样
+
+        -   **要计较**
+
+            -   **很容易让人占你便宜**
+            -   **事情没讲清楚**，结果最后反而对方预期太大， 跟你预期不一样
+            -   **先小人后君子**
+
+        -   **容易相处**， **不得罪人**
+
+            -   保持同好多人基本关系
+
+        -   EQ
+
+            -   **自信** - **没有绝对对与错**
+
+                -   任何时间 **在这个世界都有依靠** - 很安全
+                -   **不轻易打击他的自信**
+
+            -   毅力
+
+                -   遇到困难不放弃
+
+            -   自律
+
+                -   管得住自己
+
+            -   **反省**
+
+                -   **以大原则为前提**
+
+            -   忍耐
+                -   可以长远考虑
+
+        -   Don't fight with your mistake
+        -   深蓝色毛衣
+
+    -   FAMILIES
+
+        -   Respect
+            -   Recognize her opinion as equal to yours
+            -   if you disagree with a girl, **stick to the facts**
+            -   **ask her opinion regularly**
+                -   ask a girl for her opinion on things regularly **to show that you care what she thinks**
+
+    -   BUSINESS
+
+        -   Do things that doesn't scale
+
+            -   **have to do lot things all by yourself**, which is not required in the log run
+            -   **you do it for first few**, get critical mass and the nget things moving
+
+        -   associate people who have a **common goal** and also have a lot of **passion for what we collectively wanna do**
+
+            -   能够和有共同目标的人交流， 他们对我们共同想做的事有热情
+
+        -   想清楚自己做一件事的时候， **究竟是追求什么**
+
+            -   每个阶段都去**观察自己有什么机会和有什么资源**，
+                **怎样最好利用这些机会去带到最大的成本效益**
+
+        -   初次创业
+
+            -   不熟不做
+            -   **有无前途**？ - 大势
+            -   是否资本密集
+            -   **你的定位**？
+                -   帮人成立基金， 而不是做基金
+            -   **不同之处**
+
+                -   在这门生意上 与人有什么不同， 市场是否钟意
+
+            -   你的人才
+                -   **可以找到关键岗位的人**
+                -   **销售**， **管账**（成本， 渠道）， 技术
+
+        -   企业家
+
+            -   **求胜心** - **想做的比别人好**
+            -   **如何扩张** - 不进则退
+            -   敢去赌
+            -   能接受失败
+
+        -   勤力
+
+            -   **要熟悉每一个环节**
+                -   任何新想法， 大多数人都认为不合适， 因为**多一事不如少一事**， 你要改任何事，他们就要多做一些
+            -   做任何事都先讲困难
+            -   **虚心去观察别人**， **寻求改进自己**
+                -   学新的概念，新科技
+                -   深入了解行业
+
+        -   节俭
+
+            -   可以对别人阔绰， 对自己节俭
+
+        -   生意
+
+            -   **协议达成**
+                -   **人际关系**
+                -   **合约** - **谈判能力**
+            -   操作的生意人
+                -   工厂， 餐厅
+                -   给客人最高的价值
+
+        -   企业家
+
+            -   管理， 市场
+
+        -   事业家
+
+            -   做好自己的事
+
+        -   **想如何做好**
+            -   职人精神
+            -   **时刻在想你的主要任务，究竟在做什么**
+            -   追求无限量的进步
+            -   想如何突破
+
+    -   SKILLS
+
+        -   **regualte yourself emotionally**
+
+            -   Dealing with someone difficult requires **an ability to regulate yourself emotionally**.
+                -   it's being able to **understand what's going on for u and for them**,
+                    and **the adapting your communication style** so you can get the best outcome,
+                    whether that's **influence or persuasion or bringing about some form of cooperation or collaboration**
+
+        -   自由社会
+
+            -   **私人产权**
+            -   **公民社会组织**
+            -   **基本社会共识**
+                -   启蒙
+
+        -   极权基因
+
+            -   苏俄
+
+                -   沙俄帝制
+                -   东正教 -》 俄语 -》 俄国
+                    -   共产思想来自于基督教
+                    -   没有哲理
+                -   秘密组织
+
+            -   中国
+                -   中华帝制
+                -   **秘密组织** - 白莲教
+
+        -   CHINA
+
+            -   国人强调个人竞争
+            -   中国专制主义，自上而下
+            -   牺牲多样性， **追求规模的执念**
+
+                -   维持统治
+
+            -   西方 强调 **合作**
+
+    -   MEETUP
+
+        -   LANGUAGE
+
+            -   NOT GOOD, cannot meet good ones
+
+        -   IMAGINELAND
+            -   good conerts
+
 #### 2024-04-01
 
 -   TODO
