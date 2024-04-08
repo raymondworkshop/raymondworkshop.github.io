@@ -179,6 +179,10 @@ abstract: "a master self-observer"
 
     -   SKILLS
 
+        -   nextjs
+
+            -   finish a nextjs blog project
+
         -   **regualte yourself emotionally**
 
             -   Dealing with someone difficult requires **an ability to regulate yourself emotionally**.
