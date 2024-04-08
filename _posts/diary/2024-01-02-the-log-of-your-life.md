@@ -33,10 +33,11 @@ abstract: "a master self-observer"
         -   EQ
 
             -   <Order Out of Chaos>
+            -   <The Untethered Soul The Journey Beyond Yourself>
 
         -   reading
             -   <世界简史>
-            -   <The Untethered Soul The Journey Beyond Yourself>
+            -   <seduction-bible>
             -   <老婆使用說明書>
 
     -   English/Cantonese
