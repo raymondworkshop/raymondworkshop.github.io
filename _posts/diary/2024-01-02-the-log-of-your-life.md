@@ -17,21 +17,27 @@ abstract: "a master self-observer"
         -   read more, do more
             -   less movies
 
+    -   BUSINESS
+
+        -   <Business Made Simple>
+        -   Business/Negotiations
+
+            -   resolving conflict
+
+        -   What will u do?
+
     -   Learning
 
         -   JS/Programming
 
         -   EQ
-            -   <Order Out of Chaos>
-        -   Business/Negotiations
 
-            -   resolving conflict
+            -   <Order Out of Chaos>
 
         -   reading
             -   <世界简史>
             -   <The Untethered Soul The Journey Beyond Yourself>
             -   <老婆使用說明書>
-            -   <Business Made Simple>
 
     -   English/Cantonese
         -   **Shadowing** on a daily basis
