@@ -17,12 +17,15 @@ date: 2012-03-19
 
 #### reading-2024
 
--   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey
--   [Order out of Chaos](https://www.amazon.com/Order-out-Chaos-Negotiation-Communicator/dp/1647827248) by Scott Walker
--   [Business Made Simple](https://book.douban.com/subject/35956375/)
--   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
+-   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey (8/10)
 -   [Software Design by Example](https://third-bit.com/sdxjs/)
+-   [事實與偏見] by Lai Chee-ying
+-   [Business Made Simple](https://book.douban.com/subject/35956375/)
 -   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
+-   [Order out of Chaos](https://www.amazon.com/Order-out-Chaos-Negotiation-Communicator/dp/1647827248) by Scott Walker
+-   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
+-   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
+
 -   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
 -   [Search Inside Yourself](https://book.douban.com/subject/7155765/) by Chade-Meng Tan
 -   [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore
@@ -30,7 +33,6 @@ date: 2012-03-19
 
 -   [The Making of a Manager](https://book.douban.com/subject/30379338/)
 -   [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Productivity-ebook/dp/B000WH7PKY/?tag=daniellemires-20) by David Allen
--   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
 
 -   [家人使用說明書](https://www.kobo.com/hk/zh/ebook/nq0y0iptaDyhGddlDIxTyQ) by 黑川伊保子
 -   [Benjamin Franklin——An American Life](https://book.douban.com/subject/2990595/)

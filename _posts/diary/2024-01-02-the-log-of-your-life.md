@@ -6,6 +6,151 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-04-15
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   read more, do more
+            -   less movies
+
+    -   BUSINESS
+
+        -   Business/Negotiations
+
+            -   resolving conflict
+            -   [Business Made Simple]
+            -   [事實與偏見]
+
+        -   What will u do?
+
+    -   Learning
+
+        -   JS/Programming
+
+            -   nextjs
+            -   [Software Design by Example]
+
+        -   EQ
+
+            -   <HBR's 10 Must Reads on Emotional Intelligence>
+
+            -   <The Untethered Soul The Journey Beyond Yourself>
+
+            -   <Order Out of Chaos>
+
+        -   reading
+            -   <Conversation Casanova>
+            -   <老婆使用說明書>
+
+    -   English/Cantonese
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+
+        -   **你同耶穌的關係**
+            -   Live a life with him
+            -   how?
+        -   而不是某種價值觀
+
+    -   SELF
+
+        -   时刻在想你的主要任务，你究竟在做什么， 你究竟是在追求什么
+
+        -   有独当一面的地方， 才有价值
+
+        -   what makes you feel most alive, energized
+
+        -   EQ
+
+            -   Self-awareness
+                -   you know your **own strengths and weaknesses**
+                -   help u train yourself to **think about your emotions**
+                    -   why you feel as you do
+            -   empathy
+
+                -   **demo on understanding of their emotions** and **not necessarily experiencing the same for myself**
+                -   "**It sounds like you are really upset** with what happened?"
+                    -   this **creates a positive atmosphere** for problem solving
+                    -   **it doesn't matter if you don't agree with** or **even like them**
+
+            -   compassion as being empahy in action
+
+                -   **being feelings (from the heart)**
+                -   "**I am sorry for your loss**. That's an awful thing to have happened"
+
+            -   others social awareness
+                -   **good listeners**, and **figure out what's important to the people** they speak with
+                -   perceive formal and informal **power structures**, **group dynamics** and **appealing to the right people**
+
+        -   Choose your friends carefully
+
+            -   **mature and have enough self-confidence to build trust** over time
+                -   self-esteem is self-confidence is one's **own worth, abilities, or morals**
+            -   then **set expectations at the start** about what you can and can't share
+            -   be clear in your roles in conversation, whether you're talking in "work mode" or "friend mode"
+
+        -   **互利共生， 妥协共好的良善社会**原则
+
+    -   Families
+
+        -   **focus on what you find attractive** about her, you'll be **more in tune with your natural male instincts**
+
+    -   BUSINESS
+
+        -   **互利共生， 妥协共好的良善社会**原则
+
+            -   **右派的封建性的讲人情文化**；左派要人权，讲制度， 不讲义气和恩情
+            -   西方电影大都是**建构**， **有解，有希望**
+            -   **没完没了的痛苦和破坏**，结局无法升华，无家可归
+
+        -   管理
+
+            -   威尔考克斯**创造了一种球队文化**，那就是**失败是可以接受的**，但**前提是要从中吸取教训，并纠正错误**
+            -   他只想**让我做自己**，**以最好的状态发挥我最大的特长**，那就是带球和过掉后卫；
+                在战术上，他会教我一些东西，**告诉我该怎么做**，这取决于哪场比赛
+
+        -   ideas
+            -   工業機械人和自動駕駛軟件 的銷售商
+
+    -   SKILLS
+
+        -   世俗国家男人
+
+            -   他一直是个**工具人的角色**， 他的荣誉感在于提供， 又怎么好意思索要？
+            -   对人生，**他尽他的义务**， 满足他的欲望
+
+        -   中国人
+
+            -   历史上不断被打败的奴隶民族
+            -   **物质上一向匮乏**, **人品上本能地会占便宜**
+            -   **精神上慢慢恨意**， 身体上多半十分难看，
+            -   名声上全世界都瞧不起， 谁沾上水倒霉的一种次等人状态
+
+        -   china
+            -   准备打仗思维
+                -   统制经济（为了打仗）
+                -   战争动员体制
+                -   按照最坏的角度看
+            -   仇视美帝，要一边倒
+                -   李小玲
+                -   杨奎松
+
+    -   MEETUP
+        -   reading
+            -   <Conversation Casanova_ How to Effortlessly Start Conversations and Flirt Like a Pro>
+            -   [世界简史]
+            -   [Business Made Simple]
+            -   [事實與偏見]
+        -   bible group
+        -   teamlab
+
 #### 2024-04-08
 
 -   TODO
