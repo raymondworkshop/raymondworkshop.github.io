@@ -15,7 +15,7 @@ abstract: "a master self-observer"
     -   SELF
 
         -   read more, do more
-            -   less movies
+            -   less surfing online
 
     -   BUSINESS
 
@@ -26,13 +26,14 @@ abstract: "a master self-observer"
             -   [事實與偏見]
 
         -   What will u do?
+            -   website
 
     -   Learning
 
         -   JS/Programming
 
             -   nextjs
-            -   [Software Design by Example]
+            -   <Software Design by Example>
 
         -   EQ
 
