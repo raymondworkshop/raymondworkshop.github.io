@@ -21,12 +21,13 @@ abstract: "a master self-observer"
 
         -   Business/Negotiations
 
-            -   [商业计划书]
+            -   [從零開始的 1 頁企劃書]
 
             -   [Business Made Simple]
 
-            -   resolving conflict
             -   [事實與偏見]
+
+            -   resolving conflict
 
         -   What will u do?
             -   online peer support communtiy
