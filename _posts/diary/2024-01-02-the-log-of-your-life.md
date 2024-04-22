@@ -6,6 +6,167 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-04-22
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   read more, do more
+            -   less surfing online
+
+    -   BUSINESS
+
+        -   Business/Negotiations
+
+            -   [商业计划书]
+
+            -   [Business Made Simple]
+
+            -   resolving conflict
+            -   [事實與偏見]
+
+        -   What will u do?
+            -   online peer support communtiy
+                -   LLM
+
+    -   Learning
+
+        -   JS/Programming
+
+            -   nextjs
+            -   <Software Design by Example>
+
+        -   EQ
+
+            -   <HBR's 10 Must Reads on Emotional Intelligence>
+
+            -   <The Untethered Soul The Journey Beyond Yourself>
+
+            -   <Order Out of Chaos>
+
+        -   reading
+            -   <Conversation Casanova>
+            -   <老婆使用說明書>
+
+    -   English/Cantonese
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+
+        -   Hear the voice of GOD
+
+            -   read Bible and write it down
+
+        -   **感受到神的爱**， **灵力和信心都感到提高**
+
+            -   以前感受不到神的爱，对神信心小， 奉献钱时十分勉强
+
+        -   个人道德活动所能采取的最高形式， 应是 **对其履行世俗事务的义务进行评价**
+
+            -   尘世间的活动叫做召唤 calling, 一种**职责召唤**， “上帝安排的任务”
+            -   为社会的尘世生活而服务的职业中的劳作， **完全是增加上帝的荣耀**
+
+                -   上帝应许的唯一生存方式，是**要人完成个人在现世里所处地位赋予他的责任和义务**，这就是天职
+
+        -   只需要**依照福音书的教诲**，**以耶稣基督为榜样**，**在尘世中生活，工作**，这就是善行
+            -   上帝帮助那些**自助的**
+            -   加尔文的伦理乃是**自强、自助、勤勉、守信、虔诚**，在尘世中尽自己的天职
+            -   **勤奋的创造地上的财富**，就是遵从天上之父的最好方法
+                -   开国先辈们坚信，自由政府的根基就在于，**个人创造的私有财产，以及对私有财产的保护**
+
+    -   SELF
+
+        -   足够的休息
+
+        -   有上进心， 可以稳定自己的生活
+        -   有自己的兴趣
+
+    -   FAMILIES
+
+        -   **我一直在她身边成为她的力量**， **让她不受影响**
+
+        -   how to talk about yourself in an **attractive** way
+
+            -   **know the purpose** of talking about yourself
+
+                -   **excite and intrigue her**, and **get her talking about herself again**
+
+            -   qualities
+
+                -   **dominance** behavior qualities
+
+                    -   **he knows what he wants** in life, and **goes for it**
+                    -   **lead**, **take charge of** a situation
+                        -   how you **took charge of a situation** enven you were unsure of the outcome
+                        -   a time where **you achieved sth** you once thought was impossible
+                        -   a time where you **successfully led** a group of people
+
+                -   **prosocial** behavior
+
+                    -   feel **empathy**, and welfare of others
+                        -   a time where you helped sb less fortunate
+                        -   a time where you hung out with a group of friends and had fun
+                        -   a time where you helped a friend accomplish sth
+
+                -   adventurousness
+
+                    -   women wanna make them feel alive, challenge them, and **excite them**
+
+                -   appreication of **beauty**
+
+                    -   men tend to enjoy good sex
+
+                -   vulnerability
+                    -   women appreciate men who can be vulnerable about some of **their fears and shortcomings**
+                    -   not perfect
+
+            -   **bait her** - make her to find out who you are
+
+                -   paint yourself as more than an ordinary guy
+                    -   women like men who succeed in the face of **adversity**, **over come obstacles**, and **have purpose**
+                -   **structure about 'talk about yourself'**
+
+                    -   sth when you were younger and a goal, but **wasn't sure how** to accomplish
+                    -   mentioned **a few obstacles along your way** to success
+                    -   **how you began to finally see** some success
+                        -   高考（ 去运城上学，突然发现周围都是高手，有些失落， 还是需要一些努力，多去理解而不是初中时候的死记硬背）
+                        -   香港 （ 不会广东话， 也遇到你说的这种歧视/沟通误解情况，什么事都得靠自己， 慢慢适应环境）
+
+                -   show that you've **struggled to get to your success despite yoru failures**
+
+    -   BUSINESS
+
+        -   online peer support community
+
+            -   koko
+            -   mind hk
+
+        -   chat with kayla lafi
+
+            -   good for startup
+            -   she is a normal, not charming
+
+    -   SKILLS
+
+        -   和过去一样，**我们的目标还一致**吗？
+
+        -   **Storytelling** is key for most things involving people
+            -   **Tell the story as if you’re living it**
+            -   You want her to feel like you felt at the time
+            -   **Involving her** and pausing at the right times
+                -   “do u like …?”
+                -   **maybe I’ll take you** to one some time
+
+    -   MEETUP
+        -   language
+        -   huoguo @shatin
+
 #### 2024-04-15
 
 -   TODO
