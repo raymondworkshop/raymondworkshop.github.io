@@ -37,7 +37,8 @@ abstract: "a master self-observer"
 
         -   JS/Programming
 
-            -   nextjs
+            -   <Learning React>
+            -   nextJS
             -   <Software Design by Example>
 
         -   EQ
