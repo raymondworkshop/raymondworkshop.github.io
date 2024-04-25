@@ -9,6 +9,8 @@ date: 2012-03-19
 
 -   Entrepreneurship
 
+    -   [wiki on Startup](https://startupclass.samaltman.com/)
+
     -   [Marketing Management](https://learning.edx.org/course/course-v1:IIMBx+MK102x+2T2022/home)
 
     -   [Entrepreneurship For Everyone](https://learning.edx.org/course/course-v1:IIMBx+EP101x+2T2022/home)
