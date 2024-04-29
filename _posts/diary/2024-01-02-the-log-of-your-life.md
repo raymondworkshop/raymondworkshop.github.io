@@ -38,20 +38,20 @@ abstract: "a master self-observer"
 
         -   JS/Programming
 
-            -   <The Complete Developer_ Master the Full Stack with>
+            -   <The Complete Developer - Master the Full Stack with>
             -   nextJS
             -   <Software Design by Example>
 
         -   EQ
 
-            -   <HBR's 10 Must Reads on Emotional Intelligence>
+            -   <HBR 10 Must Reads on Emotional Intelligence>
 
             -   <The Untethered Soul The Journey Beyond Yourself>
 
             -   <Order Out of Chaos>
 
         -   reading
-            -   <Relationship Goals\_ How to Win at Dating, Marriage, and Sex>
+            -   <Relationship Goals - How to Win at Dating, Marriage, and Sex>
             -   <Conversation Casanova>
             -   <老婆使用說明書>
 
