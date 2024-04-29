@@ -14,7 +14,7 @@ abstract: "a master self-observer"
 
     -   SELF
 
-        -   read more, do more
+        -   read more, less youtube
             -   less surfing online
 
     -   BUSINESS
@@ -38,7 +38,7 @@ abstract: "a master self-observer"
 
         -   JS/Programming
 
-            -   <The Complete Developer - Master the Full Stack with>
+            -   <The Complete Developer>
             -   nextJS
             -   <Software Design by Example>
 
@@ -51,7 +51,7 @@ abstract: "a master self-observer"
             -   <Order Out of Chaos>
 
         -   reading
-            -   <Relationship Goals - How to Win at Dating, Marriage, and Sex>
+            -   <Relationship Goals>
             -   <Conversation Casanova>
             -   <老婆使用說明書>
 
