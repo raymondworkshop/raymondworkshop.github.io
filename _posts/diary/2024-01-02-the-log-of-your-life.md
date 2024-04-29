@@ -6,6 +6,119 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-04-29
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   read more, do more
+            -   less surfing online
+
+    -   BUSINESS
+
+        -   AI therapy
+
+            -   CBT
+            -   online peer support community
+
+        -   Business/Negotiations
+
+            -   [從零開始的 1 頁企劃書]
+
+            -   [Business Made Simple]
+
+            -   [事實與偏見]
+
+            -   resolving conflict
+
+    -   Learning
+
+        -   JS/Programming
+
+            -   <The Complete Developer_ Master the Full Stack with>
+            -   nextJS
+            -   <Software Design by Example>
+
+        -   EQ
+
+            -   <HBR's 10 Must Reads on Emotional Intelligence>
+
+            -   <The Untethered Soul The Journey Beyond Yourself>
+
+            -   <Order Out of Chaos>
+
+        -   reading
+            -   <Relationship Goals\_ How to Win at Dating, Marriage, and Sex>
+            -   <Conversation Casanova>
+            -   <老婆使用說明書>
+
+    -   English/Cantonese
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+
+        -   **面向主**， **经历主**
+            -   这个生命就是来帮助我们的
+            -   保罗说 我信这个人， 而不是道理
+
+    -   SELF
+
+        -   Don't be too nice. People will use you
+
+    -   FAMILIES
+
+    -   BUSINESS
+
+        -   finsh CHATBOT UI
+
+            -   feel good
+            -   maybe hire a frontend member
+
+        -   startups
+
+            -   the team
+            -   the product
+            -   the market
+            -   Fundraising
+
+        -   Doing things that don't scale as long as you possibly can
+
+            -   **Do a lot thing personally** by yourself
+            -   you **do it for first few**, you **learn a lot from here**, get critical mass and then get things moving
+            -   **Talk with related real users** to find the pains
+                -   server the need
+                -   build sth from small business owners
+            -   **test your idea**, **get this thing off the ground**, try to find **product market fit**
+                -   **optimise for speed** over scalability/clean code
+                -   **only worry about the next order** of magnitude
+
+        -   A study found that men who were more conscientious, extroverted, and less agreeable earned more than their peers — especially if they went to graduate school
+
+    -   SKILLS
+
+        -   some skills on JS
+
+            -
+
+        -   去大海看看吧， 你的烦恼很渺小
+
+        -   **合作共赢**才是长久之道
+            -   很多穷人为什么穷？
+                -   他**觉得别人和他交换利益就是利用他**。 他只想要别人毫无私心，免费提供， 拿双手捧给他的机会。 所以穷人几乎总被骗
+
+    -   MEETUP
+        -   shatin bible
+            -   not good - chat some unmeaning
+        -   badminton
+            -   happy to know some guy
+        -   online football
+
 #### 2024-04-22
 
 -   TODO
