@@ -6,6 +6,124 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-05-06
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   read more, less youtube
+            -   less surfing online
+
+    -   BUSINESS
+
+        -   AI therapy
+
+            -   CBT
+            -   ~~online peer support community~~
+
+        -   Business/Negotiations
+
+            -   [從零開始的 1 頁企劃書]
+
+            -   [Business Made Simple]
+
+            -   [事實與偏見]
+
+            -   resolving conflict
+
+    -   Learning
+
+        -   JS/Programming
+
+            -   <The Complete Developer>
+            -   reactJS
+            -   <Software Design by Example>
+
+        -   EQ
+
+            -   <HBR 10 Must Reads on Emotional Intelligence>
+
+            -   <The Untethered Soul The Journey Beyond Yourself>
+
+        -   reading
+            -   <Relationship Goals>
+            -   <Conversation Casanova>
+            -   <老婆使用說明書>
+
+    -   English/Cantonese
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+        -   **如何感受神的爱**，**如何从神领受能力**，**如何在耶稣的爱里让心灵天天成长**
+            -   而不是上来就提要求，上来就讲律法
+            -   感受不到耶稣的爱， 人就不会有爱
+    -   SELF
+
+        -   Be intentional with your actions, be a creator of all things
+            -   design your mind
+            -   sculpt your body
+            -   build your family
+
+    -   FAMILY
+
+    -   BUSINESS
+
+        -   try the startup in this year
+
+        -   startup
+
+            -   the team
+
+                -   be working with and know your co-founders for at least 2 years
+                -   hire people who will **do it better**
+
+                    -   **learn the basics, and experiment to achieve init result**
+                        **once you hit your 'short-term limit', then consider hiring** -> knowledge enough to hire the right person
+
+                -   hire when you truly need it
+
+            -   the market
+
+                -   If you've personally experienced a problem and are an expert in the relevant field,
+                    you're significantly ahead of others in finding solutions.
+                    Essentially, **firsthand experience combined with expertise** gives you a considerable advantage
+
+            -   The product
+
+                -   If the problem you're solving is big enough,
+                    the finer points of how your interface looks or feels might not be top priority.
+                    **what matters more is that your solution works well and tackles the big issues head-on**
+                -   no code has come a long way
+                -   find the right balance of **confidence and factual truth**
+
+            -   Fundraising is just like **sales**, really
+
+                -   You are **constantly making the story look nicer** than it might be,
+                    **being more optimistic about the future** than you normally would
+
+                -   Investors have FOMO, investors are always **worried about losing a great deal**
+
+        -   管理
+            -   必须**确保合适的人最终得到合适的职位**，**管理层的每个人都必须是世界级的**；
+                然后， **创造一个积极，支持，友好和高质量的环境**是很重要的
+                -   只要在这样的环境中，你才能让运动员发挥出最好的水平。
+                    如果成功， 结果会自动产生。 这就是机会，我相信这一点
+
+    -   SKILLS
+    -   MEETUP
+        -   大湾区之行
+            -   表达投资的意愿 - 感觉还不错
+        -   dinner with friends
+            -   感觉很好
+        -   language in lifehouse
+            -   soso
+
 #### 2024-04-29
 
 -   TODO
@@ -103,8 +221,6 @@ abstract: "a master self-observer"
     -   SKILLS
 
         -   some skills on JS
-
-            -
 
         -   去大海看看吧， 你的烦恼很渺小
 
