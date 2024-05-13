@@ -15,9 +15,9 @@ abstract: "a master self-observer"
 
         -   EQ
 
-            -   <HBR 10 Must Reads on Emotional Intelligence>
+            -   [HBR 10 Must Reads on Emotional Intelligence]
 
-            -   <The Untethered Soul The Journey Beyond Yourself>
+            -   [The Untethered Soul The Journey Beyond Yourself]
 
         -   管理压力
 
@@ -42,9 +42,9 @@ abstract: "a master self-observer"
 
     -   reading
 
-        -   <Relationship Goals>
-        -   <Conversation Casanova>
-        -   <老婆使用說明書>
+        -   [Relationship Goals]
+        -   [Conversation Casanova]
+        -   [老婆使用說明書]
 
     -   English/Cantonese
         -   **Shadowing** on a daily basis
