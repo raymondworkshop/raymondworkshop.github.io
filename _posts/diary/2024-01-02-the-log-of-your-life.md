@@ -6,6 +6,84 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-05-13
+
+-   TODO
+
+    -   GOD
+    -   SELF
+
+        -   EQ
+
+            -   <HBR 10 Must Reads on Emotional Intelligence>
+
+            -   <The Untethered Soul The Journey Beyond Yourself>
+
+        -   管理压力
+
+    -   BUSINESS
+
+        -   写计划书
+
+        -   AI therapy
+
+            -   CBT
+            -   ~~online peer support community~~
+
+        -   Business/Negotiations
+
+            -   [從零開始的 1 頁企劃書]
+
+            -   [Business Made Simple]
+
+            -   [事實與偏見]
+
+            -   resolving conflict
+
+    -   reading
+
+        -   <Relationship Goals>
+        -   <Conversation Casanova>
+        -   <老婆使用說明書>
+
+    -   English/Cantonese
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+    -   SELF
+
+        -   感受到压力
+
+    -   FAMILIES
+
+        -   chat with mother
+
+    -   BUSINESS
+
+        -   注册公司
+
+    -   SKILLS
+
+        -   **管理结构** - **结构应当服从于战略**
+
+            -   巴菲特明白， **结构应当服从于战略**， 而不是相反
+            -   私募基金的 **结构设计** 一开始就旨在 最大限度地扩大规模， 而不是最大限度提高回报
+            -   资产管理行业， 是**基于资产的收费模式**， 不仅关注回报，还关注规模
+
+        -   **确保合适的人最终得到合适的职位**， 管理层每个人都**必须是世界级的**
+            -   然后 创造一个 **积极， 支持， 友好和高质量的环境**是最重要的
+            -   只有在这样的环境中， 你才能让运动员发挥出最好的水平； 如果成功，结果会自动产生。
+
+    -   MEETUP
+        -   Lunch @ No.705, K11 Musea
+            -   good
+        -   九龙城寨
+            -   good
+        -   manunited
+
 #### 2024-05-06
 
 -   TODO
