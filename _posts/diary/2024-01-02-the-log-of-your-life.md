@@ -6,6 +6,98 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-05-20
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   EQ
+
+            -   [HBR 10 Must Reads on Emotional Intelligence]
+
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   FAMILIES
+
+    -   BUSINESS
+
+        -   Bean Workshop
+
+            -   proposal
+
+            -   BANK
+                -   HSBC
+                -   ZA / livi ?
+                -   SCHK?
+
+        -   Business/Negotiations
+
+            -   [從零開始的 1 頁企劃書]
+
+            -   [Business Made Simple]
+
+            -   [事實與偏見]
+
+            -   resolving conflict
+
+        -   reading
+
+            -   [Relationship Goals]
+            -   [Conversation Casanova]
+            -   [老婆使用說明書]
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+    -   SKILLS
+
+    -   MEETUP
+
+-   REVIEW
+
+    -   GOD
+
+        -   爱就是**看见， 理解， 同理心别人**
+
+        -   当把耶稣作为中心， 律法智慧信心都围绕他， 美丽就出现了
+
+    -   SELF
+
+        -   看清楚自己真正的心意
+
+    -   FAMILIES
+
+    -   BUSINESS
+
+        -   注册公司
+
+            -   Bean Workshop Limited
+
+        -   proposal
+
+        -   Get to **know your manager well enough** to know that **they have your back**
+
+            -   Get to know your team well enough to know that **you like working with them**
+            -   Get to know your project well enough to know that you find it **interesting**
+
+        -   谢谢你对我这么有信心
+
+    -   SKILLS
+
+        -   Money is guided by our hearts
+            -   the way you give to others is the way God will give to you
+            -   **Start with someting**
+            -   give often as your lifestyle
+            -   give randomly
+
+    -   MEETUP
+        -   language
+
 #### 2024-05-13
 
 -   TODO
