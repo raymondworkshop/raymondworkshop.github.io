@@ -10,6 +10,29 @@ abstract: "a master self-observer"
 
 -   TODO
 
+    -   GOD
+    -   SELF
+
+        -   reading
+            -   [Emotional Intelligence]
+            -   [HBR 10 Must Reads on Emotional Intelligence]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   Bean Workshop
+
+            -   reactjs
+            -   website
+
+        -   Business/Negotiations
+            -   [HBR to being a Great Boss]
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
 -   REVIEW
 
     -   GOD
@@ -110,6 +133,13 @@ abstract: "a master self-observer"
             -   the key to pivoting is focusing not on your ideas but **on the answers to your experiments**
                 which should **provide insight into customer demand and industry pain points**
 
+        -   oversharing
+
+            -   open up to your team while **still priorizing boundaries**
+            -   **reflect on the feeling**
+                -   **what exactly am I feeling**? Why?
+                    **what is the need** behidn this emotion?
+
         -   leader
 
             -   当纳德拉看到微软必应搜索内置 ai 聊天机器人的早期演示时，
@@ -133,6 +163,17 @@ abstract: "a master self-observer"
         -   不试怎么知道， 你也不是故意的
 
     -   MEETUP
+
+        -   movies
+
+            -   <玫瑰的故事> - good
+            -   <黑影坠落>, <The Idea of You> - good
+
+        -   reading
+
+            -   [HBR being a Great Boss]
+
+        -   Wise card
 
 #### 2024-06-11
 
