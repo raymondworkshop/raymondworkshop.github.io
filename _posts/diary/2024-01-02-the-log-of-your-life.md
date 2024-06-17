@@ -6,6 +6,367 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-06-17
+
+-   TODO
+
+-   REVIEW
+
+    -   GOD
+    -   SELF
+
+        -   **You are never wrong to do the right thing**
+
+        -   **逢场作戏** - Chamelenons
+
+            -   Great leaders seem to **Know which personality traits they should reveal to whom and when**
+            -   **adapting to the demands of the situations they face** and **the people they lead**;
+                **yet they do not lose their identities in the process**
+
+            -   **Vibe 很重要**
+                -   不要太诚实
+            -   **职场利益** 永远大于 感情
+
+        -   Being **cooperation** not so direct
+
+            -   Thank you, Sorry, Please, **Maybe**, **I'm not sure**
+                > "**I'm not sure about that**. **Maybe we could try** ..."
+                > "**Do u have any ideas about what I could try to improve it**?"  
+                > "**Do u think you could finish** that doc soon?"  
+                > "**I don't suppose you could** do it a bit sooner, could you?"  
+                > "**I'd prefer if someone else could do it if possible as** it's not my field"  
+                > "**It would be great if you could do it** because ..."
+
+        -   **不要逃避**， 多互相交流， 维护对方的核心诉求
+
+    -   FAMILIES
+
+        -   女人交谈的目的，在于**寻求同理心**
+
+            -   获得他人“懂我”的同理心态
+            -   “是呀，好危险的”
+            -   女性脑会**将别人的经验转化为自己的智慧** - 同理行为
+
+        -   **扮演闺蜜**
+
+            -   没重点， **琐碎的体验（小抱怨或发现） 讲出来送给对方** -> **让女人觉得自己参与了**丈夫的人生
+                -   “是呀，**的确有可能**”
+            -   **在对方跟你说这些事的时候**，**确实表现出同理心**， **以抒解对方的压力**
+
+                -   **表示有同感**
+                -   “**嗯，我懂**”
+                -   “**别担心，我会想办法**”
+
+            -   出口责难， 诚心地道歉
+                -   **出口责难的人**，其实是心理受伤
+                -   “**真对不起，让你一个人在这儿等**” - 不要解释理由
+
+        -   意见不同时，**要提出能让对方觉得开心的部分**
+
+            -   针对双方的提案，**互相列出优缺点**
+            -   **实际调查并验证**
+            -   优点，不能是避免确定的消极性优点， 而是**对双方都有利的（能够有所获得的）**
+            -   基于以上原则来做出结论
+
+        -   老婆想要的是 老公**多赞美，感谢**
+
+            -   **对老婆的心灵深处予以肯定**，无论在事实上要予以肯定还是否定
+            -   **你的心情我能充分理解**； 但这是不对的
+
+        -   **增加正向触发机制**
+
+            -   乐趣在于**预告与重复** - 结婚纪念日
+
+                -   “**下个月的结婚纪念日**，我们去那家有我俩回忆的意大利餐厅吧”
+                -   **务必回顾一下两人一路走来的历程**， 表达 “**过去发生了很多事，谢谢你都对我不离不弃；今后也请继续陪我**”
+
+            -   平日 强调 “**不论身在何处，我都想着你**”
+
+                -   不知怎么回， **重复老婆的话传回去**
+
+            -   吵架后，对老婆受伤的心灵**道歉**， 表达“对不起，害你这么难过”
+
+                -   再将**伴手礼**送给老婆
+
+            -   **称赞她的时候， 要选在她本人心情愉悦时**
+
+                -   “我们在一起时有意义的，而这样的女人只有你一个”
+                -   “对我来说，你是唯一的”
+
+            -   **护花使者**
+                -   早上出门必定要亲下
+                    自己要走在**靠车道一侧**
+                    餐厅要**让她坐在内侧位子**
+                    餐厅**等老婆先坐下后自己才坐**
+                    **先帮忙把门打开并等她通过**
+
+    -   BUSINESS
+
+        -   reading people
+
+        -   the scientific method
+
+            -   **formulating, testing, and tweaking hypotheses**
+            -   the key to pivoting is focusing not on your ideas but **on the answers to your experiments**
+                which should **provide insight into customer demand and industry pain points**
+
+        -   leader
+
+            -   当纳德拉看到微软必应搜索内置 ai 聊天机器人的早期演示时，
+                他**问自己的团队需要些什么才能使其成为热门产品**； 工程师告诉他 ...
+
+        -   ideas
+            -   World Forest ID - 树木
+                -   **分析商品样本**，**建立数据库**
+                -   使用统计方法和机器学习对结果进行空间插值；
+                    **可以预测在该团队未采样地区**采伐的树木的化学特征
+
+    -   SKILLS
+
+        -   **Situation-behavior-impace** feedback
+
+            -   First **note the time and place** where a behavior occurred
+                then **describe the behavior** - what they saw and heard
+                Finally to **describe the impact the behavior had** in terms of the feedback providers' thoughts,
+                feelings or actions
+
+        -   不试怎么知道， 你也不是故意的
+
+    -   MEETUP
+
+#### 2024-06-11
+
+-   TODO
+
+    -   GOD
+    -   SELF
+
+        -   reading
+            -   [老婆使用說明書]
+            -   [HBR 10 Must Reads on Emotional Intelligence]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   Bean Workshop
+
+            -   reactjs
+            -   website
+
+        -   Business/Negotiations
+            -   [HBR to being a Great Boss]
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+    -   SELF
+
+        -   **职场利益** 永远 大于 感情
+
+            -   **逢场作戏** - 不要太老实
+            -   **vibe 好重要**
+
+        -   不要老盯着金钱
+
+    -   FAMILIES
+
+    -   BUSINESS
+
+        -   胆大心细， 有能力且**会随机应变**
+
+        -   申请了 Wise, VS Card
+
+    -   SKILLS
+
+        -   不试怎么知道， **你也不是故意的**
+
+        -   China
+
+            -   **说话做事没有理性**； **对别人没有同情心**；
+                从骨子里**不想和别人合一**； **处处自以为义**，跟别人对着干，给别人造成痛苦，来**体现自己的存在感**
+
+            -   完全没有对别人的体贴
+
+    -   MEETUP
+        -   <玫瑰的故事> 刘亦菲
+            -   good
+        -   周五可能生病
+            -   痢疾
+
+#### 2024-06-03
+
+-   TODO
+
+    -   GOD
+    -   SELF
+
+        -   reading
+            -   [老婆使用說明書]
+            -   [HBR 10 Must Reads on Emotional Intelligence]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   Bean Workshop
+
+            -   reactjs
+            -   website
+
+        -   Business/Negotiations
+            -   [HBR to Dealing with Conflict]
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+
+        -   **來到神面前做客体**， 放弃自我的一切努力， 单纯的接受神的爱和救恩
+
+            -   谦卑下来来到神面前汲取永不枯竭爱的力量
+
+            -   He **forgives all my sins** and **heals all my diseases**
+
+        -   **只有爱才能解决这个矛盾**， 带个人心灵的平安喜乐力量
+
+            -   **从小被爱呵护，得到的赞美和肯定比常人多**，因此**心理比常人强大一些**，现实和潜意识的矛盾就小一些
+
+        -   心灵最大困惑
+
+            -   现实不完美， 潜意识却希望完美
+            -   现实很有限， 潜意识却希望永恒
+
+            -   唯一要做的，就是**相信接受**； 心灵由此安息，得到力量，欢喜快乐
+
+                -   耶稣付出代价 -》 我们得公义（完美）
+                -   耶稣受死 -》 我们得永生
+
+    -   SELF
+
+        -   **要自私**， 不要太为别人着想
+            -   不是亲人
+            -   如果是朋友的话，也要看对方是否帮过自己
+            -   沒必要带入， 理解对方的情绪即可
+
+    -   FAMILIES
+
+        -   chat with sister
+            -   有些掛念家人
+
+    -   BUSINESS
+
+        -   ZA 商業帳戶
+        -   finish the video script
+
+    -   SKILLS
+
+    -   MEETUP
+        -   《暗色天堂》
+            -   GOOD
+            -   无爱，有掌控欲的女生
+                -   **当现实违反我们的期望（或欲望）时**，要求公义可能只是挽回面子和伪善的手段
+                -   当他不以我期望的方式回应我，接受我，喜欢我时，他可不能干净离场，留下我落失情感，丧尽面子
+                -   复仇心态要他为自己落空的期望负责
+
+#### 2024-05-27
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   EQ
+
+            -   [HBR 10 Must Reads on Emotional Intelligence]
+
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   Bean Workshop
+
+            -   proposal
+
+            -   BANK
+                -   HSBC
+                -   ZA ?
+
+        -   Business/Negotiations
+
+            -   [從零開始的 1 頁企劃書]
+
+            -   [Business Made Simple]
+
+            -   [事實與偏見]
+
+            -   [HBR to Dealing with Conflict]
+
+        -   reading
+
+            -   [Relationship Goals]
+            -   [Conversation Casanova]
+            -   [老婆使用說明書]
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+
+        -   **体会耶稣的爱**
+
+            -   主牵着我的手， 把我的重担仍出去
+
+        -   Money helps GOD's kinddom
+            -   The way you give to others is the way GOD will give to you
+            -   start with sth
+            -   give often as your lifestyle
+            -   give randomly
+
+    -   SELF
+
+    -   FAMILIES
+
+    -   BUSINESS
+
+        -   Get to **know your manager well enough** to know that **they have your back**
+
+        -   Bean
+
+            -   finish the proposal
+
+            -   HSBC business account
+
+            -   Chat with Patrick
+                -   He is a good business law
+
+    -   SKILLS
+
+        -   China
+            -   任何时候， **都少提建议**
+            -   不要别人问什么就答什么， **有些问题可以不回答**
+            -   再不喜欢， **也要维持表面上的善意**
+            -   在发布意见时， 加上 **个人觉得**
+            -   遇到签字盖章， 一定**要看清文件**
+
+    -   MEETUP
+        -   Lunch
+            -   NOT GOOD
+        -   FOOTBALL
+            -   HAPPY that ManU succeeded
+
 #### 2024-05-20
 
 -   TODO
