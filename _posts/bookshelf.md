@@ -20,16 +20,16 @@ date: 2012-03-19
 #### reading-2024
 
 -   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey (8/10)
+-   [The Millionaire Next Door](https://book.douban.com/subject/1620201/) by Thomas J. Stanley
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
--   [HBR being a Great Boss]
+-   [HBR being a Great Boss] (8/10)
 -   [Software Design by Example](https://third-bit.com/sdxjs/)
 -   [事實與偏見] by Lai Chee-ying
 -   [HBR Guide to People Skills for a Virtual World Collection]
 -   [The Art of the Deal]
 -   [The Psychology of Money](https://book.douban.com/subject/35060020/) by Morgan Housel
--   [Business Made Simple](https://book.douban.com/subject/35956375/)
+-   [Business Made Simple](https://book.douban.com/subject/35956375/) (8/10)
 -   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
--   [HBR Guide to Being a Great Boss]
 -   [Order out of Chaos](https://www.amazon.com/Order-out-Chaos-Negotiation-Communicator/dp/1647827248) by Scott Walker
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 
@@ -50,8 +50,6 @@ date: 2012-03-19
 -   [HBR's 10 Must Reads on Managing Yourself](https://book.douban.com/subject/5415037/)
 -   [HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)
 -   [The Manager's Path](https://book.douban.com/subject/26997855/) by Camille Fournier
-
--   [事实与偏见]
 
 #### reading-2023
 
