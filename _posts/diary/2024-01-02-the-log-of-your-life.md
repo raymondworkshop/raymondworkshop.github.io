@@ -90,6 +90,10 @@ abstract: "a master self-observer"
         -   注意低调， **克制自己的反驳欲**， **学会赞美和闭嘴**
 
     -   MEETUP
+        -   language
+            -   ok
+        -   hiking
+            -   not so good
 
 #### 2024-06-17
 
