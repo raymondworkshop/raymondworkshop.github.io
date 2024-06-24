@@ -6,6 +6,91 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-06-24
+
+-   TODO
+
+    -   GOD
+    -   SELF
+
+        -   reading
+            -   [The Millionaire Next Door]
+            -   [Emotional Intelligence]
+            -   [HBR 10 Must Reads on Emotional Intelligence]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   Bean Workshop
+
+            -   reactjs
+            -   website
+
+        -   Business/Negotiations
+            -   [HBR to being a Great Boss]
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+
+        -   you believe in christ, god put his stamp of ownership on you by giving you the **holy spirit** he had promised
+        -   **相信圣灵与你同在**
+            -   圣灵在我做的事情上帮助我
+            -   给我智慧，给我平安
+
+    -   SELF
+
+        -   **正确理解对方的想法和逻辑**
+
+        -   **Use your energy to believe, to create, to learn, to think, and to grow**
+
+            -   **Do not use your energy to worry**
+
+        -   To live your dream not the others
+
+    -   FAMILIES
+
+        -   **大事感性**， **小事理性**
+
+            -   **理性地认真地做好每天要做的事**，你的路就一步一步走出来了
+            -   过去已经过去， 未来不可知， 只有眼前的每一天才是真正要认真对待的生活
+
+        -   复原力
+
+    -   BUSINESS
+
+        -   Management
+
+            -   作为主要执行者的第一军**为参与的部队提供训练**， 并**为执行的部队提供任务指挥**
+
+        -   **Finanical Independence**
+
+            -   net worth, minimize the tax
+
+        -   What your **client needs and values**?
+
+            -   fill their need
+
+        -   **务实主义**
+
+            -   **善于妥协**，形成各种联盟
+            -   **建立信任**， 和例行公事 来减少意外
+            -   为达到目标而不断努力
+
+        -   要**弄清楚为啥买这股票**
+            -   足够的了解
+
+    -   SKILLS
+
+        -   注意低调， **克制自己的反驳欲**， **学会赞美和闭嘴**
+
+    -   MEETUP
+
 #### 2024-06-17
 
 -   TODO
