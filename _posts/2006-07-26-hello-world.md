@@ -6,4 +6,7 @@ comments: true
 categories: [test, home, notes]
 ---
 
-Hello, World!  
+```python
+>>> print("Hello, World!")
+Hello, World!
+```

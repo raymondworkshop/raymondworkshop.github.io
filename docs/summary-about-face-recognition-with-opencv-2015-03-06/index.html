@@ -74,7 +74,7 @@
 <p>alg</p>
 <ul>
 <li>
-<p><a href="http://en.wikipedia.org/wiki/Eigenface/">PCA</a> alg finds the lower-dim subspace with maximum variance (with the mean) in data.  ( that is, to turn a set of possibly correlated variables into a smaller set of uncorrelated variables) .</p>
+<p><a href="http://en.wikipedia.org/wiki/Eigenface/">PCA</a> alg finds the lower-dim subspace with maximum variance (with the mean) in data. ( that is, to turn a set of possibly correlated variables into a smaller set of uncorrelated variables) .</p>
 </li>
 <li>
 <p>There is a TRICK here in computing the eigenvectors: a M x N matrix (M rows, N columns) with M &gt; N can only have N - 1 non-zero eigenvalues, so we can take the eigenvalue decomposition S of size N x N instead .</p>
@@ -85,24 +85,26 @@
 </ul>
 </li>
 <li>
-<p>The [API] [http://docs.opencv.org/trunk/modules/contrib/doc/facerec/facerec_api.html] in OpenCV:</p>
+<p>The <a href="http://docs.opencv.org/trunk/modules/contrib/doc/facerec/facerec_api.html">API</a> in OpenCV:</p>
 <ul>
 <li>
 <p>Ptr<FaceRecognizer> createEigenFaceRecognizer(int num_components, double threshold)
-        (~\sources\modules\contrib\src\facerec.cpp)</p>
+    (~\sources\modules\contrib\src\facerec.cpp)</p>
 <ul>
 <li>Perform the PCA</li>
-<li>(~\modules\core\src\matmul.cpp)
-  pca(data, Mat(), CV_PCA_DATA_AS_ROW, _num_components)</li>
-</ul>
-<p>The parameter <em>num_components</em> means that how many principal components to retain (it is not  larger than the number of training samples) .</p>
-<ul>
-<li>Get the feature vectors (y here is the principal component )
-  Mat y = subspaceProject(_eigenvectors, _mean, data.row(sampleIdx)</li>
-</ul>
-<p>The parameter <em>threshold</em> here gives a upper distance limit in the prediction (It is the parameter <em>minDist</em> in the  Eigenfaces::predict())</p>
+<li>
+<p>(~\modules\core\src\matmul.cpp)
+    pca(data, Mat(), CV_PCA_DATA_AS_ROW, _num_components)</p>
+<p>The parameter <em>num_components</em> means that how many principal components to retain (it is not larger than the number of training samples) .</p>
+</li>
+<li>
+<p>Get the feature vectors (y here is the principal component )
+    Mat y = subspaceProject(_eigenvectors, _mean, data.row(sampleIdx)</p>
+<p>The parameter <em>threshold</em> here gives a upper distance limit in the prediction (It is the parameter <em>minDist</em> in the Eigenfaces::predict())</p>
 <p>Eigenfaces::predict(InputArray _src, int &amp;minClass, double &amp;minDist)</p>
 <p>Each test sample is projected into PCA subspace,and get the related label based on the NORM_L2 distance in the trained subspace.</p>
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -122,14 +124,13 @@
 </ul>
 </li>
 <li>
-<p>The [API] [http://docs.opencv.org/trunk/modules/contrib/doc/facerec/facerec_api.html] in OpenCV Ptr<FaceRecognizer> createLBPHFaceRecognizer(int radius,int neighbors, int grid_x, int grid_y, double threshold) Calculate lbp image</p>
-<ul>
-<li>elbp(src[sampleIdx],_radius,_neighbors)</li>
-</ul>
-<p>The parameters <em>radius</em> and <em>neighbors</em> are used in the local binary pattern creation</p>
-<ul>
-<li>Get spatial histogram from this lbp image</li>
-</ul>
+<p>The <a href="http://docs.opencv.org/trunk/modules/contrib/doc/facerec/facerec_api.html">API</a> in OpenCV Ptr<FaceRecognizer> createLBPHFaceRecognizer(int radius,int neighbors, int grid_x, int grid_y, double threshold) Calculate lbp image</p>
+<pre><code>-   elbp(src[sampleIdx],\_radius,\_neighbors)
+
+    The parameters _radius_ and _neighbors_ are used in the local binary pattern creation
+
+-   Get spatial histogram from this lbp image
+</code></pre>
 </li>
 </ul>
 <pre class="lang-c++"><span class="w">      </span><span class="n">Mat</span><span class="w"> </span><span class="n">p</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">spatial_histogram</span><span class="p">(</span>
