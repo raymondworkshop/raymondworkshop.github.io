@@ -66,7 +66,8 @@ abstract: "Summary about Face Recognition with OpenCV"
 ```c++
       Mat p = spatial_histogram(
                 lbp_image, /* lbp_image */
-                static_cast<int>(std::pow(2.0, static_cast<double>(_neighbors))), /* number of possible patterns */
+                /* number of possible patterns */
+                static_cast<int>(std::pow(2.0, static_cast<double>(_neighbors))),
                 _grid_x, /* grid size x */
                 _grid_y, /* grid size y */
                 true)

@@ -118,7 +118,7 @@ def write_post(post: frontmatter.Post, content: str):
 def write_pygments_style_sheet():
     css = highlighting.get_style_css(style.themeStyle)
     pathlib.Path("./docs/static/pygments.css").write_text(css)
-
+    
 
 def write_posts(path: pathlib.Path) -> Sequence[frontmatter.Post]:
     posts = []
@@ -171,7 +171,7 @@ def main():
     target = "./docs/"
     try:
         # TODO - CHECH THE ISSUE ON code highlighting
-        write_pygments_style_sheet()
+        #write_pygments_style_sheet()
         write_docs(srcs)
     except OSError as e:
         print("Erros: %s - %s." % (e.filename, e.strerror))
