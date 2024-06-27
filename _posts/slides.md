@@ -7,12 +7,12 @@ date: 2012-03-13
 
 #### Mental Health for Every Mind
 
--   Checkout out the introduction on our [AI-powered cognitive behavioral therapist](https://github.com/raymondworkshop/dev.pie/blob/master/docs/pie.pdf)
+-   An introduction on our [AI-powered cognitive behavioral therapist](https://github.com/raymondworkshop/dev.pie/blob/master/docs/pie.pdf)
     -   Meet Pie, your personal AI, a AI-powered cognitive behavioral therapist (CBT)
 
-#### A summary on factoid Question Answering (QA)
+#### Factoid Question Answering (QA)
 
--   Check out the summary on [Question Answering](https://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)
+-   Check out summary and recent progress on [Question Answering](https://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)
 
 #### An introduction and the related experiments on Natural Legal Language Processing
 
