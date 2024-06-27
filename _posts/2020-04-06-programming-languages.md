@@ -8,7 +8,7 @@ categories: [home, programming]
 abstract: "[Updating] Notes on programing languages"
 ---
 
-#### Interpreters on 2023
+#### Interpreter with Python
 
 program - parse -> abstract-syntax-tree - eval -> result
 
