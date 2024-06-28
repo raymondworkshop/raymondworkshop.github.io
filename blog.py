@@ -171,7 +171,8 @@ def main():
     target = "./docs/"
     try:
         # TODO - CHECH THE ISSUE ON code highlighting
-        #write_pygments_style_sheet()
+        # cannot update font-size in pygments
+        #write_pygments_style_sheet() 
         write_docs(srcs)
     except OSError as e:
         print("Erros: %s - %s." % (e.filename, e.strerror))
