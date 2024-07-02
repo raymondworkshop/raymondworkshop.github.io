@@ -6,6 +6,219 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-07-02
+
+-   TODO
+
+    -   GOD
+    -   SELF
+
+        -   reading
+            -   [The Millionaire Next Door]
+            -   [Emotional Intelligence]
+            -   [HBR 10 Must Reads on Emotional Intelligence]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   Bean Workshop
+
+            -   reactjs
+            -   website
+
+        -   Business/Negotiations
+            -   [HBR to being a Great Boss]
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+
+        -   信考恩典的人 **在爱里凭对耶稣救赎的信心没有惧怕**
+
+            -   没爱心的人说到底还是**不相信耶稣的十字架的救赎能够赦免他一切的罪**
+
+        -   **爱里没有惧怕**； **爱即完全， 就把惧怕除去**
+
+            -   因为惧怕里含着刑罚， 惧怕的人在爱里未得完全
+
+        -   **人的生命都是被塑造**，**人的生命表现基本上都是他感受到的东西**
+
+            -   你感受爱， 才能给出爱； 你感受指责和惩罚，你给出去的就是论断和批评；
+                你感受快乐，才能输出快乐； 感受苦毒， 就发出苦毒
+
+        -   圣经说**只有爱心才能造就人**， 所以人必须学会**感受爱**
+
+    -   SELF
+
+        -   Spend **more time studying for fewer offerings**
+
+            -   Focus
+            -   master their understanding
+            -   Just invest in ones that he **knows and understands**
+
+        -   **Listen to understand**, don't listen to reply
+
+            -   **all experiences are individual**
+
+        -   Build internal and external **self-awareness**
+
+            -   **Ask what** instead of why can learn to see themselves more clearly
+
+                -   "**what kind of person** they were"
+
+            -   **actively work on both seeing themselves clearly** and getting **feedback to understand how others see** them
+
+                -   internal self-awareness
+
+                    -   **how clearly we see our own** values, passions, aspirations, fit with our env,
+                        reactions (including thoughts, feelings, behaviors, strengths, and weakness), and impact on others
+                    -   external self-awareness
+                        -   **understanding** how other peopel view us
+
+            -   we should ask **what** question
+                -   'what' questions help us **stay objective, future-focused**, and **empowered to act** on our new insights
+                -   "**what are the situations that make me feel terrible**, and what do they have in common?"
+                -   "**what do I need to do to move forward** in a way that minimises the impact to ..."
+
+        -   经历**不能用好坏来评论**， **要用价值来评论**
+
+        -   **通过躯体承载灵魂**的过程， **庆幸自己有过遍体鳞伤**， **却酣畅淋漓的经历**， 而不是在安然无恙中度过一生
+
+        -   焦虑
+            -   **无力感**， 不确定
+
+    -   FAMILIES
+
+        -   **Select the right person**
+
+            -   **Genuinely knowing what you want and need** in a partner and a relationship
+
+                -   have a better idea of **who you are, what you need, why you do the things you do**
+                -   allow you to behave differently in the future
+
+            -   **Mutuality**
+
+                -   both sets of needs matter
+                -   **convey your own needs in a lear direct fashion**
+                    -   "you know this is going to be stressful for me. I'd really love for you to be there.
+                        you'll be a really good buffer for me. **Is there any way you can** clear your schedule to come with me?"
+                -   **willing to support** your partner
+                    -   "**I'd really like to** take this job, it's really important to me,
+                        but **I also am concerned** about us spending time together.
+                        **If I promise** to protect some time for us, will you be OK with me taking this job?"
+
+            -   Emotion regulation
+                -   **regulating your feelings in response to** things that happen in your relationship
+                -   **keep your emotion calm** and **keep things that happen** in your relationship in perspective
+                    -   "you know what, **I can handle this**. **This is going to be all right**.
+                        There is a way to deal with this. **I'm going to figure this out**.
+                        **Everything is going to be OK**."
+                    -   Not act out on them impulsively
+                        -   **calm down**, it is going to come
+
+        -   Happy couple
+
+            -   **Stop being a victim**, relsease your pain
+
+                -   **take responsibility for our mistakes** and **apologise for the unhappiness** that we have caused
+
+            -   **Anything but anger**
+
+                -   when you feel angry, **sit down, take a deep breath**, and **think about what's really going on**
+                -   **ask yourself what am I really feeling underneath all** this anger
+
+                    -   **expressing just about anything other than frustration or anger**
+
+                -   "I feel sad, I feel hurt or I feel disappointed"
+
+            -   Raising the bar - **challenge yourself to be better whether** your partner is behaving well or badly
+
+                -   **challenge yourself to be helpful, patient, caring, kind**
+                -   "**I am so sorry you're upset**, **what's bothering you is important to me**, **how can I help there**"
+
+            -   Use "**I would love it if** ..." statement in a way that's **positive and future focused**
+                -   "**I would love it if you could** wash the dishes next round"
+
+        -   True Love
+            -   **sacrifice and release**
+                -   If she has **the desire to make you happy and the ability** to do so,
+                    put your happiness above her own
+                -   If she is **kind and compassionate**,respect you and take the time to listen and try to undersand you
+            -   relationship
+                -   we become a team and we **build the trust and goodwill**
+
+    -   BUSINESS
+
+        -   **以我们的能力， 一定可以商量一个切实可行的方法的**
+
+        -   how to disagree positively
+
+            -   start by **finding common ground**
+                -   **identify the thing that we can all agree on** and **go from there**
+            -   **avoid putting down the other person's ideas and beliefs**
+
+            -   **Use 'I' statements to communicate**: How you feel, what you think, want, or need
+
+                -   I'm feeling pressured because ... Can I do these tomorrow?
+
+            -   stay calm
+
+    -   SKILLS
+
+        -   Conversations skills
+
+            -   Stoke a **positive tone** whenever possible
+
+                -   **Offering a cheerful comment**
+                -   **affirming people's comments** and **offering positive feedback** can boot dopamine and enhance your connection
+                    -   **saying yes to those feelings** even if someone's tone feels negative
+                        > I hate traffic  
+                        > **I know**. Traffic sucks. I wish there were an easier way to travel
+
+            -   **Find common ground**
+
+                -   find similar interests: good food
+
+            -   Ask open-ended questions
+
+                -   **clarifying questions**
+                    -   "**what makes you feel** this way?"
+                    -   "when did this happen?"
+                -   if negotiation, ask questions **aimed at solutions**
+                    -   "I hear you saying that you're frustrated because you feel like you don't have enough freedom.
+                        **What can we do to find a solution that works for both of us**?"
+
+            -   Refer to people by **their names**
+
+            -   Offer a compliment to start things off
+
+                -   **try to choose sth specific** to comment on, smile, and be sincere
+
+            -   Practice being an active listener
+
+        -   **Listen to understand**, don't listen to reply
+
+            -   true listening - set aside your personal opinion
+            -   sense the acceptance
+            -   assume **you have sth to learn**
+            -   use the **open-ended questions**
+                -   start your questions with who, what, when, where, why or how
+                -   "what was it like?"
+                -   "**how did that feel**?"
+            -   go with the flow
+            -   **all experiences are individual**
+
+    -   MEETUP
+        -   《玫瑰的故事》 - 电视剧
+            -   good
+        -   hiking
+            -   good relationship
+
 #### 2024-06-24
 
 -   TODO
