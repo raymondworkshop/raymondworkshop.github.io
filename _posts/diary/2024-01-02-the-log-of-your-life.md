@@ -6,6 +6,79 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-07-08
+
+-   TODO
+
+    -   GOD
+    -   SELF
+
+        -   reading
+            -   [The Millionaire Next Door]
+            -   [Emotional Intelligence]
+            -   [HBR 10 Must Reads on Emotional Intelligence]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   Bean Workshop
+
+            -   reactjs
+            -   website
+
+        -   Business/Negotiations
+            -   [HBR to being a Great Boss]
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+        -   "If you are willing, you can heal me and make me clean"
+        -   Thanks for your suffering for us
+    -   SELF
+
+        -   **想做就做，不要想那么多**
+
+            -   **有些事 只有自己试了才知道**
+
+        -   有钱之后， 人与人之间的情感很重要
+
+        -   金钱对幸福感的提升作用很大
+            -   **钱能提供选择**
+
+    -   FAMILIES
+    -   BUSINESS
+
+        -   Real Wealth is created by **starting your own companies** or **even by investing in an investment firm**, they're buying equity
+
+            -   these are the routes to wealth. It doesn't come through the hours
+
+        -   Equity
+
+            -   20 日和 200 日 移动均线 是**判断整体短期**和**长期市场趋势**的关键指标
+
+                -   短期移动均线可以帮助你识别趋势的动能， 也就是 超买或超卖
+                -   长期移动均线则可以帮助你确定趋势本身
+
+            -   two key objectives
+                -   Learn when to **sell stocks to minimize losses and max gains** to start protect yourself
+                -   prepare to **make money when the market turns around**
+
+    -   SKILLS
+        -   人的来源
+            -   创造论
+            -   演化论
+                -   是个假设， 不能复制； 暂时的解释
+    -   MEETUP
+        -   language
+        -   movies
+            -   <火星救援> - GOOD
+            -   <蝙蝠侠：黑暗骑士崛起>
+
 #### 2024-07-02
 
 -   TODO
