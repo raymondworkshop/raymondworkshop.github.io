@@ -38,7 +38,8 @@ abstract: "a master self-observer"
 
     -   GOD
         -   "If you are willing, you can heal me and make me clean"
-        -   Thanks for your suffering for us
+        -   Thanks for your suffering for us  
+        
     -   SELF
 
         -   **想做就做，不要想那么多**
@@ -51,6 +52,7 @@ abstract: "a master self-observer"
             -   **钱能提供选择**
 
     -   FAMILIES
+
     -   BUSINESS
 
         -   Real Wealth is created by **starting your own companies** or **even by investing in an investment firm**, they're buying equity
