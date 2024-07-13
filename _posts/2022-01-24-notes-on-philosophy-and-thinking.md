@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Notes on Philosophy and Life"
+title: "Notes on Philosophy"
 date: 2022-01-24
 comments: true
 categories: [home, learning, thinking, philosophy, important]
-abstract: "关于实证主义哲学和生活方式"
+abstract: "关于实证主义哲学"
 ---
 
-### 关于实证主义哲学和生活方式
+### 关于实证主义哲学
 
 TODO
 
