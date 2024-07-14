@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "Notes on Philosophy"
-date: 2022-01-24
+date: 2024-07-14
 comments: true
 categories: [home, learning, thinking, philosophy, important]
-abstract: "关于实证主义哲学"
+abstract: "notes on philosophy and life  "
 ---
 
-### 关于实证主义哲学
+### Stocisim
 
 TODO
 
-#### 从证实 到证伪
+#### 从证实 到证伪 2022-01-24
 
 -   **可证伪性**
 
