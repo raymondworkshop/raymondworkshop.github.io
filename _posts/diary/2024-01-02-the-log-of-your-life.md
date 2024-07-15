@@ -10,12 +10,61 @@ abstract: "a master self-observer"
 
 -   TODO
 
+    -   GOD
+    -   SELF
+
+        -   reading
+            -   [The Millionaire Next Door]
+            -   [Emotional Intelligence]
+            -   [HBR 10 Must Reads on Emotional Intelligence]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   Bean Workshop
+
+            -   reactjs
+            -   website
+
+        -   Business/Negotiations
+            -   [HBR to being a Great Boss]
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
 -   REVIEW
 
     -   GOD
     -   SELF
 
-        -   **Don't outsource your happiness or success** to other people's decisions
+        -   If you have anxiety, if it's out of your hands, **it deserves freedom from your mind** too
+
+            -   **Don't outsource your happiness or success** to other people's decisions
+
+        -   There is no failure, **only feedback**
+
+        -   直接把理论用于行动中， 而不是“**以经验为基础**，**以逻辑为支撑**， **互相对照，互相发展**”
+
+            -   只由**问题的现象直接跳跃到道德的答案**
+            -   将问题于答案之间的起因和细节全部忽略
+
+                -   **判断是非标准是 “善”和“恶”**， **而不是 “合法”或“非法”**
+
+            -   **能用法律及技术解决的问题**， 不要扯上道德问题
+
+            -   不需要你自己百分百干净（道德评判）， **只要看你说的是否有道理或是事实**，无论你是否别有用心，否则再干净也不行
+
+        -   **love yourself** and **choose distance over disrespect**
+
+            -   **Never let anyone get too comfortable with disrespecting you**  
+                Most relationships taught me the more chances you give ppl, the less they value you.
+                They're not afraid to lose you bcoz they know no matter what, you won't walk away.
+
+            -   Take everyone at **face value**. They **prove their words by their actions**
+
+            -   Lower your expectations, but **keep your standards high**
 
         -   EQ
 
@@ -30,27 +79,84 @@ abstract: "a master self-observer"
                 -   Take the time to **understand who you are**, **where your motivations lie**, and **what makes you unique**.
                     Remember that **your uniqueness is valuable**. **You have sth important to share**, no matter how obvious or uninspiring it may seem to you
 
+            -   Self-Talk
+
+                -   I am the **captain of my ship** and **the master of my fate**
+                -   Get away from the people who will **tear you down**
+
+            -   Self-confident people **interpret feedback the way they choose to**
+
             -   Focus on **building confident behaviors**
                 -   Know that any mindset shift is going to take time.
                 -   **Start small and be deliberate about each other**. Don't expect change to happen overnight.
                     keep at it and build your confidence muscle
 
     -   FAMILIES
+
+        -   Women just want a man **they are comfortable being themselves around** .
+            The more you come out of your shell, the more you allow her to do the same.
+            -   Many women will **love who you are**. **You just love who you are firstly**.
+        -   **Being yourself unapologetically no matter what others think of you**.
+            Women don't care what you say, they care how you say it.
+
     -   BUSINESS
+
+        -   Negotiation Skills
+
+            -   BATNA - **Best alternative** to a negotiated agreement
+
+                -   **What will u do** if you don't reach a deal?
+                -   You think my BATNA is so bad, **Let me tell you about your BATNA**
+
+            -   ZOPA - Zone of possible agreement
+
+                -   when you make the first offer, you can **anchor the negotiation** in your favour
+                -   this shifts our perception of where the zone of possible agreement is
+                -   **walking out of the negotiation** is an appropriate tactic
+
+            -   **Being aware of what you're delivering**, and then making an offer or asking for sth that's reflecting the value you are delivering
+
+            -   The only way to reset is to **change the players**
+                -   Joey comes back the next day and offers 7000 for the ring
+
+        -   **对别人有贡献和价值**， 信任是个说辞
 
         -   Negotiations
 
-            -   Understand first and respected
+            -   **Understand first** and respected
 
-            -   Negotiation is not a battle. It is a discovery
+                -   people wanna be understood and accepted
+                -   You **demo empathy** and a sincere desire to understand what **the other side is experiencing**
+                -   and **only then get what they want** from the negotiation
+
+            -   Negotiation is not a battle. It is a **discovery**
+
+                -   **Smiling**
+                -   mirroring -> makes the conversation run smoothly and makes the opponent reveal more information
 
             -   Tactical empathy
 
-            -   Diffusing Negatives with labels
+                -   Especially focusing on **identifying the emotional obstacles** that are standing in the way of agreemtn
 
-            -   Start with No
+                -   **Label the emotion** and **summarise what your opponent just told you** and give it back to him
+                    -   "**It seems like** ..."
+                    -   it signals to your opponent that **you truly understand him** which creates a stronger bond and makes your opponent like you
+                    -   if a person likes you it is 6 times more likely that you will have a deal
 
-            -   That is right
+            -   **Diffusing Negatives with labels**
+
+                -   "**you might even consider** not doing business with us anymore. And you are absolutely right to think in this way"
+                -   Your opponent will be more focused on the solution rather than complaining
+
+            -   **Start with No**
+
+                -   When you say "Yes", you feel committed or trapped
+                -   **you feel safe because you did not commit** to anything
+                    -   "is it a bad time to talk for 5 minutes?"
+                    -   "**No, But let me finish** X, Y, and Z and meet you in 15 minutes on my desk."
+
+            -   **That is right**
+                -   It puts the other side's empathy on steroids
 
         -   ideas
             -   Sold by AMAZON
@@ -86,7 +192,45 @@ abstract: "a master self-observer"
                     -   **what's next**, what's coming
 
     -   MEETUP
+
+        -   language
         -   <半熟恋人>
+
+            -   对话
+
+                -   想下事先希望给对方什么印象
+                -   要猜测试探对方**的意图/答案** 或者 **交换** 比如 “那你能先回答我一个问题吗？”
+                -   **重复对方的问题**， 当回答对方问题的时候
+                -   **顺着对方的话往下说**
+
+            -   **细心**， **照顾别人感受**
+
+                -   很有爱，很温暖
+                -   “**今天开心吗**？”
+                -   笑起来很好看
+                -   “**要我帮你吗**？”
+
+            -   **要清楚自己的感受**； 多表达自己的感受
+
+                -   “我很害怕，如果你想，我可以陪你”
+                -   **打晓别人的顾虑**， 让别人更信任自己
+
+            -   SELF
+
+                -   刚开始会被开朗大方的人吸引 (这样的女生一般多在意别人的看法 而失去了自己；小心这个 trap)；
+                    过一段时间深入了解后， 会被**有自己的想法，不爱慕虚荣**的女生吸引； 这种女生一般都内向
+
+                -   **自卑**， 当别人介绍自己很优秀的时候
+
+                    -   看到有什么可以学到的特点
+                    -   **True rewards** - **wealth, knowledge, love, fitness, and equanimity** - **come from ignoring others and improving ourselves**;
+                        School, politics, sports, and games train us to compete against others.
+                    -   自信，不是一个外在的表现，而更多是**内在对自己的认同和对其他人的认同**
+                    -   自信的定义是无论顺境逆境，一个人即不把自己看得过于强大，也不把自己看得过于弱小，他**对自己有合适，客观的看法**。 **鼓励孩子积极面对自己，积极面对他人**。
+
+                -   Love yourself and **choose distance over disrespect**
+                    -   Get away from the people who will **tear you down**; Never let anyone get too comfortable with disrespecting you.
+                    -   Most relationships taught me the more chances you give ppl, the less they value you. They're not afraid to lose you bcoz they know no matter what, you won't walk away.
 
 #### 2024-07-08
 
