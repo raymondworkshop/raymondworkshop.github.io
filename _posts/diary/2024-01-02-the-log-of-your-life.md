@@ -39,6 +39,10 @@ abstract: "a master self-observer"
     -   GOD
     -   SELF
 
+        -   开心最重要
+
+            -   努力的目的
+
         -   If you have anxiety, if it's out of your hands, **it deserves freedom from your mind** too
 
             -   **Don't outsource your happiness or success** to other people's decisions
@@ -164,6 +168,10 @@ abstract: "a master self-observer"
             -   Home Assistant
 
     -   SKILLS
+
+        -   **通过观察归纳一个理论**，在该理论基础上推理演绎，然后通过实证检验为该理论及演绎寻找证据
+
+            -   **根据新碎片，修正甚至打破旧框架**，并构建新框架
 
         -   How to collaborate with someone you don't like?
 
