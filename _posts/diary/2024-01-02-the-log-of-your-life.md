@@ -6,6 +6,88 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-07-15
+
+-   TODO
+
+-   REVIEW
+
+    -   GOD
+    -   SELF
+
+        -   **Don't outsource your happiness or success** to other people's decisions
+
+        -   EQ
+
+            -   **what are the differences** between how you see yourself and how others see you?
+            -   **what matters** to you?
+            -   **what changes will you make** to achieve your goals?
+
+        -   **Confidence** can be learned and practiced
+
+            -   **Connect with yourself**
+
+                -   Take the time to **understand who you are**, **where your motivations lie**, and **what makes you unique**.
+                    Remember that **your uniqueness is valuable**. **You have sth important to share**, no matter how obvious or uninspiring it may seem to you
+
+            -   Focus on **building confident behaviors**
+                -   Know that any mindset shift is going to take time.
+                -   **Start small and be deliberate about each other**. Don't expect change to happen overnight.
+                    keep at it and build your confidence muscle
+
+    -   FAMILIES
+    -   BUSINESS
+
+        -   Negotiations
+
+            -   Understand first and respected
+
+            -   Negotiation is not a battle. It is a discovery
+
+            -   Tactical empathy
+
+            -   Diffusing Negatives with labels
+
+            -   Start with No
+
+            -   That is right
+
+        -   ideas
+            -   Sold by AMAZON
+            -   temu, 全球速卖通
+            -   Home Assistant
+
+    -   SKILLS
+
+        -   How to collaborate with someone you don't like?
+
+            -   Take an honest look at **what is causing the tension** with you and your colleague and **what role you play in creating it**
+                -   Try to **understand your colleague's perspective**;
+                    **Make time to think deliberately about the other person's point of view**, especially if that person is essential to your success
+            -   **Engage them directly**, and **try to understand your difference in interpersonal style**.
+            -   **Ask for help**. It shows that **you value** their intelligence and experience
+
+        -   Public Speaking
+            -   **Understand your audience** and **what they need**
+                -   what does my audiences want to hear
+                    -   understand their need
+                -   what is it that they expect of me?
+                -   what are their attitudes?
+            -   Conext
+                -   time
+                -   **emotion**
+                -   location
+            -   Structure our messages
+                -   Past-Present-Future
+                -   Problem-Solution-Benefit
+                -   **What**, **SO-what**, **now-what**
+                    -   what the issue is
+                    -   **why it's important** in that so-what step
+                    -   **what's next**, what's coming
+
+    -   MEETUP
+        -   <半熟恋人>
+
 #### 2024-07-08
 
 -   TODO
@@ -37,9 +119,8 @@ abstract: "a master self-observer"
 -   REVIEW
 
     -   GOD
-        -   "If you are willing, you can heal me and make me clean"
-        -   Thanks for your suffering for us  
-        
+        -   "**If you are willing**, you can heal me and make me clean"
+        -   Thanks for your suffering for us
     -   SELF
 
         -   **想做就做，不要想那么多**

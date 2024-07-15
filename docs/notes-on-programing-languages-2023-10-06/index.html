@@ -62,7 +62,13 @@
     </header>
     <p class="body"><h4>Interpreter with Python</h4>
 <p>program - parse -&gt; abstract-syntax-tree - eval -&gt; result</p>
-<p><a href="https://github.com/muyun/dev.wic/blob/master/sspy.py">sspy.py</a> - a tiny scheme interpreter with python - shows the details.</p>
+<p><a href="https://github.com/muyun/dev.wic/blob/master/sspy.py">sspy.py</a> - a tiny scheme interpreter with python - shows the interpreter details.</p>
+<pre class="lang-python3"><span class="n">python3</span> <span class="n">sspy</span><span class="o">.</span><span class="n">py</span>
+</pre>
+<pre class="lang-scheme"><span class="nv">lis</span><span class="o">.</span><span class="nv">py&gt;</span><span class="w"> </span><span class="p">(</span><span class="k">begin</span><span class="w"> </span><span class="p">(</span><span class="k">define</span><span class="w"> </span><span class="nv">r</span><span class="w"> </span><span class="mi">10</span><span class="p">)</span><span class="w"> </span><span class="p">(</span><span class="nb">*</span><span class="w"> </span><span class="nv">pi</span><span class="w"> </span><span class="p">(</span><span class="nb">*</span><span class="w"> </span><span class="nv">r</span><span class="w"> </span><span class="nv">r</span><span class="p">)))</span>
+<span class="mf">314.1592653589793</span>
+<span class="nv">lis</span><span class="o">.</span><span class="nv">py&gt;</span>
+</pre>
 <h4>Python Data Model -&gt; A Framework/API for core language constructs</h4>
 <p>We can leverage the Python Data Model to build new classes.</p>
 <p>By using and implementing <strong>special methods of Python Data Model in your objects</strong>, your objects can <strong>behave like the built-in types</strong>, enabling the expressive coding style <strong>Pythonic</strong>. You will find that your intuition applies everywhere.</p>

@@ -12,7 +12,17 @@ abstract: "[Updating] Notes on programing languages"
 
 program - parse -> abstract-syntax-tree - eval -> result
 
-[sspy.py](https://github.com/muyun/dev.wic/blob/master/sspy.py) - a tiny scheme interpreter with python - shows the details.
+[sspy.py](https://github.com/muyun/dev.wic/blob/master/sspy.py) - a tiny scheme interpreter with python - shows the interpreter details.
+
+```python
+python3 sspy.py
+```
+
+```scheme
+lis.py> (begin (define r 10) (* pi (* r r)))
+314.1592653589793
+lis.py>
+```
 
 #### Python Data Model -> A Framework/API for core language constructs
 
