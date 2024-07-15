@@ -49,7 +49,7 @@ TODO
             -   先有框架后有碎片，容易上手，开始会看上去遥遥领先，但后面就僵化而无法增长
             -   框架固化后 最大坏处 是容易偏执的去 “占小便宜吃大亏”， 因为已经成为本
 
-    -   observe -> find patterns -> create a short-cut framework -> realize your framework sucks
+    -   observe -> **find patterns** -> create a short-cut framework -> realize your framework sucks
 
         -   ask open-ended quesitons
         -   seeing some patterns in the answers
@@ -100,5 +100,5 @@ TODO
 ##### reference
 
 -   [A Little History of Philosophy](https://book.douban.com/subject/6812274/) by Nigel Warburton
--   [Introduction to Philosophy: God, Knowledge and Consciousness](https://learning.edx.org/course/course-v1:MITx+24.00x+2T2021/home)
+-   [A Guide to the Good Life](https://book.douban.com/subject/4684151/) by William B. Irvine
 -   [Fallen Leaves](https://book.douban.com/subject/26297828/) by Will Durant

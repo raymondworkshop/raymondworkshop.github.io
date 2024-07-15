@@ -24,7 +24,7 @@ date: 2012-03-19
 -   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
 -   [HBR being a Great Boss] (8/10)
--   [Software Design by Example](https://third-bit.com/sdxjs/)
+-   [Software Design by Example](https://third-bit.com/sdxpy/)
 -   [事實與偏見] by Lai Chee-ying
 -   [HBR Guide to People Skills for a Virtual World Collection]
 -   [The Art of the Deal](https://book.douban.com/subject/1817125/)
