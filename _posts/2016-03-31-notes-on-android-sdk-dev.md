@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android SDK dev"
+title: "Notes on Android SDK dev"
 date: 2016-03-31
 comments: true
 categories: [android, technology]

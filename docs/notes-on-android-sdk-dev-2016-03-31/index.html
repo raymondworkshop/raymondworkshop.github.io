@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<!--
+<meta http-equiv="content-language” content=”en, zh”>
+-->
+<script>
+    MathJax = {
+        tex: {
+            inlineMath: [['$', '$']]
+        },
+        svg: {
+            fontCache: 'global'
+        }
+    };
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<title>  - muyun_</title>
+<link rel=" stylesheet" href="/static/style.css">
+<link rel="stylesheet" href="/static/pygments.css">
+<nav>
+    <h1><small><a href="/index.html">bestraymond</a></small></h1>
+    <ul>
+        <li><a href="/index.html"> Blog </a>
+
+                 
+        <!--
+        <li><a href="/slides.html"> Slides </a>
+        -->
+
+        <li><a href="/bookshelf.html"> Bookshelf </a>
+<!--
+            <li><a href="/links.html"> Links </a>
+-->
+                        
+        <li><a href="/slides.html"> Slides </a>
+            
+           
+
+            <!--
+        <li><a href="/talks.html"> Talks </a>
+            -->
+
+        <li><a href="/about.html"> About </a>
+    </ul>
+</nav>
+
+<section class="content">
+    <!--
+    <header>
+        
+<title> Notes on Android SDK dev</title>
+
+      </header>
+      -->
+    
+<article class="post">
+    <header>
+        <h1><strong>Notes on Android SDK dev</strong></h1>
+    </header>
+    <p class="body"><blockquote>
+<p><small> A share about Android NDK - build c/c++ code into shared lib app uses </small></p>
+</blockquote>
+<h4>Android NDK - build c/c++ code into shared lib app uses</h4>
+<ul>
+<li>
+<p>Android.mk - glue the c/c++ code to the Android NDK</p>
+<ul>
+<li>defines properties specific to individual modules, or libs</li>
+</ul>
+</li>
+<li>
+<p>Application.mk - defines properties for all the modules that app uses</p>
+</li>
+<li>
+<p>ndk-build -</p>
+</li>
+<li>
+<p>toolchain</p>
+</li>
+<li>
+<p>the dev tool is so important (eclipse is so terrible for this task)</p>
+</li>
+</ul>
+<h4>about the linking [TO UPDATE]</h4>
+<ul>
+<li>
+<p>Linking - concatenates blocks together, and decides on run-time locations for the concatenated blocks</p>
+<ul>
+<li>
+<p>symbol resolution step - symbol table in .symtab associate each global symbol (functions and global variables) reference with a unique symbol definition</p>
+</li>
+<li>
+<p>relocation - associate a memory location with each symbol definition, and then make them point to the memory location meger all sections of the same type into a new aggregate section relocate symbol references so that they point to the correct run-time addresses</p>
+</li>
+</ul>
+</li>
+<li>
+<p>linking with static libraries</p>
+<ul>
+<li>related functions can be compiled into separate object modules and then packaged in a single static library file; At link time, the linker will copy only the object modules(symbol resolution) that are referenced by the program.</li>
+</ul>
+</li>
+<li>
+<p>advantages
+    need to maintain and update the static libraries periodically<br />
+    At run time, the code of the functions like I/O functions is duplicated in the text segment of each running process</p>
+</li>
+<li>
+<p>dynamic linking with shared libraries</p>
+<ul>
+<li>a single copy of the .text section of a shared libray in memory can be shared by different running</li>
+</ul>
+</li>
+<li>
+<p>the basic idea is to link the relocation and symbol table info when the executable file is created, and then complete the linking process (code and data ) dynamically when the program is loaded</p>
+</li>
+</ul></p>
+</article>
+
+
+
+
+</section>
+
+
+<div class="footer">
+    <ul>
+        <small>&copy; 2024 <a href="/index.html"></a>FF Workshop</small>
+    </ul>
+</div>
