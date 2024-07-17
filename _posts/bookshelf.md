@@ -21,12 +21,12 @@ date: 2012-03-19
 
 -   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey (9/10)
 -   [The Millionaire Next Door](https://book.douban.com/subject/1620201/) by Thomas J. Stanley
--   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
+-   [HBR being a Great Boss]
+-   [HBR Guide to People Skills for a Virtual World Collection]
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
--   [HBR being a Great Boss] (8/10)
+-   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
 -   [Software Design by Example](https://third-bit.com/sdxpy/)
 -   [事實與偏見] by Lai Chee-ying
--   [HBR Guide to People Skills for a Virtual World Collection]
 -   [The Art of the Deal](https://book.douban.com/subject/1817125/)
 -   [The Psychology of Money](https://book.douban.com/subject/35060020/) by Morgan Housel
 -   [Business Made Simple](https://book.douban.com/subject/35956375/) (8/10)
