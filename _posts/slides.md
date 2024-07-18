@@ -7,12 +7,12 @@ date: 2012-03-13
 
 #### Mental Health for Every Mind
 
--   Check out the introduction on our [AI-powered cognitive behavioral therapist](https://github.com/raymondworkshop/dev.pie/blob/master/docs/pie.pdf)
+-   Check out the introduction on [AI-powered cognitive behavioral therapist](https://github.com/raymondworkshop/dev.pie/blob/master/docs/pie.pdf)
     -   Your personal AI, a AI-powered cognitive behavioral therapist (CBT)
 
 #### Factoid Question Answering (QA)
 
--   Check out summary and recent progress on [Question Answering](https://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)
+-   Question Answering (QA) tasks return an answer given a question. This [slide](<(https://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)>) summarizes the recent progress on this topic .
 
 #### An introduction and the related experiments on Natural Legal Language Processing
 
@@ -23,7 +23,7 @@ date: 2012-03-13
 
 -   Check out the introduction on [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso)
 
-#### Some of my slides on Artificial Intelligence and its applications in language & speech at HSUHK
+#### Some of my slides on Artificial Intelligence and its applications in Language & Speech at HSUHK
 
 -   Our paper "[Mapping Customer Needs in Natural Language to Product Specifications by Using Word Embeddings](https://drive.google.com/file/d/1pfpff9EWB2gOGllzh8DHIapp-fBGlC55/view?usp=sharing)" has been accepted for publication at apiems2018, HK.
     -   [How to define the objectives and collect or generate your dataset](https://docs.google.com/presentation/d/1XpAfL3T-A0cxyRjVbmZFE2M8jsFQrwycfGX042OSP18/edit?usp=sharing)

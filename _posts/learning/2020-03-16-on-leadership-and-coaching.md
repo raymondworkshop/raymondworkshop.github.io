@@ -10,6 +10,7 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
 ### HBR Guide to Being a Great Boss
 
 -   TODO
+    -   deal with difficult people
 
 *   How send the right leadership signals
 

@@ -26,6 +26,7 @@ date: 2012-03-19
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
 -   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
 -   [Software Design by Example](https://third-bit.com/sdxpy/)
+-   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
 -   [事實與偏見] by Lai Chee-ying
 -   [The Art of the Deal](https://book.douban.com/subject/1817125/)
 -   [The Psychology of Money](https://book.douban.com/subject/35060020/) by Morgan Housel
