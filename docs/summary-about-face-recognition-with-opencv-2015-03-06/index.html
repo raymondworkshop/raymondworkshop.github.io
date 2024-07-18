@@ -60,7 +60,7 @@
     <header>
         <h1><strong>Summary about Face Recognition with OpenCV</strong></h1>
     </header>
-    <p class="body"><h4>Some ideas and approachments</h4>
+    <p class="body"><h4>Some ideas and approachments about Face Recognition</h4>
 <h4>geometric feature</h4>
 <ul>
 <li>marker points ( position of eyes, ears, noses, ...) are used to build the feature vector (the distance, the angle, ...)</li>
@@ -125,12 +125,17 @@
 </li>
 <li>
 <p>The <a href="http://docs.opencv.org/trunk/modules/contrib/doc/facerec/facerec_api.html">API</a> in OpenCV Ptr<FaceRecognizer> createLBPHFaceRecognizer(int radius,int neighbors, int grid_x, int grid_y, double threshold) Calculate lbp image</p>
-<pre><code>-   elbp(src[sampleIdx],\_radius,\_neighbors)
-
-    The parameters _radius_ and _neighbors_ are used in the local binary pattern creation
-
--   Get spatial histogram from this lbp image
-</code></pre>
+<ul>
+<li>
+<p>elbp(src[sampleIdx],_radius,_neighbors)</p>
+<ul>
+<li>The parameters <em>radius</em> and <em>neighbors</em> are used in the local binary pattern creation</li>
+</ul>
+</li>
+<li>
+<p>Get spatial histogram from this lbp image</p>
+</li>
+</ul>
 </li>
 </ul>
 <pre class="lang-c++"><span class="w">      </span><span class="n">Mat</span><span class="w"> </span><span class="n">p</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">spatial_histogram</span><span class="p">(</span>

@@ -12,6 +12,13 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
 -   TODO
     -   deal with difficult people
 
+*   Manging the Critical Voices inside your head
+
+    -   **Is this voice helpful to me** in this particular moment?
+        -   If you think **it'll motivate you**, **listent to it**. If it will demoralize you, don't
+        -   **Be strategic and intentional about whom you listen to - and when**
+        -   **Pause to assess what's needed**, and then make a choice
+
 *   How send the right leadership signals
 
     -   **Consider the kind of leader you are** and **hope to be**

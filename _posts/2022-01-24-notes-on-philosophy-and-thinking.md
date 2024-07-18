@@ -7,7 +7,7 @@ categories: [home, learning, thinking, philosophy, important]
 abstract: "notes on philosophy and life  "
 ---
 
-### Stocisim
+### About Stocisim
 
 TODO
 

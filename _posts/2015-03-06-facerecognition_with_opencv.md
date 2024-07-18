@@ -7,7 +7,7 @@ categories: [home, algorithms, vision]
 abstract: "Summary about Face Recognition with OpenCV"
 ---
 
-#### Some ideas and approachments
+#### Some ideas and approachments about Face Recognition
 
 #### geometric feature
 
@@ -57,11 +57,11 @@ abstract: "Summary about Face Recognition with OpenCV"
 
 -   The [API](http://docs.opencv.org/trunk/modules/contrib/doc/facerec/facerec_api.html) in OpenCV Ptr<FaceRecognizer> createLBPHFaceRecognizer(int radius,int neighbors, int grid_x, int grid_y, double threshold) Calculate lbp image
 
-        -   elbp(src[sampleIdx],\_radius,\_neighbors)
+    -   elbp(src[sampleIdx],\_radius,\_neighbors)
 
-            The parameters _radius_ and _neighbors_ are used in the local binary pattern creation
+        -   The parameters _radius_ and _neighbors_ are used in the local binary pattern creation
 
-        -   Get spatial histogram from this lbp image
+    -   Get spatial histogram from this lbp image
 
 ```c++
       Mat p = spatial_histogram(

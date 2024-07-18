@@ -46,6 +46,7 @@ date: 2012-03-19
 -   [Benjamin Franklin——An American Life](https://book.douban.com/subject/2990595/)
 -   [HBR Guide to Buing A Small Business](https://book.douban.com/subject/31683130/)
 
+-   [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti
 -   [That Will Never Work](https://book.douban.com/subject/34824730/) by Marc Randolph
 -   [沉思录](https://book.douban.com/subject/10429639/)
 -   [HBR's 10 Must Reads on Managing Yourself](https://book.douban.com/subject/5415037/)
