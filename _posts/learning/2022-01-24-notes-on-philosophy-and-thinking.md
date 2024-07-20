@@ -3,7 +3,7 @@ layout: post
 title: "Notes on Philosophy"
 date: 2024-07-14
 comments: true
-categories: [home, learning, thinking, philosophy, important]
+categories: [learning, thinking, philosophy, important]
 abstract: "notes on philosophy and life  "
 ---
 
@@ -71,7 +71,7 @@ TODO
 
 -   道德
 
-    -   纳粹和社会主义者, 都**将问题于答案之间的起因和细节全部忽略**
+    -   极端主义者（极左+极右）, 都**将问题于答案之间的起因和细节全部忽略**
     -   只由**问题的现象直接跳跃到 道德的答案**
         -   将一切问题引向为道德层
         -   不需要你自己百分百干净（道德评判）， 只要看你说的**是否有道理或是事实**，无论你是否别有用心，否则再干净也不行

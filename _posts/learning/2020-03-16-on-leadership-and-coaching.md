@@ -12,6 +12,27 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
 -   TODO
     -   deal with difficult people
 
+*   To Sound Like a Leader
+
+    -   TODO
+
+*   How to deal with a mean colleague
+
+    -   **Understand why people typically act this way**
+
+        -   people act out when **their feel threatened**
+
+        -   compliment the person on sth or an email with "Thanks so much for your help"
+
+    -   **Talk to those supporters** whether you're being overly sensitive
+
+    -   Demo the cost to the business
+
+        -   how it's **affecting morale and performance**
+        -   how the person's behavior is **hurting the business money**
+
+    -   Call out the inappropriate behavior in the moment
+
 *   Manging the Critical Voices inside your head
 
     -   **Is this voice helpful to me** in this particular moment?
