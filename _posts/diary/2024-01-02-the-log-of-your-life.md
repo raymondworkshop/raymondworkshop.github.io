@@ -6,11 +6,96 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-07-22
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   reading
+            -   [The Millionaire Next Door]
+            -   [Emotional Intelligence]
+            -   [HBR 10 Must Reads on Emotional Intelligence]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   Business/Negotiations
+            -   [HBR to being a Great Boss]
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+
+        -   Think about **how god helps you**
+
+            -   Jesus **helps you have good thoughts**
+            -   **we have hope in Jesus**
+            -   'You are the grace and truth; Nothing compares to you'
+            -   '**I believe in you, Thanks for forgiving me**, I will follow you'
+
+        -   God's healing power
+            -   need to **train our minds**
+            -   when our minds transform, we transform
+
+    -   SELF
+
+        -   Warmth and **Strength**
+
+            -   Warmth
+                -   **smile**
+                -   **validate feelings**
+                -   **agree with them**
+            -   Strength
+                -   **Confident** <- **connect with yourself**
+                -   stand up straight
+                -   **low your tone and voice**
+
+        -   Is **this voice motivate me**?
+
+            -   **Strategic who and when**
+
+        -   深度对话
+            -   说出你的感受， **你的目标和期望**
+
+    -   FAMILIES
+
+        -   Dealing with **your family and friends with your heart**, **business with your head**
+            -   friends - **truth and kind**
+                -   how to improve **their self-esteem**
+                -   **how useful to them**
+
+    -   BUSINESS
+
+        -   **understand why people act this way**
+
+    -   SKILLS
+        -   国人**一元论的宇宙观**
+            -   直接把哲学思想应用于日常生活，也应用于施政标准
+            -   **直接把理论用于行动中**， 而不是“**以经验为基础，以逻辑为支撑，互相对照，互相发展**”
+            -   **把具体和抽象混为一谈**的方法， 是中国思想家的传统习惯， 也合于他们一元论的宇宙观
+    -   MEETUP
+        -   language
+            -   GOOD
+        -   movie
+            -   <套利交易>
+                -   如何做出**对自己有利的行动**； 以前太为别人着想了，尤其仅仅是同事
+        -   AE business card , hsbc-uk Card, giffgaff
+        -   Iphone SE
+
 #### 2024-07-15
 
 -   TODO
 
     -   GOD
+
     -   SELF
 
         -   reading
@@ -118,7 +203,7 @@ abstract: "a master self-observer"
                 -   this shifts our perception of where the zone of possible agreement is
                 -   **walking out of the negotiation** is an appropriate tactic
 
-            -   **Being aware of what you're delivering**, and then making an offer or asking for sth that's reflecting the value you are delivering
+            -   **Being aware of what you're delivering**, and **then making an offer or asking for sth that's reflecting** the value you are delivering
 
             -   The only way to reset is to **change the players**
                 -   Joey comes back the next day and offers 7000 for the ring
@@ -231,8 +316,8 @@ abstract: "a master self-observer"
                 -   **自卑**， 当别人介绍自己很优秀的时候
 
                     -   看到有什么可以学到的特点
-                    -   **True rewards** - **wealth, knowledge, love, fitness, and equanimity** - **come from ignoring others and improving ourselves**;
-                        School, politics, sports, and games train us to compete against others.
+                    -   **True rewards** - **wealth, knowledge, love, fitness, and equanimity** - **come from ignoring others and improving ourselves**
+                        -   School, politics, sports, and games train us to compete against others.
                     -   自信，不是一个外在的表现，而更多是**内在对自己的认同和对其他人的认同**
                     -   自信的定义是无论顺境逆境，一个人即不把自己看得过于强大，也不把自己看得过于弱小，他**对自己有合适，客观的看法**。 **鼓励孩子积极面对自己，积极面对他人**。
 
