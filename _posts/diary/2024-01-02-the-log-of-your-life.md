@@ -6,6 +6,72 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-08-05
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   reading
+            -   [蛤蟆先生去看心理医生]
+            -   [The Millionaire Next Door]
+            -   [Emotional Intelligence]
+            -   [HBR 10 Must Reads on Emotional Intelligence]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   Business/Negotiations
+
+            -   [HBR to being a Great Boss]
+
+        -   React
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+-   REVIEW
+
+    -   GOD
+    -   SELF
+
+        -   Strength
+
+            -   **Confidence** <-> **connect with yourself**
+            -   Stand up straight
+            -   lower your tone and voice
+
+        -   Understand why people act the way
+
+        -   出门在外，**也要准时吃饭，睡觉**，休闲
+            -   不要省小钱，比如打的，吃饭等等
+
+    -   FAMILIES
+
+        -   回老家见父母
+
+            -   feel wonderful to stay with parents; I can feel their love
+            -   **他们老了**， 以后有时间多陪陪他们
+            -   终于体会到了 爸的局限
+                -   **过于自我牺牲**
+                -   **过于相信别人的话** - 上诈下愚
+            -   父母医疗保险及养老保险
+
+        -   转钱 5W
+            -   From SHENZHEN ATM to HK through HSB
+
+    -   BUSINESS
+    -   MEETUP
+        -   hiking
+            -   feel good when I feel that the connection with Amos
+    -   SKILLS
+
 #### 2024-07-22
 
 -   TODO
