@@ -23,7 +23,12 @@ TODO
     -   rahter than give up, we struggle along a scale of process.
         The journey to **understand more** about the mysteries of the world and **explain them with reason is the core of our nature**
 
-#### **Experienced or seen** rather than theory
+#### **Experienced or Seen** rather than theory
+
+-   先验理性 vs 经验理性
+
+    -   先验 **来自定义和第一原理的演绎逻辑**， 从天上俯瞰人间
+    -   经验理性 **来自观察证据的归纳逻辑**
 
 -   实证主义
 

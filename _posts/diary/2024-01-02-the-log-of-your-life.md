@@ -36,10 +36,14 @@ abstract: "a master self-observer"
 
 -   REVIEW
 
--   REVIEW
-
     -   GOD
     -   SELF
+
+        -   什么是滋养自己的事
+
+            -   **滋养自己的事**一定是**让自己内心安静，松弛， 并获得力量的过程**
+
+            -   **多了解自己**而不是盲目遵守规则
 
         -   Strength
 
@@ -47,12 +51,29 @@ abstract: "a master self-observer"
             -   Stand up straight
             -   lower your tone and voice
 
+        -   **Good decision making** and **high leverage** is the solution
+
+        -   a clear, confident mind
+
+            -   Don’t focus on making millions of dollars,focus on **learning about how the world works**, **develop your individual talents**, **enjoy the whole process**, and **place your bets accordingly**.
+                You will get the money you deserve, and earn your most valuable asset: **a clear, confident mind** .
+
+        -   **Agree more**
+
+            -   **利他的话术**
+            -   **以对方的逻辑 说出自己的意图**
+
+        -   Negotiations
+
+            -   try to **remain friendly** and try **make the conversation less of an argument** and **more of a discussion**
+
         -   Understand why people act the way
 
-        -   出门在外，**也要准时吃饭，睡觉**，休闲
-            -   不要省小钱，比如打的，吃饭等等
-
     -   FAMILIES
+
+        -   普通人的视角看世界
+
+            -   身体健康， 家庭幸福， 经济丰富， 价值实现
 
         -   回老家见父母
 
@@ -63,14 +84,36 @@ abstract: "a master self-observer"
                 -   **过于相信别人的话** - 上诈下愚
             -   父母医疗保险及养老保险
 
-        -   转钱 5W
-            -   From SHENZHEN ATM to HK through HSB
+        -   出门在外，**也要准时吃饭，睡觉**，休闲
+
+            -   不要省小钱，比如打的，吃饭等等
+
+        -   转钱 5W - From SHENZHEN ATM to HK through HSB
 
     -   BUSINESS
+
+        -   management
+            -   我们的共同挑战是让球队维持在这一水平上；
+                我和贾森的工作是**为滕哈格、工作人员和球员创造合适的支持结构和环境**，使这一切成为可能
+
+    -   SKILLS
+
+        -   情绪价值 - **听到对方的话**
+
+        -   先验理性 vs 经验理性
+
+            -   先验 **来自定义和第一原理的演绎逻辑**， 从天上俯瞰人间
+            -   经验理性 **来自观察证据的归纳逻辑**
+
+        -   苏俄的教训告诉人们， **科技，经济，生活是一个整体**
+            -   只有这三着形成一种**畅通的正向循环**的时候，发展才会有源源不竭的动力
+            -   **科技发展与经济脱节**， 科技创新**无法进入真实经济世界**
+            -   **经济发展与民生生活脱节**， 过于重视重工业，轻视轻工业
+
     -   MEETUP
+
         -   hiking
             -   feel good when I feel that the connection with Amos
-    -   SKILLS
 
 #### 2024-07-22
 

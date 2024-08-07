@@ -21,6 +21,8 @@ date: 2012-03-19
 
 -   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey (9/10)
 -   [The Millionaire Next Door](https://book.douban.com/subject/1620201/) by Thomas J. Stanley
+-   [The Making of a Manager](https://book.douban.com/subject/30379338/)
+-   [蛤蟆先生去看心理医生]
 -   [HBR being a Great Boss]
 -   [HBR Guide to People Skills for a Virtual World Collection]
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
@@ -39,7 +41,6 @@ date: 2012-03-19
 -   [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore
 -   [Mythical Man-Month](https://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959/?tag=daniellemires-20) by Frederick Brooks Jr.
 
--   [The Making of a Manager](https://book.douban.com/subject/30379338/)
 -   [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Productivity-ebook/dp/B000WH7PKY/?tag=daniellemires-20) by David Allen
 
 -   [家人使用說明書](https://www.kobo.com/hk/zh/ebook/nq0y0iptaDyhGddlDIxTyQ) by 黑川伊保子
