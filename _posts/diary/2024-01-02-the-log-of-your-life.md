@@ -6,6 +6,143 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-08-12
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   https://search.app/ihHPdf7ziCDkdyQd9
+
+        -   reading
+            -   [蛤蟆先生去看心理医生]
+            -   [The Millionaire Next Door]
+            -   [Emotional Intelligence]
+            -   [HBR 10 Must Reads on Emotional Intelligence]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   Business/Negotiations
+
+            -   [HBR to being a Great Boss]
+
+        -   React
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+
+        -   What do you **want me to do for you**?
+
+            -   Just tell him
+
+        -   **Rich and satisfying life**
+            -   you need to fight it with the word of GOD
+            -   come into my life, I will follow you
+
+    -   SELF
+
+        -   **与其他个人的关系**， 不只是球员，而**是一个人**
+
+            -   一旦你建立了这种联系，你就能从别人身上获得最大的收获
+            -   你有对于比赛的知识，知道达到巅峰必须有的因素，就要跟他们分享
+                -   作为一名教练， **你只是试图帮助球员达成目标**; 当你看到年轻球员成长时，这是一件非常自豪的事情
+
+        -   Focus more on your **own family**, **business**, **health**, **relationships**
+
+            -   You are wasting your time if you are focusing on things beyond control.
+                Politics is one of them, media another
+
+        -   **情绪是一个感觉** feeling
+
+            -   **快乐，悲伤，愤怒，惊讶， 恐惧， 恶心**
+            -   情绪的功能是**让我们知道我们现在是不是活在我们要过的生活当中**
+
+                -   如果有太多负面的情绪出现， 是一个警讯告诉我们该要处理一些东西
+
+            -   **先接受我们的现状**
+                -   **这个情绪要告诉我什么**？
+                -   接受这个情绪带来的讯息
+                -   **再去寻找它的根源是什么**？
+                -   再来想要调整那些东西
+
+        -   **注意你的感受**并**放慢反应速度**， 然后**学会表达这种情绪**
+
+            -   还要确保自己没有压抑这种感觉， 因为这会适得其反并加剧这种情绪
+            -   当你生气或摔东西的时候， 不要对家人大喊大叫， 而是对他们说
+                “**我生气是因为 X, Y, Z**” 等理由， 因此我不想和你一起吃饭，或者我需要一个拥抱或支持
+
+            -   **正确的看待**事件和经历
+                -   **凡事都有很多面**； 越多面越好
+                -   确实的面对， **凡事的高低好坏**， 都能够尽量看得到
+                -   **尊重自己的感受**， 随着波浪起伏
+
+        -   不要冲动消费
+            -   想买的话，再推迟几次看看
+
+    -   FAMILIES
+
+        -   **Have fun with the womam**
+            -   **Don't take your outing so seriously**
+            -   **A woman must feel comfortable and secure** with you before intimacy can begin
+            -   The key to her feeling comfortable and secure is by having fun with you
+
+    -   BUSINESS
+
+        -   **Life's too short** to work with people who lose your trust
+            -   The best relationships are built on **trust**
+                -   Do I trust my manager to do their job well?
+                -   Does my manager trust me to do my job well?
+        -   What **doing the job well** mean?
+
+            -   understand **how your manager sees success for their role**?
+                -   **what makes you feel you're doing a great job**?
+            -   "How about for me? **What would make you feel I'm doing a great job**?"
+            -   "**Here's what would make me feel really engaged and successful in my role** ..."
+            -   "Let's figure out how to help each other both succeed ..."
+
+        -   **A shared goal** is the backbone of a trusting relationship
+
+    -   SKILLS
+
+        -   emotion
+
+            -   看投入程度 - engagement
+            -   Pity - 怜悯
+                -   知道他人痛苦， 上对下姿态
+            -   Sympathy - 同情
+                -   **关心他人痛苦**
+                -   没站在对方观点
+                -   没感受对方痛苦
+            -   Empathy - 同理
+                -   开放地了解对方状况
+                -   **站在对方观点**
+                -   **感受到对方痛苦**
+                -   **彼此分享感受**
+            -   Compassion - 慈悲
+                -   有同理心
+                -   愿意改善他人痛苦
+
+        -   **Never trust a man who listens to his woman** too much
+
+            -   means he’s easily emotionally manipulated
+            -   also means when his relationship is good he will go quiet on you, and When it’s bad he suddenly wants to speak to you
+
+        -   **Manipulation** is when someone blames you for your reaction to their toxic behaviour But never wants to discuss their disrespect that triggered you
+
+    -   MEETUP
+        -   hiking
+        -   language
+        -   PPT with Isaac
+
 #### 2024-08-05
 
 -   TODO
