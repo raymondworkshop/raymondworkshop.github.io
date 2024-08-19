@@ -6,6 +6,94 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-08-19
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   https://search.app/ihHPdf7ziCDkdyQd9
+
+            -   DONE
+
+        -   reading
+            -   [蛤蟆先生去看心理医生]
+            -   [The Millionaire Next Door]
+            -   [Emotional Intelligence]
+            -   [HBR 10 Must Reads on Emotional Intelligence]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   Business/Negotiations
+
+            -   [HBR to being a Great Boss]
+
+        -   React
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+
+        -   **和耶稣的关系**
+
+        -   I know who I am in your love
+            -   **we are not fighting against human**
+                we are fighting against forces and authorities and against rulers of darkness and powers in the spiritual world
+
+    -   SELF
+
+        -   **觉察自己的种种想法和感受**
+
+            -   开始在很多方面**探索和审视自己**
+
+        -   臣服不是屈服于困境， 而是**在困境中接受自己无法控制的**， **努力可以在自己控制的部分学习**
+
+        -   Move where you can bloom
+
+    -   FAMILIES
+    -   BUSINESS
+
+        -   wealth
+
+            -   **Spend time, energy, and money** in ways consistent with enhancing their net worth
+                -   **Money is a resource** that should never be squandered
+                -   **Financial independent**
+                    -   less time and energy worrying about your socioeconomic future
+                -   **Being self-employed gives one much more control** over one's economic future than does working for others
+                -   **what criteria, what key pieces of background information**, would be used to evaluate potential suppliers?
+
+        -   个人魅力
+
+            -   沟通能力和赢得人们信任的能力
+            -   **让别人喜欢你**
+
+            -   **平易近人**
+                -   员工愿意追随你的原因之一是觉得自己了解你
+                -   留心记住**身边人生活的细节**和重要日期比如生日
+                    -   寄送手写字体，写下感谢或祝贺的话语
+            -   重视每一个人
+                -   多留意身边人，询问他们的名字
+                -   每天随机和三人**主动交谈**
+            -   简单随意
+            -   拥抱不完美
+                -   **个人魅力始于自信**
+                -   坦然面对挫折，而不是试图掩盖，**打趣一下**， 然后该干嘛干嘛
+
+    -   SKILLS
+
+        -   科学与艺术是一枚硬币的两面， 他们都源自人类活动中最高尚的部分， **追求深刻性，普遍性，永恒和卓越**
+
+    -   MEETUP
+        -   language
+
 #### 2024-08-12
 
 -   TODO
