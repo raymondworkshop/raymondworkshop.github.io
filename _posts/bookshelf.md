@@ -20,12 +20,13 @@ date: 2012-03-19
 #### reading-2024
 
 -   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey (9/10)
--   [The Millionaire Next Door](https://book.douban.com/subject/1620201/) by Thomas J. Stanley
--   [The Making of a Manager](https://book.douban.com/subject/30379338/)
--   [蛤蟆先生去看心理医生]
--   [HBR being a Great Boss]
--   [HBR Guide to People Skills for a Virtual World Collection]
+-   [The Millionaire Next Door](https://book.douban.com/subject/1620201/) by Thomas J. Stanley (8/10)
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
+-   [The Making of a Manager](https://book.douban.com/subject/30379338/)
+-   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
+-   [蛤蟆先生去看心理医生]
+-   [HBR being a Great Bs]
+-   [HBR Guide to People Skills for a Virtual World Collection]
 -   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
 -   [Software Design by Example](https://third-bit.com/sdxpy/)
 -   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
@@ -34,7 +35,6 @@ date: 2012-03-19
 -   [The Psychology of Money](https://book.douban.com/subject/35060020/) by Morgan Housel
 -   [Business Made Simple](https://book.douban.com/subject/35956375/) (8/10)
 -   [Order out of Chaos](https://www.amazon.com/Order-out-Chaos-Negotiation-Communicator/dp/1647827248) by Scott Walker
--   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 
 -   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
 -   [Search Inside Yourself](https://book.douban.com/subject/7155765/) by Chade-Meng Tan
