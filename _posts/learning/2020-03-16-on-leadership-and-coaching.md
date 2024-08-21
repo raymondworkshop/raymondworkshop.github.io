@@ -7,7 +7,7 @@ categories: [softskills, coach, self, learning, leadership, important]
 abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
 ---
 
-### HBR Guide to Being a Great Boss
+#### HBR Guide to Being a Great Boss
 
 -   TODO
     -   deal with difficult people

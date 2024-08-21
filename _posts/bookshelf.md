@@ -22,10 +22,10 @@ date: 2012-03-19
 -   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey (9/10)
 -   [The Millionaire Next Door](https://book.douban.com/subject/1620201/) by Thomas J. Stanley (8/10)
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
--   [The Making of a Manager](https://book.douban.com/subject/30379338/)
+-   [HBR being a Great Bs]
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 -   [蛤蟆先生去看心理医生]
--   [HBR being a Great Bs]
+
 -   [HBR Guide to People Skills for a Virtual World Collection]
 -   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
 -   [Software Design by Example](https://third-bit.com/sdxpy/)
@@ -42,6 +42,7 @@ date: 2012-03-19
 -   [Mythical Man-Month](https://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959/?tag=daniellemires-20) by Frederick Brooks Jr.
 
 -   [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Productivity-ebook/dp/B000WH7PKY/?tag=daniellemires-20) by David Allen
+-   [The Making of a Manager](https://book.douban.com/subject/30379338/)
 
 -   [家人使用說明書](https://www.kobo.com/hk/zh/ebook/nq0y0iptaDyhGddlDIxTyQ) by 黑川伊保子
 -   [Benjamin Franklin——An American Life](https://book.douban.com/subject/2990595/)

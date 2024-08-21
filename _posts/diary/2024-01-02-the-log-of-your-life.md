@@ -20,9 +20,8 @@ abstract: "a master self-observer"
 
         -   reading
             -   [蛤蟆先生去看心理医生]
-            -   [The Millionaire Next Door]
             -   [Emotional Intelligence]
-            -   [HBR 10 Must Reads on Emotional Intelligence]
+            -   [HBR Guide to Being a Great Bs]
             -   [The Untethered Soul The Journey Beyond Yourself]
 
     -   BUSINESS
