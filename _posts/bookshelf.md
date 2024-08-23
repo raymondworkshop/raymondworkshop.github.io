@@ -21,19 +21,20 @@ date: 2012-03-19
 
 -   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey (9/10)
 -   [The Millionaire Next Door](https://book.douban.com/subject/1620201/) by Thomas J. Stanley (8/10)
--   [HBR being a Great Bs]
+-   [HBR being a Great Bs] (10/10) (note: sth I don't experience before)
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
--   [蛤蟆先生去看心理医生] (6/10)
 -   [Software Design by Example](https://third-bit.com/sdxpy/)
+
+-   [Your Money or Your Life - 9 Steps to Transforming Your](https://book.douban.com/subject/3306520/) by Vicki Robin
 -   [HBR Guide to People Skills for a Virtual World Collection]
 -   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
 -   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
 -   [事實與偏見] by Lai Chee-ying
 -   [The Art of the Deal](https://book.douban.com/subject/1817125/)
--   [Your Money or Your Life - 9 Steps to Transforming Your](https://book.douban.com/subject/3306520/) by Vicki Robin
 -   [Business Made Simple](https://book.douban.com/subject/35956375/) (8/10)
 -   [Order out of Chaos](https://www.amazon.com/Order-out-Chaos-Negotiation-Communicator/dp/1647827248) by Scott Walker
+-   [蛤蟆先生去看心理医生] (6/10)
 
 -   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
 -   [Search Inside Yourself](https://book.douban.com/subject/7155765/) by Chade-Meng Tan

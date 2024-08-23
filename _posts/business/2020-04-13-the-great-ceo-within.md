@@ -7,7 +7,7 @@ categories: [notes, business, ideas, important, startups, learning]
 abstract: "Notes on the management skills in the practical part"
 ---
 
-#### notes
+### notes
 
 -   维持创造者思维， creation is about building
 
@@ -71,9 +71,59 @@ abstract: "Notes on the management skills in the practical part"
         -   Duty: 'we were driven by our dream to [noble motive]'
         -   Gratitude: 'I am so proud and thankful that ...'
 
-#### HBR Guide on Being a Great Boss
+### HBR Guide on Being a Great Boss
 
 -   What Being a Great Boss Means
+
+    -   ch1 **Pick up on the uniquness** and then to figure out how best to incorporate those enduring idiosyncrasies into the overall plan
+
+        -   her **strengths** -> self-assurance
+            -   "What was **the best day at work** you've had in the past three months?"
+            -   find out what the person was doing and **why he enjoyed it so much**
+            -   **intrinsically satisfying that one looks forward to doing it again** and getting better at it over time
+            -   emphasizing the size and the difficulty of the employee's goals
+            -   training, partner, **recognition**
+        -   **the triggers** that activate those strenghts
+            -   **constantly tweaking your env** so that the unique contribution
+        -   how she **learns**
+            -   **analyzing**
+                -   **understands a task by taking it apart**, examining its elements, and reconstructing it piece by piece
+                -   give her ample time, and **role-play** with here
+            -   doing
+                -   trial and error
+                -   **pick a specific task** whithin his role
+            -   watching
+                -   view the complete picture
+                -   make her ride shotgun with one of your most experienced performers
+
+    -   ch2 Managing Authenticity - the paradox of great leadership
+
+        -   Like **chameleons**, **capable of adapting to the demands of the situations they face and the people** they lead,
+            yet they **do not lose their identities in the process**
+
+        -   Steps to **help others perceive you as an authentic leader**
+
+            -   **Get to know yourself and your origins** better by
+                -   **familiarize yourself with your identity anchors** - **the people, places, and events** that shaped you.
+                    **Share these discoveries with others** who have had similar experiences
+                -   returning to **your roots**
+                -   **seek new adventures**, and take some risks
+                -   **ask for 360-degree feedback** from close colleagues, friends, family
+            -   Get to know others better by
+
+                -   **find out about people's backgrounds**, families, obsessions
+                -   **care deeply about the work** your people do
+                -   **letting others know what's unique** (and authentic) about them
+                -   selectively show a weakness or vulnerability that reveals your approachability to your direct reports, assistants
+
+            -   Connect to the organizational context better by
+                -   **getting the distance right**
+                    -   Use **both your sense of self** and **your understanding of your origins** to **connet with**, or **to separate yourself from others**
+                -   prepare yourself by **learning about and understanding your own values**
+                -   detect the subtle social clues
+
+    -   ch3 are you a good boss - or a great one?
+        -   TODO
 
 -   Build Trust and Listen
 
@@ -85,7 +135,7 @@ abstract: "Notes on the management skills in the practical part"
 
 -   Build Resiliency and Support Mental Health
 
-#### The Beginning from <The Great CEO Within>
+### The Beginning from <The Great CEO Within>
 
 -   软体公司成长记
 
@@ -404,15 +454,16 @@ abstract: "Notes on the management skills in the practical part"
         -   face-facce - "**I didn't intend to make you feel angry. My intent was to be helpful**"
         -   do not use email, text, or voicemail to give feedback, unless 100 positive
 
-#### ideas from <The Making of a Manager>
+### ideas from <The Making of a Manager>
 
-#### ideas from <the lean-startup>
+### ideas from <the lean-startup>
 
-#### ideas from <getting real>
+### ideas from <getting real>
 
-#### reference
+### reference
 
 -   [The Great CEO Within](https://read.amazon.com/?asin=B07ZLGQZYC&ref_=kwl_kr_iv_rec_5&language=en-US)
+-   [HBR Guide on Being a Great Boss]
 -   [the lean startup]
 -   [getting real]
 -   [rework]
