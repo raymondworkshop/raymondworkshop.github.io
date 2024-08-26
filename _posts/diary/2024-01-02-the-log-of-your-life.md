@@ -6,6 +6,201 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-08-26
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   https://search.app/ihHPdf7ziCDkdyQd9
+
+            -   DONE
+
+        -   reading
+            -   [HBR Guide to Being a Great Bs]
+            -   [Emotional Intelligence]
+            -   [蛤蟆先生去看心理医生]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   SKILLS
+
+        -   Driving
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+
+        -   **感受到耶稣的爱**以后，我**心灵情感得到完全的满足**， **被释放真正成为自由人**
+
+    -   SELF
+
+        -   觉察到自己的种种想法和感受， 开始在很多方面探索和审视自己
+
+            -   情感社交问题
+            -   和上司关系问题
+            -   亲密关系问题
+
+        -   **Self-assurance**
+
+            -   you have confidence not only in your abilities but in your judgment.
+
+            -   you have **faith in your strength**
+
+                -   you know that **you are able** - able to take risks, able to meet new challenges,
+                    albe to stake claims, and most importnat, **able to deliver**
+
+            -   **show confidence in the things** that they say and do because they are **sure of their abilities**
+
+        -   critical thinking
+
+            -   从**质疑**， **理解**走向**建设和超越**
+                -   理解是通过更全面的归因和分析，看到问题的复杂性，看到现实生活的局限性。
+                    理解的过程包括**追问“为什么”**，**探究问题产生的深层次原因和因素**。
+                    理解问题时需要**分辨个体因素和社会结构性因素**，要避免过快地对当事人进行道德判断
+                -   **思考如何解决这些问题**  
+                    重新审视行动目标，发现更多可能的手段，最终找到更好的解决问题的方案。
+                    在这个阶段很重要的事要避免完美主义谬误，**要理解现实生活的复杂性**， **从局限中选择最佳解决方案**，**成为积极的对话者和建设者**
+
+        -   不管在谁面前， **只要你不欠他**，**就没有必要唯唯诺诺**
+
+    -   FAMILIES
+
+        -   **Self-employed professionals**
+
+            -   they **sell their intellect**
+            -   **business owner**
+
+                -   in control of my own destiny
+                -   risk is **working for a ruthless employer**
+                -   I get stronger and wiser each day by facing risk and adversity
+
+            -   they **overcome their fears**
+                -   the person who deals with risk every day, who **tests his or her courage every day**
+                    in this way, he **learns to conquer fear**
+
+        -   **The productivity of his businesses**, coupled with his household's **moderate consumption habits**
+
+            -   **the reinvested in his businesses**, **commercial real estate**, and **the common stocks of high-quality USA corporations**
+
+            -   **frugal**
+
+                -   my family understood **the value of a dollar**
+                -   our household operates on **a fairly well-thought-out annual budget**
+
+            -   Become **economically productive adults**
+
+                -   education
+                -   **create an env** that **honors independent thougths and deeds**  
+                    **cherishes individual achievements**
+                    **rewards responsibility and leadership**
+
+            -   **more confident**, **more content**, **more able to deal with adversity**
+
+            -   **If one lives below ones' means**
+
+                -   one doesn't have to be concerned with the possibility of being forced to reduce one's standard of living
+
+            -   **considerable courage** to work in an env
+
+                -   **taking financial risk** is evidence of courage
+                -   **the sales profession**
+
+            -   teach your children **discipline and frugality**
+                -   **be tough** - **there is no promise** of a rose garden
+                -   never say "poor me" or **feel sorry for yourself**
+                -   **say "yes" to those** who need help before they ask
+
+        -   Love
+            -   Give her your **full attention**
+                -   **Show that you're listening** by nodding, maintaining eye contact,
+                    **occasionally summarising** what she's said to ensure understanding
+            -   **Listen to her**
+                -   **Tell her what she feels is valid and justified**
+                    -   "I see why you're angry about it any person in your place"
+                -   **Hug her and tell her that you're here whenever she needs**
+
+    -   BUSINESS
+
+        -   知识 AI
+
+        -   **Build relationships** that will have a significant impact on your life over time
+
+            -   **mentors** give you **advice** and **perspective**
+
+                -   a mentor can help you **broaden your functional expertise**,
+                    grow your **emotional intelligence**, and learn your company's **unwritten rules**
+
+            -   **sponsors** advocate on your behalf
+
+                -   sponsors advocate on your behalf and in some cases, directly present you with career advancement opportunities
+
+            -   **partner is an ally or peer** who can serve as a sounding board to **broaden your perspective**
+
+                -   this relationship is fuelled **by trust**, **a shared drive to succeed**, and **the recognition that you can do better together**
+
+            -   **competition**
+
+                -   competition between peers is inevitable.
+                    And, when **sed correctly**, it leads to improved performance, breakthrough ideas, and greater drive to get thing done
+
+            -   Mentee
+                -   Becoming a mentor will **teach you how to bring out the best in others**,
+                    **recognise their strength, give feedback, and coach**.
+                    in turn, it will push you to be better and to strive for more
+
+        -   CEO of Netflix on **managing your team like professional athletes and sports**
+
+    -   SKILLS
+
+        -   **Set better boundaries** at work
+
+            -   **have an agreement up front**
+
+                -   when everyone **consents to terms ahead of time**,
+                    **everyone knows what the objectives are** and **what to expect**, and there is usually less potential for opposition
+
+            -   Setting boundaries requires some **authority**,
+                **Briefly referring to the expertise** you bring to the table gives you additional power in boundary negotiations
+
+            -   Expect your boundaries to be challenged
+
+                -   don't get angry. **Think about it and make a choice**
+
+            -   **Ask clarifying questions before committing**, especially when you aren't clear on the right approach
+
+                -   **keep your questions open-ended** (how or what), so you'll be able to gather more information
+                -   do you have some ideas for the outcomes you want? what do you plant to do?
+
+            -   Say no indirectly, **offering alternatives** maintains the relatiosnhip and eases the negative below
+
+                -   "**It's just not possible for us** to spend taht amount of money o new bike this summer.
+                    **However, I'm happy to brainstorm with you** how you could earn some money and sell your old one.
+                    **Then we might be able to** contribute sth ot the cause."
+
+                -   "I can scale back what I give you and do it by Friday, **or** I can complete it and give it to you a week later"
+
+                -   "**I'm very excited about** taking this job, and **I understand** you want me to start right away,
+                    **but** I have a two-week vacation planned with my family. **would u like me** to start after I take my vacation or take the vacation after I start?"
+
+            -   Don't offer a parade of reasons when you say no
+
+                -   "**I wish we could**,**but we just can't**"
+
+            -   After a crisis, **reset the agreement**
+                -   "I will take over ..., **but** when you get back, **let's return to** our regular plan for..."
+
+    -   MEETUP
+        -   language
+        -   <美国谍梦>
+        -   Man untied
+
 #### 2024-08-19
 
 -   TODO
