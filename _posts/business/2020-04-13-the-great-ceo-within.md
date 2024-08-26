@@ -123,11 +123,72 @@ abstract: "Notes on the management skills in the practical part"
                 -   detect the subtle social clues
 
     -   ch3 are you a good boss - or a great one?
-        -   TODO
+
+        -   management is **responsibility but done by exerting influence**
+
+            -   prep
+
+                -   begin with **a quick preview of the coming day's events**
+
+                -   **how use the event to develop** as a manager
+
+                    -   how you can work on your specific learning goals
+                    -   **how you might do that** -
+                        **to whom**,
+                        **what questions** you should ask,
+                        **what boundaries or limits** you should set,
+                        **what preliminary coaching** you might provide
+
+                -   before taking any action, **step back and consider how it might help** you become better
+
+            -   do
+
+                -   use the new and different approaches you planned
+
+            -   review
+
+                -   **examine what you did** and **how it turned out**
+
+                    -   **which actions worked well**? what might you have done differently?
+                        **compare** what you did with what you might have done.
+                        did u practice any new behaviors or otherwise make progress on your journey?
+
+                    -   keep notes about **how you spend your time**,
+                        **along with thoughts** about what you learned
+
+        -   Manage yourself
+
+            -   **From people's trust** in you as a manager
+
+                -   **belief in your competence** - you know **what to do** and **how to do** it
+                -   **belief in your character** - **your motives** are good and you want your people to do well
+
+        -   Manage your network
+
+            -   **with integrity and for good ends**, they **proactively engage the organization to create the conditions** for their success
+
+            -   they **build and nurture a broad network of ongoing relationships** with those they need and those who need them;
+                that is how they influence people over whom they have no formal authority
+
+            -   they also **take responsibility for making their boss** , a key member of their network, a source of influence on their behalf
+
+        -   Manage your team
+
+            -   **team culture**
+
+                -   team's **values, norms, and standards** are;
+                    how members are expected to **work together** (what kind of conflict is acceptable or unacceptable)
+                    how they should **communicate**
+
+            -   **provide the attention members need**, but always in the context of the team
+
+            -   **know how to lead a team through the work** it does to make progress toward the goal
 
 -   Build Trust and Listen
 
 -   Give Feedback and Motivate
+
+    -   TODO
 
 -   Manage Everyone Effectively
 
