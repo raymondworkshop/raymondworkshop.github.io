@@ -49,7 +49,21 @@ abstract: "a master self-observer"
 
         -   **Self-assurance**
 
-            -   you have confidence not only in your abilities but in your judgment.
+            -   you have confidence not only in your **abilities** but in your **judgment**
+
+                -   when you look at the world, you know that **your perspective is unique and distinct**.
+                    and because no one sees exactly what you see, you know that no one can make your decisions for you
+
+                -   No one can tell you what to think. They can **guide**. They can **suggest**.
+                    But **you alone have the authority to form conclusions, make decisions, and act**.
+                    This authority, this **final accountability for the living of your life**, does not intimidate you.
+                    On the contrary, it feels natural to you.
+
+                -   No matter what the situation, you **seem to know what the right decision is**.
+                    **This theme lends you an aura of certainty**.
+                    unlike many, you are not easily swayed by someone else's arguments, No matter how persuasive they may be.
+                    **This self-assurance** may be quiet or loud, depending on your other themes, but it is solid.
+                    It is strong ,like the keel of a ship, it withstands many different pressures and keeps you on your course.
 
             -   you have **faith in your strength**
 
