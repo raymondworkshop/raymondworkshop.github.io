@@ -186,9 +186,33 @@ abstract: "Notes on the management skills in the practical part"
 
 -   Build Trust and Listen
 
--   Give Feedback and Motivate
+    -   ch4 Do you really **trust your team**?
 
-    -   TODO
+        -   Trust they will **follow through on their responsibilities**
+
+            -   create an env that **encourages open communication**
+                -   bring a dashboard of their work
+                -   **set clear standards for assessing performance** at the start of a project
+                    -   this way everyone will know what is expected of them and be held mutually accountable for their actions
+                -   accproach those who may be struggling silently
+
+        -   Trust them to **bring good judgment**
+
+            -   talk them through with your team
+                -   **explain the subjective and objective criteria** you considered,
+                    **risks and tarede-offs** you assessed, and **stakeholder considerations**
+            -   **ask them guiding questions** when they make a poor judgment call
+
+        -   Trust them to **respect the psychological safety** of others
+
+            -   create a culture of appreciation
+            -   address bullying immediately
+
+            -   don't reward bad behavior
+
+    -   ch5 TODO
+
+-   Give Feedback and Motivate
 
 -   Manage Everyone Effectively
 
