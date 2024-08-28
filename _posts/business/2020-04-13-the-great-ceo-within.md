@@ -75,7 +75,7 @@ abstract: "Notes on the management skills in the practical part"
 
 -   What Being a Great Boss Means
 
-    -   ch1 **Pick up on the uniquness** and then to figure out how best to incorporate those enduring idiosyncrasies into the overall plan
+    -   **ch1** **Pick up on the uniquness** and then to figure out how best to incorporate those enduring idiosyncrasies into the overall plan
 
         -   her **strengths** -> self-assurance
             -   "What was **the best day at work** you've had in the past three months?"
@@ -96,7 +96,7 @@ abstract: "Notes on the management skills in the practical part"
                 -   view the complete picture
                 -   make her ride shotgun with one of your most experienced performers
 
-    -   ch2 Managing Authenticity - the paradox of great leadership
+    -   **ch2** Managing Authenticity - the paradox of great leadership
 
         -   Like **chameleons**, **capable of adapting to the demands of the situations they face and the people** they lead,
             yet they **do not lose their identities in the process**
@@ -122,7 +122,7 @@ abstract: "Notes on the management skills in the practical part"
                 -   prepare yourself by **learning about and understanding your own values**
                 -   detect the subtle social clues
 
-    -   ch3 are you a good boss - or a great one?
+    -   **ch3** are you a good boss - or a great one?
 
         -   management is **responsibility but done by exerting influence**
 
@@ -186,7 +186,7 @@ abstract: "Notes on the management skills in the practical part"
 
 -   Build Trust and Listen
 
-    -   ch4 Do you really **trust your team**?
+    -   **ch4** Do you really **trust your team**?
 
         -   Trust they will **follow through on their responsibilities**
 
@@ -210,7 +210,64 @@ abstract: "Notes on the management skills in the practical part"
 
             -   don't reward bad behavior
 
-    -   ch5 TODO
+    -   **ch5** **Open up to your team - without oversharing**
+
+        -   open up to your team while **still prioritizing their boundaries**, as well as your own
+
+            -   **ask yourself how much of your own worries you should reveal** when leading your team down a challenging or unfamiliar road
+
+        -   **identify your feelings**
+
+            -   take the time to **reflect on the emotion**
+
+            -   "**what exactly am I feeling**? Why? **What is the need behind this emotion**?"
+
+        -   need to **know how to manage your emotions**
+
+            -   control your words and body language
+            -   **understanding how much weight the people around you can bear**
+
+        -   **address your feelings** without becoming emotionally leaky
+
+            -   **don't have to go into more details**, but **acknowledging your feelings** helps to avoid unnecessary anxiety among your reports
+
+            -   "I'm having a bad day, but it's not becuase of you"
+
+        -   **provide a path forward**
+
+            -   aim to be **realistic but optimistic**
+            -   "Because of ..., **I'm feeling** .... But **here's what I'm planning to do next to make it better**: ...
+                And **here's what I need from you** ... What do you need from me?"
+
+        -   **avoid oversharing**
+
+            -   be curious about your own intentions
+
+            -   "**how would I feel if my manger said this** to me?"
+
+        -   read the room
+            -   **pair realism with optimism**, and **share when you sense it**
+            -   "**I'm feeling** a little tired today, **but I'm grateful for how well** we've worked together and
+                that we're set to send the client a proposal we can all be proud of"
+
+    -   ch6
+
+        -   TODO
+
+    -   **ch7** How to handle a disagreement on your team
+
+        -   use your **mediation skills** rather than your authority to meet everybody's interest
+
+        -   **start separately** and **build empathy**
+
+            -   **gain an understanding** of the disagreement and convincing each that you are willing to listen and anxious to understand their concerns
+            -   **using empathy** ("that must have been really hard for you") and not sympathy ("I feel sorry for what you have been through")
+
+        -   know from both people their **positions** (what each wants), **interests** (why, how the position reflects needs and concerns), and **priorities** (what is more and less important to each and why)
+            -   **asking "why?" or "why not?" to uncover** the interests that underlie their positions
+
+    -   **ch8** What Great Listeners Actually Do
+        -
 
 -   Give Feedback and Motivate
 
