@@ -267,9 +267,11 @@ abstract: "Notes on the management skills in the practical part"
             -   **asking "why?" or "why not?" to uncover** the interests that underlie their positions
 
     -   **ch8** What Great Listeners Actually Do
-        -
 
 -   Give Feedback and Motivate
+
+    -   ch9 give your team more-effective positive feedback
+        -   TODO
 
 -   Manage Everyone Effectively
 

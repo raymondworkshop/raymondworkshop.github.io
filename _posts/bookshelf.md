@@ -21,10 +21,11 @@ date: 2012-03-19
 
 -   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey (9/10)
 -   [The Millionaire Next Door](https://book.douban.com/subject/1620201/) by Thomas J. Stanley (8/10)
--   [HBR being a Great Bs] (10/10) (note: sth I don't experience before)
+-   [HBR being a Great Bs] (10/10) (note: a kind of self assurance, too)
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
--   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
+-   [HBR Guide to Bying a Small Business]
 -   [Software Design by Example](https://third-bit.com/sdxpy/)
+-   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 
 -   [Your Money or Your Life - 9 Steps to Transforming Your](https://book.douban.com/subject/3306520/) by Vicki Robin
 -   [HBR Guide to People Skills for a Virtual World Collection]
