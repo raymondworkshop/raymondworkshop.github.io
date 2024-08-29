@@ -271,7 +271,49 @@ abstract: "Notes on the management skills in the practical part"
 -   Give Feedback and Motivate
 
     -   ch9 give your team more-effective positive feedback
-        -   TODO
+
+        -   **providing effective feedback** is a crucial managerial skill
+            -   focus on **how you deliver the feedback**
+
+    -   **ch10** The right way to hold people accountable - responsibility to **an outcome**
+
+        -   clear expectations
+
+            -   summarize the important pieces
+                -   **the outcome** you're looking for, **how** they are going to achieve it
+
+        -   clear capability
+
+            -   what **skills**, what **resources** they need
+
+        -   clear measurement
+
+            -   **weekly milestones** with clear, measurable, objective targets
+            -   **brainstorm a solution**, identify a fix, redesign the schedule, or respond in some other way
+
+        -   clear feedback
+
+            -   **the feedback can be fact-based and easy to deliver** if you have clear expectations, capability, and measurement
+            -   "**is there sth you can be doint to be more helpful**?"
+
+        -   clear consequences
+            -   repeat
+            -   reward
+            -   release
+
+    -   ch11 You can't be a great manager if you're not a good coach
+
+        -   **Listen deeply**
+            -   your intention to clear your mind,
+                **listen with your full attention**,
+                and create a high-quality connection
+        -   Ask open-ended questions
+
+        -   **follow-up** any commitments
+
+        -   focus on **moving forward positively**
+            -   acknowledge your employee's frustrations,
+                but then **encourage her to think about how** to move past them
 
 -   Manage Everyone Effectively
 
