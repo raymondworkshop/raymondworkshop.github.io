@@ -270,10 +270,24 @@ abstract: "Notes on the management skills in the practical part"
 
 -   Give Feedback and Motivate
 
-    -   ch9 give your team more-effective positive feedback
+    -   **ch9** give your team more-effective positive feedback
 
-        -   **providing effective feedback** is a crucial managerial skill
+        -   Offering positive feedback
+
+            -   **the more specific** you are, the better
+
+            -   **make a list and praise team members for their contributions**
+
+            -   tell each individual **what you want them to start, stop, and continue doing**
+
+        -   **try to understand the emotions** the feedback recipient may be feeling
+
+            -   **explain the reason** for the feedback
+            -   **focus on the future**: what can your employee do to move forward?
+
+        -   **pay attention to your facial expressions** when you deliver feedback
             -   focus on **how you deliver the feedback**
+            -   give the feedback by **positive emotional signals** such as nods and smiles
 
     -   **ch10** The right way to hold people accountable - responsibility to **an outcome**
 
@@ -314,6 +328,26 @@ abstract: "Notes on the management skills in the practical part"
         -   focus on **moving forward positively**
             -   acknowledge your employee's frustrations,
                 but then **encourage her to think about how** to move past them
+
+    -   **ch12** Four Reasons Good employees lsoe their motivation
+
+        -   **Carefully assessing the nature of the motivational failure** - before taking action - is crucial
+        -   **Values mismatch** - I don't care enough to do this
+
+            -   **identify what your employee cares about** and **how the value links with the task**
+
+        -   lack of self-efficacy - I don't think I'm able to do this
+
+            -   explain that they have the ability to succeed **but may have misjudged** the effort
+                or invest more effort while expressing confidence
+
+        -   I'm too upset to do this
+
+            -   tell them you **wanna understand why** they are upset, and engage in active listening.
+                **Be nonjudgemental by** asking what the employee believes is causing them to be upset.
+
+    -   ch13
+        -   TODO
 
 -   Manage Everyone Effectively
 

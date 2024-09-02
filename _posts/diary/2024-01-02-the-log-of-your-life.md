@@ -6,6 +6,143 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-09-02
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   https://search.app/ihHPdf7ziCDkdyQd9
+
+            -   DONE
+
+        -   reading
+            -   [萨提尔的自我觉察练习]
+            -   [Emotional Intelligence]
+            -   [HBR Guide to Being a Great Bs]
+            -   [蛤蟆先生去看心理医生]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   SKILLS
+
+        -   Driving
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+    -   SELF
+
+        -   Self-assurance
+
+            -   **an internal confidence to try**, even though external uncertainty exists
+
+        -   Thiel searches for those rare individuals who **balance contrasting traits**
+
+            -   people who are both **analytical and creative**, **confident yet humble**
+
+        -   感觉好糟糕， 等待别人掌控自己的命运
+
+            -   不能自己掌控的感觉好糟糕
+            -   突然觉得好无助
+
+        -   He is very comfortable with himself
+            -   He knows what he wants
+
+    -   FAMILY
+
+        -   花时间**按照女人喜欢的方式谈话**
+
+        -   Listen to her
+
+            -   妻子闹情绪只是为了突出她对问题的强烈感受，
+                **妻子发泄不满或提出分歧，是为了维护婚姻的健康**，
+                避免太早提出实际的解决方法，**对她的感受产生同理心更重要**
+            -   妻子**希望自己的感受得到认同和尊重**
+
+                -   **让妻子感到丈夫愿意听她的话**，**愿意了解她的感受**， 她往往就会平静下来
+
+            -   show you're listening, and **summarising what she said**
+                -   **对妻子重复同样的话**，其目的不仅在于**了解妻子的想法**，还在于**努力领会妻子的感受**
+
+        -   Tell her **what she feels is valid and justified**
+
+            -   "**I see why you're angry about** it"
+            -   Hug her and **tell her that you're here when she needs**
+
+        -   夫妇之间有“良好的沟通”
+            -   **尊重和爱** 可以瓦解婚姻中的敌意
+            -   情绪竞争力 - 冷静， 同理心， 善于倾听， 能使夫妇有效地解决争端
+
+    -   BUSINESS
+
+        -   Begin each morning with **a quick preview of the coming day's events**
+
+            -   **ask yourself how you can use it to develop** as a manager
+                -   **think about how you might do that** - **to whom, what questions** you should ask,
+                    **what boundaries or limits** you should set, **what preliminary coaching** you might provide
+            -   before taking any action, **step back and consider how it might help you** become better
+
+        -   Management - **Pair realism with optimism**
+
+            -   Do u use your formal authority effectively?
+
+                -   you **make clear why you do what you do** - and even share your authority with others when possible and approprate
+                -   you **focus more on the responsibilities that come with authority** than on the personal privileges it provides
+                -   consider it **a useful tool but not your primary means** of influencing others
+
+            -   Do u create **thoughtful but not overly personal relationships**?
+
+                -   your relationships are rich in human connections but **always focused on the purpose and goals of the team**
+
+            -   Do others trust you as a manager?
+
+                -   people, particularly your own, **believe in your competence, intentions, and values**
+                -   you demo **concern for their individual success**
+
+            -   Do you exercise your influence ethically?
+
+                -   you consistently **identify stakeholders**, **weight their interests**
+                    and try to **mitigate any harm that your actions** may cause as you attempt to accomplish a greater good
+
+            -   Do you proactively **build and maintain your network**?
+
+                -   you **create and sustain relationships with those** in your network,
+                    **connect frequently with them**, and **support their needs**
+
+            -   Do you **define and constantly refine your team's vision** for the future?
+                -   you've defined by **your team's purpose and the goals**, **strategies**, and **actions** that will take you there.
+                    you constantly **gather information**, discuss your plans with others, and refine your ideas.
+
+        -   Build confidence at work
+
+            -   **connect with yourself**
+
+                -   take the time to **understand who you are**, **where your motivations lie**, and **what makes you unique**
+                -   remember that **your uniqueness is valuable**.
+                    **You have sth important to share**, no matter how obvious or uninspiring it may seem to you
+
+            -   Focus on **building confident behaviors**
+                -   know that ny mindset shift is going to take time.
+                    **Start small** and be deliberate about each effort
+
+    -   SKILLS
+
+        -   **很多问题都不存在一个简单的答案**
+            -   **哪一种选择**的正确概率更大，或者损失更小，而不是求全责备
+        -   学车
+
+    -   MEETUP
+        -   badminton @shenzhen
+            -   GOOD
+        -   <美国谍梦>
+
 #### 2024-08-26
 
 -   TODO
@@ -137,7 +274,7 @@ abstract: "a master self-observer"
                     **occasionally summarising** what she's said to ensure understanding
             -   **Listen to her**
                 -   **Tell her what she feels is valid and justified**
-                    -   "I see why you're angry about it any person in your place"
+                    -   "**I see why you're angry about** it any person in your place"
                 -   **Hug her and tell her that you're here whenever she needs**
 
     -   BUSINESS
