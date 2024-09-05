@@ -23,12 +23,13 @@ date: 2012-03-19
 -   [The Millionaire Next Door](https://book.douban.com/subject/1620201/) by Thomas J. Stanley (8/10)
 -   [HBR being a Great Bs] (10/10) (note: a kind of self assurance, too)
 -   [薩提爾的自我覺察練習](https://www.logos.com.hk/bf/acms/content.asp?site=logosbf&op=show&type=product&code=9789863986003)
--   [猫鱼](https://book.douban.com/subject/36659710/) by : 陈冲
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
+-   [The Almanack of Naval Ravikant] by Eric Jorgenson
+-   [猫鱼](https://book.douban.com/subject/36659710/) by 陈冲
+-   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 
 -   [Software Design by Example](https://third-bit.com/sdxpy/)
 -   [HBR Guide to Bying a Small Business]
--   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 
 -   [Your Money or Your Life - 9 Steps to Transforming Your](https://book.douban.com/subject/3306520/) by Vicki Robin
 -   [HBR Guide to People Skills for a Virtual World Collection]
