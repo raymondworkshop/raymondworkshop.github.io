@@ -8,4 +8,6 @@ categories: [notes, home, education, self, important]
 abstract: "On Self Assurance"
 ---
 
+#### notes on <薩提爾的自我覺察練習>
+
 #### On Self Awareness
