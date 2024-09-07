@@ -10,7 +10,7 @@ abstract: "On Education and  Learning"
 
 > <del><small>關於教育 - 摘錄自《魔鬼老大，天使老二》</small></del> <br/>
 
-#### Notes from Bruce Lee （learning from experience and observations）
+#### Note from Bruce Lee (from experience and observations）
 
 The best way of learning is not through the computation of information.
 

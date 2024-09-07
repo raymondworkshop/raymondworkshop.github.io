@@ -7,7 +7,7 @@ categories: [home, writing]
 abstract: "notes on 《十年一覺電影夢》from 李安 (Ang Lee) "
 ---
 
-> <small>notes on 《十年一覺電影夢》from 李安 (Ang Lee) </small>
+> <small>note on 《十年一覺電影夢》from 李安 (Ang Lee) </small>
 
 #### 2022 understanding movies
 
