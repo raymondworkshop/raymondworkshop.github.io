@@ -5,12 +5,12 @@ date: 2020-12-20
 update: 2022-01-22
 comments: true
 categories: [notes, education]
-abstract: "On Education and  Learning "
+abstract: "On Education and  Learning"
 ---
 
 > <del><small>關於教育 - 摘錄自《魔鬼老大，天使老二》</small></del> <br/>
 
-#### Notes from Bruce Lee
+#### Notes from Bruce Lee （note: on empiricism）
 
 The best way of learning is not through the computation of information.
 
@@ -18,13 +18,13 @@ The best way of learning is not through the computation of information.
 
 **The ability to really see** is something like "I am experiencing this; now I feel this; now I don't want to work anymore; now I am bored." and sequently the world is opening up.
 
-#### 第一章 来自于 《魔鬼老大，天使老二》
+#### ch1 来自于 《魔鬼老大，天使老二》
 
 **喜歡创造的感觉** - 在自己手里花长时间创作出完美的作品，在职业上从技术转向产品。
 
 **关注他们的智力和技能，也会关注他们的情感和品德。都需要成长为快乐的，独立的，有用的人。**
 
-#### 第二章 智力开发和习惯
+#### ch2 智力开发和习惯
 
 专注的能力 - 专注做一件事情
 
@@ -44,7 +44,7 @@ The best way of learning is not through the computation of information.
 
 **学理需要懂得逻辑缘由。 学理的目标是理解：他需要懂得每一个步骤背后的概念和逻辑**。
 
-#### 第三章 创造力
+#### ch3 创造力
 
 **大量阅读高质量小说的孩子往往更有创意，更容易保持对世界的新鲜感。**
 
@@ -66,11 +66,11 @@ The best way of learning is not through the computation of information.
 
 东方教育的孩子有硬技能却不能活学活用，害怕不确定性，不愿冒险。如能加上西方教育的**创造性，实用性**，敢于探索的精神，就能成最优秀的人。
 
-#### 第四章 更幸福
+#### ch4 更幸福
 
-我国应试教育最大的问题是 孩子**丧失了“享受做事”的能力**。 认识了不少美国的程序员，他们都很热爱编程。编程是用一个完美的逻辑解决问题，是一个很享受的过程。我们**缺失了这种忘我的快乐**。 **真正享受过程的人**。
+应试教育最大的问题是 孩子**丧失了“享受做事”的能力**。 认识了不少美国的程序员，他们都很热爱编程。编程是用一个完美的逻辑解决问题，是一个很享受的过程。我们**缺失了这种忘我的快乐**。 **真正享受过程的人**。
 
-**走向“精通”(mastery)**，是更内在的。**大师，不靠外人评价其功夫高低**。**掌握一件事，可以不断地追求，不断做得更好，也可以一次一次反复做。整个到达精通的过程就是享受的过程**。
+**走向“精通”(mastery)**，是更内在的。**大师，不靠外人评价其功夫高低**。**掌握一件事，可以不断地追求，不断做得更好，也可以一次一次反复做。整个到达精通的过程就是享受的过程** (flow)。
 
 一个人幸福与否往往在于他的内心，在于他看问题的角度。**西方文化精华的一部分在于心平气和的态度**。 如果真遇到不幸的事，不是去怪罪命运，而是**接受已经发生的，甚至把挫折看作计划**。
 
@@ -92,7 +92,7 @@ The best way of learning is not through the computation of information.
 
 **领导力包含许多方面：对不同背景的人的理解和激励，见识，阅历，耐心，以及在困难情况下做决定的能力**。
 
-#### 第五章 - 身教比言传更重要
+#### ch5 - 身教比言传更重要
 
 **钱是工具，它是为我们服务的**。
 
@@ -107,4 +107,4 @@ The best way of learning is not through the computation of information.
 
 **家，社区是最温暖的地方，是属于我们自己的东西：亲密的朋友，家人，熟悉的歌曲，任何时候伸出双手就可以触及的信任和亲情。**
 
-#### 第六章 - 放大快乐
+#### ch6 - 放大快乐

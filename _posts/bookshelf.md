@@ -27,9 +27,9 @@ date: 2012-03-19
 -   [The Almanack of Naval Ravikant] by Eric Jorgenson
 -   [猫鱼](https://book.douban.com/subject/36659710/) by 陈冲
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
-
--   [Software Design by Example](https://third-bit.com/sdxpy/)
+-   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
 -   [HBR Guide to Bying a Small Business]
+-   [Software Design by Example](https://third-bit.com/sdxpy/)
 
 -   [Your Money or Your Life - 9 Steps to Transforming Your](https://book.douban.com/subject/3306520/) by Vicki Robin
 -   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
@@ -39,7 +39,6 @@ date: 2012-03-19
 -   [Business Made Simple](https://book.douban.com/subject/35956375/) (8/10)
 -   [蛤蟆先生去看心理医生] (6/10)
 
--   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
 -   [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore
 -   [Mythical Man-Month](https://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959/?tag=daniellemires-20) by Frederick Brooks Jr.
 
