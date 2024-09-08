@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Notes on The Open-Source Community"
+title: "Note on The Open-Source Community"
 date: 2018-11-07
 comments: true
 categories: [home, programming, system]
-abstract: "Notes on The Open-Source Community"
+abstract: "Note on The Open-Source Community"
 ---
 
 #### Unix Standards
@@ -49,6 +49,6 @@ Most contributors in Open-source development are **volunteers contributing** in 
 
 #### reference
 
-- [Producing Open Source Software](https://producingoss.com/en/index.html)
-- The Art of Unix Programming
-- [Figuring out how to contribute to open source](https://jvns.ca/blog/2017/08/06/contributing-to-open-source/)
+-   [Producing Open Source Software](https://producingoss.com/en/index.html)
+-   The Art of Unix Programming
+-   [Figuring out how to contribute to open source](https://jvns.ca/blog/2017/08/06/contributing-to-open-source/)
