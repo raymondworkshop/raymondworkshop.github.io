@@ -6,6 +6,113 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-09-09
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   https://search.app/ihHPdf7ziCDkdyQd9
+
+            -   DONE
+
+        -   reading
+            -   [萨提尔的自我觉察练习]
+            -   [Emotional Intelligence]
+            -   [HBR Guide to Being a Great Bs]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   demo
+
+    -   SKILLS
+
+        -   Driving
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+
+        -   **I know who I am in your love**
+
+    -   SELF
+
+        -   **顺者别人的话说**
+
+            -   幽默
+
+        -   **Being Vulnerable**, **no shame**
+
+            -   The important thing is that **you can have a good time**, **build a network, build some trust, have a good time**
+                -   **humility can be interpreted as a lack of conviction**
+                    -   **It's ok I am imperfect**
+                    -   **it's ok I am fallible**
+                    -   **I can learn, committed**
+                    -   **I am engaged, ambitious**
+                -   The important thing is not you're good at everything
+
+        -   **只有经由人的经验获得的观念**才可能为真
+
+            -   我们的**一切知识都是建立在经验之上的**，而且最后是导源于经验的
+            -   **对外界物质**的东西的感觉
+            -   内在感官 如思考，怀疑， 信仰，推理， 认知等**反省的对象**
+
+            -   **感官** - 自由 - 理性 - 判断
+                -   自然法 - 自然权利
+                -   社会契约 - 宪法 - 制定法 （公民）
+
+        -   活在**真实的世界里**， 可能要承受一些痛苦
+
+            -   严重的精神创伤
+            -   她怎么可能再**信任别人**
+            -   她可能再也**无法分辨真相与谎言**
+
+        -   **你要设定好自己的感觉跟目标**， 而不用企图要改变别人
+            -   我就是会好好的按照我的标准来完成我该完成的事情
+            -   如果**对自己有企图心**， 应该可以找到途径来修炼自己
+            -   **感谢别人的夸奖但不能相信**， **要清楚自己的感受**
+            -   你最好努力表达， 别人没有义务理解你
+                -   **表达让别人知道你有需求**
+            -   **所有事都不遥远也不崇高**，**一处理就会有进展**，然后自己受的苦就会有进展
+                -   **只要稍微往你想要的方向迈进，完成千分之一就很了不起**
+
+    -   FAMILIES
+    -   BUSIENSS
+
+        -   demo
+
+            -   cannot work on pythonanywhere, render, and google cloud
+            -   mac mini as a home workstation server
+
+        -   变色龙
+
+        -   必须**改变同事和老板对你的看法**
+
+            -   把努力工作和**适度的自我推销结合**起来，会产生多好的效果
+            -   要**分析最近取得的成就**以及**这件事的影响**
+            -   倚重数据来支持自己的业绩
+            -   列出自己的职责- 对其他要求说不
+
+        -   ideas
+            -   AI 驱动的专家平台
+                -   让 AI 为客户工作
+
+    -   SKILLS
+
+        -   driving
+        -   badminton
+            -   feel good
+
+    -   MEETUP
+
 #### 2024-09-02
 
 -   TODO
