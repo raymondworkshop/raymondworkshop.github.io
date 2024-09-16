@@ -7,6 +7,19 @@ categories: [learning, todo]
 abstract: "TODO -  driving"
 ---
 
+#### 2024-09-12
+
+-   **改变行车位置**
+
+    -   望左右镜
+
+-   转弯轮胎盘控制不当
+
+    -   不要扭太多
+
+-   TODO
+    -   [香港學車資訊及考車攻略](https://www.drivingking.hk/tipsfront)
+
 #### 2024-09-09
 
 -   **观察路况**

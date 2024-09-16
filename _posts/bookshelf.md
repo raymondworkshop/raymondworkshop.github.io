@@ -21,7 +21,7 @@ date: 2012-03-19
 
 -   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey (9/10)
 -   [The Millionaire Next Door](https://book.douban.com/subject/1620201/) by Thomas J. Stanley (8/10)
--   [HBR being a Great Bs] (10/10) (note: a kind of self assurance, too)
+-   [HBR being a Great Bs] (10/10) (note: kind of self assurance)
 -   [薩提爾的自我覺察練習](https://www.logos.com.hk/bf/acms/content.asp?site=logosbf&op=show&type=product&code=9789863986003)
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
 -   [The Almanack of Naval Ravikant] by Eric Jorgenson
@@ -31,8 +31,9 @@ date: 2012-03-19
 -   [HBR Guide to Bying a Small Business]
 -   [Software Design by Example](https://third-bit.com/sdxpy/)
 
--   [Your Money or Your Life - 9 Steps to Transforming Your](https://book.douban.com/subject/3306520/) by Vicki Robin
+-   [Your Money or Your Life](https://book.douban.com/subject/3306520/) by Vicki Robin
 -   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
+-   [The Making of a Manager](https://book.douban.com/subject/30379338/)
 -   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
 -   [事實與偏見] by Lai Chee-ying
 -   [The Art of the Deal](https://book.douban.com/subject/1817125/)
@@ -41,12 +42,11 @@ date: 2012-03-19
 
 -   [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore
 -   [Mythical Man-Month](https://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959/?tag=daniellemires-20) by Frederick Brooks Jr.
-
--   [The Making of a Manager](https://book.douban.com/subject/30379338/)
 -   [家人使用說明書](https://www.kobo.com/hk/zh/ebook/nq0y0iptaDyhGddlDIxTyQ) by 黑川伊保子
 -   [Benjamin Franklin——An American Life](https://book.douban.com/subject/2990595/)
 -   [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti
 -   [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)
+-   [飞鸟和池鱼](https://book.douban.com/subject/35426612/) by 张惠雯
 
 #### reading-2023
 

@@ -6,6 +6,133 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-09-16
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   https://search.app/ihHPdf7ziCDkdyQd9
+
+            -   DONE
+
+        -   reading
+            -   [萨提尔的自我觉察练习]
+            -   [Emotional Intelligence]
+            -   [HBR Guide to Being a Great Bs]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   demo
+
+    -   SKILLS
+
+        -   Driving
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+
+        -   重点和核心在于**内心感受神的爱**，而不是外在行为
+
+            -   找到正确逻辑通顺的解经资料，**感受耶稣的爱**，**感受喜乐幸福是爱他人的前提**
+
+        -   **When I run to you I feel safe**
+
+        -   **Connect group**
+            -   True friendship
+            -   Encouragement - **speak the truth in love**, growing in every way more and more like christ
+            -   personal growth
+
+    -   SELF
+
+        -   自我意识
+
+            -   了解**自身情绪**， 也知道**自己对该情绪的看法**
+            -   **在情绪发生的时候有所意识**
+
+        -   **partnership** skills
+
+            -   Focus on **solving the problem** rather than winning the battle
+            -   move us into **a learning mode**, move us out of a survival mode
+
+                -   to be the **leader where she found comfort and support**
+                -   become that **calm, confident leader that allowed Sal to make mistakes** and to learn from the mistakes
+                -   now Sal **see me as a source of support and comfort for her**
+
+            -   **Negotiations** like a dance
+
+                -   **understand your counterpart**, **to know what moviates them**,
+                    **what will influence them** to move down that path of agreemtn with you, of their own volition
+                -   you also **need to have flexibility** in how to achieve that goal
+
+            -   **Do you research** - homework
+
+                -   **what do you want**, and **what will make you walk away** from the table?
+                -   **build a solid rationale for why** you are above average that deceivers the task
+
+            -   **prepare mentally** for the negotiation
+
+                -   **accept obstacles and failures** are likely in a negotiation
+                -   emotional distancing
+                    -   **being less attached to any specific outcome**
+                -   if you **feel yourself getting upset, hurt** during a negotiation
+                    -   it's ok to **step back**
+                    -   "**let me think about this a little more**, **could we press pause and continue this tomorrow**?"
+
+            -   **put yourself in their shoes**
+                -   taking the time to **anticipate the other's needs and challenges**
+                -   **what pressures** may they be under?
+                    **what risks** would they be taking?
+                    do they even **have the power to give** you what you're asking for?
+                -   show you are ambitious, **you know what you want but you also care for** others
+                    -   "I'm asking for this **because I know it's good for** my team.
+                        That I **want to achieve** X and Y goals, and **I know this is what will enable it**."
+                -   import to **listen well**, to **ask why and why not**?
+
+        -   同理心
+
+            -   **想清楚自己的目标和期望**
+                -   不要过多铺陈， **带着开放而真诚的沟通态度**
+            -   保持**好奇心**
+                -   真心**想从对方身上学到东西**；
+                    试着**去了解对方的生活，文化，人际关系**
+            -   懂得**觉察有无偏见**
+                -   **倾听对方的谈话**，未必就要赞同对方；
+                    倾听的**目的在于了解**，不是认同； 但要注意不要过早下判断或归类
+            -   **尊重对方观点**
+            -   不要离题
+                -   **沉默**远比离题更好
+            -   划下好句点
+
+    -   FAMILIES
+    -   BUSINESS
+        -   Put on **a good face as professional and positive**
+            -   **Own your reactions** and **don't debate or defend**
+                -   **becoming curious about yourself** **where is this emotion really coming from**?
+            -   **reflect and evaluate**
+                -   **learn from it**, which parts to work on, what parts to disregard, what parts require deeper understanding
+    -   SKILLS
+
+        -   课题分离
+
+            -   **当事情发生时**，**每个人只要做好自己该做的事情就好**，**其他跟自己无关的事情通通不管**
+            -   当做了某个决定或行为，**最后带来的结果是由谁来承担**
+
+        -   driving
+
+    -   MEETUP
+        -   language
+        -   hiking
+
 #### 2024-09-09
 
 -   TODO

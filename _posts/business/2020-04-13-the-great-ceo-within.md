@@ -346,10 +346,62 @@ abstract: "Notes on the management skills in the practical part"
             -   tell them you **wanna understand why** they are upset, and engage in active listening.
                 **Be nonjudgemental by** asking what the employee believes is causing them to be upset.
 
-    -   ch13
-        -   TODO
+    -   **ch13** - Get Honest, Productive Feedback
+
+        -   **build a psychologically safe environment**
+
+            -   **Being curious** to have sth useful to learn
+            -   ask open-ended questions
+
+        -   when receiving feedback, **listen carefully**, and vevaluate the accuracy\*\* of the message
+
+        -   **don't debate or defend**
+
+            -   if you find yourself disagreeing with some feedback,
+                **practice self-awareness** and **notice this reaction**,
+                but **do not offer contradictory evidence or challenge your colleague**
+
+        -   **own your reactions**
+
+            -   **recognize that your reactions are about you**, and not the other person
+            -   it's **your responsibility to own and explore your reactions**.
+                **becoming curious about yourself**, ask
+                **where is this anger really coming from**? what about this is confusing?
+                **what part of the message is actually true for me**, even if I don't wanna acknowledge it?
+
+        -   **let them know how much you appreciate their effort and courage**
+
+        -   **reflect and evaluate**
+
+            -   by thinking through the meaning and implication of the feedback,
+                you can **learn from it** and **consider what parts to work on**,
+                **what parts to disregard**, and **what parts require deeper understanding**.
+
+        -   make a plan and take action
+
+            -   **pick one or two capabilities** you wanna improve,
+                **get really clear about what "improved" looks like**,
+                and then consider the steps necessary for you to learn and adopt that new behavior.
+
+        -   sustain progress and **share updates**
+            -   you need to repeat new behaviors for 2 months to **become new habits**
+            -   **tell them what you are doing differently**,
+                give them a catalyst to **change their perspectives**
+                and the opportunity to see you as a person who is committed to your professional development
 
 -   Manage Everyone Effectively
+
+    -   ch14
+    -   ch15
+    -   ch16
+    -   **ch17** - how to manage someone you don't like
+        -   focus on **why you are reacting the way you are**
+            -   **be honest with yourself about what situations or attributes** make you most irritated
+            -   is the individual or someone they remind me of?
+            -   am I afraid of being like this person?
+            -   are they a member of a group that I have issues with?
+        -   **put on a good face as professional and positive**
+            -   the onus is on you to remain fair, impartial, and composed
 
 -   Help All Employees Thrive
 
