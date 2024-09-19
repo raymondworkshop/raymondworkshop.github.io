@@ -131,6 +131,14 @@ abstract: "a master self-observer"
 
     -   MEETUP
         -   language
+
+            -   建立信任
+
+                -   经常参加/花时间陪伴
+
+            -   自信？
+            -   过于真诚？
+
         -   hiking
 
 #### 2024-09-09
