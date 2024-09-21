@@ -41,7 +41,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
             -   Master your emotions
                 -   Don't give away your emotions for free
             -   压力
-                -   **写下来，辩真伪**； 伪->不管； 真- 定解决方案
+                -   **写下来，辩真伪**； 伪->不管； 真 - 定解决方案
                 -   内心戏 - 叫停内心戏的关键在于**觉察**，一旦觉察在内心编故事，**赶快叫停止损**
 
     -   **My Self is loved**
@@ -190,7 +190,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
     -   Self care - **Don't give away your emotions for free**
 
-        -   **stop feeling guilty for choosing peace over peole**, you are the first
+        -   **stop feeling guilty for choosing peace over people**, you are the first
         -   **stop feeling responsible for** how they treat you
         -   it is not your worth and not you
 
