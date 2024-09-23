@@ -25,6 +25,7 @@ date: 2012-03-19
 -   [薩提爾的自我覺察練習](https://www.logos.com.hk/bf/acms/content.asp?site=logosbf&op=show&type=product&code=9789863986003)
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
 -   [The Almanack of Naval Ravikant] by Eric Jorgenson
+-   [The Coaching Habit](https://www.goodreads.com/book/show/29342515-the-coaching-habit) by Michael Bungay Stanier
 -   [猫鱼](https://book.douban.com/subject/36659710/) by 陈冲
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 -   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)

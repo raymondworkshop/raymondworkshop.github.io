@@ -6,6 +6,99 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-09-23
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   https://search.app/ihHPdf7ziCDkdyQd9
+
+            -   DONE
+
+        -   reading
+            -   [萨提尔的自我觉察练习]
+            -   [Emotional Intelligence]
+            -   [HBR Guide to Being a Great Bs]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   demo
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+
+        -   **我的存在本身就极为珍贵**，**这也是我被爱，接纳的原因**
+
+            -   **我是上帝的孩子**，**独一无二**，**极为珍贵**。
+                没有任何人或任何事物，包括我自己在内，能让我的价值，多一分或少一分。
+            -   我不再需要通过永无止息的劳作或傲人的成就，来赢取别人的爱和接纳。
+                **我可以选择，自由自在地活出我自己**。
+
+        -   **生命需要不断和过去的经验挥别**，才有机会，活出新的可能
+
+    -   SELF
+
+        -   **自己的命运自己掌控**
+
+            -   当命令变成自杀， 效忠很容易就变得毫无意义
+
+        -   **倾听那些有助提升自己**， 而不是埋汰你的消极观点
+
+    -   FAMILIES
+
+        -   Love
+
+            -   我清楚的看见你
+            -   “我也希望 ...”
+
+        -   情绪价值
+            -   用他正面情绪带你更积极和乐观
+            -   **有效沟通**，**暖心安慰**，**适时的夸赞和鼓励**
+            -   尊重你的观点和行为
+            -   心平气和的沟通
+
+    -   BUSINESS
+        -   **向对方明白说出你的目标和期望**
+            -   先想清楚自己的期望
+            -   想想自己有何感受
+    -   SKILLS
+
+        -   **个人意识**
+
+            -   **没有自我意志**，**很难有道德底线**， 没办法担当
+            -   **人性本身**的肯定
+                -   **对人本身**的拓展
+                -   感受到生命力， 而不是一个口号
+                -   非常个体的冲动，对天空，对航空的一种激情，一种偏好
+            -   太难做自己
+                -   **需要独处**
+            -   **要知道自己在迎合**
+            -   **会更宽容一些**，这种**宽容是一种理解**
+                -   **拓展我的地平线**，对人生，人性的认知
+
+        -   国人的聚会
+
+            -   有自己的目的
+            -   多听少讲
+            -   顺着别人讲
+
+        -   driving
+            -   fail
+
+    -   MEETUP
+        -   language
+        -
+
 #### 2024-09-16
 
 -   TODO
@@ -130,6 +223,7 @@ abstract: "a master self-observer"
         -   driving
 
     -   MEETUP
+
         -   language
 
             -   建立信任
