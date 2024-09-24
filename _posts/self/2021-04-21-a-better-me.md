@@ -9,7 +9,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
 #### Training
 
--   goal
+-   Goal
     -   know me better
     -   build good relationships
     -   build trust
@@ -76,7 +76,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
     -   创造力 + 领导力
 
-        -   invest your creativity, skills and efforts into solving big/hard problems\*\* and you will receive big rewards
+        -   invest your creativity, skills and efforts into solving big hard problems and you will receive big rewards
         -   if the work doesn't require **creativity**, **delegate it, automate it, or leave it**
         -   it's **leveraged versus un-leveraged**
             -   forget rich versus poor, white-collar versus blue
@@ -138,7 +138,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         -   entrepreneurs
         -   don't expect fake people to be real with you
 
-        -   当我们不再愿意和拒绝改变的老朋友老同事来往时，我们会有负罪感。
+        -   当我们不再愿意和拒绝改变的老朋友老同事来往时，我们会有负罪感
             -   **这是成长的代价**，也是成长的标志
             -   **在路途中寻找同行者**，而非拽着人一起上路 - 选择
 
