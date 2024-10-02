@@ -2,18 +2,101 @@
 layout: post
 title: "[Improving] A better me -> to be great"
 date: 2021-04-21
+update: 2024-09-25
 comments: true
 categories: [learning, self, insight, important]
 abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great"
 ---
 
-#### Training
+#### Basic Training on [benchmark](https://benchmarktrainings.com/)
+
+-   Review
+
+    -   **留意你的感受**， 行为， 言语
+
+    -   增强自己的语言能力
+
+    -   不够自信
+
+        -   自信心 - **控制和掌握自己的身体，行为和世界的感觉**
+
+            -   孩子认为自己所从事的活动获得成功的可能性较大， 而且**成年人会提供帮助**
+
+        -   自信是 对自己有合适， 客观的看法 - 全然接纳真实的自我
+        -   being assertive in a **polite, courteous, and respectful** way
+
+    -   不够 **open**
+
+        -   害怕更多责任
+
+        -   如果对方有 sharing 或交谈过， 会更相信对方
+        -   外貌气质其实对自己的选择很有影响
+
+    -   **Be**, do, have
+
+        -   Do, have, be
+
+    -   **Intention** is all -> action
+
+        -   If the result is not what you wanna, check your intention
+
+        -   **意图不明**，造成不确定性， 会造成很大的困扰
+
+    -   害怕更多责任
+
+        -   **Responsibility** is an attitude
+        -   no victim
+
+    -   **Win-win**
+
+        -   多黑牌，少红牌
+        -   trust
+
+    -   你害怕别人看见你的什么
+
+        -   背叛
+
+            -   **怕背叛和被背叛** -> 先背叛
+
+        -   **多黑牌，少红牌**
+
+            -   trust
+            -   win-win
+
+        -   不够诚实
+
+            -   在意成就和地位， 希望别人高看自己
+
+        -   不想成为焦点
+            -   害怕别人的 judgement
+                -   香港人真是好好， 老是**鼓励你，包容你**
+            -   害怕更多责任
+
+    -   父亲对自己影响最大
+
+        -   回想到父亲
+
+    -   老回想自己的言行
+
+        -   没有睡好
+
+    -   我们都是普通人
+        -   有些政治化
+        -   意识形态化
+            -   不是现实决定理论，而是理论决定现实
 
 -   Goal
+
     -   know me better
-    -   build good relationships
-    -   build trust
-    -   being confident
+
+        -   good relationships
+        -   cooperation and communication
+        -   confident
+            -   自信是 对自己有合适， 客观的看法 - 全然接纳真实的自我
+            -   self-respect is true confidence
+            -   being assertive in a polite, courteous, and respectful way
+        -   trust
+            -   cooperation first, then competent
 
 ### TODO
 

@@ -6,6 +6,188 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-09-30
+
+-   TODO
+
+    -   GOD
+
+    -   SELF
+
+        -   reading
+            -   [萨提尔的自我觉察练习]
+            -   [Emotional Intelligence]
+            -   [HBR Guide to Being a Great Bs]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   demo
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
+-   REVIEW
+
+    -   GOD
+    -   SELF
+
+        -   自信心 - **控制和掌握自己的身体，行为和世界的感觉**
+
+            -   孩子认为自己所从事的活动获得成功的可能性较大， 而且**成年人会提供帮助**
+            -   港人真是好好， **老是鼓励你，包容你**
+
+            -   自信， 更多是 **内在对自己的认同** 和 **对他人的认同**
+
+                -   对自己有合适，客观的看法
+
+            -   **being assertive** in a polite, courteous, adn respectful way
+                -   如果有好想法，就说出来
+                -   有需要就一定会说出来
+
+        -   会玩
+
+            -   音乐
+
+        -   社交技能
+
+            -   有效协调团队工作
+                -   **在达成一致意见时起到领导**作用
+            -   **从他人的角度看待问题**， 比如顾客或对立面的角度
+            -   善于说服他人， 促进合作，避免冲突
+            -   **积极主动， 能够自我激励**， 勇于**承担本职工作之外的责任**
+            -   **善于自我管理**， 在时间和工作承诺之间取得平衡
+
+        -   提升对情绪的敏感度
+
+            -   要**能够解读他人的情绪**外， 也能适当地表达自己的情绪
+            -   学会**适时地跳脱规则与框架**， 发挥创意，解决问题
+
+            -   **识别和恰当回应别人**的感受和关切
+
+                -   让宝宝确认她的感受得到了**情绪回应**
+                -   "I am curious to know ..."
+
+            -   社交技能
+                -   **积极主动， 能够自我激励**， 用于承担本职工作之外的责任
+
+        -   同理心对话
+
+            -   同理心的基础是 **自我意识**
+                -   我们**对自身的情绪越开放**， 就越善于理解情绪
+                -   **没有自我意志**， **很难有道德底线**； 你没办法担当
+            -   **个体的冲动**， 对天空的一种激情，一种偏好
+
+                -   **对人本身的拓展**
+                -   拓展我的地平线， **对人生，人性的认知**
+                    -   会更宽容一些； 这种**宽容是一种理解**
+
+            -   每次开口前， 先**想一想这次对话的目的**
+                -   一定要察言观色， **注意对方释出的信号**
+                -   **关注他人的敏感性**， **以及根据这种认识作出相应反应**，保持联系的能力
+                    -   回答之前 问“**你在直升机上吗**？”
+
+    -   FAMILIES
+
+        -   **responsibity** is an attitude
+
+            -   if you do, own up to it
+            -   if you can do sth by yourself, don't ask for help
+            -   you should **ask for help when you really need it**
+
+                -   this shows people that you're **humble and know your limits**.
+                    It also shows that you're open to being vulnerable with others.
+                    This will gain people's respect.
+
+            -   真诚是 **体谅自己的同时 也体谅别人**， 而不是过多付出
+
+            -   Women are attracted to men who **take charge of their lives** and **make things happen**
+            -   if you want something, you'll have to **make efforts and achieve it**
+
+            -   no victim
+                -   **it's my best choice on that moment**, it's my decision
+                -   **share with friends**, and seek for the affirmation
+                -   I should take my part, and what I am learning
+
+        -   女人**寻求情绪的关联**
+
+            -   男人喜欢谈论“事情”
+
+        -   对男人
+
+            -   **不要回避冲突**， 妻子发泄不满或提出分歧，是为了维护婚姻的健康
+            -   **对她的感受产生同理心更重要**， 避免太早提出实际的解决方法
+            -   **妻子希望自己的感受得到认同和尊重**， 即便不赞同，也是有价值的
+
+        -   培养双方共同的**情绪智力**
+            -   **冷静，同理心， 善于倾听**， 能使夫妇有效地解决争端
+            -   **保持冷静**
+                -   学会舒缓自身的困扰情绪
+                    -   需要**对否面的想法进行监控**， **意识到我们不一定要相信这些想法**，
+                        并有意识地努力寻找质疑这些想法的证据或角度
+            -   **非辩护性的倾听和交谈**
+                -   **尊重和爱**可以瓦解婚姻中的敌意
+                    -   **丈夫对妻子重复同样的话**
+                -   交谈**必须围绕特定的问题**，不能升级为人身攻击
+                    -   “**当你做了 X, 我感到 Y**, **我希望**你转而做 Z”
+
+    -   BUSINESS
+
+        -   Star Manager
+            -   Bring achievement drive out to **help others find and achieve challenging goals**
+                -   learn to **step out of the spotlight** and **shine a light on others's accomplishments**.
+                    It makes them feel great, while inspiring their peers
+                -   learn to **balance your achievements with concern for others' desire** to do a good job, on their own terms
+                -   this starting with **self awareness**, then you need **empathy**, a willingness to **understand others**, and **self management**
+            -   learn to be **warm and authentic** with people who report to you
+                -   beware the **jealousy** factor
+                -   **shine a light on their successes**, **give them credit**, and **build them up**
+            -   learn to use your emotional intelligence to **understand why you act the way you do**
+                -   you need to **understand what drives you** and learn how to **use your motives to build positive relationships to serve others first**, yourself second
+
+    -   SKILLS
+
+        -   training on benchmarks
+
+            -   请**留意你的感受**
+            -   你**害怕别人看见你的什么**
+
+                -   **害怕背叛和被背叛** -> 先背叛
+                -   **take risk**
+                    -   **more trust** -> win-win
+
+            -   父亲对自己影响最大
+
+            -   **Intention is all** -> action
+
+                -   意图不明确 造成了 损害
+
+            -   **Be**, do, have
+
+                -   Do, have, be
+
+            -   自己经常陷入刚刚发生的复盘中
+                -   情绪压力
+
+        -   **直觉** - 情绪心理
+            -   情绪心理**可以立即理解情绪状况**（他对我生气，他很伤心）
+                **产生直觉判断**，告诉我们应该警惕谁，信任谁，谁收到困扰等
+            -   **感受先于想法**
+                -   我们**最强烈的感受是不由自主的反应**，我们无法选择我们会产生什么样的情绪
+            -   **触发情绪**
+                -   第一种冲动 **源于心灵**， 而不是大脑 - 即时认知
+                -   第二种情绪反应，包含进一步评估，我们的**想法，即认知**，在决定唤起什么情绪方面扮演关键角色 - 反省思考
+            -   情绪心理认为 **信念是绝对真理**， 因此低估任何反面的证据
+                -   **情感是自我辩白的**， 带有完全从自身出发的认知和“证据”
+                -   情绪心理的逻辑是 **联想性的**；
+                    情绪的发生**需要某种象征现实的因素**，或者触发某种与这种现实相同的**情绪记忆**。
+                -   **用情感的语言**进行演讲，用比喻，寓言，典故进行教导，触动广大门徒的心灵。
+                    宗教符号和仪式 是用心灵的语言表达出来，很少从理性触发。
+
+    -   MEETUP
+
 #### 2024-09-23
 
 -   TODO
