@@ -10,6 +10,25 @@ abstract: "a master self-observer"
 
 -   TODO
 
+    -   GOD
+
+    -   SELF
+
+        -   reading
+            -   [Emotional Intelligence - confidence]
+            -   [萨提尔的自我觉察练习]
+            -   [HBR Guide to Being a Great Bs]
+            -   [The Untethered Soul The Journey Beyond Yourself]
+
+    -   BUSINESS
+
+        -   demo
+
+    -   English/Cantonese
+
+        -   **Shadowing** on a daily basis
+        -   **follow the speech** at the same time
+
 -   REVIEW
 
     -   GOD
@@ -26,17 +45,37 @@ abstract: "a master self-observer"
 
         -   **学习表达**
 
-            -   一个人对你重要的话，就**要表现出来**  
+            -   一个人对你重要的话，就**要表现出来**
 
-        - 
+        -   Health
+
+            -   physical health
+                -   **dress well**
+                -   **exercise**, fit body
+            -   **emotional** health
+                -   master your emotion
+                -   **写下来**,**辨真伪**
+                    -   真,定解决方案
+                    -   假,不管
+                -   内心戏 - **觉察**
+                    -   一旦觉察在内心编故事,赶快**叫停止损**
+
+        -   **being a giving person** and having boundaries
+
+            -   **step back if you find yourself giving more energy** than you receive
+            -   self care
+                -   **don't give your emotions for free**
+                -   **stop feeling guilty for choosing peace over people**, you are the first
+
+        -   **focus on what you want** rather than what you don't wanna
 
         -   learn to control your emotions, and **share your problems with your peers and brothers** instead of women
 
         -   品行独立和自力更生的自由人
 
-            -   克制自己的欲望， **理性对待外部世界**
+            -   克制自己的欲望, **理性对待外部世界**
                 -   使自然欲望转为良好习惯
-                -   **争执的限度**，**与人相处的礼貌**
+                -   **争执的限度**,**与人相处的礼貌**
             -   知道**分寸**
 
                 -   之所以得到某个东西，不是因为能使他们感到高兴，而是因为**它适合于他们**
@@ -53,11 +92,11 @@ abstract: "a master self-observer"
             -   assertive
                 -   someone who is assertive behaves confidently and is not frightened to say what they want or believe
 
-        -   我很清楚每个阶段要做什么事情的人，**抓住我自己喜欢的点在哪里**
+        -   我很清楚每个阶段要做什么事情的人,**抓住我自己喜欢的点在哪里**
 
     -   FAMILIES
 
-        -   **让我的世界变得很丰富多彩**， 让我自己变得善良，耐心， 开心
+        -   **让我的世界变得很丰富多彩**, 让我自己变得善良,耐心,开心
 
         -   **洞察对方的想法**
 
@@ -66,6 +105,21 @@ abstract: "a master self-observer"
         -   非常有想法的一个人
 
     -   BUSINESS
+
+        -   understand **what drives you** and learn **how to use your motives to build positive relationships** to serve other first, you second
+
+            -   how can I be happy in my career?
+
+                -   opportunity to **learn**, grow in **responsibilities, contribute, and be recognised**
+                -   that's why **management**, if practiced well, can be the noblest of occupations.
+                    No others offer as many ways to help people find those opportunities
+
+            -   how can I be sure that my relationship with my family is an enduring source of hapiness?
+
+                -   guided by a clear sense of **purpose**
+
+            -   how can I live my life with integrity?
+                -   define **what you stand for** and **draw the line** in a safe place
 
         -   Leadership is about **coping with change**
             -   Management is about **coping with complexity**.
