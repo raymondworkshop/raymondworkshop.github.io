@@ -6,6 +6,111 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2024-10-07
+
+-   TODO
+
+-   REVIEW
+
+    -   GOD
+    -   SELF
+
+        -   **Intention** is all -> action
+
+            -   Intention
+            -   Do
+
+        -   **Responsibility** is an attitude
+
+            -   no victim
+
+        -   **学习表达**
+
+            -   一个人对你重要的话，就**要表现出来**  
+
+        - 
+
+        -   learn to control your emotions, and **share your problems with your peers and brothers** instead of women
+
+        -   品行独立和自力更生的自由人
+
+            -   克制自己的欲望， **理性对待外部世界**
+                -   使自然欲望转为良好习惯
+                -   **争执的限度**，**与人相处的礼貌**
+            -   知道**分寸**
+
+                -   之所以得到某个东西，不是因为能使他们感到高兴，而是因为**它适合于他们**
+                -   凡不能控制自己的爱好，不知道如何抗拒当下的快乐和痛苦的纠缠；
+                    以便听从理性的告诫的人，便缺乏德性和勤勉的真正原则，就有流为一无所能，一事无成的威胁
+
+            -   **Try your best**
+
+                -   then it's ok you lose
+
+        -   Confident
+
+            -   **being certain of your abilities** or **having trust in** people, plans, or the future
+            -   assertive
+                -   someone who is assertive behaves confidently and is not frightened to say what they want or believe
+
+        -   我很清楚每个阶段要做什么事情的人，**抓住我自己喜欢的点在哪里**
+
+    -   FAMILIES
+
+        -   **让我的世界变得很丰富多彩**， 让我自己变得善良，耐心， 开心
+
+        -   **洞察对方的想法**
+
+            -   在对的时间 给对方一些**情绪价值**
+
+        -   非常有想法的一个人
+
+    -   BUSINESS
+
+        -   Leadership is about **coping with change**
+            -   Management is about **coping with complexity**.
+                Its practices and procedures are largely a response to the emergence of large, complex organizations
+
+    -   SKILLS
+
+        -   **经验主义认识论** - 实证主义
+
+            -   **只有经由人的经验获得的观念才可能为真**，因为**他们的来源是绝对可靠的**；
+                **人没有能力发明制造任何简单观念**，正如盲人不可能有颜色的观念
+
+                -   **人类的心智在出生时是“空白的”** (blank)， 只有**透过经验才能发展其思想**
+
+            -   经验主义强调 **经验证据** 在思想形成中的作用， 而不是凭借天赋观念(innate idea)或传统
+
+            -   科学哲学中的经验主义**强调证据**, 尤其是**在实验中发现证据**; 所有假设和理论都必须根据**对自然世界的观察进行检验**，
+                而不仅仅依赖于先验推理，直觉或启示，这是科学方法的基本组成部分
+                -   知识是**基于经验的**，并且**知识是试探性的和概率性的**，会**不断被修正和证伪**
+
+        -   政治生活**成为提升社会文明程度和推动文化发展的工具**时，政治才有意义
+
+            -   推动社会**向共同善的目标**前进，才有社会的完善和进步； 这样，政治不再是权力斗争，不再是征服与统治
+
+        -   意识形态是一种**似是而非的解释**世界的方式
+
+            -   它赋予人以认同，尊严和道德幻象，而使人们与现实的实质轻易地脱离
+            -   **现象的重要性**不再产生于现象自身,而在于它在意识形态概念世界里所据的坐标。
+                **不是现实决定理论，而是理论决定现实**。 因此，权力离意识形态更近，离现实更远了。
+
+        -   **向善**是人的自然本性
+
+            -   **同理心是天生的**
+            -   道德的根源在于同理心
+                -   对潜在受害者 感同身受,愿意与之分担困苦
+            -   **自然正义**
+
+        -   中国人的思维至今没变： 慕强,成王败寇
+            -   很少见人思考： **怎么解决问题**？ 有什么方案？
+            -   **零和博弈**, 没有妥协
+
+    -   MEETUP
+        -   badminton
+            -   **判断力** 好重要
+
 #### 2024-09-30
 
 -   TODO

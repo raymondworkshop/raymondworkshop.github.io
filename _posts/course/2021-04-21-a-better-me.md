@@ -12,24 +12,40 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
 -   Review
 
-    -   **留意你的感受**， 行为， 言语
+    -   **留意你的感受**, 行为, 言语
 
     -   增强自己的语言能力
 
+        -   多表达自己
+
+    -   Physical health
+
+        -   exercise, **fit body**
+        -   **dress well**
+
+    -   Emotional health
+
+        -   master your emotions
+            -   有压力 + 写下来， 辨真伪
+            -   真-定解决方案， 伪- 不管 + 内心戏
+        -   叫停内心戏的关键在于觉察
+            -   一旦觉察在内心编故事， 赶快叫停止损
+
     -   不够自信
 
-        -   自信心 - **控制和掌握自己的身体，行为和世界的感觉**
+        -   自信心 - **控制和掌握自己的身体,行为和世界的感觉**
 
-            -   孩子认为自己所从事的活动获得成功的可能性较大， 而且**成年人会提供帮助**
+            -   孩子认为自己所从事的活动获得成功的可能性较大, 而且**成年人会提供帮助**
 
-        -   自信是 对自己有合适， 客观的看法 - 全然接纳真实的自我
+            -   自信是 对自己有合适, 客观的看法 - 全然接纳真实的自我
+
         -   being assertive in a **polite, courteous, and respectful** way
 
     -   不够 **open**
 
         -   害怕更多责任
 
-        -   如果对方有 sharing 或交谈过， 会更相信对方
+        -   如果对方有 sharing 或交谈过, 会更相信对方
         -   外貌气质其实对自己的选择很有影响
 
     -   **Be**, do, have
@@ -40,7 +56,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
         -   If the result is not what you wanna, check your intention
 
-        -   **意图不明**，造成不确定性， 会造成很大的困扰
+        -   **意图不明**,造成不确定性, 会造成很大的困扰
 
     -   害怕更多责任
 
@@ -49,7 +65,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
     -   **Win-win**
 
-        -   多黑牌，少红牌
+        -   多黑牌,少红牌
         -   trust
 
     -   你害怕别人看见你的什么
@@ -58,18 +74,18 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
             -   **怕背叛和被背叛** -> 先背叛
 
-        -   **多黑牌，少红牌**
+        -   **多黑牌,少红牌**
 
             -   trust
             -   win-win
 
         -   不够诚实
 
-            -   在意成就和地位， 希望别人高看自己
+            -   在意成就和地位, 希望别人高看自己
 
         -   不想成为焦点
             -   害怕别人的 judgement
-                -   香港人真是好好， 老是**鼓励你，包容你**
+                -   香港人真是好好, 老是**鼓励你,包容你**
             -   害怕更多责任
 
     -   父亲对自己影响最大
@@ -124,7 +140,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
             -   Master your emotions
                 -   Don't give away your emotions for free
             -   压力
-                -   **写下来，辩真伪**； 伪->不管； 真 - 定解决方案
+                -   **写下来，辩真伪**; 伪->不管; 真 - 定解决方案
                 -   内心戏 - 叫停内心戏的关键在于**觉察**，一旦觉察在内心编故事，**赶快叫停止损**
 
     -   **My Self is loved**
@@ -255,7 +271,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
         -   所以 只能 ‘诈’ 和算计 来战胜别人
 
     -   **无限 游戏里， 人是可以创造更多资源的， 是可以双赢的**
-        -   **赢得标准 变成了 怎样创造更多价值**， 甚至是为别人创造价值，而不是让别人吃亏
+        -   **赢得标准 变成了 怎样创造更多价值**，甚至是为别人创造价值，而不是让别人吃亏
         -   这样的话， 诚实不光是美德，也代表现实收益
 
 -   **recognize and affirm your feelings**
@@ -292,7 +308,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     -   **充分彰显自己， 决不贬低别人**
     -   讲诚信，规则
 
-    -   **大爱无疆**， 不极端， 不仇恨
+    -   **大爱无疆**，不极端， 不仇恨
 
         -   滴水之恩，当涌泉相报
         -   **活一天开心一天**
@@ -322,14 +338,14 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
     -   **全然接纳真实的自我**
 
-        -   我当然会努力， 但努力的原因不是你告诉我满分是 100 分，我只有 80 分，
+        -   我当然会努力, 但努力的原因不是你告诉我满分是 100 分, 我只有 80 分,
             而是 **因为我知道自己可以做得更好**
 
-    -   **寻求支持， 自己争取，不依赖别人**
+    -   **寻求支持, 自己争取, 不依赖别人**
 
-        -   从寻求认可 到**寻求支持**， “**我想做的事是这样，你可不可以支持我**”
-        -   **有主见**， 不依赖别人， 要自己争取
-        -   **assertive**, 有自己的东西； 有需要就一定会说出来，把他的要求说出来
+        -   从寻求认可 到**寻求支持**, “**我想做的事是这样，你可不可以支持我**”
+        -   **有主见**, 不依赖别人, 要自己争取
+        -   **assertive**, 有自己的东西； 有需要就一定会说出来, 把他的要求说出来
 
     -   stay humble but know your worth
 
@@ -430,19 +446,19 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
         -   like daydreams, and less actions
 
-        -   **过于追逐理念， 而失去了具体的生活体验**
+        -   **过于追逐理念, 而失去了具体的生活体验**
 
-            -   容易陷入 道德控诉， 以及 布道者和控诉者的口水陷阱
-            -   **多问怎么做的问题**， 少问 为什么要做的问题
+            -   容易陷入 道德控诉, 以及 布道者和控诉者的口水陷阱
+            -   **多问怎么做的问题**, 少问 为什么要做的问题
 
         -   买的是 理念/idea, 而不是**利益**
 
             -   不太贴地
             -   **在商言商**
 
-        -   **过于追求平等， 或者 过于给予别人平等**， 而不是公平
+        -   **过于追求平等, 或者 过于给予别人平等**, 而不是公平
 
-            -   是人格平等， 而**不是 物质/利益 平等**
+            -   是人格平等, 而**不是 物质/利益 平等**
             -   **要让自己爱的人 感觉到 自己很在乎他们**
                 -   对自己的家人和其他人一样
             -   把熟人社会的规则 用在了 陌生人社会上
@@ -454,16 +470,16 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
                 -   因为 发觉 自己比较容易 受到 底层的人的 尊重
                 -   注意保护自己
                     -   self-care
-                -   **帮助别人是 帮助对方自立**，而不是和对方一样
+                -   **帮助别人是 帮助对方自立**,而不是和对方一样
 
-            -   忽视了**底层的“恶”**， 只看到上层的“假”
+            -   忽视了**底层的“恶”**, 只看到上层的“假”
 
-            -   只 同情 底层，或者 想得到底层人的尊敬 或领导
-                -   其实底层的人比较 weaker， 所以比较势利
-                -   应该是 **同情 善良的人**， 而不是 经济意义上的 底层
+            -   只 同情 底层,或者 想得到底层人的尊敬 或领导
+                -   其实底层的人比较 weaker, 所以比较势利
+                -   应该是 **同情 善良的人**, 而不是 经济意义上的 底层
 
         -   老爸 还是受法家的影响
-            -   老家的人 过于 相信 国家， 过于保守
+            -   老家的人 过于 相信 国家, 过于保守
             -   没有受到 商业思维的 影响
 
     -   learn about yourself by studying your friends
@@ -472,7 +488,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
     -   your advantages <- feedback analysis
 
-        -   “**哪一类工作别人做起来很费力， 自己却轻而易举**”
+        -   “**哪一类工作别人做起来很费力, 自己却轻而易举**”
 
     -   how do u work with yourself ?
 
@@ -519,7 +535,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
             -   maybe an **artisanal crafting** guy -> a bit creative and freedom lifestyle
 
-        -   TOIMPROVE -　和人打交道的能力
+        -   TOIMPROVE - 和人打交道的能力
 
 -   **the fear of Poverty**
 
