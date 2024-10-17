@@ -15,8 +15,9 @@ abstract: "a master self-observer"
     -   SELF
 
         -   reading
-            -   [Emotional Intelligence - confidence]
+            -   [How will you measure your life]
             -   [萨提尔的自我觉察练习]
+            -   [Permission to Feel Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive]
             -   [HBR Guide to Being a Great Bs]
             -   [The Untethered Soul The Journey Beyond Yourself]
 

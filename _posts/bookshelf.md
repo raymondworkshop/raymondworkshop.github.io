@@ -24,6 +24,7 @@ date: 2012-03-19
 -   [HBR being a Great Bs] (10/10) (note: kind of self assurance)
 -   [薩提爾的自我覺察練習](https://www.logos.com.hk/bf/acms/content.asp?site=logosbf&op=show&type=product&code=9789863986003)
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
+-   [!Permission to Feel Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive]
 -   [The Almanack of Naval Ravikant] by Eric Jorgenson
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 -   [The Productive Programmer](https://book.douban.com/subject/3073403/) by Neal Ford
