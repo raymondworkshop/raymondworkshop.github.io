@@ -15,6 +15,7 @@ abstract: "a master self-observer"
     -   SELF
 
         -   reading
+            -   [来自民间的判逆]
             -   [How will you measure your life]
             -   [萨提尔的自我觉察练习]
             -   [Permission to Feel Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive]
