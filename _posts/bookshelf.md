@@ -26,6 +26,8 @@ date: 2012-03-19
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
 -   [!Permission to Feel Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive]
 -   [The Almanack of Naval Ravikant] by Eric Jorgenson
+-   [The Art of the Deal]
+-   [Hands-On Large Language Models_ Language Understanding]
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 -   [The Productive Programmer](https://book.douban.com/subject/3073403/) by Neal Ford
 -   [The Coaching Habit](https://www.goodreads.com/book/show/29342515-the-coaching-habit) by Michael Bungay Stanier
