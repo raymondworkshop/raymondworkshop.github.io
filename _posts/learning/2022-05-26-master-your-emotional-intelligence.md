@@ -9,11 +9,18 @@ abstract: "Master your emotions; And you can Control your life  ."
 
 #### **emotional words**
 
-Anger (present)  
-Fear (future)
-Sadness (past)
-Joy (present and past)
-Excitement (future)
+-   micro-expressions - brief flashes of emotion across the face - are universal
+
+    -   surprise
+    -   anger - Anger is a response to a perceived threat or injustice
+    -   fear
+    -   disgust - 反感
+
+        -   a strong feeling of disapproval and dislike at a situation, person's behaviour, etc. - disgust is a response to something that is considered offensive or unclean - Disgust, for example, involves down-turned lips
+
+    -   happiness
+    -   contempt - 蔑视
+        -   a strong feeling of disliking and having no respect for someone or something - contempt is a response to someone or something that is considered inferior or unworthy - inadvertently pulling one side of the mouth up
 
 -   fear
 
@@ -51,6 +58,21 @@ Excitement (future)
 
     -   humiliated - a deep feeling of shame
     -   embarrassed
+
+#### Permission to Feel
+
+-   **recognize our own emotions and those of others** in facial expressions, body language, vocal tones, and other nonverbal signals
+
+-   **Understand those feelings** and **determine their source** and then see **how they've influenced** our behaviors
+
+    -   what experiences actually caused them
+
+-   **label emotions** with a nunanced vocabulary
+
+-   **express our feelings in accordance with cultural norms and social contexts** in a way that
+    **tries to inform and invites empathy form the listener**
+
+-   **regulate emotions**, rather than let them regulate us, by finding practical strategies for dealing with what we and others feel
 
 #### express your love
 
@@ -224,8 +246,8 @@ Excitement (future)
 
     -   **you don't need the approval of others**
 
-        -   don't have to explain yourself to someone who has never taken  
-             the time to get to know you
+        -   don't have to explain yourself to someone who has never taken
+            the time to get to know you
         -   you can lead your life, don't limit yourself
 
     -   assertive
@@ -500,7 +522,7 @@ Excitement (future)
         -   **what just happened**?
 
             -   **Tell me something: what's going on**?
-            -   **what was I doing before** I started feeling this way?  
+            -   **what was I doing before** I started feeling this way?
                 **who were you with**?
             -   "**what's happening** at X that makes you hate it so much?"
 
@@ -585,7 +607,7 @@ Excitement (future)
 
     -   **the root cause** of the emotions that overwhelm us.
         Once we understand that root cause, we can ideally do something to change it
-    -   why do you feel uninspired? why do you feel worried?  
+    -   why do you feel uninspired? why do you feel worried?
         you failed to achieve some goal? what you consider success or failure?
     -   **引起我情緒的那些念頭都是真的嗎**？
     -   當下，**我的生命中，什麼才是真的**？
@@ -609,7 +631,7 @@ Excitement (future)
         -   bad values are generally reliant on **exernal events**, **outside of your control**, socially destructive or magic to achieve
             -   manipulation or violence, being liked by everybody,feeling good all the time, not being liked by everybody
 
-    -   **当我们面对内心的恐惧时， 抛开“应该”**  
+    -   **当我们面对内心的恐惧时， 抛开“应该”**
         然后我们就会发现“烦”随之消散，结果比我们规划的还要好
 
 -   **Values are about prioritization**
@@ -660,11 +682,11 @@ Excitement (future)
     -   **knowing and understanding yourself**,
         thus, it helps you make better decisions
 
-    -   **spare us from emotional suffering**  
+    -   **spare us from emotional suffering**
         because we know where it comes from and
         we know how to handle it and maybe not even impose it upon others
 
-    -   help us deal with **interpersonal relationships**  
+    -   help us deal with **interpersonal relationships**
         because we also connect on a different level
 
     -   a world full of mutual understanding, acceptance, tolerance and connection
@@ -854,3 +876,7 @@ Excitement (future)
 -   [Why Has Nobody Told Me This Before](https://book.douban.com/subject/35777114/) by Dr. Julie Smith
 -   [紅玫瑰 yu 与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲
 -   [Thriver]
+
+```
+
+```
