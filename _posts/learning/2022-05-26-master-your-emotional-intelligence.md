@@ -7,6 +7,87 @@ categories: [important, self, softskills, learning]
 abstract: "Master your emotions; And you can Control your life  ."
 ---
 
+##### All emotions are an important source of information about what's going on inside us
+
+-   emotions **give purpose**, **priority, and focus** to our thinking
+    -   a subjective experience in our conscious minds
+
+##### recognize present emotional state
+
+-   self
+
+    -   Are we **feeling up or down**?
+        **Pleasant or unpleasant**?
+
+-   read nonverbal cues
+
+    -   **facial expressionas**, **vocal tones**, **body language**
+
+-   The Mood Meter
+    -   Yellow - high levels of pleasantness and energy
+        -   happy, excited, optimistic
+    -   Red - low pleasantness but high energy
+        -   angry, anxious, frustrated, or scared, but also passionate, assertive, competitive
+    -   green - high pleasantness but low energy
+        -   peaceful, contented, serene
+    -   blue - low pleasantness and energy
+        -   sandness-depression
+
+##### Understanding emotion - why?
+
+-   **Why do you or I feel this way**?
+
+    -   "**what's happening** that makes you hate it so much? "
+    -   **What caused** this feelings?
+    -   **Why**, of all the possible reactions, that particular one?
+        -   **what matters** is the person's experience?
+    -   **Take real bravery** to follow the investigation to the end,
+        paired with **genuine motivation**,
+        this skill empowers us to be better friends, family members, students, colleagues, and partners
+
+    -   understaning emotions is a journey. Possibly an adventure
+
+        -   when it's finished, we may **find ourselves someplace new**, **someplace unexpected**,
+            somewhere, perhaps, we had no intention of going. And yet there we are, wiser than before - maybe wiser than we wished to be.
+
+    -   Why 觉察法
+        -   一旦你不去找别人的原因,而是**一层一层地问自己**,
+            你会发现一些关于自己曾经没有意识到的部分(**find something new about yourself**),这就是所谓的苦难给你的最大财富
+
+-   emotions and their linked causes
+    -   **shame, guilt, and embarrassement**
+        -   Shame is a judgment **from the outside**
+        -   Guilt is a judgment we **make of ourselves**
+        -   Embarrassment
+    -   **Jealousy and envy**
+        -   Jealousy is a form of fear of losing someone important to you
+        -   envy is caused by our coveting sth that's not ours
+    -   **Joy and contentment**
+        -   Joy is caused by **a sense of getting what one wants**
+            contentment is caused by **a sense of completeness** (not wanting or needing anything)
+    -   **Stress and pressure**
+        -   Stress is a response to too many demands and not enough resources
+        -   **pressure is the force from the outside** that tells us sth important is at stake,
+            and whether we succeed or fail will depend on how we perfrom
+
+##### labeling emotions
+
+-   robust emotion vocabularies
+
+-   our emotions become **a form of communication**, a way to share the experience of being alive
+    -   **label what we feel and describe why**, the more likely we are to get the empathy or help we need
+    -   anxiety
+
+##### expressing emotions
+
+-   **expression enhances our lives**
+
+    -   accept and acknowledge that there's no shame in expressing our emotions
+
+-   **listening**
+    -   conspicuously open, patient, and sympathetic to whatever's being said
+    -   **I want to understand you and help you**. I'm here for you. I'm not judging.
+
 #### **emotional words**
 
 -   micro-expressions - brief flashes of emotion across the face - are universal
@@ -16,11 +97,11 @@ abstract: "Master your emotions; And you can Control your life  ."
     -   fear
     -   disgust - 反感
 
-        -   a strong feeling of disapproval and dislike at a situation, person's behaviour, etc. - disgust is a response to something that is considered offensive or unclean - Disgust, for example, involves down-turned lips
+        -   a strong feeling of disapproval and dislike at a situation, person's behaviour, etc. - disgust is a response to something that is considered offensive or unclean - Disgust, for example, involves down-turned lips
 
     -   happiness
     -   contempt - 蔑视
-        -   a strong feeling of disliking and having no respect for someone or something - contempt is a response to someone or something that is considered inferior or unworthy - inadvertently pulling one side of the mouth up
+        -   a strong feeling of disliking and having no respect for someone or something - contempt is a response to someone or something that is considered inferior or unworthy - inadvertently pulling one side of the mouth up
 
 -   fear
 
