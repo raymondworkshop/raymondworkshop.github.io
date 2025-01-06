@@ -9,6 +9,8 @@ date: 2012-03-19
 
 -   Entrepreneurship
 
+    -   [職場素養 (Professionalism)](https://www.coursera.org/learn/zhichang-suyang/home/module/1)
+
     -   [wiki on Startup](https://startupclass.samaltman.com/)
 
     -   [Marketing Management](https://learning.edx.org/course/course-v1:IIMBx+MK102x+2T2022/home)
@@ -24,10 +26,11 @@ date: 2012-03-19
 -   [HBR being a Great Bs] (10/10) (note: kind of self assurance)
 -   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
 -   [!Permission to Feel Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive]
--   [!Getting to Yes - Negotiating Agreement Without Giving In]
+-   [Man from mars women from venus]
 -   [Social Intelligence: The New Science of Human Relationships](https://www.amazon.com/Social-Intelligence-audiobook/dp/B000IU3WY8/?_encoding=UTF8&pd_rd_w=SKffl&content-id=amzn1.sym.05575cf6-d484-437c-b7e0-42887775cf30&pf_rd_p=05575cf6-d484-437c-b7e0-42887775cf30&pf_rd_r=138-0018281-6774746&pd_rd_wg=buhau&pd_rd_r=918d6df0-726a-4fb9-b4b3-4d8950000937&ref_=aufs_ap_sc_dsk)
--   [HBR on Managing Yourself]
 -   [The Almanack of Naval Ravikant] by Eric Jorgenson
+-   [!Getting to Yes - Negotiating Agreement Without Giving In]
+-   [HBR on Managing Yourself]
 -   [薩提爾的自我覺察練習](https://www.logos.com.hk/bf/acms/content.asp?site=logosbf&op=show&type=product&code=9789863986003)
 -   [The Art of the Deal]
 -   [Hands-On Large Language Models_ Language Understanding]
