@@ -19,6 +19,20 @@ date: 2012-03-19
 
     -   [Startup School](https://www.startupschool.org/curriculum)
 
+#### reading-2025
+
+-   [Man from mars women from venus]
+-   [The Almanack of Naval Ravikant] by Eric Jorgenson
+-   [The Making of a Manager](https://book.douban.com/subject/30379338/)
+-   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
+-   [Social Intelligence: The New Science of Human Relationships](https://www.amazon.com/Social-Intelligence-audiobook/dp/B000IU3WY8/?_encoding=UTF8&pd_rd_w=SKffl&content-id=amzn1.sym.05575cf6-d484-437c-b7e0-42887775cf30&pf_rd_p=05575cf6-d484-437c-b7e0-42887775cf30&pf_rd_r=138-0018281-6774746&pd_rd_wg=buhau&pd_rd_r=918d6df0-726a-4fb9-b4b3-4d8950000937&ref_=aufs_ap_sc_dsk)
+-   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
+-   [Benjamin Franklin——An American Life](https://book.douban.com/subject/2990595/)
+-   [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti
+-   [HBR Guide to Bying a Small Business]
+-   [HBR being a Great Bs] (10/10) (note: kind of self assurance)
+-   [!Getting to Yes - Negotiating Agreement Without Giving In]
+
 #### reading-2024
 
 -   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey (9/10)
@@ -53,7 +67,7 @@ date: 2012-03-19
 
 -   [The Art of Agile Development](https://book.douban.com/subject/2751184/) by James Shore
 -   [Mythical Man-Month](https://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959/?tag=daniellemires-20) by Frederick Brooks Jr.
--   [家人使用說明書](https://www.kobo.com/hk/zh/ebook/nq0y0iptaDyhGddlDIxTyQ) by 黑川伊保子
+-   [家人使用說明書](https://www.kobo.com/hk/zh/ebook/nq0y0iptaDyhGddlDIxTyQ) by 黑川伊保子 (7/10)
 -   [Benjamin Franklin——An American Life](https://book.douban.com/subject/2990595/)
 -   [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti
 -   [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml#SEC_Contents)
