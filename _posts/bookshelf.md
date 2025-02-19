@@ -22,16 +22,17 @@ date: 2012-03-19
 #### reading-2025
 
 -   [Man from mars women from venus] (8/10)
+-   [力量从哪里来] by liyiluo
 -   [The Almanack of Naval Ravikant] by Eric Jorgenson
 -   [The Making of a Manager](https://book.douban.com/subject/30379338/)
 -   [馬斯克傳：唯一不設限、全公開傳記]
 -   [沈思錄]
--   [力量从哪里来]
+
 -   [HBR on Self-Awareness]
 -   [软能力]
--   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
-
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
+
+-   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
 -   [Social Intelligence: The New Science of Human Relationships](https://www.amazon.com/Social-Intelligence-audiobook/dp/B000IU3WY8/?_encoding=UTF8&pd_rd_w=SKffl&content-id=amzn1.sym.05575cf6-d484-437c-b7e0-42887775cf30&pf_rd_p=05575cf6-d484-437c-b7e0-42887775cf30&pf_rd_r=138-0018281-6774746&pd_rd_wg=buhau&pd_rd_r=918d6df0-726a-4fb9-b4b3-4d8950000937&ref_=aufs_ap_sc_dsk)
 -   [Benjamin Franklin——An American Life](https://book.douban.com/subject/2990595/)
 -   [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti
