@@ -5,21 +5,21 @@ date: 2012-03-19
 
 ### log of training & books and my ratings
 
-#### course
+#### courses
 
 -   Entrepreneurship
 
-        -   [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+2T2024/home)
+    -   [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+2T2024/home)
 
-        -   [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2024/home)
+    -   [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2024/home)
 
-        -   [職場素養 (Professionalism)](https://www.coursera.org/learn/zhichang-suyang/home/module/1)
+    -   [職場素養 (Professionalism)](https://www.coursera.org/learn/zhichang-suyang/home/module/1)
 
-        -   [wiki on Startup](https://startupclass.samaltman.com/)
+    -   [wiki on Startup](https://startupclass.samaltman.com/)
 
-        -   [Marketing Management](https://learning.edx.org/course/course-v1:IIMBx+MK102x+2T2022/home)
+    -   [Marketing Management](https://learning.edx.org/course/course-v1:IIMBx+MK102x+2T2022/home)
 
-        -   [Startup School](https://www.startupschool.org/curriculum)
+    -   [Startup School](https://www.startupschool.org/curriculum)
 
 #### reading-2025
 
