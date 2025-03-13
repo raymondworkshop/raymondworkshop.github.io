@@ -30,10 +30,9 @@ date: 2012-03-19
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 -   [The Almanack of Naval Ravikant] by Eric Jorgenson
 -   [沈思錄]
-
--   [HBR on Self-Awareness]
--   [HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)
 -   [HBR's 10 Must Reads on Managing Yourself](https://book.douban.com/subject/5415037/)
+-   [HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)
+-   [HBR on Self-Awareness]
 -   [HBR Guide to Bying a Small Business]
 -   [HBR being a Great Bs] (10/10) (note: kind of self assurance)
 -   [软能力]
