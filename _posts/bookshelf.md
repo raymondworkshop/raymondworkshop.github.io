@@ -24,18 +24,20 @@ date: 2012-03-19
 #### reading-2025
 
 -   [Man from mars women from venus] (8/10)
--   [力量从哪里来] by liyiluo (10/10)
+-   ![力量从哪里来] by liyiluo (10/10)
 -   [馬斯克傳：唯一不設限、全公開傳記] (7/10)
--   [The Making of a Manager](https://book.douban.com/subject/30379338/) (9/10)
--   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
+-   ![The Making of a Manager](https://book.douban.com/subject/30379338/) (9/10)
+-   ![The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
+-   [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer
+-   [亲密关系](https://book.douban.com/subject/27072923/) by Rowland S. Miller
 -   [The Almanack of Naval Ravikant] by Eric Jorgenson
 -   [沈思錄]
 -   [HBR's 10 Must Reads on Managing Yourself](https://book.douban.com/subject/5415037/)
 -   [HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)
+-   [Getting Acquired: How I Built and Sold My SaaS Startup](https://www.amazon.com/Getting-Acquired-Built-Sold-Startup-ebook/dp/B0B6BZT2MV/ref=sr_1_1?crid=FRR84WYX9GKT&dib=eyJ2IjoiMSJ9.KMdB_25vqfTK3sjrW23B9TrBTbdnQ5-7W0ATb76Uf04.rpbTUxq2PDNNbt4F964Veq80Pno8SECAdmKlilyx0yI&dib_tag=se&keywords=Getting+Acquired+How+I+Built+and+Sold+My+SaaS+Startup&qid=1742020507&s=audible&sprefix=getting+acquired+how+i+built+and+sold+my+saas+startup%2Caudible%2C717&sr=1-1-catcorr)
 -   [HBR on Self-Awareness]
 -   [HBR Guide to Bying a Small Business]
 -   [HBR being a Great Bs] (10/10) (note: kind of self assurance)
--   [软能力]
 
 -   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
 -   [Social Intelligence: The New Science of Human Relationships](https://www.amazon.com/Social-Intelligence-audiobook/dp/B000IU3WY8/?_encoding=UTF8&pd_rd_w=SKffl&content-id=amzn1.sym.05575cf6-d484-437c-b7e0-42887775cf30&pf_rd_p=05575cf6-d484-437c-b7e0-42887775cf30&pf_rd_r=138-0018281-6774746&pd_rd_wg=buhau&pd_rd_r=918d6df0-726a-4fb9-b4b3-4d8950000937&ref_=aufs_ap_sc_dsk)
