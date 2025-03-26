@@ -3,9 +3,9 @@ title: Bookshelf
 date: 2012-03-19
 ---
 
-### log of training & books and my ratings
+### log of trainings & books and my ratings
 
-#### courses
+#### trainings-2025
 
 -   Entrepreneurship
 
@@ -27,7 +27,8 @@ date: 2012-03-19
 -   **[力量从哪里来]** by liyiluo (10/10)
 -   [馬斯克傳：唯一不設限、全公開傳記] (7/10)
 -   **[The Making of a Manager](https://book.douban.com/subject/30379338/)** (9/10)
--   **[HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)**
+-   **[HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)** (9/10)
+-   [爱是一种好得不得了的病毒] by 蔡瀾
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 -   [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer
 -   [Software Design by Example](https://third-bit.com/sdxpy/)
@@ -46,6 +47,8 @@ date: 2012-03-19
 -   [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti
 -   [Getting to Yes - Negotiating Agreement Without Giving In]
 -   [The Art of the Deal](https://book.douban.com/subject/1817125/)
+-   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
+-   [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm (9/10)
 
 #### reading-2024
 

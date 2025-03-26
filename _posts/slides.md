@@ -5,7 +5,7 @@ date: 2012-03-13
 
 ### Some of my Slides!
 
-#### 2024-05-16 Mental Health for Every Mind
+#### 2024-11-16 Mental Health for Every Mind
 
 -   Check out the introduction on [AI-powered cognitive behavioral therapist](https://github.com/raymondworkshop/dev.pie/blob/master/docs/pie.pdf)
     -   Your personal AI, a AI-powered cognitive behavioral therapist (CBT)

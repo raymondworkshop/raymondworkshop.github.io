@@ -3,7 +3,7 @@ title: About
 date: 2012-03-19
 ---
 
-Hi, I'm Raymond ZHAO Wenlong. I am a Technical Product Specialist and Founder@Bean in Hong Kong.
+Hi, I'm Raymond ZHAO Wenlong. I am an Engineer and Founder@Bean in Hong Kong.
 I like building products, teams, and ourselves.
 
 I was a Technology Officer in HSUHK, RA in (CUHK, CityU, and HKBU), Tech Lead at HKCREO (a Fintech startup), and Lead Software Engineer Alcatel-Lucent (now Nokia Corporation) .
