@@ -192,7 +192,7 @@ abstract: "Master your emotions; And you can Control your life  ."
         -   开门
     -   **不影响别人**， 公共意识强
 
-#### Notes
+#### notes on self care
 
 -   In comes from within
 
