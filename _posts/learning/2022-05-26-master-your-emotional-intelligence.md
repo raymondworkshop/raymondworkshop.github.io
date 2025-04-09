@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Master your Emotional Intelligence"
+title: "Master your emotions"
 date: 2022-03-11
+update: 2025-04-09
 comments: true
-categories: [important, self, softskills, learning]
+categories: [home, important, self, softskills, learning]
 abstract: "Master your emotions; And you can Control your life  ."
 ---
 
