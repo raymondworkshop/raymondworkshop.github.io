@@ -8,7 +8,9 @@ categories: [home, important, self, softskills, learning]
 abstract: "Master your emotions; And you can Control your life  ."
 ---
 
-##### All emotions are an important source of information about what's going on inside us
+#### Some notes on emotions
+
+#### All emotions are an important source of information about what's going on inside us
 
 -   emotions **give purpose**, **priority, and focus** to our thinking
     -   a subjective experience in our conscious minds
