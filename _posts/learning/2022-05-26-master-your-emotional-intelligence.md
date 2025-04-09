@@ -287,8 +287,6 @@ abstract: "Master your emotions; And you can Control your life  ."
 
 -   avoid toxic people or losers
 
-    -   遇到烂人烂事，及早抽身
-
     -   victim mentality
 
         -   ones that complain, gossip, and play victim
@@ -308,8 +306,6 @@ abstract: "Master your emotions; And you can Control your life  ."
     -   desrespect you
 
         -   if people didn't respect without money, they won't respect you with it
-
-    -   說謊成性的偽君子，没有教养的叫骂者，偏执狂，不求上进的颓废着，误国误民的国师
 
 -   **self-care**
 
@@ -942,7 +938,7 @@ abstract: "Master your emotions; And you can Control your life  ."
     -   不允许不同意见的表达，赶紧逃离
 
 -   reference
-    -   [10 条职场情商法则，让你少走十年弯路](http://nulishehui.blog.caixin.com/archives/257073)
+    -   [10 条职场情商法则](http://nulishehui.blog.caixin.com/archives/257073)
 
 #### **Empathy** - think "**we**", not "me"
 
@@ -957,7 +953,3 @@ abstract: "Master your emotions; And you can Control your life  ."
 -   [Why Has Nobody Told Me This Before](https://book.douban.com/subject/35777114/) by Dr. Julie Smith
 -   [紅玫瑰 yu 与白玫瑰](https://book.douban.com/subject/10757939/) by 張愛玲
 -   [Thriver]
-
-```
-
-```

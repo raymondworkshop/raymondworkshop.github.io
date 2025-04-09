@@ -57,7 +57,9 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
     -   **Be clear and direct, always with respect**
 
         -   **Know what you think**
+
             -   **what are the three to five things I believe** about this topic or issue?
+
         -   ask, listen, and acknowledge
 
             -   Show you are really listening by **asking great questions**,
