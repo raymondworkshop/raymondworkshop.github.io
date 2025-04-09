@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Master your emotions"
-date: 2022-03-11
-update: 2025-04-09
+date: 2025-04-09
+original: 2022-03-11
 comments: true
 categories: [home, important, self, softskills, learning]
 abstract: "Master your emotions; And you can Control your life  ."
@@ -882,7 +882,7 @@ abstract: "Master your emotions; And you can Control your life  ."
     -   西方家庭父母不太包办孩子饮食， 但很注重**语言沟通和情感援助**
         -   会尽量利用吃饭时间**倾听孩子，一起聊天**，比较容易及时发现情绪问题
 
-#### 情商
+#### 职场
 
 -   觉察
 
