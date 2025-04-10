@@ -4,9 +4,13 @@ title: "The Surrender experiment"
 old-date: 2020-07-08
 date: 2025-03-15
 comments: true
-tags: [draft, softskills, notes, important, uncertainty]
+tags: [home, softskills, notes, important, uncertainty]
 abstract: "Live a life created for you, instead of the life you create"
 ---
+
+#### TODO - notes on congnitive emotions
+
+-   Shy
 
 #### **Entrepreneurs tolerate uncertainty** more than any other profession
 
