@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Master your emotions"
+title: "Understand your emotions"
 date: 2025-04-09
 original: 2022-03-11
 comments: true
 categories: [home, important, self, softskills, learning]
-abstract: "Master your emotions; And you can Control your life  ."
+abstract: "Understand your emotions; And you can Control your life  ."
 ---
 
 #### Some notes on emotions
