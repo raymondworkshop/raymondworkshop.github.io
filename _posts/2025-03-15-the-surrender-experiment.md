@@ -10,7 +10,11 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### TODO - notes on congnitive emotions
 
--   Shy
+-   On Shyness
+
+-   Securities vs Mistakes
+
+#### On Coach
 
 #### **Entrepreneurs tolerate uncertainty** more than any other profession
 
