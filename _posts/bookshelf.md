@@ -30,6 +30,7 @@ date: 2012-03-19
 -   [HBR on Emotional intelligence]
 -   [沈思錄]
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
+-   [Adventures of the soul] by James Van Praagh
 -   [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer
 -   [the psy of money]
 -   [Software Design by Example](https://third-bit.com/sdxpy/)

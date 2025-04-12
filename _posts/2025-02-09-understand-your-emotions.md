@@ -8,7 +8,7 @@ categories: [home, important, self, softskills, learning]
 abstract: "Understand your emotions; And you can Control your life  ."
 ---
 
-#### Some notes on emotions
+#### Some notes on LOVE
 
 #### All emotions are an important source of information about what's going on inside us
 
