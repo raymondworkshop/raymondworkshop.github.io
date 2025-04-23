@@ -11,6 +11,8 @@ date: 2012-03-19
 
     -   [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+2T2024/home)
 
+    -   [Microeconomics for Business Professionals](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2023/home)
+
     -   [Entrepreneurship For All](https://learning.edx.org/course/course-v1:BerkeleyX+SOCSCI10.1+1T2025/home)
 
     -   [職場素養 (Professionalism)](https://www.coursera.org/learn/zhichang-suyang/home/module/1)
@@ -28,14 +30,15 @@ date: 2012-03-19
 -   **[HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)** (9/10)
 -   [蔡瀾谈爱情] by 蔡瀾 (9/10)
 -   [HBR on Emotional intelligence]
+-   [The Almanack of Naval Ravikant] by Eric Jorgenson
 -   [沈思錄]
+-   [The Maxwell Daily Reader](https://www.amazon.com/Maxwell-Daily-Reader-Insight-Influence/dp/1400203392) by John C. Maxwell
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 -   [Adventures of the soul] by James Van Praagh
 -   [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer
 -   [the psy of money]
 -   [Software Design by Example](https://third-bit.com/sdxpy/)
 -   [亲密关系](https://book.douban.com/subject/27072923/) by Rowland S. Miller (7/10)
--   [The Almanack of Naval Ravikant] by Eric Jorgenson
 -   [Benjamin Franklin——An American Life](https://book.douban.com/subject/2990595/)
 -   [HBR's 10 Must Reads on Managing Yourself](https://book.douban.com/subject/5415037/)
 -   [Getting Acquired: How I Built and Sold My SaaS Startup](https://www.amazon.com/Getting-Acquired-Built-Sold-Startup-ebook/dp/B0B6BZT2MV/ref=sr_1_1?crid=FRR84WYX9GKT&dib=eyJ2IjoiMSJ9.KMdB_25vqfTK3sjrW23B9TrBTbdnQ5-7W0ATb76Uf04.rpbTUxq2PDNNbt4F964Veq80Pno8SECAdmKlilyx0yI&dib_tag=se&keywords=Getting+Acquired+How+I+Built+and+Sold+My+SaaS+Startup&qid=1742020507&s=audible&sprefix=getting+acquired+how+i+built+and+sold+my+saas+startup%2Caudible%2C717&sr=1-1-catcorr)
