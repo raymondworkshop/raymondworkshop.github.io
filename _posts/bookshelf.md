@@ -30,9 +30,13 @@ date: 2012-03-19
 -   **[HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)** (9/10)
 -   [蔡瀾谈爱情] by 蔡瀾 (9/10)
 -   [HBR on Emotional intelligence]
+-   [Your Money or Your Life](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766) by Vicki Robin
 -   [The Almanack of Naval Ravikant] by Eric Jorgenson
--   [沈思錄]
+-   [HBR Guide to Negotiating]
+-   [丘吉尔传] by Andrew Roberts
+-   [Antifragile: Things That Gain from Disorder](https://book.douban.com/subject/25782902/) by Nassim Nicholas Taleb
 -   [The Maxwell Daily Reader](https://www.amazon.com/Maxwell-Daily-Reader-Insight-Influence/dp/1400203392) by John C. Maxwell
+-   [沈思錄]
 -   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 -   [Adventures of the soul] by James Van Praagh
 -   [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer
