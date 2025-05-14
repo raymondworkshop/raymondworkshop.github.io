@@ -181,7 +181,9 @@ abstract: "English Listening and Pronunciation"
     -   舌头的最高位置从前到后
     -   唇從展开到圆型 （从左到右）
 
-        -   i: 衣； **eat**, **展唇(stretch your lips back more - smile)**,舌头高，舌前
+        -   **[i, i:]**
+            -   i: 衣； **eat**, **展唇(stretch your lips back more, Also, the corners of the lips may pull wide, ee, ee - smile)**,舌头高，舌前
+            -   i - the jaw drops a little bit more
         -   **[i, i:](https://rachelsenglish.com/pronounce-ee-vs-ih-leave-vs-live/)**
         -   **[i](http://rachelsenglish.com/pronounce-ee-vs-ih-leave-vs-live/)**
         -   /i:/ -> **the tongue stretches up more towards the roof of the mouth.** - open mouth widely
@@ -202,6 +204,9 @@ abstract: "English Listening and Pronunciation"
         -   movie
         -   /a:/ **/ʌ/ 嘴张比 æ 大， 稍微比 ʌ 圆唇** -> [a, ʌ](http://rachelsenglish.com/pronounce-ah-vs-uh/)
         -   /ɔ/， 圆唇
+        -   ## **[u:, u](https://rachelsenglish.com/how-to-pronounce-pool-vs-pull/)**
+            -   **[u:]** - the lips are more rounded
+            -   [u] - the lips round less, jaw is more dropped
         -   **[u:, u](http://www.bilibili.com/video/av2681140/index_10.html)**
             -   make the lips a bit **tight and forward**
         -   **[ʊ](http://rachelsenglish.com/english-pronounce-uh-push-vowel/)**
