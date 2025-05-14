@@ -10,7 +10,14 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### TODO - notes on congnitive emotions
 
--   On Shyness
+-   Shyness VS hesitation
+
+    -   Shyness is thinking that everyone is looking at YOU
+
+        -   **No one is going to care what you do or who you are**. You are not a celebrity. You are not important
+
+    -   Hesitation is usually a result of unfulfilled desires. we yield to less pain rather than more pain
+        -   Hesitation is solved when we realize that **inaction is more painful** and that **rejection is better than regret**
 
 -   Securities vs Mistakes
 
