@@ -4,7 +4,7 @@ title: "The Surrender experiment"
 old-date: 2020-07-08
 date: 2025-03-15
 comments: true
-tags: [home, softskills, notes, important, uncertainty]
+tags: [softskills, notes, important, uncertainty]
 abstract: "Live a life created for you, instead of the life you create"
 ---
 
