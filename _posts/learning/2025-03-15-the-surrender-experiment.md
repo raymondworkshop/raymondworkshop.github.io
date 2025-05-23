@@ -10,6 +10,34 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### TODO - notes on congnitive emotions
 
+-   kindnesss vs empathy vs compassion vs sympathy
+
+    -   **empathy** - actively relating to someone's emotional experience
+        -   "**That must have been really hard for you**"
+        -   an expression of empathy is **respectful but relatively neutral**
+            and it does not imply support for the person's position
+    -   sympathy - more feeling bad for them
+
+        -   "I feel sorry for what you have been through"
+
+    -   note
+        -   **Using empathy** - link to someone's emotion - not sympathy
+        -   thinking big
+            -   **choose to talk to the top**
+                -   the boss is actually the easiest to speak to
+            -   fear
+                -   the fear is almost **always self-created** and usually unnesscessary
+            -   **look at your own vision for abundance**
+                -   **you can do it** - once you believe you can
+                -   you can reach more people with the same amount of effort
+            -   [36 -think big - Don't Sweat the Small Stuff About Money]
+
+-   ask for what you want
+
+    -   others want to help U
+
+-   fear
+
 -   Shyness VS hesitation
 
     -   Shyness is thinking that everyone is looking at YOU
