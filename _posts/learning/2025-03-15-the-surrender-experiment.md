@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Surrender experiment"
+title: "!The Surrender experiment"
 old-date: 2020-07-08
 date: 2025-03-15
 comments: true
@@ -9,6 +9,65 @@ abstract: "Live a life created for you, instead of the life you create"
 ---
 
 #### TODO - notes on congnitive emotions
+
+-   **Communication**
+
+    -   it is an acute awareness of **human nature**
+
+    -   know **how the other person is thinking** and **shift their presentation to reflect it**
+
+    -   the best way to win a debate is to **know the opponent's position better than the opponent**
+
+-   thinking big
+
+    -   **choose to talk to the top**
+
+        -   the boss is actually the easiest to speak to
+        -   為什麼不願意和上司處理好關係？
+
+            -   幫下面 可以 有自己的價值 <- 爸爸
+                -   過於同情 窮人
+            -   害怕別人非議
+                -   自己的目的/出發點
+                -   過於無私
+            -   不想有那麼大的責任
+
+                -   沒看到自己的利益
+                -   需要競爭
+
+            -   反叛
+
+    -   fear
+        -   the fear is almost **always self-created** and usually unnesscessary
+    -   **look at your own vision for abundance**
+
+        -   **you can do it** - once you believe you can
+        -   you can reach more people with the same amount of effort
+
+    -   [36 -think big - Don't Sweat the Small Stuff About Money]
+
+-   Thinking **You are the Great Catch**
+
+    -   **Treat your hobbies as if they have more value than** the women do
+
+    -   **Good looks**
+
+        -   **good carriage**, excellent threads, are the consequence by how you think of yourself
+
+    -   humor
+
+        -   Don't be shy. **Let your personality SHINE**.
+            **When you are the Great Catch**, this should come more naturally because you have nothing to fear.
+
+    -   dominance
+
+        -   **Speak strongly and behave strongly**.
+            If you are wrong, you will be corrected.  
+            **Clearing up mistakes is always a good thing** and should NEVER be feared.
+
+    -   Ambition
+        -   You know **women are not the priority of your life**.
+            The great catch knows he can get any woman whenever he wants.
 
 -   kindnesss vs empathy vs compassion vs sympathy
 
@@ -22,21 +81,38 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   note
         -   **Using empathy** - link to someone's emotion - not sympathy
-        -   thinking big
-            -   **choose to talk to the top**
-                -   the boss is actually the easiest to speak to
-            -   fear
-                -   the fear is almost **always self-created** and usually unnesscessary
-            -   **look at your own vision for abundance**
-                -   **you can do it** - once you believe you can
-                -   you can reach more people with the same amount of effort
-            -   [36 -think big - Don't Sweat the Small Stuff About Money]
+
+-   觉察自己的偏见
+
+    -   **倾听对方的目的在于了解**， 而不是认同 （未必要赞同对方）
+
+        -   想法跟我们一样的归于一类，不同的归于另一类， 这样的**分类并不准确**
+            -   游离的原因
+        -   偏见是我们的求生直觉
+
+    -   游离的原因
+
+        -   不赞同对方， 倾听的目的是了解对方
+        -   把自己看的太大 - 认为对方想让自己负责
+
+    -   好奇心
+        -   **想知道他为何会有这样的信念**
+        -   尊重别人的观点
+            -   **设法找出对方的出发点/目的是什么**
+
+-   You are a salesperson
+
+    -   It's ok to sell. It doesn't make you a bad person
 
 -   ask for what you want
 
     -   others want to help U
 
--   fear
+-   **Fear the fear and do it anyway**. **All will be well**
+
+    -   **all your worries have been a waste of time**
+    -   we're **more stronger than our fears** and more competent than our worries
+    -   step back for a moment and reflect on past worries. All will be well.
 
 -   Shyness VS hesitation
 

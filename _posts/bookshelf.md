@@ -28,13 +28,14 @@ date: 2012-03-19
 -   [馬斯克傳：唯一不設限、全公開傳記] (7/10)
 -   **[The Making of a Manager](https://book.douban.com/subject/30379338/)** (10/10)
 -   **[HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)** (9/10)
--   [蔡瀾谈爱情] by 蔡瀾 (9/10)
+-   **[蔡瀾谈爱情]** by 蔡瀾 (9/10)
 -   [HBR on Emotional intelligence]
 -   [Your Money or Your Life](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766) by Vicki Robin
 -   [The Almanack of Naval Ravikant] by Eric Jorgenson
--   [Don't sweat the small stuff in love]()
+-   [Don't sweat the small stuff in love]
 -   [Don't Sweat the Small Stuff About Money: Simple Ways to Create Abundance and Have Fun](https://www.amazon.com/Sweat-Small-Stuff-About-Money-ebook/dp/B00JJ9G4DA/ref=sr_1_3?crid=2FWP94GFRSAGD&dib=eyJ2IjoiMSJ9.RYDweUXaHTjqrJtJHNAt8rbuNhYyQlaqWy_9lQQMogkyCsBKIa2hJj73R847X9MQcX3AlyOO8pipffPOPjfXtHPmfRkncs_BL45weKslwIFp5OCMkVpl80pj-uqpwy0y.FfW-R4vIwv81lj7rQ0OcgZfABBV-fMtNcOmYPRzD9V8&dib_tag=se&keywords=Don%27t+sweat+the+small+stuff+in+love&qid=1746764684&s=digital-text&sprefix=%2Cdigital-text%2C786&sr=1-3)
 -   [HBR Guide to Negotiating]
+-   [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes/dp/0071401946/ref=sr_1_5?crid=1C69NZCEP2QJJ&keywords=Crucial+Conversations&qid=1645743844&sprefix=crucial+conversations%2Caps%2C77&sr=8-5)
 -   [丘吉尔传] by Andrew Roberts
 -   [同理心對話]
 -   [Don't Sweat the Small Stuff and It's All Small Stuff](https://www.amazon.com/dp/0786881852/ref=mes-dp?_encoding=UTF8&pd_rd_w=hEVPW&content-id=amzn1.sym.3a340fc9-0bb1-47bf-8573-ec35d7ba77e7&pf_rd_p=3a340fc9-0bb1-47bf-8573-ec35d7ba77e7&pf_rd_r=S5XMJQSD45DFK2010HP1&pd_rd_wg=bnGT8&pd_rd_r=6574aac3-7cd1-4757-b9b6-afcd16b35388) by Richard Carlson
