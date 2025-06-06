@@ -33,9 +33,9 @@ date: 2012-03-19
 -   [Your Money or Your Life](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766) by Vicki Robin
 -   [The Almanack of Naval Ravikant] by Eric Jorgenson (10/10)
 
--   [Don't Sweat the Small Stuff About Money: Simple Ways to Create Abundance and Have Fun](https://www.amazon.com/Sweat-Small-Stuff-About-Money-ebook/dp/B00JJ9G4DA/ref=sr_1_3?crid=2FWP94GFRSAGD&dib=eyJ2IjoiMSJ9.RYDweUXaHTjqrJtJHNAt8rbuNhYyQlaqWy_9lQQMogkyCsBKIa2hJj73R847X9MQcX3AlyOO8pipffPOPjfXtHPmfRkncs_BL45weKslwIFp5OCMkVpl80pj-uqpwy0y.FfW-R4vIwv81lj7rQ0OcgZfABBV-fMtNcOmYPRzD9V8&dib_tag=se&keywords=Don%27t+sweat+the+small+stuff+in+love&qid=1746764684&s=digital-text&sprefix=%2Cdigital-text%2C786&sr=1-3)
+-   [Don't Sweat the Small Stuff About Money: Simple Ways to Create Abundance and Have Fun](https://www.amazon.com/Sweat-Small-Stuff-About-Money-ebook/dp/B00JJ9G4DA/ref=sr_1_3?crid=2FWP94GFRSAGD&dib=eyJ2IjoiMSJ9.RYDweUXaHTjqrJtJHNAt8rbuNhYyQlaqWy_9lQQMogkyCsBKIa2hJj73R847X9MQcX3AlyOO8pipffPOPjfXtHPmfRkncs_BL45weKslwIFp5OCMkVpl80pj-uqpwy0y.FfW-R4vIwv81lj7rQ0OcgZfABBV-fMtNcOmYPRzD9V8&dib_tag=se&keywords=Don%27t+sweat+the+small+stuff+in+love&qid=1746764684&s=digital-text&sprefix=%2Cdigital-text%2C786&sr=1-3) (9/10)
 -   [丘吉尔传] by Andrew Roberts
--   [同理心對話]
+-   [同理心對話] (9/10)
 -   [HBR Guide to Bying a Small Business]
 -   [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia
 

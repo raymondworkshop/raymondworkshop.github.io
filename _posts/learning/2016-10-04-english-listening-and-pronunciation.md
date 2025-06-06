@@ -208,12 +208,14 @@ abstract: "English Listening and Pronunciation"
             -   **[u:]** - the lips are more rounded
             -   [u] - the lips round less, jaw is more dropped
         -   **[u:, u](http://www.bilibili.com/video/av2681140/index_10.html)**
+
             -   make the lips a bit **tight and forward**
-        -   **[ʊ](http://rachelsenglish.com/english-pronounce-uh-push-vowel/)**
+
+        -   [u:, u](https://www.bilibili.com/video/av2681140?p=10)
             -   **The back of the tongue lifts towards the back of the roof of the mouth.The front of the tongue remains down, but it might be pulled slightly back** .
             -   foot,took, cook, shook, stood, good, look, book,wool, swoosh
             -   wood
-            -   [u:, u](https://www.bilibili.com/video/av2681140?p=10)
+            -   **[ʊ](http://rachelsenglish.com/english-pronounce-uh-push-vowel/)**
 
 -   双元音
 

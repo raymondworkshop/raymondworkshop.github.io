@@ -31,12 +31,43 @@ abstract: "关于沟通"
         -   **把自己看的太大** - 认为对方想让自己负责
 
     -   好奇心
+        -   **倾听对方的目的在于了解**， 而不是认同 （未必要赞同对方）
         -   **想知道他为何会有这样的信念**
         -   尊重别人的观点
             -   **设法找出对方的出发点/目的是什么**
 
--   TODO  
+-   技巧
 
+    -   專心對話 - 專注當下
+
+        -   冥想 - **專心呼吸**
+            -   冥想 是讓你更清楚大腦在想什麼
+        -   冥想能改善對話能力， 因為會更懂得傾聽
+            -   **心中的話匣子靜下來後**，就能真正傾聽到對方在說什麼， 而不會太被自己的思緒分心
+
+    -   把焦點轉回對方
+
+        -   **輔助反應** 能鼓勵對方繼續說下去，讓對方知道你在傾聽
+        -   把對話焦點拉回自己是人的本能
+
+        -   **Using empathy** - link to someone's emotion - not sympathy
+            -   **empathy** - actively relating to someone's emotional experience
+            -   "**That must have been really hard for you**"
+            -   an expression of empathy is **respectful but relatively neutral**
+                and it does not imply support for the person's position
+
+    -   避免爭吵
+        -   **對事不對人** - 不要提對方的缺點
+        -   **想想怎麼解決問題**
+            -   好好吵架，不要只是抱怨而已
+        -   **願意讓對方吵贏**
+            -   找到對雙方有益的解決方法比較重要，未必一定要吵贏
+        -   不妨自問
+            -   希望從這場對話中得到什麼收穫？  
+                **希望對話有什麼結果**？ **希望離開時帶著什麼情緒**？ 是生氣，沮喪，煩惱嗎？
+            -   如果改變不了對方的心意， 目標就應該是 **自己可以從中有所學習**
+
+-   TODO
 
 #### social skills
 

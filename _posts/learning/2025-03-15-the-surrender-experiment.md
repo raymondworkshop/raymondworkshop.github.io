@@ -94,7 +94,7 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   游离的原因
 
-        -   不赞同对方， 倾听的目的是了解对方
+        -   不赞同对方， **倾听的目的是了解对方**
         -   把自己看的太大 - 认为对方想让自己负责
 
     -   好奇心
