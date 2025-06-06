@@ -46,6 +46,8 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   [36 -think big - Don't Sweat the Small Stuff About Money]
 
+-   人是有等級之分的
+
 -   Thinking **You are the Great Catch**
 
     -   **Treat your hobbies as if they have more value than** the women do
