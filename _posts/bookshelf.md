@@ -29,21 +29,26 @@ date: 2012-03-19
 -   **[The Making of a Manager](https://book.douban.com/subject/30379338/)** (10/10)
 -   **[HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)** (9/10)
 -   **[蔡瀾谈爱情]** by 蔡瀾 (9/10)
--   [HBR on Emotional intelligence]
+-   **[HBR on Emotional intelligence]**
 -   [Your Money or Your Life](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766) by Vicki Robin
--   [The Almanack of Naval Ravikant] by Eric Jorgenson (10/10)
+-   **[The Almanack of Naval Ravikant]** by Eric Jorgenson (10/10)
 
--   [Don't Sweat the Small Stuff About Money: Simple Ways to Create Abundance and Have Fun](https://www.amazon.com/Sweat-Small-Stuff-About-Money-ebook/dp/B00JJ9G4DA/ref=sr_1_3?crid=2FWP94GFRSAGD&dib=eyJ2IjoiMSJ9.RYDweUXaHTjqrJtJHNAt8rbuNhYyQlaqWy_9lQQMogkyCsBKIa2hJj73R847X9MQcX3AlyOO8pipffPOPjfXtHPmfRkncs_BL45weKslwIFp5OCMkVpl80pj-uqpwy0y.FfW-R4vIwv81lj7rQ0OcgZfABBV-fMtNcOmYPRzD9V8&dib_tag=se&keywords=Don%27t+sweat+the+small+stuff+in+love&qid=1746764684&s=digital-text&sprefix=%2Cdigital-text%2C786&sr=1-3) (9/10)
+-   [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships] by Leil Lowndes
+-   [How to Live an Extraordinary Life] by Anthony Pompliano
+-   **[The Subtle Art of Not Giving a Fck]** by Mark Manson
+-   [Everything Is F*cked] by Mark Manson
+-   [Don't Sweat the Small Stuff About Money: Simple Ways to Create Abundance and Have Fun] by Richard Carlson (9/10)
+-   [Suddenly in Charge] by Roberta Chinsky Matuson
 -   [丘吉尔传] by Andrew Roberts
--   [同理心對話] (9/10)
+-   [同理心對話] (8/10)
+-   [HBR Guide to Negotiating]
 -   [HBR Guide to Bying a Small Business]
 -   [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia
 
 -   [Don't sweat the small stuff in love]
--   [HBR Guide to Negotiating]
 -   [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes/dp/0071401946/ref=sr_1_5?crid=1C69NZCEP2QJJ&keywords=Crucial+Conversations&qid=1645743844&sprefix=crucial+conversations%2Caps%2C77&sr=8-5)
 
--   [Don't Sweat the Small Stuff and It's All Small Stuff](https://www.amazon.com/dp/0786881852/ref=mes-dp?_encoding=UTF8&pd_rd_w=hEVPW&content-id=amzn1.sym.3a340fc9-0bb1-47bf-8573-ec35d7ba77e7&pf_rd_p=3a340fc9-0bb1-47bf-8573-ec35d7ba77e7&pf_rd_r=S5XMJQSD45DFK2010HP1&pd_rd_wg=bnGT8&pd_rd_r=6574aac3-7cd1-4757-b9b6-afcd16b35388) by Richard Carlson
+-   [Don't Sweat the Small Stuff and It's All Small Stuff] by Richard Carlson
 
 -   [Antifragile: Things That Gain from Disorder](https://book.douban.com/subject/25782902/) by Nassim Nicholas Taleb
 -   [Love, Freedom, and Aloneness:THE KOAN OF RELATIONSHIPS](https://www.amazon.com/Love-Freedom-Aloneness-Koan-Relationships/dp/0312291620) by Osho
@@ -58,12 +63,12 @@ date: 2012-03-19
 -   [亲密关系](https://book.douban.com/subject/27072923/) by Rowland S. Miller (7/10)
 -   [Benjamin Franklin——An American Life](https://book.douban.com/subject/2990595/)
 -   [HBR's 10 Must Reads on Managing Yourself](https://book.douban.com/subject/5415037/)
--   [Getting Acquired: How I Built and Sold My SaaS Startup](https://www.amazon.com/Getting-Acquired-Built-Sold-Startup-ebook/dp/B0B6BZT2MV/ref=sr_1_1?crid=FRR84WYX9GKT&dib=eyJ2IjoiMSJ9.KMdB_25vqfTK3sjrW23B9TrBTbdnQ5-7W0ATb76Uf04.rpbTUxq2PDNNbt4F964Veq80Pno8SECAdmKlilyx0yI&dib_tag=se&keywords=Getting+Acquired+How+I+Built+and+Sold+My+SaaS+Startup&qid=1742020507&s=audible&sprefix=getting+acquired+how+i+built+and+sold+my+saas+startup%2Caudible%2C717&sr=1-1-catcorr)
+-   [Getting Acquired: How I Built and Sold My SaaS Startup]
 -   [HBR on Self-Awareness]
 -   [HBR being a Great Bs] (10/10) (note: kind of self assurance)
 
 -   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
--   [Social Intelligence: The New Science of Human Relationships](https://www.amazon.com/Social-Intelligence-audiobook/dp/B000IU3WY8/?_encoding=UTF8&pd_rd_w=SKffl&content-id=amzn1.sym.05575cf6-d484-437c-b7e0-42887775cf30&pf_rd_p=05575cf6-d484-437c-b7e0-42887775cf30&pf_rd_r=138-0018281-6774746&pd_rd_wg=buhau&pd_rd_r=918d6df0-726a-4fb9-b4b3-4d8950000937&ref_=aufs_ap_sc_dsk)
+-   [Social Intelligence: The New Science of Human Relationships]
 -   [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti
 -   [Getting to Yes - Negotiating Agreement Without Giving In]
 -   [The Art of the Deal](https://book.douban.com/subject/1817125/)
