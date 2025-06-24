@@ -32,6 +32,8 @@ date: 2012-03-19
 -   **[HBR on Emotional intelligence]**
 -   [Your Money or Your Life](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766) by Vicki Robin
 -   **[The Almanack of Naval Ravikant]** by Eric Jorgenson (10/10)
+-   [情商 2-影响你一生的社交商] by Daniel Goleman
+-   [情商 3-影响你一生的工作情商] by Daniel Goleman
 
 -   [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships] by Leil Lowndes
 -   [How to Live an Extraordinary Life] by Anthony Pompliano
