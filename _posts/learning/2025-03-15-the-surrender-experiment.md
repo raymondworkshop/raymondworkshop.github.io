@@ -18,11 +18,20 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   the best way to win a debate is to **know the opponent's position better than the opponent**
 
+-   害怕別人非议
+
+    -   不可能让所有人满意
+    -   有好多人憎你，**代表你表达足够清晰的意见**
+    -   **宁愿做一个清晰的人**， 也不要做一个想讨好全世界的人
+        -   有自己的意见
+        -   stand for 自己的意见， 然后有自己的一席之地
+    -   **做一个不完美的真人**， 而不是完美的假人
+
 -   thinking big
 
     -   **choose to talk to the top**
 
-        -   the boss is actually the easiest to speak to
+        -   **the boss is actually the easiest to speak to**
         -   為什麼不願意和上司處理好關係？
 
             -   幫下面 可以 有自己的價值 <- 爸爸
@@ -46,7 +55,7 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   [36 -think big - Don't Sweat the Small Stuff About Money]
 
--   人是有等級之分的
+-   人是有上下等級之分的
 
 -   Thinking **You are the Great Catch**
 

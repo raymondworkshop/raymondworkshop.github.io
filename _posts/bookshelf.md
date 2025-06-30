@@ -30,12 +30,17 @@ date: 2012-03-19
 -   **[HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)** (9/10)
 -   **[蔡瀾谈爱情]** by 蔡瀾 (9/10)
 -   **[HBR on Emotional intelligence]**
+-   [The Untethered Soul: The Journey Beyond Yourself](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379) by Michael A. Singer
 -   [Your Money or Your Life](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766) by Vicki Robin
 -   **[The Almanack of Naval Ravikant]** by Eric Jorgenson (10/10)
+-   [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia
+-   [Trump: How to Get Rich]
 -   [情商 2-影响你一生的社交商] by Daniel Goleman
--   [情商 3-影响你一生的工作情商] by Daniel Goleman
-
 -   [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships] by Leil Lowndes
+-   [HBR Guide to Negotiating]
+-   [HBR Guide to Bying a Small Business]
+
+-   [情商 3-影响你一生的工作情商] by Daniel Goleman
 -   [How to Live an Extraordinary Life] by Anthony Pompliano
 -   **[The Subtle Art of Not Giving a Fck]** by Mark Manson
 -   [Everything Is F*cked] by Mark Manson
@@ -43,9 +48,6 @@ date: 2012-03-19
 -   [Suddenly in Charge] by Roberta Chinsky Matuson
 -   [丘吉尔传] by Andrew Roberts
 -   [同理心對話] (8/10)
--   [HBR Guide to Negotiating]
--   [HBR Guide to Bying a Small Business]
--   [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia
 
 -   [Don't sweat the small stuff in love]
 -   [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes/dp/0071401946/ref=sr_1_5?crid=1C69NZCEP2QJJ&keywords=Crucial+Conversations&qid=1645743844&sprefix=crucial+conversations%2Caps%2C77&sr=8-5)
