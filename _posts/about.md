@@ -14,3 +14,11 @@ You can see some of my projects [here](https://github.com/raymondworkshop). If y
 
 I do a lot of [reading](https://raymondworkshop.github.io/bookshelf.html).  
 Outside of tech, I like Philosophy, Nature, and Art.
+
+Some of My Favorite quotes:
+
+-   "Live a life created for you, instead of the life you create"
+-   "Buy yourself cake and flowers and get through it. "
+-   "It’s never too late to be what you might have been" - George Eliot
+-   "The good life is one inspired by love and guided by knowledge" - Bertrand Russell
+-   "No problem can be solved from the same level of consciousness that created it" - Albert Einstein
