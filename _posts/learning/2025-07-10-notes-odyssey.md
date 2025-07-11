@@ -23,6 +23,9 @@ abstract: "Live a life created for you, instead of the life you create"
 
 -   believe -> attitude -> behavor -> resist
 
+-   Active listening
+    -   meditation
+
 #### The Untethered Soul
 
 -   ch1
