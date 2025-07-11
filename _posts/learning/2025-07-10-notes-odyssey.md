@@ -10,8 +10,18 @@ abstract: "Live a life created for you, instead of the life you create"
 #### 2025-07-10
 
 -   My object in the journey
+
     -   Free Spirit
     -   True connections
+
+-   Odyssey
+
+    -   To study the self
+    -   to forget the self
+    -   to be enlightened by all things
+    -   If the mind is empty, it's always ready for anythin
+
+-   believe -> attitude -> behavor -> resist
 
 #### The Untethered Soul
 
