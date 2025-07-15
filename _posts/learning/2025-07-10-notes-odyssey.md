@@ -7,6 +7,41 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you, instead of the life you create"
 ---
 
+#### 2025-07-11- 2025-07-13
+
+-   TODO
+
+    -   <The Untethered Soul>
+    -   <The Psychology of Money>
+    -   <西藏生死書>
+
+-   最大的抗拒 是 靈魂和身體的死亡, 和錢
+
+-   Tasks
+
+    -   賭場
+
+        -   錢
+
+    -   sex club
+
+        -   空， 照顧好自己的靈魂
+
+    -   looking good
+
+    -   meditation
+
+    -   self-help
+
+    -   independent
+
+    -   墳場
+
+        -   死亡
+
+    -   手掌遊戲
+        -   無聊
+
 #### 2025-07-10
 
 -   My object in the journey

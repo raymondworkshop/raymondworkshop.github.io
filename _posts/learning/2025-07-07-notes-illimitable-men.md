@@ -62,8 +62,7 @@ abstract: "Live a life created for you, instead of the life you create"
 
 -   **The discount** if you're in a buyer's market
 
-    -   If they pay up but cannot afford your services in the future, **offer a tactical discount in
-        an attempt to retain their business (say 10%)**
+    -   If they pay up but cannot afford your services in the future, **offer a tactical discount in an attempt to retain their business (say 10%)**
 
         -   Do not offer a steep discount as it damages the perception you provide an elite service
         -   elite servies are not cheap services
@@ -97,6 +96,31 @@ abstract: "Live a life created for you, instead of the life you create"
 -   reference
     -   [The Art of Negotiation](https://illimitableman.wordpress.com/2016/02/15/the-art-of-negotiation)
 
+#### Shit Tests are used to "determine your frame" - **composure and self-control**
+
+-   Shit Tests
+
+    -   A dominance shit test
+        -   how mentally tough you are
+    -   Compliance
+        -   determine how much influence a person has over you
+    -   fitness determine your social skills/sense of humor
+
+-   Advanced level shit tests - psychological games
+
+    -   when people shit test you and it's a lose-lose situation, opt to **ignore them**
+        -   "Is there a way for me to benefit from responding to this?"
+        -   **Let reason override emotion, cultivate this skill by refining your self-discipline**
+
+-   Passing Shit Tests
+    -   agree and amplify
+    -   disagree and amplify
+    -   a pressure flip
+    -   Ignore
+        -   if it is a lose-lose game
+    -   change the topic of conversation
+    -   pretend you have no idea what the person shit testing you is talking about
+
 #### women big five personality traits
 
 -   Big five personality traits
@@ -104,9 +128,7 @@ abstract: "Live a life created for you, instead of the life you create"
     -   **low in neuroticism**
 
         -   more unreasonable, emotionally demanding and attention seeking.
-        -   a woman who has her neuroticism under control
-            will give her man space to thrive, work, learn and essentially carry out the tasks he needs
-            that don't require her presence
+        -   a woman who has her neuroticism under control will give her man space to thrive, work, learn and essentially carry out the tasks he needs that don't require her presence
 
     -   **high in conscientiousness**
 

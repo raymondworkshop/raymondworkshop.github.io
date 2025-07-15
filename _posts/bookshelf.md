@@ -31,10 +31,11 @@ date: 2012-03-19
 -   **[蔡瀾谈爱情]** by 蔡瀾 (9/10)
 -   **[HBR on Emotional intelligence]**
 -   [The Untethered Soul: The Journey Beyond Yourself](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379) by Michael A. Singer
--   [Your Money or Your Life](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766) by Vicki Robin
 -   **[The Almanack of Naval Ravikant]** by Eric Jorgenson (10/10)
+-   [The Psychology of Money]
 -   [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia
 -   [Trump: How to Get Rich]
+-   [Your Money or Your Life](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766) by Vicki Robin
 -   [情商 2-影响你一生的社交商] by Daniel Goleman
 -   [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships] by Leil Lowndes
 -   [HBR Guide to Negotiating]
