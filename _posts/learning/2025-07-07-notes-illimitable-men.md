@@ -69,6 +69,15 @@ abstract: "Live a life created for you, instead of the life you create"
 
 -   Understanding Psychopathy
 
+    -   how your brain connects your **behavioural choices to your sense of guilt, empathy**
+
+    -   **the lack of ability to feel guilt or fear** as consequent of their personal choices is
+        a great source of the power
+
+    -   The sheer unpredictability and audaciousness of the psychopathic element is what addicts women to these individuals, the spontaneity and impulsivity is electric
+        -   **Psychopathy is the delivery system of the machiavellian core**, the spontaneity,
+            the audaciousness, the guile
+
 #### negotiation
 
 -   perceptions in negotiation - friend or foe?

@@ -63,6 +63,10 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### The Untethered Soul
 
+-   ch4
+
+    -   TODO
+
 -   ch1
 
     -   To be aware that **you are watching** the mind talks
@@ -72,17 +76,28 @@ abstract: "Live a life created for you, instead of the life you create"
 
 -   ch2
 
+    -   There's a **separation between you and the anger of the jealousy**
+
+        -   **The first is you**, **the awareness**, **the witness**, **the center of your willful intentions**
+
+            -   The other is that which you watch
+
+        -   Just be aware of it
+            -   **sit inside yourself for a while** in complete solitude and silence
+            -   you're so close that you don't realize that **you're actually hypnotized into listening to the voice**
+            -   **if you could get rid of the voice**, the peace and serenity would be the nicest vacation you're ever had
+
     -   you'll never be free of problems until **you are free from the part within** that has so many problems
 
         -   "**What part of me is being disturbed** by this?";
             "What part of me is jealous?"
         -   "**who notices this inner** disturbance?"
 
-            -   To attain true inner freedom, you must be able to **objectively watch your problems** instead of being lost in them.
+            -   To attain true inner freedom, you must be able to **objectively watch your problems** instead of being lost in them
             -   No solution can possibly exist while you're lost in the energy of a problem
 
-        -   go inside and **let go of the part of you that seems to have so many problems with reality**.
-            -   Once you do that, you'll be clear enough to deal with what's left.
+        -   go inside and **let go of the part of you that seems to have so many problems with reality**
+            -   Once you do that, you'll be clear enough to deal with what's left
 
     -   **Commit yourself to the inner work of freedom**
 
@@ -106,6 +121,10 @@ abstract: "Live a life created for you, instead of the life you create"
         -   **I am the one who sees**.
             I look out, and I am aware of the events, thoughts, and emotions that pass before me
 
+    -   **When you just look without creating thoughts**, your consciousness is effortlessly aware of, and fully comprehends, all that it sees
+
+        -   the is your soul/self - **awareness, consciousness, and intuitive sense of existence**
+
     -   **You are behind everything**, Just watching
 
         -   You **sit far enough back inside to see** all **your thoughts and emotions** , as well as outer form
@@ -113,8 +132,5 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   You **live in the seat of consciousness**
         -   From the seat, you are aware that there are **thoughts, emotions, and a world coming in** through your senses
-
--   ch4
-    -   TODO
 
 #### reference
