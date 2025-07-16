@@ -43,6 +43,32 @@ abstract: "Live a life created for you, instead of the life you create"
 
 -   Quality beats quantity
 
+#### **personal power**
+
+-   Understanding Narcissism
+
+    -   The narcissism truly **believes they are superior** to everybody else
+        simply because **they are who they are and they exist**
+    -   **fake it** till you make it
+
+        -   **people of low self-esteem** and strive to be like the person they admire
+        -   people assume that self-love ones are high value
+
+    -   **they value their ego** over truth
+        -   If they do not avoid or completely ignore an attack on their ego, they will **deny reality/logic outright to preserve their ego**
+
+-   Understanding Machiavellianism
+
+    -   Machiavellians have a tendency to view things purely in terms of **value exchange** and care little for anything else
+
+        -   objectify **humans down to their utilitarianism** rather than **perceive them as entities with personalities** to be admired
+
+    -   Women are controlling, always fight for control of the relationship
+
+        -   **they prioritise what a person can do for them over** forming emotional bonds
+
+-   Understanding Psychopathy
+
 #### negotiation
 
 -   perceptions in negotiation - friend or foe?
@@ -135,7 +161,7 @@ abstract: "Live a life created for you, instead of the life you create"
         -   high self-discipline, and like to think things through
         -   willingness to get things done
 
-    -   moderately agreeable and open.
+    -   moderately agreeable and open
     -   outgoing
 
 -   A woman who is **frugal** respects money
@@ -151,7 +177,7 @@ abstract: "Live a life created for you, instead of the life you create"
     -   **spend time around losers**
 
         -   the loser is throwing their money away because they won't even turn up to workout,
-            He feels no guilt at all.
+            He feels no guilt at all
 
     -   place girls over their brothers
     -   whine about their problems to girls
@@ -166,7 +192,7 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### good friends can last a lifetime
 
--   **True friends** look out for your interests, women look out for their own.
+-   **True friends** look out for your interests, women look out for their own
     -   True friends are rare
     -   **A true friends is a family member** who doesn't share your blood,
         is loyal, cares about your progress, and is there for you in tough times
