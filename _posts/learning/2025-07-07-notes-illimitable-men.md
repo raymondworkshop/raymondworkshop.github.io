@@ -43,6 +43,21 @@ abstract: "Live a life created for you, instead of the life you create"
 
 -   Quality beats quantity
 
+#### Woman's love
+
+-   woman's love is a **lust for your power** and an **obsession with how your character makes her feel**
+
+    -   Male sacrifice is expected, and freely given
+
+    -   **Lust** is the basis for her love; women are masters of self-deception
+
+    -   women are emotionally neurotic
+        -   unfair to expect her to love you the same way your mother did
+
+-   **truth preference**
+    -   desire to know the truth, and ability to embrace it and endure it and accept it
+        rather than reject it because they do not like it
+
 #### **personal power**
 
 -   Understanding Narcissism

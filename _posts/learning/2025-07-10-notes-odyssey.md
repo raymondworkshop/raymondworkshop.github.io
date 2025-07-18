@@ -19,6 +19,8 @@ abstract: "Live a life created for you, instead of the life you create"
 
 -   Tasks
 
+    -   Active listening
+
     -   賭場
 
         -   錢
@@ -54,7 +56,7 @@ abstract: "Live a life created for you, instead of the life you create"
     -   To study the self
     -   to forget the self
     -   to be enlightened by all things
-    -   If the mind is empty, it's always ready for anythin
+    -   If the mind is empty, it's always ready for anything
 
 -   believe -> attitude -> behavor -> resist
 
@@ -63,9 +65,91 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### The Untethered Soul
 
--   ch4
+-   ch7
 
     -   TODO
+
+-   ch6
+
+    -   You are the **experiencer of your spiritual heart**
+
+        -   **You feel the heart's energy all the time**
+
+            -   what it is like to feel love in your heart
+            -   what it is like to feel inspiration and enthusiasm pour from your heart
+            -   what it is like to feel energy well up in your heart making you confident and strong
+
+        -   **All of the different things happen because the heart goes through changes**
+            -   we **fall in love if the heart** opens; the love stops if the heart closes
+            -   if the heart happens to **hurt, we get angry**
+            -   if we stop **feeling it altogether, we get empty**
+
+    -   **All the inner noise is just your attempt to process the blocked energy** and get it out of the way
+
+        -   It is **truly amazing to step back and look at this process**
+            -   As you willfully struggle to keep these events from passing through your consciousness,
+                **the energy first tries to release by manifesting through the mind**. it **then tries to release through the heart**. **That is what creates all the emotional activity**.
+                **When you resist even that release**, the energy gets packed up and forced into deep storage within the heart.
+        -   you are **wasting precious energy by blocking the flow through resisting and clinging**
+            -   **those that cause either problems or some sense of enjoyment**
+
+    -   **Enjoy life instead of clinging to it or pushing it away**
+
+        -   **If you can live like this, each moment will change you**.
+            If you are **willing to experience the gift of life** instead of fighting with it,
+            you will **be moved to the depth of your being**.
+        -   when you reach this state, you will begin to see the secrets of the heart.
+            -   **The heart is the place through which energy flows to sustain you**. This energy inspires you and raises you.
+        -   **Just open**, **relax your heart**, **forgive**, **smile**, or **do anything you want**
+            -   Just don't push it back down
+            -   **be willing to let it go** when it gets stimulated. **It only hurts for a minute and then it's over**
+                -   when that light blue Mustang drives by and **you feel fear or jealousy**, **just smile**.
+                    **Be happy that** this Samskara, which has been stored down there for all this time, **has the opportunity to make it through you**.
+
+    -   **Simply allow the experiences of life to come in and pass through your being**
+
+        -   **Be centered enough to just watch this stuff come up**. **Just let it all happen**. Don't process them.
+        -   **stop fighting it**, they'll come up constantl yand pass right through you
+
+        -   **Your reward is a permanently open heart**
+            -   **You live in love**, and **it feeds you and strengthens you**;
+                **Allow yourself to experience every note the heart can play**.
+
+-   ch5
+
+    -   you don't feel **this energy when you close your heart or close your mind**
+
+    -   **Spiritual energy** - Spirit - is what you're experiencing when love rushes up into your heart
+
+        -   this flow of energy comes from the depth of your being
+        -   we are programmed based on our past impressions such that all kinds of things can cause us to open and close
+
+    -   **Embrace life with all your heart and soul**
+
+        -   **No matter what it is**, it's beautiful when you feel that way inside
+            -   **Train yourself to open** every time
+        -   **Honor and respect the situation**. **Deal with it with openness**
+            -   "No. I'm not going to close. **I'm going to relax**. **I'm going to let this situation take place** and **be there with it**."
+        -   **Enjoy all of life**. **Dare to be different**
+
+            -   As long as you are defining what you like and what you don't like, you will open and close.
+                You are actually defining your limits
+
+    -   **You become a source of light** for all those around you
+        -   **people can pick up on your energy**, and you're feeding them with this flow
+        -   if you love life, nothing is worth closing over
+
+-   ch4
+
+    -   meditation
+        -   you must not only have the ability to **focus your consciousness completely on one object**,
+            you must also have the ability to make awareness itself be that object
+    -   You just **happen to be watching one**
+        -   **The world is just something you're watching**
+            **The more you are willing to just let the world be sth you're aware of**,
+            **the more it will let you be who you are - the Soul, the Self**
+        -   **Instead of just focusing on intently on this one human being's thoughts, emotions, and sensory world**, **you can pull back and see everything**. **You can move from the finite to the infinite**.
+            this is what Christ, buddha try to tell us.
 
 -   ch1
 
