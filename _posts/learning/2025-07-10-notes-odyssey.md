@@ -65,9 +65,39 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### The Untethered Soul
 
--   ch7
+-   ch8
 
     -   TODO
+
+-   ch7
+
+    -   You are **protecting your ego**, **your self-concept**
+
+        -   close down the centers to **avoid being too sensitive to the different energies coming in and causing fear**
+        -   **If you close and protect yourself**, **insecure person within your heart**. **You will never grow**
+        -   Living like this allows for very little spontaneous joy, enthusiasm, and excitement for life
+
+    -   **No matter how much pain the exposure** creates, you are **willing to pay that price for freedom**
+        -   **How often do U find yourself trying to protect and defend that weak part** of you?
+            **You start by watching life** and **noticing the constant flow of people and situations that hit your stuff** every day
+    -   The reward for not protecting your psyche is **liberation**
+
+        -   **You are free to walk through this world without a problem on your mind**.
+            **you are just having fun experiencing** whatever happens next. **Because you got rid of that scared part of you**, you don't ever have to worry about getting hurt.
+        -   **You just go about your business** and **put your whole being into whatever's happening**, instead of putting your whole being into your personal sensitivity.
+
+    -   **Your growth takes place** onece you've **made the commitment to free yourself of that scared person inside**
+
+        -   **You notice a emotion or thought emerges**, **relax behind it**. **Don't judge it**, **don't try to change it**.
+        -   if you **use your inner willpower to not go with it**, and just remain seated within.
+
+    -   **you decide to use life to free yourself**. **You become willing to pay any price for the freedom of your soul**
+
+        -   A wise person remains centered enough to **let go every time the energy shifts into a defensive mode**. The moment the energy moves and **you feel your consciousness start to get drawn into it**, you **relax and release**. **Falling behind the energy** instead of going into it. It just takes a moment of **conscious effort to decide that you're not going there**. You just let go.
+        -   It doesn't matter what others do, **unless you decide that it matters to you**.
+            Only you can take inner freedom away from yourself or give it to yourself.
+
+    -   **Learn to let go no matter how deep the pain**, you will achieve a great state.
 
 -   ch6
 
