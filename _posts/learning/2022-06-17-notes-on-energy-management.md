@@ -1,112 +1,130 @@
 ---
 layout: post
-title: "Notes on energy management skills"
+title: "!Notes on Energy"
 date: 2022-06-17
 comments: true
-categories: [learning, thinking, self,  important]
-abstract: "Notes on energy and time management skills"
+categories: [learning, thinking, self, important]
+abstract: "Notes on Energy - body, diets, sleep  "
 ---
 
-#### Notes on physical health  
-* your metal state can be fixed by your physical state    
-    - stressed ? **gym for 1 hour**  
-    - cannot focus?  walk for 10 minutes  
-    - low energy?  sleep 8 hours  
+#### Notes on physical health
 
-* eat good  
-    - enjoy food  
+-   2025-07-16
 
-* sleep good  
-    - 早睡早起  
+    -   終於有些 做 Gym 的感覺
+    -   Gym - 肌肉
+        -   前胸 - 上胸肌， 中， 下胸肌
+        -   中背
+        -   二頭肌， 三頭肌
 
-* get in shape  
-    - **lifelong fitness** should be a priority in your life  
-    - more exercises  
+-   your metal state can be fixed by your physical state
 
-##### FOOD  
-* enjoy food  
-    - 阿拉丁咖啡屋  
-    - Lime Garden - 青悅 - 越南菜  
-    - PUTIEN 莆田 - 福建菜  
-    - 湘川沪 - China land restaurant    
-    - 金禧茶樓  
-    - Pepperonis Pizza & Cafe  - 西貢意大利西餐  
-    - 憶食尚臘味煲仔飯  
-    - 十二味  
-    - Gaia Ristorante  
-    - harbour Fun Restaurant & Bar - 湾仔海滨  
-    - 北京烤鸭 -  湘川滬   
+    -   stressed ? **gym for 1 hour**
+    -   cannot focus? walk for 10 minutes
+    -   low energy? sleep 8 hours
 
-* notes  
-    - 先吃生的后吃熟的，先吃蔬菜后吃肉，最后才吃碳水化合物   
-        + 先吃沙律和水果
-        + 再吃生的，刺生  
-        + 再吃煮过的  
+-   eat good
 
+    -   enjoy food
 
-#####  activity  
-* activity  
-    - tennis  
-    - ~bowling~  
-    - 飞盘  
-      
-* hiking  
-    - 大尾督 单车  
-    - 大埔 - 大埔滘林徑藍路  
-    - 青衣自然径  
-    - 凤坑家乐径  
-    - 白水碗Pak Shui Wun  
-    - 昂平高原  
-        + 从 梅子林村 出发  
-    - 梧桐寨瀑布群  
-    - 黄牛山  
-    - 芝麻灣郊遊徑  
-    - 塘福泳滩  
-    - 大棠烧烤场  
-        + 燒烤炭/炭精/火钳/打火机， 燒烤網， 燒烤夾， 燒烤叉， 一次性纸盘/水杯     
-        + 馒头，（牛油蒜蓉燒）青口，红薯/锡箔纸， 牛肉，棉花糖，蜜糖， 盐/胡椒，可乐，水果    
+-   sleep good
 
-    - 北潭凹  
-    - 大潭  
-    - 千島湖大欖涌水塘  
-    - 流水響郊遊徑  
-    - 南涌  
+    -   早睡早起
 
+-   get in shape
+    -   **lifelong fitness** should be a priority in your life
+    -   more exercises
 
-##### swimming  
-* TODO  
+##### Diets
 
-##### badminton  
+-   enjoy food
 
-##### running  
+    -   阿拉丁咖啡屋
+    -   Lime Garden - 青悅 - 越南菜
+    -   PUTIEN 莆田 - 福建菜
+    -   湘川沪 - China land restaurant
+    -   金禧茶樓
+    -   Pepperonis Pizza & Cafe - 西貢意大利西餐
+    -   憶食尚臘味煲仔飯
+    -   十二味
+    -   Gaia Ristorante
+    -   harbour Fun Restaurant & Bar - 湾仔海滨
+    -   北京烤鸭 - 湘川滬
 
-#### Notes on Time Management  
-* **Time** is more valuable than money  
-    - Time is your most precious asset. Spend it wisely.  
+-   notes
+    -   先吃生的后吃熟的，先吃蔬菜后吃肉，最后才吃碳水化合物
+        -   先吃沙律和水果
+        -   再吃生的，刺生
+        -   再吃煮过的
 
-* Focus on **the most important things**  
+##### activity
 
-* deliver **the most value**  
+-   activity
+    -   tennis
+    -   ~bowling~
+    -   飞盘
+-   hiking
 
-* review your maker vs manager time  
-    - your productive time is your "Maker" time  
-    - **do deep work on your most valuable projects**    
-    - your distracted time is "Manager" time  
+    -   大尾督 单车
+    -   大埔 -  大埔滘林徑藍路
+    -   青衣自然径
+    -   凤坑家乐径
+    -   白水碗 Pak Shui Wun
+    -   昂平高原
+        -   从 梅子林村 出发
+    -   梧桐寨瀑布群
+    -   黄牛山
+    -   芝麻灣郊遊徑
+    -   塘福泳滩
+    -   大棠烧烤场
 
-* daily review and weekly review    
+        -   燒烤炭/炭精/火钳/打火机， 燒烤網， 燒烤夾， 燒烤叉， 一次性纸盘/水杯
+        -   馒头，（牛油蒜蓉燒）青口，红薯/锡箔纸， 牛肉，棉花糖，蜜糖， 盐/胡椒，可乐，水果
 
-* time management is about energy management  
+    -   北潭凹
+    -   大潭
+    -   千島湖大欖涌水塘
+    -   流水響郊遊徑
+    -   南涌
 
+##### swimming
 
-#### Need a system and mindset to support your efforts  
+-   TODO
 
+##### badminton
 
-#### Focus on what matters  
-* your health  
+##### running
 
-* your love 
+#### Notes on Time Management
 
-* your mission/business  
+-   **Time** is more valuable than money
+
+    -   Time is your most precious asset. Spend it wisely.
+
+-   Focus on **the most important things**
+
+-   deliver **the most value**
+
+-   review your maker vs manager time
+
+    -   your productive time is your "Maker" time
+    -   **do deep work on your most valuable projects**
+    -   your distracted time is "Manager" time
+
+-   daily review and weekly review
+
+-   time management is about energy management
+
+#### Need a system and mindset to support your efforts
+
+#### Focus on what matters
+
+-   your health
+
+-   your love
+
+-   your mission/business
 
 #### reference
-* [Getting Things Done](https://book.douban.com/subject/1316569/) by David Allen  
+
+-   [Getting Things Done](https://book.douban.com/subject/1316569/) by David Allen

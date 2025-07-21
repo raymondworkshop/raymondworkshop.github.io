@@ -69,6 +69,11 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   TODO
 
+-   Soul vs Ego
+
+    -   The ego lives in fear and the soul lives in love
+        -
+
 -   ch7
 
     -   You are **protecting your ego**, **your self-concept**
