@@ -67,12 +67,68 @@ abstract: "Live a life created for you, instead of the life you create"
 
 -   ch8
 
-    -   TODO
+    -   **Fear** is the cause of every problem
+
+    -   The purpose of spiritual evolution is to **remove the blockages that cause your fear**
+
+        -   You simply perit the pain to come up into your heart and pass through
+        -   If you want to **be free to the core of your being**, you must **let go immediately**
+
+            -   you **notice that sth in your heart gets hit**  
+                **If you let go** and stay in the seat of awareness, what you are noticing will pass
+            -   You **could have taken one breath** and ** let go when it started**
+            -   or **as your consciousness gets immersed in the disturbance**, you lose your clear seat of Self
+
+        -   **Open your heart**, and **let it go as you're aware that you didn't**
+            -   Do not rationalize, blame, or try to figure it out.
+                **Don't do anything, Just let go immediately**, and **allow the energy to go back to the highest center of consciousness** it can achieve.
+            -   **If you feel shame, let it go**. **If you feel fear**, **let it go**.
 
 -   Soul vs Ego
 
-    -   The ego lives in fear and the soul lives in love
-        -
+    -   **The ego lives in fear** and **the soul lives in love**
+
+        -   the ego is a person's sense of **self-importance**; it is your social mask;
+            **your social mask thrives on approval**. It wants control, and it is sustained **by power**, because it lives in fear.
+        -   our ego was 'created' to keep us safe. It is **a shield that protects our true emotions**
+            we need to do this because of a lack of **trust**
+
+    -   how is **big ego different from confidence**, and loving ourselves?
+
+        -   **whether our soul is present or not**
+        -   when someone's ego is too big, we categorise them as being selfish and solely focused on themselves.
+
+    -   impossible for both the ego and the soul to be working at the same time
+
+        -   each and everything we do feeds one of them
+        -   it is up to us to **recognize which one is present and when**
+
+    -   in each decision you make, ask yourself **is this my ego or my soul talking**
+
+        -   这个决定是**被爱，激情或其他正能量的东西驱动**，还是被恐惧所驱动
+        -   when we can recognize the difference - fear or love - and **step outside of our ego**, we can **welcome the soul in**
+        -   people who seek revenge, or do sth simply for spite, are overcome by their ego
+
+    -   spiritual and personal development is often to **quiet the ego** and **cultivate a stronger connection with the soul**
+
+        -   this involves **recognizing the ego's patterns**, **understanding its motivations**,
+            and **learning to discern its voice from the soul's gentle guidance**
+        -   some people find that **breathwork**, **meditation**, or **prayer** helps them to **center themselves and clear their minds** so they can **hear the soft whisperings of their souls**. others find **journaling or spending time in nature** helps tham to connect with their inner guidance.
+
+    -   Soul
+
+        -   **a deeper, true self**
+        -   connected to **love, peace, and compassion**
+        -   guide us **towards authenticity, purpose, and inner fulfilment**
+        -   through **intuition**, **gut feelings**, and gentle nudges
+        -   **on being present**, **accepting**, and **finding joy** in the journey
+
+    -   Ego
+        -   **self-identity**, built on a collection of **beliefs**, **experiences**, and **self-perceptions**
+        -   **driven by fear**, insecurity, and a desire for external validation
+        -   seek to **protect itself**, maintain control, and achieve a sense of worth through external means
+        -   through **self-doubt**, **negative self-talk**, and a focus on what's lacking
+        -   on the past, the future, and **accumulating external achievements**
 
 -   ch7
 

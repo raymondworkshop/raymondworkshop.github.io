@@ -7,7 +7,7 @@ categories: [learning, thinking, self, important]
 abstract: "Notes on Energy - body, diets, sleep  "
 ---
 
-#### Notes on physical health
+#### Notes on body health
 
 -   2025-07-16
 

@@ -33,10 +33,10 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
 
     -   Call out the inappropriate behavior in the moment
 
-*   Manging the Critical Voices inside your head
+*   Managing the Critical Voices inside your head
 
     -   **Is this voice helpful to me** in this particular moment?
-        -   If you think **it'll motivate you**, **listent to it**. If it will demoralize you, don't
+        -   If you think **it'll motivate you**, **listen to it**. If it will demoralize you, don't
         -   **Be strategic and intentional about whom you listen to - and when**
         -   **Pause to assess what's needed**, and then make a choice
 
@@ -45,13 +45,13 @@ abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
     -   **Consider the kind of leader you are** and **hope to be**
 
         -   you believe that **making time for others**, planning, and coaching
-        -   you view this **other-directed work as mission-critical** to your success
+        -   you view this **others-directed work as mission-critical** to your success
 
     -   Increase your **emotional intelligence** and **situational awareness**
 
         -   **what might their perspective** on this topic be?
         -   **how are they best motivated or influenced**?
-        -   **what does the situation** at hand call for?
+        -   **what does the situation at hand** call for?
         -   what are **the optimal outcomes and tone**?
 
     -   **Be clear and direct, always with respect**
