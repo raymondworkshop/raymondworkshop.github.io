@@ -7,6 +7,33 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you, instead of the life you create"
 ---
 
+#### 2025-07-22
+
+-   抗拒与投降
+
+    -   你察觉到什么关于抗拒与投降？
+        你在投降上面已有过什么样的体验了？
+        只是认知，察觉到，而没有评估或执着。
+        对抗拒又有什么体验？ 是否困在怨恨或欲望之中，在想要或不想要之中，在恐惧或假象的快乐之中？
+
+    -   会被自己 **对这个人的喜好 影响**
+
+-   中立无评估， 完**全投入， 去关心 去聆聽**
+
+    -   不加任何东西或省略任何东西的方式去反映你所听到的
+    -   假如你有情绪上或思绪上的反应，**很简单的就是去察觉到它**；
+        假如你被困住或迷失在你的反应之中，很简单地就是察觉到它
+
+-   自我觀察
+
+    -   被對方的情緒 - 尤其是伤心 - 所影響
+    -   不想聽的 會聽不到
+    -   冥想
+        -   經常播放被剛剛發生的事情 - 自言自語
+
+-   Ego always has and always will be the greatest obstacle to love.
+    Because love is about sacrificing the self for the other, whilst ego is about sacrificing the other for the self. This is why mutual self sacrifice is the winning formula. No asymmetry, just reciprocity.
+
 #### 2025-07-11- 2025-07-13
 
 -   TODO
@@ -32,6 +59,9 @@ abstract: "Live a life created for you, instead of the life you create"
     -   looking good
 
     -   meditation
+
+        -   **focusing on breath**, and observing thoughts and feelings without judgment
+        -   train attention and awareness to achieve a mentally clear and emotionally calm state
 
     -   self-help
 
