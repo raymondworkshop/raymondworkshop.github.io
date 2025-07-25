@@ -111,6 +111,48 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### The Untethered Soul
 
+-   ch10
+
+    -   TODO
+
+-   ch9
+
+    -   **Do not doubt your ability to remove the root cause of the disturbance inside of you**
+
+        -   Donot **Let the fear of their inner thorns** affect the behavior
+        -   You can **look deep within yourself**, **to the core of your being**,
+            and **decide that you don't want the weakest part of you running your life**
+            -   You wanna talk to people because you find them interesting, not because you're lonely
+            -   you wanna have relationships with people because you genuinely like them, not because you need for them to like you
+            -   you wanna love because you truly love, not because you need to avoid your inner problem
+
+    -   you **free yourself by finding yourself**
+
+        -   **Stop playing with them**.
+            If you want, you can simply **permit the disturbances to come up**, and you can **let them go**
+
+        -   What you can do is **notice that you notices**.
+            You **notice it is watching your inner melodrama**.
+            **Notice who it is that feels** the loneliness. The one who notices is already free.
+
+        -   If you maintain your center, you can **learn to appreciate and respect even the difficult experiences**
+            -   **See it feel jealousy, need, and fear**; They are **just sth you're feeling and experiencing**.
+                You are the indwelling being that is aware of all of this
+
+    -   **Be an explorer**. **Witness it**, and **then it will go**
+
+        -   **Notice and just watch how experiencing loneliness affects you**.
+            Does your **posture** change? Do you **breathe** slower or faster?
+            **What goes on** when loneliness is given the space it needs to pass through you?
+        -   If you don't get absorbed in it, **the experience will soon pass** and **sth else will come up**.
+            **Just enjoy all of it**. If you can do this, you will be free, and **a world of pure energy will open up within you**.
+
+    -   **Experience if you hang out with the SELF** instead of hanging out with inner disturbances
+        -   **Sit comfortably deep inside the seat of awareness**, you will start to **feel this flow of energy coming up from deep within**
+        -   You don't have to get rid of loneliness; you just **cease to be involved with it**.
+            Awareness does not fight; **awareness releases**. **Awareness is simply aware while everything in the universe parades before it**
+        -   **It's ok to feel inner disturbances**, and that they can no longer disturb your seat of consciousness, you will be free
+
 -   ch8
 
     -   **Fear** is the cause of every problem
