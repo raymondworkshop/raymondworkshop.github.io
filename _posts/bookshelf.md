@@ -31,25 +31,28 @@ date: 2012-03-19
 -   **[蔡瀾谈爱情]** by 蔡瀾 (9/10)
 -   **[HBR on Emotional intelligence]**
 -   [The Untethered Soul: The Journey Beyond Yourself](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379) by Michael A. Singer
--   **[The Almanack of Naval Ravikant]** by Eric Jorgenson (10/10)
+-   [The Diary of a CEO] by Steven Bartlett
+-   [沈思錄]
+-   **[The Almanack of Naval Ravikant]** by Eric Jorgenson
+-   [Don't Sweat the Small Stuff About Money: Simple Ways to Create Abundance and Have Fun] by Richard Carlson (9/10)
 -   [The Psychology of Money]
+-   [丘吉尔传] by Andrew Roberts
+-   [HBR being a Great Bs] (10/10) (note: kind of self assurance)
 -   [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia
+-   [HBR Guide to Negotiating]
+-   [HBR Guide to Bying a Small Business]
+
 -   [Trump: How to Get Rich]
 -   [Your Money or Your Life](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766) by Vicki Robin
 -   [情商 2-影响你一生的社交商] by Daniel Goleman
 -   [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships] by Leil Lowndes
--   [HBR Guide to Negotiating]
--   [HBR Guide to Bying a Small Business]
-
 -   [情商 3-影响你一生的工作情商] by Daniel Goleman
 -   [How to Live an Extraordinary Life] by Anthony Pompliano
 -   **[The Subtle Art of Not Giving a Fck]** by Mark Manson
 -   [Everything Is F*cked] by Mark Manson
--   [Don't Sweat the Small Stuff About Money: Simple Ways to Create Abundance and Have Fun] by Richard Carlson (9/10)
 -   [Suddenly in Charge] by Roberta Chinsky Matuson
--   [丘吉尔传] by Andrew Roberts
--   [同理心對話] (8/10)
 
+-   [同理心對話] (8/10)
 -   [Don't sweat the small stuff in love]
 -   [Crucial Conversations: Tools for Talking When Stakes are High](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes/dp/0071401946/ref=sr_1_5?crid=1C69NZCEP2QJJ&keywords=Crucial+Conversations&qid=1645743844&sprefix=crucial+conversations%2Caps%2C77&sr=8-5)
 
@@ -59,18 +62,14 @@ date: 2012-03-19
 -   [Love, Freedom, and Aloneness:THE KOAN OF RELATIONSHIPS](https://www.amazon.com/Love-Freedom-Aloneness-Koan-Relationships/dp/0312291620) by Osho
 
 -   [The Maxwell Daily Reader](https://www.amazon.com/Maxwell-Daily-Reader-Insight-Influence/dp/1400203392) by John C. Maxwell
--   [沈思錄]
--   [The Untethered Soul: THE JOURNEY BEYOND YOURSELF](https://book.douban.com/subject/26677431/) by Michael A. Singer
 -   [Adventures of the soul] by James Van Praagh
 -   [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer
--   [the psy of money]
 -   [Software Design by Example](https://third-bit.com/sdxpy/)
 -   [亲密关系](https://book.douban.com/subject/27072923/) by Rowland S. Miller (7/10)
 -   [Benjamin Franklin——An American Life](https://book.douban.com/subject/2990595/)
 -   [HBR's 10 Must Reads on Managing Yourself](https://book.douban.com/subject/5415037/)
 -   [Getting Acquired: How I Built and Sold My SaaS Startup]
 -   [HBR on Self-Awareness]
--   [HBR being a Great Bs] (10/10) (note: kind of self assurance)
 
 -   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
 -   [Social Intelligence: The New Science of Human Relationships]
