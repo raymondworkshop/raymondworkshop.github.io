@@ -10,6 +10,7 @@ abstract: "About Cantonese"
 #### 口語表達
 
 益你 yik nei - 便宜你
+博懵 bok mung - 占便宜
 
 #### how to express
 

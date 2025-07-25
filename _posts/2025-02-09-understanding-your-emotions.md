@@ -8,8 +8,6 @@ categories: [home, important, self, softskills, learning]
 abstract: "Understanding your emotions; And you can Control your life  ."
 ---
 
-#### Some notes on LOVE
-
 #### All emotions are an important source of information about what's going on inside us
 
 -   emotions **give purpose**, **priority, and focus** to our thinking
@@ -43,10 +41,11 @@ abstract: "Understanding your emotions; And you can Control your life  ."
     -   "**what's happening** that makes you hate it so much? "
     -   **What caused** this feelings?
     -   **Why**, of all the possible reactions, that particular one?
+
         -   **what matters** is the person's experience?
-    -   **Take real bravery** to follow the investigation to the end,
-        paired with **genuine motivation**,
-        this skill empowers us to be better friends, family members, students, colleagues, and partners
+        -   **Take real bravery** to follow the investigation to the end,
+            paired with **genuine motivation**,
+            this skill empowers us to be better friends, family members, students, colleagues, and partners
 
     -   understaning emotions is a journey. Possibly an adventure
 
@@ -67,7 +66,7 @@ abstract: "Understanding your emotions; And you can Control your life  ."
         -   envy is caused by our coveting sth that's not ours
     -   **Joy and contentment**
         -   Joy is caused by **a sense of getting what one wants**
-            contentment is caused by **a sense of completeness** (not wanting or needing anything)
+        -   contentment is caused by **a sense of completeness** (not wanting or needing anything)
     -   **Stress and pressure**
         -   Stress is a response to too many demands and not enough resources
         -   **pressure is the force from the outside** that tells us sth important is at stake,
@@ -222,8 +221,8 @@ abstract: "Understanding your emotions; And you can Control your life  ."
 
         -   **找个自己能踏踏实实做的事情，用心琢磨**，
             当你做出成绩时，就会觉得这事有意思，有成就感，慢慢就能越做越好
-        -   **因精神懒惰而带来的那种宿命情结**，而导致给自己找主子
-        -   在集体中寻找个人价值 同时伺机破坏规则的狡写
+        -   国人**因精神懒惰而带来的那种宿命情结**，而导致给自己找主子
+        -   国人在集体中寻找个人价值 同时伺机破坏规则的狡猾
 
     -   **The world just reflects your own feelings back at you**.
 
@@ -269,7 +268,7 @@ abstract: "Understanding your emotions; And you can Control your life  ."
 
         -   压力
 
-            -   **写下来，辩真伪**； 伪->不管； 真- 定解决方案
+            -   **写下来，辩真伪**； 伪->不管； 真-> 定解决方案
 
         -   Forgiving - Ignore nonsense
             -   Forgiving does not depend on their apology

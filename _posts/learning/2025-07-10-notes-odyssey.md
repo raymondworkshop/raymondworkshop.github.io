@@ -9,6 +9,10 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### 2025-07-22
 
+-   do not search for the truth
+
+    -   only cease to cherish opinions
+
 -   抗拒与投降
 
     -   你察觉到什么关于抗拒与投降？
@@ -26,6 +30,7 @@ abstract: "Live a life created for you, instead of the life you create"
 
 -   自我觀察
 
+    -   independent
     -   被對方的情緒 - 尤其是伤心 - 所影響
     -   不想聽的 會聽不到
     -   冥想
@@ -40,9 +45,15 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   <The Untethered Soul>
     -   <The Psychology of Money>
+    -   <The Making of Manager>
     -   <西藏生死書>
 
--   最大的抗拒 是 靈魂和身體的死亡, 和錢
+-   最大的抗拒 是
+
+    -   钱
+        -   自由
+        -   懒
+    -   靈魂和身體的死亡
 
 -   Tasks
 
@@ -62,6 +73,11 @@ abstract: "Live a life created for you, instead of the life you create"
 
         -   **focusing on breath**, and observing thoughts and feelings without judgment
         -   train attention and awareness to achieve a mentally clear and emotionally calm state
+
+        -   when we perceive the world as a part of us, love flows strongly between the world and us
+        -   oneness
+            -   truth + love
+            -   knowing you're already connected
 
     -   self-help
 
