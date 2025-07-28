@@ -22,7 +22,7 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   会被自己 **对这个人的喜好 影响**
 
--   中立无评估， 完**全投入， 去关心 去聆聽**
+-   中立无评估， **完全投入， 去关心 去聆聽**
 
     -   不加任何东西或省略任何东西的方式去反映你所听到的
     -   假如你有情绪上或思绪上的反应，**很简单的就是去察觉到它**；
@@ -31,7 +31,9 @@ abstract: "Live a life created for you, instead of the life you create"
 -   自我觀察
 
     -   independent
-    -   被對方的情緒 - 尤其是伤心 - 所影響
+    -   被對方的情緒
+        -   尤其是伤心 - 所影響
+        -   被弱小所影响
     -   不想聽的 會聽不到
     -   冥想
         -   經常播放被剛剛發生的事情 - 自言自語
@@ -117,9 +119,66 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### The Untethered Soul
 
+-   ch11 - pain, the price of freedom
+
 -   ch10
 
-    -   TODO
+    -   **you don't feel whole and complete within yourself** - **fear**
+
+        -   you will **hide behind finances, people, fame, and adoration**
+        -   Just stop for a moment and **see what you have given your mind to do**
+
+            -   The mind is constantly trying to give you advice about how to make it all okay
+
+            -   You mind is simply a computer  
+                It can be used to ponder great thoughts, solve scientific problems, and serve humanity.
+                But you are the one who is **trying to use the analytical mind to protect yourself from the natural unfolding of life**
+
+        -   **stop expecting the mind to protect yourself from the natural unfolding of life**
+
+    -   U can live a life completely free from the fears of the psyche
+
+        -   **Just watch the mind talk**, and **keep relaxing and releasing**. **Fall behind the noise**.
+
+            -   **You**, the one inside watching the neurotic mind, **just relax**; You are not the thinking mind; **you are aware of the thinking mind**.
+
+            The minute you **stop putting your whole heart and soul into the mind** as if it were your savior and protector, you will find yourself behing the mind watching it
+
+    -   begin this journey to freedom by **regularly reminding yourself to watch the psyche**
+
+        -   **relax your shoulders**, **relax your heart**, and **stop putting energy into your psyche**
+
+        -   some triggers in everyday life that **help U remember who you are** and **what's going on inside**
+
+    -   **Every change in your energy flow**, whether it's **agitation of the mind** or **shifts in the heart**,
+        will be what **eminds you that you are back there noticing**
+        -   remind you to remain centered. Eventually **it will become quiet enough** so that you can **simply watch the heart begin to react**, and **let go before the mind starts**. **At some point in the journey it all becomes heart, not mind**. You will **see that the mind follows the heart**. **The heart reacts way before the mind starts talking**.
+        -   When you are conscious, **the shifts of energy in your heart cause you to instantaneously be aware that you are back there noticing**. The mind doesn't even get a chance to start up because **you let go at the heart level**
+
+-   **Being or thinking**?
+
+    -   When you're feeling sth, **bring in your awareness to check out where the feeling is coming from**
+
+    -   **Being -> Feeling -> Intuitive Sparks -> Inspired Action** - Heart
+
+        -   **Breathe in and breathe out**; **Close your eyes and clear you mind**.
+            You'll **start to sense an energy within you and around you**.
+            **It feels elevating, expansive, and really nice**.
+            This sensation is not there due to a thought in the mind.
+            **When you have cleared your awareness from the mind**, **you are simply being**.
+            And **in this simplicity of being**, you **find a deep sense of peace**.
+            And in this deep sense of peace, you will start to **sense greater sensations of joy, love, and freedom**. And **here lies the heart**. Where, **regardless of the 'situation' you're in now, you still feel great**. But, the feeling didn't come from a thought. The feeling came from being.
+
+    -   Thinking -> Feeling - Mind
+
+        -   **The feeling is a direct result of the mind thinking**.
+            And the feeling from the thoughts continue to lead to more thoughts that match the level of the feeling.
+
+    -   reference
+        -   [Joy Parade](https://www.joyparade.co/blog)
+        -   [Feelings from the Heart or Mind](https://www.joyparade.co/blog/feelings-from-heart-vs-mind)
+        -   [A Friendship Story: Heart & Mind — Balance Your Child's Sparks of Joy & Logical Practicalities]
+        -   [Heart & Mind: Meet A New Friend — Help Your Child Release Heavy Emotions & Live In Joy]
 
 -   ch9
 
