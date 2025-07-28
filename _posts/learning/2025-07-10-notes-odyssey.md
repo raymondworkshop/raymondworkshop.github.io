@@ -95,6 +95,12 @@ abstract: "Live a life created for you, instead of the life you create"
 -   My object in the journey
 
     -   Free Spirit
+    -   understanding youself - build self-acceptance
+        -   understand who you are and who you want to be
+        -   practise self-awareness
+            -   keeping journals, going to a therapist
+                or talking to friends
+            -   learn more about who you are and why you do what you do
     -   True connections
 
 -   Odyssey
