@@ -119,7 +119,37 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### The Untethered Soul
 
+-   ch12 - taking down the walls
+
+    -   TODO
+
 -   ch11 - pain, the price of freedom
+
+    -   You will come to see that any behavior pattern **based on the avoidance of pain**
+
+        -   decide that you don't want to spend your entire life **avoiding the inner pain**; you'd rather get rid of it
+        -   you can **simply live your life** and **experience what it's like to be on a planet** that is spinning around in the middle of nowhere, until you die
+
+    -   You can **feel the effects of 'close' as the sensation of contracting within your heart**
+
+        -   Somebody says sth displeasing, and **you feel some disturbance in your heart**. **Then your mind starts talking**: "I don't have to put up with this. I'll just walk away and never talk to them again. They'll be sorry." **Your heart is attempting to pull back from what it's experiencing** and protect itself so that it doesn't have to experience that feeling again
+        -   You do this because **you cann't handle the pain you're feeling**. As long as you can't handle the pain,you will react by closing in order to protect yourself. **Once you close**, **your mind will build an entire psychological structure around your closed energy**. **Your thoughts will try to rationalize why you're right and what you should do about it**.
+
+    -   When you feel pain, **simply view it as energy**
+
+        -   At any moment you **can feel frustration, anger, fear, jealousy, insecurity, or embarrassment**.
+            **If you watch, you will see that the heart is trying to push it** all away. If you want to be free,
+            you have to **learn to stop fighting these human feelings**.
+
+        -   First **accept that there is pain in your heart**. Just **accept that it is in there** and **that you are going to feel it**. **Accept that if you relax**, **it will have its moment before your awareness**, and **then it will pass**.
+
+    -   Pain is the price of freedom
+
+        -   **As you relax into the energy of the pain**, **you may feel tremendous heat in your heart**. That is **the pain being purified from your heart**. **Learn to enjoy that burning** because it is freeing you.
+        -   And the moment you are willing to pay that price, you will no longer be afraid.
+
+    -   When you are **comfortable with pain passing through you**, **you will be free**
+        -   **The worst the world can do is to hit the pain stored within you**. **If you do not care**, **if you are no longer afraid of yourself**, **you are free**. **You will then be able to walk through this world more vibrant and alive than ever before**. **You will feel everything at a deeper level**.
 
 -   ch10
 
