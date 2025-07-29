@@ -39,7 +39,102 @@ categories: [softskills, learning, summary, management]
             -   half is your team's **results**
             -   the other half is based on the **strength** - hiring and developing - and **satisfaction** - happy and working well together - of my team
 
-    -
+    -   Every-day duties - **how much of a multiplier effect** he has on her team
+
+        -   Your role as a manager is to **improve the purpose, people, and process of your team to get as high a multiplier effect on your collective outcome** as you can
+
+        -   purpose - **why** do you choose to do this thing
+
+            -   **Getting everyone to understand and believe in your team's purpose**
+                -   whether it's as specific as 'make every customer who calls feel cared for' or as broad as 'bring the world closer together'
+            -   **ensure that your team knows what success looks like** and cares about achieving it.
+
+        -   people
+
+            -   Do they have the right skills? Are they motivated to do great work?
+
+            -   **develop trusting relationships with them**, **understand their strengths and weakness** (as well as your own), **make good decisions about who should do what** (hiring and firing), and **coach individuals to do their best**
+
+        -   process - how your team works together
+            -   **establish common values** within our team for **how we make decisions** and **respond to problems**
+
+    -   What motive you to be a manager
+
+        -   **management is all about people**
+
+        -   as a manager, you are **judged on your team's outcomes**,
+            so your job is to **do whatever most helps them succeed**
+            -   priority is **making their team successful**,
+                and **willing to adapt to become the leaders that their organizations need**
+        -   like talking with people
+            -   your responsibility is **ensuring that the individuals you support are able to thrive**
+            -   **listening to and talking with them** are a core part of the job
+        -   remain steady and provide care and support through dips of life
+
+-   ch2
+
+    -   The apprentice
+        -   playing the role of **coach**
+            -   understanding your peers' **career goals**, **what kind of projects** are well suited to their strengths and interests, **what they need help with**, and **how they are doing relative to expectations**
+            -   **support and help your people reach their goals** - what they're doing well and where they might stretch
+        -   having hard conversations
+
+-   ch3
+
+    -   Everything always goes back to people
+
+    -   **Build trust** - you truly care about them
+
+        -   whether bring their biggest challenges - mistakes, challenges, and fears - to your attention
+        -   whether give each other critical feedback and it isn't taken personally
+        -   whether gladly work for you again
+
+    -   **managing is caring**
+
+        -   do your best to **help your report be successful and fulfilled in her work**
+            -   take the time to **learn what she cares about**
+            -   understand that **we are not separate people** at work and at home
+        -   it must **be unconditional because it's about the person as a whole** rather than what she does for u
+
+    -   Invest time to help your report
+
+        -   **focus on your report** and **what would help him be more successful**, not on you and what you need
+            -   what motivates him, what his long-term career aspirations are, how he's generally feeling about his work
+        -   your job is to **be a multiplier for your people**
+            -   if you can **remove a barrier**, provide a valuable **new perspective**, or **increase their confidence**,then you're enabling them to be more successful
+
+    -   your job as a manager to **empower your report to find the answer herself**
+        -   **She has more context** than you on the problems she's dealing with; Let her lead the 1:1 while you **listen and probe**
+        -   **Identify** - **focus on what really matters** for your report and **what topics**
+            -   what's top of mind for you right now?
+            -   **what priorities** are U thinking about this week?
+            -   what's the best use of our time today?
+        -   **Understand** - get at **the root of the problem** and what can be done about it
+            -   what does your ideal outcome look like?
+            -   what's hard for U in getting to that outcome?
+            -   what do U really care about?
+            -   what's the worst-case scenario you're worried about?
+        -   support -
+            -   how can I help U?
+            -   what was the most useful part of our conversation today?
+    -   **Help people play to their strengths**
+
+        -   **Don't let the worst performers dominate your time**
+
+    -   shouldn't tolerate on your team
+        -   regularly **put others down**
+            -   make other people feel worse about themselves or who specifically targets people less powerful than him or her
+        -   find someone who are just as **talented and humble and kind**
+
+-   ch4 - the art of feedback
+
+    -   set clear expectations at the beginning
+    -   give task-specific feedback as frequently as you can
+    -   **share behavioral feedback** thoughtfully and regularly
+        -   **be considered and supported with specific examples** to explain why you feel that way
+
+-   ch5
+    -   TODO
 
 #### Embrace managing up
 
