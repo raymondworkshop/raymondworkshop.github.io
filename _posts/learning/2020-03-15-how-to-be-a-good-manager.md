@@ -96,35 +96,63 @@ categories: [softskills, learning, summary, management]
             -   understand that **we are not separate people** at work and at home
         -   it must **be unconditional because it's about the person as a whole** rather than what she does for u
 
-    -   Invest time to help your report
+    -   Apprentice
 
-        -   **focus on your report** and **what would help him be more successful**, not on you and what you need
-            -   what motivates him, what his long-term career aspirations are, how he's generally feeling about his work
-        -   your job is to **be a multiplier for your people**
-            -   if you can **remove a barrier**, provide a valuable **new perspective**, or **increase their confidence**,then you're enabling them to be more successful
+        -   Invest time to help your report
 
-    -   your job as a manager to **empower your report to find the answer herself**
-        -   **She has more context** than you on the problems she's dealing with; Let her lead the 1:1 while you **listen and probe**
-        -   **Identify** - **focus on what really matters** for your report and **what topics**
-            -   what's top of mind for you right now?
-            -   **what priorities** are U thinking about this week?
-            -   what's the best use of our time today?
-        -   **Understand** - get at **the root of the problem** and what can be done about it
-            -   what does your ideal outcome look like?
-            -   what's hard for U in getting to that outcome?
-            -   what do U really care about?
-            -   what's the worst-case scenario you're worried about?
-        -   support -
-            -   how can I help U?
-            -   what was the most useful part of our conversation today?
-    -   **Help people play to their strengths**
+            -   **focus on your report** and **what would help him be more successful**, not on you and what you need
+                -   what motivates him, what his long-term career aspirations are, how he's generally feeling about his work
+            -   your job is to **be a multiplier for your people**
+                -   if you can **remove a barrier**, provide a valuable **new perspective**, or **increase their confidence**,then you're enabling them to be more successful
 
-        -   **Don't let the worst performers dominate your time**
+        -   your job as a manager to **empower your report to find the answer herself**
 
-    -   shouldn't tolerate on your team
-        -   regularly **put others down**
-            -   make other people feel worse about themselves or who specifically targets people less powerful than him or her
-        -   find someone who are just as **talented and humble and kind**
+            -   **She has more context** than you on the problems she's dealing with; Let her lead the 1:1 while you **listen and probe**
+            -   **Identify** - **focus on what really matters** for your report and **what topics**
+                -   what's top of mind for you right now?
+                -   **what priorities** are U thinking about this week?
+                -   what's the best use of our time today?
+            -   **Understand** - get at **the root of the problem** and what can be done about it
+                -   what does your ideal outcome look like?
+                -   what's hard for U in getting to that outcome?
+                -   what do U really care about?
+                -   what's the worst-case scenario you're worried about?
+            -   support -
+                -   how can I help U?
+                -   what was the most useful part of our conversation today?
+
+        -   **Help people play to their strengths**
+
+            -   **Don't let the worst performers dominate your time**
+
+        -   shouldn't tolerate on your team
+            -   regularly **put others down**
+                -   make other people feel worse about themselves or who specifically targets people less powerful than him or her
+            -   find someone who are just as **talented and humble and kind**
+
+    -   The new boss
+
+        -   You're coming in fresh, and you **have a chance to form new ties** and **reset your identity**
+
+            -   **understand what your reports "dream manager" looks like**
+                -   "what are the ways **in which you'd like to be supported**?"
+                -   "**which kind of feedback** is most useful for you?"
+                -   "What did you and your past discuss that **was most helpful to you**?"
+                -   "**what would that look like** if you and I had an amazing relationship?"
+            -   **calibrate your expectations around 'what's normal'**
+
+                -   listen, ask questions, and learn based on **specific scenarios**
+                -   "how do U **determine which things to prioritize**?"
+                -   "What does it mean to **do a great job versus an average or poor job**? can U give me some examples?"
+                -   "I noticed that Z happened the other day ... **Is that normal or should I be concerned**?"
+
+            -   **build trust** - **address the elephant in the room**
+
+                -   "Since **I'm new**, **you might not feel comfortable sharing everything with me right away**.
+                    **I hope to earn your trust over time**. **I'll start by sharing more about myself, including my biggest failure ever** ..."
+
+            -   **understand your own manager expectations**
+                -   be honest with your own manager about what's working for U and what isn't
 
 -   ch4 - the art of feedback
 

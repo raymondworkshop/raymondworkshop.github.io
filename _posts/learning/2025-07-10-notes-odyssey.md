@@ -7,6 +7,10 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you, instead of the life you create"
 ---
 
+#### 2025-07-30
+
+-   TODO
+
 #### 2025-07-22
 
 -   do not search for the truth
@@ -122,6 +126,15 @@ abstract: "Live a life created for you, instead of the life you create"
 -   ch12 - taking down the walls
 
     -   TODO
+
+-   Finding peace from mind
+
+    -   the moments of greatest pleasure
+        -   that voice in your head goes silent, it calms down
+    -   our mind evolved to be paranoid, fearful and angry
+        -   natural is brutal. We did it through fear, violence and cooperation
+    -   our evolved nature rewards pessimism.
+        -   modern society's a lot safer and more peaceful
 
 -   ch11 - pain, the price of freedom
 
