@@ -9,7 +9,32 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### 2025-07-30
 
--   TODO
+-   分享
+
+    -   **沟通你现在的体验**，成功或失败，快乐或不快乐，兴奋或沉闷，焦点放在思绪及情绪上的诚实
+
+    -   中立关心地去倾听，察觉到对于被分享出来的东西，**你有什么样的意见，评估判断及感觉**
+    -   察觉每个人的体验是**由什么隐藏在底层的信念或态度所创造出来的**
+
+-   Self
+
+    -   managing is caring
+
+        -   intention
+
+    -   想被大家接受，但有不想失去自己的身份
+
+        -   自己来香港的经历
+
+    -   尴尬 - ashamed or shy
+
+        -   guilt
+            -   a feeling of worry that you have done sth wrong, such as causing harm to another person
+        -   害怕被 judge， 或者没有满足到别人的期望
+        -   **如果不表达自己**， **别人也就不了解你**
+
+    -   过于 nice， 不想冲突
+        -   不想让自己心情不好
 
 #### 2025-07-22
 
@@ -123,9 +148,20 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### The Untethered Soul
 
--   ch12 - taking down the walls
+-   ch13 - far, far beyond
 
     -   TODO
+
+-   ch12 - taking down the walls
+
+    -   Your house is made of your thoughts and emotions. The walls are made of your psyche
+        -   You have **built a self-concept**
+    -   you must go past these walls
+
+        -   **activate these old feelings of fear**, and you decide to walk right toward it
+        -   It **shakes you to the core of your being** because it challenges the house of thougths in which you are dwelling. To fix this, you start in with your rationalizations
+
+    -   **Focus on the walls of your own making** that are blocking the light
 
 -   Finding peace from mind
 
