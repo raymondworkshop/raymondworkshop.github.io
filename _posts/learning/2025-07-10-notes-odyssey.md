@@ -13,7 +13,7 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   **沟通你现在的体验**，成功或失败，快乐或不快乐，兴奋或沉闷，焦点放在思绪及情绪上的诚实
 
-    -   中立关心地去倾听，察觉到对于被分享出来的东西，**你有什么样的意见，评估判断及感觉**
+    -   **中立关心地去倾听**，察觉到对于被分享出来的东西，**你有什么样的意见，评估判断及感觉**
     -   察觉每个人的体验是**由什么隐藏在底层的信念或态度所创造出来的**
 
 -   Self
@@ -22,7 +22,39 @@ abstract: "Live a life created for you, instead of the life you create"
 
         -   intention
 
-    -   想被大家接受，但有不想失去自己的身份
+    -   过于自主 - independent
+
+        -   向上社交
+
+            -   被看成讨好
+
+        -   Successful managers develop relationships with everyone they depend on - including the boss
+
+        -   **Managing your boss**
+
+            -   **mutual dependence**
+                -   **have a good understanding of the other person and yourself**,
+                    especially regarding **strengths, weaknesses, work styles, and needs**
+                -   use this information to **develop and manage a healthy working relationship** -
+                    one that is characterized by mutual expectations, and **meets the most critical needs** of the other person
+            -   Understanding the Boss
+                -   Seek out information about the boss's **goals and problems and pressures**
+                -   Being senstitive to a boss's **working style**
+            -   Understanding yourself
+                -   your know your own **needs, strengths and weaknesses, and personal style**
+                -   you are **counterdependence**
+                    -   most bosses are imperfect; they **have their own pressures and concerns**
+            -   developing and managing the relationship
+
+                -   compatible work styles
+                    -   'listeners' or 'readers'
+                    -   bosses' decision-making style - involvement or delegate
+                -   A flow of information
+                -   good use of time and resources
+
+            -   [Managing Your Boss]
+
+    -   想被大家接受，但又不想失去自己的身份
 
         -   自己来香港的经历
 
@@ -34,7 +66,9 @@ abstract: "Live a life created for you, instead of the life you create"
         -   **如果不表达自己**， **别人也就不了解你**
 
     -   过于 nice， 不想冲突
+
         -   不想让自己心情不好
+        -   过于同情 弱者
 
 #### 2025-07-22
 
@@ -68,7 +102,8 @@ abstract: "Live a life created for you, instead of the life you create"
         -   經常播放被剛剛發生的事情 - 自言自語
 
 -   Ego always has and always will be the greatest obstacle to love.
-    Because love is about sacrificing the self for the other, whilst ego is about sacrificing the other for the self. This is why mutual self sacrifice is the winning formula. No asymmetry, just reciprocity.
+    Because love is about sacrificing the self for the other,
+    whilst ego is about sacrificing the other for the self. This is why mutual self sacrifice is the winning formula. No asymmetry, just reciprocity.
 
 #### 2025-07-11- 2025-07-13
 
@@ -148,9 +183,107 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### The Untethered Soul
 
+-   ch14 - letting go of false solidity
+
+    -   Your sense of self is determined by **where you are focusing your consciousness**
+
+        -   You are not your body; you **look at you body in the mirror** and **experience this world through its eyes and ears**
+        -   you shift from concentrating on your body and its surroundings to concentrating on the world of the movie
+
+    -   you literally define yourself based on what you believe
+
+        -   **we are all clinging and then building**
+
+    -   **Just watch the fear** **without protecting yourself from it**
+
+        -   **It was created by building a mental and emotional structure** to get away from that sense of fear.
+        -   The events that happen in the moment **belong to the moment**. **They have nothing to do with you**.
+            **You must stop defining yourself in relationship to them**, and just let them come and go.
+            If you find yourself **thinking about them later on**, **just let go**. If an event happens that doesn't fit your conceptual model, and you see yourself struggling and rationalizing to make it fit, **just notice what you're doing**.
+
+    -   **learn to be comfortable with psychological disturbance**
+
+        -   why should anything that anyone says or does cause you to get disturbed?
+            **you're just on a planet** spinning around the middle of absolutely nowhere.
+            **You came here to visit for a handful of years** and **then you're going to leave**.
+            **How can U live all stressed-out over everything**? Don't do it.
+            **If anything can cause disturbance inside of you**, **it means it hit your model**.
+            It means it hit the false part of you that you built in order to control your own definition of reality.
+
+    -   You must **be willing to face this pain**
+        -   Just see if you can **relax behind it**. and ask, "**who am I that notices this**?"
+        -   You can **experience a life in which waves of love can rush up inside of you any time you want**. you do that by letting go of the tendency to cling.
+
+-   **Hear and MIND balance**
+
+    -   Mind is great at learning and solving problems
+
+    -   **Heart talks to US through joy & LOVE**
+
+        -   **Heart loves YOU exactly the way you are**.
+            **It doesn't matter if** you trip and fall on your shoelaces or burn the banana bread.
+        -   Heart is great at being in the HERE and NOW
+        -   **Heart can tell Mind that it will love without any judgment**
+            -   **If heart feels the spark to dance**, but Mind thinks that it will look silly since it is not a REAL dancer
+        -   Mind will hold Heart's hand and take one step in any direction until **they know what Heart wants**
+
+        -   Heart
+            -   Enjoy where you are right now. Because right now is your greatest gift. That's why we call it The present
+
+    -   Practice **listening to your heart** and **use your mind to take action**
+
+        -   close your eyes, and **take some deep breaths**
+        -   **Let thoughts and mental pictures pass by**; **Allow yourself to relax**
+        -   ask your heart, "**What do U want to do right now**?"
+            -   Ideas from your heart can **come through as words, images, feelings, or a joyful burst of action**
+        -   **Wait and listen for a response**
+        -   Use your mind to take action
+
+    -   **Awareness is a tool we use to understand Mind and Heart**
+
+        -   It's like **a light that helps us see what is real**
+
+        -   **Breathing helps Mind to stop worrying** about yesterday or tomorrow and instead, be in the HERE and NOW
+
+            -   "**It's okay. Mind.**
+                **I'm always here loving you even when you are feeling sad or afraid**."
+
+            -   How to reliease a stormy ycloud
+                -   close your eyes and breathe in and breathe out
+                -   **bring your attention to your body**
+                -   **what does it feel like? Mad? Sad? Hurt?**
+                -   Focus your awareness and keep breathing
+                -   Keep going until the cloud has floated away
+
+        -   Mind knows that if the clouds come back, **Heart and Awareness are always by its side**
+            -   **The heavy thoughts and feelings like clouds that come and go** and sometimes block the sun
+
 -   ch13 - far, far beyond
 
-    -   TODO
+    -   go beyond your model
+
+        -   **There's a reason** for everything you do
+            -   They are the outermost layer of cause. If you can sit through these urges,
+                **you will see what caused them**. If you can get comfortable with what you see, you will face the next layer of causation, and so on, **layer upon layer**.
+        -   **See what happens to the energies inside of you when you don't do the things** that make you comfortable
+            -   what you'll see is why you're doing them
+        -   if the moment is outside your expectations, **your mind starts talking**
+
+    -   **free yourself from the limits of your model**
+
+        -   **If you don't stay within them, you get scared**, you feel hurt, and you feel threatened.
+            That's your cage
+        -   It can be a cage created by your fear of discomfort.
+            **If you approach your limits, you begin to feel uncomfortable and insecure**.
+
+    -   It is free to experience all of life
+
+        -   This can only happen **when you are willing to face reality without mental boundaries**
+        -   When you approach the edges **you feel insecurity, jealousy, fear, or self-consciousness**
+
+    -   You simply interact with the day **with a peaceful, fully inspired heart**
+        -   If your edges happen to get hit, **the mind doesn't complain**.
+            It all just passes through. This is how great beings live.
 
 -   ch12 - taking down the walls
 
@@ -169,7 +302,7 @@ abstract: "Live a life created for you, instead of the life you create"
         -   that voice in your head goes silent, it calms down
     -   our mind evolved to be paranoid, fearful and angry
         -   natural is brutal. We did it through fear, violence and cooperation
-    -   our evolved nature rewards pessimism.
+    -   our evolved nature rewards pessimism
         -   modern society's a lot safer and more peaceful
 
 -   ch11 - pain, the price of freedom
@@ -231,7 +364,7 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   **Every change in your energy flow**, whether it's **agitation of the mind** or **shifts in the heart**,
         will be what **eminds you that you are back there noticing**
-        -   remind you to remain centered. Eventually **it will become quiet enough** so that you can **simply watch the heart begin to react**, and **let go before the mind starts**. **At some point in the journey it all becomes heart, not mind**. You will **see that the mind follows the heart**. **The heart reacts way before the mind starts talking**.
+        -   remind you to remain centered. Eventually **it will become quiet enough** so that you can **simply watch the heart begin to react**, and **let go before the mind starts**. **At some point in the journey it all becomes heart, not mind**. You will **see that the mind follows the heart**. **The heart reacts way before the mind starts talking**
         -   When you are conscious, **the shifts of energy in your heart cause you to instantaneously be aware that you are back there noticing**. The mind doesn't even get a chance to start up because **you let go at the heart level**
 
 -   **Being or thinking**?
