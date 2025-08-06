@@ -7,6 +7,96 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you, instead of the life you create"
 ---
 
+#### 2025-08-04
+
+-   分享
+
+-   Self
+
+    -   Learn to **embrace conflict**
+
+        -   **stop avoiding hard conversations**
+
+            -   East Asian cultures emphasise **humility and conformity over assertiveness**
+            -   **Assertiveness**
+                -   the quality of **being confident** and **not frightened to say what you want or believe**
+                -   “**I speak up and share my views** when it is appropriate” and
+                    "**I am willing to engage in constructive interpersonal confrontations**"
+
+        -   In order to **gain respect and earn power**, you have to **be willing to embrace conflict**
+
+            -   Those who avoid difficult conversations or resolving disputes, cannot be trusted to handle challenging situations
+            -   It is critical for a leader to **be willing to confront people and resolve conflicts that impact the people** that work with you and for you
+
+        -   **Lean into conflict** rather than shy away from it
+
+            -   **approach-based**
+                -   **confrontation**
+                -   **compromise**
+                -   **negotiation**
+            -   avoidant
+                -   withdrawal
+                -   resignation
+
+        -   Indians preferred **negotiation**, **followed by confrontation**
+
+            -   actively seek resolution through dialogue and directness
+
+            -   Indians are **pragmatic**
+                -   **value resolution** over repression
+                -   **show up more in the form of collaborative problem-solving and consensus-building**, not conflict avoidance
+
+        -   The costs of conflict avoidance
+
+            -   when you manage others, you have to **be willing to provide negative feedback and criticism**.
+                If you are too afraid to deliver a harsh message because you’re afraid of making someone feel bad or making yourself feel uncomfortable
+
+            -   **undermines your ability to lead because you are unwilling to confront the issues**,
+                **which makes you appear weak, apathetic or oblivious**
+
+            -   demoralises your best performers because you accept mediocrity
+
+        -   **Steps to better embrace conflict**
+
+            -   **Stop taking things personally**
+
+                -   If you’ve resolved a conflict successfully, **both parties win**.
+                    It might mean admitting you’re wrong, if you are in fact wrong, or it might mean the other party acknowledges their mistake.
+                    It could be both parties miscommunicated or misunderstood, but it will never get resolved without a direct conversation.
+
+                -   if you take things too personally, you will **be overly tied to your pride and ego**
+
+        -   **Be comfortable with discomfort**
+
+            -   **the short term pain of pulling the Band-Aid off quickly is much better** than slowly peeling it off
+            -   Learn to **deal with the anxiety and distress caused by conflict or tension**.
+                The passive aggression only leads to suppressed and growing bitterness that
+                is just as uncomfortable than **the momentary discomfort of directly confronting a person or situation**
+            -   People who don’t like feeling uncomfortable or being in awkward situations
+
+        -   Don’t beat around the bush
+
+            -   be willing to **be direct and to the point**.
+                You must **be intentional and explicit in what you say**, if you want the other party to fully grasp where you are coming from
+            -   **firmly and confidently articulating your position**. This is often takes preparation and practice in order to clearly communicate your points
+
+        -   Lead by Example
+
+            -   people wanna follow a leader who **they can trust to do the right thing and take care of them**.
+                If there is a team member that is being difficult or not carrying their weight, **they want a leader deal with that person firmly**.
+
+            -   a healthy environment is created **when the team knows how to manage and resolve internal conflicts**
+
+        -   **reframe conflict as an opportunity**
+
+            -   What if you position conflict as a learning opportunity for all parties involved?
+                A chance for each party to openly share their frustrations and grievances with one another as an exercise to reset through direct communication.
+
+            -   Most conflicts arise out of misunderstanding or miscommunication in the first place.
+                Resolving conflict allows you to bring everyone to the same table and get everyone back on the same page.
+
+            -   Only by having a conversation, you are able to clarify your positions. You also have the opportunity to persuade them or Be persuaded to find compromise.
+
 #### 2025-07-30
 
 -   分享
