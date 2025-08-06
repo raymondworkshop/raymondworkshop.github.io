@@ -183,6 +183,106 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### The Untethered Soul
 
+-   ch17 - contemplating death
+
+    -   TODO
+
+-   ch16 - the spiritual path of nonresistance
+
+    -   learn to **live life without stress, problems, fear, or melodrama**
+
+        -   This path of **using life to evolve spiritually** is truly the highest path
+        -   Stress only happens when you resist life's events
+
+    -   **the willpower** can stop the energy transfer, and that's what creates tension
+
+        -   **What we're really resisting is the experience of the event** passing though us.
+            **We don't want it affecting us inside**. We know **it is going to make mental and emotional impressions that will not fit with what's already in there**. So we assert the force of will against the influence
+            of the event in an attempt to stop it from passing through our hearts and minds
+        -   **You are sitting inside resisting impressions from the past** or **thoughts about the future**.
+            **You are actually struggling with yourself**, **not with the event**.
+
+    -   **Use life to let go of these past impressions** and **the stress they create**
+
+        -   Based on these past impressions, you are **resisting the current events** that are taking place.
+            This creates inner tension, turmoil, struggle, and suffering
+        -   **Carefully watch the mental voice that tells you to resist sth**
+
+    -   **Acceptance** that events can make it through you without resistance
+
+        -   **You just deal with them as events that are taking place on the planet Earth**, **and not as personal problems**
+        -   They're just events. **Your resistance to them is what causes the problem**
+        -   **If your awareness was free to focus only on the events actually taking place**.
+            You would have no noise going on inside.
+            Your capabilities would be exponential compared to what you've ever experienced.
+
+        -   **If you're not trying to make people fit into your like or dislike**,
+            you will find that relationships are not really that difficult.
+            If you're not so busy judging and resisting people based on what is blocked inside of you,
+            you will find that they are much easier to get along with - and so are you.
+
+-   ch15 - the path of unconditional happiness
+
+    -   Do U wanna be **happy regardless of what happens**?
+
+        -   The purpose of your life is **to enjoy** and **learn from your experiences**.
+            **You were not put on Earth to suffer**. You're not helping anybody by being miserable.
+            Regardless of your philosophical beliefs, the fact remains that **you were born and you are going to die**.
+            Duiring the time in between, you **get to choose whether or not you want to enjoy the experience**.
+            Events don't determine whether or not you're going to be happy. They're just events.
+            **You determine whether or not you're going to be happy**.
+            You can be happy just to be alive. You can be happy having all these things happen to you, and then be happy to die.
+
+    -   **Enjoying life's experiences** is the only rational thing to do
+
+        -   **If you wanna happy**, you have to **let go of the part of you that wants to create melodrama**
+        -   You're going to die anyway. Things are going to happen anyway.
+            **You gain nothing by being bothered by life's events**. **It doesn't change the world; you just suffer**.
+
+        -   No matter what happens, **just enjoy the life that comes to you**
+            -   Committing yourself to unconditional happiness will **teach you every single thing there** is
+                to **learn about yourself**, **about others**, and **about the nature of life**.
+                **You will learn all about your mind**, **your heart**, and **your will**.
+
+    -   **Begin by understanding your inner energies**
+
+        -   If you look inside, you will see that when you're happy,
+            **your heart feels open** and **the energy rushes up inside of you**
+        -   You should **examing what it is inside of you that believes there's some benefit to closing**.
+            **The slightest thing happens to you**, and **you give away your happiness**
+
+            -   **What good came from letting it ruin your day**? **There was no benefit**.
+                If somebody cuts you off, let go and stay open. If you really want to, you can.
+
+    -   The key is to **learn to keep your mind disciplined enough** so that it doesn't trick you into thinking that this time it's worth closing
+
+        -   **Just pick yourself up** and **affirm inwardly that you don't wanna close**, no matter what happens.
+            **Affirm that all you want is to be at peace and to appreciate life**.
+
+        -   **You mind will tell you that it's not reasonable to stay open when these things happen**.
+            But you have limited time left in your life, and **what's really not reasonable is to not enjoy life**.
+
+        -   **Meditation strengthens your center of consciousness** so that you're always **aware enough to not allow your heart to close**
+
+            -   you just relax your heart when it starts to tighten.
+                **you don't have to be outwardly glowing all the time**; **you're just joyful inside**.
+
+            -   close your eyes and breathe in and breathe out
+                -   **Let thoughts and mental pictures pass by**; **Allow yourself to relax**
+                -   ask your heart, "**What do U want to do right now**?"
+                    -   Ideas from your heart can **come through as words, images, feelings, or a joyful burst of action**
+                    -   **Wait and listen for a response**
+                -   **bring your attention to your body**
+                -   **what does it feel like? Mad? Sad? Hurt?**
+                -   **Focus your awareness** and keep breathing
+                -   Keep going until the cloud has floated away
+
+    -   You're **letting go of yourself so that you can remain happy**
+        -   A person who actually does this every moment of every day is **going to notice the cleansing of their heart**.
+            This is because **they're not getting involved in the stuff that comes up**.
+            They're also going to **notice the purification of their mind** because they are **not getting involved in the mind's melodrama**
+        -   You will let go no matter what, then the veils of the human mind and heart will fall away.
+
 -   ch14 - letting go of false solidity
 
     -   Your sense of self is determined by **where you are focusing your consciousness**
