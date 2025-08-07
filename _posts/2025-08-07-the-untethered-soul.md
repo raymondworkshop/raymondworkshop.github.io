@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "notes on 'The Untethered Soul'"
+title: "Notes on 'The Untethered Soul'"
 date: 2025-08-07
 comments: true
 categories: [home, notes, learning, summary]
+abstract: "notes on spirit path"
 ---
-
-#### notes on spirit path
 
 #### **Hear and MIND balance**
 
@@ -89,49 +88,49 @@ categories: [home, notes, learning, summary]
 
 #### Soul vs Ego
 
-    -   **The ego lives in fear** and **the soul lives in love**
+-   **The ego lives in fear** and **the soul lives in love**
 
-        -   the ego is a person's sense of **self-importance**; it is your social mask;
-            **your social mask thrives on approval**. It wants control, and it is sustained **by power**, because it lives in fear.
-        -   our ego was 'created' to keep us safe. It is **a shield that protects our true emotions**
-            we need to do this because of a lack of **trust**
+    -   the ego is a person's sense of **self-importance**; it is your social mask;
+        **your social mask thrives on approval**. It wants control, and it is sustained **by power**, because it lives in fear.
+    -   our ego was 'created' to keep us safe. It is **a shield that protects our true emotions**
+        we need to do this because of a lack of **trust**
 
-    -   how is **big ego different from confidence**, and loving ourselves?
+-   how is **big ego different from confidence**, and loving ourselves?
 
-        -   **whether our soul is present or not**
-        -   when someone's ego is too big, we categorise them as being selfish and solely focused on themselves.
+    -   **whether our soul is present or not**
+    -   when someone's ego is too big, we categorise them as being selfish and solely focused on themselves.
 
-    -   impossible for both the ego and the soul to be working at the same time
+-   impossible for both the ego and the soul to be working at the same time
 
-        -   each and everything we do feeds one of them
-        -   it is up to us to **recognize which one is present and when**
+    -   each and everything we do feeds one of them
+    -   it is up to us to **recognize which one is present and when**
 
-    -   in each decision you make, ask yourself **is this my ego or my soul talking**
+-   in each decision you make, ask yourself **is this my ego or my soul talking**
 
-        -   这个决定是**被爱，激情或其他正能量的东西驱动**，还是被恐惧所驱动
-        -   when we can recognize the difference - fear or love - and **step outside of our ego**, we can **welcome the soul in**
-        -   people who seek revenge, or do sth simply for spite, are overcome by their ego
+    -   这个决定是**被爱，激情或其他正能量的东西驱动**，还是被恐惧所驱动
+    -   when we can recognize the difference - fear or love - and **step outside of our ego**, we can **welcome the soul in**
+    -   people who seek revenge, or do sth simply for spite, are overcome by their ego
 
-    -   spiritual and personal development is often to **quiet the ego** and **cultivate a stronger connection with the soul**
+-   spiritual and personal development is often to **quiet the ego** and **cultivate a stronger connection with the soul**
 
-        -   this involves **recognizing the ego's patterns**, **understanding its motivations**,
-            and **learning to discern its voice from the soul's gentle guidance**
-        -   some people find that **breathwork**, **meditation**, or **prayer** helps them to **center themselves and clear their minds** so they can **hear the soft whisperings of their souls**. others find **journaling or spending time in nature** helps tham to connect with their inner guidance.
+    -   this involves **recognizing the ego's patterns**, **understanding its motivations**,
+        and **learning to discern its voice from the soul's gentle guidance**
+    -   some people find that **breathwork**, **meditation**, or **prayer** helps them to **center themselves and clear their minds** so they can **hear the soft whisperings of their souls**. others find **journaling or spending time in nature** helps tham to connect with their inner guidance.
 
-    -   Soul
+-   Soul
 
-        -   **a deeper, true self**
-        -   connected to **love, peace, and compassion**
-        -   guide us **towards authenticity, purpose, and inner fulfilment**
-        -   through **intuition**, **gut feelings**, and gentle nudges
-        -   **on being present**, **accepting**, and **finding joy** in the journey
+    -   **a deeper, true self**
+    -   connected to **love, peace, and compassion**
+    -   guide us **towards authenticity, purpose, and inner fulfilment**
+    -   through **intuition**, **gut feelings**, and gentle nudges
+    -   **on being present**, **accepting**, and **finding joy** in the journey
 
-    -   Ego
-        -   **self-identity**, built on a collection of **beliefs**, **experiences**, and **self-perceptions**
-        -   **driven by fear**, insecurity, and a desire for external validation
-        -   seek to **protect itself**, maintain control, and achieve a sense of worth through external means
-        -   through **self-doubt**, **negative self-talk**, and a focus on what's lacking
-        -   on the past, the future, and **accumulating external achievements**
+-   Ego
+    -   **self-identity**, built on a collection of **beliefs**, **experiences**, and **self-perceptions**
+    -   **driven by fear**, insecurity, and a desire for external validation
+    -   seek to **protect itself**, maintain control, and achieve a sense of worth through external means
+    -   through **self-doubt**, **negative self-talk**, and a focus on what's lacking
+    -   on the past, the future, and **accumulating external achievements**
 
 #### The Untethered Soul
 
