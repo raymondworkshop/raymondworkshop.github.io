@@ -11,6 +11,18 @@ abstract: "Live a life created for you, instead of the life you create"
 
 -   分享
 
+    -   **分享目前的體驗， 无须为体验标签** “正面” 或 “否面”
+
+    -   现在把焦点放在 抗拒上面， 每人分享 “**我在生命里持续抗拒的是** ...";
+        在每人分享之后， 其他人回应 “**在我的体验里， 你所抗拒的是** ...”;
+        当分享及回应时， **避免 比较， 批评， 给建议， 特别要避免 评估判断对与错，好或坏等等**
+
+        -   当 避免分享的时， **你在抗拒什么**
+
+    -   在给回应时，练习**从一个中立的角度出发**，**无须用任何方式来表达认不认同**，即使是透过不言语的方式
+        -   在接受回应时，**练习反映你听到别人告诉你的是什么**，**不须去认同或不认同**， 通过类似这样的言语 “**所以，我听到你说的是**...”
+            或“**所以，以你的观点来看，我持续在抗拒的是** ...”
+
 -   Self
 
     -   Learn to **embrace conflict**
@@ -61,8 +73,7 @@ abstract: "Live a life created for you, instead of the life you create"
             -   **Stop taking things personally**
 
                 -   If you’ve resolved a conflict successfully, **both parties win**.
-                    It might mean admitting you’re wrong, if you are in fact wrong, or it might mean the other party acknowledges their mistake.
-                    It could be both parties miscommunicated or misunderstood, but it will never get resolved without a direct conversation.
+                    It might mean admitting you’re wrong, if you are in fact wrong, or it might mean the other party acknowledges their mistake. It could be both parties miscommunicated or misunderstood, but it will never get resolved without a direct conversation.
 
                 -   if you take things too personally, you will **be overly tied to your pride and ego**
 
@@ -90,18 +101,18 @@ abstract: "Live a life created for you, instead of the life you create"
         -   **reframe conflict as an opportunity**
 
             -   What if you position conflict as a learning opportunity for all parties involved?
-                A chance for each party to openly share their frustrations and grievances with one another as an exercise to reset through direct communication.
+                **A chance for each party to openly share their frustrations and grievances with one another as an exercise to reset** through direct communication.
 
-            -   Most conflicts arise out of misunderstanding or miscommunication in the first place.
+            -   **Most conflicts arise out of misunderstanding or miscommunication** in the first place.
                 Resolving conflict allows you to bring everyone to the same table and get everyone back on the same page.
 
-            -   Only by having a conversation, you are able to clarify your positions. You also have the opportunity to persuade them or Be persuaded to find compromise.
+            -   Only by having a conversation, you are able to clarify your positions. You also have the opportunity to persuade them or be persuaded to find compromise.
 
 #### 2025-07-30
 
 -   分享
 
-    -   **沟通你现在的体验**，成功或失败，快乐或不快乐，兴奋或沉闷，焦点放在思绪及情绪上的诚实
+    -   **沟通你现在的体验**，成功或失败，快乐或不快乐，兴奋或沉闷，**焦点放在思绪及情绪上的诚实**
 
     -   **中立关心地去倾听**，察觉到对于被分享出来的东西，**你有什么样的意见，评估判断及感觉**
     -   察觉每个人的体验是**由什么隐藏在底层的信念或态度所创造出来的**
@@ -116,7 +127,7 @@ abstract: "Live a life created for you, instead of the life you create"
 
         -   向上社交
 
-            -   被看成讨好
+            -   不喜歡讨好或被看成讨好
 
         -   Successful managers develop relationships with everyone they depend on - including the boss
 
@@ -273,9 +284,93 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### The Untethered Soul
 
+-   ch19 - the loving eyes of god
+
+    -   You spirit drifts upward
+
+        -   You feel that **there's more of a distance between you and the thoughts and emotions** inside of you. You drift back
+        -   You're **no longer held down to your earthly self**, so you begin to feel more spaciousness inside
+
+        -   They don't seem to touch you as much because you've **drifted behind the part of you** that **reacts to things**
+
+    -   How Your spiritual being feels?
+
+        -   **as you associate less with the physical and psychological parts of your being, you begin to identify more with the flow of pure energy**
+
+            -   the body normally feels that it's generally **uncomfortable**;
+                the psyche is generally full of **complaints and fears**;
+                spirit always feels **good, and high**; it always feels **open and light**
+
+        -   **you must release the personal self**.
+            **As you release it, you drift back**. As you go further back, you get higher.
+            You get higher in vibration and higher in the amount of lvoe and lightness that you feel.
+
+            -   **As you let go and willingly release the physical, emotional, and mental aspects of your being**,
+                **Spirit becomes your state**
+
+    -   **The Spirit you're experiencing** is the doorway to God
+
+        -   When they **let go of the lower aspects of their being**, they felt tremendous love, Spirit,
+            and light waking up inside of them.
+            They felt that nothing could come in through their senses **that was higher than what was already going on inside**
+
+    -   Let your being merge into GOD
+
+        -   You drift into Spirit when you let go of your lower self
+        -   You are no longer judging. **There is just appreciating and honoring**.
+        -   **To see, to experience, and to honor is to participate in life** instead of standing back and judging it
+
+    -   **True love doesn't judge**
+
+        -   **Love sees nothing but beauty in its beloved**
+        -   If you've ever really loved anybody, then you know what true love means.
+            It means that **you love them more than you love yourself**.
+            If you truly love someone, **your love sees past their humanness**.
+            **It embraces their whole being**, including past wrongs and current shortcomings.
+        -   It's like the unconditional love of a mother
+            -   she thinks the child is beautiful.
+                **she doesn't focus on the shortcomings**; she doesn't even see them as shortcomings
+
+    -   **You have a loving God**
+        -   being encouraged to **feel completely protected, loved, honored, and respected by the Divine Force**
+        -   Your relationship with God is the same as **your relationship with the sun**
+        -   **No matter what you do**, **and no matter what you've done**, **you will always be loved by GOD**
+
+-   ch18 - the secret of the middle way
+
+    -   The Tao is in the middle
+    -   You **don't follow the extremes**
+
 -   ch17 - contemplating death
 
-    -   TODO
+    -   Any time you're having trouble with sth, **think of death**
+
+        -   the breath may not come back in, then I **wanna live at the highest level while i'm alive**
+
+    -   Since **you know you're going to die**, **be willing to say what needs to be said** and **do what needs to be done**
+
+        -   Using every day to **let go of that scared part of you** that won't let you live life fully
+            -   **be willing to be fully present without being afraid of what will happen in the next moment**
+        -   **If you live life fully**, **you won't have any last wishes**
+            -   There is no reason to be afraid of life
+            -   the only thing there is to **get from life is the growth** that **comes from experiencing it**
+        -   **What is inside of us that is so afraid** that it keeps us from just enjoying life?
+
+    -   **it is death that makes life precious**
+
+        -   **Every experience is worth having**. Life is not sth to waste.
+        -   **take each moment of your life** and **realize that what matters is to live it fully**.
+            **If you are living every experience fully, then death doesn't take anything from you**.
+            **There's nothing to take because you're already fulfilled**.
+        -   what you need is **more depth of experience during the time you're given**
+
+    -   live each moment of your life
+
+        -   **You let it touch you to the depths of your being**.
+            You let it fill you completely.
+
+        -   experiencing the life that's happening to you
+            -   appreciate the moments you are given
 
 -   ch16 - the spiritual path of nonresistance
 
