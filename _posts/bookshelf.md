@@ -30,8 +30,9 @@ date: 2012-03-19
 -   **[HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)** (9/10)
 -   **[蔡瀾谈爱情]** by 蔡瀾 (9/10)
 -   **[HBR on Emotional intelligence]**
--   [The Untethered Soul: The Journey Beyond Yourself](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379) by Michael A. Singer
+-   **[The Untethered Soul: The Journey Beyond Yourself](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379)** by Michael A. Singer (10/10)
 -   [The Diary of a CEO] by Steven Bartlett
+-   [The Making of Manager]
 -   [沈思錄]
 -   **[The Almanack of Naval Ravikant]** by Eric Jorgenson
 -   [Don't Sweat the Small Stuff About Money: Simple Ways to Create Abundance and Have Fun] by Richard Carlson (9/10)
