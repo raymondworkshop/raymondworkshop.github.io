@@ -25,6 +25,52 @@ abstract: "Live a life created for you, instead of the life you create"
 
 -   Self
 
+    -   好多钟意不钟意
+
+        -   钟意
+            -   好看
+            -   有学识
+            -   赢
+        -   不钟意
+            -   索取者
+            -   弱者
+            -   丑
+
+    -   counterdependence - 反依赖
+
+        -   接纳自己的情感需求
+        -   尝试逐步信任他人， 建立积极的互动经验
+        -   学习表达自己的情感需求，并逐渐向他人敞开心扉
+        -   尝试与他人建立积极的互动，学习如何建立 健康，互助的人际关系
+
+    -   不够胆了解自己
+
+        -   **不求后果**, **不求 judgement**, **你会如何看我**, **我纯粹想让你看**
+        -   **借你让我更了解自己**
+
+            -   否则 **好内心好真实的对话 你没有**, 拿你内心有个 void
+            -   没有对错， **主要是看为啥有这个信念**， 然后 win-win
+
+        -   由外至内
+            -   自己是一个由内至外的人
+
+    -   没有表达自己
+
+        -   害怕**被 judge**, 或者 让别人失望， 或者 自己没有说的那么出色
+        -   **打开心扉**, **将自己的想法讲出来**
+            -   **双方 open 这个立场如何来**， 为什么
+
+    -   懒
+
+    -   嫌烦
+
+    -   想做个好人
+
+    -   Conscious listening
+
+        -   Listen for **the content** (mind center), **the emotions** (heart center), and **base desire** (gut center)
+            being expressed by the other person.
+
     -   Learn to **embrace conflict**
 
         -   **stop avoiding hard conversations**
@@ -108,11 +154,6 @@ abstract: "Live a life created for you, instead of the life you create"
 
             -   Only by having a conversation, you are able to clarify your positions. You also have the opportunity to persuade them or be persuaded to find compromise.
 
-    -   Conscious listening
-
-        -   Listen for **the content** (mind center), **the emotions** (heart center), and **base desire** (gut center)
-            being expressed by the other person.
-
     -   Build Trust and like - demo **you listen to them** and **reflect back what they say**
         -   **Listen attentively**, and are **genuinely curious about** what makes you tick?
         -   Ask them about themselves, **Get genuinely curious about their lives**, both at work and at home
@@ -156,7 +197,7 @@ abstract: "Live a life created for you, instead of the life you create"
                 -   Being senstitive to a boss's **working style**
             -   Understanding yourself
                 -   your know your own **needs, strengths and weaknesses, and personal style**
-                -   you are **counterdependence**
+                -   you are **counterdependence** style
                     -   most bosses are imperfect; they **have their own pressures and concerns**
             -   developing and managing the relationship
 
@@ -176,13 +217,21 @@ abstract: "Live a life created for you, instead of the life you create"
 
         -   guilt
             -   a feeling of worry that you have done sth wrong, such as causing harm to another person
-        -   害怕被 judge， 或者没有满足到别人的期望
-        -   **如果不表达自己**， **别人也就不了解你**
+        -   **害怕被 judge**， 或者 自己没有说的那么出色
+        -   如果不表达自己， 别人也就不了解你
 
-    -   过于 nice， 不想冲突
+    -   不想冲突， 过于 nice
 
         -   不想让自己心情不好
         -   过于同情 弱者
+
+    -   过于分析和理性
+        -   **When Charming and Persuading People**
+            -   **Tone and Emotion mean everything**
+            -   Facts and Substance Often mean very little
+        -   When Doing Logical Reasoning
+            -   **Facts and substance are all that matter**
+            -   Tone and Emotion Mean nothing
 
 #### 2025-07-22
 
@@ -225,7 +274,7 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   <The Untethered Soul>
         + DONE
-
+    -   <力量从哪里来>
     -   <The Making of Manager>
     -   <The Psychology of Money>
     -   <西藏生死書>
@@ -299,3 +348,6 @@ abstract: "Live a life created for you, instead of the life you create"
     -   meditation
 
 #### reference
+
+-   [The untethered soul]
+-   [力量从哪里来]

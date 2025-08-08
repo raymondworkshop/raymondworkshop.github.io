@@ -24,13 +24,13 @@ date: 2012-03-19
 #### reading-2025
 
 -   [Man from mars women from venus] (8/10)
--   **[力量从哪里来]** by liyiluo (10/10)
 -   [馬斯克傳：唯一不設限、全公開傳記] (7/10)
 -   **[The Making of a Manager](https://book.douban.com/subject/30379338/)** (10/10)
 -   **[HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)** (9/10)
 -   **[蔡瀾谈爱情]** by 蔡瀾 (9/10)
 -   **[HBR on Emotional intelligence]**
 -   **[The Untethered Soul: The Journey Beyond Yourself](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379)** by Michael A. Singer (10/10)
+-   **[力量从哪里来]** by liyiluo (10/10)
 -   [The Diary of a CEO] by Steven Bartlett
 -   [The Making of Manager]
 -   [沈思錄]
