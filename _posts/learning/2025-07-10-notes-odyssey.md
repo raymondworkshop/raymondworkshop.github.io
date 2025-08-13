@@ -7,6 +7,148 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you, instead of the life you create"
 ---
 
+#### 2025-08-12
+
+-   直觉
+
+-   SELF
+
+    -   表达自己不够
+
+        -   不够开放
+        -   害怕受伤
+            -   报复
+        -   害怕别人 judgement
+            -   香港人真是好好, 老是**鼓励你,包容你**
+
+    -   抗拒分享
+
+        -   不知道大致标准在哪里
+        -   尴尬, 没有安全感, 不好意思; 没有感受到大家的好意
+
+            -   **Love** 和 **caring** 是底层
+
+                -   **用爱而不是恨来对待这个给过你伤害的世界**; 相对于爱,人们更愿意选择恨.
+                    因为**恨比爱容易,操作简单而且责任不在我**,甚至让我更有力量.但恨的结果就是相互对抗,两败俱伤.
+
+            -   **you have the power to be YOU**. **Not the extension of anybody else**
+
+                -   **You don't have to do that to yourself**. **Start calling yourself a yogi** or someone who is great at yoga
+                -   **Move your attention away from the story of being** 'bad at speaking' and **onto the context** I am speaking on. **If I'm fully focused on what I want to say**, **I don't have time to spend on the negative beliefs**.
+
+            -   **个人只是做成事的一个工具**
+
+                -   **如果事情事对的**， 能做好， **那自己的姿势好不好看并不重要**
+
+                    -   事实是，**除了你自己， 没有人那么在意你的姿势好不好看**
+                    -   **把注意力 放在自己做的事情上**， 而不是 周围人的目光中
+
+                -   根本原因是**这件事是一件对的事**； 如果有机会做这件事，**成为做这件事的‘工具’**； 就**要把自己这个‘工具“不断变得更好**，**把这件事做成**
+
+                -   唯一能让你自己坚持的东西成为现实的办法，就是**你自己当领导**
+
+        -   **you always judgement yourself** not compassion for yourself
+
+            -   **全然接纳真实的自我**
+
+                -   **我当然会努力** ，但努力的原因不是你告诉我满分是 100 分，我只有 80 分；
+                    而是**因为我知道自己可以做得更好**
+                -   父母对孩子的不断认可，**教会孩子的自我接纳**
+                    -   “你是天底下最棒，最美的孩子”
+
+            -   **Self-belief**
+                -   Developing self-belief is about cultivating an internal state of **trust and acceptance in yourself**
+
+    -   面对一个个**不敢**
+
+        -   自己不成功 不能放在 害怕 别人 身上
+
+            -   这是个假设
+
+        -   害怕自己不够好
+
+        -   害怕別人非议
+
+            -   不可能让所有人满意
+            -   有好多人憎你，**代表你表达足够清晰的意见**
+            -   害怕报复
+            -   **宁愿做一个清晰的人**， 也不要做一个想讨好全世界的人
+                -   有自己的意见
+                -   stand for 自己的意见， 然后有自己的一席之地
+
+        -   **做一个不完美的真人**， 而不是完美的假人
+
+    -   Why you have no power
+
+        -   Mastering imposter syndrome, and **describing yourself in positive** rather than self-deprecating ways, is critical for achieving power and success
+
+            -   If you do not think of yourself as powerful, competent, and deserving
+
+        -   **We care too much about what others think of us**
+
+            -   ‘saving face’ taught us to believe that our sense of validation comes from external opinions
+
+            -   When we realise that **people don’t think about us nearly as much as we imagine they do**,
+                we **become free of the shackles of their opinions and judgement**. **Our desire to be liked can become debilitating**.
+
+                -   “If you want to be liked, get a dog”
+
+            -   **you don’t need to be liked by everyone**, you also don’t need to like everyone you work with + The most powerful people are really good at not giving away how they really feel about others.
+                In reality you have no idea how they actually feel about you, because they hide it so well
+
+        -   Break the rules
+
+            -   the ‘rules’ are made to **benefit the people already in power**
+                -   When you break the rules is when you stand out from the crowd
+            -   **Get over your ego** and **ask for help** or ask for things
+                -   they are afraid that they will be rejected or **embarrassed**.
+                    **The worst someone can say is no** and **you’ll be no worse off than when you began**
+
+        -   Appear powerful
+
+        -   Network relentlessly - build trust and relationships with people
+
+            -   the first principle of networking is **generosity**
+
+            -   the best way to build a network is to **build trust by helping others without expecting sth in return**
+
+            -   Ideally you should be strategic about **who you want to network with**
+
+    -   **Think NOT BIG**
+
+    -   [Not Feeling 'enough'](https://www.joyparade.co/blog/not-feeling-enough)
+
+        -   **I let the world tell me who I was**
+
+            -   I learned the things to do and not to do **in order to avoid being judged and never weird**
+            -   I started tying my worthiness to outside sources like how people treated me, how loved I was and what people said to me
+
+        -   **decide who you are**
+
+            -   **you have to take responsibility for your life**. This means, **not blaming others for your limited beliefs** and **realizing you have the power to be you**. **Not the extension of anybody else**
+
+            -   If you believe you are bad at yoga, **start telling yourself a different story**.
+                That 'bad at yogo' belief is most likely there because you compare yourself to another person in a yoga class who was more flexible or who held a plank longer than you.
+                You are taking in a story from the outside world but **you don't have to do that to yourself**.
+                Especially if you want to keep practicing yoga, **start calling yourself a yogi**. Or someone who is great at yoga.
+
+            -   I thought I was a poor public speaker for a long time. And that passed **when I could move my attention away from the story of being 'bad at speaking' and onto the content I'm speaking on**. **If I'm fully focused on what I want to say**, **I don't have time to spend on the negative beliefs**.
+
+            -   That feeling of 'not enough' isn't your ture self speaking. **It's just the layers of beliefs we've taken on from the outside world**
+
+    -   **Intention** - "what is **the inner motivation behind** XYZ action?"
+
+        -   **Am I doing or engaging in sth based on fear or on love**?
+        -   when You consistently do sth that a part of me judges, it's a good time to check in and ask what the inner motivatio is
+        -   **Understanding the intention behind actions and behaviors unveils so much about what we believe to be true**.
+            And what's great is that the moment we become aware of the beliefs, they can be seen through as anything but real and true.
+
+            -   an enormous amount of compassion and understanding
+
+        -   **When I take action from a place of love**, **the action itself and even any outcomes from it feel so much better and joyous** than an action taken out of fear
+
+    -   领导力
+
 #### 2025-08-04
 
 -   分享
