@@ -7,6 +7,24 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you, instead of the life you create"
 ---
 
+#### 2025-08-15
+
+-   SELF
+
+    -   多分享
+
+        -   有什麼不快 分享出來 自己會感覺更開放，更放鬆， 更開心一些
+
+        -   **自己是來學習的**
+
+            -   講出來後 會覺得 更開放， 更放鬆一些
+
+    -   講感受的時候老是沈默
+        -   抗拒
+        -   沒有安全感
+        -   自己是個小組長害怕沒那麼好
+            -   這更多的是權利， 而不是責任
+
 #### 2025-08-12
 
 -   直觉
