@@ -7,6 +7,24 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you, instead of the life you create"
 ---
 
+#### 2025-08-18。
+
+-   SELF
+
+    -   为什么会觉得自己应该为对方的失误负责 - 过度责任感
+
+        -   **对自己和他人都有很高的期望值**， 害怕让别人失望，**也害怕失败**； 这让你对责任敏感， 把他人的难处或错误也归咎于自己
+        -   **缺乏肯定， 时常被指责**， 形成了“**都是我不好**”的惯性思维， 习惯于承担超出自己实际范围的责任
+        -   **自信心和自我价值观不足**， 习惯于“内归因”， **把外部事件都解释为自己的原因**， 事缺乏安全感和肯定的一种补偿模式。
+            这样可以让自己有掌控感， 虽然事实上事不合理的。
+
+        -   **区分 哪些事自己真的能控制，需要负责的**， 哪些是”别人要学会自己承担“的部分，逐步放下那些不该属于自己的负担
+
+        -   **自我宽恕与接纳不完美**
+            -   **人非圣贤**； 自省的目的是改进，而不是打击自己
+
+    -   自己缺乏 关爱和肯定？
+
 #### 2025-08-15
 
 -   SELF
@@ -428,12 +446,17 @@ abstract: "Live a life created for you, instead of the life you create"
     Because love is about sacrificing the self for the other,
     whilst ego is about sacrificing the other for the self. This is why mutual self sacrifice is the winning formula. No asymmetry, just reciprocity.
 
+#### 萨提尔的自我觉察练习
+
+-   ch1
+
 #### 2025-07-11- 2025-07-13
 
 -   TODO
 
     -   <The Untethered Soul>
         + DONE
+    -   <萨提尔的自我觉察练习>
     -   <力量从哪里来>
     -   <The Making of Manager>
     -   <The Psychology of Money>
