@@ -7,7 +7,7 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you, instead of the life you create"
 ---
 
-#### 2025-08-18。
+#### 2025-08-18
 
 -   SELF
 
@@ -24,6 +24,10 @@ abstract: "Live a life created for you, instead of the life you create"
             -   **人非圣贤**； 自省的目的是改进，而不是打击自己
 
     -   自己缺乏 关爱和肯定？
+
+    -   影响力
+        -   **牵扯到他人**， **需要影响另一个人才能达成**
+        -   **由内而外的改变**， 聚焦“去除盲点”， 就自然而然能够发挥影响力
 
 #### 2025-08-15
 

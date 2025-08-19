@@ -4,7 +4,7 @@ title: "!On Leadership, Management, Negotiation skills"
 date: 2020-03-16
 comments: true
 categories: [softskills, coach, self, learning, leadership, important]
-abstract: "On Leadership, Persuasion, Teamwork, and Negotiation"
+abstract: "On Leadership, Management, Teamwork, and Negotiation"
 ---
 
 #### HBR Guide to Being a Great Boss

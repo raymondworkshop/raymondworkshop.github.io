@@ -29,6 +29,11 @@ categories: [softskills, learning, summary, management]
 
 ### The Making of a Manager
 
+-   ch8 - Making things happen
+
+    -   Start with a concrete vision
+        -   TODO
+
 -   ch1
 
     -   A manager is to **get better outcomes from a group of people working together**
