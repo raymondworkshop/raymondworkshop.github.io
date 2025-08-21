@@ -105,16 +105,27 @@ abstract: "Understanding your emotions; And you can Control your life  ."
     -   contempt - 蔑视
         -   a strong feeling of disliking and having no respect for someone or something - contempt is a response to someone or something that is considered inferior or unworthy - inadvertently pulling one side of the mouth up
 
+-   anger
+
+    -   生气，愤怒，抓狂，愤慨， 发火，不耐烦，烦躁，讨厌，厌恶，嫌恶，怨恨，自责
+    -   失望，嫉妒，不甘心，轻视，藐视，不屑
+
 -   fear
 
     -   scared - a more intense feeling
     -   terrified or petrified
     -   worried
     -   nervous
+    -   恐惧，害怕，惊愕，慌乱，心慌，慌张，胆怯
+    -   压力，不安，着急，担心，忧虑，焦虑，疑虑，烦恼，彷徨，警觉
 
 -   happy
 
     -   an outward expression - pleased - at one specific time
+    -   快乐，幸福，得意，开心，雀跃，惊喜，欢喜，狂喜，愉悦，喜悦，兴奋，欢喜，
+        狂喜，愉悦，喜悦，舒服，欢愉，愉快，畅快，欣慰，满足，好玩，有趣，叹为观止，
+        亲密，浪漫，意乱情迷，爱意，依恋，迷恋，销魂，光荣，骄傲，有信心
+    -   温暖，自在，安心，安全感，平静，期待，笃定，放松，如释重负，感动，感激，幸运
 
 -   excitement
 
@@ -131,6 +142,9 @@ abstract: "Understanding your emotions; And you can Control your life  ."
     -   miserable - a deep unhappiness
     -   down - feel unhappy generally
         -   apathetic - don't care about anything or have any interest in things
+    -   伤心，哀伤，悲伤，悲痛，心碎，忧虑，忧闷，忧愁，痛苦，无奈，无助，无望，泄气，怜惜，不舍，
+        可怜，心酸，凄凉，绝望，挫折，委屈，沮丧，倒霉，沉重，哀怨，苦恼，苦闷
+    -   自卑，孤独，寂寞，空虚，疏离，后悔，懊恼，愧疚，抱歉，羞愧
 
 -   confusion
 
