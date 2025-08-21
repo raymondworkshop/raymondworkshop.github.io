@@ -90,7 +90,7 @@ categories: [softskills, learning, summary, management]
 
     -   **Build trust** - you truly care about them
 
-        -   whether bring their biggest challenges - mistakes, challenges, and fears - to your attention
+        -   **whether bring their biggest challenges - mistakes, challenges, and fears - to your attention**
         -   whether give each other critical feedback and it isn't taken personally
         -   whether gladly work for you again
 
@@ -190,7 +190,7 @@ categories: [softskills, learning, summary, management]
 
     -   show your thought process
 
-        -   "I recommend this because X. My criteria/assumptions were A and B.
+        -   "**I recommend** this because X. **My criteria/assumptions** were A and B.
             The potential trade-off is Y, but seems manageable because Z. I vetted a range of options [options] and found [my recommendation] best fits our needs. "
 
     -   **offer solutions and flag issues**
@@ -228,7 +228,7 @@ categories: [softskills, learning, summary, management]
 
     -   **主动问问上司**，你的哪些工作令他们印象深刻，还有哪些方面需要改进
 
--   定期要求与之会面，定期了解他对你的看法
+-   定期要求与之会面，**定期了解他对你的看法**
 
 -   把重点放在应该完成哪些目标上， **更好地了解管理层对自己的期望**，不仅涉及日常工作，还包括长期思维
 -   自己的事情主动跟进，有什么问题就跟老板说，讨论， 如果不是自己管辖范围内的事情，别人开心就好
