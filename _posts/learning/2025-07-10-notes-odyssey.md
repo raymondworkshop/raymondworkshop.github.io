@@ -13,9 +13,42 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   為什麼和上司打交道有困難
 
-        -   當成命令，而不是
+        -   當成命令
 
-    -   沒有感受到被接受
+    -   渴望模式
+
+        -   感到没有被接纳和认可
+
+        -   **需要被接纳和认可**
+
+            -   互相帮助和支持
+            -   变成了讨好， 和过度负责
+
+        -   **Being kind** vs Being Nice
+            -   Niceness is about avoiding discomfort, staying agreeable, sidestepping hard conversations, and letting things slide.
+                **Kindness doesn't require agreement** or **even liking each other**.
+                **Engaging in hard conversations** or **raising concerns** shows that **you believe the other person has greater potential** or that you want to help your team succeed.
+            -   When people act with kindness - **by supporting each other's growth**, **showing respect**, **protecting dignity**, **and stepping in to help** - they create a psychologically safe environment.
+            -   区分攻击和挑战最关键是看对方是否怀有善意和建设性，还是单纯发泄负面情绪或故意伤害你
+
+    -   **讨好型的盲点** - 学会多要求他人一些
+
+        -   **从 讨好型转变成 趋向一致型**
+            -   **接纳所有的情绪**
+                -   **这个情绪在告诉你什么**
+                    -   愤怒 也是一种情绪； 成长过程中学到生气是不好的
+                -   以和为贵 - 怒转变为 哀
+                    -   重视被接纳； 同时对自己的期待（满足渴望的方法） 是“不与人冲突”
+            -   **一致性并不代表说真话**，不是心里想什么就说什么，要遣词造句让别人能够接受
+                -   “我感觉很困惑，
+                    因为我认为我早已符合升等的资格，
+                    我希望能够坐下来与您好好讨论如何做才能得到升等”
+        -   觉察带来选择
+
+            -   **适时地觉察情绪会开展出新的选项**，**我们才有选择的机会**
+            -   如果出于自己的选择，就比较能够放下“受害者心态“
+
+        -   **如果自在地表达情绪**，这是一种感觉自己”**比较完整**“的经验， 人生就有理性和感性
 
     -   为什么会觉得自己应该为对方的失误负责 - 过度责任感
 
@@ -28,8 +61,6 @@ abstract: "Live a life created for you, instead of the life you create"
 
         -   **自我宽恕与接纳不完美**
             -   **人非圣贤**； 自省的目的是改进，而不是打击自己
-
-    -   自己缺乏 关爱和肯定？
 
     -   影响力
 
@@ -58,10 +89,6 @@ abstract: "Live a life created for you, instead of the life you create"
             -   不愿意面对， 想逃避问题
         -   **愤怒**
             -   不公平
-
-    -   渴望模式
-        -   被接受
-            -   一个团体
 
 #### 2025-08-15
 
