@@ -228,7 +228,8 @@ abstract: "自由自在的人生"
 
         -   理性优越感 <- 社会
         -   对事不对人， 解释
-            -   忽略了人的部分
+            -   **容易忽略了人的部分**
+            -   公平公正
         -   把工作方式 应用到别的地方 - 关系上
             -   家不是讲道理的地方
 
@@ -270,7 +271,7 @@ abstract: "自由自在的人生"
 
     -   ‘尊重“的务实期待
 
-        -   以自己所建立的标准为主，而以别人所建立的标准为辅，来衡量自己的价值
+        -   **以自己所建立的标准为主**，而以别人所建立的标准为辅，来衡量自己的价值
 
     -   **’被接纳‘的务实期待**
 
@@ -290,7 +291,7 @@ abstract: "自由自在的人生"
         -   **认识并活出自己的独特性**
             -   了解你的独特性 - 内向型， 能量来自于探索事情的内在本质
 
-#### **Hear and MIND balance**
+#### **Hear and Mind balance**
 
 -   Finding peace from mind
 
@@ -414,8 +415,6 @@ abstract: "自由自在的人生"
     -   seek to **protect itself**, maintain control, and achieve a sense of worth through external means
     -   through **self-doubt**, **negative self-talk**, and a focus on what's lacking
     -   on the past, the future, and **accumulating external achievements**
-
-####
 
 #### The Untethered Soul
 

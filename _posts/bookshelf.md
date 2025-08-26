@@ -32,6 +32,7 @@ date: 2012-03-19
 -   **[The Untethered Soul: The Journey Beyond Yourself](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379)** by Michael A. Singer (10/10)
 -   **[力量从哪里来]** by liyiluo (10/10)
 -   [The Diary of a CEO] by Steven Bartlett
+-   [The art of love] by Erich Fromm
 -   [The Headspace Guide to Meditation and Mindfulness]
 -   [The Making of Manager]
 -   [沈思錄]
