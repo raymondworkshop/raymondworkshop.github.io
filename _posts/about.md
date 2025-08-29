@@ -12,8 +12,7 @@ I got my MSc in Computer Science at Chinese University of Hong Kong and BEng in 
 
 You can see some of my projects [here](https://github.com/raymondworkshop). If you’ve got any questions, suggestions or would like to discuss a project then email me at **bestraymond@icloud.com**. I’d be happy to hear from you.
 
-I do a lot of [reading](https://raymondworkshop.github.io/bookshelf.html).  
-Outside of tech, I like Philosophy, Nature, and Art.
+Outside of tech and [reading](https://raymondworkshop.github.io/bookshelf.html), I like Philosophy, Nature, and Art.
 
 Some of My favorite quotes:
 
