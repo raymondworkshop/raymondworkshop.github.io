@@ -11,24 +11,37 @@ abstract: "Live a life created for you, instead of the life you create"
 
 -   SELF
 
-    -   **过于分析和忽视情绪需求**
-
-        -   关键在于创造内在的平衡
-            -   **关注自我情绪的同时**也**顾及他人情感及客观环境**
-        -   觉察并接受情绪
-            -   **关注内心真实感受**，不压抑情绪，**允许情绪合理表达**
-        -   保持自我与他人情感的平衡
-            -   在沟通和行为中**既表达真实自我**，**也关注对方感受**
-        -   真诚表达
-            -   做到言行一致，**真诚而具体地表达自己而不是只依靠理性分析**
-        -   持续修炼心灵，**提升内在能量**，**增强对自身和他人的理解和接纳**，做到人际关系中的协调和平衡
-
     -   理性
 
         -   对事不对人， 解释
         -   以情动人， 没有情绪起伏
 
         -   **关心对方为什么会发生**， 而不是 怎么解决
+
+    -   旁观者 - **置身事外 弱化了情绪反应**
+
+        -   不愿意回应别人
+
+            -   怕被影响
+            -   现实生活已经很残酷了，不想去回应， 想压抑自己
+            -   压抑 - **镇定者**
+                -   压抑大多数的不安
+                -   愉快的感觉覆盖了不安的感觉
+
+        -   **用心表达感受**
+            -   有适度情绪敏感性的人，情绪生活比较丰富
+            -   **关注身体感觉**
+            -   **直接说感受**，**不是先去找原因和论证**
+                -   避免过度分析和辩解
+            -   讲故事或事例
+                -   **如果能用具体事件或经历来体现你的感受**，会让听者更容易理解和共鸣
+                -   **如果你能用语言来形容你的感觉**，你就拥有了它
+            -   允许自己脆弱
+                -   **表达感受没有对错**，**不必担心被评价**，勇敢展现真实的自己
+            -   kindness support someone else's growth, well-being, or success
+                -   kindness doesn't require agreement or even liking each other
+                -   Engaging in **hard conversations or raising converns** shows that
+                    **you believe the other person has greater potential** or **that you want to help your team succeed**
 
     -   **情緒溝通** - 同理心
 
@@ -41,16 +54,26 @@ abstract: "Live a life created for you, instead of the life you create"
                 -   **关键在于理解非言语信息的能力**， **比如声调，姿势，面部表情等**
                 -   **真实的情绪在于他说话的方式**，而不在于他说话的内容
 
-        -   **自己的情绪会被待之以同理心**， **会为人所接受并得到回应**
-            -   自己的感受得了情绪回应
+        -   **自己的感受得到了情绪回应**
+
+            -   自己的情绪会被待之以同理心， 会为人所接受并得到回应
+
         -   **情绪的同步性**
+
             -   治疗师**理解病人的内心状态并对病人进行回应的过程**，如果善于协调的母亲与宝宝之间的互动交流
             -   **只有在身体反应同步的情况下**才会产生同理心
 
-    -   压抑 - **镇定者**
+        -   **善于与别人的情绪协调一致**，或者**很容易让别人的情绪跟着自己的情绪走**
 
-        -   压抑大多数的不安
-            -   愉快的感觉覆盖了不安的感觉
+    -   What Great Listeners Actually do
+
+        -   The listener creates a safe env
+        -   **Focusing attention** on the other person and **making appropriate eye contact**
+            -   this influences the listener's own attitudes and inner feelings
+        -   **observes nonverbal cues** such as facial expressions, gestures, posture
+        -   **empathize with and validates the feelings** in a **supportive, nonjudgmental way**
+            -   understand the other person's emotions and feelings about the topic and identifies and acknowledges them
+        -   **ask questions that clarify assumptions** the other person holds and helps the other person see the issue in a new light
 
     -   愤怒
 
@@ -78,8 +101,21 @@ abstract: "Live a life created for you, instead of the life you create"
         -   情绪提振法
 
     -   讨好
+
         -   太为对方考虑， 尤其是对方不如自己的时候
         -   自己想融入，但 别人不太接受自己
+
+    -   **过于分析和忽视情绪需求**
+
+        -   关键在于创造内在的平衡
+            -   **关注自我情绪的同时**也**顾及他人情感及客观环境**
+        -   觉察并接受情绪
+            -   **关注内心真实感受**，不压抑情绪，**允许情绪合理表达**
+        -   保持自我与他人情感的平衡
+            -   在沟通和行为中**既表达真实自我**，**也关注对方感受**
+        -   真诚表达
+            -   做到言行一致，**真诚而具体地表达自己而不是只依靠理性分析**
+        -   持续修炼心灵，**提升内在能量**，**增强对自身和他人的理解和接纳**，做到人际关系中的协调和平衡
 
 #### 2025-08-18
 
