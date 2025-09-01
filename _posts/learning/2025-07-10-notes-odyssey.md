@@ -7,9 +7,62 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you, instead of the life you create"
 ---
 
+#### 2025-09-01
+
+-   SELF
+
+    -   the paradox of authenticity
+
+        -   great leaders seem to **know which personality traits they should reveal to whom and when**
+
+            -   chameleons - **adapting to the demands of the situations they face and the people they lead**,
+                yet they do not lose their identities in the process
+
+        -   help others perceive you as an authentic leader
+            -   **get to know yourself and your origins better**
+                -   **share the discovereis** - the people, places, and events that shaped you, with others who have had similar experiences
+            -   get to know others better
+                -   **removing barriers between yourself and others**
+                    -   **selectively show a weakness or vulnerability** that reveals your approachability to your co-workers
+                -   care deeply about the work your people do
+            -   connect to the organizational context better by
+                -   **use both your sense of self and your understanding of your origins to connect with**, or **to separate yourself from, others**
+
 #### 2025-08-25
 
 -   SELF
+
+    -   被接納
+
+        -   Validation is the communication of “**I see your feelings and they are okay**”
+            Validation about **confirming and accepting their emotional experience without judgement**,
+            even if you do not necessarily agree with their viewpoint or decisions.
+
+            “**I hear you’re feeling overwhelmed and that’s valid**”
+
+        -   Empathy is the feeling of ‘I understand how you feel’
+
+    -   **情緒溝通** - 同理心
+
+        -   **了解他人感受的能力**
+
+            -   **我们对自身的情绪越开放**，**就越善于理解情绪**
+            -   无法接受他人的感受是情绪智力的一个重大缺陷，也是人生的悲催失败
+
+            -   **非言语**是情绪脑的模式， 言语是理性脑的模式
+                -   **关键在于理解非言语信息的能力**， **比如声调，姿势，面部表情等**
+                -   **真实的情绪在于他说话的方式**，而不在于他说话的内容
+
+        -   **自己的感受得到了情绪回应**
+
+            -   自己的情绪会被待之以同理心， 会为人所接受并得到回应
+
+        -   **情绪的同步性**
+
+            -   治疗师**理解病人的内心状态并对病人进行回应的过程**，如果善于协调的母亲与宝宝之间的互动交流
+            -   **只有在身体反应同步的情况下**才会产生同理心
+
+        -   **善于与别人的情绪协调一致**，或者**很容易让别人的情绪跟着自己的情绪走**
 
     -   理性
 
@@ -42,28 +95,6 @@ abstract: "Live a life created for you, instead of the life you create"
                 -   kindness doesn't require agreement or even liking each other
                 -   Engaging in **hard conversations or raising converns** shows that
                     **you believe the other person has greater potential** or **that you want to help your team succeed**
-
-    -   **情緒溝通** - 同理心
-
-        -   **了解他人感受的能力**
-
-            -   **我们对自身的情绪越开放**，**就越善于理解情绪**
-            -   无法接受他人的感受是情绪智力的一个重大缺陷，也是人生的悲催失败
-
-            -   **非言语**是情绪脑的模式， 言语是理性脑的模式
-                -   **关键在于理解非言语信息的能力**， **比如声调，姿势，面部表情等**
-                -   **真实的情绪在于他说话的方式**，而不在于他说话的内容
-
-        -   **自己的感受得到了情绪回应**
-
-            -   自己的情绪会被待之以同理心， 会为人所接受并得到回应
-
-        -   **情绪的同步性**
-
-            -   治疗师**理解病人的内心状态并对病人进行回应的过程**，如果善于协调的母亲与宝宝之间的互动交流
-            -   **只有在身体反应同步的情况下**才会产生同理心
-
-        -   **善于与别人的情绪协调一致**，或者**很容易让别人的情绪跟着自己的情绪走**
 
     -   What Great Listeners Actually do
 
