@@ -32,11 +32,16 @@ date: 2012-03-19
 -   **[The Untethered Soul: The Journey Beyond Yourself](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379)** by Michael A. Singer (10/10)
 -   **[力量从哪里来]** by liyiluo (10/10)
 -   [The Diary of a CEO] by Steven Bartlett
+-   [The Headspace Guide to Meditation and Mindfulness]
+-   **[The Almanack of Naval Ravikant]** by Eric Jorgenson
+-   [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer
+
 -   [The art of love] by Erich Fromm
 -   [The Headspace Guide to Meditation and Mindfulness]
 -   [The Making of Manager]
 -   [沈思錄]
--   **[The Almanack of Naval Ravikant]** by Eric Jorgenson
+-   [CHATTER: The Voice in Our Head, Why It Matters, and How to Harness It] by Ethan Kross
+
 -   [Don't Sweat the Small Stuff About Money: Simple Ways to Create Abundance and Have Fun] by Richard Carlson (9/10)
 -   [The Psychology of Money]
 -   [丘吉尔传] by Andrew Roberts

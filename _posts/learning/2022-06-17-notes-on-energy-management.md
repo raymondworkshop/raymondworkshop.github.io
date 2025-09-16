@@ -9,6 +9,10 @@ abstract: "Notes on Energy - body, diets, sleep  "
 
 #### Notes on body health
 
+-   2025-09-15
+
+    -   深蹲
+
 -   2025-07-27
 
     -   三角肌 中束

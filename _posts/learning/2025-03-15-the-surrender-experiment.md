@@ -18,6 +18,68 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   the best way to win a debate is to **know the opponent's position better than the opponent**
 
+-   SELF
+
+    -   **Push to limit**
+
+        -   **凡事做到尽**
+        -   **Everything you do provides evidence to you** about who you are and what you're capable of
+            -   **Prove to yourself** that you have what it takes to overcome the challenges of life
+            -   Choose to do the tenth rep when it would be easier to stop at nine.
+                Choose to have the difficult conversation when it would be easier to avoid it.
+                Choose to ask the extra question when it would be easier to stay silent.
+
+    -   Be a leader
+
+-   equality vs equity
+
+    -   平等 是 “相同的對待”
+
+        -   承诺平等的社会主义，最后往往只会带来共同贫穷
+
+    -   公平是 “**適合的對待**”， 承認個體差異，並針對這些差異進行調整
+
+-   旁观者 - 情感隔离
+
+    -   害怕别人审视自己，不被真正接纳，产生尴尬和难为情的情绪
+
+    -   不想承担别人的情绪负担
+        -   Do
+    -   不想在别人面前表现脆弱
+
+-   自主 vs **顺服掌权者**
+
+    -   基督教伦理中强调顺服掌权者， 但**这种顺服建立在爱的原则和益处的衡量上**，
+        不盲目服从不够爱你，而是**以爱人和社会益处为前提**，这体现顺服与自主的协调关系
+    -   **个体在顺服的同时**，**仍可保持内心的自主意识**， 对顺服的行为有自己的判断和选择，
+        这样的顺服是“自主的顺服”， 体现了一种责任感和理性决策
+
+-   Vulnerable vs Weak
+
+    -   害怕分享脆弱
+
+        -   担心对方不接受，从而失去了关系或轻视
+
+    -   **把脆弱视为软弱或失败**
+
+        -   脆弱指得是**对内心感受的坦诚表达**，**显示出个体对不确定性和风险的承认**；
+            是情感和心理层面的状态，是面对不完美和困难时展现真实自我的勇气
+
+        -   **将脆弱视为软弱**，**是混淆了情感的真实性和能力的坚强**
+
+            -   **一个脆弱的角色拥有克服困难的力量**，
+                **但依然会在过程中显露软弱，挣扎，情感波动，这是他们的真实和勇气的体现**
+            -   一个软弱的角色缺乏面对挑战的力量，容易被问题压垮，无法积极面对
+            -   **辨别时可看角色是否有面对困难的决心和恢复力**，以及**是否展现情感上的真实**，
+                而非逃避和崩溃
+
+        -   **缺乏情绪理解和共情能力的群体和个体**容易把 脆弱视为软弱，
+            因为他们**无法辨识脆弱中的勇气与真实**
+            -   在高度竞争或压力大的环境中， **人常把情感的开放和真实 看成无力和无能的表现**
+            -   **社会文化中对 坚强，自立的刻板认知 使得表达脆弱的人 容易被扣上软弱的标签**，特别是男性或领导者对被期望表现为“硬汉”
+            -   在误解风险管理和保护机制的情况下， 把有意识的脆弱视为被动的无力
+            -   表达脆弱时， **关键是 让别人看到的是你面对困难的勇气和理性**，而非软弱的无力感或依赖感
+
 -   害怕別人非议
 
     -   不可能让所有人满意
@@ -130,7 +192,10 @@ abstract: "Live a life created for you, instead of the life you create"
         -   **No one is going to care what you do or who you are**. You are not a celebrity. You are not important
 
     -   Hesitation is usually a result of unfulfilled desires. we yield to less pain rather than more pain
+
         -   Hesitation is solved when we realize that **inaction is more painful** and that **rejection is better than regret**
+
+    -   **没有人应该为了别人怎么样**
 
 -   Securities vs Mistakes
 
