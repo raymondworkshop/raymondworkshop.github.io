@@ -92,7 +92,7 @@ abstract: "notes on Think and Grow Rich, Rich Dad Poor Dad"
 
     -   **Your major purpose in life**, the goal toward which you are working, and help determine what knowldege you need
 
-        -   **healthy, family, money**
+        -   **healthy, family, business/money**
         -   relationship -> understanding/helpful, independent, experience
         -   career -> freedom, understanding/helpful, influence, new/learning, meaningful
 
@@ -162,12 +162,12 @@ abstract: "notes on Think and Grow Rich, Rich Dad Poor Dad"
 
 -   **Capital** is more highly organized, intelligent groups of men who plan ways and means of using money efficiently for **the good of the public, and profitable to themselves**
 
--   \*\*Step up to the front,
+-   Step up to the front,
 
     select what you want,
     create your plan,
     put the plan into action,
-    and follow through with persistence\*\*.
+    and follow through with persistence.
 
 #### ch8 - Decision
 

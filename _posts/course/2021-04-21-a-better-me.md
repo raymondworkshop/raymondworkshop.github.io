@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Improving] A better me -> to be great"
+title: "!A better me -> to be great"
 date: 2021-04-21
 update: 2024-09-25
 comments: true
@@ -1066,8 +1066,8 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
     -   **论敌友而不论事实和逻辑**
 
-    *   不是用事实和逻辑看问题，而是**先分敌友，论敌友不论事实，论利害不论是非**
-    *   是敌人，对我们多好也是敌人；是“战略伙伴关系”，骑在你头上拉屎也是伙伴
+        -   不是用事实和逻辑看问题，而是**先分敌友，论敌友不论事实，论利害不论是非**
+        -   是敌人，对我们多好也是敌人；是“战略伙伴关系”，骑在你头上拉屎也是伙伴
 
         -   中庸之道 - 凡事**喜欢和稀泥**
             -   缺乏逻辑分析能力，缺乏讲道理的习惯

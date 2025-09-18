@@ -14,6 +14,19 @@ abstract: "Live a life created for you, instead of the life you create"
     -   周围人的接纳和支持
     -   不知道如何表达给对方
 
+        -   说话**声音低一些**，你的声音就会有磁性
+
+            -   说话只要**慢一些**，就会有气质
+            -   你敢**停顿**，就能显示出你的权威
+
+        -   永远展现出**舒适放松的状态**，任何时候都不要紧张
+
+            -   永远把任何你想接触的人 **当成老朋友**，**交谈**就行
+
+        -   **行就行，不行就拉倒**
+
+-   多表达自己
+
 -   self
 
     -   勇敢
@@ -25,12 +38,27 @@ abstract: "Live a life created for you, instead of the life you create"
 
         -   态度
 
+    -   对人有立场
+
+        -   responsible, humility/kind, honest, curiosity, creativity, open-minded
+
+    -   不够 **open**
+
+        -   害怕更多责任
+            -   不是要追求独善其身，而是**做领军人物**。就是**用自己对某个事业的激情来感染影响帮助其他人**
+        -   害怕受伤害， 或被利用
+        -   害怕被审视， 会被人觉得自己不够好
+        -   害怕背叛
+
     -   Intention vs opportunity
 
         -   intention 是内心的“想法”
         -   机会是 现实的 “条件”
 
     -   online
+
+    -   自信
+        -   自信是 对自己有合适， 客观的看法 - 全然接纳真实的自我
 
 -   equality vs equity
 
@@ -39,6 +67,8 @@ abstract: "Live a life created for you, instead of the life you create"
         -   承诺平等的社会主义，最后往往只会带来共同贫穷
 
     -   公平是 “**適合的對待**”， 承認個體差異，並針對這些差異進行調整
+
+-   果断
 
 #### 2025-09-12
 
