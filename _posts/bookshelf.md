@@ -34,9 +34,9 @@ date: 2012-03-19
 -   [The Diary of a CEO] by Steven Bartlett
 -   [The Headspace Guide to Meditation and Mindfulness]
 -   **[The Almanack of Naval Ravikant]** by Eric Jorgenson
--   [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer
-
 -   [The art of love] by Erich Fromm
+-   [How to Not Die Alone] by Logan Ury
+-   [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer
 -   [The Headspace Guide to Meditation and Mindfulness]
 -   [The Making of Manager]
 -   [沈思錄]

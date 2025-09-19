@@ -40,7 +40,7 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   对人有立场
 
-        -   responsible, humility/kind, honest, curiosity, creativity, open-minded
+        -   kind, responsible, open-minded, grit, honest, curiosity, creativity
 
     -   不够 **open**
 
@@ -48,6 +48,7 @@ abstract: "Live a life created for you, instead of the life you create"
             -   不是要追求独善其身，而是**做领军人物**。就是**用自己对某个事业的激情来感染影响帮助其他人**
         -   害怕受伤害， 或被利用
         -   害怕被审视， 会被人觉得自己不够好
+        -   害怕丢面子
         -   害怕背叛
 
     -   Intention vs opportunity

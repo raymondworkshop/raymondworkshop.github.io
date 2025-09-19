@@ -63,6 +63,7 @@ abstract: "learn from your mistakes, and know more about yourself"
             -   宋明的**新儒家 和 禅宗 是有一条秘密通道的**， 而薛宝钗就位于这条秘密通道上
                 -   **一扇大门的存在， 她对世界保持着一种疏离感**；
                     在大门之内，她的**生命依旧向着阳光怒放**
+                -   宝钗虽然拥有超越而从容的力量，但代价就是寂寞
 
     -   Fairness - 好好做自己
 
@@ -398,6 +399,7 @@ abstract: "learn from your mistakes, and know more about yourself"
         -   when individuals perform largely independent tasks, it's better have enough talent
 
 -   how and when to fluctuate between more versus less hierarchy
+
     -   **leaders need to create psychological safety to encourage broad participation**; and a leader **sets the vision and the course and integrates all the different perspectives** to make the best decisions
 
         -   we need everyone's perspective in **a complex and dynamic decision-making**
@@ -412,10 +414,11 @@ abstract: "learn from your mistakes, and know more about yourself"
 
 -   build warmth
 
-    -   **demonstrate concern** for others + we **trust warm people**, because they care about us  
-         + **feel emotion on the inside**, and express warmth effectively on the outside  
-         + like "I'm sorry about the rain" shows **concern and conveys warmth** + **nonverbal cues** - like **physical connection** like handshakes, an embrace,
-        a pat on the shoulder, or even a light touch on an elbow
+    -   **demonstrate concern** for others + we **trust warm people**, because they care about us
+
+        -   **feel emotion on the inside**, and express warmth effectively on the outside
+        -   like "I'm sorry about the rain" shows **concern and conveys warmth** + **nonverbal cues** - like **physical connection** like handshakes, an embrace,
+            a pat on the shoulder, or even a light touch on an elbow
 
     -   **a little vulnerability** makes you seem approachable and warm in less time
         -   like "spilling their coffee" or "telling a bad joke"
@@ -450,8 +453,7 @@ abstract: "learn from your mistakes, and know more about yourself"
     -   **actively look for those clues** we hope not to find
 
     -   **think carefully about what we do not want to believe**,
-        and **what we want to believe**, before we place our trust in others  
-
+        and **what we want to believe**, before we place our trust in others
 
 -   Trust but verify
 
@@ -530,11 +532,11 @@ abstract: "learn from your mistakes, and know more about yourself"
         we can do even better in the future
 
 -   understand complex systems and processes
-    -   **decomposition**  
-         + identify the functions of different components,
-        and see how they interact with each other  
-         + understand the function and behavior of a object in terms
-        of **its components and their interaction**
+    -   **decomposition**
+        -   identify the functions of different components,
+            and see how they interact with each other
+        -   understand the function and behavior of a object in terms
+            of **its components and their interaction**
 
 ##### making good decisions
 
