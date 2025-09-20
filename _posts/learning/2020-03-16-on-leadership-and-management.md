@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "!On Leadership, Management, Negotiation skills"
+title: "!On Leadership and Management skills"
 date: 2020-03-16
 comments: true
 categories: [softskills, coach, self, learning, leadership, important]

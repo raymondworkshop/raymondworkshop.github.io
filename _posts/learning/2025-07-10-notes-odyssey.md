@@ -27,6 +27,12 @@ abstract: "Live a life created for you, instead of the life you create"
 
 -   多表达自己
 
+    -   感性太少，理性太多
+
+    -   **專注當下的感覺**，**讓意識更多停留在身體和情緒的感受上**，而非思維上的理性
+        -   在人際關係中，讓情感和溫暖多一些
+        -   **接納並尊重自己的感性**，聆聽內心的聲音和直覺
+
 -   self
 
     -   勇敢
@@ -40,15 +46,17 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   对人有立场
 
-        -   kind, responsible, open-minded, grit, honest, curiosity, creativity
+        -   kind, open-minded, honest, positive, responsible, grit, curiosity, cooperation, creativity
 
     -   不够 **open**
 
+        -   害怕丢面子
+
         -   害怕更多责任
-            -   不是要追求独善其身，而是**做领军人物**。就是**用自己对某个事业的激情来感染影响帮助其他人**
+            -   不是要追求独善其身，而是**做领军人物**; 就是**用自己对某个事业的激情来感染影响帮助其他人**
         -   害怕受伤害， 或被利用
         -   害怕被审视， 会被人觉得自己不够好
-        -   害怕丢面子
+
         -   害怕背叛
 
     -   Intention vs opportunity
