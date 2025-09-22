@@ -103,9 +103,10 @@ abstract: "on How to make choices"
 
     -   define **good, healthy values**
 
-        -   **reality-based, socially constructive, immediate and controllable**
+        -   reality-based, socially constructive, immediate and controllable
         -   can be achieved internally, immediate and controllable and engage you with the world
         -   honesty (you have complete control over, reflects reality, and it benefits others), self-respect, curiosity, humility, creativity
+            -   open-minded,kind, honest, positive,responsible
         -   bad values are generally reliant on **exernal events**, **outside of your control**, socially destructive or magic to achieve
             -   manipulation or violence, being liked by everybody,
                 feeling good all the time, not being liked by everybody

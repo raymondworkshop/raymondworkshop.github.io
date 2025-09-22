@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Notes on '自由快樂的人生'"
+title: "Notes on '自由快樂的人生-完整的自己'"
 date: 2025-08-07
 comments: true
 categories: [home, notes, learning, summary]
-abstract: "自由快樂的人生"
+abstract: "自由快樂的人生-完整的自己"
 ---
+
+#### 相信自己，才是完整的自己
 
 #### 薩提爾的自我覺察練習
 

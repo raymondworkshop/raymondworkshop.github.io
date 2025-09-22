@@ -31,13 +31,15 @@ date: 2012-03-19
 -   **[HBR on Emotional intelligence]**
 -   **[The Untethered Soul: The Journey Beyond Yourself](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379)** by Michael A. Singer (10/10)
 -   **[力量从哪里来]** by liyiluo (10/10)
+-   **[相信自己，才是完整的你：覺察自我的 27 個練習]** by 高瑞希
 -   [The Diary of a CEO] by Steven Bartlett
--   [The Headspace Guide to Meditation and Mindfulness]
 -   **[The Almanack of Naval Ravikant]** by Eric Jorgenson
 -   [The art of love] by Erich Fromm
+-   [The Headspace Guide to Meditation and Mindfulness]
+-   [Grow rich with peace of mind] by Napoleon Hill
+
 -   [How to Not Die Alone] by Logan Ury
 -   [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer
--   [The Headspace Guide to Meditation and Mindfulness]
 -   [The Making of Manager]
 -   [沈思錄]
 -   [CHATTER: The Voice in Our Head, Why It Matters, and How to Harness It] by Ethan Kross
