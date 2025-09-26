@@ -83,7 +83,7 @@ abstract: "Live a life created for you, instead of the life you create"
             -   在误解风险管理和保护机制的情况下， 把有意识的脆弱视为被动的无力
             -   表达脆弱时， **关键是 让别人看到的是你面对困难的勇气和理性**，而非软弱的无力感或依赖感
 
--   害怕別人非议
+-   害怕別人非议 - 自我價值不足
 
     -   不可能让所有人满意
     -   有好多人憎你，**代表你表达足够清晰的意见**
@@ -264,5 +264,6 @@ Do whatever is put in front of you with all your heart and soul without regard o
 
 #### reference
 
+-   [相信自己，才是完整的你] by 高瑞希
 -   [The Surrender Experiment](https://book.douban.com/subject/26786636/)
 -   [力量从哪里来](https://book.douban.com/subject/35694196/) by 李一诺
