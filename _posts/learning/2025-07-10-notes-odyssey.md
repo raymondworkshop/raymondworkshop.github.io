@@ -46,7 +46,7 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   对人有立场
 
-        -   kind, open-minded, honest, positive, responsible, grit, curiosity, cooperation, creativity
+        -   kind, responsible, honest, open-minded, positive, grit, curiosity, cooperation, creativity
 
     -   不够 **open**
 
