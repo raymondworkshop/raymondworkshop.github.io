@@ -5,7 +5,7 @@ old-date: 2020-07-08
 date: 2025-03-15
 comments: true
 tags: [softskills, notes, important, uncertainty]
-abstract: "Live a life created for you, instead of the life you create"
+abstract: "完整的自己"
 ---
 
 #### TODO - notes on congnitive emotions
@@ -202,7 +202,9 @@ abstract: "Live a life created for you, instead of the life you create"
 
 -   Securities vs Mistakes
 
-#### On Coach
+#### "相信自己，才是完整的你" by 高瑞希
+
+TODO
 
 #### **Entrepreneurs tolerate uncertainty** more than any other profession
 
@@ -265,5 +267,5 @@ Do whatever is put in front of you with all your heart and soul without regard o
 #### reference
 
 -   [相信自己，才是完整的你] by 高瑞希
--   [The Surrender Experiment](https://book.douban.com/subject/26786636/)
 -   [力量从哪里来](https://book.douban.com/subject/35694196/) by 李一诺
+-   [The Surrender Experiment](https://book.douban.com/subject/26786636/)
