@@ -7,7 +7,7 @@ categories: [home, notes, learning, summary]
 abstract: "完整的自己-自由快樂的人生"
 ---
 
-#### 完整的自己
+#### 认识完整的自己
 
 #### 薩提爾的自我覺察練習
 
