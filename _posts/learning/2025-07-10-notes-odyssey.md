@@ -7,6 +7,49 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you, instead of the life you create"
 ---
 
+#### 2025-10-08
+
+-   **要拓展自我**，就需要和不同人相处
+
+    -   从中觉察反省，**尝试克服困难**，**才会逐渐理清自己是谁**，通过突破挑战给自己产生信心
+    -   **自我心态不稳固**
+        -   **自己就是一个庸才**，**没有人在看你**
+            -   **执着“别人眼中的你” 是如何**， **到头来你依然最关心自己**
+        -   **心态上不要把自己太当回事**，你要清楚自己就是个庸才，才会更有智性和别人相处
+        -   **把所有“以为”通通放掉**，**全然信任自己**，勇于做出改变
+        -   **与人相处摩擦不过是万物流转的必然现象**，抱持平常心即可；
+            群体里的自我觉得包含分享和妥协， **我们在和他人相互调整过程中**，**都是在认识自己**
+
+-   SELF
+
+    -   assertive
+    -   courage
+
+-   为什么害怕冲突和争议
+
+    -   image
+    -   **自我价值感受到威胁**
+        -   担心被否定，会被认为“太强势”
+        -   被质疑时可能会让人觉得“我是不是不够好”
+    -   害怕冲突
+    -   感到不安， 没有让所有人满意
+
+        -   不理性的人
+
+    -   east asian cultures emphasise humility and conformity over **assertiveness**
+
+    -   the costs of conflict avoidance
+        -   when you manage others, you have to **be willing to provide negative feedback and criticism**
+            -   if you are too afraid to deliver a harsh message because you're afraid of making someone feel bad
+                or making yourself feel uncomfortable
+        -   **undermine your ability to lead** because you are unwilling to confront the issues
+            -   which makes you appear weak, apathetic or oblivious
+        -   demoralise your best performers because **you accept mediocrity**
+
+-   Learn to embrace conflict
+    -   stop avoiding hard conversations
+    -   TODO
+
 #### 2025-10-02
 
 -   SELF
