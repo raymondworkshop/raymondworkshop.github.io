@@ -25,9 +25,10 @@ abstract: "notes on the GOOD life - beauty and love "
         -   spend more time with **family and friends**
             -   happy, freedom
 
-    -   **the heart decides**, the head rationalizes  
-         + use your judgment to **figure out what kinds of environments you can thrive in**,
-        and **then create an environment around you** so you're statistically likely to succeed
+    -   **the heart decides**, the head rationalizes
+
+        -   use your judgment to **figure out what kinds of environments you can thrive in**,
+            and **then create an environment around you** so you're statistically likely to succeed
 
     -   identify required habits
 
@@ -62,7 +63,8 @@ abstract: "notes on the GOOD life - beauty and love "
     -   **She loves me for who I am**, and not who I am acting or trying to be
     -   Being a human, **I need it**. similaryly, **my Self needs love**.
     -   **Loving my Self is very healthy**
-        -   I feel like I have more of an ability to achieve my goals. Because **I'm not worried that my Self is good enough**. **My Self is not a problem**. **It's loved**.
+        -   I feel like I have more of an ability to achieve my goals.
+            Because **I'm not worried that my Self is good enough**. **My Self is not a problem**. **It's loved**.
         -   I'm **less stressed**, and able to be **more genuine** with people
         -   I'm **more confident in myself** and compare myself with others less
 

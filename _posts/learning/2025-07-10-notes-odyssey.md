@@ -7,7 +7,50 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you, instead of the life you create"
 ---
 
+#### 2025-10-02
+
+-   SELF
+
+    -   自我价值感偏低
+        -   成欲证明自己
+
+-   如果你不快乐，**就要对自己诚实**
+
+    -   当你一直问你的灵魂，问下去，**你的灵魂会给你答案**
+    -   判断是否自欺欺人的关键，是你到底**能不能坦率地说出你的作为**
+        -   任何感到心虚的想法， 就是**一个认识自己的方式**
+
+-   **只要带有清醒的觉察**，**就没有所谓对错**
+
+    -   不讨厌自己，你才会敢于看向黑暗，并且明白**那不过是太阳的背影**
+
+        -   所有你犯过的错，经历的挫败，**都不妨碍你灵魂原厂设定的纯粹**
+        -   **对自己的好奇心**， **一个好玩的**，**不带自我贬低**，**以一个拓荒者的态度**，这荒地就是你的深渊
+        -   **你的贪心**，**自欺欺人**，**实力不足都是中性的**，唯独你在将其视为“不好”，你才会被视为恶魔，
+            这是一个契机帮助你看见，**弄清楚你为什么如此不舒服**？
+
+    -   自我发现
+        -   我的缺点出来了，**可是这个缺点是中性的**，**它只是在反映我的底层信念哪里有状况**，下次调整即可，
+            更甚，我可以一下调整，一下不调，但**起码我会选择看见**，我不会逃避，因为**一旦我用好奇心面对我的否面思维**，
+            我就会晓得愤怒是我，自卑是我，压力大时我，**可是我不会再讨厌自己**
+
 #### 2025-09-29
+
+-   平衡理性与情感
+
+    -   多练习情绪觉察
+        -   “**我现在的感受是什么**？” 而不是 “我现在在想什么？”
+    -   允许情绪存在
+        -   告诉自己， “我可以感到悲伤/愤怒/脆弱，**这些都是人类的正常体验**”
+    -   在安全关系中表达
+        -   **练习表达你的感受**， 而不是只表达你的想法
+    -   写情绪日记
+        -   不分析，**只记录你每天的情绪波动**，帮助你建立与情感的连接
+
+-   **壓抑了情感**，造成沒有聯結
+
+    -   当感到难过或愤怒时， 立刻转向分析，而不是**允许自己去感受**？
+    -   担心情绪会让我变得脆弱
 
 -   在“人”的层面， ”**敞开**“才可能有联结
 
@@ -30,6 +73,13 @@ abstract: "Live a life created for you, instead of the life you create"
     -   害怕被评价和拒绝
         -   “**别人如何评价你，反映的是他的水平，而不是你的水平**”
     -   害怕影响关系
+    -   A man
+        -   **Does not apologize for his desires/testosterone**
+        -   **Does not go through life walking on eggshells**
+        -   **Never feels he has to prove himself to anyone**
+        -   Focuses on his dreams
+        -   Never loses his passion, for that would be the death of his soul
+        -   Knows where he is going in life
 
 #### 2025-09-26
 
@@ -128,7 +178,7 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   对人有立场
 
-        -   kind, responsible, honest, open-minded, positive, grit, curiosity, cooperation, creativity
+        -   kind, honest, responsible, open-minded, positive, grit, curiosity, cooperation, creativity
 
     -   不够 **open**
 

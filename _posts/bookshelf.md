@@ -5,7 +5,11 @@ date: 2012-03-19
 
 ### log of trainings & books and my ratings
 
-#### trainings-2025
+#### training-2025
+
+-   Leasership
+
+    -   [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2025/home)
 
 -   Entrepreneurship
 
@@ -15,38 +19,37 @@ date: 2012-03-19
 
     -   [Entrepreneurship For All](https://learning.edx.org/course/course-v1:BerkeleyX+SOCSCI10.1+1T2025/home)
 
-    -   [職場素養 (Professionalism)](https://www.coursera.org/learn/zhichang-suyang/home/module/1)
-
     -   [wiki on Startup](https://startupclass.samaltman.com/)
 
     -   [Startup School](https://www.startupschool.org/curriculum)
 
 #### reading-2025
 
--   [Man from mars women from venus] (8/10)
--   [馬斯克傳：唯一不設限、全公開傳記] (7/10)
+-   [馬斯克傳] (7/10)
 -   **[The Making of a Manager](https://book.douban.com/subject/30379338/)** (10/10)
 -   **[HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)** (9/10)
--   **[蔡瀾谈爱情]** by 蔡瀾 (9/10)
--   **[HBR on Emotional intelligence]**
--   **[The Untethered Soul: The Journey Beyond Yourself](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379)** by Michael A. Singer (10/10)
+-   [蔡瀾谈爱情] by 蔡瀾 (9/10)
+-   [HBR on Emotional intelligence] (8/10)
+-   **[The Untethered Soul: The Journey Beyond Yourself](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379)** by Michael A. Singer (9/10)
+-   [薩提爾的自我覺察練習](https://www.logos.com.hk/bf/acms/content.asp?site=logosbf&op=show&type=product&code=9789863986003) (8/10)
 -   **[力量从哪里来]** by liyiluo (10/10)
--   **[相信自己，才是完整的你：覺察自我的 27 個練習]** by 高瑞希
+-   **[相信自己，才是完整的你]** by 高瑞希 (9/10)
+-   **[The art of love]** by Erich Fromm (note: awareness of his separateness => anxiety (shame, guilty) => the union with group => Love -> interpersonal union)
+-   [King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine] by Robert Moore and Douglas Gillette
 -   [The Diary of a CEO] by Steven Bartlett
 -   **[The Almanack of Naval Ravikant]** by Eric Jorgenson
--   [The art of love] by Erich Fromm
+-   [丘吉尔传] by Andrew Roberts
+-   **[沈思錄]**
 -   [The Headspace Guide to Meditation and Mindfulness]
 -   [Grow rich with peace of mind] by Napoleon Hill
 
 -   [How to Not Die Alone] by Logan Ury
 -   [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer
--   [The Making of Manager]
--   [沈思錄]
--   [CHATTER: The Voice in Our Head, Why It Matters, and How to Harness It] by Ethan Kross
 
+-   [CHATTER: The Voice in Our Head, Why It Matters, and How to Harness It] by Ethan Kross
 -   [Don't Sweat the Small Stuff About Money: Simple Ways to Create Abundance and Have Fun] by Richard Carlson (9/10)
 -   [The Psychology of Money]
--   [丘吉尔传] by Andrew Roberts
+
 -   [HBR being a Great Bs] (10/10) (note: kind of self assurance)
 -   [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia
 -   [HBR Guide to Negotiating]
@@ -73,7 +76,6 @@ date: 2012-03-19
 
 -   [The Maxwell Daily Reader](https://www.amazon.com/Maxwell-Daily-Reader-Insight-Influence/dp/1400203392) by John C. Maxwell
 -   [Adventures of the soul] by James Van Praagh
--   [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer
 -   [Software Design by Example](https://third-bit.com/sdxpy/)
 -   [亲密关系](https://book.douban.com/subject/27072923/) by Rowland S. Miller (7/10)
 -   [Benjamin Franklin——An American Life](https://book.douban.com/subject/2990595/)
@@ -82,21 +84,18 @@ date: 2012-03-19
 -   [HBR on Self-Awareness]
 
 -   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
--   [Social Intelligence: The New Science of Human Relationships]
 -   [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti
 -   [Getting to Yes - Negotiating Agreement Without Giving In]
 -   [The Art of the Deal](https://book.douban.com/subject/1817125/)
--   [HBR Guide to Negotiating](https://book.douban.com/subject/27161116/)
--   [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm (9/10)
 -   [張愛玲經典散文](https://www.millionbook.net/mj/z/zhangailing/zalj/index.html)
 
 #### reading-2024
 
--   [世界简史](https://book.douban.com/subject/30258601/) by Geoffrey Blainey (9/10) (note: One needs to understand world history, especially if one stands at a worldview centered)
+-   **[世界简史](https://book.douban.com/subject/30258601/)** by Geoffrey Blainey (9/10) (note: One needs to understand world history, especially if one stands at a worldview centered)
 -   [The Millionaire Next Door](https://book.douban.com/subject/1620201/) by Thomas J. Stanley (8/10)
--   [HBR being a Great Bs] (10/10) (note: kind of self assurance)
--   [Emotional Intelligence](https://book.douban.com/subject/1772153/)
--   [!Permission to Feel Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive] (9/10)
+-   **[HBR being a Great Bs]** (10/10) (note: kind of self assurance)
+-   **[Emotional Intelligence](https://book.douban.com/subject/1772153/)**
+-   **[!Permission to Feel Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive]** (9/10)
 -   [Man from mars women from venus] (8/10)
 -   [Social Intelligence: The New Science of Human Relationships](https://www.amazon.com/Social-Intelligence-audiobook/dp/B000IU3WY8/?_encoding=UTF8&pd_rd_w=SKffl&content-id=amzn1.sym.05575cf6-d484-437c-b7e0-42887775cf30&pf_rd_p=05575cf6-d484-437c-b7e0-42887775cf30&pf_rd_r=138-0018281-6774746&pd_rd_wg=buhau&pd_rd_r=918d6df0-726a-4fb9-b4b3-4d8950000937&ref_=aufs_ap_sc_dsk)
 -   [The Almanack of Naval Ravikant] by Eric Jorgenson
@@ -117,7 +116,7 @@ date: 2012-03-19
 -   [HBR's 10 Must Reads on Emotional Intelligence](https://book.douban.com/subject/26665070/)
 -   [The Making of a Manager](https://book.douban.com/subject/30379338/) (10/10)
 -   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
--   [事實與偏見] by Lai Chee-ying
+-   **[事實與偏見]** by Lai Chee-ying
 -   [The Art of the Deal](https://book.douban.com/subject/1817125/)
 -   [Business Made Simple](https://book.douban.com/subject/35956375/) (8/10)
 -   [蛤蟆先生去看心理医生] (6/10)
@@ -157,7 +156,7 @@ date: 2012-03-19
 -   [A Guide to the Good Life](https://book.douban.com/subject/4684151/) by William B. Irvine
 -   [500 Lines or Less](https://aosabook.org/en/index.html)
 
--   [The Art of Loving](https://book.douban.com/subject/2266022/) by Erich Fromm (9/10)
+-   **[The Art of Loving](https://book.douban.com/subject/2266022/)** by Erich Fromm (9/10)
 -   [Meditations](https://book.douban.com/subject/30313414/)
 -   [Your Erroneous Zones](https://book.douban.com/subject/1795975/) by Wayne W. Dyer
 -   [HBR Guide to Managing Up and Across](https://book.douban.com/subject/17199725/)
@@ -183,12 +182,12 @@ date: 2012-03-19
 -   [張醫生於王醫生](https://book.douban.com/subject/35623209/) （7/10）
 -   [馬丁·伊登](https://book.douban.com/subject/1883354/) by Jack London (7/10)
 
--   [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan (9/10)
--   [The Subtle Art of Not Giving a Fck](https://book.douban.com/subject/26895197/) by Mark Manson (8/10)
--   [力量从那里来](https://book.douban.com/subject/35694196/) by 李一诺 (9/10)
+-   **[Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee)** by Bruce Lee Jun-fan (9/10)
+-   **[The Subtle Art of Not Giving a Fck](https://book.douban.com/subject/26895197/)** by Mark Manson (8/10)
+-   **[力量从那里来](https://book.douban.com/subject/35694196/)** by 李一诺 (9/10)
 -   [少年王晶闖江湖](https://book.douban.com/subject/6795881/) (note: 有些思維可以借鑑) (8/10)
 
--   [Fluent Python, 2nd](https://book.douban.com/subject/34990079/) by Luciano Ramalho (9/10)
+-   **[Fluent Python, 2nd](https://book.douban.com/subject/34990079/)** by Luciano Ramalho (9/10)
 -   [How to Design Programs, 2nd](https://htdp.org/2018-01-06/Book/index.html) by Matthias Felleisen (7/10)
 -   [Writing Interpreters and Compilers for the Raspberry Pi Using Python](https://www.amazon.com/gp/product/B089M41NGB/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1) by Anthony J. Dos Reis (7/10)
 -   [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/) by Douglas Crockford (7/10)
@@ -280,7 +279,7 @@ date: 2012-03-19
 -   [Getting Love Right](https://www.goodreads.com/book/show/724464.Getting_Love_Right) by Terence T. Gorski (9/10) (note: one of the best on the relationship)
 
 -   [Mastery](https://book.douban.com/subject/1461005/) by George Leonard (9/10)
--   [Friend & Foe](https://book.douban.com/subject/26392713/) by Adam Galinsky, Maurice Schweitzer (9/10)
+-   **[Friend & Foe](https://book.douban.com/subject/26392713/)** by Adam Galinsky, Maurice Schweitzer (9/10)
 -   [Bruce Lee: Artist of Life](https://www.goodreads.com/book/show/518792.Bruce_Lee) by Bruce Lee Jun-fan
 -   [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia
 -   [Zero to One](https://book.douban.com/subject/24753651/) by Peter Thiel
@@ -319,34 +318,34 @@ date: 2012-03-19
 
 -   [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) by Dale Carnegie (9/10) (note: the skill is important)
 
--   [Mastery](https://book.douban.com/subject/1461005/) by George Leonard (9/10) (note: sharing on the psychological journey towards the master)
+-   **[Mastery](https://book.douban.com/subject/1461005/)** by George Leonard (9/10) (note: sharing on the psychological journey towards the master)
 -   [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear (8/10) (note: Habits are the Compound interest of self-improvement)
 -   [The Richest Man in Babylon](https://book.douban.com/subject/1922725/) by George S. Clason
 -   [The Millionaire Next Door](https://book.douban.com/subject/1042567/) by Thomas J Stanley (9/10)
--   [Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1) by Napoleon Hill (9/10) (note: about how to make Desire into reality)
--   [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1) by Robert T. Kiyosaki, Sharon Lechter (9/10) (note: about how money works, and how to have it work for you)
+-   **[Think and grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich?ac=1&from_search=true&qid=CI0Kbo2ZFZ&rank=1)** by Napoleon Hill (9/10) (note: about how to make Desire into reality)
+-   **[Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad?ac=1&from_search=true&qid=YSw1QaRE3j&rank=1)** by Robert T. Kiyosaki, Sharon Lechter (9/10) (note: about how money works, and how to have it work for you)
 
 -   [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by Josh Waitzkin (8/10)
 -   [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer (8/10)
 -   [Don Quixote de la Mancha](https://book.douban.com/subject/1005918/) by Miguel de Cervantes Saavedra
--   [Hamlet](https://www.goodreads.com/book/show/1420.Hamlet) by William Shakespeare (9/10) (note: Hamlet and Don Quixote are so different but as the same great)
--   [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1) by Francis Fukuyama (9/10) (note: a comparative politics framework from the western perspective)
+-   **[Hamlet](https://www.goodreads.com/book/show/1420.Hamlet)** by William Shakespeare (9/10) (note: Hamlet and Don Quixote are so different but as the same great)
+-   **[The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order?from_search=true&from_srp=true&qid=4gi3WPkm69&rank=1)** by Francis Fukuyama (9/10) (note: a comparative politics framework from the western perspective)
 -   [Composing Programs](http://composingprograms.com/) (8/10)
 -   [A Little History of Philosophy](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy) by Nigel Warburton (9/10) (note: a superb guide on philosophical writing)
 -   [The Five Love Languages](https://www.goodreads.com/book/show/23878688-the-5-love-languages) by Gary Chapman (9/10)
 
--   [富蘭克林自傳](https://www.goodreads.com/book/show/28738410?ac=1&from_search=true&qid=uUZVTvNLwc&rank=3) by Benjamin Franklin (9/10)
+-   **[富蘭克林自傳](https://www.goodreads.com/book/show/28738410?ac=1&from_search=true&qid=uUZVTvNLwc&rank=3)** by Benjamin Franklin (9/10)
 -   [An Introduction to Language](https://book.douban.com/subject/2275489/) by Victoria Fromkin, Robert Rodman, et al. (8/10)
 -   [SICP](https://wizardforcel.gitbooks.io/sicp-in-python/content/15.html)
 -   [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete?ac=1&from_search=true&qid=53qRUqb6mJ&rank=1) by Steve McConnell (7/10)
--   [被討厭的勇氣](https://www.goodreads.com/book/show/32848903) by 岸見一郎, 古賀史健 (note: reshape some of my thinking) (9/10)
--   [來自民間的叛逆](https://book.douban.com/subject/30294348/) by 袁越 (8/10)
--   [The Making of a Manager](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager?ac=1&from_search=true&qid=13w9EjAaq4&rank=1) by Julie Zhuo (8/10)
+-   **[被討厭的勇氣](https://www.goodreads.com/book/show/32848903)** by 岸見一郎, 古賀史健 (note: reshape some of my thinking) (9/10)
+-   **[來自民間的叛逆](https://book.douban.com/subject/30294348/)** by 袁越 (8/10)
+-   **[The Making of a Manager](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager?ac=1&from_search=true&qid=13w9EjAaq4&rank=1)** by Julie Zhuo (8/10)
 -   [Crafting Your Research Future](https://www.goodreads.com/book/show/15090386-crafting-your-research-future) by Charles X. Ling (8/10)
--   [The Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup) by Eric Ries (9/10)
--   [The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within) by Matt Mochary (note: some pragmatic sharing working experience) (9/10)
+-   **[The Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup)** by Eric Ries (9/10)
+-   **[The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within) by Matt Mochary (note: some pragmatic sharing working experience)** (9/10)
 -   [Design It!: From Programmer to Software Architect](https://www.goodreads.com/book/show/31670678-design-it) by Michael Keeling (7/10)
--   [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker (note: some superb pragmatic working skills) (9/10)
+-   **[The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive?from_search=true&from_srp=true&qid=z8uYKRU0a8&rank=1) by Peter F. Drucker (note: some superb pragmatic working skills)** (9/10)
 
 -   [向上管理．向下管理](https://www.goodreads.com/book/show/46129566?ac=1&from_search=true&qid=4l4emyPuC4&rank=1) (7/10) (note: some softskills in the workplace and life )
 -   [Gardner's Art Through the Ages: A Global History](https://book.douban.com/subject/30395789/) by Fred S. Kleiner

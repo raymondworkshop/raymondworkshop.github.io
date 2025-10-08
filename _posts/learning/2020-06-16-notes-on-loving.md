@@ -1,10 +1,16 @@
 ---
 layout: post
-title: 'Notes on "the love relationships" skills'
+title: "!Notes on 'loving'"
 date: 2020-06-16
+update: 2025-09-30
 comments: true
 categories: [notes, important, softskills, love, self, learning]
+abstract: "notes on 'love'"
 ---
+
+#### the art of loving
+
+TODO
 
 #### notes
 
@@ -702,4 +708,5 @@ categories: [notes, important, softskills, love, self, learning]
 
 #### reference
 
+-   [the art of loving]
 -   [The five love languages] by Dr. Gary Chapman
