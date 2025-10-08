@@ -232,18 +232,18 @@ abstract: "notes on Think and Grow Rich, Rich Dad Poor Dad"
     -   sincere **desire**
     -   **faith**
     -   **love**
-    -   **sex**
+    -   sex
     -   **enthusiasm**
     -   romance
-    -   hope
+    -   **hope**
 
 -   major negative emotions
 
     -   **fear** <- Faith
-    -   jealousy
-    -   **hatred**
-    -   **revenge**
-    -   greed
+    -   **jealousy**
+    -   hatred
+    -   revenge
+    -   **greed**
     -   anger
     -   superstition
 
