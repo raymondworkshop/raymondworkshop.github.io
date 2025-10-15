@@ -7,6 +7,103 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you, instead of the life you create"
 ---
 
+#### 2025-10-14
+
+-   分享了自己过去的不好经历， 心情舒畅了许多
+
+-   发现了自己好多点
+
+    -   逃避艰难对话
+    -   理性過於壓抑了感性
+
+        -   情绪隔离 - 分析
+        -   情绪 shift, **引入新的情绪**
+
+        -   情緒是**主观的内在体验**
+
+        -   Learn to **know how people are feeling just by looking at them**
+        -   learn how to change how they're feeling for the better
+
+        -   讲话要有 energy, 中气，阴阳顿挫，表情， 有力量
+
+    -   害怕冲突和争议
+
+        -   担心被攻击， 而产生情绪负担
+
+            -   **被攻击 好于被忽视**
+
+        -   不愿得罪人 - 过于照顾沉默的大多数
+
+            -   **不可能让所有人满意**，**还不如做自己**
+            -   **要么不吱声随大流**，**要么无所畏惧地输出自己观点**
+                -   并不在意情感联结，没想着交朋友
+                -   会精准找到极为合拍的人
+
+        -   不愿出头
+
+    -   不够开放
+
+    -   内倾， 与人打交道会被吸收能量
+        -   需要独处 恢复能量
+    -   没有 assertive and courage
+    -   贪心 - 方便，钱财，或其他价值
+        -   懒惰
+
+-   Emotionally leadership
+
+    -   A man who **knows who he is** and **what he stands for**,
+        He doesn't need others permission to be that man
+
+        -   Truth leadership is about **direction**, **vision**, and **strength**
+        -   He does'nt abandon his principles
+        -   He knows when to compromise and when to stand firm
+        -   He guides not by force but by example, showing strength in his actions
+
+    -   You **hold your emotional centre**, sth change in the dynamic.
+
+        -   she feels sth when a man is emotionally still, emotionally safe, and emotionally directive
+        -   **set the emotional tone** you want her to feel, playfulness, confidence, curiosity, calm.
+            The matter is you bring it.
+        -   The man who **leads emotionally** who might introduce humor, shift the subject, or stay fully present and unbothered.
+            This kind of leadership builds trust.
+
+    -   Real power lies in **authentic detachment**, be able to walk away emotionally
+
+        -   **Genuinely being ok if she chooses U or not**. That kind of freedom changes your energy
+
+        -   if you walk into a room with a mindset that **you already like youself**,
+            and you're good either way and that **you're curious but not accached to how others respond**,
+            you're embodying authentic detachment.
+            If you walk into a room, and try to get everyone to like you, your energy feels off. you're watching others for cues.
+
+        -   Detachment has to come from **real self-worth**, **from knowing you are complete with or without her attention**.
+            That kind of confidence can be built through repetition, self-descipline, and emotional mastery.
+            When you approach a woman from this state **open, curious but not attached**.
+
+    -   Make her feel **using contrast**, you offer **a full emotional experience while staying grounded in who you are**
+
+        -   you could be **confident yet playful**, **calm yet intense**, **kind yet assertive**, **unbothered yet fully present**
+        -   you're teasing one moment and completely still the next. You challenge her idea playfully, then genuinely listen with full attention
+
+    -   you **full range of presence**
+
+        -   lead with **calm, warm, emotional present energy**
+        -   you hold your frame, you trust your presence
+
+    -   Slef-respect
+
+        -   You take care of your body
+            You speak with intention
+            You work with purpose  
+            You don't gossip, you don't complain
+            You don't shrink yourself to make other comfortable  
+            You make through the world quiet confidence
+
+    -   Energy you bring in is **calm**, **confident**
+        -   how your presence is affecting her emotionally
+        -   women are only tied to energy that uplifts her, inspires her, excites her
+        -   **their energy** speak louder than any action
+
 #### 2025-10-08
 
 -   **要拓展自我**，就需要和不同人相处
@@ -18,7 +115,7 @@ abstract: "Live a life created for you, instead of the life you create"
         -   **心态上不要把自己太当回事**，你要清楚自己就是个庸才，才会更有智性和别人相处
         -   **把所有“以为”通通放掉**，**全然信任自己**，勇于做出改变
         -   **与人相处摩擦不过是万物流转的必然现象**，抱持平常心即可；
-            群体里的自我觉得包含分享和妥协， **我们在和他人相互调整过程中**，**都是在认识自己**
+            群体里的自我觉察包含分享和妥协， **我们在和他人相互调整过程中**，**都是在认识自己**
 
 -   SELF
 
@@ -39,12 +136,15 @@ abstract: "Live a life created for you, instead of the life you create"
     -   east asian cultures emphasise humility and conformity over **assertiveness**
 
     -   the costs of conflict avoidance
+
         -   when you manage others, you have to **be willing to provide negative feedback and criticism**
             -   if you are too afraid to deliver a harsh message because you're afraid of making someone feel bad
                 or making yourself feel uncomfortable
         -   **undermine your ability to lead** because you are unwilling to confront the issues
             -   which makes you appear weak, apathetic or oblivious
         -   demoralise your best performers because **you accept mediocrity**
+
+        -   在香港 想要融入 而愿意去付出代价
 
 -   Learn to embrace conflict
     -   stop avoiding hard conversations
@@ -119,6 +219,7 @@ abstract: "Live a life created for you, instead of the life you create"
     -   A man
         -   **Does not apologize for his desires/testosterone**
         -   **Does not go through life walking on eggshells**
+            -   living without constantly feeling the need to be overly careful, cautious, or fearful of upsetting others
         -   **Never feels he has to prove himself to anyone**
         -   Focuses on his dreams
         -   Never loses his passion, for that would be the death of his soul
