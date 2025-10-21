@@ -10,7 +10,58 @@ abstract: "notes on 'love'"
 
 #### the art of loving
 
-TODO
+-   LOVE is an attitude
+
+    -   brotherly love - compassion
+
+    -   Motherly love
+
+        -   **it's good to be alive** <- care and affirmation of **existence**
+            -   God creates the world, and man
+        -   **the love for life** and **the happiness in being alive**
+            -   Mother's love for life is as infectious as her anxiety is
+
+    -   erotic love
+
+        -   **I love from the essence of my being** - and experience the other person in the essence of his or her being
+        -   To love somebody is not just a strong feeling - it is a promise
+
+    -   self-love
+
+        -   if you love yourself, you love everybody else as you do yourself
+
+    -   Love of God
+        -   TODO
+
+-   Love between parent and child
+
+    -   motherly love is unconditional
+
+        -   "**I am loved because I am**" <- Infantile love
+        -   mature love -> "**I am because I love**"
+            -   **By loving**, **he leaves the prison of aloneness and isolation** which was constituted
+                by the state of narcissism and self-centeredness.
+                He feels a sense of new union, of sharing, of oneness.
+                More than that, **he feels the potency of producing love by loving**
+            -   **To give has become more satisfactory**, **more joyous**, **than to receive**;
+                to love, more important even than being loved.
+        -   **Mother has the function of making him secure in life**
+
+    -   fatherly love
+        -   "I love you because you fulfill my expectations, **because you do your duty**, because you are like me"
+
+-   awareness of his separateness
+    => anxiety (shame, guilty)
+    -   orgiastic states (drug, sex, alcohol, etc.)
+    -   **the union with group**
+        -   threats and terror
+        -   suggestion and propaganda
+            -   conformity pattern
+            -   work and pleasure routine
+            -   creative activity
+            -   **Love** -> **interpersonal union**
+                -   symbiotic union -> fusion without integrity
+                -   mature love in union -> preserve one's individuality
 
 #### notes
 
