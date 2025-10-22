@@ -10,6 +10,8 @@ abstract: "notes on 'love'"
 
 #### the art of loving
 
+-   TODO
+
 -   LOVE is an attitude
 
     -   brotherly love - compassion
@@ -31,7 +33,17 @@ abstract: "notes on 'love'"
         -   if you love yourself, you love everybody else as you do yourself
 
     -   Love of God
-        -   TODO
+
+        -   the love for God cannot be separated from the love for one's parents
+
+            -   **God was experienced as an all-protective mother( or clan, nation)**,
+                or a **punishing-rewarding father (authority - overt authority or public opinion)**,to a mature stage where God ceases to be an outside power;
+                where man has **incorporated the principles of love and justice into himself**, where he has become one with God,
+                and eventually, to a point where he speaks of God only in a poetic, symbolic sense.
+
+        -   In western religious system, the love of God is essentially the same as **the belief in God**,
+            **in God's existence, God's justice, God's love**. The love of God is essentially **a thought experience**.
+            In the Eastern religions, the love of God is **an intense feeling experience of oneness**, inseparably linked with the expression of this love in every act of living.
 
 -   Love between parent and child
 
