@@ -10,7 +10,31 @@ abstract: "notes on 'love'"
 
 #### the art of loving
 
--   TODO
+-   The practice of Love
+
+    -   the ability to love
+
+        -   to concentrate means to **be able to be alone with oneself**,
+            and this abilability is precisely a condition for **the ability to love**
+        -   If I am attached to another person **because I cannot stand on my own feet**, he or she may be a **lifesaver**, but the relationship is not one of love
+
+    -   overcoming of one's narcissism
+
+        -   see people and things **as they are objectively**, and to be able to **separate this objective picture** from
+            a picture which is formed by one's desires and fears
+
+        -   love required the development of **humility**, **objectivity** and **reason**
+
+    -   rational faith is **an independent conviction** based on **one's own experience**,
+        **in the confidence in one's power of thought, obeservation, and judgment**, in spite of the majority's opinion
+
+        -   irrational faith is based on one's submission to irrational authority
+
+    -   his basic motivations
+        -   **love**
+        -   **faith in the potentialities**
+        -   to **live productively**
+            -   require courage, to take a risk, to accept pain and disappointment
 
 -   LOVE is an attitude
 

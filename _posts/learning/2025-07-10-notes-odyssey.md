@@ -7,6 +7,108 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you, instead of the life you create"
 ---
 
+#### 2025-10-23
+
+-   concentration
+
+    -   to be concentrated means to live fully in the present, in the here and now
+    -   sensitive to oneself
+
+    -   meditation -> concentration
+
+        -   get up earlier 7:00
+        -   breathe 20 min every morning, and evening before going to bed
+
+-   SELF
+
+    -   艰难对话
+
+        -   害怕影响关系
+
+            -   担心被对方不能接受， 从而失去关系或轻视
+            -   east asian cultures emphasise humility and conformity over assertiveness
+
+            -   **assertiveness**
+                -   the quality of being confident and **not frightened to say what you want or believe**
+                -   "I speak up and share my views when it is appropriate"
+                    and "I am willing to engage in constructive interpersonal confrontations"
+
+        -   **Lean into conflict** rather than shy away from it
+
+            -   indians preferred **negotiation**, followed by confrontation
+                -   actively seek resolution through **dialogue and directness**
+            -   indians are **pragmatic**
+                -   **value resolution** over repression
+                -   show up more in the form of collaborative problem-solving and consensus-building, not conflict avoidance
+
+        -   Steps to better embrace conflict
+
+            -   **Stop taking things personally**
+
+                -   If you’ve resolved a conflict successfully, **both parties win**.
+                    It might mean admitting you’re wrong, if you are in fact wrong, or it might mean the other party acknowledges their mistake.
+                    It could be both parties miscommunicated or misunderstood, but it will never get resolved without a direct conversation.
+
+                -   if you take things too personally, you will **be overly tied to your pride and ego**
+
+            -   Be comfortable with discomfort
+
+                -   **the short term pain of pulling the Band-Aid off quickly is much better** than slowly peeling it off
+                -   Learn to **deal with the anxiety and distress caused by conflict or tension**.
+
+                    The passive aggression only leads to suppressed and growing bitterness that
+                    is just as uncomfortable than **the momentary discomfort of directly confronting a person or situation**
+
+                -   People who don’t like feeling uncomfortable or being in awkward situations
+
+            -   Don’t beat around the bush
+                -   be willing to be direct and to the point.
+                    You must **be intentional and explicit in what you say**, if you want the other party to fully grasp where you are coming from
+                -   **firmly and confidently articulating your position**. This is often takes preparation and practice in order to clearly communicate your points
+
+        -   Lead by Example
+
+            -   people wanna follow a leader who **they can trust to do the right thing and take care of them**.
+                If there is a team member that is being difficult or not carrying their weight, t**hey want a leader deal with that person firmly**.
+
+            -   a healthy environment is created **when the team knows how to manage and resolve internal conflicts**
+
+    -   reframe conflict as an opportunity
+
+        -   What if you position conflict as a learning opportunity for all parties involved?
+            A chance for each party to openly share their frustrations and grievances with one another as an exercise to reset through direct communication.
+
+        -   Most conflicts arise out of misunderstanding or miscommunication in the first place.
+            Resolving conflict allows you to bring everyone to the same table and get everyone back on the same page.
+
+            Only by having a conversation, you are able to clarify your positions. You also have the opportunity to persuade them or Be persuaded to find compromise.
+
+    -   先打开心扉
+
+        -   一般另一方也会放开
+        -   对人的信任度好高 - 安全感好高
+
+    -   假设自己是领导者 - 强，有能力，好人
+
+        -   想要所有人都认同自己
+        -   有形象和面子问题
+        -   害怕引起争议
+        -   害怕呈现自己的脆弱
+
+        -   **心态上不要把自己太当回事**，**你要清楚自己就是个庸才**，才会更有智性和别人相处
+
+    -   **只要有认同自己的人就行了**， 没有必要要全部的人认同
+
+        -   **你不是为别人活的， 不是所有人都爱你**
+            -   尽量做好自己，**过自己关就行了**
+            -   晚上睡觉前不要有遗憾 - 不要做了一些对不起自己， 对不起别人的事
+        -   允许自己不完美
+        -   **别人不认同不代表自己错了**，只是角度不同
+
+    -   **学做镜子**， 不做海绵
+        -   别人的评价是说话人内心的折射，看到就好了
+        -   需要我们内心清明，可以关注周围人的底层状态， 也需要相信对方可以凭借自身的力量去他应该去的地方 - 不是给答案， 而是问问题
+
 #### 2025-10-20
 
 -   假设对方不够中正
@@ -15,9 +117,10 @@ abstract: "Live a life created for you, instead of the life you create"
 
 -   不够开放， 过度保护自己
 
-    -   对方不够纯粹
     -   防卫过当，暴露自己的意图, 怕被利用
-    -   太多道德/对错判断， 标签化
+        -   对方不够纯粹
+        -   太多道德/对错判断， 标签化
+        -   不够中正
     -   无条件的 爱 和渴望 - 比如 谁对我热情
 
     -   **脆弱的呈現自己**，**對方只是个 understanding**
@@ -25,6 +128,7 @@ abstract: "Live a life created for you, instead of the life you create"
         -   能**表達自己內心的想法**，**我無訴求**， **不求对方如何看自己， 只是纯粹想给你看**
 
         -   不求對方怎樣的眼光的時候
+            -   自己有面子和形象问题; 没有放空自己
 
 -   都觉得是有条件 - 害怕利益纠缠
 
@@ -152,7 +256,7 @@ abstract: "Live a life created for you, instead of the life you create"
         -   lead with **calm, warm, emotional present energy**
         -   you hold your frame, you trust your presence
 
-    -   Slef-respect
+    -   Self-respect
 
         -   You take care of your body
             You speak with intention
