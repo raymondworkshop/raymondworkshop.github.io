@@ -69,7 +69,7 @@ abstract: "Live a life created for you, instead of the life you create"
         -   Lead by Example
 
             -   people wanna follow a leader who **they can trust to do the right thing and take care of them**.
-                If there is a team member that is being difficult or not carrying their weight, t**hey want a leader deal with that person firmly**.
+                If there is a team member that is being difficult or not carrying their weight, **they want a leader deal with that person firmly**.
 
             -   a healthy environment is created **when the team knows how to manage and resolve internal conflicts**
 
