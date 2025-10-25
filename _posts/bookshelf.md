@@ -34,7 +34,7 @@ date: 2012-03-19
 -   [薩提爾的自我覺察練習](https://www.logos.com.hk/bf/acms/content.asp?site=logosbf&op=show&type=product&code=9789863986003) (8/10)
 -   **[力量从哪里来]** by liyiluo (10/10)
 -   **[相信自己，才是完整的你]** by 高瑞希 (9/10)
--   **[The art of love]** by Erich Fromm (note: awareness of his separateness => anxiety (shame, guilty) => the union with group => Love -> interpersonal union)
+-   **[The art of love]** by Erich Fromm (note: awareness of his separateness => anxiety (shame, guilty) => the union with group => Love -> interpersonal union) (10/10)
 -   [The four agreements _ a Practical Guide to Personal Freedom] by Don Miguel Ruiz
 -   [King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine] by Robert Moore and Douglas Gillette
 -   [The Diary of a CEO] by Steven Bartlett

@@ -36,6 +36,32 @@ abstract: "notes on 'love'"
         -   to **live productively**
             -   require courage, to take a risk, to accept pain and disappointment
 
+-   Love and its disintegration in contemporary western society
+
+    -   **political freedom** on the one hand, and **the market as the regulator** of all economic, hence social relations, on the other
+
+        -   Modern man has transformed himself into **a commodity**
+        -   **Make God a partner in business**, rather than to become one with him in **love**, **justice and truth**;
+            brotherly love has been replaced by impersonal **fairness**
+
+    -   the essence of love is seen **in a situation of collaboration**
+
+        -   permits **validation of all components of personal worth**
+        -   validation of personal worth requires a type of relationship which I call **collaboration**,
+            by which clearly formulated **adjustments of one's behavior to the expressed needs of the other person** in pursuit of **increasingly identical** - that is, more and more **nearly mutual satisfactions**, and in the maintenance of **increasingly similar security operations**
+
+    -   want mother's unconditional love
+
+        -   **aim to be loved**, not to love
+
+    -   sentimental love
+
+        -   he lives in the past or in the future, but **not in the present**
+
+    -   the presence of love
+        -   **the depth of the relationship**,
+            and **the aliveness and strength in each person concerned**
+
 -   LOVE is an attitude
 
     -   brotherly love - compassion
