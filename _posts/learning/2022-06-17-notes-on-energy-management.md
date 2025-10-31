@@ -9,6 +9,8 @@ abstract: "Notes on Energy - body, diets, sleep  "
 
 #### Notes on body health
 
+-   每周至少 Gym 一次
+
 -   2025-09-15
 
     -   深蹲
@@ -62,6 +64,7 @@ abstract: "Notes on Energy - body, diets, sleep  "
 
 -   enjoy food
 
+    -   楚撚記大排档
     -   阿拉丁咖啡屋
     -   Lime Garden - 青悅 - 越南菜
     -   PUTIEN 莆田 - 福建菜

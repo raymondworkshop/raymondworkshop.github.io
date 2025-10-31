@@ -38,6 +38,7 @@ date: 2012-03-19
 -   [The four agreements-a Practical Guide to Personal Freedom] by Don Miguel Ruiz
 -   [The Diary of a CEO] by Steven Bartlett
 -   **[The Almanack of Naval Ravikant]** by Eric Jorgenson
+-   [張忠謀自傳]
 -   [丘吉尔传] by Andrew Roberts
 -   **[沈思錄]**
 -   [笑得出来的养育] by liyiluo

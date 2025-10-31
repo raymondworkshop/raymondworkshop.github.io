@@ -57,12 +57,20 @@ abstract: "Understanding your emotions; And you can Control your life  ."
             你会发现一些关于自己曾经没有意识到的部分(**find something new about yourself**),这就是所谓的苦难给你的最大财富
 
 -   emotions and their linked causes
+    -   fear
+        -   "Your biggest strength is hiding behind fear. Look closer"
+            -   "what is fear protecing?"
+            -   "**what strength is trying to emerge**?"
+            -   "what would happen if I let it speak?"
     -   **shame, guilt, and embarrassement**
         -   Shame is a judgment **from the outside**
+            -   "I need love and acceptance. Stop rejecting me"
         -   Guilt is a judgment we **make of ourselves**
+            -   "You're acting against your values. Course correct"
         -   Embarrassment
     -   **Jealousy and envy**
         -   Jealousy is a form of fear of losing someone important to you
+            -   "That's what you really want. Stop pretending you don't"
         -   envy is caused by our coveting sth that's not ours
     -   **Joy and contentment**
         -   Joy is caused by **a sense of getting what one wants**
@@ -99,11 +107,15 @@ abstract: "Understanding your emotions; And you can Control your life  ."
     -   fear
     -   disgust - 反感
 
-        -   a strong feeling of disapproval and dislike at a situation, person's behaviour, etc. - disgust is a response to something that is considered offensive or unclean - Disgust, for example, involves down-turned lips
+        -   a strong feeling of disapproval and dislike at a situation, person's behaviour, etc.
+        -   disgust is a response to something that is considered offensive or unclean
+        -   Disgust, for example, involves down-turned lips
 
     -   happiness
     -   contempt - 蔑视
-        -   a strong feeling of disliking and having no respect for someone or something - contempt is a response to someone or something that is considered inferior or unworthy - inadvertently pulling one side of the mouth up
+        -   a strong feeling of disliking and having no respect for someone or something
+        -   contempt is a response to someone or something that is considered inferior or unworthy
+        -   inadvertently pulling one side of the mouth up
 
 -   anger
 
