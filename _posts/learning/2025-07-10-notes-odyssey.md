@@ -9,11 +9,70 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### 2025-10-31
 
--   **I'm learning from this experience**
+-   Learning
 
-    -   What do others think of me?
+    -   **I'm learning from this experience**
+
+        -   NOT What do others think of me?
+
+    -   **Consideration** is a beautiful love language
+        -   how much someone cares about you can actually be found in how much they consider you
+        -   when **someone thinks about your feeling** before making decisions, pays attention to details & goes the extra mile to make life a little easier for you
 
 -   SELF
+
+    -   為什麼和上司打交道有困難
+
+        -   當成命令
+        -   Managing your boss
+            -   TODO
+
+    -   控制 vs 支持
+
+        -   问自己
+
+            -   "我在这段关系中**是否能自由表达真实的自己**？"
+            -   “我**是否感到被鼓励**，而不是被压迫？”
+            -   “我是否在这段关系中**变得更好**，而不是更焦虑”
+
+        -   支持型关系的核心是“**赋能**”， 而不是让你感到“被困住”
+
+        -   控制
+
+            -   害怕自己提出要求，对方会生气
+                -   会影响关系
+                -   有些人习惯**通过发怒来掌控关系**， 制造“你一提要求我就不高兴”
+                -   SELF
+                    -   提出的请求合理吗？
+                    -   **用“我感受”来表达**
+                        -   “我提出请求时你生气，我感到很不安，希望我们能平静地沟通”
+                    -   **设定界限**
+                        -   “**我愿意沟通**，**但不接受**被吼叫”
+
+    -   自主
+
+        -   自己决定 来 维持**自尊和安全感**
+
+            -   自我界限高
+
+            -   无法自己决定，会有不安
+
+        -   依赖
+            -   “依赖”是**信任的表达**， 是双方都有选择，有界限
+                -   I need you because I love you
+            -   **设置界限**
+                -   什么样的依赖我可以接受？
+                -   什么样的行为我感到被控制？
+
+    -   尴尬 - 对自己在他人眼中的形象过度关注
+
+        -   可能说明你在那个场合中对自己的表现或身份**感到不确定**
+        -   建立“内在安全感”
+            -   选择不去承担“代表整个群体”的压力， 而是**专注于表达你自己的声音和故事**
+                -   否则有些自大 和 自恋
+            -   “我不是来取悦他们的，**我是来表达我自己**”
+            -   我**作为“外地人”的视角**，本真的表达，恰恰是你独特的价值
+            -   **找到支持性连接**：试着寻找那些愿意真正了解你的人
 
     -   忽略了期待会因人而异的事实
 
@@ -38,13 +97,13 @@ abstract: "Live a life created for you, instead of the life you create"
 
                 -   "**我听出来你有点** 着急/委屈/不安“
 
-            -   表达自己的感受和立场 - 让对方知道你不是在对抗，而是在交流
+            -   表达自己的感受和立场 - 让对方知道你不是在对抗，**而是在交流**
 
                 -   ”**我其实也挺在乎**我们能不能达成一致“
 
             -   进入观点表达 或逻辑
 
-                -   ”我有一个不同的理解，你愿意听吗？“
+                -   ”我有一个不同的理解，**你愿意听吗**？“
                 -   ”我理解你的担心， 但从数据来看可能不是这样“
 
         -   **用“我感受”** 代替 “你应该”
@@ -59,7 +118,7 @@ abstract: "Live a life created for you, instead of the life you create"
 -   为啥要证明自己对
     -   很难分清 感觉 和 事件
     -   很难分清 不同范畴
-    -   习惯 把 工作方式 带入到其他范畴
+    -   习惯 把 工作模式 带入到其他范畴
 
 #### 2025-10-27
 

@@ -59,8 +59,8 @@ abstract: "Understanding your emotions; And you can Control your life  ."
 -   emotions and their linked causes
     -   fear
         -   "Your biggest strength is hiding behind fear. Look closer"
-            -   "what is fear protecing?"
-            -   "**what strength is trying to emerge**?"
+            -   "**what is fear protecting**?"
+            -   "what strength is trying to emerge?"
             -   "what would happen if I let it speak?"
     -   **shame, guilt, and embarrassement**
         -   Shame is a judgment **from the outside**
