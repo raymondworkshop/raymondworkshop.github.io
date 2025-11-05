@@ -118,7 +118,7 @@ abstract: "Live a life created for you, instead of the life you create"
 
         -   自我界限高
 
-        -   无法自己决定，会有不安
+        -   无法自己决定或选择，会有不安
 
 -   依赖
     -   “依赖”是**信任的表达**， 是双方都有选择，有界限
