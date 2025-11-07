@@ -331,7 +331,7 @@ abstract: "Understanding your emotions; And you can Control your life  ."
         -   feel happy when you lose
 
     -   always lie to you
-    -   desrespect you
+    -   disrespect you
 
         -   if people didn't respect without money, they won't respect you with it
 

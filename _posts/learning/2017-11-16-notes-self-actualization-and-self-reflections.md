@@ -21,6 +21,10 @@ abstract: "learn from your mistakes, and know more about yourself"
         -   **不断突破并改写自己的叙事框架**，才可以获得这一层次的自由
             -   否则 社会或他人潜移默化的规训
 
+    -   Being brave doesn't mean you aren't scared
+
+        -   Being brave means you are scared and you do the right thing anyway
+
     -   处事方式比你圆滑
 
         -   真诚 or ?

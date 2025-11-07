@@ -287,7 +287,7 @@ abstract: "on How to make choices"
         -   identify your decision and think through and **write down the consequences**
             -   **review these regularly** you'll be able to help calibrate your thinking
 
-*   How
+-   How
 
     1.  Think about the specifications - a detailed description of how something should be done, made, etc  
         1.1 encourages **opinions** not facts (with relevance) firstly  

@@ -8,7 +8,7 @@ tags: [softskills, notes, important, uncertainty]
 abstract: "认识完整的自己"
 ---
 
-#### TODO - notes on congnitive emotions
+#### UPDATE - notes on congnitive emotions
 
 -   **Communication**
 
@@ -29,7 +29,14 @@ abstract: "认识完整的自己"
                 Choose to have the difficult conversation when it would be easier to avoid it.
                 Choose to ask the extra question when it would be easier to stay silent.
 
-    -   Be a leader
+    -   **Be a leader**
+        -   TODO
+
+-   Being brave doesn't mean you aren't scared
+
+    -   Being brave means **you are scared**, and **you do the right thing anyway**
+    -   **做成那件事只是因为那件事是正确的事情**，我们只是这件事中的一个工具，把你该做的事情做好，事情就成了
+    -   我们能做的，不是觉得自己是救世主，而是**把“自己”这个工具不断变得更好**，把这件事做成
 
 -   equality vs equity
 
@@ -44,13 +51,14 @@ abstract: "认识完整的自己"
     -   **害怕别人审视自己**，**不被真正接纳，产生尴尬和难为情的情绪**
 
         -   **归属感来自于“对的人”**，不一定来自于”多数人”
-        -   而且就算有人會因為我分享脆弱而否定我 ￼￼，那也只能說是那個人的價值觀或者準則不同而已；
+        -   而且就算有人會因為我分享脆弱而否定我，那也只能說是那個人的價值觀或者準則不同而已；
             但你因為別人的批評否定而有所抗拒，那才是你的課題 ￼￼￼ ￼￼￼
 
     -   不想承担别人的情绪负担
         -   假设别人不够不负责
     -   不想在别人面前表现脆弱
         -   假设别人审视自己
+        -   把 脆弱 等同于 软弱
 
 -   自主 vs **顺服掌权者**
 
@@ -102,10 +110,11 @@ abstract: "认识完整的自己"
         -   為什麼不願意和上司處理好關係？
 
             -   幫下面 可以 有自己的價值 <- 爸爸
-                -   過於同情 窮人
+                -   過於同情 窮人, 穷人 不一定是好人
             -   害怕別人非議
                 -   自己的目的/出發點
                 -   過於無私
+                -   做一个真人，而不是别人眼中的好人
             -   不想有那麼大的責任
 
                 -   沒看到自己的利益
@@ -114,7 +123,9 @@ abstract: "认识完整的自己"
             -   反叛
 
     -   fear
+
         -   the fear is almost **always self-created** and usually unnesscessary
+
     -   **look at your own vision for abundance**
 
         -   **you can do it** - once you believe you can
@@ -148,9 +159,11 @@ abstract: "认识完整的自己"
 -   kindnesss vs empathy vs compassion vs sympathy
 
     -   **empathy** - actively relating to someone's emotional experience
+
         -   "**That must have been really hard for you**"
         -   an expression of empathy is **respectful but relatively neutral**
             and it does not imply support for the person's position
+
     -   sympathy - more feeling bad for them
 
         -   "I feel sorry for what you have been through"
@@ -206,6 +219,38 @@ abstract: "认识完整的自己"
 
 #### "相信自己，才是完整的你" by 高瑞希
 
+##### 你要相信，你绝对配得上你相像的一切
+
+-   发自内心**对自己的存在充满信心**
+
+    -   我们不需要值得， **我们已经值得**
+    -   你**早就已经被地球这个地方深爱**
+    -   爱 自始至终已经存在， 且正在被你们的意念滋养，**等待你看见**
+
+-   不为他人， 而是**为‘自己’变得更好**
+    -   自我价值低落是一个魔鬼
+        -   SELF - 逃不掉主流社会价值观
+        -   我相信我这么优秀美好，不可能没人喜欢
+    -   **发自内心对自己的存在充满信心**，我们不需要值得，我们“已经”值得
+        -   **抱着“我已经被爱”的信念**，**所进行的创造都与你们的热爱有关**，**这使你充满魅力**，很难不被欣赏
+    -   **你绝对配得上你相像的一切**
+
+##### 向爱人表达情绪，应该，也不应该
+
+-   **情绪本身是真实的**， **感受永远照见自己**
+
+-   试着感受情绪，了解缘由
+    -   情绪觉察
+        -   观察你的情绪是怎么来的， 是**奠基在现实情况**， 还是你凭空脑补
+            -   **理智气和表达感觉**就是至关重要， 应该**要勇敢向对方说出你的底线和感受**
+            -   SELF - 为啥不敢
+                -   害怕失去？
+        -   学习表达情绪，才能更靠近对方
+            -   **当你尝试陈述感受**，却不被对方看重
+                -   要不是他没那么重视你，不让就是你们本质跟沟通频率并不在一个线上
+        -   **内观情绪**，**找方法释放情绪**， **以及适时向爱人表达情绪**，对一个人内在本能的维护很重要
+            -   **向他人表达情绪**，是帮助别人更了解你，也是给你一个观察机会，到底谁可以真心相交
+
 ##### 自我，才是最好的衣着
 
 -   害怕跟人相处的人， **一辈子都不可能“拓展自我”**
@@ -231,7 +276,7 @@ abstract: "认识完整的自己"
         **心态上不要把自己太当一回事**，**你要清楚自己就是庸才**，**就是空杯**，
         才会有更涵融的智性去和别人相处，**甚至从对方身上学习**，**看见别人的闪光点**
 
-    -   与人相处的摩擦不过时万物流转的必然现象，抱持平常心即可，
+    -   与人相处的摩擦不过是万物流转的必然现象，抱持平常心即可，
         你反而会知道**群体里头的自我绝对包含分享和适时妥协**，**我们在和其他人相互调整的过程里**，
         **都是在认识自己**，**心态转换**，对自己都是受惠
 
