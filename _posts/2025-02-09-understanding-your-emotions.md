@@ -61,7 +61,9 @@ abstract: "Understanding your emotions; And you can Control your life  ."
         -   "Your biggest strength is hiding behind fear. Look closer"
             -   "**what is fear protecting**?"
             -   "what strength is trying to emerge?"
-            -   "what would happen if I let it speak?"
+            -   **inner strength grows by facing fear**
+                -   Fear Reveals what matters most
+                -   Fear guards the threshold of growth
     -   **shame, guilt, and embarrassement**
         -   Shame is a judgment **from the outside**
             -   "I need love and acceptance. Stop rejecting me"
