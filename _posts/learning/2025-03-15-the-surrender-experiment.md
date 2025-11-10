@@ -93,15 +93,6 @@ abstract: "认识完整的自己"
             -   在误解风险管理和保护机制的情况下， 把有意识的脆弱视为被动的无力
             -   表达脆弱时， **关键是 让别人看到的是你面对困难的勇气和理性**，而非软弱的无力感或依赖感
 
--   害怕別人非议 - 自我價值不足
-
-    -   不可能让所有人满意
-    -   有好多人憎你，**代表你表达足够清晰的意见**
-    -   **宁愿做一个清晰的人**， 也不要做一个想讨好全世界的人
-        -   有自己的意见
-        -   stand for 自己的意见， 然后有自己的一席之地
-    -   **做一个不完美的真人**， 而不是完美的假人
-
 -   thinking big
 
     -   **choose to talk to the top**
@@ -132,6 +123,28 @@ abstract: "认识完整的自己"
         -   you can reach more people with the same amount of effort
 
     -   [36 -think big - Don't Sweat the Small Stuff About Money]
+
+-   害怕別人非议 - 自我價值不足
+
+    -   不可能让所有人满意
+    -   有好多人憎你，**代表你表达足够清晰的意见**
+    -   **宁愿做一个清晰的人**， 也不要做一个想讨好全世界的人
+        -   有自己的意见
+        -   stand for 自己的意见， 然后有自己的一席之地
+    -   **做一个不完美的真人**， 而不是完美的假人
+
+-   说谎 vs 社交面具
+
+    -   动机与目的不同
+
+    -   说谎
+
+        -   故意捏造 或 隐瞒事实
+        -   规避责任，获取利益
+
+    -   社交面具
+        -   **出于礼貌或自我保护** 而非完全真实表达
+        -   维持关系，保护隐私
 
 -   Thinking **You are the Great Catch**
 
@@ -193,7 +206,7 @@ abstract: "认识完整的自己"
 
     -   It's ok to sell. It doesn't make you a bad person
 
--   ask for what you want
+-   **ask for what you want**
 
     -   others want to help U
 

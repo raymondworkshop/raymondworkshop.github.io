@@ -37,6 +37,7 @@ date: 2012-03-19
 -   **[The art of love]** by Erich Fromm (note: awareness of his separateness => anxiety (shame, guilty) => the union with group => Love -> interpersonal union) (10/10)
 -   **[Maturity-The responsibility of being oneself]**
 -   [The four agreements-a Practical Guide to Personal Freedom] by Don Miguel Ruiz
+-   [Helping: How to Offer, Give, and Receive Help](https://www.amazon.com/Helping-Offer-Give-Receive-Help/dp/157675863X) by Edgar
 -   [The Diary of a CEO] by Steven Bartlett
 -   **[The Almanack of Naval Ravikant]** by Eric Jorgenson
 -   [張忠謀自傳]

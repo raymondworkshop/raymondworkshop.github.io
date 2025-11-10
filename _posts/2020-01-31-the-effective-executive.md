@@ -7,7 +7,11 @@ categories: [home, softskills, important]
 abstract: "About how to get the right things done"
 ---
 
-In the book [The Effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Getting-Things/dp/B01N51TCT1/ref=sr_1_1?keywords=the+effective+executive&qid=1580796275&sr=8-1), Peter F. Drucker guides on how to be **executive self-management**, so that we could "**get the right things done**" .
+#### Using Coaching
+
+-   Coaching is about connecting with people, inspiring them to do their best, and helping them to grow
+
+#### Peter F. Drucker guides on how to be **executive self-management**, so that we could "**get the right things done**"
 
 #### to effect - **get the right things done**
 

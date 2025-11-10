@@ -4,8 +4,12 @@ title: "!Notes on odyssey"
 date: 2025-07-10
 comments: true
 tags: [notes, self, softskills, important]
-abstract: "Live a life created for you, instead of the life you create"
+abstract: "Live a life created for you"
 ---
+
+#### 2025-11-09
+
+TODO
 
 #### 2025-11-08
 
@@ -15,7 +19,8 @@ abstract: "Live a life created for you, instead of the life you create"
 
     -   为什么不愿意帮“差的人”
 
-        -   担心被拖累或浪费资源 - 自己的时间和能力应该**用在“更值得”**的地方
+        -   担心被拖累或浪费资源
+            -   自己的时间和能力应该**用在“更值得”**的地方
         -   重新定义“帮助”
             -   帮助别人不一定是“降低自己”， 而是**展现你的成熟和力量**
 

@@ -344,10 +344,12 @@ abstract: "Understanding your emotions; And you can Control your life  ."
         -   **E**SF**P**
 
     -   Don't give away your emotions for free
+
         -   **stop feeling responsible for** how they treat you
         -   it is not your worth and not you
 
-    *   **learn to say no**
+    -   **learn to say no**
+
         -   some people feel no shame when they take advantage of your kindness
         -   **take calculated risks**, and be willing to work harder than anyone else
 
@@ -364,7 +366,9 @@ abstract: "Understanding your emotions; And you can Control your life  ."
         -   once you've accepted your flaws, no one can use them against you
 
     -   **learn to say no**
+
         -   some people feel no shame when they take advantage of your kindness
+
     -   avoid toxic people
 
         -   treat you like **your time** doesn't matter
