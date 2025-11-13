@@ -95,7 +95,7 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
         -   Project strength
             -   **Feeling in command and confident** is about **connecting with yourself**
             -   Stand up straight
-            -   Get ahold of yourself
+            -   Get a hold of yourself
 
 -   reference
     -   [HBR Guide to Being a Great Boss]

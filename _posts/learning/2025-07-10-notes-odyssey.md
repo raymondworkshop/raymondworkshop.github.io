@@ -7,9 +7,53 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you"
 ---
 
+#### 2025-11-13
+
+-   对人性了解不够
+
+-   对错
+
+    -   是想探索更深的理解
+        -   对专业的追求
+    -   对公平的追求
+
+        -   关注谁该负责
+        -   厘清对错，才能还原真相，实现公正； 否则 模糊处理，是不公平的
+        -   对混乱或模糊有些不安
+
+    -   转化
+
+        -   理解差异
+            -   “**我好奇你为什么这么看**”
+        -   **先确认对方的感受和立场**，再表达自己的观点
+
+        -   区分“事实对错” 与 “**情感需要**”
+            -   有时对方只是想被理解，而不是被评判
+        -   练习“共情式表达”
+            -   **我理解你这么做的原因**，但我也有不同的看法
+
+    -   **只要带有清醒的觉察**，**就没有所谓对错**
+
+    -   每天记录一件让你有情绪的事
+
+        -   **事件** （发生了什么）
+        -   **感受** （你内心的反应）
+        -   **想法** （你对这件事的解释）
+
+-   自己为先
+
 #### 2025-11-09
 
-TODO
+-   **Believe you're worthy of love and belonging**
+
+-   Face life, encounter it
+
+    -   Don't be a coward
+    -   **Your sensitivity about beauty and goodness**
+        -   this sensitivity will create new friendships; Life becomes richer as love grows as friendliness grows.
+
+-   A healthy relationship teaches you: **Love doesn’t punish honesty**. **It values your voice**
+    -   A toxic relationship teaches you: **If you speak up, they’ll leave**
 
 #### 2025-11-08
 

@@ -9,6 +9,8 @@ abstract: ""
 
 #### Note
 
+-   了解人性
+
 #### Coach as a leader
 
 -   You don't need to have all the solutions
@@ -46,7 +48,7 @@ abstract: ""
 -   Listen
 
     -   make the other person truly feel heard
-        -   eye contact, facial expressions, gestures, tics.
+        -   eye contact, facial expressions, gestures, tics
 
 -   Empathize
 
@@ -89,14 +91,47 @@ abstract: ""
 
 -   Shame
 
-    -   **Shame** breeds fear, blame, and disconnection
+    -   Shame is the feeling that we are fundamentally flawed or unworthy
+
+        -   Shame is **a belief that we are the problem**
+
+            -   **Shame** breeds fear, blame, and disconnection
+
+        -   Fear arises as a protective resposne to that shame
+
+            -   We fear being seen, judged, or cast out because shame tells us we're not good enough
+
+        -   **Fear of vulnerability**
+
+            -   Shame makes openness feel dangerous.
+                Vulnerability could lead to more shame, so we fear being emotionally honest.
+
+            -   **Build empathy**
+                -   Set boundaries
+                    -   openness doesn't mean oversharing.
+                        You can **be authentic while protecting your emotional space**
+                -   **Sharing with trusted people** can dissolve shame
+                -   Remind yourself that **imperfection is human**
+
+        -   Fear of judgment
+
+            -   Shame convinces us we'll be **criticized** or humiliated, so we fear situations where we might be evaluated
+
+        -   Fear of failure
+            -   Shame links failure to **personal inadequacy**, making us afraid to try, risk, or grow
+
+    -   The awareness of human separation, **without reunion by love** - is the source of shame
+
+        -   It is at the same time the source of **guilt and anxiety**
 
     -   How do I tell these stories which is the only way
         that we get out from underneath shame?
 
-        -   i can't let you see these pieces of me
+        -   I can't let you see these pieces of me
             because I fear that it will cause disconnection
 
     -   courage, compassion & connection
         -   courage meant to speak your mind with your heart to tell your story
         -   how do I stay open and sit in that with you as opposed to moving into blame if you share your story with me?
+
+#### reference
