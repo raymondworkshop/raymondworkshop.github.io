@@ -40,11 +40,13 @@ date: 2012-03-19
 -   [To Have or to Be_The Nature of the Psyche] by Erich Fromm
 -   **[Culture Design: How to Build a High-Performing, Resilient Organization with Purpose]** by James D. White, Krista White
 -   [Helping: How to Offer, Give, and Receive Help](https://www.amazon.com/Helping-Offer-Give-Receive-Help/dp/157675863X) by Edgar
+
 -   [The Diary of a CEO] by Steven Bartlett
 -   **[The Almanack of Naval Ravikant]** by Eric Jorgenson
+-   **[The Pragmatic Programmer_Your Journey To Mastery_20th]**
+-   **[沈思錄]**
 -   [張忠謀自傳]
 -   [丘吉尔传] by Andrew Roberts
--   **[沈思錄]**
 
 -   [The Headspace Guide to Meditation and Mindfulness]
 -   [Grow rich with peace of mind] by Napoleon Hill
