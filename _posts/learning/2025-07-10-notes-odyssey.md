@@ -9,30 +9,74 @@ abstract: "Live a life created for you"
 
 #### 2025-11-17
 
--   人肉叉烧包师傅
+-   **人肉叉烧包师傅**
 
-    -   奸尸， 分尸
+    -   奸尸 + 分尸
+        -   **No shame**
+            -   imperfection is human
+        -   Strength
+            -   暴力
 
 -   Learning
 
     -   阴影
 
         -   将自己的阴影投射到他人身上
+
             -   贫穷 -> 尊重
                 -   **我本身就值得被爱**
                 -   我希望别人尊重我，是**因为我真实地活着**，而不是因为我像谁
             -   贪女色
+                -   把女性理想化
             -   观察你的情绪触发点
-                -   持强凌弱
-                -   贪婪
-                -   羞耻
+                -   持强凌弱 -> 公平
+                -   羞耻 -> 周围人的 judgement
+                -   贪婪 -> 贫穷受歧视经历
+
         -   接纳阴影，整合它能带来更完整的人格和更强的生命力
             -   探索阴影的需求和信息
 
-    -   真诚 -> 感受
+    -   Shame
+
+        -   个体的行为如果违背了群体期待，会感到羞耻，担心“丢脸”
+        -   职场
+
+            -   罪恶文化
+                -   员工更强调**个人责任**和**内心的道德标准**
+                -   **内心的“愧疚感” 比 外界评价更重要**
+                -   管理者也更倾向**公开透明的批评和反馈**，认为这是促进成长的一部分
+                -   强调事实和责任
+            -   责任文化的透明度， 加上 面子文化的柔和性
+
+        -   We fear being seen, judged, or cast out because shame tells us we're not good enough
+
+        -   **Fear of vulnerability**
+
+            -   Shame makes openness feel dangerous.
+                Vulnerability could lead to more shame, so we fear being emotionally honest.
+
+            -   **Build empathy**
+
+                -   Set boundaries
+                    -   openness doesn't mean oversharing.
+                        You can **be authentic while protecting your emotional space**
+                -   **Sharing with trusted people** can dissolve shame
+                -   Remind yourself that **imperfection is human**
+
+        -   **Fear of judgment**
+
+            -   Shame convinces us we'll be **criticized** or humiliated, so we fear situations where we might be evaluated
+
+        -   Fear of failure
+            -   Shame links failure to **personal inadequacy**, making us afraid to try, risk, or grow
+
+    -   真诚 <- 感受
+        -   Trust
         -   假
 
 -   主动 与 被动
+    -   回应他人
+    -   肯讲自己的感受
 
 #### 2025-11-13
 

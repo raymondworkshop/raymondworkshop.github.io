@@ -78,7 +78,7 @@ abstract: ""
 -   connection
 
     -   **forge meaningful authentic relationships** with other people
-    -   connection is what breathes lives and gives meaning to our lives
+    -   **connection** is what breathes lives and gives meaning to our lives
 
 -   Vulnerability
 
