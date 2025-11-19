@@ -7,6 +7,16 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you"
 ---
 
+#### 2025-11-19
+
+-   观点 vs 存在
+    -   **对方挑战的是观点**， 不是我这个人
+        -   帮它当作**探索**，而不是攻击
+    -   成长环境
+        -   **权力感的触发**
+            -   如果强调“和谐” 或 “权威不可质疑”， 挑战更容易被视为对自我的冒犯
+            -   挑战 与 “不尊重” 挂钩
+
 #### 2025-11-17
 
 -   **人肉叉烧包师傅**
@@ -24,8 +34,11 @@ abstract: "Live a life created for you"
         -   将自己的阴影投射到他人身上
 
             -   贫穷 -> 尊重
-                -   **我本身就值得被爱**
-                -   我希望别人尊重我，是**因为我真实地活着**，而不是因为我像谁
+                -   **选择性真实** - **在安全的关系里**逐步展现自己
+                    -   伪装者代表防御机制， 保护自己免受社会偏见的伤害
+                    -   真实者代表渴望，提醒自己追求真正的尊重 - 品格，善良和努力
+                        -   **我本身就值得被爱**
+                        -   我希望别人尊重我，是**因为我真实地活着**，而不是因为我像谁
             -   贪女色
                 -   把女性理想化
             -   观察你的情绪触发点
@@ -70,9 +83,19 @@ abstract: "Live a life created for you"
         -   Fear of failure
             -   Shame links failure to **personal inadequacy**, making us afraid to try, risk, or grow
 
+    -   reframe shame into guilt
+
+        -   **focusing on actions** rather than identity
+
     -   真诚 <- 感受
         -   Trust
         -   假
+
+-   surrender vs giving up
+
+    -   surrender means **releasing the need to control** and trusting a higher purpose
+        -   accompanied by a sense of peace, relief, and acceptance
+    -   giving up means **stopping out of a belief you will never get what you want**
 
 -   主动 与 被动
     -   回应他人
