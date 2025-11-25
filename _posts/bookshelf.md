@@ -35,6 +35,7 @@ date: 2012-03-19
 -   **[力量从哪里来]** by liyiluo (10/10)
 -   **[相信自己，才是完整的你]** by 高瑞希 (10/10)
 -   **[The art of love]** by Erich Fromm (note: awareness of his separateness => anxiety (shame, guilty) => the union with group => Love -> interpersonal union) (10/10)
+-   [人性的弱點]
 -   **[The four agreements-a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
 -   **[Maturity-The responsibility of being oneself]**
 -   [To Have or to Be_The Nature of the Psyche] by Erich Fromm

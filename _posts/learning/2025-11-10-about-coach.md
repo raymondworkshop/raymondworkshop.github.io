@@ -11,6 +11,8 @@ abstract: ""
 
 -   了解人性
 
+-   <人性的弱点>
+
 #### Coach as a leader
 
 -   You don't need to have all the solutions
