@@ -15,6 +15,29 @@ abstract: "Understanding your emotions; And you can Control your life  ."
 
 ##### recognize present emotional state
 
+-   Understanding Emotions
+
+    -   Emotions are the sensation of **experiencing a change in you energy**;
+        It's very much like a freshwater spring
+
+    -   want to **keep it suppressed** because **it is much too sensitive and reactive**
+
+        -   if you feel an uncomfortable emotion,
+            and you **go right to the mind and rationalize it away**;
+            "He didn't mean it, it's okay. Don't take it so personally."
+            That's if you're being positive.
+            Or your mind is telling your heart, "it's ok, I'll take care of it."
+            You're **simply directing your awareness to your mind**,
+            so you **don't have to feel the difficult emotions** emanating from your heart.
+
+        -   always the same conscious awareness experiencing what is going on inside  
+            积极的情绪， 会不想 shift awareness from the beauty in your heart to the rational mind;
+            糟糕的情绪， change the inner experience by letting your thoughts distract you from what's happeining in the heart
+
+        -   to protect yourself from the disturbance, you closed your heart
+
+    -   Emotions are **a release of blocked energy**
+
 -   self
 
     -   Are we **feeling up or down**?

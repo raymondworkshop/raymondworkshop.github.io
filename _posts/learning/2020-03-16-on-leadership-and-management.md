@@ -31,7 +31,7 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
         -   how it's **affecting morale and performance**
         -   how the person's behavior is **hurting the business money**
 
-    -   Call out the inappropriate behavior in the moment
+    -   **Call out the inappropriate behavior in the moment**
 
 *   Managing the Critical Voices inside your head
 
@@ -45,7 +45,7 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
     -   **Consider the kind of leader you are** and **hope to be**
 
         -   you believe that **making time for others**, planning, and coaching
-        -   you view this **others-directed work as mission-critical** to your success
+        -   you view this **others-directed work as mission-critical to your success**
 
     -   Increase your **emotional intelligence** and **situational awareness**
 
@@ -181,7 +181,7 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
             -   positive
                 -   想把事情做好
                 -   how you can do better and take on more responsibility
-            -   有能力 以及 不自卑
+            -   有能力 以及 自信
             -   cooperation
 
         -   **每一次小选择都作为了解自己的入口**， 慢慢就可以看到更多真相

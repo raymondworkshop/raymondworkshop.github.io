@@ -35,6 +35,10 @@ date: 2012-03-19
 -   **[力量从哪里来]** by liyiluo (10/10)
 -   **[相信自己，才是完整的你]** by 高瑞希 (10/10)
 -   **[The art of love]** by Erich Fromm (note: awareness of his separateness => anxiety (shame, guilty) => the union with group => Love -> interpersonal union) (10/10)
+-   [Living Untethered: Beyond the Human Predicament] by Michael A. Singer
+-   [How to Live an Extraordinary Life] by Anthony Pompliano
+-   [The Surrender Experiment] by Michael A. Singer
+
 -   [人性的弱點]
 -   **[The four agreements-a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
 -   **[Maturity-The responsibility of being oneself]**
@@ -54,7 +58,6 @@ date: 2012-03-19
 -   [King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine] by Robert Moore and Douglas Gillette
 
 -   [How to Not Die Alone] by Logan Ury
--   [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment?ac=1&from_search=true&qid=8Hkb9hoUHk&rank=1) by Michael A. Singer
 
 -   [CHATTER: The Voice in Our Head, Why It Matters, and How to Harness It] by Ethan Kross
 -   [Don't Sweat the Small Stuff About Money: Simple Ways to Create Abundance and Have Fun] by Richard Carlson (9/10)
@@ -69,7 +72,6 @@ date: 2012-03-19
 -   [Your Money or Your Life](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766) by Vicki Robin
 -   [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships] by Leil Lowndes
 
--   [How to Live an Extraordinary Life] by Anthony Pompliano
 -   **[The Subtle Art of Not Giving a Fck]** by Mark Manson
 -   [Everything Is F*cked] by Mark Manson
 -   [Suddenly in Charge] by Roberta Chinsky Matuson

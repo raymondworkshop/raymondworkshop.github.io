@@ -11,7 +11,7 @@ abstract: "notes on the GOOD life - beauty and love "
 
 -   TODO
 
--   **Goal: a pleasure of life - healthy, free, wealthy, and loved**
+-   **Goal: a pleasure of life - healthy, free, loved, and wealthy**
 
     -   create **life vision**
 
@@ -21,7 +21,7 @@ abstract: "notes on the GOOD life - beauty and love "
         -   build a successful business -> influence
             -   wealthy
         -   relax more and worry less
-            -   freedom, happy
+            -   love, freedom, happy
         -   spend more time with **family and friends**
             -   happy, freedom
 
@@ -35,6 +35,37 @@ abstract: "notes on the GOOD life - beauty and love "
         -   develop habits one day at a time
 
     -   surround yourself with **positive** people, with **mutual trust** and **support relationship**
+
+-   Live the life YOU want
+
+    -   How do U measure yourself?
+
+        -   define **failure as betraying your soul**, as **living someone else's dream**, and **having no direction in life**
+
+        -   Success is **the genuine love for life**. **Find what you love and direct your passions to it**.
+            You will know you have found the right mate not because you two love the same hobbies,
+            but because **you both love the direction you (and she) are going in life**.
+
+        -   成功 理解为 **实现人生价值， 认知自我**
+
+            -   自我实现： 专注在只与自己有关，能**让自己感到喜悦，满足的事**
+            -   帮助他人： 不需要是一件大事，也可以是**日常生活中的举手之劳**
+
+            -   当我们的内心被恐惧占据的时候，就体会不到爱，看不到当下，看不到事情本来的样子
+
+    -   All life is an experiment
+        -   All four are addictive because they **flood your body with stimulants**
+        -   Not love for nice guy
+            -   the nice guy is easily exploited (by her and rest of society)
+            -   a man discovers 'great love' and put her on the pedestal as she becomes his new goddess
+        -   Not love for money
+            -   materialists give her the gifts and things she thinks she 'needs'
+            -   if a man spends his life in a soul destroying job, he is held up as a model for society
+        -   Not love for shining star
+            -   Shining stars give her the illusion of success
+            -   they want loud titles to hide that they are not truly men
+        -   Not love for sex
+            -   mutual masturbation as she goes through these guys
 
 -   reference
     -   [Success](https://www.coursera.org/learn/wharton-success/home/week/1)
