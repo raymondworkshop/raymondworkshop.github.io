@@ -13,6 +13,8 @@ abstract: ""
 
 -   <人性的弱点>
 
+#### life coash
+
 #### Coach as a leader
 
 -   You don't need to have all the solutions
