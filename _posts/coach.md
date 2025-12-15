@@ -1,6 +1,6 @@
 ---
-title: Coach:Know thyself in order to unleash your potential
+title: Coach
 date: 2025-12-15
 ---
 
-### Know thyself
+### Know thyself in order to unleash your potential
