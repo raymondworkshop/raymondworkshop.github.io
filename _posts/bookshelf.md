@@ -35,7 +35,7 @@ date: 2012-03-19
 -   **[力量从哪里来]** by liyiluo (10/10)
 -   **[相信自己，才是完整的你]** by 高瑞希 (10/10)
 -   **[The art of love]** by Erich Fromm (note: awareness of his separateness => anxiety (shame, guilty) => the union with group => Love -> interpersonal union) (10/10)
--   [Living Untethered: Beyond the Human Predicament] by Michael A. Singer
+-   **[Living Untethered: Beyond the Human Predicament]** by Michael A. Singer
 -   [How to Live an Extraordinary Life] by Anthony Pompliano
 -   [The Surrender Experiment] by Michael A. Singer
 

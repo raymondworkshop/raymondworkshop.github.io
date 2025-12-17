@@ -7,6 +7,19 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you"
 ---
 
+#### 2025-12-16
+
+-   NVC
+
+    -   observations
+    -   feelings
+    -   needs
+    -   requests
+
+-   Observation vs Evaluation
+    -   Observation is factual, neutral
+    -   Evaluation is personal interpretation, subjective
+
 #### 2025-12-12
 
 -   emotion - understanding your spiritual heart

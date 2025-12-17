@@ -3,7 +3,7 @@ layout: post
 title: "About Coach"
 date: 2025-11-10
 comments: true
-tags: [notes, self, softskills, important]
+tags: [notes, self, softskills, important, coach]
 abstract: ""
 ---
 
