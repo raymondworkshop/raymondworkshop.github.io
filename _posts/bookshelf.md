@@ -37,9 +37,9 @@ date: 2012-03-19
 -   **[The art of love]** by Erich Fromm (note: awareness of his separateness => anxiety (shame, guilty) => the union with group => Love -> interpersonal union) (10/10)
 -   [Living Untethered: Beyond the Human Predicament] by Michael A. Singer
 -   **[How to Live an Extraordinary Life]** by Anthony Pompliano
--   [The Laws of Human Nature] by Robert Greene
--   [The Surrender Experiment] by Michael A. Singer
 -   [The psy of leadership] by Sébastien Page
+-   [The Surrender Experiment] by Michael A. Singer
+-   [The Laws of Human Nature] by Robert Greene
 
 -   [人性的弱點]
 -   **[The four agreements-a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
@@ -57,7 +57,7 @@ date: 2012-03-19
 
 -   [The Headspace Guide to Meditation and Mindfulness]
 -   [Grow rich with peace of mind] by Napoleon Hill
--   [King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine] by Robert Moore and Douglas Gillette
+-   [King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine] by Robert Moore and Douglas Gillette (6/10)
 
 -   [How to Not Die Alone] by Logan Ury
 
