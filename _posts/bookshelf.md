@@ -5,15 +5,13 @@ date: 2012-03-19
 
 ### log of trainings & books and my ratings
 
-#### training-2025
+#### training-2026
 
 -   Leasership
 
     -   [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2025/home)
 
 -   Entrepreneurship
-
-    -   [Becoming an Entrepreneur](https://learning.edx.org/course/course-v1:MITx+LaunchX+2T2024/home)
 
     -   [Microeconomics for Business Professionals](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2023/home)
 
@@ -22,6 +20,30 @@ date: 2012-03-19
     -   [wiki on Startup](https://startupclass.samaltman.com/)
 
     -   [Startup School](https://www.startupschool.org/curriculum)
+
+#### reading-2026
+
+-   **[How to Live an Extraordinary Life]** by Anthony Pompliano
+-   [12 Rules for Life_ An Antidote to Chaos] by Jordan B. Peterson
+-   [善用悲觀的力量]
+-   [The psy of leadership] by Sébastien Page
+-   [The Surrender Experiment] by Michael A. Singer
+-   [The Laws of Human Nature] by Robert Greene
+-   [Don't sweat the small stuff in love]
+
+-   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
+-   [The Diary of a CEO] by Steven Bartlett (9/10)
+-   **[The Almanack of Naval Ravikant]** by Eric Jorgenson
+-   **[沈思錄]**
+-   [張忠謀自傳]
+-   [丘吉尔传] by Andrew Roberts
+
+-   **[The four agreements-a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
+-   [To Have or to Be_The Nature of the Psyche] by Erich Fromm
+-   **[Culture Design: How to Build a High-Performing, Resilient Organization with Purpose]** by James D. White, Krista White
+-   [Helping: How to Offer, Give, and Receive Help](https://www.amazon.com/Helping-Offer-Give-Receive-Help/dp/157675863X) by Edgar
+-   [人性的弱點]
+-   [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti
 
 #### reading-2025
 
@@ -37,24 +59,27 @@ date: 2012-03-19
 -   **[The art of love]** by Erich Fromm (note: awareness of his separateness => anxiety (shame, guilty) => the union with group => Love -> interpersonal union) (10/10)
 -   [Living Untethered: Beyond the Human Predicament] by Michael A. Singer
 -   **[How to Live an Extraordinary Life]** by Anthony Pompliano
+-   [12 Rules for Life_ An Antidote to Chaos] by Jordan B. Peterson
+-   [善用悲觀的力量]
 -   [The psy of leadership] by Sébastien Page
 -   [The Surrender Experiment] by Michael A. Singer
 -   [The Laws of Human Nature] by Robert Greene
 
--   [人性的弱點]
--   **[The four agreements-a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
--   **[Maturity-The responsibility of being oneself]**
--   [To Have or to Be_The Nature of the Psyche] by Erich Fromm
--   **[Culture Design: How to Build a High-Performing, Resilient Organization with Purpose]** by James D. White, Krista White
--   [Helping: How to Offer, Give, and Receive Help](https://www.amazon.com/Helping-Offer-Give-Receive-Help/dp/157675863X) by Edgar
-
--   [The Diary of a CEO] by Steven Bartlett
+-   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
+-   [The Diary of a CEO] by Steven Bartlett (9/10)
 -   **[The Almanack of Naval Ravikant]** by Eric Jorgenson
--   **[The Pragmatic Programmer_Your Journey To Mastery_20th]**
 -   **[沈思錄]**
 -   [張忠謀自傳]
 -   [丘吉尔传] by Andrew Roberts
 
+-   **[The four agreements-a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
+-   [Maturity-The responsibility of being oneself]
+-   [To Have or to Be_The Nature of the Psyche] by Erich Fromm
+-   **[Culture Design: How to Build a High-Performing, Resilient Organization with Purpose]** by James D. White, Krista White
+-   [Helping: How to Offer, Give, and Receive Help](https://www.amazon.com/Helping-Offer-Give-Receive-Help/dp/157675863X) by Edgar
+-   [人性的弱點]
+
+-   **[The Pragmatic Programmer_Your Journey To Mastery_20th]**
 -   [The Headspace Guide to Meditation and Mindfulness]
 -   [Grow rich with peace of mind] by Napoleon Hill
 -   [King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine] by Robert Moore and Douglas Gillette (6/10)
@@ -97,7 +122,6 @@ date: 2012-03-19
 -   [Getting Acquired: How I Built and Sold My SaaS Startup]
 -   [HBR on Self-Awareness]
 
--   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
 -   [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti
 -   [Getting to Yes - Negotiating Agreement Without Giving In]
 -   [The Art of the Deal](https://book.douban.com/subject/1817125/)
