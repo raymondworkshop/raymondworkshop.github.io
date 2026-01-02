@@ -7,22 +7,19 @@ date: 2012-03-19
 
 #### training-2026
 
--   Leasership
-
-    -   [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2025/home)
-
--   Entrepreneurship
+-   SKILLS
 
     -   [Microeconomics for Business Professionals](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2023/home)
-
-    -   [Entrepreneurship For All](https://learning.edx.org/course/course-v1:BerkeleyX+SOCSCI10.1+1T2025/home)
 
     -   [wiki on Startup](https://startupclass.samaltman.com/)
 
     -   [Startup School](https://www.startupschool.org/curriculum)
 
+    -   [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2025/home)
+
 #### reading-2026
 
+-   [When Love Meets Fear: Becoming Defense-less and Resource-full] by David Richo
 -   **[How to Live an Extraordinary Life]** by Anthony Pompliano
 -   [12 Rules for Life_ An Antidote to Chaos] by Jordan B. Peterson
 -   [善用悲觀的力量]
