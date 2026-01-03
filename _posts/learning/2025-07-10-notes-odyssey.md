@@ -7,6 +7,26 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you"
 ---
 
+#### 2026-01-03
+
+-   **ready to embark on a journey to new consciousness**?
+
+    -   when she crossed the threshold into this other world, **she met the shadow**, both positive and negative
+    -   **Fear is a signal that points to what we have not yet integrated**
+
+        -   our fear 'protects' us from what we are not ready to handle
+            and our acting fealessly equips us to handle it
+        -   our fears point to where our work lies
+
+    -   The fearlessness comes when you make a commitment to be who you fully are
+        -   **I act with fear**
+        -   A courageous person is one who feels just as scared as you but **acts bravely**
+            -   Fully feel your grief
+            -   accept the fact of what happened
+            -   allow yourself to feel compassion for all the characters in your story
+            -   look for the spiritual connection between your story and your destiny:
+                how has this helped me move closer to who I was really meant to become?
+
 #### 2025-12-29
 
 -   你的核心价值观

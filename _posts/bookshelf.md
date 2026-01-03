@@ -19,10 +19,11 @@ date: 2012-03-19
 
 #### reading-2026
 
--   [When Love Meets Fear: Becoming Defense-less and Resource-full] by David Richo
+-   **[When Love Meets Fear: Becoming Defense-less and Resource-full]** by David Richo
 -   **[How to Live an Extraordinary Life]** by Anthony Pompliano
 -   [12 Rules for Life_ An Antidote to Chaos] by Jordan B. Peterson
 -   [善用悲觀的力量]
+-   **[The four agreements-a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
 -   [The psy of leadership] by Sébastien Page
 -   [The Surrender Experiment] by Michael A. Singer
 -   [The Laws of Human Nature] by Robert Greene
@@ -35,7 +36,6 @@ date: 2012-03-19
 -   [張忠謀自傳]
 -   [丘吉尔传] by Andrew Roberts
 
--   **[The four agreements-a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
 -   [To Have or to Be_The Nature of the Psyche] by Erich Fromm
 -   **[Culture Design: How to Build a High-Performing, Resilient Organization with Purpose]** by James D. White, Krista White
 -   [Helping: How to Offer, Give, and Receive Help](https://www.amazon.com/Helping-Offer-Give-Receive-Help/dp/157675863X) by Edgar
