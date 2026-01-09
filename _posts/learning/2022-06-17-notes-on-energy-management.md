@@ -9,6 +9,12 @@ abstract: "Notes on Energy - body, diets, sleep  "
 
 #### Notes on body health
 
+-   2026-01-10
+
+    -   跑步機熱身 10m
+    -   胸推 chest press
+    -   TODO
+
 -   每周至少 Gym 一次
 
 -   2025-09-15

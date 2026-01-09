@@ -19,18 +19,20 @@ date: 2012-03-19
 
 #### reading-2026
 
--   **[When Love Meets Fear: Becoming Defense-less and Resource-full]** by David Richo
+-   [When Love Meets Fear: Becoming Defense-less and Resource-full] by David Richo (7/10)
+-   **[The psy of leadership]** by Sébastien Page
 -   **[How to Live an Extraordinary Life]** by Anthony Pompliano
--   [12 Rules for Life_ An Antidote to Chaos] by Jordan B. Peterson
 -   [善用悲觀的力量]
 -   **[The four agreements-a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
--   [The psy of leadership] by Sébastien Page
--   [The Surrender Experiment] by Michael A. Singer
+-   [Awareness: The Key to Living in Balance] by Osho
+-   [10x Is Easier Than 2x: How World-Class Entrepreneurs Achieve More by Doing Less]
 -   [The Laws of Human Nature] by Robert Greene
+-   [12 Rules for Life_ An Antidote to Chaos] by Jordan B. Peterson
+-   [The Surrender Experiment] by Michael A. Singer
 -   [Don't sweat the small stuff in love]
 
 -   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
--   [The Diary of a CEO] by Steven Bartlett (9/10)
+-   **[[The Diary of a CEO]** by Steven Bartlett (9/10)
 -   **[The Almanack of Naval Ravikant]** by Eric Jorgenson
 -   **[沈思錄]**
 -   [張忠謀自傳]

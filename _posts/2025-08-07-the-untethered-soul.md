@@ -7,7 +7,28 @@ categories: [home, notes, learning, summary]
 abstract: "完整的自己-自由快樂的人生"
 ---
 
-#### 认识完整的自己
+#### When Love meets Fears
+
+-   The fearlessness comes **when you make a commitment to be who you fully are**
+
+    -   **Fear represents what we have not yet integrated**
+        -   When she crossed the threshold into this other world, she **met the shadow**, both positive and negative.
+            Is it because **we are not ready to embark on a journey to new consciousness**?
+        -   **fear is a signal that tells me to equip myself** to handle this
+    -   love is that which integrates everything
+        -   **Love bursts out of aliveness**; fear suppresses the aliveness
+        -   our love is unconditional **but our choices are conditioned by our adult boundaries**
+
+-   Integrating Your Fear
+    -   admit that you are afraid
+    -   feel your fear
+        -   what I feel is not who i am, so **I am not my fear**.
+            But **it is what is happening in me right now** so I allow it to have its full career.
+    -   **act as if fear can't stop or drive you**
+        -   I do what I am fearing anyway.
+            -   **I make the choices I would make if I did not feel the fear**. At this moment of deciding between feeling and **acting**, you will feel the shift, a surge of power, to take that final step.
+            -   You are no longer the victim because you have **combined vulnerability** - "I might fail" - **with power** - "I am doing it"
+        -   **This shift makes you trust youself** and **enriches your self-respect**
 
 #### 薩提爾的自我覺察練習
 

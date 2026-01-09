@@ -21,11 +21,11 @@ abstract: "Live a life created for you"
     -   The fearlessness comes when you make a commitment to be who you fully are
         -   **I act with fear**
         -   A courageous person is one who feels just as scared as you but **acts bravely**
-            -   Fully feel your grief
+            -   **Fully feel your grief**
             -   accept the fact of what happened
             -   allow yourself to feel compassion for all the characters in your story
             -   look for the spiritual connection between your story and your destiny:
-                how has this helped me move closer to who I was really meant to become?
+                **how has this helped me move closer to** who I was really meant to become?
 
 #### 2025-12-29
 
