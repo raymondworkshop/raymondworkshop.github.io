@@ -7,6 +7,59 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you"
 ---
 
+#### 2026-01-12
+
+-   WHO you are?
+    What sort of person would say that and how am I reacting emotionally when I’m communicating in that manner?
+    Is it making me stronger or weaker?
+    Is it filling me with shame?
+    Is it filling me with confidence?
+    Am I laying out a lie, am I deceiving myself and other people?
+    Am I adopting this personality at parties that is designed to impress and amuse and comes across as nothing but self-centered and narcissism?
+    What are my dark fantasies?
+    What are my aggressive fantasies?
+    What is it that I’m willing to do?
+    What am I interested in so that I will spontaneity pursue it?
+    What do I procrastinate about and why?  
+    What am I unwilling to do?
+    What do I think is good?
+    What do I congratulate myself for accomplishing?
+    And what do I berate myself for failing to confront and implement?
+
+#### 2026-01-09
+
+-   沟通风格
+
+    -   **先回应情绪**，再回应逻辑
+
+        -   “**听起来你有点**紧张”
+        -   “**我听到你在意的是** ...”
+
+        -   **表达自己的立场**
+
+            -   ”我感觉“ 或 ”**我需要**“
+
+        -   提出一个开放式问题， 邀请对方参与
+
+            -   “**你觉得这件事最重要的是什么**？”
+
+        -   自我提醒
+            -   “**我可以理解**， **但不必解决对方的情绪**”
+            -   区分 尊重 vs 迎合
+                -   尊重 是**承认对方的感受存在**， 但不代表你要改变自己的立场去迎合
+
+    -   **把问题看作 “邀请分享”** 而不是 “要求证明”， 减少审视
+
+    -   降低掌控感
+        -   **用开放式提问** 代替 框架式引导， 让对方先表达
+        -   “**你怎么看**？”
+        -   “我们可以考虑 ..." 而不是 “应该这样做”
+    -   区分 问题 vs 意图
+
+        -   **先确认对方意图** “**你是想了解我的看法吗**？”
+
+        -   在回答前，先默念 “我选择回应，而不是被迫”
+
 #### 2026-01-03
 
 -   **ready to embark on a journey to new consciousness**?

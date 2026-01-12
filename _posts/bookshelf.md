@@ -23,8 +23,10 @@ date: 2012-03-19
 -   **[The psy of leadership]** by Sébastien Page
 -   **[How to Live an Extraordinary Life]** by Anthony Pompliano
 -   [善用悲觀的力量]
+-   [Think and Grow Rich]
 -   **[The four agreements-a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
 -   [Awareness: The Key to Living in Balance] by Osho
+-   [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living] by Ryan Holiday
 -   [10x Is Easier Than 2x: How World-Class Entrepreneurs Achieve More by Doing Less]
 -   [The Laws of Human Nature] by Robert Greene
 -   [12 Rules for Life_ An Antidote to Chaos] by Jordan B. Peterson
@@ -32,7 +34,7 @@ date: 2012-03-19
 -   [Don't sweat the small stuff in love]
 
 -   [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
--   **[[The Diary of a CEO]** by Steven Bartlett (9/10)
+-   **[The Diary of a CEO]** by Steven Bartlett (9/10)
 -   **[The Almanack of Naval Ravikant]** by Eric Jorgenson
 -   **[沈思錄]**
 -   [張忠謀自傳]
