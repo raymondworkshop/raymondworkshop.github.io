@@ -19,13 +19,17 @@ date: 2012-03-19
 
 #### reading-2026
 
+-   **[How to Live an Extraordinary Life]** by Anthony Pompliano (8/10)
 -   [When Love Meets Fear: Becoming Defense-less and Resource-full] by David Richo (7/10)
 -   **[The psy of leadership]** by Sébastien Page
--   **[How to Live an Extraordinary Life]** by Anthony Pompliano
+-   [Awareness: The Key to Living in Balance] by Osho
+-   [The Magic] by Rhonda Byrne
+-   [HBRs 10 Must Reads on Communication]
+-   [Purpose & Profit] by Dan Koe
 -   [善用悲觀的力量]
+-   [Trump: The Art of the Deal]
 -   [Think and Grow Rich]
 -   **[The four agreements-a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
--   [Awareness: The Key to Living in Balance] by Osho
 -   [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living] by Ryan Holiday
 -   [10x Is Easier Than 2x: How World-Class Entrepreneurs Achieve More by Doing Less]
 -   [The Laws of Human Nature] by Robert Greene
