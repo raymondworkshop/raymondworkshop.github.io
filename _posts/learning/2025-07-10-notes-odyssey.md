@@ -9,12 +9,31 @@ abstract: "Live a life created for you"
 
 #### 2025-01-15
 
+- 道德 - 自我压抑
+    - “外部评价” 凌驾于 “内在体验”
+        - **社会倾向道德化他人行为** - 强化外部控制
+        - 容易产生羞耻，压抑， 缺乏真正的自我接纳
+
+    - 平衡 “集体期待” 与 “个体真实”
+        - 学会区分 “自律” vs “他律“
+        - **在关系中练习表达真实感受**， 而非仅仅顺从
+        - 接住”自我接纳“ 与”正念“， 缓解文化带来的压抑
+
+    - **自我接纳** - self-acceptance
+        - **真实地看见并允许自己存在的全部面貌**， 包括优缺点，欲望，情绪和局限，
+          而不是一味否认，压抑或过度追求完美
+        - **觉察 当下的感受**， **不批判**，**不逃避**
+
 - 唯有学会全然接納自己的所有面向
     - 唯有**学会全然接納自己的所有面向** -- **包括心念中最看似陰暗的部分** -- 我們方能真正接納他人。
       唯有在淤泥与莲花中皆洞见本初的良善，我们终将照见一切众生本具的纯净光明
         - Only by learning to fully embrace all aspects of ourselves
 
     - 不愿意让别人看到自己“不好的一面”
+        - **缺乏安全的关心体验**
+            - **没有足够的经历让你感受到”即使不好也被接纳“**，
+              于是你只能靠防御来保护自己
+
         - **害怕被否定或拒绝**
             - 把“不好的一面” 与 “**不值得被爱**” 联系起来；
               担心暴露缺点会失去他人的认可或支持
@@ -26,14 +45,9 @@ abstract: "Live a life created for you"
                 - “**即使有不足，我依然值得被尊重和爱**”
                 - 区分“我不好” 与 “**我有不足**”
                 - **别人的话往往针对行为或表现**，而不是你整个人的价值
-
         - 文化影响
             - 强调“坚强”， “完美”；
               **把脆弱，失误， 情绪压在心里**
-
-        - **缺乏安全的关心体验**
-            - **没有足够的经历让你感受到”即使不好也被接纳“**，
-              于是你只能靠防御来保护自己
 
 - **所有的本质都是中性的**， 唯独你在将其视为“不好的”时候，才会被你视为恶魔
     - 但这却是**一个契机帮助你看见**，**弄清楚你为什么如此不舒服**？
@@ -42,15 +56,54 @@ abstract: "Live a life created for you"
         - **如果你不快乐，就要对自己诚实**
 
 - 你的人格
-    - Openness（開放性）：高 —— 你喜歡探索隱喻、跨文化溝通、創造框架。
+    - Openness（開放性）：高 —— 你喜歡探索隱喻、跨文化溝通、創造框架
+        - Give people with low openness time to process your change agenda.
+          Rein in those with high openness before they chase too many rabbits.
 
-    - Conscientiousness（盡責性）：高 —— 你重視自我提醒、界限、儀式。
+        - **Focus** is as critical as openness
+        - **Execute a handful of them exceptionally well**
 
-    - Extraversion（外向性）：中低 —— 你偏向深度交流，而非廣泛社交。
+    - Conscientiousness（盡責性）：高 —— 你重視自我提醒、界限、儀式
+        - TODO
 
-    - Agreeableness（宜人性）：選擇性高 —— 對真誠的人你很溫暖，但對表面「nice」你保持距離。
+    - Extraversion（外向性）：中低 —— 你偏向深度交流，而非廣泛社交
+        - recognize who's an introvert and who's an extrovert on your team
+        - apologize for interrupting, **summarize the person's point**, and **pivot**
 
-    - Neuroticism（情緒敏感度）：中 —— 你會感受到失落與遺憾，但能轉化為成長。
+    - Agreeableness（宜人性）：選擇性高 —— 對真誠的人你很溫暖，但對表面「nice」你保持距離
+        - measure who **makes the most meaningful contributions to the team**
+        - one of the most critical leadership qualities is **being comfortable making people uncomfortable**
+            - **giving them feedback in a respectful way** that lets them know they're valued
+            - Use this **10%** thoughtfuly and deliberately to be disagreeable
+
+    - Neuroticism（情緒敏感度）：中 —— 你會感受到失落與遺憾，但能轉化為成長
+        - if someone scores high on neuroticism, allow them to vent their anxiety - just **listen**
+        - if someone scores low, **need a gentle push once** in a while to perform at their best
+
+- reading people - help you understand true feelings
+    - Microexpressions
+        - **help u see what someone is really feeling**, even if they're trying to hide it
+
+    - Body language
+        - **mirroring**: If someone mirrors your movements, it shows they **feel connected to you**
+        - leaning forward: a sign of interest or engagement
+        - **crossed arms or legs**: this could signal defensiveness or discomfort
+        - fidgeting: indicate nervousness or impatience
+
+    - eye movements
+        - **eye contact**: steady eye contact indicates **confidence and engagement**,
+          while too little could suggest discomofrt or dishonesty
+
+        - **pupil dilation**: dilated pupils often signal attraction or interest
+
+        - looking away: frequent gaze shifts can suggest distraction, uncertainty,
+          or desire to avoid something
+
+    - tone of voice
+        - **a shift in tone** can reveal hidden emotions
+        - **loud or sharp voice**: frustration or excitement
+        - soft or slow speech: nervousness or uncertainty
+        - monotone: boredom or lack of interest
 
 #### 2026-01-12
 
