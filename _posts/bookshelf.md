@@ -20,9 +20,10 @@ date: 2012-03-19
 
 - **[How to Live an Extraordinary Life]** by Anthony Pompliano (8/10)
 - [When Love Meets Fear: Becoming Defense-less and Resource-full] by David Richo (7/10)
-- **[The psy of leadership]** by Sébastien Page
-- [Awareness: The Key to Living in Balance] by Osho
-- [Difficult Conversations: How to Discuss What Matters Most] by Douglas Stone, Bruce Patton, Sheila Heen
+- **[The psy of leadership]** by Sébastien Page (8/10)
+- [Awareness: The Key to Living in Balance] by Osho (7/10 note: ethical codes are useful for society, but not useful for individual)
+- **[Difficult Conversations: How to Discuss What Matters Most]** by Douglas Stone, Bruce Patton, Sheila Heen
+- [The four agreements-a Practical Guide to Personal Freedom] by Don Miguel Ruiz
 - [EMOTIONS: Freedom from Anger, Jealousy & Fear] by Osho
 
 - [善用悲觀的力量]
@@ -34,7 +35,6 @@ date: 2012-03-19
 
 - [Trump: The Art of the Deal]
 - [Think and Grow Rich]
-- **[The four agreements-a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
 - [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living] by Ryan Holiday
 - [10x Is Easier Than 2x: How World-Class Entrepreneurs Achieve More by Doing Less]
 - [The Laws of Human Nature] by Robert Greene

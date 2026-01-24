@@ -9,9 +9,29 @@ abstract: "Live a life created for you"
 
 #### 2025-01-15
 
+- find godliness, and good will come on its own accord
+    - godliness is not about perfection or rigid morality.
+      It's about **direction** - **orienting your life toward love, integrity, and reverence**
+    - inner alignment
+        - your actions match your values
+
+    - purity of intention
+        - godliness is felt when motives are transparent and rooted in love
+
+    - practice
+        - a short meditation
+        - service - benefit someone else without expectation of return
+        - truth-telling - speak honestly, but with care
+    - framework
+        - Love -> **Am I acting with care**?
+        - Truth -> Am I **aligned with my values**?
+        - service -> Am i **contributing beyond myself**?
+
 - 道德 - 自我压抑
     - “外部评价” 凌驾于 “**内在体验**”
         - **社会倾向道德化他人行为** - 强化外部控制
+        - **moralities are useful for society**, **but not useful for you**,
+          not useful for the individual
         - 容易产生羞耻，压抑， 缺乏真正的自我接纳
 
     - 平衡 “集体期待” 与 “个体真实”
@@ -23,6 +43,15 @@ abstract: "Live a life created for you"
         - **真实地看见并允许自己存在的全部面貌**， 包括优缺点，欲望，情绪和局限，
           而不是一味否认，压抑或过度追求完美
         - **觉察 当下的感受**， **不批判**，**不逃避**
+
+- 真正的“好人“ 是 诚实，尊重， 清晰
+    - 你**在意社会评价和自我形象**
+        - 真正的“好人” 不是迎合所有期待， 而是 **诚实， 尊重， 清晰**
+        - 如果**能坦率表达立场**， 同时**保持尊重和善意**， 你的名誉不会受损，反而会显得成熟
+            - 个人真实感受， **确认自己想要的是什么**？
+            - 只有明确自己的定位，才能减少内心摇摆
+        - 责任 并不是非黑即白， 可以**通过清晰沟通来设定边界**
+            - **主动设定责任的范围** - “我很珍惜你，但我目前不考虑进入婚姻导向的关系”
 
 - 唯有学会全然接納自己的所有面向
     - 唯有**学会全然接納自己的所有面向** -- **包括心念中最看似陰暗的部分** -- 我們方能真正接納他人。
