@@ -22,12 +22,14 @@ date: 2012-03-19
 - [When Love Meets Fear: Becoming Defense-less and Resource-full] by David Richo (7/10)
 - **[The psy of leadership]** by Sébastien Page (8/10)
 - [Awareness: The Key to Living in Balance] by Osho (7/10 note: ethical codes are useful for society, but not useful for individual)
-- **[Difficult Conversations: How to Discuss What Matters Most]** by Douglas Stone, Bruce Patton, Sheila Heen
-- [The four agreements-a Practical Guide to Personal Freedom] by Don Miguel Ruiz
-- [EMOTIONS: Freedom from Anger, Jealousy & Fear] by Osho
+- **[Difficult Conversations: How to Discuss What Matters Most]** by Douglas Stone, Bruce Patton, Sheila Heen （8/10 note: Learning their story, expressing your views and feelings, and problem-solving together）
+- **[反脆弱]** by Nassim Nicholas Taleb
+- [Purpose & Profit] by Dan Koe
+- [The Psychology of Money]
+- [Being in Love: How to Love with Awareness and Relate Without Fear] by Osho
 
 - [善用悲觀的力量]
-- [Purpose & Profit] by Dan Koe
+- [The four agreements - a Practical Guide to Personal Freedom] by Don Miguel Ruiz
 - [The Magic] by Rhonda Byrne
 - [Empowered: Ordinary People, Extraordinary Products] by Marty Cagan
 - [No Rules Rules: Netflix and the Culture of Reinvention] by Reed Hastings, Erin Meyer
@@ -41,6 +43,7 @@ date: 2012-03-19
 - [12 Rules for Life_ An Antidote to Chaos] by Jordan B. Peterson
 - [The Surrender Experiment] by Michael A. Singer
 - [Don't sweat the small stuff in love]
+- [EMOTIONS: Freedom from Anger, Jealousy & Fear] by Osho
 
 - [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
 - **[The Diary of a CEO]** by Steven Bartlett (9/10)
