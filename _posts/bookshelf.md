@@ -22,8 +22,8 @@ date: 2012-03-19
 - [When Love Meets Fear: Becoming Defense-less and Resource-full] by David Richo (7/10)
 - **[The psy of leadership]** by Sébastien Page (8/10)
 - [Awareness: The Key to Living in Balance] by Osho (7/10 note: ethical codes are useful for society, but not useful for individual)
-- **[Difficult Conversations: How to Discuss What Matters Most]** by Douglas Stone, Bruce Patton, Sheila Heen （8/10 note: Learning their story, expressing your views and feelings, and problem-solving together）
-- **[反脆弱]** by Nassim Nicholas Taleb
+- **[Difficult Conversations: How to Discuss What Matters Most]** by Douglas Stone, Bruce Patton, Sheila Heen
+- [反脆弱] by Nassim Nicholas Taleb
 - [Purpose & Profit] by Dan Koe
 - [The Psychology of Money]
 - [Being in Love: How to Love with Awareness and Relate Without Fear] by Osho
@@ -53,10 +53,10 @@ date: 2012-03-19
 - [丘吉尔传] by Andrew Roberts
 
 - [To Have or to Be_The Nature of the Psyche] by Erich Fromm
-- **[Culture Design: How to Build a High-Performing, Resilient Organization with Purpose]** by James D. White, Krista White
+- [Culture Design: How to Build a High-Performing, Resilient Organization with Purpose] by James D. White, Krista White
 - [Helping: How to Offer, Give, and Receive Help](https://www.amazon.com/Helping-Offer-Give-Receive-Help/dp/157675863X) by Edgar
-- [人性的弱點]
 - [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti
+- [人性的弱點]
 
 #### reading-2025
 

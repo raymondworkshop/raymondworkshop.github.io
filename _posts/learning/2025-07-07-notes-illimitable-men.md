@@ -7,8 +7,6 @@ tags: [notes, softskills, important]
 abstract: "Live a life created for you, instead of the life you create"
 ---
 
-#### TODO
-
 #### Monk Mode
 
 - **People who create** are more interesting than people who don't
@@ -39,6 +37,10 @@ abstract: "Live a life created for you, instead of the life you create"
 - Winners **need a goal higher than themselves**
 
 - Quality beats quantity
+
+#### Flirt
+
+TODO
 
 #### Woman's love
 
