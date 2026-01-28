@@ -4,7 +4,7 @@ date: 2012-03-19
 ---
 
 Hi, I'm Raymond ZHAO Wenlong. I am an Engineer and Founder@Bean based in Hong Kong.  
-I like building ourselves, products, and teams.
+I like building ourselves, products, and teams. I'm also offering life coaching services.
 
 I was a Tech Officer at HSUHK, RA in (CUHK, CityU, and HKBU), Tech Lead at HKCREO (a Fintech startup), and Lead Software Engineer at Alcatel-Lucent (now Nokia).
 
@@ -16,9 +16,9 @@ Outside of tech and [reading](https://raymondworkshop.github.io/bookshelf.html),
 
 Some of My favorite quotes:
 
--   "The challenge comes because you are ready for it"
--   "What makes you vulnerable makes you strong and beautiful"
--   "Buy yourself cake and flowers and get through it"
--   "It’s never too late to be what you might have been" - George Eliot
--   "The good life is one inspired by love and guided by knowledge" - Bertrand Russell
--   "No problem can be solved from the same level of consciousness that created it" - Albert Einstein
+- "What makes you vulnerable makes you strong and beautiful"
+- "The good life is one inspired by love and guided by knowledge" - Bertrand Russell
+- "The challenge comes because you are ready for it"
+- "Buy yourself cake and flowers and get through it"
+- "It’s never too late to be what you might have been" - George Eliot
+- "No problem can be solved from the same level of consciousness that created it" - Albert Einstein
