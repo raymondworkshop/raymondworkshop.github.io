@@ -7,6 +7,17 @@ tags: [notes, self, softskills, important]
 abstract: "Live a life created for you"
 ---
 
+#### 2025-01-29
+
+- 两性关系
+    - 情感或思想上的亲密有时可能带来身体上的吸引，但**它们也可以独立存在**。
+      关系是否进入身体层面，取决于双方的选择和边界
+        - 情感亲密： 分享脆弱，互相支持
+        - 思想亲密： 深度交流， 共同成长
+        - 身体亲密： 触碰， 性关系
+
+    - 就像朋友聊天就行， 互相理解和支持
+
 #### 2025-01-15
 
 - find godliness, and good will come on its own accord
