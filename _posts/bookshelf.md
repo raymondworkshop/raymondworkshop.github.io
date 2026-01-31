@@ -19,7 +19,7 @@ date: 2012-03-19
 #### reading-2026
 
 - **[How to Live an Extraordinary Life]** by Anthony Pompliano (8/10)
-- [When Love Meets Fear: Becoming Defense-less and Resource-full] by David Richo (7/10)
+- **[When Love Meets Fear: Becoming Defense-less and Resource-full]** by David Richo (8/10)
 - **[The psy of leadership]** by Sébastien Page (8/10)
 - [Awareness: The Key to Living in Balance] by Osho (7/10 note: ethical codes are useful for society, but not useful for individual)
 - **[Difficult Conversations: How to Discuss What Matters Most]** by Douglas Stone, Bruce Patton, Sheila Heen
@@ -27,6 +27,7 @@ date: 2012-03-19
 - [The Psychology of Money]
 - [反脆弱] by Nassim Nicholas Taleb
 - [Being in Love: How to Love with Awareness and Relate Without Fear] by Osho
+- [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living] by Ryan Holiday
 
 - [善用悲觀的力量]
 - [The four agreements - a Practical Guide to Personal Freedom] by Don Miguel Ruiz
@@ -37,7 +38,6 @@ date: 2012-03-19
 
 - [Trump: The Art of the Deal]
 - [Think and Grow Rich]
-- [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living] by Ryan Holiday
 - [10x Is Easier Than 2x: How World-Class Entrepreneurs Achieve More by Doing Less]
 - [The Laws of Human Nature] by Robert Greene
 - [12 Rules for Life_ An Antidote to Chaos] by Jordan B. Peterson
@@ -70,7 +70,7 @@ date: 2012-03-19
 - **[力量从哪里来]** by liyiluo (10/10)
 - **[相信自己，才是完整的你]** by 高瑞希 (10/10)
 - **[The art of love]** by Erich Fromm (note: awareness of his separateness => anxiety (shame, guilty) => the union with group => Love -> interpersonal union) (10/10)
-- [Living Untethered: Beyond the Human Predicament] by Michael A. Singer
+- [Living Untethered: Beyond the Human Predicament] by Michael A. Singer (8/10)
 - **[How to Live an Extraordinary Life]** by Anthony Pompliano
 - [12 Rules for Life_ An Antidote to Chaos] by Jordan B. Peterson
 - [善用悲觀的力量]
@@ -79,8 +79,8 @@ date: 2012-03-19
 - [The Laws of Human Nature] by Robert Greene
 
 - [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
-- [The Diary of a CEO] by Steven Bartlett (9/10)
-- **[The Almanack of Naval Ravikant]** by Eric Jorgenson
+- [The Diary of a CEO] by Steven Bartlett (10/10)
+- **[The Almanack of Naval Ravikant]** by Eric Jorgenson (10/10)
 - **[沈思錄]**
 - [張忠謀自傳]
 - [丘吉尔传] by Andrew Roberts
@@ -88,7 +88,7 @@ date: 2012-03-19
 - **[The four agreements-a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
 - [Maturity-The responsibility of being oneself]
 - [To Have or to Be_The Nature of the Psyche] by Erich Fromm
-- **[Culture Design: How to Build a High-Performing, Resilient Organization with Purpose]** by James D. White, Krista White
+- [Culture Design: How to Build a High-Performing, Resilient Organization with Purpose] by James D. White, Krista White
 - [Helping: How to Offer, Give, and Receive Help](https://www.amazon.com/Helping-Offer-Give-Receive-Help/dp/157675863X) by Edgar
 - [人性的弱點]
 
@@ -101,7 +101,6 @@ date: 2012-03-19
 
 - [CHATTER: The Voice in Our Head, Why It Matters, and How to Harness It] by Ethan Kross
 - [Don't Sweat the Small Stuff About Money: Simple Ways to Create Abundance and Have Fun] by Richard Carlson (9/10)
-- [The Psychology of Money]
 
 - [HBR being a Great Bs] (10/10) (note: kind of self-assurance)
 - [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/) by Sahil Lavingia
@@ -119,7 +118,6 @@ date: 2012-03-19
 
 - [同理心對話] (8/10)
 - [Don't sweat the small stuff in love]
-- [Crucial Conversations: Tools for Talking When Stakes are High]
 
 - [Don't Sweat the Small Stuff and It's All Small Stuff] by Richard Carlson
 
