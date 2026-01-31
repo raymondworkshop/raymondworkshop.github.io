@@ -21,11 +21,11 @@ abstract: "Live a life created for you"
             - 比如**赛后主动表达对对方的认可或感谢** “你也很棒，这场让我学到很多”
             - ”我很欣赏你全力以赴的态度“
 
-- 自在， **做任何事不需要考虑太多**
+- **自在**， **做任何事不需要考虑太多**
     - 好直接， 我觉得自己喜欢
 
     - Authenticity is about self-expression = **internal reality**
-        - am I representing myself honestly?
+        - am I **representing myself honestly**?
         - showing up your genuine self, without masks or pretence
             - it’s about whether your words and actions reflect your inner state
 
@@ -43,19 +43,19 @@ abstract: "Live a life created for you"
         - **我们自洽了， 才能给周围的人带来光亮**，给世界带来真实的力量
             - 如果没有“我”的自洽， 就没有我们和世界的有效联结
 
-- 真正的“好人” 不是迎合所有期待， 而是 **诚实， 尊重， 清晰**
+- **真正的“好人”** 不是迎合所有期待， 而是 **诚实， 尊重， 清晰**
     - 如果**能坦率表达立场**，**同时保持尊重和善意**， 你的社会评价和名誉不会受损，反而**会显得成熟**
         - 明确自己的定位 - **个人真实感受**，**确认自己想要的是什么**？
         - 主动设定责任范围，**通过清晰沟通来设定边界**
 
-    - 允许自己有欲望和利益
+    - **允许自己有欲望和利益**
         - 欲望和利益并不等于自私， 它们**是你作为一个完整的人自然的一部分**
 
     - **善良是出于真心的给予**， 而讨好则是为了避免冲突或获得认可
         - **我现在的付出， 是出于真心**， 还是害怕别人不喜欢我
 
 - 两性关系
-    - 情感或思想上的亲密有时可能带来身体上的吸引，但**它们也可以独立存在**。
+    - **情感或思想上的亲密有时可能带来身体上的吸引**，但**它们也可以独立存在**。
       关系是否进入身体层面，取决于双方的选择和边界
         - 情感亲密： **分享脆弱，互相支持**
         - 思想亲密： **深度交流， 共同成长**
@@ -195,6 +195,21 @@ abstract: "Live a life created for you"
         - **loud or sharp voice**: frustration or excitement
         - soft or slow speech: nervousness or uncertainty
         - monotone: boredom or lack of interest
+
+- tiger - 老虎
+
+血是热的
+影子是冷的
+
+风从我耳边吹过
+却什么都没讲
+
+月亮望着我
+我望着月亮
+
+都饿了
+都想把黑夜
+一片一片吃掉
 
 #### 2026-01-12
 
