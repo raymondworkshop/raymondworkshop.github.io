@@ -9,7 +9,7 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### Monk Mode
 
-- **People who create** are more interesting than people who don't
+- **People who create are more interesting** than people who don't
   because **they apply their essence to an art form**.
     - In doing this **they add value to themselves**, they are **more developed human-beings** and **thus more interesting**.
 
@@ -31,7 +31,7 @@ abstract: "Live a life created for you, instead of the life you create"
         - losers have a scarcity mindset
         - losers are a needy personality
 
-    - **work for youself** as soon as you can
+    - **work for yourself** as soon as you can
         - because they're **not Machiavellian enough**
 
 - Winners **need a goal higher than themselves**

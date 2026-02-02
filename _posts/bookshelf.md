@@ -23,8 +23,9 @@ date: 2012-03-19
 - **[The psy of leadership]** by Sébastien Page (8/10)
 - [Awareness: The Key to Living in Balance] by Osho (7/10 note: ethical codes are useful for society, but not useful for individual)
 - **[Difficult Conversations: How to Discuss What Matters Most]** by Douglas Stone, Bruce Patton, Sheila Heen
-- [Purpose & Profit] by Dan Koe
 - [The Psychology of Money]
+- [Purpose & Profit] by Dan Koe
+
 - [反脆弱] by Nassim Nicholas Taleb
 - [Being in Love: How to Love with Awareness and Relate Without Fear] by Osho
 - [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living] by Ryan Holiday
