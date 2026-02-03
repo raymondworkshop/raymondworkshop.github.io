@@ -80,7 +80,7 @@ date: 2012-03-19
 - [The Laws of Human Nature] by Robert Greene
 
 - [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
-- [The Diary of a CEO] by Steven Bartlett (10/10)
+- **[The Diary of a CEO]** by Steven Bartlett (10/10)
 - **[The Almanack of Naval Ravikant]** by Eric Jorgenson (10/10)
 - **[沈思錄]**
 - [張忠謀自傳]
