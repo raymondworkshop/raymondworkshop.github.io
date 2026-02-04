@@ -7,6 +7,12 @@ categories: [learning, todo]
 abstract: "TODO -  driving"
 ---
 
+#### TODO
+
+- 申请临时牌照
+
+- 对自己的动手能力要有自信
+
 #### 2026-02-03
 
 - 终于考过了 - 银城线

@@ -12,8 +12,6 @@ date: 2012-03-19
 
     - [wiki on Startup](https://startupclass.samaltman.com/)
 
-    - [Startup School](https://www.startupschool.org/curriculum)
-
     - [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2025/home)
 
 #### reading-2026
@@ -23,12 +21,12 @@ date: 2012-03-19
 - **[The psy of leadership]** by Sébastien Page (8/10)
 - [Awareness: The Key to Living in Balance] by Osho (7/10 note: ethical codes are useful for society, but not useful for individual)
 - **[Difficult Conversations: How to Discuss What Matters Most]** by Douglas Stone, Bruce Patton, Sheila Heen
-- [The Psychology of Money]
+- [The Psychology of Money] by Morgan Housel
+- [反脆弱] by Nassim Nicholas Taleb
+- [猫鱼] by 陈冲
 - [Purpose & Profit] by Dan Koe
 
-- [反脆弱] by Nassim Nicholas Taleb
 - [Being in Love: How to Love with Awareness and Relate Without Fear] by Osho
-- [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living] by Ryan Holiday
 
 - [善用悲觀的力量]
 - [The four agreements - a Practical Guide to Personal Freedom] by Don Miguel Ruiz
@@ -45,6 +43,7 @@ date: 2012-03-19
 - [The Surrender Experiment] by Michael A. Singer
 - [Don't sweat the small stuff in love]
 - [EMOTIONS: Freedom from Anger, Jealousy & Fear] by Osho
+- [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living] by Ryan Holiday
 
 - [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
 - **[The Diary of a CEO]** by Steven Bartlett (9/10)
