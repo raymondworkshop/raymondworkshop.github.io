@@ -4,7 +4,7 @@ title: "!Notes on odyssey"
 date: 2025-07-10
 comments: true
 tags: [notes, self, softskills, important]
-abstract: "Live a life created for you"
+abstract: "The log of your life"
 ---
 
 #### 2026-02-06

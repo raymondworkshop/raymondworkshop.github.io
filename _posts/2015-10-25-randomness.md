@@ -2,12 +2,17 @@
 layout: post
 title: "Randomness as a source of efficiency"
 date: 2015-11-05
+update: 2026-02-12
 comments: true
 categories: [algorithms]
 abstract: "Randomization of a part of the control is an essential concept of nature's strategy."
 ---
 
-> Randomization of a part of the control is an essential concept of nature's strategy.
+#### Antifrangile
+
+TODO
+
+#### Randomization of a part of the control is an essential concept of nature's strategy.
 
 在自然选择里，进化实际上是随机（没有方向）的，是在复杂世界中中找到答案（适应自然）最有效率的办法。 这里的关键词是“不知道”，如果根本不知道未来会怎么变，最好还是随机一些。
 
@@ -16,5 +21,6 @@ abstract: "Randomization of a part of the control is an essential concept of nat
 [TODO]
 
 #### reference
-* Is the Cosmos Random? from Scientific American [0036-8733] Musser, George yr:2015 vol:313 iss:3 pg:88
-* [该死就死的市场经济](http://www.weibo.com/p/1001603833249125236809)
+
+- Is the Cosmos Random? from Scientific American [0036-8733] Musser, George yr:2015 vol:313 iss:3 pg:88
+- [该死就死的市场经济](http://www.weibo.com/p/1001603833249125236809)
