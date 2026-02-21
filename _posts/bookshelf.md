@@ -22,8 +22,8 @@ date: 2012-03-19
 - [Awareness: The Key to Living in Balance] by Osho (7/10 note: ethical codes are useful for society, but not useful for individual)
 - **[Difficult Conversations: How to Discuss What Matters Most]** by Douglas Stone, Bruce Patton, Sheila Heen
 - [The Psychology of Money] by Morgan Housel
+- [Antifragile: Things That Gain From Disorder] by Nassim Nicholas Taleb
 - [Mastery] by Robert Greene
-- [反脆弱] by Nassim Nicholas Taleb
 - [猫鱼] by 陈冲
 - [Purpose & Profit] by Dan Koe
 
