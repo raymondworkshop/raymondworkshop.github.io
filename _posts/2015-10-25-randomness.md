@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Randomness as a source of efficiency"
-date: 2015-11-05
-update: 2026-02-12
+title: "Notes on Antifragile: Things That Gain From Disorder"
+date: 2026-02-12
+init-date: 2015-11-05
 comments: true
 categories: [algorithms]
 abstract: "Randomization of a part of the control is an essential concept of nature's strategy."
 ---
 
-#### Antifrangile
+#### Antifragile: Things That Gain From Disorder
 
 TODO
 
