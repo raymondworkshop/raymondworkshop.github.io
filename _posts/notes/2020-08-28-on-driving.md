@@ -1,17 +1,21 @@
 ---
 layout: post
-title: "driving lesson"
+title: "driving lessons"
 date: 2020-08-24
 comments: true
 categories: [learning, todo]
-abstract: "TODO -  driving"
+abstract: "driving lessons"
 ---
 
 #### TODO
 
 - 申请临时牌照
 
-- 对自己的动手能力要有自信
+- 对自己的动手能力更有自信
+
+- 以駕駛座視角來看， 方向盤的寬度通常與車身寬度大致相等
+    - **當方向盤兩側邊緣對齊障礙物或標線時**，車輛即可通過，有助於新手判斷車身兩側距離
+    - 視覺基準：在駕駛座中心向前方看，方向盤左邊緣常對應左輪胎位置，右邊緣對應右輪胎位置
 
 #### 2026-02-03
 

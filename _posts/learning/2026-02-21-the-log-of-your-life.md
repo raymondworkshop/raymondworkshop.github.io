@@ -21,10 +21,14 @@ abstract: "a master self-observer"
         - 看上去都偏老
         - 没有活出自己，没有爱
 
-    - 看了一些 《反脆弱》
+    - 在家裡啥事都不太想做
+        - 看了一些 《反脆弱》
     - 用vpn节省很多数据费用
         - vpn cat
         - Proton VPN
+    - 回去時間計劃不周
+        - 只能的士，最低提前1小時到機場
+        - 不能理論剛剛好， 多加一個小時時間
 
 - English/Cantonese
     - **Shadowing** on a daily basis

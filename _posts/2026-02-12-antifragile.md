@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes on Antifragile: Things That Gain From Disorder"
+title: "Notes on 'Antifragile: Things That Gain From Disorder'"
 date: 2026-02-12
 init-date: 2015-11-05
 comments: true

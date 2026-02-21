@@ -20,17 +20,17 @@ date: 2012-03-19
 - **[When Love Meets Fear: Becoming Defense-less and Resource-full]** by David Richo (8/10)
 - **[The psy of leadership]** by Sébastien Page (8/10)
 - [Awareness: The Key to Living in Balance] by Osho (7/10 note: ethical codes are useful for society, but not useful for individual)
+- [The four agreements - a Practical Guide to Personal Freedom] by Don Miguel Ruiz (8/10)
 - **[Difficult Conversations: How to Discuss What Matters Most]** by Douglas Stone, Bruce Patton, Sheila Heen
 - [The Psychology of Money] by Morgan Housel
 - [Antifragile: Things That Gain From Disorder] by Nassim Nicholas Taleb
 - [Mastery] by Robert Greene
-- [猫鱼] by 陈冲
 - [Purpose & Profit] by Dan Koe
 
 - [Being in Love: How to Love with Awareness and Relate Without Fear] by Osho
 
 - [善用悲觀的力量]
-- [The four agreements - a Practical Guide to Personal Freedom] by Don Miguel Ruiz
+- [猫鱼] by 陈冲
 - [The Magic] by Rhonda Byrne
 - [Empowered: Ordinary People, Extraordinary Products] by Marty Cagan
 - [No Rules Rules: Netflix and the Culture of Reinvention] by Reed Hastings, Erin Meyer
