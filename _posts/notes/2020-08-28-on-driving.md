@@ -9,7 +9,11 @@ abstract: "driving lessons"
 
 #### TODO
 
+- 申请正式牌照
+    - 2027-02-25
+
 - 申请临时牌照
+    - Done
 
 - 对自己的动手能力更有自信
 

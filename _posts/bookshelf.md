@@ -20,17 +20,23 @@ date: 2012-03-19
 - **[When Love Meets Fear: Becoming Defense-less and Resource-full]** by David Richo (8/10)
 - **[The psy of leadership]** by Sébastien Page (8/10)
 - [Awareness: The Key to Living in Balance] by Osho (7/10 note: ethical codes are useful for society, but not useful for individual)
-- [The four agreements - a Practical Guide to Personal Freedom] by Don Miguel Ruiz (8/10)
+- **[The four agreements - a Practical Guide to Personal Freedom]** by Don Miguel Ruiz (8/10)
 - **[Difficult Conversations: How to Discuss What Matters Most]** by Douglas Stone, Bruce Patton, Sheila Heen
-- [The Psychology of Money] by Morgan Housel
 - [Antifragile: Things That Gain From Disorder] by Nassim Nicholas Taleb
+- **[財富自由心理學](https://new-read.readmoo.com/mooreader/210449720000101)** by 蔡宇哲, 郝旭烈 (9/10)
 - [Mastery] by Robert Greene
+- [The Psychology of Money] by Morgan Housel
+- [拆掉思維裡的牆] by 古典
 - [Purpose & Profit] by Dan Koe
-
-- [Being in Love: How to Love with Awareness and Relate Without Fear] by Osho
-
+- **[沈思錄]**
 - [善用悲觀的力量]
+
+- [張忠謀自傳]
+- [丘吉尔传] by Andrew Roberts
+- [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti
+
 - [猫鱼] by 陈冲
+- [Being in Love: How to Love with Awareness and Relate Without Fear] by Osho
 - [The Magic] by Rhonda Byrne
 - [Empowered: Ordinary People, Extraordinary Products] by Marty Cagan
 - [No Rules Rules: Netflix and the Culture of Reinvention] by Reed Hastings, Erin Meyer
@@ -49,14 +55,10 @@ date: 2012-03-19
 - [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
 - **[The Diary of a CEO]** by Steven Bartlett (9/10)
 - **[The Almanack of Naval Ravikant]** by Eric Jorgenson
-- **[沈思錄]**
-- [張忠謀自傳]
-- [丘吉尔传] by Andrew Roberts
 
 - [To Have or to Be_The Nature of the Psyche] by Erich Fromm
 - [Culture Design: How to Build a High-Performing, Resilient Organization with Purpose] by James D. White, Krista White
 - [Helping: How to Offer, Give, and Receive Help](https://www.amazon.com/Helping-Offer-Give-Receive-Help/dp/157675863X) by Edgar
-- [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti
 - [人性的弱點]
 
 #### reading-2025
