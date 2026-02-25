@@ -177,7 +177,7 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
     2.  explore the alternatives
         - find the appropriate measurement - a risk-taking judgment
             - look for **the 'feedback' before** the decision
-        - insist on **alternatives of measurement** so that they can choose the one appropriate one
+        - insist on **alternatives of measurement** so that they can choose the appropriate one
             - one does not make a decision unless there is disagreement
         - **disagreement alone can provide alternatives to a decision**
         - disagreement is needed to stimulate the **imagination** - **a new and different way of perceiving and understanding**

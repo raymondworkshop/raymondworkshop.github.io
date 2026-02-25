@@ -27,6 +27,7 @@ date: 2012-03-19
 - [Mastery] by Robert Greene
 - [The Psychology of Money] by Morgan Housel
 - [拆掉思維裡的牆] by 古典
+- [成為自由人] by 李惠貞
 - [Purpose & Profit] by Dan Koe
 - **[沈思錄]**
 - [善用悲觀的力量]
