@@ -7,6 +7,12 @@ tags: [notes, self, softskills, important]
 abstract: "The log of your life"
 ---
 
+#### 2026-02-27
+
+- 坦诚 vs 诚实
+
+- 脆弱 vs 软弱
+
 #### 2026-02-06
 
 - 目标 vs 价值

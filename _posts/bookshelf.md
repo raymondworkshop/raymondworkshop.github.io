@@ -8,11 +8,11 @@ date: 2012-03-19
 #### training-2026
 
 - SKILLS
-    - [Microeconomics for Business Professionals](https://learning.edx.org/course/course-v1:DoaneX+ECON-204x+2T2023/home)
+    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)
+    - [Entrepreneurial Leadership Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)
+    - [Financial Accounting Made Fun](https://www.edx.org/learn/financial-accounting/babson-college-financial-accounting-made-fun-eliminating-your-fears)
 
     - [wiki on Startup](https://startupclass.samaltman.com/)
-
-    - [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2025/home)
 
 #### reading-2026
 
@@ -24,11 +24,11 @@ date: 2012-03-19
 - **[Difficult Conversations: How to Discuss What Matters Most]** by Douglas Stone, Bruce Patton, Sheila Heen
 - [Antifragile: Things That Gain From Disorder] by Nassim Nicholas Taleb
 - **[財富自由心理學](https://new-read.readmoo.com/mooreader/210449720000101)** by 蔡宇哲, 郝旭烈 (9/10)
-- [做一個情緒自由的人](https://new-read.readmoo.com/mooreader/210269795000101) by 盧文建, 彭振桓
+- [做一個情緒自由的人](https://new-read.readmoo.com/mooreader/210269795000101) by 盧文建, 彭振桓 (6/10)
+- [成為自由人] by 李惠貞
 - [Mastery] by Robert Greene
 - [The Psychology of Money] by Morgan Housel
 - [拆掉思維裡的牆] by 古典
-- [成為自由人] by 李惠貞
 - [Purpose & Profit] by Dan Koe
 - **[沈思錄]**
 - [善用悲觀的力量]
