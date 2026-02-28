@@ -7,6 +7,11 @@ tags: [notes, self, softskills, important]
 abstract: "The log of your life"
 ---
 
+#### 2026-02-28
+
+- 人与人的关系可以看作是 利益与情感的交织
+    - **温暖来自真心**， **安全来自边界**
+
 #### 2026-02-27
 
 - 坦诚 vs 诚实

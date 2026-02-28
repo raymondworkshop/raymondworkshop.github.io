@@ -1,5 +1,5 @@
 ---
-title: Coach
+title: Coaching
 date: 2025-12-15
 ---
 
