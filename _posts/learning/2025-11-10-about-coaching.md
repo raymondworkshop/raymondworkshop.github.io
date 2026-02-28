@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About Coach"
+title: "About Coaching"
 date: 2025-11-10
 comments: true
 tags: [notes, self, softskills, important, coach]
@@ -13,7 +13,7 @@ abstract: ""
 
 #### life coash
 
-#### Coach as a leader
+#### Coaching as a leader
 
 - You don't need to have all the solutions
     - You do need to be able to **connect with people**, to **inspire them to do their best**,
