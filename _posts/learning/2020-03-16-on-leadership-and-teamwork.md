@@ -35,7 +35,7 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
         - **Be strategic and intentional about whom you listen to - and when**
         - **Pause to assess what's needed**, and then make a choice
 
-- How send the right leadership signals
+- How to send the right leadership signals
     - **Consider the kind of leader you are** and **hope to be**
         - you believe that **making time for others**, planning, and coaching
         - you view this **others-directed work as mission-critical to your success**

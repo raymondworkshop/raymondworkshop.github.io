@@ -7,7 +7,7 @@ categories: [learning, thinking, important, self, lessons]
 abstract: "learn from your mistakes, and know more about yourself"
 ---
 
-#### Improve your personality
+#### Improve your 外资/personality
 
 - TODO
     - more outgoing
