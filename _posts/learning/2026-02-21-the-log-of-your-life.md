@@ -6,6 +6,13 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2026-03-02
+
+- todo
+    - 找工作
+    - 租房
+    - 借钱
+
 #### 2026-03-01
 
 - **有意识的回应** -觉察再选择

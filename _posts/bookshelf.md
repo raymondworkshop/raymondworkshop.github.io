@@ -16,26 +16,26 @@ date: 2012-03-19
 
 #### reading-2026
 
-- **[How to Live an Extraordinary Life]** by Anthony Pompliano (8/10)
+- [How to Live an Extraordinary Life] by Anthony Pompliano (8/10)
 - **[When Love Meets Fear: Becoming Defense-less and Resource-full]** by David Richo (8/10)
 - **[The psy of leadership]** by Sébastien Page (8/10)
 - [Awareness: The Key to Living in Balance] by Osho (7/10 note: ethical codes are useful for society, but not useful for individual)
 - **[The four agreements - a Practical Guide to Personal Freedom]** by Don Miguel Ruiz (8/10)
 - **[Difficult Conversations: How to Discuss What Matters Most]** by Douglas Stone, Bruce Patton, Sheila Heen
-- [Antifragile: Things That Gain From Disorder] by Nassim Nicholas Taleb
+- [Antifragile: Things That Gain From Disorder] by Nassim Nicholas Taleb (8/10)
 - **[財富自由心理學](https://new-read.readmoo.com/mooreader/210449720000101)** by 蔡宇哲, 郝旭烈 (9/10)
 - [做一個情緒自由的人](https://new-read.readmoo.com/mooreader/210269795000101) by 盧文建, 彭振桓 (6/10)
 - **[成為自由人](https://new-read.readmoo.com/mooreader/210444939000101)** by 李惠貞
 - [The Psychology of Money] by Morgan Housel
 - [Mastery] by Robert Greene
-- [拆掉思維裡的牆] by 古典
 - [Purpose & Profit] by Dan Koe
 - **[沈思錄]**
 - [善用悲觀的力量]
+- [拆掉思維裡的牆] by 古典
 
+- [丘吉尔传] by Andrew Roberts
 - [猫鱼] by 陈冲
 - [張忠謀自傳]
-- [丘吉尔传] by Andrew Roberts
 - [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti
 
 - [Being in Love: How to Love with Awareness and Relate Without Fear] by Osho
