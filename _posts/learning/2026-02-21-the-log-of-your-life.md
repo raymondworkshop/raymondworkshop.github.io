@@ -6,11 +6,47 @@ tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
 ---
 
+#### 2026-03-03
+
+- 自己今年的重点是 赚钱
+    - 小公司
+
+- 反思自己對Ivy的執著， 她只是承載了自己的投射
+    - 是**自己對 ”溫暖，未來，安全感“的執著**， 她只是承載了這些投射
+    - 她年纪大了，加上她也没那么喜欢你，而且在这段关系里自己也没有那么自在
+
+- **如何在生活里可以找到这些价值**， 而不是依赖一个不回应你的人
+    - **专注于当下能建立的真实关系**， 把“未来的幻想”收回
+
+    - **给自己空间去认识其他人**， 而不是困在一个没有回应的对象上
+
+    - **关系需要双方的回应**，而不是单方面的投入
+
 #### 2026-03-02
 
+- **把快乐和自信当成一种决定**， 先决定，就会拥有
+    - **要自己成为光**
+        - **相信自己内在有潜能**， 你就会朝它走去
+    - **他把自己的魅力发挥得很好**，让人想要亲近，跟他在一起就感到很舒服，很快乐。
+      那样的人，本身就带着光
+    - **去认识自己的性格和培养内在魅力**，只有这件事会与日俱增而不会消减
+
+- Sincerity vs genuineness 真诚
+    - Sincerity emphasizes the heartfelt honesty behind words or actiosn
+        - about intention - **inner motive** - you mean what you say
+        - leans toward **emotional honesty**
+        - 让对方感到被在乎
+    - Genuiness emphasizes **being true to oneself** or reality, without pretense
+        - about the outer expression - feel real and natural
+    - 坦诚 能加深关系
+        - 你真心关心朋友，同时**坦率表达不同意见**，关系会因为真实交流而更稳固、更深刻
+            - 你**愿意表达自己的想法，感受和脆弱**， 对方才能看到更完整的你
+            - 坦诚能消除模糊，让关系更透明
+
 - todo
-    - 找工作
     - 租房
+    - 找工作
+
     - 借钱
 
 #### 2026-03-01

@@ -13,14 +13,14 @@ abstract: "Randomization of a part of the control is an essential concept of nat
 Randomization of a part of the control is an essential concept of nature's strategy; Here the key word is 'unknown', such as dionysus VS apollo, the wanderer VS the tourist, induction VS deduction.
 
 The enlightenment placed the individual in a more important position; It liberates the individual from the shackles of tribe and society. While modernization based on the enlightenment is the systematic expulsion of human from a random ecological environment, leading to over-optimization.
-Like Britain during the industrial revolution, America's largest asset is that the ability to take risks and utilize alternatives. This is a remarkable capacity to engage in reasonable trial and error, not to feel ashamed of failure, but to start over. While modern Japan, on the contrary, views failure as shameful, contrast to their tradition of respecting defeated bushido.
+
+Like Britain during the industrial revolution, America's largest asset is that the ability to take risks and utilize alternatives. This is a remarkable capacity to engage in reasonable trial and error, not to feel ashamed of failure, but to start over. While east asian, on the contrary, views failure as shameful, contrast to their tradition of respecting defeated bushido.
 
 For the individual, how to gain (risk VS reward)?
 
-    - Barbell - TODO
-    - TODO
+- TODO
 
-#### Randomization of a part of the control is an essential concept of nature's strategy.
+#### Randomization of a part of the control is an essential concept of nature's strategy
 
 在自然选择里，进化实际上是随机（没有方向）的，是在复杂世界中中找到答案（适应自然）最有效率的办法。 这里的关键词是“不知道”，如果根本不知道未来会怎么变，最好还是随机一些。
 

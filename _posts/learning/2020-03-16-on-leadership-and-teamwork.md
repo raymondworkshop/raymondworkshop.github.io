@@ -84,6 +84,10 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
 - reference
     - [HBR Guide to Being a Great Boss]
 
+#### Entrepreneurial Leadership
+
+TODO
+
 #### persuasion skills
 
 - TODO

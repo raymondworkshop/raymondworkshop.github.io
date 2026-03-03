@@ -4,7 +4,7 @@ title: "Notes on '完整的自己'"
 date: 2025-08-07
 comments: true
 categories: [home, notes, learning, summary]
-abstract: "完整的自己-自由快樂的人生"
+abstract: "完整的自己-快樂和自信的人生"
 ---
 
 #### When Love meets Fears
@@ -24,9 +24,9 @@ abstract: "完整的自己-自由快樂的人生"
         - what I feel is not who i am, so **I am not my fear**.
           But **it is what is happening in me right now** so I allow it to have its full career.
     - **act as if fear can't stop or drive you**
-        - I do what I am fearing anyway.
-            - **I make the choices I would make if I did not feel the fear**. At this moment of deciding between feeling and **acting**, you will feel the shift, a surge of power, to take that final step.
-            - You are no longer the victim because you have **combined vulnerability** - "I might fail" - **with power** - "I am doing it"
+        - I do what I am fearing anyway
+            - **I make the choices I would make if I did not feel the fear**. At this moment of **deciding between feeling and acting**, you will feel the shift, a surge of power, to take that final step
+            - You are no longer the victim because you have **combined vulnerability** - "**I might fail**" - **with power** - "I am doing it"
         - **This shift makes you trust youself** and **enriches your self-respect**
 
 #### 薩提爾的自我覺察練習
