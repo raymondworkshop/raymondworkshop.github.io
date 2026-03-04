@@ -10,7 +10,7 @@ abstract: "Randomization of a part of the control is an essential concept of nat
 
 #### Randomization of a part of the control is an essential concept of nature's strategy
 
-在自然選擇裡，進化實際上是隨機（沒有方向）的，是在複雜世界中找到答案（適應自然）最有效率的辦法。這裡的關鍵詞是“不知道”，如果根本不知道未來會怎麼變，最好還是隨機一些； 這個概念可以和 個人的 The 'Presence' Mode 相對照。
+在自然選擇裡，進化實際上是隨機（沒有方向）的，是在複雜世界中找到答案（適應自然）最有效率的辦法。這裡的關鍵詞是“不知道”，如果根本不知道未來會怎麼變，最好還是隨機一些； 這個概念可以和 個人的 The 'Presence' Mode 相呼應。
 
 如此說來，在未知的未來，進化可以被視為一種創新手段。 “自由市場經濟”就深得生物進化之道，因為市場的真正關鍵在於“不知道”。 創新，也許是堅持自由市場的最基本理由。
 

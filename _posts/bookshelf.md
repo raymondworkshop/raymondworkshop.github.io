@@ -25,7 +25,7 @@ date: 2012-03-19
 - [Antifragile: Things That Gain From Disorder] by Nassim Nicholas Taleb (8/10)
 - **[財富自由心理學](https://new-read.readmoo.com/mooreader/210449720000101)** by 蔡宇哲, 郝旭烈 (9/10)
 - [做一個情緒自由的人](https://new-read.readmoo.com/mooreader/210269795000101) by 盧文建, 彭振桓 (6/10)
-- **[成為自由人](https://new-read.readmoo.com/mooreader/210444939000101)** by 李惠貞
+- **[成為自由人](https://new-read.readmoo.com/mooreader/210444939000101)** by 李惠貞 （9/10）
 - [The Psychology of Money] by Morgan Housel
 - [Mastery] by Robert Greene
 - [Purpose & Profit] by Dan Koe
@@ -61,7 +61,7 @@ date: 2012-03-19
 - [To Have or to Be_The Nature of the Psyche] by Erich Fromm
 - [Culture Design: How to Build a High-Performing, Resilient Organization with Purpose] by James D. White, Krista White
 - [Helping: How to Offer, Give, and Receive Help](https://www.amazon.com/Helping-Offer-Give-Receive-Help/dp/157675863X) by Edgar
-- [人性的弱點]
+- [與神對話]
 
 #### reading-2025
 
