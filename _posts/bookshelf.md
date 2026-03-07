@@ -28,6 +28,9 @@ date: 2012-03-19
 - **[成為自由人](https://new-read.readmoo.com/mooreader/210444939000101)** by 李惠貞 （9/10）
 - **[The Psychology of Money]** by Morgan Housel
 - [Mastery] by Robert Greene
+- [活出你的本來面目]
+- [戀愛使用說明書]
+
 - [Purpose & Profit] by Dan Koe
 - **[沈思錄]**
 - [善用悲觀的力量]

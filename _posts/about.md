@@ -6,7 +6,7 @@ date: 2012-03-19
 Hi, I'm Raymond ZHAO Wenlong. I am an Engineer and Founder@Bean based in Hong Kong.  
 I like building ourselves, products, and teams.
 
-I was a Tech Officer at HSUHK, RA in (CUHK, CityU, and HKBU), Tech Lead at HKCREO (a Fintech startup), and Lead Software Engineer at Alcatel-Lucent (now Nokia).
+I was a Tech Officer at HSU, RA in (CUHK, CityU, and HKBU), Tech Lead at HKCREO (a Fintech startup), and Lead Software Engineer at Alcatel-Lucent (now Nokia).
 
 You can see some of my [research](https://raymondworkshop.github.io/slides.html) and [projects](https://github.com/raymondworkshop). If you’ve got any questions, suggestions or would like to discuss a project then email me at **bestraymond@icloud.com**. I’d be happy to hear from you.
 

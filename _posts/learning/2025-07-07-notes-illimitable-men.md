@@ -34,9 +34,63 @@ abstract: "Live a life created for you, instead of the life you create"
     - **work for yourself** as soon as you can
         - because they're **not Machiavellian enough**
 
+    - the bigger **the gap between what you want to be true and what you need to be true** to have an acceptable outcome, the more you are protecting yourself from falling victim to an appealing financial fiction
+        - 如果你“对某个结果的渴望” **远远超过了 “最坏情况下仍然能接受”的 底线需求**， 那你其实已经在给自己留了更大的安全边际
+
 - Winners **need a goal higher than themselves**
 
 - Quality beats quantity
+
+#### [Sexy Is All About Energy](https://eden-apple.com/sexy-is-all-about-energy-build-sexual-attraction/)
+
+- **Confidence** is about how grounded you are in yourself
+    - it's about calm power, it's about certainty, it's about how you carry your body, your voice, your intention; it's presence
+    - I know my worth, and I don't need validation from anyone else
+
+    - how to be more attractive to women
+        - **master your skills** - competence builds self-trust, focusing on excelling in areas that matter.
+        - **dress with purpose** - wear closths that make you feel powerful, confident, and aligned with your personality
+        - practice self-acceptance - flaws aren't weaknesses; they're part of what makes you unique.
+          **embrace your flaws** instead of comparing yourslef to other men.
+          **self-acceptance fuels authentic sexual attraction energy**
+        - affirm your value daily - start each morning reinforcing your worth
+
+- Presence: Owning the moment
+    - **being fully in the moment** communicates that you value her attention and your own time.
+
+    - what makes a man sexually attractive
+        - **strong eye contact conveys confidence, honesty, and attention**.
+          Avoid darting or nervous glances, which undermine your energy
+        - active listening: don't just wait for your turn to speak.
+          **absorb her words**, **respond thoughtfully**, and **mirror her energy when appropriate**.
+          Listening fully creates an invisible bond that signals emotional intelligence.
+
+        - body language: **stand tall, shoulders relaxed, chest open**.
+          Lean in slightly when she speaks, use open gestures, and avoid defensive postures like crossed arms.
+
+        - calm demeanor: being composed, steady, and unshakable in your reactions shows that you are emotinally in control
+
+- Self-Care tips for radiant energy
+    -
+
+#### [What women really want from men](<(https://eden-apple.com/what-women-really-want-from-men/)>)
+
+- Emotional Safety does not mean being soft or submissive
+    - You are **stable under pressure**
+    - You **don't overreact** emotionally
+    - You **don't crumble** when she tests you
+
+- Attraction & Excitement requires polarity
+    - confidence
+    - subtle dominance
+    - mystery
+    - social intelligence
+    - decisiveness
+
+- Direction & Strength
+    - knows what he wants
+    - makes decisions calmly
+    - isn't seeking approval
 
 #### Flirt
 
