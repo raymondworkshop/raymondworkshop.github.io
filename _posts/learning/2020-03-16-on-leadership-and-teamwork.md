@@ -86,7 +86,59 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
 
 #### Entrepreneurial Leadership
 
-TODO
+##### W1
+
+- Entrepreneurial leader
+    - develop a learning mentality
+        - accept that there is more than one best way
+    - use the resources at hand
+        - get your team to tell you what they know
+    - **reach people**
+        - you can't build far reaching value on your own
+        - **collaborate** with others to create new things,
+          make great things happen, and work with amazing people
+          to discover and tap their passions
+
+- Moving beyond 'heroic' leadership
+    - there is **no such thing as a 'complete leader'**
+
+    - Entrepreneurial leadership thinking
+        - **No one can know or do everything**
+        - **Everyone is a product of their own** training, background, and experience
+        - **we need multiple perspectives** in this complex world
+          to be able to generate the best solutions
+        - **if we cultivate partnerships and enlist others**,
+          we can achieve access to the resources, information and support we need to make great things happen
+        - **leaders need to learn and grow over time**
+
+    - how
+        - **know themselves** and know that they don't know it all
+        - think beyond the first idea and **seek the input of others**
+            - focus on **how to bring out the best** in others
+        - invest in the team and team members' **development**
+        - **imagine new possibilities** (and paint the picture for others)
+
+- Leaders as explorers
+    - **keep several options open**
+    - get comfortable **asking questions** with an emphasis on listening and learning
+    - need to cultivate **an ability to see beyond your first instinct or idea**
+
+- what makes a team work effectively
+    - **content** perspective
+        - Is the work or the aspirtation clearly defined?
+        - does the team have the skills and resources it needs?
+        - does the team know why the work is important?
+
+    - **process** perspective
+        - how is the team **organized and connected** ?
+        - do team members know each other?
+        - are roles and responsibilities to contribute clear?
+        - do members feel free to share ideas? to debate? to experiment?
+        - is the decision-making process understood?
+        - is the goal understood and shared?
+        - is communication open?
+
+- Vison as a GPS for your team
 
 #### persuasion skills
 

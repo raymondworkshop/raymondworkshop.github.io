@@ -10,7 +10,7 @@ I was a Tech Officer at HSU, RA in (CUHK, CityU, and HKBU), Tech Lead at HKCREO 
 
 You can see some of my [research](https://raymondworkshop.github.io/slides.html) and [projects](https://github.com/raymondworkshop). If you’ve got any questions, suggestions or would like to discuss a project then email me at **bestraymond@icloud.com**. I’d be happy to hear from you.
 
-Outside of tech and [reading](https://raymondworkshop.github.io/bookshelf.html), I like Philosophy, Nature, Art, and Movie.
+Outside of [reading](https://raymondworkshop.github.io/bookshelf.html) and tech, I like Philosophy, Nature, Art, and Movie.
 
 Some of My favorite quotes:
 
