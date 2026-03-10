@@ -101,6 +101,24 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
 
 - Moving beyond 'heroic' leadership
     - there is **no such thing as a 'complete leader'**
+        - Great leaders **don't allow employees to leverage them**,
+          they **teach the employee to leverage their strengths**, and
+          in doing so, it's **a win for the executive, the employee and the enterprise as a whole**
+
+        - **master the art of teaching and coaching** through the application of skillful questions
+            - **be sincere** - think about how you can help the person you're communicating with.
+              make an honest effort to **find out how you can help them achieve their objectives by coaching them** and not just serving up a solution on a silver platter.
+
+            - be effective - once you understand what the issues are
+              you're now in a better position to coach and teach
+
+            - be challenging - ask questions that are insightful such that
+              they require thought to be answered. help people understand how bright they are
+              and where their talents and gifts are by setting a high chinning bar
+
+            - be personal - use questions that encourage the other person to reveal their thoughts and emotions.
+
+            - be competent
 
     - Entrepreneurial leadership thinking
         - **No one can know or do everything**
@@ -139,6 +157,10 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
         - is communication open?
 
 - Vison as a GPS for your team
+
+##### W2
+
+TODO
 
 #### persuasion skills
 
