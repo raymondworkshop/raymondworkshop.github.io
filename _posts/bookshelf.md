@@ -25,7 +25,7 @@ date: 2012-03-19
 - [Antifragile: Things That Gain From Disorder] by Nassim Nicholas Taleb (8/10)
 - [財富自由心理學](https://new-read.readmoo.com/mooreader/210449720000101) by 蔡宇哲, 郝旭烈 (8/10)
 - [做一個情緒自由的人](https://new-read.readmoo.com/mooreader/210269795000101) by 盧文建, 彭振桓 (6/10)
-- **[成為自由人](https://new-read.readmoo.com/mooreader/210444939000101)** by 李惠貞 （8/10）
+- [成為自由人](https://new-read.readmoo.com/mooreader/210444939000101) by 李惠貞 （8/10）
 - **[The Psychology of Money]** by Morgan Housel (9/10)
 - [Mastery] by Robert Greene
 - [活出你的本來面目]

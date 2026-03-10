@@ -84,7 +84,7 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
 - reference
     - [HBR Guide to Being a Great Boss]
 
-#### Entrepreneurial Leadership
+#### [Entrepreneurial Leadership](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)
 
 ##### W1
 
