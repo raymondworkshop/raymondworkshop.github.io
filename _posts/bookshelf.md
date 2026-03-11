@@ -8,7 +8,7 @@ date: 2012-03-19
 #### training-2026
 
 - SKILLS
-    - [Entrepreneurial Leadership Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)
+    - [Entrepreneurial Leadership Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home) (9/10)
     - [Financial Accounting Made Fun](https://www.edx.org/learn/financial-accounting/babson-college-financial-accounting-made-fun-eliminating-your-fears)
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)
 
