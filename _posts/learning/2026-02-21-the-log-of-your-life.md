@@ -3,7 +3,7 @@ layout: post
 title: "The log of your life"
 date: 2026-02-21
 tags: [diary, review, important, learning, lesson]
-abstract: "a master self-observer"
+abstract: "personal reflection journal"
 ---
 
 #### 2026-03-10

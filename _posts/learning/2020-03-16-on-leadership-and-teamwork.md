@@ -158,7 +158,35 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
 
 - Vison as a GPS for your team
 
-##### W2
+##### W2 - Knowing Yourself as an Entrepreneurial Leader
+
+- Authentic Leadership
+    - knowing **your strengths** and **limits**
+        - self-assessment
+        - seeking feedback
+
+- Emotional Intelligence
+    - self-awareness - know your strengths and limits
+    - self-management
+        - **understand your own reactions** and **adapt them to fit the situation**
+
+    - **Social Competence**
+        - empathy, organizational awareness, **service orientation**;
+          empathy lets you read other people accurately
+        - relationship management - vision, coach and mentor, conflict management,
+          influence, **teamwork building**
+
+- **Understanding Behavioral Styles**
+    - the way you present yourself to others, whether consciously or unconsciously
+    - **assertiveness**, the extent to which your behavior demonstrates action on the env
+    - **responsiveness**, the extent to which your behavior demonstrates responsiveness to others
+
+- Recognizing the potential for blind spots
+    - these learned habits and implicit assumptions can easily turn into blind spots or filters
+    - Set objective criteria
+        - double **check your objectivity by sharing the why** behind your decision
+
+##### W3
 
 TODO
 
