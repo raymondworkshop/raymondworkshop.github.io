@@ -186,7 +186,74 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
     - Set objective criteria
         - double **check your objectivity by sharing the why** behind your decision
 
-##### W3
+##### W3 - Motivating and Engaging Others
+
+- **What motivates people**
+    - Pshsilogical needs
+    - safety needs - health, resources
+    - love and belonging - friendship, intimacy, family, connection
+    - esteem - respect, status, strength, freedom
+    - self-actualization - desire to become the most that one can be
+
+- **career anchors**
+    - managerial, autonomy, and entrepreneurship
+
+- **Learning from** and **developing others**
+    - asking "what can I learn from this person" or
+      "what does this person know or see that I don't"
+    - **developing others** means taking an interest in what those folks want to be learning and accomplishing,
+      find out what's on their learning agenda, and then offering input, opportunity, and support along the way
+
+    - [some common mistakes in work relationships](https://www.fastcompany.com/1834912/5-biggest-mistakes-youre-making-work-relationships)
+        - **Taking before giving**:
+          the art of building relationships is to **give as much as you can with no immediate expectation of return** in mind. **Work is going to create goals and deadlines that will be important to both of you**. **Keep others' needs in mind**. if you establish the relationship first,
+          you'll be in a better position to accomplish more together
+
+        - Being an opportunistic relationship builder:
+          As a leader, you're only as good as the people you're leading
+
+        - Seeing relationship building as playing office politics:
+          **there's more to organizational success** than individuals coming up with good answers
+
+        - Forgetting about results:
+          remember that **a primary reason to cultivate good work relationships is to better accomplish organizational goals**
+
+    - **Let's do lunch**
+        - **listening to them and asking questions**.
+          people enjoy being in a relationship with someone who is generally interested in them
+
+        - someone who are most interested in what you're doing,
+          what's important to you, and what's happening in your life
+
+        - Human beings **want to work with people they know and like**
+            - those who **inspire trust** and **demonstrate a ture understanding of others' concerns and aspirations** are the people who are lifted up for leadership
+
+- Building leadership influence with Win-Win Thinking
+    - Win-Win Situations
+        - **Wealth game**, not status game
+    - each gain sth of value from the connection
+    - stay focused on **how you are helping others**, **what you are learning**,
+      and **whether you are creating a track record** of win-win over time
+
+- Leading when the Going Gets Touch
+    - **Over-communication**
+        - Be as visible and transparent with information and decisions
+        - try to be open and positive but be realistic
+        - do your best to communicate as often as possible
+    - Staying focused
+        - **think carefully about the basics** of what makes you successful
+        - connect with your customers, any key stakeholders
+        - be attentive to your team
+    - Being patient
+        - do your best to model calm by staying proactive
+          and developing your action plan
+    - Staying optimistic
+        - **leading with positive energy**
+    - Looking for the positives in the situation
+
+- Developing your network
+
+##### W4 - Using entrepreneurial leadership to drive innovation
 
 TODO
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "被討厭的勇氣"
+title: "Notes on '被討厭的勇氣'"
 date: 2020-05-19
 comments: true
 categories: [home, notes, softskill, important, self]
@@ -308,4 +308,4 @@ How:
 
 #### reference
 
--   [幸福的勇气]
+- [幸福的勇气]

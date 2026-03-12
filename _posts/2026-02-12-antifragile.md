@@ -4,7 +4,7 @@ title: "Notes on Antifragile"
 date: 2026-02-12
 init-date: 2015-11-05
 comments: true
-categories: [self, learning]
+categories: [learning, important]
 abstract: "Randomization of a part of the control is an essential concept of nature's strategy"
 ---
 

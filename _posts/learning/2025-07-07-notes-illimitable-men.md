@@ -9,6 +9,8 @@ abstract: "Live a life created for you, instead of the life you create"
 
 #### Monk Mode
 
+- Realizing that our actions, feelings, and behavior **are the result of our own images and beliefs gives us** the lever that psychology has always needed for changing personality
+
 - **People who create are more interesting** than people who don't
   because **they apply their essence to an art form**.
     - In doing this **they add value to themselves**, they are **more developed human-beings** and **thus more interesting**.
@@ -54,6 +56,26 @@ abstract: "Live a life created for you, instead of the life you create"
           **embrace your flaws** instead of comparing yourslef to other men.
           **self-acceptance fuels authentic sexual attraction energy**
         - affirm your value daily - start each morning reinforcing your worth
+
+    - How to be Confident in Any Room
+        - **Confidence is a trigger**
+            - calm under pressure
+
+        - repeatedly **link a specific song to moments of confidence and success**,
+          you train your nervous system to enter that state almost automatically
+            - stimulus -> state
+            - song -> calm, focused, ready
+
+            - repeat, and go deeper
+                - choose your anchor like a song
+                - pair it with preparation
+                - reinforce after success
+
+        - Once you FEEL in control, competence is natural
+            - you remember that **you already have the competence to handle** these moments
+            - **each time you recall the anchor**, the feeling grows stronger;
+              and it almost feels like you're reliving the experience again,
+              walking in calm, certain, in control
 
 - Presence: Owning the moment
     - **being fully in the moment** communicates that you value her attention and your own time.
