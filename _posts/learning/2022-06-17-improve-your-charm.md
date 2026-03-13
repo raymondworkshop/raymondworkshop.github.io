@@ -1,11 +1,27 @@
 ---
 layout: post
-title: "!Notes on Energy Management"
+title: "!Improve your charm"
 date: 2022-06-17
 comments: true
-categories: [learning, thinking, self, important]
+categories: [learning, thinking, self, important, health]
 abstract: "Notes on Energy - body, diets, sleep  "
 ---
+
+#### 外在形象
+
+- **干净， 得体， 细节到位** **会让人觉得你在乎自己**，**也在乎别人**
+    - **鞋子**， **发型**， **眼神交流**
+
+- 轻松自信
+    - 不必强势， 但要能自然表达自己的观点
+        - 不要总随大流，可以用一句轻松的话表达不同看法， 这会让人觉得你有独立性
+
+    - 和人交流时， 试着在逻辑之外加一句“**情感补充**”
+
+    - 当别人说话时， **点头，微笑，用简短回应表示你在跟随**
+
+- 兴趣和热情
+    - 分享你真正热爱的东西，别人会被你的人情感染
 
 #### Notes on body health
 
