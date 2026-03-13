@@ -9,9 +9,9 @@ date: 2012-03-19
 
 - SKILLS
     - [Entrepreneurial Leadership Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home) (9/10)
-    - [Marketing Fundamentals](https://learning.edx.org/course/course-v1:BabsonX+BPET.MKTx+2T2017SP/home)
-    - [Financial Accounting Made Fun](https://www.edx.org/learn/financial-accounting/babson-college-financial-accounting-made-fun-eliminating-your-fears)
     - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)
+    - [Operations](https://learning.edx.org/course/course-v1:BabsonX+EPS03x+3T2018/home?audit_mode=)
+    - [Financial Accounting Made Fun](https://www.edx.org/learn/financial-accounting/babson-college-financial-accounting-made-fun-eliminating-your-fears)
 
     - [wiki on Startup](https://startupclass.samaltman.com/)
 

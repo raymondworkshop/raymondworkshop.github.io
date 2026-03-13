@@ -255,7 +255,32 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
 
 ##### W4 - Using entrepreneurial leadership to drive innovation
 
-TODO
+- Value differences to spark innovation
+    - Edward de Bono's Six Thinking Hats
+
+- Making it happen - strategy and tactics
+- **adjust their altitudes**
+    - challenge yourself to **understand issues from all levels**
+        - the best leaders and the best employees **connect their work to creating value for customers** or
+          **solving vexing internal issues**. these effective professional learn to scale heights from idea to implementation, from problem to improvement and from understanding to new direction.
+          they strive to become effective communicators at all elvels and they constantly focus on understanding
+          what is reality to individuals at all layers of the organization
+    - **seek first to understand** and then be understood
+        - focusing and listening and then thinking about the issue being presented
+          will **give you time to adjust your altitude to the right level**
+
+    - plan your message
+
+    - recognize that **context is key to movitating action**
+
+    - learn to see patterns in problems
+
+    - **view your role and tasks in the context** of a long value chain
+        - develop an approach that emphasizes constantly measuring your own performance against
+          how well you are meeting the needs of others that come after you in the organizational value chain
+
+- Adopting the Mindset of an Entrepreneurial Leader
+    -
 
 #### persuasion skills
 
