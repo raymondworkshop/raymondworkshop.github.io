@@ -31,6 +31,8 @@ date: 2012-03-19
 - [Mastery] by Robert Greene
 - [活出你的本來面目]
 - [戀愛使用說明書]
+- [HBR Guide to Bying a Small Business]
+- [Dealing with Difficult People]
 
 - [Purpose & Profit] by Dan Koe
 - **[沈思錄]**

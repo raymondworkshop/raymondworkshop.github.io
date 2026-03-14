@@ -280,7 +280,6 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
           how well you are meeting the needs of others that come after you in the organizational value chain
 
 - Adopting the Mindset of an Entrepreneurial Leader
-    -
 
 #### persuasion skills
 

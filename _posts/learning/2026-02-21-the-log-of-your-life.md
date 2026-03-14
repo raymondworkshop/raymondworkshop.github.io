@@ -9,6 +9,39 @@ abstract: "personal reflection journal"
 > taking the time to think through your goals, strengths, past feedback and insights from
 > self-assessments should allow you to identify several areas of focus for growth
 
+#### 2026-03-14
+
+- 过于同情穷人
+    - 自己的经历和家人的看法
+        - **合理化自己的处境**： **维持自己的自尊和心理平衡**
+    - **反感有钱人的态度**，或者讨厌**不舒服的赚钱方式**， 或者反感某些人用钱的行为
+
+- 价值与善恶全都看你怎么用钱
+    - 金钱是一种**帮助他人**，**实践公平正义的工具**，
+      是神圣而值得追求的
+
+    - **当金钱去实现爱，贡献与自我实现时**，
+      就会成为实践社会正义与情感连结的温暖工具
+
+    - **利己即利他**， 利他既利己
+        - **好的生活品质，是对自己负责，也是一种爱的展现**；
+          想要给自己或家庭更好的生活，绝对不是一件坏事
+        - 赚钱则是**提供他人愿意付费的服务与价值**；
+          花钱**不只让自己变得更好**，也是在支持他人的工作与生活
+
+- **不要嫉妒或厌恶那些过好日子的有钱人**
+    - 当你有条件可以付出，本身就是一种福气
+
+- 你想用钱交换什么
+    - 你看不见的选择权
+    - **钱是串起每个人价值的传导线**，
+      也是如何在这个社会中 “被需要”， “能帮助”的具象证明
+
+#### 2026-03-12
+
+- join the meetup - love & connection
+    - need to improve your english
+
 #### 2026-03-10
 
 - 生气， 被利用
