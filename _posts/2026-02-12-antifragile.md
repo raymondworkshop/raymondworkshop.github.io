@@ -22,7 +22,7 @@ The enlightenment placed the individual in a more important position; It liberat
 
 Like Britain during the industrial revolution, America's largest asset is that the ability to take risks and utilize alternatives. This is a remarkable capacity to engage in reasonable trial and error, not to feel ashamed of failure, but to start over. While east asian, on the contrary, views failure as shameful, contrast to their tradition of respecting defeated bushido.
 
-For the individual, how to gain (risk VS reward)?
+For the individual, how to gain?
 
 - TODO
 

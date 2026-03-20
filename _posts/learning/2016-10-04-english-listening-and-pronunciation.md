@@ -17,7 +17,21 @@ abstract: "English Listening and Pronunciation"
 #### shadow
 
 - [pronunciation](https://www.bbc.co.uk/learningenglish/english/features/themed_weeks_pronunciation/ep-201124)
-    - Schwa /ə/
+    - Schwa /ə/ - unstressed words like 'a' and 'an'
+    - Double contractions
+        - I would have -> I'd've
+        - could not have -> couldn't've
+        - woul**d y**ou -> /wʊ**dʒ**uː/
+        - told you -> /təʊl**dʒ**uː/
+    - Vowel to vowel linking
+        - /i:, ai, ei/ -> /j/
+            - th**e /j/ e**nd
+            - the w**ay /j/ I** go
+        - /əʊ u:/ -> /w/
+            - G**o /w/ o**ver
+            - sh**ow /w/ o**ff
+    - Assimilation of /n/ -> /m/ followed by /p/, /b/, /w/ or /m/ sound
+    - TODO
 - [Boxoffice Movie Scenes](https://www.youtube.com/@BoxofficeMoviesScenes)
 
 ##### tips

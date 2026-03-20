@@ -9,6 +9,12 @@ abstract: "personal reflection journal"
 > taking the time to think through your goals, strengths, past feedback and insights from
 > self-assessments should allow you to identify several areas of focus for growth
 
+#### 2026-03-18
+
+- 租房
+    - room & env
+    - **独居** VS 合租
+
 #### 2026-03-14
 
 - 过于同情穷人
