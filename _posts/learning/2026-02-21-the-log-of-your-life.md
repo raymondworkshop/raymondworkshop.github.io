@@ -9,6 +9,63 @@ abstract: "personal reflection journal"
 > taking the time to think through your goals, strengths, past feedback and insights from
 > self-assessments should allow you to identify several areas of focus for growth
 
+#### 2026-03-23
+
+- 沟通
+    - 动机 - 为什么
+        - **背后的那个动机 是否被理解被看见**
+        - **是否愿意敞开心房**
+        - **回应对方意见背后的动机**， 创造出第三种方案
+
+    - **弄懂情绪到底是什么**
+        - 写日记
+        - 发生的事情，触发了哪些情绪
+
+    - 观察对方的非语言 - 激动
+        - **情绪 与他们的理由**
+        - “请问刚刚发生什么事了， 有什么我没注意到的吗， 我有发现好像对你来说影响蛮大？”
+            - 让对方感到我正在聆听并且在理解
+            - “原来是这样”
+
+    - 通过通过， 我想让她知道我在乎什么， 我也可以更好知道她在乎什么
+        - “等下， 我们在生气”
+        - 时光机
+
+- Mature husband
+    - **leads with peace**, not ego
+    - owns his mistakes without excuses
+    - protects his wife's heart and the home they're building
+    - shows up emotionally, not just physically
+    - communicates like a grown man, not a boy in his feelings
+    - Listens to understand, not to argue
+
+- get rich
+    - get yourself in a situation with two things, **measurement** and **leverage**.
+    - you need to be in a position where **your performance can be measured**,
+      and **the decisions you make have a big effect**
+
+- 一些个人盲点
+    - **Dress Well**, and **Give off positive energy**
+        - have good posture, and let the other person talk about themselves
+
+    - **心存光明**， **理解黑暗**
+        - 把注意力放在自己身上， 好好爱自己
+        - 不必光芒万丈， 但**始终温暖有光， 允许一切发生**
+
+        - 真正的成熟， 是不再讨好和解释；
+          而是安静努力， 悄悄变强； **在自己的节奏里 清醒， 独立， 向上**， **活成 自己喜欢的样子**
+
+    - 没有 “融入主流社会” 这个被想象出来的伪命题
+        - 人只是活在 具体的社区 和 “圈子”
+    - **开放的心灵**， **互助的品行**
+
+- 整理及搬家
+    - 03/27
+
+#### 2026-03-26
+
+- 住灣仔
+
 #### 2026-03-18
 
 - 租房
