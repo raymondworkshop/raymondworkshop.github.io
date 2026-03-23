@@ -9,9 +9,9 @@ date: 2012-03-19
 
 - SKILLS
     - [Entrepreneurial Leadership Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home) (9/10)
-    - [The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)
-    - [Operations](https://learning.edx.org/course/course-v1:BabsonX+EPS03x+3T2018/home?audit_mode=)
+    - ~~[The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)~~
     - [Financial Accounting Made Fun](https://www.edx.org/learn/financial-accounting/babson-college-financial-accounting-made-fun-eliminating-your-fears)
+    - [Operations](https://learning.edx.org/course/course-v1:BabsonX+EPS03x+3T2018/home?audit_mode=)
 
     - [wiki on Startup](https://startupclass.samaltman.com/)
 
@@ -21,16 +21,17 @@ date: 2012-03-19
 - [When Love Meets Fear: Becoming Defense-less and Resource-full] by David Richo (8/10)
 - **[The psy of leadership]** by Sébastien Page (8/10)
 - [Awareness: The Key to Living in Balance] by Osho (7/10 note: ethical codes are useful for society, but not useful for individual)
-- **[Difficult Conversations: How to Discuss What Matters Most]** by Douglas Stone, Bruce Patton, Sheila Heen
+- **[Difficult Conversations: How to Discuss What Matters Most]** by Douglas Stone, Bruce Patton, Sheila Heen (8/10)
 - [Antifragile: Things That Gain From Disorder] by Nassim Nicholas Taleb (8/10)
 - [財富自由心理學](https://new-read.readmoo.com/mooreader/210449720000101) by 蔡宇哲, 郝旭烈 (8/10)
 - [做一個情緒自由的人](https://new-read.readmoo.com/mooreader/210269795000101) by 盧文建, 彭振桓 (6/10)
-- [成為自由人](https://new-read.readmoo.com/mooreader/210444939000101) by 李惠貞 （8/10）
+- [成為自由人](https://new-read.readmoo.com/mooreader/210444939000101) by 李惠貞 （9/10）
 - [活出你的本來面目] (8/10)
 - **[The Psychology of Money]** by Morgan Housel (9/10)
 - **[The four agreements - a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
 - [Mastery] by Robert Greene
 - [Don't Sweat the small stuff about money]
+- [Love Yourself Like Your Life Depends On It]
 - [Don't Sweat the small stuff about love]
 - [HBR Guide to Bying a Small Business]
 - [讓愛自己變成好習慣]

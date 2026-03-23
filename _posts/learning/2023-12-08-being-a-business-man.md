@@ -58,6 +58,14 @@ abstract: "About a business man"
 
 - growth mindset and optimism
 
+#### The Entrepreneurial Mindset
+
+- Entrepreneurial mind
+    - seeing the world as a set of opportunities, not obstacles
+    - seeing problems to be solved, not barriers that limit
+    - being driven to create value for a broad set of stakeholders
+      and lifting the human condition
+
 #### how a business really works like an airplane
 
 - the body: overhead - **the cost of doing business that is not related to product, marketing, or sales**

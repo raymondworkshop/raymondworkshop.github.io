@@ -30,8 +30,15 @@ abstract: "English Listening and Pronunciation"
         - /əʊ u:/ -> /w/
             - G**o /w/ o**ver
             - sh**ow /w/ o**ff
+
+    - He does**n kn**ow /dʌznəʊ/
+        - He does**n('t) kn**ow /d**ə**znəʊ/
+
+    - The 'dark L'
+        - TODO
     - Assimilation of /n/ -> /m/ followed by /p/, /b/, /w/ or /m/ sound
     - TODO
+
 - [Boxoffice Movie Scenes](https://www.youtube.com/@BoxofficeMoviesScenes)
 
 ##### tips
