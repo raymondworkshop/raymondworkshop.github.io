@@ -30,7 +30,7 @@ date: 2012-03-19
 - **[The Psychology of Money]** by Morgan Housel (9/10)
 - **[The four agreements - a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
 - [Mastery] by Robert Greene
-- [Don't Sweat the small stuff about money]
+- **[Don't Sweat the small stuff about money]**
 - [Love Yourself Like Your Life Depends On It]
 - [Don't Sweat the small stuff about love]
 - [HBR Guide to Bying a Small Business]
