@@ -84,6 +84,14 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
 - reference
     - [HBR Guide to Being a Great Boss]
 
+#### [Leadership](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2025/home?audit_mode=)
+
+##### W1
+
+- in leadership the capacity to move from action to reflection back to actioon
+
+- we only need leadership when we face challenges
+
 #### [Entrepreneurial Leadership](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)
 
 ##### W1

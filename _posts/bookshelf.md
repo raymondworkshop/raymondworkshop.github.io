@@ -5,16 +5,6 @@ date: 2012-03-19
 
 ### log of trainings & books and my ratings
 
-#### training-2026
-
-- SKILLS
-    - [Entrepreneurial Leadership Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home) (9/10)
-    - ~~[The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)~~
-    - [Financial Accounting Made Fun](https://www.edx.org/learn/financial-accounting/babson-college-financial-accounting-made-fun-eliminating-your-fears)
-    - [Operations](https://learning.edx.org/course/course-v1:BabsonX+EPS03x+3T2018/home?audit_mode=)
-
-    - [wiki on Startup](https://startupclass.samaltman.com/)
-
 #### reading-2026
 
 - [How to Live an Extraordinary Life] by Anthony Pompliano (8/10)
@@ -31,6 +21,7 @@ date: 2012-03-19
 - **[The four agreements - a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
 - [Mastery] by Robert Greene
 - **[Don't Sweat the small stuff about money]**
+- **[personal development for smart people]** by Steve Pavlina
 - [Love Yourself Like Your Life Depends On It]
 - [Don't Sweat the small stuff about love]
 - [HBR Guide to Bying a Small Business]
@@ -74,6 +65,17 @@ date: 2012-03-19
 - [Culture Design: How to Build a High-Performing, Resilient Organization with Purpose] by James D. White, Krista White
 - [Helping: How to Offer, Give, and Receive Help](https://www.amazon.com/Helping-Offer-Give-Receive-Help/dp/157675863X) by Edgar
 - [與神對話]
+
+#### training-2026
+
+- SKILLS
+    - [Entrepreneurial Leadership Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home) (9/10)
+    - ~~[The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)~~
+    - [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2025/home)
+    - [Financial Accounting](https://www.edx.org/learn/financial-accounting/babson-college-financial-accounting-made-fun-eliminating-your-fears)
+    - ~~[Operations](https://learning.edx.org/course/course-v1:BabsonX+EPS03x+3T2018/home?audit_mode=)~~
+
+    - [wiki on Startup](https://startupclass.samaltman.com/)
 
 #### reading-2025
 
