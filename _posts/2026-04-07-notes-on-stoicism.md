@@ -23,6 +23,12 @@ abstract: "Notes on Stoicism"
 *  消極想像 **教導我們享受已擁有的東西**， **又不依附它們**   
     - 消極想像教導我們**擁抱自己恰巧擁有的人生**，**並從中汲取每一分欣喜**；
     然而，消極想像同時教導我們，對於奪走令我們快樂的事物的變化，**也要有心理準備**    
+    - **learn the magic of nonattachment**  
+        - **trying hard, really caring**, but at the same time **being completely willing to let go of the outcome**  
+        - **even if things don’t work out the way you hope they will, everything will be all right**. 
+        You’ll be okay. You’ll learn from the experience. You’ll do better next time.
+        - "I'll do everything possible, I'll work hard and concentrate.
+    I'll do my best to succeed. But, if I don't, that's okay, too"
 
 
 * **欣賞這一天活著的精彩**， 並讓我們有機會用行動來填滿這一天  
@@ -37,3 +43,4 @@ TODO
 #### reference
 * [Meditations] by Marcus Aurelius  
 * [善用悲觀的力量]  
+* [Don't Sweat the Small Stuff about Money] 
