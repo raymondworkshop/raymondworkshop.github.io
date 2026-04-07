@@ -9,6 +9,19 @@ abstract: "personal reflection journal"
 > taking the time to think through your goals, strengths, past feedback and insights from
 > self-assessments should allow you to identify several areas of focus for growth
 
+#### 2026-04-07  
+-  主動去跟那些對你來說 **最重要的事物 建立 聯結**    
+    
+- 讓**內心幫你找到**正確的選項  
+    - 一些事情想起來就充滿熱情；
+    一些事情多麼地讓你空虛  
+
+- 聽到家姐的哭聲，都有些心碎  
+    - 家姐不容易  
+    - 我要担负起更多责任  
+
+- 这几天 一直在弄 openclaw  
+
 #### 2026-03-30  
 
 - reflect on last week
@@ -51,8 +64,11 @@ abstract: "personal reflection journal"
               我需要一点时间消化一下，晚点我们再讨论细节可以吗？”
 
 - this week
-    - 开始赚钱
-        - 找工作？
+    - 赚钱
+        - 找工作？ 
+        - 做生意？  
+
+    - 追女仔  
 
 #### 2026-03-23
 
