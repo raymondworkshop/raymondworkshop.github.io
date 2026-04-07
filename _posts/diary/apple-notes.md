@@ -1,3 +1,13 @@
+---
+layout: post
+title: "apple notes"
+date: 2026-04-07
+comments: true
+categories: [diary, important]
+abstract: "apple notes"
+---
+
+
 # Complete Apple Notes Content
 
 **Total Files Processed:** 401
