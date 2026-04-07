@@ -7,6 +7,8 @@ categories: [learning, self, important]
 abstract: "Notes on Stoicism"
 ---
 
+#### Stoicism  
+
 #### ch2 - 斯多葛主義是治癒負面情緒的良方  
 * 運用斯多葛主義的技巧， 我們可以治癒這些負面情緒： 焦慮，悲傷，恐懼等，
 並因此獲得心靈的平靜  
@@ -33,4 +35,5 @@ TODO
 
 
 #### reference
+* [Meditations] by Marcus Aurelius  
 * [善用悲觀的力量]  
