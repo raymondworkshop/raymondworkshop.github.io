@@ -22,6 +22,10 @@ date: 2012-03-19
 - [Mastery] by Robert Greene
 - **[Don't Sweat the small stuff about money]**
 - **[personal development for smart people]** by Steve Pavlina
+- **[善用悲觀的力量]** by William B. Irvine
+- [沈思錄]
+- [The Daily Stoic] by Ryan Holiday  
+
 - [Love Yourself Like Your Life Depends On It]
 - [Don't Sweat the small stuff about love]
 - [HBR Guide to Bying a Small Business]
@@ -31,8 +35,6 @@ date: 2012-03-19
 - [Dealing with Difficult People]
 - [HBR Guide to Making Better Decisions]
 - [Purpose & Profit] by Dan Koe
-- **[沈思錄]**
-- [善用悲觀的力量]
 - [拆掉思維裡的牆] by 古典
 - [Designing Your Life: How to Build a Well-Lived, Joyful Life] by Burnett, Bill/ Evans, Dave
 
@@ -71,10 +73,10 @@ date: 2012-03-19
 - SKILLS
     - [Entrepreneurial Leadership Toolbox](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home) (9/10)
     - ~~[The Entrepreneurial Mindset](https://learning.edx.org/course/course-v1:BabsonX+BPET.ETAx+2T2018/home)~~
-    - [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2025/home)
+
     - [Financial Accounting](https://www.edx.org/learn/financial-accounting/babson-college-financial-accounting-made-fun-eliminating-your-fears)
     - ~~[Operations](https://learning.edx.org/course/course-v1:BabsonX+EPS03x+3T2018/home?audit_mode=)~~
-
+    - [Exercising Leadership: Foundational Principles](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2025/home)
     - [wiki on Startup](https://startupclass.samaltman.com/)
 
 #### reading-2025

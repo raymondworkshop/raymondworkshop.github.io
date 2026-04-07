@@ -11,7 +11,7 @@ abstract: "notes on Think and Grow Rich, Rich Dad Poor Dad"
 
 #### ch1 - Success Consciousness
 
-- turn the word 'impossible' out
+- turn the word 'impossible' out  
 
 - maintain a spirit of open-mindedness
     - another weakness is "measure everything, and everyone, by their own impressions and beliefs"
@@ -24,7 +24,7 @@ abstract: "notes on Think and Grow Rich, Rich Dad Poor Dad"
 
 #### ch2 - **Burning Desire** - **the Starting point** of all achievement
 
-- Burning Desire to WIN
+- Burning Desire to WIN  
     - **choose a definite goal**
     - **create a plan** by which to attain that purpose
     - place all his energy, all his will power and effort with that goal
@@ -43,15 +43,15 @@ abstract: "notes on Think and Grow Rich, Rich Dad Poor Dad"
 
 - note:
     - **Love and faith** are psychic; related to the spiritual side of man
-    - Sex is purely biological, related only to the physical
+        - Sex is purely biological, related only to the physical
 
     - the methods based on economic combinations of FORCE and FEAR,
       will be supplanted by the better principles fo **FAITH and cooperation**
-        - giving before they try to get
+        - giving before they try to get  
 
     - **Thought** in the mind is put into motion, **FAITH** removes limitations
 
-- **How to develop faith**
+- **How to develop faith**  
     - **self-suggestion**
         - **you believe you will receive that for which you ask**, and it will act upon that belief
 

@@ -16,6 +16,18 @@ abstract: "Build professional  my career and my work"
     - personal AI
         - 把每日的想法记录下来
 
+- Tools
+    - Tailscale
+        - vnc://100.90.225.26
+    
+    - WireGuard VPN很適合小規模自行搭建翻牆主機
+
+    - Tauri
+
+    - Ollama + Qwen3.5 9B + OMLX + OpenCat
+
+
+
 #### Great ideas
 
 - notes
