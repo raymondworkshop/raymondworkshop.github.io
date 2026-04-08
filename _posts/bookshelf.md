@@ -16,8 +16,8 @@ date: 2012-03-19
 - [財富自由心理學](https://new-read.readmoo.com/mooreader/210449720000101) by 蔡宇哲, 郝旭烈 (8/10)
 - [做一個情緒自由的人](https://new-read.readmoo.com/mooreader/210269795000101) by 盧文建, 彭振桓 (6/10)
 - [成為自由人](https://new-read.readmoo.com/mooreader/210444939000101) by 李惠貞 （9/10）
-- [活出你的本來面目] (8/10)
-- **[The Psychology of Money]** by Morgan Housel (9/10)
+- [活出你的本來面目] (8/10)  
+- **[The Psychology of Money]** by Morgan Housel (9/10)  
 - **[The four agreements - a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
 - [Mastery] by Robert Greene
 - **[Don't Sweat the small stuff about money]**
@@ -25,6 +25,8 @@ date: 2012-03-19
 - **[善用悲觀的力量]** by William B. Irvine
 - [沈思錄]
 - [The Daily Stoic] by Ryan Holiday  
+
+- [The Alchemist] by Paulo Coelho   
 
 - [Love Yourself Like Your Life Depends On It]
 - [Don't Sweat the small stuff about love]
