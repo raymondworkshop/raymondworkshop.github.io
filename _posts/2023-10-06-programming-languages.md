@@ -8,9 +8,6 @@ categories: [home, programming]
 abstract: "[Updating] Notes on programing languages"
 ---
 
-#### Ruby is the new world, Python is boring.
-
-TODO
 
 #### Interpreter with Python
 
