@@ -26,6 +26,7 @@ date: 2012-03-19
 - [沈思錄] (9/10) 
 - [The Daily Stoic] by Ryan Holiday  
 
+- [Fluent Python]
 - [The Product-Minded Engineer] by Drew Hoskins  
 - [The Alchemist] by Paulo Coelho   
 
@@ -60,11 +61,10 @@ date: 2012-03-19
 - [The Surrender Experiment] by Michael A. Singer
 - [Don't sweat the small stuff in love]
 - [EMOTIONS: Freedom from Anger, Jealousy & Fear] by Osho
-- [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living] by Ryan Holiday
 
 - [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
-- **[The Diary of a CEO]** by Steven Bartlett (9/10)
-- **[The Almanack of Naval Ravikant]** by Eric Jorgenson
+- [The Diary of a CEO] by Steven Bartlett (9/10)
+- **[The Almanack of Naval Ravikant]** by Eric Jorgenson (9/10)  
 
 - [To Have or to Be_The Nature of the Psyche] by Erich Fromm
 - [Culture Design: How to Build a High-Performing, Resilient Organization with Purpose] by James D. White, Krista White

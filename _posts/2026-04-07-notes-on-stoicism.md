@@ -11,8 +11,8 @@ abstract: "Notes on Stoicism"
 Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium around 300 BCE, helping us better deal with life’s inevitable ups and downs so that we can live a happier and more peaceful life. 
 
 #### ch2 - 斯多葛主義是鍛鍊（主觀判斷的）情緒韌性的良方  
-* 斯多葛主義強調實際效能、心理韌性和情緒自我調節； 教導我們透過自我控制，以及對人性的理解， 分辨調節這些（主觀判斷的）負面情緒（例如 焦慮，悲傷，恐懼等）的影響，並因此獲得心靈的平靜。
-    - 斯多葛並非鼓勵壓抑情感或被動忍受，而是追求調節情緒、改善行動。
+* 斯多葛主義強調實際效能、心理韌性和情緒自我調節； 教導我們透過自我控制，以及對人性的理解， 分辨調節這些（主觀判斷的）負面情緒（例如 焦慮，悲傷，恐懼等）的影響，並因此獲得心靈的平靜。  
+    - 斯多葛並非鼓勵壓抑情感或被動忍受，而是追求調節情緒、改善行動。  
 
 ##### ch2-1  
 
@@ -36,7 +36,8 @@ Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium aro
     - 改變我們行動時的心智狀態  
 
 ##### ch2-2  区分能控制与不能控制  
-* 面对日常事务时， 执行某种分类法， 把人生的元素分成三个范畴    
+* 面对日常事务时， 执行某种分类法， 把人生的元素分成三个范畴   
+    - Spent on the things we can change   
 
 * 专注自己完全能够控制的事物 
     - 我们能够完全控制我们自己设定的目标， 以及我们的价值观  
@@ -50,12 +51,20 @@ Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium aro
 
 * 自己一点也不能控制的事物 放置一旁， 不值得担心    
 
-##### ch2-3 - 活在当下  
-TODO
+##### ch2-3 - 活在當下    
+* 建議我們 針對 過去和現在 採用宿命論  
+    - 過去是不能改變的  
+    - 也勸告我們在人生中要追尋什麼  
+
+##### ch2-4   
+##### ch2-5 
+
+#### ch3 - 生命處方  
 
 
 
-#### reference
+#### reference 
 * [Meditations] by Marcus Aurelius  
+* [The Daily Stoic] 
 * [善用悲觀的力量]  
 * [Don't Sweat the Small Stuff about Money]
