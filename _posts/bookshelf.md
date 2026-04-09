@@ -9,7 +9,7 @@ date: 2012-03-19
 
 - [How to Live an Extraordinary Life] by Anthony Pompliano (8/10)
 - [When Love Meets Fear: Becoming Defense-less and Resource-full] by David Richo (8/10)
-- **[The psy of leadership]** by Sébastien Page (8/10)
+- **[The psy of leadership]** by Sébastien Page (9/10)
 - [Awareness: The Key to Living in Balance] by Osho (7/10 note: ethical codes are useful for society, but not useful for individual)
 - **[Difficult Conversations: How to Discuss What Matters Most]** by Douglas Stone, Bruce Patton, Sheila Heen (8/10)
 - [Antifragile: Things That Gain From Disorder] by Nassim Nicholas Taleb (8/10)
@@ -18,14 +18,15 @@ date: 2012-03-19
 - [成為自由人](https://new-read.readmoo.com/mooreader/210444939000101) by 李惠貞 （9/10）
 - [活出你的本來面目] (8/10)  
 - **[The Psychology of Money]** by Morgan Housel (9/10)  
-- **[The four agreements - a Practical Guide to Personal Freedom]** by Don Miguel Ruiz
+- **[The four agreements - a Practical Guide to Personal Freedom]** by Don Miguel Ruiz (8/10)
 - [Mastery] by Robert Greene
-- **[Don't Sweat the small stuff about money]**
-- **[personal development for smart people]** by Steve Pavlina
-- **[善用悲觀的力量]** by William B. Irvine
-- [沈思錄]
+- **[Don't Sweat the small stuff about money]** (9/10) 
+- **[personal development for smart people]** by Steve Pavlina (8/10) 
+- **[善用悲觀的力量]** by William B. Irvine (9/10) 
+- [沈思錄] (9/10) 
 - [The Daily Stoic] by Ryan Holiday  
 
+- [The Product-Minded Engineer] by Drew Hoskins  
 - [The Alchemist] by Paulo Coelho   
 
 - [Love Yourself Like Your Life Depends On It]

@@ -10,9 +10,9 @@ abstract: "Notes on Stoicism"
 #### Stoicism  
 Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium around 300 BCE, helping us better deal with life’s inevitable ups and downs so that we can live a happier and more peaceful life. 
 
-#### ch2 - 斯多葛主義是治癒負面情緒的良方  
-* 運用斯多葛主義的技巧， 我們可以治癒這些負面情緒： 焦慮，悲傷，恐懼等，
-並因此獲得心靈的平靜  
+#### ch2 - 斯多葛主義是鍛鍊（主觀判斷的）情緒韌性的良方  
+* 斯多葛主義強調實際效能、心理韌性和情緒自我調節； 教導我們透過自我控制，以及對人性的理解， 分辨這些（主觀判斷的）負面情緒（例如 焦慮，悲傷，恐懼等）的影響，並因此獲得心靈的平靜。
+    - 斯多葛並非鼓勵壓抑情感或被動忍受，而是追求調節情緒、改善行動。
 
 ##### ch2-1  
 
