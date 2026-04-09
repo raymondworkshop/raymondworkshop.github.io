@@ -8,7 +8,7 @@ abstract: "Notes on Stoicism"
 ---
 
 #### Stoicism  
-Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium around 300 BCE, focusing on resilience, personal virtue, and wisdom as the keys to a good life. 
+Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium around 300 BCE, helping us better deal with life’s inevitable ups and downs so that we can live a happier and more peaceful life. 
 
 #### ch2 - 斯多葛主義是治癒負面情緒的良方  
 * 運用斯多葛主義的技巧， 我們可以治癒這些負面情緒： 焦慮，悲傷，恐懼等，

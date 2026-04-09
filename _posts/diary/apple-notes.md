@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Apple Notes"
+title: "apple notes"
 date: 2026-04-07
 comments: true
-categories: [diary, self, important]
-abstract: "Apple Notes"
+categories: [diary, important]
+abstract: "apple notes"
 ---
-
 
 ## Table of Contents
 
@@ -66,7 +65,6 @@ abstract: "Apple Notes"
 ### 📄 File 1/45: HSMC
 
 
-
 ### 📄 File 2/45: business  important  insight  self
 
 ----------------------------------------
@@ -122,7 +120,6 @@ abstract: "Apple Notes"
 ---
 
 ### 📄 File 5/45: business career
-
 
 
 ### 📄 File 6/45: business china
@@ -336,7 +333,6 @@ abstract: "Apple Notes"
 ---
 
 ### 📄 File 12/45: career  softskills
-
 
 
 ### 📄 File 13/45: career  todo
@@ -615,7 +611,6 @@ Nothing personal，你就无往不在荒谬之中。
 ### 📄 File 22/45: idea business
 
 
-
 ### 📄 File 23/45: ideas startup
 
 ----------------------------------------
@@ -761,7 +756,6 @@ Critical thinking is 审辩式思考， 主要目的在于尽可能求得最理�
 ### 📄 File 33/45: self  career
 
 
-
 ### 📄 File 34/45: self business
 
 ----------------------------------------
@@ -829,7 +823,6 @@ Candidates with less experience will be considered for the post of Assistant Tec
 ---
 
 ### 📄 File 40/45: 产品经理
-
 
 
 ### 📄 File 41/45: 向上管理
@@ -1140,7 +1133,6 @@ Candidates with less experience will be considered for the post of Assistant Tec
 ---
 
 ### 📄 File 14/36: insight hk
-
 
 
 ### 📄 File 15/36: politics  china
@@ -1674,7 +1666,6 @@ manage project/people
 ### 📄 File 13/20: 幸福的生活 - 爱，学习， 服务以及创造
 
 
-
 ### 📄 File 14/20: 必须要理解你的生活，你要尽可能把人生的每一天都过的有意义，要过一种乐观开朗的生活。 因为生命的乐趣在于不断地完成的自己梦想，梦想在…
 
 ----------------------------------------
@@ -1733,7 +1724,6 @@ manage project/people
 ### 📄 File 1/30: Advanced Training Pre-Training Homework
 
 
-
 ### 📄 File 2/30: MBA todo
 
 ----------------------------------------
@@ -1784,7 +1774,6 @@ It's much harder to articulate your thoughts clearly and intuitively. For that, 
 ---
 
 ### 📄 File 7/30: education  self
-
 
 
 ### 📄 File 8/30: education important  self
@@ -1872,7 +1861,6 @@ follow your heart, follow your passion, follow your interests
 ---
 
 ### 📄 File 11/30: hk-education
-
 
 
 ### 📄 File 12/30: insight  education
@@ -1964,7 +1952,6 @@ I'm still trying, I think every day is a battle, life is a battle
 ---
 
 ### 📄 File 15/30: insight learning
-
 
 
 ### 📄 File 16/30: learning  love
@@ -2078,7 +2065,6 @@ I'm still trying, I think every day is a battle, life is a battle
 ---
 
 ### 📄 File 18/30: learning friendships
-
 
 
 ### 📄 File 19/30: learning insight
@@ -2752,7 +2738,6 @@ You need to be in a position where your performance can be measured…
 ### 📄 File 6/8: 共享整体目标
 
 
-
 ### 📄 File 7/8: 富爸爸，穷爸爸
 
 ----------------------------------------
@@ -2795,11 +2780,9 @@ Partner 组织活动
 ### 📄 File 1/3: health
 
 
-
 ### 📄 File 2/3: 此正适合中国人根深蒂固的“英雄崇拜”和“华夏中心”的心理
 
 ----------------------------------------
-
 
 
 因为中国人只崇拜强者，胜者，王者
@@ -2821,7 +2804,6 @@ Partner 组织活动
 ---
 
 ### 📄 File 1/23: insight  life
-
 
 
 ### 📄 File 2/23: insight  people
@@ -3021,7 +3003,6 @@ Enjoy every moment - 让我们去感受它的每一分钟
 ### 📄 File 15/23: work insight
 
 
-
 ### 📄 File 16/23: 可以以你对现实世界的深刻体验为素材，重新思考心灵是怎么回事。这时，你的思考素材，就是真实不虚的，这时的思考也更有穿透力，甚至可以说…
 
 ----------------------------------------
@@ -3059,7 +3040,6 @@ Enjoy every moment - 让我们去感受它的每一分钟
 抱住人好钱多人脉广老爷爷，winner最佳选择
 
 
-
 不要让人觉得pushy就好
 
 还有不要总把自己的想法强加到别人身上
@@ -3072,7 +3052,6 @@ Enjoy every moment - 让我们去感受它的每一分钟
 ----------------------------------------
 
 正直，诚信，智慧，幽默
-
 
 
 最重要的是做好自己
@@ -3331,7 +3310,6 @@ Enjoy every moment - 让我们去感受它的每一分钟
 
 
 
-
 ## Love & Relationships
 
 **Total Files in Category:** 32
@@ -3434,7 +3412,6 @@ Women need men to show kindness, patience, understanding, empathy, and compassio
 ---
 
 ### 📄 File 8/32: love  lesson
-
 
 
 ### 📄 File 9/32: love  self
@@ -3728,7 +3705,6 @@ follow those who add value, delete from one who don’t
 ### 📄 File 19/32: relationships
 
 
-
 ### 📄 File 20/32: self  relationship
 
 ----------------------------------------
@@ -3764,7 +3740,6 @@ continue the journey through the inevitable ups and downs
 ---
 
 ### 📄 File 21/32: self  relationships
-
 
 
 ### 📄 File 22/32: softskills  love
@@ -3940,7 +3915,6 @@ intent - the way you say it , and the intent behind it
 ### 📄 File 28/32: 对家人要好些
 
 
-
 ### 📄 File 29/32: 恋爱：
 
 ----------------------------------------
@@ -4008,7 +3982,6 @@ intent - the way you say it , and the intent behind it
 ---
 
 ### 📄 File 1/85: Always search for an improved version
-
 
 
 ### 📄 File 2/85: Billy from UK, is very polite and honest.
@@ -4198,7 +4171,6 @@ keep healthy; The first one it that you should keep the sleeping on time
 ---
 
 ### 📄 File 20/85: energy
-
 
 
 ### 📄 File 21/85: engineering
@@ -4574,7 +4546,6 @@ You’ve realised that you are not responsible for anyone’s happiness but your
 ### 📄 File 33/85: improvement
 
 
-
 ### 📄 File 34/85: interview work
 
 ----------------------------------------
@@ -4600,7 +4571,6 @@ enhance the effectiveness of commercial insurance risk control system
 ---
 
 ### 📄 File 35/85: interview
-
 
 
 ### 📄 File 36/85: investment
@@ -4673,7 +4643,6 @@ with adaptive problems, the people themselves are part of the problem
 ---
 
 ### 📄 File 42/85: management
-
 
 
 ### 📄 File 43/85: market
@@ -4785,7 +4754,6 @@ your soulmate will recognize you, befriend you, love you, support you, heal with
 ### 📄 File 53/85: observe
 
 
-
 ### 📄 File 54/85: obsver
 
 ----------------------------------------
@@ -4843,7 +4811,6 @@ I work out (I'm a Peloton fanatic—cycling, treadmill, strength, yoga, all of i
 ### 📄 File 59/85: product
 
 
-
 ### 📄 File 60/85: programming
 
 ----------------------------------------
@@ -4879,7 +4846,6 @@ an actual gift, a generous act, a kind favor, an “honest” admission
 ---
 
 ### 📄 File 62/85: reading
-
 
 
 ### 📄 File 63/85: review
@@ -4993,7 +4959,6 @@ about the flower than he sees. I could imagine the cells in there, the complicat
 ---
 
 ### 📄 File 65/85: sharing
-
 
 
 ### 📄 File 66/85: stock investment
@@ -5265,7 +5230,6 @@ you don’t sit around dreaming about what you want to accomplish in life, you j
 ### 📄 File 79/85: 张振华
 
 
-
 ### 📄 File 80/85: 拿不定主意的事情也尽量去征求他的意见，反正每天都有meeting
 
 ----------------------------------------
@@ -5396,7 +5360,6 @@ approval, attention, validation, fitting-in and being liked
 
 
 
-
 ## Self-Development & Personal Growth
 
 **Total Files in Category:** 36
@@ -5429,7 +5392,6 @@ strikes you as unreasonable or gratuitous, trust your instincts.
 ---
 
 ### 📄 File 3/36: insight  important  self
-
 
 
 ### 📄 File 4/36: insight  important self
@@ -5753,7 +5715,6 @@ think about your pleasure, your emotions/feeling, personal qualities
 ---
 
 ### 📄 File 19/36: self  todo
-
 
 
 ### 📄 File 20/36: self  work
@@ -6100,7 +6061,6 @@ pragmatic, better outcomes resulting from better decisions
 ### 📄 File 5/30: insight  softskills
 
 
-
 ### 📄 File 6/30: insight skills
 
 ----------------------------------------
@@ -6110,7 +6070,6 @@ The key to listening well is to experience the world through the eyes of someone
 ---
 
 ### 📄 File 7/30: insight softskills
-
 
 
 ### 📄 File 8/30: life skills
@@ -6134,7 +6093,6 @@ Don't fight to win all the battles, you just need win the war
 ---
 
 ### 📄 File 9/30: skills
-
 
 
 ### 📄 File 10/30: social-skills
@@ -6349,7 +6307,6 @@ for the betterment of the person receiving it and the overall success of your co
 ### 📄 File 16/30: softskills
 
 
-
 ### 📄 File 17/30: the clues in the submitter’s style and communications behaviour instead…
 
 ----------------------------------------
@@ -6507,7 +6464,6 @@ communicate better, both in writing and in person - 表达自己
 ### 📄 File 29/30: 社交能力和表達能力
 
 
-
 ### 📄 File 30/30: 要能負責、要有熱情、要能合作、要有觀點、要有胸襟
 
 ----------------------------------------
@@ -6568,7 +6524,6 @@ Seeking the burden of decision and seeking relief from decision is the core diff
 ### 📄 File 5/12: todo
 
 
-
 ### 📄 File 6/12: 今天去了BBQ, 需要提高的地方
 
 ----------------------------------------
@@ -6606,7 +6561,6 @@ Seeking the burden of decision and seeking relief from decision is the core diff
 ### 📄 File 11/12: 从今天起不要欺骗别人自己的经历，比较能骗的都是自己认识的人，自己也不觉得有什么被重视
 
 ----------------------------------------
-
 
 
 从今天起不要欺骗别人自己的经历，比较能骗的都是自己认识的人，自己也不觉得有什么被重视
@@ -6901,5 +6855,4 @@ set goals for your chatbot - what your chatbot would do
 | Location & Address | 3 | 1 | 0 |
 | Miscellaneous | 3 | 0 | 0 |
 | Projects & Events | 2 | 1 | 0 |
-
 
