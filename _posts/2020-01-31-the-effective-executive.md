@@ -7,9 +7,14 @@ categories: [home, softskills, important]
 abstract: "About how to get the right things done"
 ---
 
-#### Using Coaching
+#### Coaching
 
 -   Coaching is about connecting with people, inspiring them to do their best, and helping them to grow
+
+- TODO  
+
+####  Leadership
+
 
 #### Peter F. Drucker guides on how to be **executive self-management**, so that we could "**get the right things done**"
 

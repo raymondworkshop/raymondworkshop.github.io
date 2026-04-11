@@ -7,7 +7,7 @@ categories: [softskills, coach, self, learning, leadership, important]
 abstract: "On Leadership, Management, Teamwork, and Negotiation"
 ---
 
-#### HBR Guide to Being a Great Boss
+### HBR Guide to Being a Great Boss
 
 - TODO
     - deal with difficult people
@@ -84,17 +84,23 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
 - reference
     - [HBR Guide to Being a Great Boss]
 
-#### [Leadership](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2025/home?audit_mode=)
 
-##### W1
+### The Psychology of Leaderhip  
+
+#### Beware of the side effects of measurable goals  
+- TODO
+
+### [Leadership](https://learning.edx.org/course/course-v1:HarvardX+LEAD1x+2T2025/home?audit_mode=)
+
+#### W1
 
 - in leadership the capacity to move from action to reflection back to actioon
 
 - we only need leadership when we face challenges
 
-#### [Entrepreneurial Leadership](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)
+### [Entrepreneurial Leadership](https://learning.edx.org/course/course-v1:BabsonX+EPS02x+2T2018a/home)
 
-##### W1
+#### W1
 
 - Entrepreneurial leader
     - develop a learning mentality
@@ -166,7 +172,7 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
 
 - Vison as a GPS for your team
 
-##### W2 - Knowing Yourself as an Entrepreneurial Leader
+#### W2 - Knowing Yourself as an Entrepreneurial Leader
 
 - Authentic Leadership
     - knowing **your strengths** and **limits**
@@ -194,7 +200,7 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
     - Set objective criteria
         - double **check your objectivity by sharing the why** behind your decision
 
-##### W3 - Motivating and Engaging Others
+#### W3 - Motivating and Engaging Others
 
 - **What motivates people**
     - Pshsilogical needs
@@ -261,7 +267,7 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
 
 - Developing your network
 
-##### W4 - Using entrepreneurial leadership to drive innovation
+#### W4 - Using entrepreneurial leadership to drive innovation
 
 - Value differences to spark innovation
     - Edward de Bono's Six Thinking Hats
@@ -289,7 +295,7 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
 
 - Adopting the Mindset of an Entrepreneurial Leader
 
-#### persuasion skills
+### persuasion skills
 
 - TODO
 
@@ -303,7 +309,7 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
     - [Rhetoric: The Art of Persuasive Writing and Public Speaking](https://learning.edx.org/course/course-v1:HarvardX+AESTHINT15+1T2022/home)
     - [cuhk toastmaster](http://www.cuhk.edu.hk/ccc/toastmasters/)
 
-#### soft skills
+### soft skills
 
 - notes
     - **尊重，平等，顺从**（配合自己的上司把事情做好）
@@ -334,7 +340,7 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
     - **understand**, don't memorize
     - **learn principles**, not formulas
 
-#### Leadership
+### Leadership
 
 - 分享利益, 独立决定
     - 负责人 **先征求上下左右**一些人(相关人)的意见, **拿出一个方案**
@@ -534,13 +540,13 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
 - reference
     - [High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration/lecture/wwgwx/introduction-to-course-1-with-dean-blount)
 
-#### Negotiation skills
+### Negotiation skills
 
 - Preparation and Leverage
     - Develop your BATNA - Best Alternative to a Negotiated Agreement
         - The stronger your BATNA, the more leverage you have in the negotiation
         - **Always improve your BATNA** <- proactive, feed it, grow it
-        - Never reveal your BATNA to the counter-party, otherwise you lose your leverage
+        - **Never reveal your BATNA to the counter-party**, otherwise you lose your leverage
         - **Signal** to the other party that you have **attractive options**
         - Once you determine your BATNA, then devise your reservation price (a reservation price represents the exact monetary equivalent of your BATNA)
             - bottom line
