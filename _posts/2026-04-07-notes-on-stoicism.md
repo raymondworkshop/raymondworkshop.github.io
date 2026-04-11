@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes on Stoicism"
+title: "Notes on Stoic"
 date: 2026-04-07
 comments: true
 categories: [learning, self, important]
@@ -10,7 +10,7 @@ abstract: "Notes on Stoicism"
 #### Stoicism  
 Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium around 300 BCE, helping us better deal with life’s inevitable ups and downs so that we can live a happier and more peaceful life. 
 
-#### ch2 - 斯多葛主義是鍛鍊（主觀判斷的）情緒韌性的良方  
+#### ch2 - 斯多葛主義是鍛鍊（主觀认知的）情緒韌性的良方  
 * 斯多葛主義強調實際效能、心理韌性和情緒自我調節  
 
 
@@ -48,13 +48,11 @@ Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium aro
     - **仔细为自己设定内在而非外在的目标**， 从而避开 许多挫折和失望  
         - **目标内在化**： 尽最大努力做好，竭尽所能的发挥实力
 
-
 * 自己一点也不能控制的事物 放置一旁， 不值得担心    
 
 ##### ch2-3 - 活在當下    
-* 建議我們 針對 過去和現在 採用宿命論  
-    - 過去是不能改變的  
-    - 也勸告我們在人生中要追尋什麼  
+* 過去是不能改變的    
+    - 也勸告我們在人生中要追尋什麼   
 
 ##### ch2-4   
 ##### ch2-5 
