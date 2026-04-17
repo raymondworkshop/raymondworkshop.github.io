@@ -9,6 +9,84 @@ abstract: "personal reflection journal"
 > taking the time to think through your goals, strengths, past feedback and insights from
 > self-assessments should allow you to identify several areas of focus for growth
 
+#### 2026-04-14  
+* Positioning is everything  
+    - **Learn to sell your ideas**. **Practice persuasion**. **Ruthlessly position yourself**.  
+    - Combine this with merit, and you'll make it further than your competition  
+    - Your efficientcy, productivity, or intelligence will never matter if it's not visible.
+    
+    - the biggest mistake is treaing positioning and merit as a zero-sum game  
+        - If you're a high-income professional, merit is just the entry fee.
+        you can be the most technically gifted surgeon or engineer in the world,
+        but if you don't own the narrative around your value, you're jsut expensive labor.
+
+        - True scale only happens when you **stop selling your time** and **start leveraging your positioning to access deals** that aren't on the open market. that's where the real gap is  
+
+    - 羞恥感  
+        - 國人不寬容  
+        - 害怕對方不喜歡自己  
+
+        - **把 錯誤等同於 失敗**  
+            - 錯誤知識嘗試的部分
+            - 柔和表達 “可能想得不完整， 但我想分享一下”  
+
+        - 表達自己視為 “積極參與”  
+            - 提供了思路，讓大家有更多角度去討論  
+
+* 和ivy的關係消耗我太多能量  
+    - 感到很失望   
+    - 我太把對方放在更高的位置，而失去了自我  
+
+* 對待愛慕的人  
+    - **她也是個普通人**， 我要帶給她輕鬆和溫暖  
+    - **愛人如己**  
+         + 如果你不愛自己， 不尊重自己边界， 你会变成压力或讨好  
+
+    - 真正的爱 是**希望对方好**， 关注**如何能带给对方正面价值**    
+
+    - 真实胜过伪装  
+
+*  对待上司  
+    - 我是这个岗位的“管家”， **我用成果换取报酬**  
+        - 用自己的专业价值， 换取对方资源  
+
+    - 管家 - “忠诚” 与 “敬重”  
+        - 尽心尽力， **把工作看作对自己能力的经营**，而不仅打工 
+        - 尊重， 不一定认同人格，**尊重对方职位带来的责任**  
+
+#### 2026-04-13     
+* 热爱生活， 关键在于 夺回 定义权的掌控力  
+    
+
+* SELF  - 功利/工具化  
+    - 接纳“合理的功利”  
+        - 接受人性的不完美  
+        - 接受 “**工作是利益交换**”， 但把“**情感留给非利益连接**”  
+        - 努力让自己变得优秀， 让自己有底气不在乎别人的势利  
+
+    - 三准则  
+        - 判断事实： Seeing things exactly as they are, without the 'coloring'  
+            - stop saying 'this is a disaster', and start saying '**this is a challenge I didn't expect**'  
+        - 行动: action for the common good  
+            - ensuring your movements are purposeful and contribute to something larger than your own ego  
+            - move from 'what do I get?' to '**how am I serving my values and my community**?'
+        - 心态： attitude of gratitude  
+            - instead of fighting reality, you embrace it as the raw material you have to work with 
+
+* 与人打交道的能力  
+    - 机敏 - **情绪觉察力**    
+        - 反应快，懂变通  
+        - 观察微表情 - 抢先给关怀，“识做”  
+        - 高效沟通 - 真诚且直接  
+
+    - 重利  
+        - 边界感和责任感  
+        - 不给人 添麻烦  
+
+* love  
+    - try to resolve certain disagreemtns before we go to sleep  
+    - being vulnerable with one another and communication (feelings, thoughts)  
+
 #### 2026-04-07  
 -  主動去跟那些對你來說 **最重要的事物 建立 聯結**    
     

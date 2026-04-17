@@ -22,9 +22,10 @@ date: 2012-03-19
 - [Mastery] by Robert Greene  
 - **[Don't Sweat the small stuff about money]** (9/10)  
 - **[personal development for smart people]** by Steve Pavlina (8/10) 
-- **[善用悲觀的力量]** by William B. Irvine (9/10)  
+- [善用悲觀的力量] by William B. Irvine (8/10)  
 - [沈思錄] (9/10)  
 - [The Daily Stoic] by Ryan Holiday  
+- [Don't sweat the small stuff in love]  
 
 - [Fluent Python]
 - [The Product-Minded Engineer] by Drew Hoskins  
@@ -135,15 +136,13 @@ date: 2012-03-19
 - [Your Money or Your Life](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766) by Vicki Robin
 - [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships] by Leil Lowndes
 
-- **[The Subtle Art of Not Giving a Fck]** by Mark Manson
+- [The Subtle Art of Not Giving a Fck] by Mark Manson
 - [Everything Is F*cked] by Mark Manson
 - [Suddenly in Charge] by Roberta Chinsky Matuson
 - [笑得出来的养育] by liyiluo
 
 - [同理心對話] (8/10)
 - [Don't sweat the small stuff in love]
-
-- [Don't Sweat the Small Stuff and It's All Small Stuff] by Richard Carlson
 
 - [Antifragile: Things That Gain from Disorder](https://book.douban.com/subject/25782902/) by Nassim Nicholas Taleb
 - [Love, Freedom, and Aloneness:THE KOAN OF RELATIONSHIPS](https://www.amazon.com/Love-Freedom-Aloneness-Koan-Relationships/dp/0312291620) by Osho

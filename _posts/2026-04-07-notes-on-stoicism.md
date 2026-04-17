@@ -1,14 +1,19 @@
 ---
 layout: post
-title: "Notes on Stoic"
+title: "Notes on Stoic Philosophy"
 date: 2026-04-07
 comments: true
 categories: [learning, self, important]
-abstract: "Notes on Stoicism"
+abstract: "Notes on Stoic Philosophy"
 ---
 
 #### Stoicism  
 Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium around 300 BCE, helping us better deal with life’s inevitable ups and downs so that we can live a happier and more peaceful life. 
+
+The big three    
+    - Control your perceptions  
+    - direct your actions properly  
+    - willingly accept what's outside your control  
 
 #### ch2 - 斯多葛主義是鍛鍊（主觀认知的）情緒韌性的良方  
 * 斯多葛主義強調實際效能、心理韌性和情緒自我調節  
@@ -58,8 +63,33 @@ Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium aro
 ##### ch2-5 
 
 #### ch3 - 生命處方  
+##### ch3-1 熱愛人類是我們的義務  
+* 与他人维持关系，是身为人的责任  
+    - 人的功用就是做人該做的事， 就是“為了某種責任”  
+    - 人本质是社会动物，**有责任与其他人形成和维持关系**，尽管这些人可能会带给我们麻烦；
+    我们生来就是要活在人群当中，并以互利的方式互动  
+
+* 我们应该面对讨厌的人，并**为了共同的利益而与他们合作**  
+
+* 如果做了生来就该做的那些事，我们就会享受真正的喜悦  
+
+##### ch3-2 與人交往的技巧  
+* 避開有惡習，愛抱怨，價值觀被腐蝕的朋友  
+    - 在盡社會責任時，我們是不能夠選擇的： **有時為了共同的利益**，
+    我們必須與令人討厭，誤入歧途或心術不正的人交往  
+    - **在與誰為友的問題上**，我們是能夠選擇的  
+
+* 用社會宿命論看待有毒型人物  
+    - 在與人討厭的人交往時，我們還需謹記，這世上一定會有人討厭我們， 這會讓我們更包容一些  
+    - 當我們與他們相處時， 告訴自己**他們天生就是這樣形式作為的**，可以使自己少些苦惱  
 
 
+* 放大時空看人世， 不仇恨不報復  
+    - **把令人討厭的事件放到宇宙背景中**，這種事情的微不足道會越加明顯，因而減輕我們的煩惱  
+    - 在與令人討厭的人打交道的過程中，**最大的風險是 我們會憎恨他們**； 而仇恨會帶給我們傷害  
+
+##### ch3-3 用幽默化解侮辱 
+TODO
 
 #### reference 
 * [Meditations] by Marcus Aurelius  
