@@ -3,7 +3,7 @@ layout: post
 title: "Notes on Stoic Philosophy"
 date: 2026-04-07
 comments: true
-categories: [learning, self, important]
+categories: [home, learning, self, important]
 abstract: "Notes on Stoic Philosophy"
 ---
 
