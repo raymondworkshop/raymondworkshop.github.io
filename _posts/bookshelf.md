@@ -27,9 +27,9 @@ date: 2012-03-19
 - [The Daily Stoic] by Ryan Holiday  
 - [Don't sweat the small stuff in love]  
 
-- [Fluent Python]
+- [Fluent Python]  
 - [The Product-Minded Engineer] by Drew Hoskins  
-- [The Alchemist] by Paulo Coelho   
+- [The Alchemist] by Paulo Coelho    
 
 - [Love Yourself Like Your Life Depends On It]
 - [Don't Sweat the small stuff about love]
