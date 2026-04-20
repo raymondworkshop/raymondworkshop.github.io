@@ -9,6 +9,98 @@ abstract: "personal reflection journal"
 > taking the time to think through your goals, strengths, past feedback and insights from
 > self-assessments should allow you to identify several areas of focus for growth
 
+#### 2026-04-20  
+* 回應  
+    - 接受与共鸣： 认真听， 真心感兴趣  
+
+    - 呼应价值观： **呼应他们的生活方式或观点**， 展现你能理解和欣赏  
+
+    - 自然延伸： **在合适的时候加一些轻松补充**  
+
+* SELF  
+    - 心态 - 外圆内方  
+        - 内心要保留一块柔软的地方**留给自己重视的人**  
+
+        - 朋友 - **讲金也讲心**  
+            - 港人怕“借钱”， 也怕“欠人情”  
+            - **主动请客，主动帮小忙**， 不计较眼前得失  
+
+            - 互惠与价值提供  
+                - 不给人添麻烦 - 保持经济与情绪独立  
+                - 提供“情绪价值” - 使用建议，可靠的陪伴与关键时刻的人脉支援  
+
+        - 家庭 - **利他既利己**  
+
+        - **争取是“负责任”**  
+            - **清晰地表达需求**， 其实是给对方一份“说明书”  
+
+            - “机敏” 地直接 - **利用港式的“专业感‘ 来包装诉求**  
+                - 求人办事 
+                    - ”我想请你帮忙，因为你在这方面最专业。**你看我有什么可以补偿或回馈你的**“  
+                    - **先肯定对方价值**， **并主动提出补偿**  
+
+                - 争取权利  
+                    - ”**为了这件事能长久运作，我觉得我们需要把利益分配清楚**。
+                    我的想法是， 你觉得呢？“  
+                    - 把话题从”我的情绪“ 转移到 ”**这件事的长远效益**“  
+                       
+
+
+* **Emotionally intelligent** partners  
+    - **No drama, clear boundaries, direct communication**    
+
+    - it's time for him to actually show it and now you're uncomfortable  
+        - He's **gonna communicate** instead of shutting down  
+        - He's **gonna hold you accountable** in a way that  
+        - He's not reacting, he's **responding**  
+        - He's not yelling, he's **setting boundaries**  
+        - He's not chasing chaos, he's **choosing peace**  
+
+* 机敏 - **情绪觉察力**  
+    - How to read people     - 抢先给予关怀   
+        - **microexpressions can help you see what someone is really feeling**,
+        even if they're trying to hide it  
+        - body language  
+            - **mirroring**: it someone mirrors your movements, it shows they feel connected to you  
+            - **fidgeting**: can indicate nervousness or impatience  
+            - **leaning forward**: a sign of interest or engagement  
+            - **crossed arms of legs**: this could signal defensiveness or discomfort  
+        - eye movements  
+        - tone of voice  
+            - a shift in tone can reveal hidden emotions  
+    - 注意细节  
+    - 高效沟通 - 真诚且直接  
+
+* Loving someone who is in survival  
+    - **patience** when they pull away  
+    - **boundaries** when they feel unsafe  
+        - **identify the moment**: when you feel resentful, drained, or anxious  
+        - script: **clear**, not curel  
+        - how to stay 'safe' while being firm  
+            - **Use 'I'** statements: "I feel ..."  
+            - Keep it neutral: **Just fact**  
+            - **Validate the relationship**: "because I want us to have a great relationship and I don't want to ..."  
+
+
+    - grace while they rebuild trust  
+        - Lower the 'defense shields'  
+            - if they are trying to make amends, **acknowledge the effort** - even if it's small  
+            - when you feel anxious or suspicious, **bring it up with 'I' statementsdi**  
+                - "I'm feeling a bit anxious today because of X, could we talk through it?"  
+
+        - **distinguish grace from permission**  
+            - The 'internal compass': **grace is about your character**, not their performance.
+            It's choosing to remain a person of **integrity and kindness** even when the other person is still finding their footing  
+
+        - The power of the 'clean slate'  
+            - give them the room to be the better version of themselves without the weight of yesterday's shadow
+
+* info
+    - individual VS family  
+    - analytics & self VS group & interdependence  
+    - guilt VS shame  
+    - intent VS result  
+
 #### 2026-04-14  
 * Positioning is everything  
     - **Learn to sell your ideas**. **Practice persuasion**. **Ruthlessly position yourself**.  
