@@ -13,8 +13,50 @@ abstract: "About how to get the right things done"
 
 - TODO  
 
-####  Leadership
+####  **Positioning** is everything  
 
+##### Executive-level influence - manages the organization’s existence and future  
+* you are mainly judged by your **business judgment** and **enterprise-whide** impace  
+    -  Leadership: Position yourself as a **system architect**  
+        + Stop talking about what your team is doing and start talking about **how the organization's structure, culture, or processes need to evolve** to meet market shifts  
+        + executives don't want to hear about your 'wins'; 
+        they want to hear about your **vision for the trade-offs**. Every choice has a cost - identifying the 'right' cost to pay is executive leadership.  
+
+    - Management: **The 'talent factory' positioning**  
+        + executives are seens as Net Talent Exporters. Your repution should be: "If you want to grow, go work for".
+        When you proactively move your best people into other departments to solve company-wide problems, you gain allies across the entire C-suite  
+
+    - Teamwork: peer-level 'organizational glue'  
+        + position yourself as the person who **bridges the gap between silos**.
+        Solve a problem for a peer that doesn't benefit your department directly.
+        This creates a 'debt of influence' that is more valuable than any budget line item.  
+
+    - Negotiation:  The 'high-stakes' narrative  
+        + executives negotiate for **capital allocation**. You are 'investing' capital to mitigate a specific corporate risk or capture a specific market share  
+        + In executive negotiations, silence is a power tool. 
+
+
+##### Management  - Managers manage people and processes  
+* Your positioning must shift from output (what I did) to **Outcomes** (what we achieved)  
+    - Lerdership: Shift from expert to **coach** 
+        - "what are the three ways you've considered fixing this, and which has the lowest risk?"  
+
+    - Management: Position your role as a **clearer of path**  
+        - "**What is currently blocking you** from finishing this by Friday?"  
+        - Your value is now measured by how fast you can remove those obstacles, not how fast  
+
+    -  Teamwork: Managing 'up and out'  
+        - Position your team as a **solution provider** to other departments. 
+        If the marketing manager is struggling, offer your team's expertise to help them.
+        This builds 'political capital' that you can spend later when your team needs a favor  
+
+    - Negotiation: **Negotiating for resources**, not just self  
+        - The risk: being afraid to ask for more (budget, headcount, time) because you want to seem 'low maintenance"  
+        - the blind spot: being low maintenance often means being overlooked. 
+        if you don't fight for your team's resources, the team loses morale
+        - the pivot: negotiate **using impact-based requests**  
+            - "If we add one headcount, we can decrease our project turnaround time by 20%,
+            which translates to $50K in saved overhead per quarter." 
 
 #### Peter F. Drucker guides on how to be **executive self-management**, so that we could "**get the right things done**"
 

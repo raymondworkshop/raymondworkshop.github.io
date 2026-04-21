@@ -11,7 +11,8 @@ Outside of [reading](https://raymondworkshop.github.io/bookshelf.html) and tech,
 
 Some of his favorite quotes:
 
-- "Study, think, create and grow. Teach yourself and teach others. Life is too short to worry about stupid things. "  
+- "Life is too short to worry about stupid things. Fall in love.  Have fun.
+Study, think, create and grow. Teach yourself and teach others.  "  - Richard Feynman  
 - "What makes you vulnerable makes you strong and beautiful"
 - "The good life is one inspired by love and guided by knowledge" - Bertrand Russell
 - "The challenge comes because you are ready for it"

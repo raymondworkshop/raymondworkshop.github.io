@@ -45,7 +45,6 @@ abstract: "personal reflection journal"
                     - 把话题从”我的情绪“ 转移到 ”**这件事的长远效益**“  
                        
 
-
 * **Emotionally intelligent** partners  
     - **No drama, clear boundaries, direct communication**    
 
@@ -57,7 +56,7 @@ abstract: "personal reflection journal"
         - He's not chasing chaos, he's **choosing peace**  
 
 * 机敏 - **情绪觉察力**  
-    - How to read people     - 抢先给予关怀   
+    - How to read people     - 抢先给予关怀    
         - **microexpressions can help you see what someone is really feeling**,
         even if they're trying to hide it  
         - body language  
@@ -107,7 +106,7 @@ abstract: "personal reflection journal"
     - Combine this with merit, and you'll make it further than your competition  
     - Your efficientcy, productivity, or intelligence will never matter if it's not visible.
     
-    - the biggest mistake is treaing positioning and merit as a zero-sum game  
+    - the biggest mistake is treating positioning and merit as a zero-sum game  
         - If you're a high-income professional, merit is just the entry fee.
         you can be the most technically gifted surgeon or engineer in the world,
         but if you don't own the narrative around your value, you're jsut expensive labor.
