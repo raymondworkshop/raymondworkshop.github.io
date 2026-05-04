@@ -3,4 +3,4 @@ title: Coaching
 date: 2025-12-15
 ---
 
-### Know thyself in order to unleash your potential
+### Know thyself in order to unleash your potential, thus live the life you love most
