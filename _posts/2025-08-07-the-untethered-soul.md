@@ -19,7 +19,7 @@ abstract: "完整的自己-快樂和自信的人生"
         - your love is unconditional **but your choices are conditioned by your adult boundaries**
 
 - Integrating Your Fear
-    - admit that you are afraid
+    - admit that you are afraid  
     - feel your fear
         - what I feel is not who i am, so **I am not my fear**.
           But **it is what is happening in me right now** so I allow it to have its full career.
@@ -28,6 +28,107 @@ abstract: "完整的自己-快樂和自信的人生"
             - **I make the choices I would make if I did not feel the fear**. At this moment of **deciding between feeling and acting**, you will feel the shift, a surge of power, to take that final step
             - You are no longer the victim because you have **combined vulnerability** - "**I might fail**" - **with power** - "I am doing it"
         - **This shift makes you trust youself** and **enriches your self-respect**
+
+
+#### the art of loving
+
+- The practice of Love
+    - the ability to love
+        - to concentrate means to **be able to be alone with oneself**,
+          and this abilability is precisely a condition for **the ability to love**
+        - If I am attached to another person **because I cannot stand on my own feet**, he or she may be a **lifesaver**, but the relationship is not one of love
+
+    - overcoming of one's narcissism
+        - see people and things **as they are objectively**, and to be able to **separate this objective picture** from  a picture which is formed by one's desires and fears
+
+        - love required the development of **humility**, **objectivity** and **reason**
+
+    - rational faith is **an independent conviction** based on **one's own experience**,
+      **in the confidence in one's power of thought, obeservation, and judgment**, in spite of the majority's opinion
+        - irrational faith is based on one's submission to irrational authority
+
+    - his basic motivations
+        - **love**
+        - **faith in the potentialities**
+        - to **live productively**
+            - require courage, to take a risk, to accept pain and disappointment
+
+- Love and its disintegration in contemporary western society
+    - **political freedom** on the one hand, and **the market as the regulator** of all economic, hence social relations, on the other
+        - Modern man has transformed himself into **a commodity**
+        - **Make God a partner in business**, rather than to become one with him in **love**, **justice and truth**;
+          brotherly love has been replaced by impersonal **fairness**
+
+    - the essence of love is seen **in a situation of collaboration**
+        - permits **validation of all components of personal worth**
+        - validation of personal worth requires a type of relationship which I call **collaboration**,
+          by which clearly formulated **adjustments of one's behavior to the expressed needs of the other person** in pursuit of **increasingly identical** - that is, more and more **nearly mutual satisfactions**, and in the maintenance of **increasingly similar security operations**
+
+    - want mother's unconditional love
+        - **aim to be loved**, not to love
+
+    - sentimental love
+        - he lives in the past or in the future, but **not in the present**
+
+    - the presence of love
+        - **the depth of the relationship**,
+          and **the aliveness and strength in each person concerned**
+
+- LOVE is an attitude
+    - brotherly love - compassion
+
+    - Motherly love
+        - **it's good to be alive** <- care and affirmation of **existence**
+            - God creates the world, and man
+        - **the love for life** and **the happiness in being alive**
+            - Mother's love for life is as infectious as her anxiety is
+
+    - erotic love
+        - **I love from the essence of my being** - and experience the other person in the essence of his or her being
+        - To love somebody is not just a strong feeling - it is a promise
+
+    - self-love
+        - if you love yourself, you love everybody else as you do yourself
+
+    - Love of God
+        - the love for God cannot be separated from the love for one's parents
+            - **God was experienced as an all-protective mother( or clan, nation)**,
+              or a **punishing-rewarding father (authority - overt authority or public opinion)**,to a mature stage where God ceases to be an outside power;
+              where man has **incorporated the principles of love and justice into himself**, where he has become one with God,
+              and eventually, to a point where he speaks of God only in a poetic, symbolic sense.
+
+        - In western religious system, the love of God is essentially the same as **the belief in God**,
+          **in God's existence, God's justice, God's love**. The love of God is essentially **a thought experience**.
+          In the Eastern religions, the love of God is **an intense feeling experience of oneness**, inseparably linked with the expression of this love in every act of living.
+
+- Love between parent and child
+    - motherly love is unconditional
+        - "**I am loved because I am**" <- Infantile love
+        - mature love -> "**I am because I love**"
+            - **By loving**, **he leaves the prison of aloneness and isolation** which was constituted
+              by the state of narcissism and self-centeredness.
+              He feels a sense of new union, of sharing, of oneness.
+              More than that, **he feels the potency of producing love by loving**
+            - **To give has become more satisfactory**, **more joyous**, **than to receive**;
+              to love, more important even than being loved.
+        - **Mother has the function of making him secure in life**
+
+    - fatherly love
+        - "I love you because you fulfill my expectations, **because you do your duty**, because you are like me"
+
+- awareness of his separateness
+  => anxiety (shame, guilty)
+    - orgiastic states (drug, sex, alcohol, etc.)
+    - **the union with group**
+        - threats and terror
+        - suggestion and propaganda
+            - conformity pattern
+            - work and pleasure routine
+            - creative activity
+            - **Love** -> **interpersonal union**
+                - symbiotic union -> fusion without integrity
+                - mature love in union -> preserve one's individuality
+
 
 #### 薩提爾的自我覺察練習
 

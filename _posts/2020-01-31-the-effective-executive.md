@@ -15,12 +15,13 @@ abstract: "About how to get the right things done"
 
 ####  **Positioning** is everything  
 
-##### Executive-level influence - manages the organization’s existence and future  
+##### Executive-level influence - manage the organization’s existence and future  
 * you are mainly judged by your **business judgment** and **enterprise-whide** impace  
     -  Leadership: Position yourself as a **system architect**  
         + Stop talking about what your team is doing and start talking about **how the organization's structure, culture, or processes need to evolve** to meet market shifts  
         + executives don't want to hear about your 'wins'; 
-        they want to hear about your **vision for the trade-offs**. Every choice has a cost - identifying the 'right' cost to pay is executive leadership.  
+        they want to hear about your **vision for the trade-offs**. 
+        Every choice has a cost - identifying the 'right' cost to pay is executive leadership.  
 
     - Management: **The 'talent factory' positioning**  
         + executives are seens as Net Talent Exporters. Your repution should be: "If you want to grow, go work for".
@@ -33,10 +34,10 @@ abstract: "About how to get the right things done"
 
     - Negotiation:  The 'high-stakes' narrative  
         + executives negotiate for **capital allocation**. You are 'investing' capital to mitigate a specific corporate risk or capture a specific market share  
-        + In executive negotiations, silence is a power tool. 
+        + In executive negotiations, silence is a power tool  
 
 
-##### Management  - Managers manage people and processes  
+##### Managers  -  manage people and processes  
 * Your positioning must shift from output (what I did) to **Outcomes** (what we achieved)  
     - Lerdership: Shift from expert to **coach** 
         - "what are the three ways you've considered fixing this, and which has the lowest risk?"  

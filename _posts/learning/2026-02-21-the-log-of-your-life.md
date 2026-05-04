@@ -9,6 +9,122 @@ abstract: "personal reflection journal"
 > taking the time to think through your goals, strengths, past feedback and insights from
 > self-assessments should allow you to identify several areas of focus for growth
 
+#### 2026-05-04  
+* SELF  
+    - "好人"契約， 過度共情  
+        - 对方开口时， 你是试图去“理解”和“承接”对方  
+        - **太快进入对方语境**， 自我边界变得模糊  
+            + 在考虑如何完成这段对话，而不是如何达成你的目标  
+            + **对冲突的潜意识回避**  
+                +  质疑对方动机（澄清问题） 在潜意识里可能被认为是“冒犯”  
+
+        - 区分 **“语义” 与 “意图”**  
+            + 接受信息 -〉 质疑框架 -〉 寻找意图  
+            + “除了他说的这句话， 他到底想要什么？”
+
+        - 建立“自私”边界  
+            + 50% 关注对方， **50% 守住自己的立场** 
+                + 这是我的问题 还是 他的问题？  
+                + 解决这个问题， 是对我的目标有益，还是仅仅 为了平复他的情绪？  
+                + 如果我不帮他解决， 最坏的情况我能承受吗  
+              
+        - **练习 “澄清问题” 技巧**， 先锁定对方的核心诉求  
+
+#### 2026-04-27  
+* SELF  
+    - 好人： 尊重， 诚实， 边界  
+        - 明确自己的定位： **确认自己想要什么**  
+        - **主动设定责任范围**： 通过清晰沟通来设定边界  
+        - **坦率表达立场**，同时**表达尊重和善意**  
+
+    - risk, return, resource  
+        - start the goal  
+        - the gap <-> identify the point  
+        - proposal -> "suggest a path to investigate or mitigate"
+        - **将错误决策恐惧 转化为 “止损线”设计**  
+         
+        - **合作中坚持partner**, 避免陷入层级陷阱  
+
+
+    - 爸妈好担心我  
+        - 压力好大  
+
+    - **Positioning** is everything  
+        - being seen as a '**strategic leader**' and a 'reliable worker'  
+
+        - management - resource leverage  
+            - your **position your team as a 'center of excellent'** rather than a 'support'  
+            - **公平是 主管的** 
+            - **position your request as a solution to their problem**, 而不是公平  
+
+        - leadership - authority via intent  
+            - teamwork  
+            - negotiation  
+
+        - Constructive insights  
+            - The competence trap  
+                - positioning yourself as a **multiplier**.
+                Your value shouldn't be what you can do,
+                but **how much better the team performs** because you are overseeing them  
+
+            - negotiating for 'fairness'.
+                - the risk: approach a negotiation hoping the other side will be 'fair'
+                - the blind spot: **'fair' is subjective**.
+                If you lead with what you need or what is fair, you lose  
+
+                - **Position your request as a solution to their problem**.
+                Ask for a budget adjustment because your increased output has saved the company $X amount
+
+            - the 'invisible labor' gap  
+                - the risk: assuming your results speak for themselves  
+                - the blind spot: they don't. results are silent
+
+                - the pivot: you **must curate the narrative of your success**.
+                it's contextualising. Use '**the rule of three**': every month, ensure your stakeholders know
+                one thing your team solved, oen thing you're optimising, and one future risk you've identified
+
+    - **共鸣**
+        - **我看到了什么**，
+        **我感受到了什么**，
+        **我经历了什么挑战**，
+        **我是谁**  
+
+        - 不是宣读抽象概念，
+        我们应该这样，
+        我们必须这样，
+        我们相信这样  
+
+        - 这样没有灵魂，没有发自内心的感受  
+
+
+* 英国文化  
+    - 英国人 非常 注重 **礼节** 和 **个人空间**  
+        - **put the relationship before** the task  
+
+        - **尊重私人边界** （比如收入，体重，政治立场） 
+        - ”低调“的艺术 - 在交流中 **保持谦虚**  
+            - 反感过度张扬或情绪化表达  
+            - 能否平等地与清洁工或ceo 交谈  
+        - 可靠性与准时  
+            - 对于约好的社交活动非常看重  
+        - 共同的社交仪式  
+            - 酒吧文化
+            - 给你泡茶，是表达关心最温和的方式  
+
+    - 深层关系中， 极其看重 忠诚 和 共享价值观  
+        
+
+* 接住女生情绪 - 共情  
+    - 听  
+        - **肯定她的感受** - 建立战友关系  
+        - **即便她错了，也要肯定她的情绪与真实性**  
+    - 问  
+        - **讲主导权还给她**， 精准提供帮助  
+        - “**我现在能为你做什么**”  
+    - 识别 “**情绪求救信号**”  
+        - 回应她的需求  
+        - 有时候沉默的陪伴和肢体接触 比一句话更有帮助  
+
 #### 2026-04-20  
 * 回應  
     - 接受与共鸣： 认真听， 真心感兴趣  

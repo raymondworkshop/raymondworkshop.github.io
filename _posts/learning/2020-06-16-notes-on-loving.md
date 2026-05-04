@@ -17,8 +17,7 @@ abstract: "notes on 'love'"
         - If I am attached to another person **because I cannot stand on my own feet**, he or she may be a **lifesaver**, but the relationship is not one of love
 
     - overcoming of one's narcissism
-        - see people and things **as they are objectively**, and to be able to **separate this objective picture** from
-          a picture which is formed by one's desires and fears
+        - see people and things **as they are objectively**, and to be able to **separate this objective picture** from  a picture which is formed by one's desires and fears
 
         - love required the development of **humility**, **objectivity** and **reason**
 

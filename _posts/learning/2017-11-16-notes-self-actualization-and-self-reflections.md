@@ -7,17 +7,19 @@ categories: [learning, thinking, important, self, lessons]
 abstract: "learn from your mistakes, and know more about yourself"
 ---
 
-#### Improve your 外资/personality
+#### Improve your 外在/personality
 
-- TODO
+- TODO  
+    - 机敏  - 情绪觉察力  
+
     - more outgoing
 
-    - 積極主動
+    - 積極主動  
 
 #### lessons and skills
 
-- skills
-    - **自我的自主性是第一**
+- skills  
+    - **自我的自主性是第一**  
         - 人生苦短，**尽量消解不确定性**，把生活主动权掌握在自己手上
             - 不要去做螺丝钉
         - **有一个自主性的意识在，对这个事情有基本判断**；
@@ -31,30 +33,30 @@ abstract: "learn from your mistakes, and know more about yourself"
 
     - 处事方式比你圆滑
         - 真诚 or ?
-            - **以对方喜欢的方式 对待对方**
+            - **以对方喜欢的方式 对待对方**  
             - 老板有权以自己最得心应手的方式来工作
                 - 与他们共事的人有责任观察他们，了解他们的工作方式，**适应老板**
 
         - 选择策略
             - **有时说出自己的观点和看法是尊重他人学识的表现**；有时**隐藏自己的观点和看法可以避免不必要的争端**
-            - 如果你说出某个争端，试着将气氛缓和下来；可以将自己观点表述出来，听听他们如何争辩； “你觉得呢？”
-            - 有时争论过无数次，都没结果，可以不必提起这个话题
+            - 如果你说出某个争端，试着将气氛缓和下来；可以将自己观点表述出来，听听他们如何争辩； “你觉得呢？”  
+            - 有时争论过无数次，都没结果，可以不必提起这个话题  
 
-        - **内省及由此而获得的自我认识**
-            - **能想清楚自己为什么要做某件事情**，是一种有普遍价值的生活技能
-            - 当你迷失或虚伪时，人们一眼就可以看出来；**当你开放和自信时**，人们会欣赏
+        - **内省及由此而获得的自我认识**  
+            - **能想清楚自己为什么要做某件事情**，是一种有普遍价值的生活技能  
+            - 当你迷失或虚伪时，人们一眼就可以看出来；**当你开放和自信时**，人们会欣赏  
 
-        - 至少要与经常见面但不喜欢的人有至少一些接触
-            - 如“今天过得怎么样？”， 至少会让对方觉得你在努力
+        - 至少要与经常见面但不喜欢的人有至少一些接触  
+            - 如“今天过得怎么样？”， 至少会让对方觉得你在努力  
 
     - **从具体的问题看**，从周边非常具体地看生活
-        - **我们只能懂小的东西**，也不懂大的东西
+        - **我们只能懂小的东西**，也不懂大的东西  
         - 用大的象征符号说话是很容易的，因为**它不用去处理那些丰富的，细致的，互相矛盾的材料**
         - **当你被那些宏大的东西绝对化**之后，小的东西不仅被忽视，而且觉得小的东西不应该存在
 
     - **做好可控的因素**， 对不可控的因素 担心也没用
         - 减少内耗
-        - In comes from within
+        - In comes from within  
             - **focus on yourself** and not the world
             - **fight the battles inside you first and then watch the world** change around you
 
@@ -69,7 +71,13 @@ abstract: "learn from your mistakes, and know more about yourself"
     - Fairness - 好好做自己
         - Fairness means **treating people according to their needs**
             - explore the differences and **develop them into talents**.
-              This development can still be considered fair, even though it isn't equal
+              This development can still be considered fair, even though it isn't equal  
+
+        - Negotiating for 'fairness'  
+            - the risk: approaching a negotiation hoping the other side will be 'fair'  
+            - the blind spot: **'fair' is subjective**. If you lead with what you need or what is fair, you lose  
+            -  **Position your request as a solution to their problem**;
+            Ask for a budget adjustment because your increased output has saved the company $X amount  
 
         - In a broader social context, fairness takes the form of **justice**
             - fairly **balance the needs of the individual with the needs of the larger whole**
@@ -78,7 +86,7 @@ abstract: "learn from your mistakes, and know more about yourself"
             - only in the sense that they'rea ll equally part of the same whole
             - at the basic level of equal human rights
 
-    - **只做必须之事**， 也把必须之事做好
+    - **只做必须之事**， 也把必须之事做好  
         - 做的适宜，不做没有目标的事
         - 知道自己要什么
 
@@ -98,14 +106,14 @@ abstract: "learn from your mistakes, and know more about yourself"
         - 看到他想要提高并让队友们变得更好
             - tit-for-tat: <small>现代博弈论也证明了最优战略是“**一报还一报**”</small>
 
-    - your family is the most important thing in life
-        - invest as much quality time with them as possible
+    - your family is the most important thing in life  
+        - invest as much quality time with them as possible  
 
     - skipped toxic people
         - 负面的人
         - never let anyone get too comfortable with disrespecting you
         - deal with people how they deal with you, hardly, barely, and accordingly
-        - stop worrying about people who doen't even care about you
+        - stop worrying about people who don't even care about you
 
 - softskills
     - **看到自己愿意的**就主动争取和结交
@@ -137,8 +145,8 @@ abstract: "learn from your mistakes, and know more about yourself"
         - **inner silence and stillness** - feel the calm, control, and power hidden within you
         - 我不跟人比 但**我跟自己相处很好所以我自信**
 
-    - 人生的欲望
-        - 名利之心
+    - 人生的欲望  
+        - 名利之心  
         - 避免无聊的唯一出路，是**过一种审美的生活**， 去创造一些美出来
 
     - 世俗生活中，人际关系是 烦恼来源
