@@ -11,9 +11,9 @@ abstract: "Notes on Stoic Philosophy"
 Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium around 300 BCE, helping us better deal with life’s inevitable ups and downs so that we can live a happier and more peaceful life. 
 
 The big three    
-    - Control your perceptions  
-    - direct your actions properly  
-    - willingly accept what's outside your control  
+* Control your perceptions  
+* direct your actions properly  
+* willingly accept what's outside your control  
 
 #### ch2 - 斯多葛主義是鍛鍊（主觀认知的）情緒韌性的良方  
 * 斯多葛主義強調實際效能、心理韌性和情緒自我調節  
