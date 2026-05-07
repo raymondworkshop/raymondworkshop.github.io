@@ -149,6 +149,6 @@ TODO
 
 #### reference 
 * [Meditations] by Marcus Aurelius  
-* [The Daily Stoic] 
+* [The Daily Stoic] by Ryan Holiday
 * [善用悲觀的力量]  
 * [Don't Sweat the Small Stuff about Money]
