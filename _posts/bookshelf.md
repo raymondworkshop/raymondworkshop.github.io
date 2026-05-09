@@ -23,11 +23,12 @@ date: 2012-03-19
 - **[Don't Sweat the small stuff about money]** (9/10)  
 - [personal development for smart people] by Steve Pavlina (8/10) 
 - [善用悲觀的力量] by William B. Irvine (8/10)  
-- [沈思錄] (9/10)  
+- [沈思錄]  
 - [The Daily Stoic] by Ryan Holiday  
 - [Don't sweat the small stuff in love]  
 
 - **[Your Money or Your Life]** by vicki Robin  
+- [Think and Grow Rich] by Napoleon Hill
 
 - [Fluent Python]  
 - [The Product-Minded Engineer] by Drew Hoskins  
@@ -39,7 +40,7 @@ date: 2012-03-19
 - [讓愛自己變成好習慣]
 - [戀愛使用說明書]
 
-- [Dealing with Difficult People]
+- [Dealing with Difficult People]  
 - [HBR Guide to Making Better Decisions]
 - [Purpose & Profit] by Dan Koe
 - [拆掉思維裡的牆] by 古典
@@ -57,7 +58,7 @@ date: 2012-03-19
 - [HBRs 10 Must Reads on Communication]
 
 - [Trump: The Art of the Deal]
-- [Think and Grow Rich]
+
 - [10x Is Easier Than 2x: How World-Class Entrepreneurs Achieve More by Doing Less]
 - [The Laws of Human Nature] by Robert Greene
 - [12 Rules for Life_ An Antidote to Chaos] by Jordan B. Peterson
