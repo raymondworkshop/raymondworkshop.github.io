@@ -7,18 +7,21 @@ categories: [home, learning, self, important]
 abstract: "Notes on Stoic Philosophy"
 ---
 
-#### Stoicism  
-Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium around 300 BCE, helping us better deal with life’s inevitable ups and downs so that we can live a happier and more peaceful life. 
 
-The big three    
+#### Stoicism  
+Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium around 300 BCE, helping us better deal with life’s inevitable ups and downs so that we can have a happier and more peaceful life. 
+
+The big three:  
 * Control your perceptions  
-* direct your actions properly  
+* direct your actions properly
 * willingly accept what's outside your control  
+
+Also, love and accept yourself too
+
 
 #### ch2 - 斯多葛主義是鍛鍊（主觀认知的）情緒韌性的良方  
 * 斯多葛主義強調實際效能、心理韌性和情緒自我調節  
     - Using Stoic philosophy, we can respond (not react) better  
-
 
 ##### ch2-1  
 
@@ -85,7 +88,7 @@ The big three
 
 * 放大時空看人世， 不仇恨不報復  
     - **把令人討厭的事件放到宇宙背景中**，這種事情的微不足道會越加明顯，因而減輕我們的煩惱  
-    - 在與令人討厭的人打交道的過程中，**最大的風險是 我們會憎恨他們**； 而仇恨會帶給我們傷害  
+    - 在與令人討厭的人打交道的過程中，最大的風險是 我們會憎恨他們； 而**仇恨會帶給我們傷害**  
 
 ##### ch3-3 侮辱 
 * 想想那些侮辱者**所说的是否真实**。 如果说的是真的，那我们就没有什么理由感到沮丧  
@@ -149,6 +152,6 @@ TODO
 
 #### reference 
 * [Meditations] by Marcus Aurelius  
-* [The Daily Stoic] 
+* [The Daily Stoic] by Ryan Holiday
 * [善用悲觀的力量]  
 * [Don't Sweat the Small Stuff about Money]
