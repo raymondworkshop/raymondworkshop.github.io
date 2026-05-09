@@ -21,11 +21,13 @@ date: 2012-03-19
 - **[The four agreements - a Practical Guide to Personal Freedom]** by Don Miguel Ruiz (8/10)
 - [Mastery] by Robert Greene  
 - **[Don't Sweat the small stuff about money]** (9/10)  
-- **[personal development for smart people]** by Steve Pavlina (8/10) 
+- [personal development for smart people] by Steve Pavlina (8/10) 
 - [善用悲觀的力量] by William B. Irvine (8/10)  
 - [沈思錄] (9/10)  
 - [The Daily Stoic] by Ryan Holiday  
 - [Don't sweat the small stuff in love]  
+
+- **[Your Money or Your Life]** by vicki Robin  
 
 - [Fluent Python]  
 - [The Product-Minded Engineer] by Drew Hoskins  
