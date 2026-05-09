@@ -13,7 +13,7 @@ abstract: "Understanding your emotions; And you can Control your life  ."
 - emotions **give purpose**, **priority, and focus** to our thinking
     - a subjective experience in our conscious minds
 
-##### recognize present emotional state
+##### recognize present emotional state  
 
 - Understanding Emotions
     - Emotions are the sensation of **experiencing a change in you energy**;
@@ -260,14 +260,14 @@ abstract: "Understanding your emotions; And you can Control your life  ."
 
 - self-care - love and accept yourself
     - **Find yourself, be true to yourself** and never stray from that person
-        - **Other people's opinion doesn't matter**
+        - Other people's opinion doesn't matter
         - every problem is not your problem
             - To live your life worried about others is to live a lie
             - quit trying to save everyone and focus on what you can control
 
         - **Accept your faults for what they are** and never stop working on them
 
-    - **skipped toxic people**
+    - skipped toxic people  
 
     - 不会随意扩大自己的情绪响应人群, 感性的人会自动将响应对象**限定在自己的亲人好友和少数熟人**
         - 感性的人对日常的人和事有丰富的情绪响应，很快能够设身处地、从对方的视角和角度来看待问题、感受生活
