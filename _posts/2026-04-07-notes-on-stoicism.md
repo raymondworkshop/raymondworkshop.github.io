@@ -14,7 +14,7 @@ Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium aro
 The big three:  
 * Control your perceptions  
 * direct your actions properly  
-* willingly accept what's outside your control 
+* willingly accept what's outside your control  
 
 Also, you should love and accept yourself too
 
