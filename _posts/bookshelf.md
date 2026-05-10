@@ -27,7 +27,7 @@ date: 2012-03-19
 - [The Daily Stoic] by Ryan Holiday  
 - [Don't sweat the small stuff in love]  
 
-- **[Your Money or Your Life]** by vicki Robin  
+- [Your Money or Your Life] by vicki Robin  
 - [Think and Grow Rich] by Napoleon Hill
 
 - [Fluent Python]  
