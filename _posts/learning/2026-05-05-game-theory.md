@@ -8,6 +8,6 @@ abstract: "Notes on game theory"
 
 ---
 
-#### note
+#### note  
 
 #### reference
