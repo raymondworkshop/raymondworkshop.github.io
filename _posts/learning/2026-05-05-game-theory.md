@@ -8,6 +8,8 @@ abstract: "Notes on game theory"
 
 ---
 
-#### note
+#### developing a BATNA (Best Alternative To a Negotiated Agreement) to gain leverage in negotiations  
+
+#### 
 
 #### reference
