@@ -7,7 +7,7 @@ Raymond ZHAO Wenlong is a product-minded engineer and Founder@Bean based in Hong
 
 He was a Tech Officer at HSU, RA in (CUHK, CityU, and HKBU), Tech Lead at HKCREO (a Fintech startup), and Lead Software Engineer at Alcatel-Lucent (now Nokia).
 
-Outside of [reading](https://raymondworkshop.github.io/bookshelf.html) and tech, he also likes Philosophy, Psychology, Nature, Art, and Movie.
+Outside of [reading](https://raymondworkshop.github.io/bookshelf.html) and tech, he also likes Philosophy, Nature, Art, and Movie.
 
 Some of his favorite quotes:
 
@@ -20,4 +20,3 @@ Some of his favorite quotes:
 - "No problem can be solved from the same level of consciousness that created it" - Albert Einstein
 
 Raymond got his M.S. in Computer Science at Chinese University of Hong Kong and BEng in Electronic and Information Engineering at WuHan University.
-
