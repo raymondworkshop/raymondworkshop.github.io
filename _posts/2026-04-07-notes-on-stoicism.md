@@ -16,14 +16,18 @@ The big three:
 * direct your actions properly  
 * willingly accept what's outside your control  
 
-Also, you should love and accept yourself too
+
+#### some notes on <The Daily Stoic> 
+* TODO  
 
 
-#### ch2 - 斯多葛主義是鍛鍊（主觀认知的）情緒韌性的良方  
+#### A Guide to the Good Life: The Ancient Art of Stoic Joy 
+
+##### ch2 - 斯多葛主義是鍛鍊（主觀认知的）情緒韌性的良方  
 * 斯多葛主義強調實際效能、心理韌性和情緒自我調節  
     - Using Stoic philosophy, we can respond (not react) better  
 
-##### ch2-1  
+###### ch2-1  
 
 * **消極想像** - 預想壞事發生  
     - 定期花時間想像失去自己所珍視的事物   
@@ -43,7 +47,7 @@ Also, you should love and accept yourself too
     - 把每一天都當成最後一天來過    
     - 改變我們行動時的心智狀態  
 
-##### ch2-2  区分能控制与不能控制  
+###### ch2-2  区分能控制与不能控制  
 * 面对日常事务时， 执行某种分类法， 把人生的元素分成三个范畴   
     - Spent on the things we can change   
 
@@ -58,15 +62,15 @@ Also, you should love and accept yourself too
 
 * 自己一点也不能控制的事物 放置一旁， 不值得担心    
 
-##### ch2-3 - 活在當下    
+###### ch2-3 - 活在當下    
 * 過去是不能改變的    
     - 也勸告我們在人生中要追尋什麼   
 
-##### ch2-4   
-##### ch2-5  
+###### ch2-4   
+###### ch2-5  
 
-#### ch3 - 生命處方  
-##### ch3-1 熱愛人類是我們的義務  
+##### ch3 - 生命處方  
+###### ch3-1 熱愛人類是我們的義務  
 * 与他人维持关系，是身为人的责任  
     - 人的功用就是做人該做的事， 就是“為了某種責任”  
     - 人本质是社会动物，**有责任与其他人形成和维持关系**，**尽管这些人可能会带给我们麻烦**；
@@ -77,7 +81,7 @@ Also, you should love and accept yourself too
 
 * 如果做了生来就该做的那些事，我们就会享受真正的喜悦  
 
-##### ch3-2 與人交往的技巧  
+###### ch3-2 與人交往的技巧  
 * 避開有惡習，愛抱怨，價值觀被腐蝕的朋友  
     - 在盡社會責任時，我們是不能夠選擇的： **有時為了共同的利益**，我們必須與令人討厭，誤入歧途或心術不正的人交往  
     - **在與誰為友的問題上**，我們是能夠選擇的  
