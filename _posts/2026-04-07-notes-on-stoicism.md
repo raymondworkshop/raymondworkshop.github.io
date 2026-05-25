@@ -8,16 +8,20 @@ abstract: "Notes on Stoic Philosophy"
 ---
 
 
-#### Stoicism  
+### Stoicism  
 Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium around 300 BCE, helping us better deal with life’s inevitable ups and downs so that we can have a happier and more peaceful life. 
 
-The big three:  
-* Control your perceptions  
-* direct your actions properly  
-* willingly accept what's outside your control  
+The big three    
+    - control your perceptions  
+    - direct your actions properly    
+    - willingly accept what's outside your control    
 
-Also, you should love and accept yourself too
 
+### some notes from "The Daily Stoic"  
+* TODO  
+
+
+### A Guide to the Good Life: The Ancient Art of Stoic Joy 
 
 #### ch2 - 斯多葛主義是鍛鍊（主觀认知的）情緒韌性的良方  
 * 斯多葛主義強調實際效能、心理韌性和情緒自我調節  
@@ -79,8 +83,8 @@ Also, you should love and accept yourself too
 
 ##### ch3-2 與人交往的技巧  
 * 避開有惡習，愛抱怨，價值觀被腐蝕的朋友  
-    - 在盡社會責任時，我們是不能夠選擇的： **有時為了共同的利益**，我們必須與令人討厭，誤入歧途或心術不正的人交往  
-    - **在與誰為友的問題上**，我們是能夠選擇的  
+    - 在盡社會責任時，我們是不能夠選擇的： 有時為了共同的利，我們必須與令人討厭，誤入歧途或心術不正的人交往  
+    - 在與誰為友的問題上，我們是能夠選擇的  
 
 * 用社會宿命論看待有毒型人物  
     - 在與人討厭的人交往時，我們還需謹記，這世上一定會有人討厭我們， 這會讓我們更包容一些  
@@ -150,7 +154,7 @@ Also, you should love and accept yourself too
 TODO  
 
 
-#### reference 
+### reference 
 * [Meditations] by Marcus Aurelius  
 * [The Daily Stoic] by Ryan Holiday
 * [善用悲觀的力量]  
