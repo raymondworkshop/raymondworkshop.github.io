@@ -1,9 +1,11 @@
 ---
-title: " 摘錄自 《世界簡史》"
+title: "Notes on 'A Short History of the World'"
 date: 2024-04-13
 tags: [home, learning, history]
 abstract: "notes on History"
 ---
+
+> 從世界看國家， 不要從國家看世界  - 周有光  
 
 #### notes
 
