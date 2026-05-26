@@ -7,10 +7,10 @@ categories: [language, english, important]
 abstract: "English Listening and Pronunciation"
 ---
 
-#### The Sounds of English: Elementary Course
+#### The Sounds of English
 
 ##### reference
-
+- [英语口音纠正课程](https://open.163.com/newview/movie/free?pid=MDR81HCB8&mid=MDR81U0RL)
 - [The Sounds of English: Elementary Course](https://mscharlotteacademy.teachable.com/courses/enrolled/2078007)
 - [The Sounds of English: Advanced Course](https://mscharlotteacademy.teachable.com/courses/enrolled/2779916)
 
