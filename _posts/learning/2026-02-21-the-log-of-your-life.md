@@ -11,21 +11,96 @@ abstract: "personal reflection journal"
 
 #### 2026-05-26  
 * TODO  
-    - 过于追求独立自主  
+    - 融入香港本地    
+        - TODO  
+    - 做如下一些练习， 以避免过度    
+        - 过于追求自主，过于追求能力， 过于追求心中的完美或者真理， 过于真诚， 过于平视对方     
 
-    - 平等的执念  
-        - 根据理论去行动，而不是自己的实践经验  
-
-    - **有效** - truth
+    - **求有效** - truth  
+        - **采信这个判断** **是否能引导你做出正确的行动并获得预期的反馈**  
         - 有效性： 投资决策， 战略规划， 人际博弈  
         - “**有效的真相**“ 优于 “精准的真相”  
-        - **采信这个判断** 是否能引导你做出正确的行动并获得预期的反馈  
+        - 求完美或真理 -> 求逻辑自洽 -> **求有效**  
+        - reality is not your mother. It does not care what you meant well.
+        **It rewards positioning**,**leverage, timing, competentce, and the ability to act without needing permission from your emotions** . A weak man uses morality to execuse his lack of strategy. He wants the world to reward his good intentions, clean heart, and honest effort.
+        
+    - 过于自主和自立  
+        - 真正的自主并非排斥责任，而是**选择在哪里，以何种能力去承担责任** ，而这种选择需要与群体追求的共同意义相匹配  
+            - 真正的连接 需要 “共同追求意义”  
+        - **探索定位**， **如何合作和互助**  
+            - 知道自己的角色和团队协作  
+            - 学会与不同的人沟通  
+            - 领导力； 对人的理解和激励； 见识，阅历， 在困难情况下做决定的能力  
+
+        - 熟人社会里的独立个体  
+            - 使用“平行动作” 拒绝上下级标签  
+                - **用“讨论”** 代替 “服从”， 把对方的“命令” 降格为 “建议”  
+                - “**这个想法挺有意思**。 不过我觉得我们也可以试试另一种方式..."
+            - 当别人试图把责任推给你时 （把你当上级）
+                - 及时把球踢回去， **明确“课题分离”**， 不主动承揽别人的责任  
+                - “**这次活动大家都出点力**， **不如我们把任务分一下**， 你负责A, 我负责B, 怎么样？”  
+        - 工作中 **把上司 当称你的 “大客户”**， 他不是你的主人 
+            - 把上司“命令” 看作 “**需求说明书**”  
+            - **用专业视角去“管理预期”**， **协助对方做决策**  
+            - “如果按照这个方案做，可靠会带来A和B的风险。 我建议另外两个优化，你看哪个更符合预期？“   
+            - 面对一个问题， **你需要想好怎么做，然后主动向老板提议这么做，再问他有什么想法** 
+                - 如果这个问题没有完美解法，你需要想好多种做法，对比它们的优缺点，然后陈列给老板看，指出你推荐的做法，但**让他做最终选择**
+                - 想好了怎么做就立即动手做，不问老板，是有风险的。 你需要提前想好， 哪些事情老板只看结果不看过程，
+                哪些事情老板不同意你的trade-off你直接做了就会受到惩罚  
+                - 想都不想就问老板要解法则是懒惰，除非这是老板知道远超你能力范围的工作。
+                如果你和上司**对与你“能力范围”的期望不一致**，你同样会死
+
+        - 工作中 **把下级是 “项目外包商”**， 你不是他们的“保姆”  
+            - **用流程和机制去约束**， 不要用情感去管理  
+                - **建立 “带着方案来敲门”的文化**， 永远不要直接给答案。 你一给答案，责任就变成你的了  
+                - “这个问题确实棘手。 不过我想先听听，你目前想到的两个方案是什么？ 他们的优缺点你评估过吗？”  
+            - **明确责任和权力边界**： 在派发任务时， **把过程责任和最终责任分清楚**  
+                - 这个项目的过程推进和执行决策由你全权负责，如果搞砸了，你需要承担相应的绩效后果。
+                我作为上级，只负责在必要时提供资源支持  
+            
+    - 过于追求能力  
+        - 不是展示自己的能力， 而是**连接 + 影响力**   
+        - Game theory explains **why alliances matter more** than personal strength in many rooms. A lone competent man can be isolated, delayed, misrepresented, or outvoted. **Power compounds when the right people have an incentive to defend your position**. Never confuse independence with having no network.  
+        - 自己过于追求独立和平视， 进而被孤立  
+
+    - 过于真诚  
+        - “好人”契约 - **诚实， 尊重， 清晰**  
+            - 坦率表达立场，同时保持尊重和善意  
+            - **通过沟通设定边界**  
+            - 确认自己想要什么？  
+            
+        - **建立“自私”边界**  
+            - 这是我的问题还是对方的问题？
+            - 解决这个问题， 是**对我的目标有益**， 还是仅仅为了平复对方的情绪？
+            - 如果我不帮他解决，最坏的情况我能承受吗？ 
+            - 50% 关注对方， 50% 守住自己的立场  
+        - 避免过度共情  
+            - 太快进入对方语境，你的自我边界会变得模糊。
+            你会优先考虑如何完成这段对话，而不是如何达成你的目标。
+            这可能源于**内心深处对冲突的潜意识回避**-因为直接讨论价格看起来是完成任务，
+            而质疑对方的动机（澄清问题）在潜意识里可能被你任务是一种“冒犯”
+            - 引入“缓冲秒钟”
+                - “澄清问题”的技巧，先**锁定对方的核心诉求**  
+        - 朋友关系 - **“分层”保护精力**  
+            - 知己 - 维持高标准 
+                + **找那些同样重视深度，言行一致的人**  
+            - 熟人 - 比如共同爱好  
+                + 把注意力放在共同完成一件事的“**行动可靠**”上，只要大家在活动中**规矩友善**即可；
+                降低对他们的“灵性真诚”要求
+            
+
+    - 过于平视对方  
+        - **是有阶级的**  
+            - "**雅典人信仰民主，但不相信平等**。 在他们看来，人生而不平等，也永远不会平等"
+        - **对自己有利的前提下**， 而不是公平或牺牲自己  
 
 * SELF  
-    - 平等的执念  
+    - 平等的执念  - 平视  
         - 家传 - 把自己放在和对方平视的地位  
             - 民主寻求的是自由的平等； 而不是 限制和顺从中的平等  
+            - 根据理论去行动， 而不是 自己经验反馈  
         - **是有阶级的**  
+            - "**雅典人信仰民主，但不相信平等**。 在他们看来，人生而不平等，也永远不会平等"
         - **对自己有利的前提下**， 而不是公平或牺牲自己  
         
         
@@ -99,7 +174,9 @@ abstract: "personal reflection journal"
     -  **有用** - **在行动中被证实为“有用”的东西**
         - 有效性： 投资决策， 战略规划， 人际博弈
         - “**有效的真相**” 优于 “精准的真相”
-        - **采信这个判断** 是否能引导你做出正确的行动并获得预期的反馈  
+        - **采信这个判断** 是否能引导你做出正确的行动并获得预期的反馈 
+    
+ 
 
 #### 2026-05-18  
 * TODO  
@@ -208,7 +285,7 @@ abstract: "personal reflection journal"
 
         - **練習透明溝通**  
             - 與其在內心笑話“不知道”空間，不入把它說出來  
-            - 比如 “**這件事我目前也沒有確定的答案，我需要大家的視角**，我們先嘗試a犯案，如果失敗，我們一起復盤”  
+            - 比如 “**這件事我目前也沒有確定的答案，我需要大家的視角**，我們先嘗試，如果失敗，我們一起復盤”  
 
         - 區分 “責任” 與 “罪惡”  
             - 分清 “事” 與 “人”  
@@ -262,7 +339,7 @@ abstract: "personal reflection journal"
 
         - management - resource leverage  
             - your **position your team as a 'center of excellent'** rather than a 'support'  
-            - **公平是 主管的** 
+            - **公平是 主观的** 
             - **position your request as a solution to their problem**, 而不是公平  
 
         - leadership - authority via intent  
@@ -275,7 +352,7 @@ abstract: "personal reflection journal"
                 Your value shouldn't be what you can do,
                 but **how much better the team performs** because you are overseeing them  
 
-            - negotiating for 'fairness'.
+            - negotiating for 'fairness'  
                 - the risk: approach a negotiation hoping the other side will be 'fair'
                 - the blind spot: **'fair' is subjective**.
                 If you lead with what you need or what is fair, you lose  
