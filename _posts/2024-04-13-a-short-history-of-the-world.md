@@ -5,9 +5,9 @@ tags: [home, learning, history]
 abstract: "notes on History"
 ---
 
-> 從世界看國家， 不要從國家看世界  - 周有光  
+>  <small>"從世界看國家， 不要從國家看世界"</small>  - 周有光  
 
-#### notes
+#### notes from "A Short History of the World"
 
 -   **对火的熟练运用** - 这是几千年中无数次灵机一动与实验的结果 - 是人类的伟大成就之一
 
