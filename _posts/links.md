@@ -118,7 +118,7 @@ date: 2012-03-19
 
 #### funs
 
--   [余英时](https://www.aisixiang.com/data/search.php?keyWords=%D3%E0%D3%A2%CA%B1&searchfield=author)
+-   [余英时](https://events.linkingbooks.com.tw/LNB/top/2022/yu/index.html)
 -   [刘瑜](http://www.aisixiang.com/thinktank/liuyu.html)
 -   [资中筠](http://www.aisixiang.com/thinktank/zizhongyun.html)
 -   [赵鼎新](http://www.aisixiang.com/thinktank/zhaodingxin.html)
