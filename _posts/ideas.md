@@ -20,3 +20,7 @@ date: 2021-08-05
 ##### <u>[chatwithme](https://github.com/muyun/dev.kbs/tree/master/chatwithme)</u>
 
 ##### [Share] your personal true story
+
+
+---
+Evolved into: [[ideas]]
