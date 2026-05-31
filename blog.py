@@ -12,6 +12,21 @@ import markdown.extensions.fenced_code
 import highlighting
 import style
 
+POSTS_PER_PAGE = 20
+EXCLUDED_INDEX_TITLES = {
+    "Slides",
+    "About",
+    "links",
+    "invest",
+    "docs",
+    "ideas",
+    "Projects",
+    "Talks",
+    "Bookshelf",
+    "Coaching",
+    "business",
+}
+
 # render markdown into HTML
 jinja_env = jinja2.Environment(
     loader=jinja2.FileSystemLoader("templates"),
@@ -145,10 +160,42 @@ def write_posts(path: pathlib.Path) -> Sequence[frontmatter.Post]:
 def write_index(posts: Sequence[frontmatter.Post], path: pathlib.Path):
     # Home index
     posts = sorted(posts, key=lambda post: post["date"], reverse=True)
+    if path == pathlib.Path("."):
+        write_paginated_home(posts)
+        return
+
     path = pathlib.Path("./docs/{}/index.html".format(str(path)))
     template = jinja_env.get_template("index.html")
     rendered = template.render(posts=posts)
     path.write_text(rendered)
+
+
+def should_show_on_home(post: frontmatter.Post) -> bool:
+    return post["title"] not in EXCLUDED_INDEX_TITLES
+
+
+def write_paginated_home(posts: Sequence[frontmatter.Post]):
+    posts = [post for post in posts if should_show_on_home(post)]
+    template = jinja_env.get_template("index.html")
+    total_pages = max(1, (len(posts) + POSTS_PER_PAGE - 1) // POSTS_PER_PAGE)
+
+    for page in range(1, total_pages + 1):
+        start = (page - 1) * POSTS_PER_PAGE
+        end = start + POSTS_PER_PAGE
+        output_path = pathlib.Path("./docs/index.html")
+        if page > 1:
+            output_path = pathlib.Path(f"./docs/page/{page}/index.html")
+
+        pagination = {
+            "page": page,
+            "total_pages": total_pages,
+            "previous_url": "/index.html" if page == 2 else f"/page/{page - 1}/index.html" if page > 2 else None,
+            "next_url": f"/page/{page + 1}/index.html" if page < total_pages else None,
+        }
+
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        rendered = template.render(posts=posts[start:end], pagination=pagination)
+        output_path.write_text(rendered)
 
 
 def write_docs(root: str):

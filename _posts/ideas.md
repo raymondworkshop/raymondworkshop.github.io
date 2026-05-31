@@ -22,5 +22,3 @@ date: 2021-08-05
 ##### [Share] your personal true story
 
 
----
-Evolved into: [[ideas]]
