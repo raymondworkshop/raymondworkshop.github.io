@@ -11,7 +11,7 @@ abstract: 'This is a summary from the book <a href="https://www.goodreads.com/bo
 
 ### Content
 
-We often ask ourselves the similar questions like:<font color="#800080">How could we have more enjoyable life? When do we feel most happy? </font>
+We often ask ourselves the similar questions like: <font color="#800080">How could we have more enjoyable life? When do we feel most happy? </font>
 
 Author Mihaly Csikzentmihalyi lists the examples to show that it does not depend on outside events, but,rather, on how we interpret them. Also we cannot reach happiness by consciously searching for it.Because it is by being fully involved with every detail of our lives, whether good or bad, that we find happiness, not by trying to look for it directly. But there is a circuitous path that begins with achieving control over the contents of our consciousness.
 

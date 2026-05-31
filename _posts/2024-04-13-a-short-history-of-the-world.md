@@ -1,11 +1,13 @@
 ---
-title: " 摘錄自 《世界簡史》"
+title: "Notes on 'A Short History of the World'"
 date: 2024-04-13
 tags: [home, learning, history]
 abstract: "notes on History"
 ---
 
-#### notes
+>  <small>"從世界看國家， 不要從國家看世界"</small>  - 周有光  
+
+#### notes from "A Short History of the World"
 
 -   **对火的熟练运用** - 这是几千年中无数次灵机一动与实验的结果 - 是人类的伟大成就之一
 
