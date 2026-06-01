@@ -9,7 +9,7 @@ abstract: "notes on Think and Grow Rich, Rich Dad Poor Dad"
 
 #### know your Desire
 
-#### ch1 - Success Consciousness
+#### ch1 - Success Consciousness  
 
 - turn the word 'impossible' out  
 
