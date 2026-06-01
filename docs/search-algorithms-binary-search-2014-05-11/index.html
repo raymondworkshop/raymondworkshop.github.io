@@ -1,62 +1,50 @@
 <!doctype html>
 <html lang="en">
-<meta charset="utf-8">
-<!--
-<meta http-equiv="content-language” content=”en, zh”>
--->
-<script>
-    MathJax = {
-        tex: {
-            inlineMath: [['$', '$']]
-        },
-        svg: {
-            fontCache: 'global'
-        }
-    };
-</script>
-<script type="text/javascript" id="MathJax-script" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-<title>  - muyun_</title>
-<link rel=" stylesheet" href="/static/style.css">
-<link rel="stylesheet" href="/static/pygments.css">
-<nav>
-    <h1><small><a href="/index.html">bestraymond</a></small></h1>
-    <ul>
-        <li><a href="/index.html"> Blog </a>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+        MathJax = {
+            tex: {
+                inlineMath: [['$', '$']]
+            },
+            svg: {
+                fontCache: 'global'
+            }
+        };
+    </script>
+    <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <title>Search Algorithms: Binary Search - muyun_</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="/static/pygments.css">
+</head>
+<body>
+    <div class="shell">
+        <header class="site-header">
+            <nav class="site-nav" aria-label="Primary">
+                <a class="brand" href="/index.html">bestraymond</a>
+                <ul class="nav-links">
+                    <li><a href="/index.html">Blog</a></li>
+                    <li><a href="/bookshelf.html">Bookshelf</a></li>
+                    <li><a href="/slides.html">Slides</a></li>
+                    <li><a href="/coaching.html">Coaching</a></li>
+                    <li><a href="/links.html">Links</a></li>
+                    <li><a href="/about.html">About</a></li>
+                </ul>
+            </nav>
+        </header>
 
-                 
-        <!--
-        <li><a href="/slides.html"> Slides </a>
-        -->
-
-        <li><a href="/bookshelf.html"> Bookshelf </a>
-        <li><a href="/slides.html"> Slides </a>
-        <li><a href="/coaching.html"> Coaching </a>
-        <li><a href="/links.html"> Links </a>      
-                   
-  
-            <!--
-        <li><a href="/talks.html"> Talks </a>
-            -->
-
-        <li><a href="/about.html"> About </a>
-    </ul>
-</nav>
-
-<section class="content">
-    <!--
-    <header>
-        
-<title> Search Algorithms: Binary Search</title>
-
-      </header>
-      -->
-    
+        <main class="content">
+            
 <article class="post">
-    <header>
-        <h1><strong>Search Algorithms: Binary Search</strong></h1>
+    <header class="post-header">
+        <h1>Search Algorithms: Binary Search</h1>
+        
+        <p class="post-meta">2014-05-11</p>
+        
     </header>
-    <p class="body"><h3>Introduction</h3>
+    <div class="post-body"><h3>Introduction</h3>
 <p>A symbol table is a data structure for <strong>key-value pairs</strong> that supports two operations: insert (put) a new pair into the table and search for (get) the value associated with a given key .</p>
 <p>Binary search in an ordered array can implement the symbol table API. The underlying data structure is two parallel array, <strong>with the keys kept in order</strong>.</p>
 <h3>The Implementation  with Java</h3>
@@ -141,17 +129,15 @@
 <h3>References:</h3>
 <ul>
 <li><a href="http://algs4.cs.princeton.edu/31elementary/">Elementary Symbol Tables</a></li>
-</ul></p>
+</ul></div>
 </article>
 
 
+        </main>
 
-
-</section>
-
-
-<div class="footer">
-    <ul>
-        &copy; 2026 <a href="/index.html"></a>FF Workshop
-    </ul>
-</div>
+        <footer class="footer">
+            <p>&copy; 2026 FF Workshop</p>
+        </footer>
+    </div>
+</body>
+</html>

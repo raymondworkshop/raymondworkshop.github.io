@@ -1,62 +1,50 @@
 <!doctype html>
 <html lang="en">
-<meta charset="utf-8">
-<!--
-<meta http-equiv="content-language” content=”en, zh”>
--->
-<script>
-    MathJax = {
-        tex: {
-            inlineMath: [['$', '$']]
-        },
-        svg: {
-            fontCache: 'global'
-        }
-    };
-</script>
-<script type="text/javascript" id="MathJax-script" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-<title>  - muyun_</title>
-<link rel=" stylesheet" href="/static/style.css">
-<link rel="stylesheet" href="/static/pygments.css">
-<nav>
-    <h1><small><a href="/index.html">bestraymond</a></small></h1>
-    <ul>
-        <li><a href="/index.html"> Blog </a>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+        MathJax = {
+            tex: {
+                inlineMath: [['$', '$']]
+            },
+            svg: {
+                fontCache: 'global'
+            }
+        };
+    </script>
+    <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <title>Notes on Android SDK dev - muyun_</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="/static/pygments.css">
+</head>
+<body>
+    <div class="shell">
+        <header class="site-header">
+            <nav class="site-nav" aria-label="Primary">
+                <a class="brand" href="/index.html">bestraymond</a>
+                <ul class="nav-links">
+                    <li><a href="/index.html">Blog</a></li>
+                    <li><a href="/bookshelf.html">Bookshelf</a></li>
+                    <li><a href="/slides.html">Slides</a></li>
+                    <li><a href="/coaching.html">Coaching</a></li>
+                    <li><a href="/links.html">Links</a></li>
+                    <li><a href="/about.html">About</a></li>
+                </ul>
+            </nav>
+        </header>
 
-                 
-        <!--
-        <li><a href="/slides.html"> Slides </a>
-        -->
-
-        <li><a href="/bookshelf.html"> Bookshelf </a>
-        <li><a href="/slides.html"> Slides </a>
-        <li><a href="/coaching.html"> Coaching </a>
-        <li><a href="/links.html"> Links </a>      
-                   
-  
-            <!--
-        <li><a href="/talks.html"> Talks </a>
-            -->
-
-        <li><a href="/about.html"> About </a>
-    </ul>
-</nav>
-
-<section class="content">
-    <!--
-    <header>
-        
-<title> Notes on Android SDK dev</title>
-
-      </header>
-      -->
-    
+        <main class="content">
+            
 <article class="post">
-    <header>
-        <h1><strong>Notes on Android SDK dev</strong></h1>
+    <header class="post-header">
+        <h1>Notes on Android SDK dev</h1>
+        
+        <p class="post-meta">2016-03-31</p>
+        
     </header>
-    <p class="body"><blockquote>
+    <div class="post-body"><blockquote>
 <p><small> A share about Android NDK - build c/c++ code into shared lib app uses </small></p>
 </blockquote>
 <h4>Android NDK - build c/c++ code into shared lib app uses</h4>
@@ -113,17 +101,15 @@
 <li>
 <p>the basic idea is to link the relocation and symbol table info when the executable file is created, and then complete the linking process (code and data ) dynamically when the program is loaded</p>
 </li>
-</ul></p>
+</ul></div>
 </article>
 
 
+        </main>
 
-
-</section>
-
-
-<div class="footer">
-    <ul>
-        &copy; 2026 <a href="/index.html"></a>FF Workshop
-    </ul>
-</div>
+        <footer class="footer">
+            <p>&copy; 2026 FF Workshop</p>
+        </footer>
+    </div>
+</body>
+</html>
