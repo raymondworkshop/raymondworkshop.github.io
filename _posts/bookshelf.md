@@ -27,8 +27,9 @@ date: 2012-03-19
 - [The Daily Stoic] by Ryan Holiday  
 - [Don't sweat the small stuff in love]  
 
+- [Turning Your Business into an Enduring Great Company] by Jim Collins  
+- [Think and Grow Rich] by Napoleon Hill  
 - [Your Money or Your Life] by vicki Robin  
-- [Think and Grow Rich] by Napoleon Hill
 
 - [Fluent Python]  
 - [The Product-Minded Engineer] by Drew Hoskins  
