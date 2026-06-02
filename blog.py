@@ -12,6 +12,12 @@ import markdown.extensions.fenced_code
 import highlighting
 import style
 
+if not hasattr(frontmatter, "load"):
+    raise RuntimeError(
+        "Incompatible 'frontmatter' module detected. "
+        "Install 'python-frontmatter' and remove the conflicting 'frontmatter' package."
+    )
+
 POSTS_PER_PAGE = 20
 EXCLUDED_INDEX_TITLES = {
     "Slides",
