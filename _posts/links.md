@@ -30,7 +30,6 @@ date: 2012-03-19
 
 -   [Harvard Business Review](https://web.s.ebscohost.com/ehost/command/detail?vid=0&sid=abaed321-cf98-4f9d-9064-b3cb2c1d403d%40redis&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#jid=HBR&db=bth)
 -   [How To Win Friends And Influence People](https://socialskillswisdom.com/)
--   [The Book of Pook](https://bookofpook.com/)
 
 -   [Lambda the Ultimate - Group blog that tracks innovations in Programming Languages research](http://lambda-the-ultimate.org/)
 
@@ -64,6 +63,7 @@ date: 2012-03-19
 
 -   [Niniane](http://niniane.blogspot.hk/)
 -   [programming in the twenty-first century](http://prog21.dadgum.com/)
+
 -   [bast.bookmarks](https://bast.fr/bookmarks/)
 -   **[fs on softkills](https://fs.blog/blog/)**
 
