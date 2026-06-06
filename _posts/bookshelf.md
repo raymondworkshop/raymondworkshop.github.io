@@ -29,6 +29,7 @@ date: 2012-03-19
 
 - [Turning Your Business into an Enduring Great Company] by Jim Collins  
 - [Think and Grow Rich] by Napoleon Hill  
+- [邱吉爾：與命運同行] by Andrew Roberts   
 - [Your Money or Your Life] by vicki Robin  
 
 - [Fluent Python]  
@@ -47,7 +48,7 @@ date: 2012-03-19
 - [拆掉思維裡的牆] by 古典
 - [Designing Your Life: How to Build a Well-Lived, Joyful Life] by Burnett, Bill/ Evans, Dave
 
-- [丘吉尔传] by Andrew Roberts
+
 - [猫鱼] by 陈冲
 - [張忠謀自傳]
 - [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti

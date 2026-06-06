@@ -10,7 +10,7 @@ abstract: "personal reflection journal"
 > self-assessments should allow you to identify several areas of focus for growth 
 
 #### 2026-06-01
-* TODO  
+* TODO    
     - 安全範圍內的試探  
         - **回答 (Facts)** + **細節/感受 (Feeling)** + **拋回問題 (Question)**  
             - 問對方 變為 展示自己  
