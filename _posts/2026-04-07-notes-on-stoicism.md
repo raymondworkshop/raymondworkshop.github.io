@@ -9,15 +9,15 @@ abstract: "Notes on Stoic Philosophy"
 
 
 ### Stoicism  
-Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium around 300 BCE, helping us better deal with life’s inevitable ups and downs so that we can have a happier and more peaceful life. 
+Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium around 300 BCE, helping us better deal with life’s inevitable ups and downs so that we can have a happier and more peaceful life.  
 
-The big three  
-    - control your perceptions  
-    - direct your actions properly    
-    - willingly accept what's outside your control    
+Stoicism emphasizes radical self-awareness:    
+* control your perceptions  
+* direct your actions properly    
+* willingly accept what's outside your control    
 
 
-### some notes from "The Daily Stoic"  
+### notes from "The Daily Stoic"  
 * TODO  
 
 
@@ -73,10 +73,9 @@ The big three
 ##### ch3-1 熱愛人類是我們的義務  
 * 与他人维持关系，是身为人的责任  
     - 人的功用就是做人該做的事， 就是“為了某種責任”  
-    - 人本质是社会动物，**有责任与其他人形成和维持关系**，**尽管这些人可能会带给我们麻烦**；
-    我们生来就是要活在人群当中，并以互利的方式互动  
+    - 人本质是社会动物，**有责任与其他人形成和维持关系**，**尽管这些人可能会带给我们麻烦**；我们生来就是要活在人群当中，并以互利的方式互动  
 
-* 我们应该**面对讨厌的人**，并**为了共同的利益而与他们合作**  
+* 我们应该面对讨厌的人，并为了共同的利益而与他们合作
     - 交易型的关系本身并无对错，但要把它和能深入合作共赢的长期关系区分开来， 这样才能保护自身的宝贵精力，避免不必要的冲突和消耗  
 
 * 如果做了生来就该做的那些事，我们就会享受真正的喜悦  
@@ -94,31 +93,31 @@ The big three
     - **把令人討厭的事件放到宇宙背景中**，這種事情的微不足道會越加明顯，因而減輕我們的煩惱  
     - 在與令人討厭的人打交道的過程中，最大的風險是 我們會憎恨他們； 而**仇恨會帶給我們傷害**  
 
-##### ch3-3 侮辱 
+##### ch3-3 侮辱  
 * 想想那些侮辱者**所说的是否真实**。 如果说的是真的，那我们就没有什么理由感到沮丧  
 
-* 想想侮辱者**到底了解多少**； 是他们真的相信他们所说的属实， 或只是说出了对事物的感受  
+* 想想侮辱者到底了解多少； 是他们真的相信他们所说的属实， 或只是说出了对事物的感受  
     - 与其为他的诚实生气， 倒不如心平气和地纠正他们的看法  
 
-* 能够有效消除痛苦的策略， 是**思考侮辱的来源**  
+* 能够有效消除痛苦的策略， 是思考侮辱的来源
     - 比如批评我的人是我付钱请来的老师， 我应该感谢他的批评才对  
-    - 如果我们因为这些孩子气的成人侮辱我们而感到痛苦，**同样是愚蠢的**  
+    - 如果我们因为这些孩子气的成人侮辱我们而感到痛苦，同样是愚蠢的    
 
 * 伴随侮辱而来的任何伤害其实都源于自己  
     - 困扰人们的不是事情本身，而是**人们对于这些事情的看法**；
     这完全取决于自己的价值观， 而价值观属于自己能够完全掌控的事物    
 
 * 用幽默回应侮辱  
-    - **自我贬低的幽默特别有效**  
-    - **想想他作为一个侮辱者是否称职**  
+    - 自我贬低的幽默特别有效   
+    - 想想他作为一个侮辱者是否称职  
 
 * 不理会才是最好的回应  
-    - **不回应，继续做自己的事** ， 仿佛侮辱者什么都没说；
+    - 不回应，继续做自己的事 ， 仿佛侮辱者什么都没说；
     根本没意识到侮辱者的存在    
 
 * 必要时， 警告并处罚对方  
     - 如果施辱者是某人的雇员，学生或孩子，会让受辱者感到非常尴尬和难过；
-    在这种情况下，惩罚不是因为侮辱者指责了自己，而是**因为要纠侮辱者不正确的行为**  
+    在这种情况下，惩罚不是因为侮辱者指责了自己，而是因为要纠侮辱者不正确的行为    
 
 ##### ch3-4 悲痛  
 * **用消极想像对抗悲痛**  
