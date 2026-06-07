@@ -5,28 +5,37 @@ date: 2012-03-13
 
 ### Some of my Slides!
 
-#### 2026-05-07 Personal AI-powered wiki + Socratic Mirror   
-- Check out the project on [https://github.com/raymondworkshop/dev.self-wiki/tree/master]  
-    - treat AI as the "OS" and the wiki as the "Context Window" for high-resolution self-reflection; This also can be on (personal) coaching service.  
+#### 2026-05 self-wiki: Personal AI-powered wiki + Socratic Mirror   
+- [self-wiki](https://github.com/raymondworkshop/dev.self-wiki/tree/master) is a personal AI-powered wiki + Socratic Mirror service    
+    - treat AI as the "OS" and the generated wiki as the "Context Window" for high-resolution self-reflection  
+    - self-wiki project can be on coach or education   
   
 
-#### 2025-9-16 Mental Health for Every Mind
+#### 2025-09 Mental Health for Every Mind
 
-- Check out the introduction on [AI-powered cognitive behavioral therapist](https://github.com/raymondworkshop/dev.pie/blob/master/docs/pie.pdf)
-    - Your personal AI, a AI-powered cognitive behavioral therapist (CBT)
+- [Mental Health for Every Mind](https://github.com/raymondworkshop/dev.pie/blob/master/docs/pie.pdf) is an AI-powered cognitive behavioral therapist (CBT)  
 
-#### 2023-04-08 Factoid Question Answering (QA)
+#### 2024-10 A tiny Scheme interpreter with Python  
+- lis.py shows the interpreter details 
+    - program - parse -> abstract-syntax-tree - eval -> result   
+    > lis.py> (begin (define r 10) (* pi (* r r)))  
+    > 314.1592653589793  
+    > lis.py> 
 
-- Question Answering (QA) tasks return an answer given a question. This [slide](<(https://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)>) summarizes the recent progress on this topic .
 
-#### 2022-06-18 An introduction and the related experiments on Natural Legal Language Processing
+#### 2023-04 Factoid Question Answering (QA)
+
+- Question Answering (QA) tasks return an answer given a question. The [slide](<(https://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)>) summarizes the recent progress on this topic .
+
+#### 2022-06 An introduction and the related experiments on Natural Legal Language Processing
 
 - Check out the introduction and the related experiments on [NLP in legal domain](https://github.com/muyun/dev.nllp/blob/master/docs/nllp-20210618.pdf)
     - The unstructured legal texts are not only commercial ones, but also judgments, scholarly articles, arguments and pleadings
 
 #### 2021-08 My slide on Japan in views of culture at HKU SPACE
 
-- Check out the introduction on [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso)
+- An introduction on [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso)
+
 
 #### 2017-2020 Some of my slides on Artificial Intelligence and its applications in Language & Speech at HSUHK
 
@@ -44,8 +53,8 @@ date: 2012-03-13
 - [iSpeaking - Automatic Speech Recognition for L2 (english&chinese) learners](https://docs.google.com/presentation/d/1qQC-UeyoCN7V9WVZTzPQqjbsb1NS8HI3/edit#slide=id.p1)
 
 #### 2017-05 Text simplification
-
-Our paper "[A Customizable Editor for Text Simplification](https://drive.google.com/file/d/0B8JbPdkDj7JZblBqcWVhVWdFTUE/view)" has been accepted for publication at COLING 2016 on Computational Linguistics, Osaka,Japan.
+- The system can simplify English text with syntactic and lexical complexity while keeping the original meaning intact
+    - Our paper "[A Customizable Editor for Text Simplification](https://drive.google.com/file/d/0B8JbPdkDj7JZblBqcWVhVWdFTUE/view)" on this has been accepted for publication at COLING 2016 on Computational Linguistics, Osaka,Japan.
 
 #### 2015-11 Privacy-preserving Similar Search
 
@@ -71,11 +80,11 @@ The method first reconstructs an initial 3D model by selecting uniformly distrib
 
 #### 2013-04 Finding Better Experts
 
-This [report](https://drive.google.com/file/d/0B8JbPdkDj7JZUGF1S1BiRjhUYzQ/view?usp=sharing) focuses on the problem of finding better experts in micro-blogging services (like Sina weibo/twitter).
+This [paper](https://drive.google.com/file/d/0B8JbPdkDj7JZUGF1S1BiRjhUYzQ/view?usp=sharing) focuses on the problem of finding better experts in micro-blogging services (like Sina weibo/twitter).
 
 Now micro-blogging has been one of the most popular platforms where users can describe their current status in short posts. Micro-blogging uses a model called “following”, in which users can choose who he/she wants to follow without the latter to give the permission first.
 
-This report is based on the existence of homophily to measure the influence of users in micro-blogging. The algorithm TwitterRank is used because it takes the topical similarity between users and the link structure into account.
+This paper is based on the existence of homophily to measure the influence of users in micro-blogging. The algorithm TwitterRank is used because it takes the topical similarity between users and the link structure into account.
 
 #### Reference:
 
