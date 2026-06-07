@@ -5,6 +5,11 @@ date: 2012-03-13
 
 ### Some of my Slides!
 
+#### 2026-05-07 Personal AI-powered wiki + Socratic Mirror   
+- Check out the project on [https://github.com/raymondworkshop/dev.self-wiki/tree/master]  
+    - treat AI as the "OS" and the wiki as the "Context Window" for high-resolution self-reflection; This also can be on (personal) coaching service.  
+  
+
 #### 2025-9-16 Mental Health for Every Mind
 
 - Check out the introduction on [AI-powered cognitive behavioral therapist](https://github.com/raymondworkshop/dev.pie/blob/master/docs/pie.pdf)
