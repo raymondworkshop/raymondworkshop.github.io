@@ -7,7 +7,21 @@ categories: [home, AI, programming]
 abstract: "[Updating] Notes on Large Language Models"
 ---
 
-#### TODO  
+#### How LLMs Actually Work   
+* text -> tokenizer -> embedding lookup -> transformer -> unembedding -> softmax -> next token  
+
+* Tokenization  
+TODO  
+
+* Embeddings  
+
+* Positional encoding  
+
+* Attention  
+
+* feed-forward network  
+
+* next-token prediction  
 
 #### reference
 - [How LLMs Actually Work](https://www.0xkato.xyz/how-llms-actually-work/)  
