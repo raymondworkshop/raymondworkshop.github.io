@@ -1,3 +1,11 @@
 {
-    "python.formatting.provider": "black"
+    "python.formatting.provider": "black",
+    "editor.fontSize": 28,
+    "scm.inputFontSize": 16,
+    "terminal.integrated.fontSize": 16,
+    "markdown.preview.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "SF Pro, monospace, PingFang SC, PingFang TC",
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "Visual Studio Light"
 }
