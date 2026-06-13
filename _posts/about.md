@@ -3,7 +3,7 @@ title: About
 date: 2012-03-19
 ---
 
-Raymond ZHAO Wenlong is an engineer, and lifelong learner, and founder@Bean based in Hong Kong now. 
+Raymond ZHAO Wenlong is a product-minded engineer, and founder@Bean based in Hong Kong now. 
 
 This digital space is connected with his [Second Brain](https://github.com/raymondworkshop/dev.self-wiki) - a repository of knowledge he've curated over the years.  Outside of [reading](https://raymondworkshop.github.io/bookshelf.html) and tech, he also likes Philosophy, Nature, Art, and Movie.
 
