@@ -1,7 +1,8 @@
 #
+import json
 import pathlib
 import re
-from typing import Iterator, Sequence
+from typing import Any, Iterator, Sequence
 
 # import cmarkgfm
 import frontmatter
@@ -213,6 +214,97 @@ def write_docs(root: str):
         write_index(posts, subdir)
 
 
+def section_label(path: pathlib.Path) -> str:
+    name = str(path).strip("./")
+    return name.lstrip("_").title() if name else "Blog"
+
+
+def strip_markdown(text: str) -> str:
+    text = re.sub(r"```.*?```", " ", text, flags=re.DOTALL)
+    text = re.sub(r"`[^`]+`", " ", text)
+    text = re.sub(r"!\[([^\]]*)\]\([^)]+\)", r"\1", text)
+    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
+    text = re.sub(r"#{1,6}\s+", "", text)
+    text = re.sub(r"[*_~]+", "", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+
+def get_topics(post: frontmatter.Post) -> list[str]:
+    topics: list[str] = []
+    for field in ("categories", "tags"):
+        if post.get(field):
+            for topic in post[field]:
+                value = str(topic).strip().lower()
+                if value and value != "home":
+                    topics.append(value)
+    return list(dict.fromkeys(topics))
+
+
+def get_post_url(post: frontmatter.Post, path: pathlib.Path) -> str:
+    if post.get("tags") or post.get("categories"):
+        if post.get("date"):
+            stem = (
+                get_static_link(post["title"])
+                + "-"
+                + post["date"].strftime("%Y-%m-%d")
+            )
+        else:
+            stem = get_static_link(post["title"])
+        section = str(path).lower()
+        if section == ".":
+            return f"/./{stem}"
+        return f"/{section}/{stem}"
+    return f"/{post['title'].lower()}.html"
+
+
+def get_excerpt(post: frontmatter.Post) -> str:
+    if post.get("abstract"):
+        return strip_markdown(str(post["abstract"]))[:200]
+    return strip_markdown(post.content)[:200]
+
+
+def collect_search_posts() -> list[dict[str, Any]]:
+    entries: list[dict[str, Any]] = []
+    post_id = 0
+
+    for subdir in list_subdirs(SRCS):
+        for source in get_sources(subdir):
+            post = parse_source(source)
+            post["path"] = subdir
+            plain_body = strip_markdown(post.content)
+            topics = get_topics(post)
+            post_id += 1
+            entries.append(
+                {
+                    "id": str(post_id),
+                    "title": post["title"],
+                    "date": post["date"].strftime("%Y-%m-%d")
+                    if post.get("date")
+                    else "",
+                    "url": get_post_url(post, subdir),
+                    "section": section_label(subdir),
+                    "topics": topics,
+                    "excerpt": get_excerpt(post),
+                    "body": plain_body,
+                }
+            )
+
+    return entries
+
+
+def write_search_index(posts: Sequence[dict[str, Any]]) -> None:
+    path = pathlib.Path("./docs/static/search-index.json")
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(posts, ensure_ascii=False, indent=2))
+
+
+def write_search_page() -> None:
+    template = jinja_env.get_template("search.html")
+    rendered = template.render()
+    pathlib.Path("./docs/search.html").write_text(rendered)
+
+
 # the dir to put the src files
 SRCS = "./_posts/"
 
@@ -227,6 +319,10 @@ def main():
         # cannot update font-size in pygments
         #write_pygments_style_sheet() 
         write_docs(srcs)
+        search_posts = collect_search_posts()
+        write_search_index(search_posts)
+        write_search_page()
+        print(f"search: indexed {len(search_posts)} posts")
     except OSError as e:
         print("Erros: %s - %s." % (e.filename, e.strerror))
 
