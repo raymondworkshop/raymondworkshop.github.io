@@ -4,7 +4,7 @@ date: 2026-06-14
 layout: memex-index
 ---
 
-Think of this [memex](/memex/index.html) as a living, changing maze with no start or end — just raw, messy ideas.
+Think of this memex as a living, changing maze with no start or end — just raw, messy ideas.
 
 Outside of [reading](/bookshelf.html) and [[Tech]], I like [[Philosophy]], design, nature, and film.  And somethings like [[Research]], film, art, nature, picture, deasign ... 
 
