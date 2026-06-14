@@ -7,6 +7,62 @@
       .replace(/"/g, "&quot;");
   }
 
+  function hasCjk(text) {
+    return /[\u3040-\u9fff\uff00-\uffef]/.test(text);
+  }
+
+  function substringSearch(query, docs) {
+    const normalizedQuery = query.trim();
+    if (!normalizedQuery) {
+      return [];
+    }
+
+    const results = [];
+    docs.forEach(function (doc) {
+      const title = doc.title_search || doc.title || "";
+      const excerpt = doc.excerpt_search || doc.excerpt || "";
+      const body = doc.body_search || doc.body || "";
+      const topics = doc.topics_search || (doc.topics || []).join(" ");
+      let score = 0;
+
+      if (title.includes(normalizedQuery)) {
+        score = 3;
+      } else if (excerpt.includes(normalizedQuery)) {
+        score = 2;
+      } else if (topics.includes(normalizedQuery)) {
+        score = 1.5;
+      } else if (body.includes(normalizedQuery)) {
+        score = 1;
+      }
+
+      if (score) {
+        results.push({ ref: doc.id, score: score });
+      }
+    });
+
+    results.sort(function (a, b) {
+      return b.score - a.score;
+    });
+    return results;
+  }
+
+  function searchDocuments(query, docs, lunrIndex) {
+    if (hasCjk(query)) {
+      return substringSearch(query, docs);
+    }
+
+    try {
+      const lunrMatches = lunrIndex.search(query);
+      if (lunrMatches.length > 0) {
+        return lunrMatches;
+      }
+    } catch (error) {
+      // fall through to substring search
+    }
+
+    return substringSearch(query, docs);
+  }
+
   function buildIndex(docs) {
     return lunr(function () {
       this.ref("id");
@@ -118,7 +174,7 @@
       }
 
       try {
-        const matches = index.search(query);
+        const matches = searchDocuments(query, documents, index);
         renderResults(matches);
       } catch (error) {
         status.textContent = "No results.";

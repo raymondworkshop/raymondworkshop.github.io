@@ -22,6 +22,7 @@ if not hasattr(frontmatter, "load"):
     )
 
 POSTS_PER_PAGE = 20
+CJK_RE = re.compile(r"[\u3040-\u9fff\uff00-\uffef]")
 MEMEX_EXCLUDED_SECTIONS: set[str] = set()
 MEMEX_HUB_DIR = pathlib.Path("memex")
 WIKILINK_PATTERN = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
@@ -693,6 +694,23 @@ def get_excerpt(post: frontmatter.Post) -> str:
     return strip_markdown(post.content)[:200]
 
 
+_opencc_s2t = None
+_opencc_t2s = None
+
+
+def expand_for_search(text: str) -> str:
+    if not text or not CJK_RE.search(text):
+        return text
+    global _opencc_s2t, _opencc_t2s
+    if _opencc_s2t is None:
+        from opencc import OpenCC
+
+        _opencc_s2t = OpenCC("s2t")
+        _opencc_t2s = OpenCC("t2s")
+    variants = [text, _opencc_s2t.convert(text), _opencc_t2s.convert(text)]
+    return "\n".join(dict.fromkeys(variants))
+
+
 def collect_search_posts() -> list[dict[str, Any]]:
     entries: list[dict[str, Any]] = []
     section_hubs = _memex_ctx.get("section_hubs", {})
@@ -720,11 +738,15 @@ def collect_search_posts() -> list[dict[str, Any]]:
 
         slug = get_static_link(post["title"])
         plain_body = strip_markdown(post.content or "")
+        title = post["title"]
+        excerpt = get_excerpt(post)
+        topics = get_topics(post)
 
         entries.append(
             {
                 "id": str(post_id),
-                "title": post["title"],
+                "title": title,
+                "title_search": expand_for_search(title),
                 "date": post["date"].strftime("%Y-%m-%d")
                 if post.get("date")
                 else "",
@@ -732,9 +754,12 @@ def collect_search_posts() -> list[dict[str, Any]]:
                 "section": section,
                 "hub_url": hub_url,
                 "hub_title": hub_title,
-                "topics": get_topics(post),
-                "excerpt": get_excerpt(post),
+                "topics": topics,
+                "topics_search": expand_for_search(" ".join(topics)),
+                "excerpt": excerpt,
+                "excerpt_search": expand_for_search(excerpt),
                 "body": plain_body,
+                "body_search": expand_for_search(plain_body),
                 "backlink_count": len(backlinks.get(slug, [])),
                 "outgoing_count": len(get_outgoing_links(post)),
             }
