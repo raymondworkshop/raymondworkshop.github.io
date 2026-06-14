@@ -15,6 +15,10 @@ date: 2012-03-19
 
 -   [thewirechina](https://www.thewirechina.com/)
 
+#### wiki  
+* [crlf.link](https://crlf.link/mem/)  
+* [Devine Lu Linvega's wiki](https://wiki.xxiivv.com/site/about.html)
+
 #### insightful
 
 -   [Startup Playbook](https://playbook.samaltman.com/)
