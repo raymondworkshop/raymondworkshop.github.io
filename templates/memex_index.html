@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}Memex{% endblock %}
+
+{% block content %}
+<section class="post-list memex-index" aria-label="Memex pages">
+    <header class="post-header">
+        <h1>Memex index</h1>
+        <p class="post-meta"><a href="/memex.html">Back to Memex</a></p>
+    </header>
+    <ul>
+        {% for entry in entries %}
+        <li class="memex-index-item memex-index-{{ entry.kind }}">
+            <a href="{{ entry.url }}">{{ entry.title }}</a>
+            <span class="memex-index-section">{{ entry.section }}</span>
+        </li>
+        {% endfor %}
+    </ul>
+</section>
+{% endblock content %}

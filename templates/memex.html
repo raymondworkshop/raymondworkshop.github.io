@@ -1,0 +1,111 @@
+{% extends "base.html" %}
+
+{% block title %}{{ post.title }}{% endblock %}
+
+{% block content %}
+<article class="post memex-page{% if is_hub %} memex-hub{% endif %}">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        {% if post.title == 'About' %}
+        <span>About</span>
+        <span class="memex-nav-meta">· <a href="/memex.html">Memex</a></span>
+        {% else %}
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        {% if is_hub %}
+        <span class="memex-nav-sep">→</span>
+        <span>{{ post.title }}</span>
+        {% elif section_hub %}
+        <span class="memex-nav-sep">→</span>
+        <a href="{{ section_hub.url }}">{{ section_hub.title }}</a>
+        <span class="memex-nav-sep">→</span>
+        <span>{{ post.title }}</span>
+        {% else %}
+        <span class="memex-nav-sep">→</span>
+        <span>{{ post.title }}</span>
+        {% endif %}
+        {% endif %}
+    </nav>
+
+    <header class="post-header">
+        <h1>{{ post.title }}</h1>
+        {% if post.date and not post.section %}
+        <p class="post-meta">{{ post.date }}</p>
+        {% endif %}
+    </header>
+
+    <div class="post-body">{{ content }}</div>
+
+    {% if backlinks %}
+    <section class="wiki-panel backlinks">
+        <h2>Linked from</h2>
+        <ul class="wiki-link-grid">
+            {% for link in backlinks %}
+            <li><a href="{{ link.url }}" class="wikilink">{{ link.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
+    {% if related_pages and section_hub %}
+    <section class="wiki-panel wiki-related">
+        <h2>Related in {{ section_hub.title }}</h2>
+        <ul class="wiki-link-grid">
+            {% for page in related_pages %}
+            <li><a href="{{ page.url }}" class="wikilink">{{ page.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
+    {% if is_hub and section_referenced %}
+    <section class="wiki-panel wiki-referenced">
+        <h2>Referenced across memex</h2>
+        <p class="wiki-panel-note">Pages in this area that other memex notes link to.</p>
+        <ul class="wiki-card-list">
+            {% for page in section_referenced %}
+            <li class="wiki-card">
+                <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+                {% if page.excerpt %}
+                <p class="wiki-card-excerpt">{{ page.excerpt }}</p>
+                {% endif %}
+                <p class="wiki-mentions">
+                    Linked from:
+                    {% for mention in page.backlinks %}
+                    <a href="{{ mention.url }}">{{ mention.title }}</a>{% if not loop.last %} · {% endif %}
+                    {% endfor %}
+                </p>
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
+    {% if is_hub and section_pages %}
+    <section class="wiki-panel section-pages">
+        <h2>All pages in {{ post.title }}</h2>
+        <ul class="wiki-card-list wiki-card-list-compact">
+            {% for page in section_pages %}
+            <li class="wiki-card">
+                <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+                {% if page.excerpt %}
+                <p class="wiki-card-excerpt">{{ page.excerpt }}</p>
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
+    {% if is_hub and sibling_hubs %}
+    <section class="wiki-panel related-hubs">
+        <h2>Other areas</h2>
+        <ul class="wiki-link-grid">
+            {% for hub in sibling_hubs %}
+            <li><a href="{{ hub.url }}" class="wikilink">{{ hub.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+</article>
+{% endblock content %}

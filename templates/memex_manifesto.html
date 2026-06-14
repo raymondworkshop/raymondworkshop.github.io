@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+
+{% block title %}Memex{% endblock %}
+
+{% block content %}
+<article class="post memex-manifesto memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <span>Memex</span>
+    </nav>
+
+    <header class="post-header">
+        <h1>Memex</h1>
+    </header>
+
+    <div class="post-body">{{ content }}</div>
+
+    <section class="wiki-panel memex-search" aria-label="Search memex">
+        <h2>Search</h2>
+        <div class="search-field">
+            <input
+                class="search-input"
+                id="memex-search-input"
+                type="search"
+                aria-label="Search memex by title, topic, or content"
+                placeholder="e.g. stoicism, hamlet, machine learning"
+                autocomplete="off"
+            >
+        </div>
+        <p class="search-status" id="memex-search-status" aria-live="polite"></p>
+        <ul class="search-results" id="memex-search-results"></ul>
+    </section>
+
+    {% if hub_summaries %}
+    <section class="wiki-panel wiki-hubs">
+        <h2>Areas</h2>
+        <p class="wiki-panel-note">Each area is a hub — a map into a corner of this memex.</p>
+        <ul class="wiki-card-list">
+            {% for hub in hub_summaries %}
+            <li class="wiki-card">
+                <h3><a href="{{ hub.url }}">{{ hub.title }}</a></h3>
+                {% if hub.excerpt %}
+                <p class="wiki-card-excerpt">{{ hub.excerpt }}</p>
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
+    {% if backlinks %}
+    <section class="wiki-panel backlinks">
+        <h2>Linked from</h2>
+        <ul class="wiki-link-grid">
+            {% for link in backlinks %}
+            <li><a href="{{ link.url }}" class="wikilink">{{ link.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
+    {% if stats %}
+    <section class="wiki-panel memex-stats">
+        <h2>Stats</h2>
+        <ul class="memex-stats-list">
+            <li>date = {{ stats.date }}</li>
+            <li>files = {{ stats.files }}</li>
+            <li>pages = {{ stats.pages }}</li>
+            <li>hubs = {{ stats.hubs }}</li>
+            <li>wikilinks = {{ stats.wikilinks }}</li>
+            <li>internal links = {{ stats.internal_links }}</li>
+            <li>external links = {{ stats.external_links }}</li>
+            <li>lines = {{ stats.lines }}</li>
+        </ul>
+    </section>
+    {% endif %}
+</article>
+
+<script src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js"></script>
+<script src="/static/search.js"></script>
+{% endblock content %}

@@ -470,6 +470,202 @@ pre code {
     margin: 0;
 }
 
+.memex-page .section-pages,
+.memex-page .backlinks,
+.memex-manifesto .memex-stats {
+    border-top: 1px solid var(--line);
+    margin-top: var(--space-5);
+    padding-top: var(--space-4);
+}
+
+.memex-manifesto.memex-page .wiki-panel {
+    border-top: 1px solid var(--line);
+    margin-top: var(--space-5);
+    padding-top: var(--space-4);
+}
+
+.memex-nav {
+    color: var(--text-soft);
+    font-size: 0.92rem;
+    margin-bottom: var(--space-4);
+}
+
+.memex-nav a {
+    color: var(--brand-link);
+}
+
+.memex-nav-sep,
+.memex-nav-meta {
+    margin: 0 0.25rem;
+}
+
+.memex-hub .post-body {
+    margin-bottom: var(--space-4);
+}
+
+.wiki-panel {
+    border-top: 1px solid var(--line);
+    margin-top: var(--space-5);
+    padding-top: var(--space-4);
+}
+
+.wiki-panel h2 {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin: 0 0 var(--space-2);
+}
+
+.wiki-panel-note {
+    color: var(--text-soft);
+    font-size: 0.92rem;
+    margin: 0 0 var(--space-3);
+}
+
+.wiki-link-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem 1rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.wiki-link-grid li {
+    margin: 0;
+}
+
+.wiki-card-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.wiki-card {
+    border-left: 3px solid var(--line);
+    margin: 0 0 var(--space-3);
+    padding: 0.2rem 0 0.2rem var(--space-3);
+}
+
+.wiki-card h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0 0 0.35rem;
+}
+
+.wiki-card h3 a {
+    color: var(--text);
+    text-decoration: none;
+}
+
+.wiki-card h3 a:hover {
+    color: var(--brand-link);
+}
+
+.wiki-card-excerpt {
+    color: var(--text-soft);
+    font-size: 0.92rem;
+    line-height: 1.5;
+    margin: 0 0 0.35rem;
+}
+
+.wiki-mentions {
+    color: var(--text-soft);
+    font-size: 0.85rem;
+    margin: 0;
+}
+
+.wiki-mentions a {
+    color: var(--brand-link);
+}
+
+.wiki-card-list-compact .wiki-card {
+    margin-bottom: var(--space-2);
+}
+
+.memex-page .section-pages h2,
+.memex-page .backlinks h2,
+.memex-manifesto .memex-stats h2 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0 0 var(--space-2);
+}
+
+.memex-manifesto .memex-stats h2 {
+    font-size: 0.9rem;
+}
+
+.memex-stats-list {
+    color: var(--text-soft);
+    font-size: 0.82rem;
+    line-height: 1.55;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.memex-stats-list li {
+    margin: 0.15rem 0;
+}
+
+.memex-search h2 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0 0 var(--space-2);
+}
+
+.memex-search .search-field {
+    margin-bottom: var(--space-2);
+}
+
+.memex-search .search-results {
+    margin-top: var(--space-2);
+}
+
+.memex-page .section-pages ul,
+.memex-page .backlinks ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.memex-page .section-pages li,
+.memex-page .backlinks li {
+    margin: 0.35rem 0;
+}
+
+.memex-index ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.memex-index-item {
+    align-items: baseline;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem;
+    justify-content: space-between;
+    margin: 0.55rem 0;
+}
+
+.memex-index-section {
+    color: var(--text-soft);
+    font-size: 0.85rem;
+}
+
+.memex-index-hub .memex-index-section {
+    color: var(--brand-warm);
+}
+
+a.wikilink {
+    text-decoration-thickness: 1px;
+}
+
+.wikilink-missing {
+    border-bottom: 1px dashed var(--text-soft);
+    color: var(--text-soft);
+}
+
 @media (max-width: 720px) {
     html {
         font-size: 16px;
