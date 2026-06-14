@@ -49,7 +49,7 @@
 
     {% if backlinks %}
     <section class="wiki-panel backlinks">
-        <h2>Linked from</h2>
+        <h2>Linked from ({{ backlinks|length }})</h2>
         <ul class="wiki-link-grid">
             {% for link in backlinks %}
             <li><a href="{{ link.url }}" class="wikilink">{{ link.title }}</a></li>

@@ -26,7 +26,7 @@
 
 
 #### 2026-06-14  
-* add memex/, make memex more wiki and backlink 
+* add memex/ and make memex more wiki and backlink 
 
 #### 2022-06-20  
 * update into 'vs' code style  

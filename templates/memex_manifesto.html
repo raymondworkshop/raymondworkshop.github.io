@@ -61,9 +61,24 @@
     </section>
     {% endif %}
 
+    {% if top_referenced %}
+    <section class="wiki-panel wiki-referenced">
+        <h2>Most linked across memex</h2>
+        <p class="wiki-panel-note">Pages that other notes link to most often.</p>
+        <ul class="wiki-card-list wiki-card-list-compact">
+            {% for page in top_referenced %}
+            <li class="wiki-card">
+                <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+                <p class="wiki-mentions">{{ page.backlink_count }} incoming link{% if page.backlink_count != 1 %}s{% endif %}</p>
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
     {% if backlinks %}
     <section class="wiki-panel backlinks">
-        <h2>Linked from</h2>
+        <h2>Linked from ({{ backlinks|length }})</h2>
         <ul class="wiki-link-grid">
             {% for link in backlinks %}
             <li><a href="{{ link.url }}" class="wikilink">{{ link.title }}</a></li>
@@ -81,6 +96,7 @@
             <li>pages = {{ stats.pages }}</li>
             <li>hubs = {{ stats.hubs }}</li>
             <li>wikilinks = {{ stats.wikilinks }}</li>
+            <li>hashtag links = {{ stats.hashtag_links }}</li>
             <li>internal links = {{ stats.internal_links }}</li>
             <li>external links = {{ stats.external_links }}</li>
             <li>lines = {{ stats.lines }}</li>
