@@ -1,0 +1,1 @@
+The right attitude is helpful, respectful of the maintainer’s time, quietly confident but unassuming .

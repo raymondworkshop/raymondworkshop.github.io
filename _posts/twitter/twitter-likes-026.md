@@ -1,0 +1,4050 @@
+# Twitter Likes part 26 (extracted from like.js)
+
+Entries 12501–13000 of 24006
+
+## tweet 1582466993201913856
+- URL: https://twitter.com/i/web/status/1582466993201913856
+
+Awesome Computer Vision
+
+A curated list of computer vision resources: books, courses, papers, software, datasets, pre-trained models, tutorials, talks, blogs, and songs :-)
+
+https://t.co/twm6btvY24 https://t.co/1MrFrHscoF
+
+---
+## tweet 1582344031316549633
+- URL: https://twitter.com/i/web/status/1582344031316549633
+
+Moving from Flask to FastAPI 
+
+https://t.co/nwGQhI8v92 
+
+Interested in moving from Flask to FastAPI? This article compares and contrasts common patterns in both Flask and FastAPI.
+
+by @amal_ytics 
+
+#Flask #FastAPI #Python
+
+---
+## tweet 1582448749627904001
+- URL: https://twitter.com/i/web/status/1582448749627904001
+
+关于自上而下管理的系统好，还是自下而上的系统更好的争论有很久。其实本质在于管理的东西是已知还是未知的。
+
+“Top down suits the known, bottom up suits the new". 自上而下适合于已知的，自下而上的适合于新生事物。
+
+(摘自 101 things I learned in business school, by Michael Preis , 35 节)
+
+---
+## tweet 1582437932677230592
+- URL: https://twitter.com/i/web/status/1582437932677230592
+
+a16z 新一期的 web3 加速器现在开始提交申请了，截止时间 11/30。
+
+申请成功会获得 50 万美金的融资（换取 7% 的 equity），并获得 CSS alumni network 丰富的资源。
+
+课程视频会在整个加速器结束后免费放出。 https://t.co/eZnETnfTmj
+
+---
+## tweet 1582315480617918467
+- URL: https://twitter.com/i/web/status/1582315480617918467
+
+By the age of 20, you should be wise enough to recognize that your life is entirely your responsibility.
+
+---
+## tweet 1582206613250678784
+- URL: https://twitter.com/i/web/status/1582206613250678784
+
+@DalianaLiu 💯
+
+https://t.co/aNy4xs9tYa
+
+---
+## tweet 1538153866637627393
+- URL: https://twitter.com/i/web/status/1538153866637627393
+
+You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}
+
+---
+## tweet 1538035281260969985
+- URL: https://twitter.com/i/web/status/1538035281260969985
+
+This is true of researchers too
+
+I've always cringed at recruiters or hiring managers trying to assess a researcher's competence based squarely on the number/type of methods they've used before
+
+Real talent lies in their mindset, comms, critical thinking, ability to adapt, etc. https://t.co/jUdPBjVrgb
+
+---
+## tweet 1581838395579715585
+- URL: https://twitter.com/i/web/status/1581838395579715585
+
+10 PRINT
+https://t.co/4el9bgloDo https://t.co/kzHMpBItU1
+
+---
+## tweet 1582092632729079809
+- URL: https://twitter.com/i/web/status/1582092632729079809
+
+一个VC朋友曾和我说，他研究创业者看三要素：知识结构、价值观和审美观。
+现在回头看还真有趣。分开说，过去我搞软件，身边人主要是工程师和产品经理，一些人甚至不和圈外接触。五年前进入区块链，目睹虚伪盲目的价值观对立。最近一年，主要精力在NFT平台上，发现审美观的确开始影响了身边的不同圈层。 https://t.co/Q7xz6friJp
+
+---
+## tweet 1581740028648050688
+- URL: https://twitter.com/i/web/status/1581740028648050688
+
+香港下定决心，竞争全球虚拟资产中心。
+今天微信朋友圈刷屏的消息。这也意味着香港将进一步推动NFT、Web3以及加密货币市场的发展，而这些都是基于区块链技术之上的金融创新和网络创新。
+我很喜欢香港。但希望不会朝令夕改。 https://t.co/E7XpEanIqj
+
+---
+## tweet 1582127101989515266
+- URL: https://twitter.com/i/web/status/1582127101989515266
+
+If she texts you after your first date to thank you, that's when you know you did the date right. If you didn't get that text, work on your ability to connect.
+
+---
+## tweet 1582254650652327936
+- URL: https://twitter.com/i/web/status/1582254650652327936
+
+"Become the best in the world at what you do. Keep redefining what you do until this is true." 
+
+@naval
+
+---
+## tweet 1582234573647147009
+- URL: https://twitter.com/i/web/status/1582234573647147009
+
+The five keys to a successful team
+
+https://t.co/Qu82VAgsLb https://t.co/GZrLEILyIE
+
+---
+## tweet 1582216026942758912
+- URL: https://twitter.com/i/web/status/1582216026942758912
+
+我润出来是真的在润。完全不是为了什么海外工资高，福利好，生活条件好。就是因为怕国内的人和各种麻烦。我追求的就是离开，至于离开那儿以后怎么样，就碰运气，过的好了开心，过的惨了认命。实际上效果不错。虽然小时候各种心灵创伤，但这些年在日本真的挺治愈的。现在对目前这个版本自己还算满意。
+
+---
+## tweet 1582009051097047045
+- URL: https://twitter.com/i/web/status/1582009051097047045
+
+5 investment rules to follow:
+
+1. Invest in yourself
+2. Invest in what you know
+3. Invest with money you can lose 
+4. Don't invest with borrowed money
+5. Invest toward retirement while you are young and invest more than you think you will need.
+
+---
+## tweet 1582187206591987714
+- URL: https://twitter.com/i/web/status/1582187206591987714
+
+Women love calm and confident guys because they can feel relaxed around them.
+
+They can be themselves.
+
+---
+## tweet 1582204781019664384
+- URL: https://twitter.com/i/web/status/1582204781019664384
+
+中国式现代化并不玄妙。讲到底，只有一个原则：现代化只能增强不能削弱统治权。
+
+削弱统治权的现代化就不属于中国式现代化。试举二例：
+
+✅ 中国拥有特斯拉这样的创新企业销往全球
+🚫 创始人因此成为世界首富还说话口无遮拦
+
+---
+## tweet 1582192302532853760
+- URL: https://twitter.com/i/web/status/1582192302532853760
+
+一个新的视频加文章，讲述我独立开发的产品简单简历(https://t.co/4xL9oGtT00)是怎样获得最初的 300 个用户的，推广和营销是程序员最不擅长的，我在这里以自己第一次跳出舒适圈，去接触新的领域，从中获得非常多的经验，希望能给大家一些经验，文字链接在视频中。https://t.co/V4TCqzhKiX
+
+---
+## tweet 1582091808519049216
+- URL: https://twitter.com/i/web/status/1582091808519049216
+
+那天他飘了，他说木工也不过如此嘛，只要想干没有他干不了的😂
+
+哈哈，人就要有这么自信😄
+
+所以你看，在这里只要你肯干，机会就很多，哪怕只要掌握了其中一门技术，生活的主动权就掌握在自己的手里.
+
+---
+## tweet 1582116113542189058
+- URL: https://twitter.com/i/web/status/1582116113542189058
+
+深夜阅读Paradigm最近写的几篇关于Nftfi项目设计的新文章，不得不感叹这真的是最Native Web3的顶级机构了…实在是太强了
+
+---
+## tweet 2021552696856035798
+- URL: https://twitter.com/i/web/status/2021552696856035798
+
+Things Women WANT but Will Never ASK For:
+
+• Emotional safety
+• Calm, confident leadership
+• Consistency, not intensity
+• Clear boundaries
+• A man with purpose
+• Presence and attention (not obsession)
+• Confidence with imperfections
+• Honest communication
+• Feeling…
+
+---
+## tweet 2021523199729553709
+- URL: https://twitter.com/i/web/status/2021523199729553709
+
+1. High-value women view sex as something deeply personal and special.
+
+2. Low-value women treat sex as just casual fun or no big deal.
+
+3. Even lower-value women see sex as a product they can sell for money or gain.
+
+4. The lowest-value women use sex as a tool to trick men and…
+
+---
+## tweet 2021554362292810067
+- URL: https://twitter.com/i/web/status/2021554362292810067
+
+When ending a relationship of any kind, do so as gently and as politely as possible.
+
+You want to minimize the chance of the other party feeling so insulted that they go out of their way to seek vengeance.
+
+---
+## tweet 2021451445384736943
+- URL: https://twitter.com/i/web/status/2021451445384736943
+
+She doesn’t want a nice guy.
+
+She wants a dangerous man who chooses to be nice.
+
+---
+## tweet 2021497486108680413
+- URL: https://twitter.com/i/web/status/2021497486108680413
+
+Mark Zuckerberg literally shared the foundational key to true happiness: https://t.co/ZQzXkRKRUQ
+
+---
+## tweet 2021162007764885567
+- URL: https://twitter.com/i/web/status/2021162007764885567
+
+Reward her with your attention when she behaves well.
+
+Pull your attention away when she acts badly.
+
+Watch how fast she stops that unacceptable behavior for good.
+
+Attention is what she runs on—it's her main source of energy.
+
+---
+## tweet 2021498989288333482
+- URL: https://twitter.com/i/web/status/2021498989288333482
+
+What YOU feel, SHE feels.
+
+If you feel frustrated, she feels frustrated.
+
+If you feel happy, she feels happy.
+
+If you feel playful, she feels playful.
+
+If you feel horny, well… It has been shown that male lust turns women on.
+
+This is why the focus must be on you.
+
+---
+## tweet 2021402397285786024
+- URL: https://twitter.com/i/web/status/2021402397285786024
+
+https://t.co/EEMIkK8VPo
+
+---
+## tweet 2021345215639122234
+- URL: https://twitter.com/i/web/status/2021345215639122234
+
+Frame control is key.  
+
+If you fall into her frame, you’ll likely lose the girl!
+
+Core ideas:  
+- Frame  
+- Value  
+- Qualifying  
+- Shit tests  
+- Flipping the script  
+
+These are the basic, must-know seduction skills.
+
+READ THE REDPILL GAME 👊
+
+---
+## tweet 2021359681118273679
+- URL: https://twitter.com/i/web/status/2021359681118273679
+
+The best CEO advice I received throughout my career:
+
+• influence > authority
+• agency (can do) > intelligence (IQ)
+customer service is not a department
+• sales is the hardest job in any company
+• customer focus > competitor focus
+• always try to add value and be helpful
+•… https://t.co/QKFwFFFvo0
+
+---
+## tweet 2021451882619863550
+- URL: https://twitter.com/i/web/status/2021451882619863550
+
+Master the Art of Negotiation: https://t.co/m9cXUyemRP
+
+---
+## tweet 2021279528543535112
+- URL: https://twitter.com/i/web/status/2021279528543535112
+
+https://t.co/xsnAWcTMq4
+发现一个超酷的 AI 语言学习工具！Google Labs 推出的 Little Language Lessons (LLL) 简直是语言爱好者的福音！它利用 Gemini 模型，把学习变得像玩游戏一样有趣，告别枯燥的死记硬背。
+
+它主要有三大功能：
+1、情景课程 (Tiny Lesson):…
+
+---
+## tweet 2021106336826601939
+- URL: https://twitter.com/i/web/status/2021106336826601939
+
+Do not discuss:
+
+Emotions with women
+Money with poor people
+Religion with the devout
+Self-Improvement with losers
+
+---
+## tweet 2021198821594927145
+- URL: https://twitter.com/i/web/status/2021198821594927145
+
+If you want her to fully trust your masculine leadership
+and completely surrender to you,
+
+you have to understand her better than she understands herself.
+
+To love her properly, you must see and know:  
+her deepest challenges,  
+her hidden struggles,  
+her strongest temptations.
+
+---
+## tweet 2021239091015319642
+- URL: https://twitter.com/i/web/status/2021239091015319642
+
+Women will rarely admit this but challenge sexually excites them. Dont always be so easy to get along with. Tease. Neg. Accuse. Playfully push her away - psychologically. She desires to win you over by investing - not to be handed everything on a silver platter for free.
+
+---
+## tweet 2021346893733953921
+- URL: https://twitter.com/i/web/status/2021346893733953921
+
+Leadership requires 3 things:
+
+Conviction - Does everyone understand where we’re headed?
+Creativity - Can we solve the problems standing in our way?
+Courage - Can we say No to distractions disguised as good ideas?
+
+Breakthrough businesses come from consistently nailing all 3.
+
+---
+## tweet 2020423896848339208
+- URL: https://twitter.com/i/web/status/2020423896848339208
+
+6 Levels of Discipline Leading To A Stronger Mindset:
+
+1. Self-Awareness https://t.co/vHEAs0CgIU
+
+---
+## tweet 2020773425510277512
+- URL: https://twitter.com/i/web/status/2020773425510277512
+
+If she looks down after you make eye contact & then connects with your eyes again the next minute, she wants you to approach
+
+If she casually mentions she's single, she wants you to ask her out
+
+If she touches you, it's never accidental. She already likes you.
+
+If she casually…
+
+---
+## tweet 2020609785796964472
+- URL: https://twitter.com/i/web/status/2020609785796964472
+
+Top 5 most attractive traits in a potential wife:
+
+- Calmness / emotional regulation
+- Devotion (to you, her children and God)
+- Matching sex drive and opposite polarity
+- Deeply positive + magical view of reality
+- Creative
+
+Things men don’t care about: almost everything else
+
+---
+## tweet 2020197657285931322
+- URL: https://twitter.com/i/web/status/2020197657285931322
+
+Patrick Collison (@stripe ceo) on How to Move Fast: https://t.co/xBE9HzTEfD
+
+---
+## tweet 2020438472847491525
+- URL: https://twitter.com/i/web/status/2020438472847491525
+
+Women love calm and confident guys because they can feel relaxed around them.
+
+They can be themselves.
+
+---
+## tweet 2020545661440008360
+- URL: https://twitter.com/i/web/status/2020545661440008360
+
+乔姆斯基太太把他说成一个天真轻信、缺少判断力的书呆子，这种辩护于事无补，反倒伤害乔姆斯基——既然他那么天真轻信，缺少判断力，那么他对美国政治的批判还有什么可信度？而且，从乔姆斯基的个人行为看，他一点都不天真，一点都不轻信，他从来没有“轻信”过美国的宪政制度，对美国的黑暗一点都不“天真”… https://t.co/QBfVmm4p1q
+
+---
+## tweet 2020557482066911461
+- URL: https://twitter.com/i/web/status/2020557482066911461
+
+Paul Graham on how to figure out what to work on: https://t.co/Htxm294IR8 https://t.co/vel72JJ8Fr
+
+---
+## tweet 2020393660563550638
+- URL: https://twitter.com/i/web/status/2020393660563550638
+
+5 Behaviours High-Value People Avoid:
+
+1. Chasing validation
+2. Oversharing
+3. Reacting emotionally
+4. Explaining boundaries
+5. Tolerating disrespect
+
+---
+## tweet 2020544854850515385
+- URL: https://twitter.com/i/web/status/2020544854850515385
+
+7 TRUTH BOMBS FROM "LIVE INTENTIONALLY":
+1. "We live in a world of mental weakness. People are slaves to their desires, emotions, and fleeting distractions. "
+2. "Modern men lack willpower and judgment, and they chase short-term pleasure at a great long-term cost."
+
+---
+## tweet 1582146957014802432
+- URL: https://twitter.com/i/web/status/1582146957014802432
+
+"对于没经验的设计者而言，常见的一个典型现象是，他们很快就推出一个解决方案，坚持己见 ; 面对批评时，以 ‘自己有表达自我和有创意的权力’ 来反驳。但这实际上是一种逃避创造力和自我表达的 (偷懒的) 体现。有创造力不是去操作某一个事先想好的主意，而是不断学习，发现和对新的可能性的尝试。
+
+---
+## tweet 1582046283987943428
+- URL: https://twitter.com/i/web/status/1582046283987943428
+
+Python clean code tip:
+
+Use the simplest possible arguments for your methods
+
+Why?
+
+You can pass them directly from your entry points (API, Celery jobs, ...) - no need for unnecessarily loading of complex objects etc.
+
+👇 https://t.co/DV929jtlp8
+
+---
+## tweet 1582062675424862208
+- URL: https://twitter.com/i/web/status/1582062675424862208
+
+@xiaohuanghuli @HyderSqueaker @evilinside44 真好。移民香港第一份工是在麦记从刷厕所开始…加州的第一份工从歺馆开始，下班后累得胳膊小腿直哆嗦。很好的经历让人脚落在地上走，不敢骄傲。
+
+---
+## tweet 1582190982501519361
+- URL: https://twitter.com/i/web/status/1582190982501519361
+
+略评中国式现代化
+
+个人认为和大清洋务派倡导的大清现代化（洋务运动）是内核同构的：在不改变政治制度设置的前提下，寻求其他领域现代化。
+
+---
+## tweet 1582061499459473408
+- URL: https://twitter.com/i/web/status/1582061499459473408
+
+Relationships are your best teacher. They reveal to you who you are, how you think and begave, where you’re at and what needs to change or heal.
+
+---
+## tweet 1582150462584725504
+- URL: https://twitter.com/i/web/status/1582150462584725504
+
+Things founders should not delegate: culture, strategy, brand ambassador, vision, story, and recruiting.
+
+Things founders should delegate: everything else at your startup.
+
+---
+## tweet 1582060636632031232
+- URL: https://twitter.com/i/web/status/1582060636632031232
+
+经济学家不是软件工程师，因此无法理解软件化是通缩的最大推动力。这也是现在和七十年代的最大区别。 https://t.co/2Gi2qwwmgP
+
+---
+## tweet 1581943319105777665
+- URL: https://twitter.com/i/web/status/1581943319105777665
+
+反躬自省，迷途知返。 https://t.co/qPgzLa1LVB
+
+---
+## tweet 1581995699025190913
+- URL: https://twitter.com/i/web/status/1581995699025190913
+
+The fastest way to personal success:
+
+1) Master your craft
+2) Market your craft
+
+If you do one without the other, you're either a scammer or a starving artist.
+
+---
+## tweet 1581970142829113344
+- URL: https://twitter.com/i/web/status/1581970142829113344
+
+Hang out with self-confident people who have no reason to envy you, you will avoid a lot of drama.
+
+---
+## tweet 1581748577927237632
+- URL: https://twitter.com/i/web/status/1581748577927237632
+
+Women teach conflict avoidance and involving a higher authority to fight their battles on their behalf, basically snitching "get the teacher" because that's how girl world works.
+
+But as a boy, that only loses you respect. As a boy you must fight your own battles to win respect. https://t.co/PGxiqFPR58
+
+---
+## tweet 1581858106874933248
+- URL: https://twitter.com/i/web/status/1581858106874933248
+
+Learn Enough C to Survive https://t.co/Z7ZV1uAA3Z
+
+---
+## tweet 1576843710771273728
+- URL: https://twitter.com/i/web/status/1576843710771273728
+
+Web3开发入门路线图：
+1. 学习Solidity
+2. 学习HTML/CSS/Javascript
+3. 学习Ethers.js
+4. 学习React
+5. 学习The Graph
+6. 写项目/参加黑客松
+7. 找工作
+#web3 #solidity @WTFAcademy_
+
+---
+## tweet 1578812854580686848
+- URL: https://twitter.com/i/web/status/1578812854580686848
+
+做社區很累，常有人質疑某人能賺錢為什麼要帶你，其實很簡單，因為就是有人相信能互信的人團結在一起可以賺更多的錢
+
+這就是原因，君看一下 UG?
+
+這就是TBP @TheBlackPear1_ & @Asennn_1 
+#TBP #Justbegin #NotOnlyAlpha
+#WEB3 #ONEPIECE
+
+---
+## tweet 1581119557062000642
+- URL: https://twitter.com/i/web/status/1581119557062000642
+
+成年人只能被筛选，不能被改变，：
+
+1，不在没意义的人和事上浪费精力。
+2，公开展示自己的思考，可以促进精进并且弥补不足。
+3，知行合一，分享的时候听从内心的声音，不违背内心迎合外人。
+4，保持输出和写作，这个事情会不断帮你打工，筛选出吸引到同频的人。产生1+1＞2的效应。 https://t.co/KV773wHTyB
+
+---
+## tweet 1581843502677118976
+- URL: https://twitter.com/i/web/status/1581843502677118976
+
+今天读到的最好建议：「Make new friends based on shared values, not race, not ethnicity, not nationality.」
+
+来自美国作家Doug Casey。 https://t.co/xuAIlFuJdW
+
+---
+## tweet 1581810977275670529
+- URL: https://twitter.com/i/web/status/1581810977275670529
+
+Make her sexually interested-
+
+• Be confident
+• Behave masculine
+• Show sexual interest but do not be too keen
+• Be real and do not try hard to be liked by her like other guys
+• Be casual
+
+---
+## tweet 1581594764499034112
+- URL: https://twitter.com/i/web/status/1581594764499034112
+
+15 Hard Truths of Psychology & Life:
+
+1. https://t.co/NUdG6A0kdi
+
+---
+## tweet 1581646589466058753
+- URL: https://twitter.com/i/web/status/1581646589466058753
+
+Friendly reminder "if you build it, they will come" does not exist for startups so please learn sales and marketing.
+
+---
+## tweet 1581705432174718978
+- URL: https://twitter.com/i/web/status/1581705432174718978
+
+Putting yourself out there is a massive part of consciously creating the life you want. The issue for many people is any time they were vulnerable, or tried to be heard— they were shamed, or emotionally abused. The fear of being “out there” is paralyzing.
+
+---
+## tweet 1581586498456952833
+- URL: https://twitter.com/i/web/status/1581586498456952833
+
+"Founder-mentality means not caring who gets the credit."
+
+@naval
+
+---
+## tweet 1581617955246219265
+- URL: https://twitter.com/i/web/status/1581617955246219265
+
+"Go for a walk. Reconsider what you're doing. If it's not fun, you're unlikely to be great at it anyway."
+
+@naval
+
+---
+## tweet 1581685827784306691
+- URL: https://twitter.com/i/web/status/1581685827784306691
+
+工程师的底层需求是 归属、平等和确定性，基于这之上是 能自主选择、成长和成就感。所以好的经理能帮助他们创造一个平等的确定的有归属感的环境，帮助他们成长，让他们参与决策或自己做出决策，一起做出有价值有影响力的产品。 https://t.co/fkHIXK0Ltt
+
+---
+## tweet 1581576212870270976
+- URL: https://twitter.com/i/web/status/1581576212870270976
+
+What should be taught in schools:
+
+- Critical thinking
+- Personal responsibility
+- Managing your finances
+- Language, math, and science
+- Awareness of new age skills
+
+People need a foundation that allows them to create their own life, not to fit perfectly in the societal machine.
+
+---
+## tweet 1581676501820268544
+- URL: https://twitter.com/i/web/status/1581676501820268544
+
+How to Create Home Surveillance System Using Python
+#python 
+https://t.co/Lo2WelHhUf
+
+---
+## tweet 1581665305637552128
+- URL: https://twitter.com/i/web/status/1581665305637552128
+
+By age 40 you should have: 
+
+• a loving spouse 
+• a clear personal vision
+• proper work-life balance
+• over half a million in assets 
+• basic knowledge of personal finance
+• a solid relationship with your parents
+
+What else am I missing?
+
+---
+## tweet 1581749169349271552
+- URL: https://twitter.com/i/web/status/1581749169349271552
+
+当工作遇到一系列让人措手不及的问题时，需要停下来先提醒自己：当前的问题是不是根本问题，那根本问题到底是什么？多问几次。只有抓住了根本问题，才有机会让自己摆脱眼前无数的问题。
+
+---
+## tweet 1581625588980547584
+- URL: https://twitter.com/i/web/status/1581625588980547584
+
+4. 整体 CI 完全基于 GHA + Self-Hosted-Runner（以及部分 CD），前后端的构建发布都统一了
+5. 容器系统的 CD 都基于 ArgoCD + Kustomize，部分 EC2 的部分都完成了 Ansible 化
+这一套下来，用起来还是很舒服以及研发心智节约了好多
+
+---
+## tweet 1581625587000827907
+- URL: https://twitter.com/i/web/status/1581625587000827907
+
+草，我突然发现，我们这边感觉基建这块完全走在了国内的前列
+1. 完全依托 AWS
+2. 我们 Infra 完全基于 Terraform 管理，审批，执行都自动化了
+3. 除了 Prometheus/Grafana 无自建 SaaS，异常搜集，拨测什么的都采购了第三方 SaaS，而且都基于 Terraform Provider 做了自动化
+
+---
+## tweet 1581769453615796225
+- URL: https://twitter.com/i/web/status/1581769453615796225
+
+"I don’t believe in hierarchical relationships. I don’t want to be above anybody, and I don’t want to be below anybody. If I can’t treat someone like a peer and if they can’t treat me like peer, I just don’t want to interact with them."
+
+@naval
+
+---
+## tweet 1581516536845668354
+- URL: https://twitter.com/i/web/status/1581516536845668354
+
+You can Make her feel a lot of sexual attraction by being confident, being real, a bit of a challenge, a bit flirtatious, and behaving masculine.
+
+---
+## tweet 1581598926762758150
+- URL: https://twitter.com/i/web/status/1581598926762758150
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 1581251654736760832
+- URL: https://twitter.com/i/web/status/1581251654736760832
+
+The best way to make a girl come over and over again for you is to give her the best fvck of her life.
+
+Not every guy knows about this ☝🏻
+
+---
+## tweet 1581158387987148801
+- URL: https://twitter.com/i/web/status/1581158387987148801
+
+190 Python Projects with Source Code: solved and explained
+https://t.co/JROrDkFvX9
+
+#Data #DataScience #dataanalysis #DataAnalytics #dataScientist #machinelearning #python #pythonprogramming #pythonprojects #pythoncode #artificialintelligence #ai #100DaysOfCode https://t.co/GHIqikLRht
+
+---
+## tweet 1581510895204585473
+- URL: https://twitter.com/i/web/status/1581510895204585473
+
+以前误以为此话出自 James Bond. “如果你不再被尊重，必须有勇气离席而去”.   被尊重，在权力博弈中十分重要，暂时的苟且容易陷入越来越弱的泥潭。
+
+想起里根以前竞选时说过类似的话，“ 吉米*卡特说，如果我们不做某某事，苏联人就不会喜欢我们了。我不在乎他们是否喜欢我们。我们必须被尊重! ” https://t.co/7DW8xCksJU
+
+---
+## tweet 1581459916589449217
+- URL: https://twitter.com/i/web/status/1581459916589449217
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 1581475495555710976
+- URL: https://twitter.com/i/web/status/1581475495555710976
+
+计算机教育中缺失的一课， AKA 大学不教的东西🤣 https://t.co/ZWf0Tanulg
+
+---
+## tweet 1581223103451078657
+- URL: https://twitter.com/i/web/status/1581223103451078657
+
+Being a man in a relationship-
+
+• Assuming leadership
+• Being emotionally stronger than her
+• Having purpose as #1
+• flirting and keeping a spark alive
+
+---
+## tweet 1580623692253782016
+- URL: https://twitter.com/i/web/status/1580623692253782016
+
+Breaking: Elon Musk is Not Stupid
+
+I explain why @elonmusk’s texts don’t reveal that he and all his investors are stupid.
+
+But the reaction shows that journalists don’t know how real-world decisions are made and therefore mistake simplicity for stupidity.
+https://t.co/a03cElcoIX
+
+---
+## tweet 1581018704409923584
+- URL: https://twitter.com/i/web/status/1581018704409923584
+
+Bad CEOs do work.
+
+Good CEOs hire the world's smartest people to do the work.
+
+---
+## tweet 1581108127285420032
+- URL: https://twitter.com/i/web/status/1581108127285420032
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 1581004354701914112
+- URL: https://twitter.com/i/web/status/1581004354701914112
+
+Functional Programming in Python https://t.co/I5GoZmQoGR
+
+---
+## tweet 1580908539073253380
+- URL: https://twitter.com/i/web/status/1580908539073253380
+
+Entrepreneurship is about finding your unique balance between art and marketing.
+
+If you swing too far to the "art" side, you end up a starving artist.
+
+If you swing too far to the "marketing" side, you end up a sleazy salesman.
+
+You can't neglect one or the other.
+
+---
+## tweet 1580919100519469057
+- URL: https://twitter.com/i/web/status/1580919100519469057
+
+"All of our evil is done in the name of good."
+
+@naval
+
+---
+## tweet 1581030111284895745
+- URL: https://twitter.com/i/web/status/1581030111284895745
+
+"...the best thing we can do is ignore speculation about unpredictable billionaires and begin embracing social media sites we can actually own & control, rather than hoping that impossibly wealthy people might deign to give us better digital public spaces" https://t.co/dH3zqcJXHS
+
+---
+## tweet 1580917402036236288
+- URL: https://twitter.com/i/web/status/1580917402036236288
+
+Dating advice:
+
+Don't try to convince her.
+
+You can't "logic" a woman into anything.
+
+If you want her to change her mind, change her mood.
+
+---
+## tweet 1580970233619050497
+- URL: https://twitter.com/i/web/status/1580970233619050497
+
+I've been working on my own control boards for my @OpuloInc LumenPnP since July, and today everything has come together and it's placing components for the first time. 
+
+Victory is sweet. https://t.co/mcGwIPMofU
+
+---
+## tweet 1580793020156452865
+- URL: https://twitter.com/i/web/status/1580793020156452865
+
+let her feel your confidence and the fact that you don’t get nervous around her at all. 
+
+When you’re going in for the kiss, let her feel it again.
+
+---
+## tweet 1580567772786225152
+- URL: https://twitter.com/i/web/status/1580567772786225152
+
+在 https://t.co/EpAa9lrl0u 上跑了第四个服务，并且还是 512MB 内存的配置，按照 pricing 的说明，会是 $3.19 每月，但之前收到过 fly 的邮件，$5 以内免单，所以理论上现在还是免费的。
+
+也就是说 fly 的 free tier 其实包含 4 个 256MB 的机器和 1 个 512MB，是真正的业界第一良心！😭 https://t.co/FKfSRBs54F
+
+---
+## tweet 1580827999959748609
+- URL: https://twitter.com/i/web/status/1580827999959748609
+
+"The strongest intellectual foundation is built upon science, math, and philosophy, as they are the search for universal truths."
+
+@naval
+
+---
+## tweet 1580732622518394880
+- URL: https://twitter.com/i/web/status/1580732622518394880
+
+• Lead her during sex
+• Be fully present and show her attention and affection fearlessly
+• Touch her like a man 
+• Be moderately dominant
+
+---
+## tweet 1580785176895889408
+- URL: https://twitter.com/i/web/status/1580785176895889408
+
+创业者是唯一愿意辞去 1 份工作而去做 17 份工作的人。
+
+创业者是唯一愿意为了避免每周工作 40 小时而去每周工作 85 小时的人。
+
+就像 Naval 所说的，40 小时是在出卖时间，85 小时是在创造杠杆。
+
+True story.
+
+https://t.co/tZ4J7WEVuP https://t.co/uOGMv9WyGg
+
+---
+## tweet 1580650994161287168
+- URL: https://twitter.com/i/web/status/1580650994161287168
+
+One of the uses of AI that I'm excited about is simply ML that helps people design more pleasant indoor spaces. We spend most of our lives in them, but our current tools don't make it easy to measure/optimize the complex, emergent "humans feel happy and comfortable here" metric.
+
+---
+## tweet 1580692006007111681
+- URL: https://twitter.com/i/web/status/1580692006007111681
+
+Why are B-trees so widely used in databases? 
+
+https://t.co/wCbhRRJpUq
+
+---
+## tweet 1580549789724610561
+- URL: https://twitter.com/i/web/status/1580549789724610561
+
+秦制，加文革破四旧，把传统社会全部原子化了，不存在响应所依赖的 institutions。
+
+当年共产党闹革命还可以依靠搞工会农会学生会，现在一样不行。
+
+现代社会的组织陌生人的方式—社会化媒体，又被极强地监视和控制。
+
+温水朝鲜化是唯一未来
+
+唯一慰藉是他没有儿子 https://t.co/Bjkx4QZw4l
+
+---
+## tweet 1580562674496045056
+- URL: https://twitter.com/i/web/status/1580562674496045056
+
+如果能从这份工作中学到技术用于今后的提升，这份辛苦便值得坚持下去
+
+如果这份工作既辛苦无乐趣又学不到本事只是解决口粮，建议过渡几个月即可，想要在美国发展，一定要找份自己感兴趣的职业才会越做越好，每进步一点也有成就感，熟练掌握后自己创业也不是没可能. 这里对于肯干的人机会太多了，加油！ https://t.co/73A5ADxtbu
+
+---
+## tweet 1580596731170783233
+- URL: https://twitter.com/i/web/status/1580596731170783233
+
+Python clean code tip:
+
+Use decorators to do something before/after your method/function call
+
+👇 https://t.co/QY1X9V8PTM
+
+---
+## tweet 1580558985647640578
+- URL: https://twitter.com/i/web/status/1580558985647640578
+
+Soulmates aren't just lovers, they're friends too. Your soulmates will naturally recognize you and align with you. They make you feel seen, heard, understood, appreciated, supported and loved.
+
+---
+## tweet 1580584898104016897
+- URL: https://twitter.com/i/web/status/1580584898104016897
+
+"All benefits in life come from compound interest, whether in money, relationships, love, health, activities, or habits. I only want to be around people I know I’m going to be around for the rest of my life. I only want to work on things I know have long-term payout."
+
+@naval
+
+---
+## tweet 1580565500740128769
+- URL: https://twitter.com/i/web/status/1580565500740128769
+
+一个同事申请了6个月的Sabbatical，停薪留职，去奥地利当几个月的滑雪教练，明年4月份回来。
+
+---
+## tweet 1580524408724066306
+- URL: https://twitter.com/i/web/status/1580524408724066306
+
+原文在这里 👇
+
+https://t.co/ng9ijp1kMA
+
+---
+## tweet 1580484285944897537
+- URL: https://twitter.com/i/web/status/1580484285944897537
+
+“Entrepreneurship isn't about the money. 
+
+It’s about owning your own life.”
+
+– @dailystartupfix
+
+---
+## tweet 1580397973342543872
+- URL: https://twitter.com/i/web/status/1580397973342543872
+
+💡 - VSCode 技巧：
+
+将左侧的搜索图标拖拽到底部功能区，提升搜索体验，
+当点击某个搜索结果时，同时保留左侧文件Tree 的视图。 https://t.co/CYb6i4HtUl
+
+---
+## tweet 1580288696963989504
+- URL: https://twitter.com/i/web/status/1580288696963989504
+
+💥 Here is a list of Python project ideas for freshers and experts!
+Source: @Hassan_Shoayb
+
+#Python #DataScience #ProjectIdeas https://t.co/nuSXeCrCjC
+
+---
+## tweet 1580433399830835201
+- URL: https://twitter.com/i/web/status/1580433399830835201
+
+"Leverage converts knowledge into power."
+
+@naval
+
+---
+## tweet 1580212339634151424
+- URL: https://twitter.com/i/web/status/1580212339634151424
+
+Share Your Wifi Password as QR Code using Python. 
+
+Most of the time, we don't want to share our wifi passwords, in that case, we generate a QR and stick it on the wall. 
+
+Let me know what you think about this program 👇 https://t.co/Sgo4Nn5QTy
+
+---
+## tweet 1580423716739387394
+- URL: https://twitter.com/i/web/status/1580423716739387394
+
+秦晖老师这个视频太棒了 https://t.co/PGDVAKNCBw
+
+真是佩服他的学识，我们也需要多看书了
+
+---
+## tweet 1580101250397241344
+- URL: https://twitter.com/i/web/status/1580101250397241344
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 1580057346377940992
+- URL: https://twitter.com/i/web/status/1580057346377940992
+
+Some more small progress: front view, back view, and side-by-side view. Ability to change the mask and silk colors for the preview (they also get saved to the KiCAD file). UI layout isn't final, mostly just shoving controls where I can. https://t.co/ij8WdKyUoE
+
+---
+## tweet 1574257980689768449
+- URL: https://twitter.com/i/web/status/1574257980689768449
+
+Now that the difficult core is done, I can start building out the ability to convert a multilayer svg file to an entire kicad board, like gingerbread.
+
+But now that I'm in the browser I've got *lots of ideas*
+
+https://t.co/MveT8HVXTV
+
+---
+## tweet 1562140665156362240
+- URL: https://twitter.com/i/web/status/1562140665156362240
+
+Alrighty, my Python toolset for converting PCB art created in @affinitybyserif Designer to @kicad_pcb is ready to play around with.
+
+It's an early version and there's definitely bugs and edge cases, but hopefully it helps someone!
+
+https://t.co/7n6Zd7HIG7 https://t.co/Z0HB6lv6jQ
+
+---
+## tweet 1580299160703537152
+- URL: https://twitter.com/i/web/status/1580299160703537152
+
+The most founder friendly capital you'll find for your startup is from happy paying customers, pretty simple.
+
+---
+## tweet 1580194855946686465
+- URL: https://twitter.com/i/web/status/1580194855946686465
+
+探讨一些富人思维，我自以为是的，因为我不是亿万富翁。
+1，富人不爱国家。
+任何国家都不爱。但是会和国家站在同一个利益基础上，如果国家决定收割富人，你会发现收割前，多数富人已经跑了。或者那个决定收割的政客被干掉了。跑与不跑，决定于社会产权制度。
+2，富人的钱不会在灾害波及的地方。
+
+---
+## tweet 1580191499454541824
+- URL: https://twitter.com/i/web/status/1580191499454541824
+
+You don't need a unique idea at all to build a startup. One of the simplest ways to start a business is to just do what others are doing, better.
+
+---
+## tweet 1580200432009621506
+- URL: https://twitter.com/i/web/status/1580200432009621506
+
+Entrepreneur Mindset 
+
+- Think about your ideas 24/7
+- Get down to work at any time
+- Start again after kids have gone to bed
+- Read a chapter of a book on your phone during lunch breaks.
+- Try new things, fail fast and move on
+- Use the internet to Maximise your time.
+
+---
+## tweet 1580168498197561344
+- URL: https://twitter.com/i/web/status/1580168498197561344
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 1579907182543314950
+- URL: https://twitter.com/i/web/status/1579907182543314950
+
+• Command respect
+• Have an edge
+• Let others earn your respect
+•Respect others but respect yourself a bit more
+• Do not bow down to others
+
+---
+## tweet 1579992318471348224
+- URL: https://twitter.com/i/web/status/1579992318471348224
+
+可能是西方媒体对于20大最好的分析报告，没有之一。
+Here’s how Xi Jinping climbed to the center of China’s political universe by rewriting the rules https://t.co/u5RG50Pzad via @bbgvisualdata
+
+---
+## tweet 1579842053424308225
+- URL: https://twitter.com/i/web/status/1579842053424308225
+
+我有个00后的表弟，他上网的时候已经是移动互联网的时代，今天和他聊了一会儿，说个有趣的发现。
+他知道 Google Bing 百度，但是他很少使用搜索引擎和浏览器。他天然地认为信息就应该在各个手机 App 里，在 App 里面搜索信息是一件很自然的事情，找不同的信息就应该去不同的 App 里面搜索。
+
+---
+## tweet 1579745922220949504
+- URL: https://twitter.com/i/web/status/1579745922220949504
+
+在人生任何时段，重要的是心灵开放，对世界有好奇心，不被书本上的偏见蒙蔽。心灵一旦封闭了，人就只有肉身还活着，十八岁跟八十岁也没有差别。这几十年看到，中文世界不少年轻人只有生理意义上的年轻，精神世界从来没年轻过，在儿童时段，他们的生物学和非生物学家长已经把他们的心灵封死，代代相传。 https://t.co/bf7lrKjlvq
+
+---
+## tweet 1580007803413897216
+- URL: https://twitter.com/i/web/status/1580007803413897216
+
+Jobs from Larry
+
+https://t.co/021qzkfYW4
+
+这个网站收集了非常多在 Twitter 上发布的招聘信息。还挺有用的，一手最新招聘信息。 https://t.co/j13dqbSI5z
+
+---
+## tweet 1579960030899609603
+- URL: https://twitter.com/i/web/status/1579960030899609603
+
+She loves how confidently and comfortably he handles the silence
+
+She feels more attracted to him
+
+---
+## tweet 1579856862052507649
+- URL: https://twitter.com/i/web/status/1579856862052507649
+
+I love people who are highly aware of their worth but highly humble too and never look down on anybody.
+
+---
+## tweet 1580009355805691905
+- URL: https://twitter.com/i/web/status/1580009355805691905
+
+"The people you most want to impress can read your intentions."
+
+@naval
+
+---
+## tweet 1579969733226815488
+- URL: https://twitter.com/i/web/status/1579969733226815488
+
+#鉴播 第一次听了不明白播客，许成钢讲中国经济，确实相当反动，值得一听。不过他就像所有的原教旨经济学家一样，只从经济上看问题，忽略了文化，环境，科技和政治等等其他因素，所以结论不必信。https://t.co/jH4sD2Fukn
+
+---
+## tweet 1579834234529009666
+- URL: https://twitter.com/i/web/status/1579834234529009666
+
+Never beg anyone for anything...not attention, not affection, not love – nothing. If they want you in their life they'll find the time, make the effort and create the space. You deserve reciprocated effort, energy and love. If it's always one sided – that's your sign to go.
+
+---
+## tweet 1579484820778123265
+- URL: https://twitter.com/i/web/status/1579484820778123265
+
+@Deep_philo Drama, negativity and toxicity will impact your peace and mental health adversely. If someone shows you that they're not mature enough to interact without all these, walk away from them without feeling guilty.
+
+---
+## tweet 1579482089866788869
+- URL: https://twitter.com/i/web/status/1579482089866788869
+
+Silence is better than unnecessary drama.
+
+---
+## tweet 1579700323437793280
+- URL: https://twitter.com/i/web/status/1579700323437793280
+
+强烈推荐经济学人上月底新出的习近平传记播客秀 刚听了第一集，其coming of age的震撼，是原来想不到的 
+https://t.co/aPbnFjAaLD
+
+---
+## tweet 1579736306527117312
+- URL: https://twitter.com/i/web/status/1579736306527117312
+
+"Your goal in life is to find the people, business, project, or art that needs you the most. There is something out there just for you."
+
+@naval
+
+---
+## tweet 1579619036521852928
+- URL: https://twitter.com/i/web/status/1579619036521852928
+
+但如果在选择数据存储方式时，你一上来就说「NoSQL 现在很 trendy，所以我只学了 MongoDB，我们就选择 MongoDB 吧」，那这个话题就聊死了……系统设计在一定程度上是一门「选择比努力重要」的技能，考察的是你会不会做高质量的选择，而不是你有没有很努力地获取很多知识。
+
+---
+## tweet 1579619034550501376
+- URL: https://twitter.com/i/web/status/1579619034550501376
+
+系统设计面试看的不是你知不知道 what。系统设计面试看的是你能不能把 why 定义清楚，然后逻辑清晰地一步一步推理，最终选择最合适的 how。如果没有 why，也就不可能存在清晰的逻辑推理过程，选择一个 how 或者 what 就纯粹是「因为我听说过这个」或者是「因为我只懂用这个」。
+
+---
+## tweet 1579698335967240192
+- URL: https://twitter.com/i/web/status/1579698335967240192
+
+简单谈谈美国新一轮针对大陆半导体制裁的影响：https://t.co/bTnouZNl24
+
+---
+## tweet 1579683268748017665
+- URL: https://twitter.com/i/web/status/1579683268748017665
+
+How Wine works 101 https://t.co/pXaZScsSzI
+
+---
+## tweet 1579668536573972481
+- URL: https://twitter.com/i/web/status/1579668536573972481
+
+Wine 101: The Beginners Guide to Wine https://t.co/SDSldN5Yjl
+
+---
+## tweet 1579663194268012544
+- URL: https://twitter.com/i/web/status/1579663194268012544
+
+The first objective for America schools: 
+
+Think critically and creatively in learning and life.
+
+You ashould think why Americans are used to agree to disagree. https://t.co/GT4I3wBJWW
+
+---
+## tweet 1579488036080930816
+- URL: https://twitter.com/i/web/status/1579488036080930816
+
+You don't look for compatibility of opinions, but for quality of thought. High quality thinking you disagree with is more valuable than low quality thinking that conforms to your bias + preference.
+
+I wasn't upset you disagreed with me, I held you in contempt for doing so poorly.
+
+---
+## tweet 1579602050815774722
+- URL: https://twitter.com/i/web/status/1579602050815774722
+
+权力垄断者，不能容忍自己有资源瓶颈 ；对于需要高频使用的资源，一定要有多个渠道保持高冗余度。反过来，观察对手的高频使用的资源，在其相关产业链上找到并控制其瓶颈，是实现权力扩张的回报较大的行为模式。 https://t.co/qrFOc7oZsT
+
+---
+## tweet 1579601329198358529
+- URL: https://twitter.com/i/web/status/1579601329198358529
+
+#鉴播 喜欢听这哥俩聊天，经常会有启发性的观点出现，比如年轻就是拥抱不确定性。PS：后面的读者问答很有意思，其中一个读者提了一个好问题：为什么现在的95后既追求稳定，又追求新奇？https://t.co/J5jJJQZeeI
+
+---
+## tweet 1579554106129190913
+- URL: https://twitter.com/i/web/status/1579554106129190913
+
+"You want to be rich and anonymous, not poor and famous." 
+
+@naval
+
+---
+## tweet 1579440629901586433
+- URL: https://twitter.com/i/web/status/1579440629901586433
+
+Build a startup by researching competitor reviews, learn what works and what doesn’t, and then solve problems for the most underserved customer segment in the market.
+
+---
+## tweet 1579584304895602688
+- URL: https://twitter.com/i/web/status/1579584304895602688
+
+"A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned."
+
+@naval
+
+---
+## tweet 1579619032680263680
+- URL: https://twitter.com/i/web/status/1579619032680263680
+
+我觉得现在流行的 system design 速成内容（具体就不点名了）最大的问题是只告诉你 what，不告诉你 why。对于完全不知道某某系统是怎么设计的人来说，第一次了解到 what 是有价值的。对于完全没接触过系统设计的人，一下子能了解这么多不同系统的 what 肯定会觉得自己突然懂了很多，但其实没什么用。
+
+---
+## tweet 1579400596074876928
+- URL: https://twitter.com/i/web/status/1579400596074876928
+
+看 @levelsio 是如何用 PHP 在 4 天内写完一个 startup 项目的。
+
+https://t.co/uTijN4vq9f
+
+---
+## tweet 1579400588021796864
+- URL: https://twitter.com/i/web/status/1579400588021796864
+
+这篇文章介绍了一个人的公司背后使用的是什么技术栈。
+
+基本上的核心思路就是：使用自己最熟悉的技术。
+
+k8s, docker, microservice, serverless... 这些技术都很 fancy，但是关键问题是能不能快速出活？
+
+https://t.co/WkxQsKnDs6
+
+---
+## tweet 1579051038824607749
+- URL: https://twitter.com/i/web/status/1579051038824607749
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 1579397483423485953
+- URL: https://twitter.com/i/web/status/1579397483423485953
+
+Figma 的 CEO Dylan Field 展示种子轮融资阶段用的演示，非常 impressive。
+
+这个阶段还没有 Figma 这个产品，Dylan 只是基于 WebGL 展示了一些使用的场景，包括做了一个简单的 photoshop demo。
+
+Slide 上的这一页现在看显得就很有戏剧性了。
+
+https://t.co/CreZdNRsGJ https://t.co/Up07A3nUlm
+
+---
+## tweet 1579116982359949313
+- URL: https://twitter.com/i/web/status/1579116982359949313
+
+Your whole life will change once you start living for yourself and not other people.
+
+---
+## tweet 1578701487756091392
+- URL: https://twitter.com/i/web/status/1578701487756091392
+
+Resist the urge to solve the problem your girl complains about.
+
+She just wants to vent, your advice won't really help.
+
+---
+## tweet 1579063160346005504
+- URL: https://twitter.com/i/web/status/1579063160346005504
+
+If you're looking for a job where you can make a difference, this is as good a bet as you'll find. Urgent problem, promising solution, effective organization. https://t.co/o829RJsgLO
+
+---
+## tweet 1579181705801662464
+- URL: https://twitter.com/i/web/status/1579181705801662464
+
+Insecure arrogance: "I have all the answers. Only I can fix it."
+
+Confident humility: "I have many questions. We need to study what broke it."
+
+The people to trust are not the ones who project the most confidence. They’re the ones who know the limits of their competence.
+
+---
+## tweet 1579277904189353984
+- URL: https://twitter.com/i/web/status/1579277904189353984
+
+meeting writers of books i’ve read kinda feels like meeting founders of apps i’ve used — they don’t know me but because i have this very personal relationship with something they’ve created i feel connected to them and am so intrigued to know about the creation process
+
+---
+## tweet 1579016903292751874
+- URL: https://twitter.com/i/web/status/1579016903292751874
+
+After many years in industry, I decide to do some education for fun, a programming language course in @rescriptlang , it is a work in progress https://t.co/DwWatwiXr0
+
+---
+## tweet 1579138683764363267
+- URL: https://twitter.com/i/web/status/1579138683764363267
+
+一传统文化深入人心二是家合万事兴合为贵三是尊重老人。 https://t.co/ComDs3ZwMh
+
+---
+## tweet 1578922551543181312
+- URL: https://twitter.com/i/web/status/1578922551543181312
+
+说直白点，国内上美国名校online cs ms，就像前几年去读南方科技大学一样，学校NB，教授巨NB，同学校友圈巨NB，但是大学在教育部没资质，不适合保守求稳靠学校名头混日子那种，下限低上限高
+
+美国top10名校online除了中国都觉得NB,国内人应该都是思维惯性，觉得都像国内名校附属学院三本一样，这是偏见 https://t.co/zXMYhnMJ20
+
+---
+## tweet 1579107877507194881
+- URL: https://twitter.com/i/web/status/1579107877507194881
+
+A millionaire's advice for men in their 20s:
+
+1 Forgive your parents 
+2 Have high standards
+3 Do not be afraid to fail 
+4 Stop watching the news 
+5 Choose your partner wisely
+6 Ignore the haters 
+7 Exploit your 9-5 
+
+Life is all about your habits.
+
+---
+## tweet 1579102739090399232
+- URL: https://twitter.com/i/web/status/1579102739090399232
+
+Don’t rush you, talk to you kindly. If you know you’ve been trying to do your best, talk to you patiently.
+
+---
+## tweet 1579107197530738688
+- URL: https://twitter.com/i/web/status/1579107197530738688
+
++ vscode remote ssh to docker machine, I think this is enough for my current requirements. https://t.co/4jCBY7cNJP
+
+---
+## tweet 1578748803653726208
+- URL: https://twitter.com/i/web/status/1578748803653726208
+
+Carefully Exploring Rust as a Python Developer  https://t.co/5mYb7fEX1C
+
+---
+## tweet 1578815489136070658
+- URL: https://twitter.com/i/web/status/1578815489136070658
+
+A real man is a good but confident and dominant man.
+
+Not a polite and fake-nice type of man.
+
+---
+## tweet 1578825861167398914
+- URL: https://twitter.com/i/web/status/1578825861167398914
+
+这事儿我强调过无数次了：为了转码而国内跨考计算机研的，无一例外都是傻逼。
+
+Georgia Tech，全球top 10顶级大学，online项目只要1万美元，读完即可拿到线下完全一致的硕士学位。
+
+浪费时间考研、读垃圾硕士，就是浪费你的时间和生命。
+
+具体攻略都在这里，给我立刻star收藏：https://t.co/sgD9dq4cpQ
+
+---
+## tweet 1578919167029563393
+- URL: https://twitter.com/i/web/status/1578919167029563393
+
+觉得世界无聊的人，不过是自己无聊罢了。
+
+「真正的发现之旅不在于寻找新大陆，而是以新的眼光去看事物。」
+
+---
+## tweet 1578919142585139203
+- URL: https://twitter.com/i/web/status/1578919142585139203
+
+人们的外部认知与其内心世界的复杂程度是「同构」的。
+
+因为人类通过构造同构于世界的形式系统来认知世界。
+
+---
+## tweet 1578919098247172098
+- URL: https://twitter.com/i/web/status/1578919098247172098
+
+现实世界有着潜在的丰富性。
+
+每当你多一种技能，多一种视角，就能够从曾经熟悉之处解锁新的体会，新的玩法。
+
+---
+## tweet 1578684970867953668
+- URL: https://twitter.com/i/web/status/1578684970867953668
+
+Python 3.11 introduces new features that make it possible to raise and handle multiple unrelated exceptions. My talk at PyConUK explains how these new features work and goes over some of the design decisions we made.
+
+https://t.co/SjlSJPJHRQ
+
+---
+## tweet 1578803186558595072
+- URL: https://twitter.com/i/web/status/1578803186558595072
+
+Let her simp for you.
+
+You simp for your purpose.
+
+---
+## tweet 1578758689543987200
+- URL: https://twitter.com/i/web/status/1578758689543987200
+
+7 Best Software Design Courses  for Programmers and Developers in 2022 https://t.co/L9gcB0cDr6 https://t.co/MUe09Cp3om
+
+---
+## tweet 1578872957413097473
+- URL: https://twitter.com/i/web/status/1578872957413097473
+
+一个很顽固的思维误区，就是很多人把自己现状的不如意，归因于自己在局部不够努力，甚至要去妄自菲薄，错误的贬低自己做的正确的事 ； 权力来自于网络的编织，尤其是新的增长的网络结构的编织。很多看似智商不高的人权力地位比你高，只是因为他依附的权力网络比你更大更密而已。回避这个现实，或者 https://t.co/qrFOc76QeL
+
+---
+## tweet 1578769698975404033
+- URL: https://twitter.com/i/web/status/1578769698975404033
+
+Intimacy isn't just about sex. It's having heart-to-hearts, staying up all night talking, sharing childhood memories, thoughts, fears, dreams & hopes for the future. It's uncontrollable laughter, direct eye contact and feeling each other without touching - it's exchanging energy.
+
+---
+## tweet 1578857012661624833
+- URL: https://twitter.com/i/web/status/1578857012661624833
+
+"Reading is faster than listening, doing is faster than watching."
+
+@naval
+
+---
+## tweet 1578765912920006663
+- URL: https://twitter.com/i/web/status/1578765912920006663
+
+"A rational person can find peace by cultivating indifference to things outside of their control." 
+ 
+@naval
+
+---
+## tweet 1578571535971123200
+- URL: https://twitter.com/i/web/status/1578571535971123200
+
+#土槽 弱者的一大问题就在于他们总是觉得别人干啥事儿都很容易，只有自己最难。 https://t.co/iN9a73xMtr
+
+---
+## tweet 1578714152126001155
+- URL: https://twitter.com/i/web/status/1578714152126001155
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 1578395170093121537
+- URL: https://twitter.com/i/web/status/1578395170093121537
+
+Compounding is a law of Nature that works in every field.
+
+Do something everyday and you'll get better at it exponentially.
+
+---
+## tweet 1578586435502084097
+- URL: https://twitter.com/i/web/status/1578586435502084097
+
+他用园区内一家生产景观水泵的广东企业举例称，该企业将工厂搬到墨西哥之后，“（美国客户）订单就像雪花一样飞来”。这家企业最初仅在园区内租了一个厂房，后来直接在园区内买地扩建。目前新厂房刚建成，依然无法满足订单需求，正准备扩建第二期厂房。推荐财新这篇专题报道。 https://t.co/G2YhlfoGgR
+
+---
+## tweet 1578262761598902272
+- URL: https://twitter.com/i/web/status/1578262761598902272
+
+Learn to observe your own mind. The patterns, the little things. What makes you overthink & anxious, what makes you happy, what works, what doesn't. People, places, energies that nourish you & drain you. Take notes and study the patterns. It'll change your life.
+
+---
+## tweet 1578422405869228033
+- URL: https://twitter.com/i/web/status/1578422405869228033
+
+Python clean code tip:
+
+Always use paginated queries
+
+Use "last evaluated record" approach to paginate instead of offset
+
+This way you limit database load per single query
+
+👇 https://t.co/IijPkjg2Cu
+
+---
+## tweet 1578546954170093568
+- URL: https://twitter.com/i/web/status/1578546954170093568
+
+美東時間十月八日星期六晚九點，台北時間十月九日星期天早九點Clubhouse “每周此刻- 性的，太人性的－從2022年諾貝爾文學獎得主安妮．艾諾的書和人生談起（貝嶺、陳軍）” with @beilingwriter, @chenjunnyc and 跨界 | 閱讀 思考 對話. 歡迎加入! https://t.co/RXwi4L40in
+
+---
+## tweet 1578325978215895041
+- URL: https://twitter.com/i/web/status/1578325978215895041
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 1578587682967814145
+- URL: https://twitter.com/i/web/status/1578587682967814145
+
+Lines
+https://t.co/CLs8avaf8g https://t.co/MkIgrWRmIA
+
+---
+## tweet 1578386498352660480
+- URL: https://twitter.com/i/web/status/1578386498352660480
+
+强烈推荐 https://t.co/2ylHRh5Xvt 我愿称之为《给普通人的设计指南》！读之前没有想到设计和编码一样，都是有对应的模式的。@tailwindcss  让我重新学习了 CSS，这本书让我对设计更有信心。感谢 @adamwathan
+
+---
+## tweet 1578339257453711360
+- URL: https://twitter.com/i/web/status/1578339257453711360
+
+expensive + gets the job done correctly is much, much better than cheap + screws things up + requires expensive cleanup
+
+---
+## tweet 1578241210501763074
+- URL: https://twitter.com/i/web/status/1578241210501763074
+
+Be selfish with your time. A lot of people don't deserve it.
+
+---
+## tweet 1578018059834429441
+- URL: https://twitter.com/i/web/status/1578018059834429441
+
+Great passage from Steve Jobs: https://t.co/Q9lhOo1iQu
+
+---
+## tweet 1578296840482484224
+- URL: https://twitter.com/i/web/status/1578296840482484224
+
+在新项目里试了下 Vite + React 的组合，感觉还不错，Vite 上手确实比 webpack 容易。🙂
+
+---
+## tweet 1578291062182842369
+- URL: https://twitter.com/i/web/status/1578291062182842369
+
+最近跟一个朋友mock interview了一次，感觉对于普通的中国程序员来说，熟练掌握用英文表达面试相关的内容比较困难。这里推荐几个我觉得不错的英文刷题油管播主吧, 多看看人家怎么表达，面试中更有用（虽然花花酱是不错）
+https://t.co/2lPzKCm7hn
+https://t.co/76mNznVMtp
+https://t.co/aAojdyfy2R
+
+---
+## tweet 1578234451993182208
+- URL: https://twitter.com/i/web/status/1578234451993182208
+
+Dating Hack:
+
+If you get rejected by a girl...
+
+Relax, work out, and talk to other girls.
+
+---
+## tweet 1578211006970531841
+- URL: https://twitter.com/i/web/status/1578211006970531841
+
+#工程师工具，推荐一个几乎能够解决你所有文件处理问题的免费在线工具 TinyWoW https://t.co/VTtihB0RL5 , 包括各种文档格式转换、PDF 操作编辑、视频转换、移除图片背景，总之在我们常见的各类PDF/视频/图片/文档/地址/压缩等方面都可以找到你需要的，保存书签后，用完即走，免去下载收费软件的麻烦。 https://t.co/HEZmBKLcJC
+
+---
+## tweet 1577878827501588483
+- URL: https://twitter.com/i/web/status/1577878827501588483
+
+Toxic people always act like they are the victim.
+
+---
+## tweet 1578025988080173060
+- URL: https://twitter.com/i/web/status/1578025988080173060
+
+Be careful who you’re spending your time with. You become your surroundings.
+
+---
+## tweet 1577977410129055744
+- URL: https://twitter.com/i/web/status/1577977410129055744
+
+A man's thoughts and intentions are aligned with his words. He means what he says, and says what he means. If he has an issue with you, he will confront you directly. A man who communicates indirectly and uses passive aggressiveness is a feminized soy boy.
+
+---
+## tweet 1577973196082536449
+- URL: https://twitter.com/i/web/status/1577973196082536449
+
+Habits of Positive People:
+
+1. Embrace challenges
+2. Appreciate little moments
+3. Support those around them
+4. Always learning and growing
+
+---
+## tweet 1577939963970080768
+- URL: https://twitter.com/i/web/status/1577939963970080768
+
+A woman's perception of the world is based entirely on how she is feeling at in the moment, which is why her perception of reality is volatile and likely to change from day to day.
+
+---
+## tweet 1578193389908119553
+- URL: https://twitter.com/i/web/status/1578193389908119553
+
+"Avoid skeptics for your early hires. You want optimists with good judgment and execution skills."
+
+@naval
+
+---
+## tweet 1578060019412500485
+- URL: https://twitter.com/i/web/status/1578060019412500485
+
+Python clean code tip:
+
+Avoid doing things in only one environment (e.g., production because of rate limits of external API)
+
+Rather use interface and dummy implementation together with mapping
+
+👇 https://t.co/CjejIxSMBx
+
+---
+## tweet 1578106502623027200
+- URL: https://twitter.com/i/web/status/1578106502623027200
+
+Rule 1: Never act jealous, insecure or needy.
+
+Rule 2: Never forget Rule 1.
+
+---
+## tweet 1578022272534601728
+- URL: https://twitter.com/i/web/status/1578022272534601728
+
+May you attract a divine partner who is as deep, passionate, loving, sexual, soulful and spiritual as you. Someone who is intimate, open and vulnerable with you in every single sense. Someone who is so completely compatible with you, it's like you both manifested each other.
+
+---
+## tweet 1577620788391432193
+- URL: https://twitter.com/i/web/status/1577620788391432193
+
+看到别人转的这位在芬兰的华人女性。四十岁以后做空姐，参加健美比赛，做广告模特，学护理，中年的人生也有无数可能性和精彩时刻。在自由宽容的社会你才能不断追逐和实现梦想，想想多少同龄的中国女人此时在跟着红歌跳广场舞，我认识的有些同龄女性即使想好好工作都被迫内退了，这差异不用说了吧。 https://t.co/QDia2nJPIF
+
+---
+## tweet 1577950044614840320
+- URL: https://twitter.com/i/web/status/1577950044614840320
+
+A high value man doesn't complain about his problems.
+
+He fixes them or accepts them.
+
+---
+## tweet 1577948526616657922
+- URL: https://twitter.com/i/web/status/1577948526616657922
+
+"There is no failure, only feedback."
+
+@naval
+
+---
+## tweet 1577834507868127233
+- URL: https://twitter.com/i/web/status/1577834507868127233
+
+和同事聊 #公司需要什么样的工程师，对方的回答我非常赞同。
+
+分享给大家：
+
+补充
+- 不要求算法有多牛，但是综合素质要扎实
+- 常见后端组件的使用和原理，底层数据结构要熟悉
+- 常用算法思路和复杂度要知道
+- 手上的代码活要扎实
+- 对大型软件系统架构有实操经验并能独立解决问题 https://t.co/2cLXzEaaIS
+
+---
+## tweet 1577757077279154176
+- URL: https://twitter.com/i/web/status/1577757077279154176
+
+Be a Simplifier! A Simplifier is someone who can take a complex situation and explain it in the easiest way possible for everyone to understand. 🧵(1/3)
+
+---
+## tweet 1577887876875833345
+- URL: https://twitter.com/i/web/status/1577887876875833345
+
+"Pain is a fact. 
+Suffering is a choice."
+
+@naval
+
+---
+## tweet 1577844885872320512
+- URL: https://twitter.com/i/web/status/1577844885872320512
+
+Calmness is a superpower. The ability to not overreact or take things personally keeps your mind clear and your heart at peace.
+
+---
+## tweet 1577636476623458308
+- URL: https://twitter.com/i/web/status/1577636476623458308
+
+How to build your foundation:
+
+Physical:
+
+• Walks
+• Running
+• Lift weights
+
+Mental:
+
+• Read
+• Journal
+• Meditate
+
+Emotional:
+
+• Reflection
+• Awareness
+• Communicate
+
+Take care of the basics and you’ll be unstoppable.
+
+---
+## tweet 1577857677887037441
+- URL: https://twitter.com/i/web/status/1577857677887037441
+
+"Ego is false confidence, self-respect is true confidence" 
+
+@naval
+
+---
+## tweet 1577556156838719489
+- URL: https://twitter.com/i/web/status/1577556156838719489
+
+润出来到发达国家，别的不说，认真工作、至少有尊严的养家糊口没问题。
+
+发财的也有，不多；想成人上人的，建议留在国内考公务员。
+
+努力工作、平静生活不好么？眼高手低，在国内您也混不好啊，除非令尊叫习仲勋。
+
+---
+## tweet 1577689821916454912
+- URL: https://twitter.com/i/web/status/1577689821916454912
+
+"Always do your best. "
+
+---
+## tweet 1577629809185808386
+- URL: https://twitter.com/i/web/status/1577629809185808386
+
+CMSC 430: Design and Implementation of Programming Languages https://t.co/IpclhqAoAY
+
+---
+## tweet 1577724052650823706
+- URL: https://twitter.com/i/web/status/1577724052650823706
+
+Not everyone deserves an invite to your next chapter, not everyone is cheering for your success. Pay attention and be selective—privacy is protection.
+
+---
+## tweet 1577659982929084416
+- URL: https://twitter.com/i/web/status/1577659982929084416
+
+Dating someone who can disagree with you and still stays kind, respects your feelings and has your back >>>>
+
+---
+## tweet 1577797028540600320
+- URL: https://twitter.com/i/web/status/1577797028540600320
+
+"If you can't code, write books and blogs, record videos and podcasts." 
+
+@naval
+
+---
+## tweet 1577624000682987521
+- URL: https://twitter.com/i/web/status/1577624000682987521
+
+实际上很多底层的华人出来只是赚钱，顺便享受一点发达国家的福利，只有华人的社交圈子，不说英语，连当地语言也不会。这肯定非常痛苦，但如果你能过了语言这一关，有一定的社交，就会发现你在这个国家受到的尊重（不管个人还是政府层面）在中国是比较难得到的。 https://t.co/cpY77pzWhj
+
+---
+## tweet 1577682537547194369
+- URL: https://twitter.com/i/web/status/1577682537547194369
+
+Never force connections. If people don't see the value in having you by their side, don't try to convince them. It flows or it goes.
+
+---
+## tweet 1577788735629975552
+- URL: https://twitter.com/i/web/status/1577788735629975552
+
+#鉴播 两位资深国际问题研究者讲旅行和写作，听完有收获。我喜欢的方式是从人类最基本的需求入手，去考察一个新国家。无论这个国家多么不同，人总是要吃好穿好住好，并需要安全感和成就感的。这是亘古不变的人性，从这里开始讨论才会更有意义。https://t.co/WoVlLgMo8z
+
+---
+## tweet 1577610090516865025
+- URL: https://twitter.com/i/web/status/1577610090516865025
+
+如何像 Elon Musk 或者 Steve Jobs 那样做决定？
+
+GPT-3 的回答：
+
+- 果断
+- 对选择进行分析
+- 创造性
+- 对所做选择充满激情 https://t.co/GVQNjAe1o7
+
+---
+## tweet 1577519681652822018
+- URL: https://twitter.com/i/web/status/1577519681652822018
+
+A good story according to women:
+
+1) He made me feel good
+2) He then made me feel bad
+3) He then made me feel good again
+
+This is every chick flick ever
+
+---
+## tweet 1577327689668632580
+- URL: https://twitter.com/i/web/status/1577327689668632580
+
+Loving someone more doesn't mean loving yourself less. Love shouldn't be the reason you cross your own boundaries, tolerate mistreatment, or reduce your self-love. Prioritize your self-love. People who love you will always want you to love yourself and take good care of yourself.
+
+---
+## tweet 1577330990963478531
+- URL: https://twitter.com/i/web/status/1577330990963478531
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 1577501746804322304
+- URL: https://twitter.com/i/web/status/1577501746804322304
+
+那么退而求其次，决策的时候，应当优先选择那个让自己始终保持高度流动性，可以迅速调整，纠错，迁移的那个方案。
+
+所有方案都是错的，那个纠错成本最低最快的方案，就是最好的。
+
+---
+## tweet 1577418568228118528
+- URL: https://twitter.com/i/web/status/1577418568228118528
+
+Templating in HTML https://t.co/Zh8duFPO9d
+
+---
+## tweet 1577218712259612672
+- URL: https://twitter.com/i/web/status/1577218712259612672
+
+So many things to do, so little time..
+
+Finally, I have enough time to get into Designing Machin Learning Systems. 
+
+Building models is fun, but what interests me more is designing the system that holds the model. Hopefully, this book will answer some of my itching questions. https://t.co/vQNHfyhbol
+
+---
+## tweet 1577481970900090880
+- URL: https://twitter.com/i/web/status/1577481970900090880
+
+#土槽 昨晚看到这张图，一方面特别为帕博老师开心，一方面也特别为自己开心。回想起来，那次采访特别愉快，那是一种智力碰撞带来的内心的喜悦。我很高兴能有机会为国内读者写科普、音乐和旅行，这3个领域是我既喜欢又可以基本上不受限制地发挥的领域。
+
+---
+## tweet 1577402931598528529
+- URL: https://twitter.com/i/web/status/1577402931598528529
+
+"One of the most powerful things to realize is that you can change your own self-image."
+
+@naval
+
+---
+## tweet 1576919609894051841
+- URL: https://twitter.com/i/web/status/1576919609894051841
+
+Confident men believe that they are highly valuable and they behave based on this mindset. Confident behaviors are very sexy to women. One aspect of confident men is that they speak highly of themselves, set the frame that they are the prize and they don’t put themselves down.
+
+---
+## tweet 1577143253941583874
+- URL: https://twitter.com/i/web/status/1577143253941583874
+
+You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}
+
+---
+## tweet 1577234849600897025
+- URL: https://twitter.com/i/web/status/1577234849600897025
+
+同意易中天 https://t.co/V2wgvJVGhA
+
+---
+## tweet 1576905158902046720
+- URL: https://twitter.com/i/web/status/1576905158902046720
+
+A framed man will always get what he wants.
+
+When he enters the room people notice.
+
+When he speaks people listen.
+
+When he leads people follow.
+
+This is the power of frame.
+
+---
+## tweet 1577037020261715973
+- URL: https://twitter.com/i/web/status/1577037020261715973
+
+Do not make her like you as a best friend, make her like you sexually by being confident, having a masculine vibe, being socially intelligent, and using humour and flirting.
+
+---
+## tweet 1577071542047055894
+- URL: https://twitter.com/i/web/status/1577071542047055894
+
+Men don't want to 'talk about their feelings'
+
+Men want direction, purpose and meaning
+
+Only a fool thinks the antidote to masculinity is femininity.
+
+---
+## tweet 1577191035062681600
+- URL: https://twitter.com/i/web/status/1577191035062681600
+
+"Be like family to your friends, a friend to strangers, and a stranger to your enemies."
+
+@naval
+
+---
+## tweet 1577113048082415618
+- URL: https://twitter.com/i/web/status/1577113048082415618
+
+You must be constantly evolving:
+
+-Physically
+-Mentally
+-Spiritually
+
+Or else you'll start slowly decaying.
+
+---
+## tweet 1577018490086563840
+- URL: https://twitter.com/i/web/status/1577018490086563840
+
+Weak men:
+
+"I'll never get over her."
+
+Strong men:
+
+"I'll use it as fuel to become a better man."
+
+---
+## tweet 1576945809806872577
+- URL: https://twitter.com/i/web/status/1576945809806872577
+
+稻盛和夫： “说话只要声音一低，你的声音就会有磁性，说话只要一慢，你就会有气质，你敢停顿就能显示出权威，任何时候都不要紧张，永远展现出舒适放松的状态。您永远把任何您想接触的人当成老朋友交谈就行了。”
+
+---
+## tweet 1576985038511448064
+- URL: https://twitter.com/i/web/status/1576985038511448064
+
+Google insiders explain why Google launches many products and then abandons them.
+
+Hint: It has to do with chasing promotions. 🤦‍♂️ https://t.co/u9nwleGxHK
+
+---
+## tweet 1576873097063321605
+- URL: https://twitter.com/i/web/status/1576873097063321605
+
+something good about Python https://t.co/vBz22Y5bTx
+
+---
+## tweet 1576757920146280448
+- URL: https://twitter.com/i/web/status/1576757920146280448
+
+@yacineMTB I often think of computer programming as an *applied* science.  The real value in computer programming is when you use it to DO something in some other problem domain.  And much of the work for an architect is understanding the domain of the problem you’re solving.
+
+---
+## tweet 1576889548537315329
+- URL: https://twitter.com/i/web/status/1576889548537315329
+
+"Don't change yourself to win someone's heart. Stay true and you'll find someone who likes you for being you."
+
+---
+## tweet 1577112540030464001
+- URL: https://twitter.com/i/web/status/1577112540030464001
+
+最近生成艺术平台 QQL 的 pass 卡 NFT 已经募集了 1700 万美金，未来在 OpenAI 的 DALL·E 2 和开源的 Stable Diffusion 加持下，一定能看到非常多有创新的 generative art 的项目。
+
+对生成艺术感兴趣的朋友欢迎来交流一下~ https://t.co/Kx9NDBENto
+
+---
+## tweet 1576955428105203712
+- URL: https://twitter.com/i/web/status/1576955428105203712
+
+有同感。如果没有行内人带路或者有某种先发优势的话，会浪费大量时间和“潜规则/龌龊”周旋，最后慢慢意识到，还不如在别的地方开辟新的战场。 https://t.co/uTHGAeVMgp
+
+---
+## tweet 1576956531655864320
+- URL: https://twitter.com/i/web/status/1576956531655864320
+
+人民大多是贪小便宜，不愿意冒风险付代价的 ; 人民大多是善变的，所以不要相信他们口头承诺 ; 人民大多是"既要马儿跑，又要马儿不吃草的". https://t.co/SpPZc0ggID
+
+---
+## tweet 1576947933525594112
+- URL: https://twitter.com/i/web/status/1576947933525594112
+
+"Uncertainty, not outcome, is the root of stress."
+
+@naval
+
+---
+## tweet 1576944969281159168
+- URL: https://twitter.com/i/web/status/1576944969281159168
+
+Don't tell women to come over for sex
+
+Instead tell them to come see your dog or something cool you have in your room
+
+---
+## tweet 1576729582085894144
+- URL: https://twitter.com/i/web/status/1576729582085894144
+
+马斯克怼马克思。一句话解释了马克思主义在世界范围内失败的原因。北韩不如南韩、东德不如西德、大陆不如台湾，无不证明马克思干不过马斯克。权力腐败是最大的腐败。 https://t.co/y4nE8Z4NWb
+
+---
+## tweet 1576607691375419392
+- URL: https://twitter.com/i/web/status/1576607691375419392
+
+"A little more kindness. A little less judgment."
+
+---
+## tweet 1576859611071586305
+- URL: https://twitter.com/i/web/status/1576859611071586305
+
+资深媒体人张洁平@AnnieJieping 谈民主社会的“参与感”
+选自《不明白播客》20大特辑 - 中国媒体过去10年发生了什么？
+节目官网：https://t.co/ukmUC95uLE 
+Google Podcast: https://t.co/QRFSTfwow6 https://t.co/vwVJ4LAmet
+
+---
+## tweet 1576630089025847296
+- URL: https://twitter.com/i/web/status/1576630089025847296
+
+"A good relationship doesn't need any promises, terms or conditions. Just two people who can trust and understand."
+
+---
+## tweet 1576922278700490753
+- URL: https://twitter.com/i/web/status/1576922278700490753
+
+In business, stop trying to find a “problem” to solve.
+
+Instead, understand the “goal” that people are trying to achieve.
+
+Then, become an expert at solving the problems that prevent people from achieving that goal.
+
+Help them get there as fast as possible. That’s what they want.
+
+---
+## tweet 1576887283629924353
+- URL: https://twitter.com/i/web/status/1576887283629924353
+
+"Rich people get paid by the project and pay by the hour." 
+
+@naval
+
+---
+## tweet 1576781640717705217
+- URL: https://twitter.com/i/web/status/1576781640717705217
+
+Never rush into a relationship
+
+Learn her green flags and red flags before committing
+
+---
+## tweet 1576536529576824832
+- URL: https://twitter.com/i/web/status/1576536529576824832
+
+“This is the Unix philosophy: write programs that do one thing and do it well. Write programs to work together. Write programs that handle text streams, because that is a universal interface.”
+— Douglas McIlroy
+
+---
+## tweet 1576550722916622339
+- URL: https://twitter.com/i/web/status/1576550722916622339
+
+Before Age 40, set aside 15 minutes a day to learn these major skills, That are hard to learn but will pay off forever...
+
+1. https://t.co/JhcQpgWz3p
+
+---
+## tweet 1576734835808169984
+- URL: https://twitter.com/i/web/status/1576734835808169984
+
+You can build a startup and still be a great parent you know. Zero point in sacrificing your life to be successful.
+
+---
+## tweet 1576520821983432704
+- URL: https://twitter.com/i/web/status/1576520821983432704
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 1576520855068475392
+- URL: https://twitter.com/i/web/status/1576520855068475392
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 1576520840174505989
+- URL: https://twitter.com/i/web/status/1576520840174505989
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 1576796183304937473
+- URL: https://twitter.com/i/web/status/1576796183304937473
+
+"Two kinds of fools - those who take religion literally, and those who think it has no value."
+
+@naval
+
+---
+## tweet 1576563987629674498
+- URL: https://twitter.com/i/web/status/1576563987629674498
+
+Write down your problems, fix them one by one. 
+Develop a plan to succeed or you are planning to fail.
+
+---
+## tweet 1576559882672771073
+- URL: https://twitter.com/i/web/status/1576559882672771073
+
+Your passion for a certain skill (coding, design, creative work) may die if you pursue it as a career or client business.
+
+Building something because you’re told to isn’t as fun as building something because you want to.
+
+---
+## tweet 1576430130515546112
+- URL: https://twitter.com/i/web/status/1576430130515546112
+
+Lifehack for men:
+
+Lifting weights makes you 10x more attractive and makes your life 100x easier.
+
+---
+## tweet 1576595365859655680
+- URL: https://twitter.com/i/web/status/1576595365859655680
+
+Teach your kids how to think, not what to do.
+
+---
+## tweet 1576620668770451456
+- URL: https://twitter.com/i/web/status/1576620668770451456
+
+@LegacyBuilder__ Don’t give man a fish, teach him how to fish.
+
+The idea of making someone independent (also an independent thinker) is the whole idea of teaching.
+
+---
+## tweet 1576576388240355328
+- URL: https://twitter.com/i/web/status/1576576388240355328
+
+落魄潦倒的书生洪秀全，和苦大仇深的朱元璋就是明清五百年以来的范例 https://t.co/gd1Ko48f9i
+
+---
+## tweet 1576620186333216771
+- URL: https://twitter.com/i/web/status/1576620186333216771
+
+@MasculinePeak No one is coming to save you 
+
+You're the captain of your ship ; sail right man
+
+---
+## tweet 1576589559852253184
+- URL: https://twitter.com/i/web/status/1576589559852253184
+
+50/40/10 RULE https://t.co/lI3x1NyLRC
+
+---
+## tweet 1576553333254389760
+- URL: https://twitter.com/i/web/status/1576553333254389760
+
+"Become the best in the world at what you do. Keep redefining what you do until this is true." 
+
+@naval
+
+---
+## tweet 1576322003828473856
+- URL: https://twitter.com/i/web/status/1576322003828473856
+
+Building a startup is really hard but if you’re solving a problem you care about with a team you care about, you’ve won 90% of the battle.
+
+---
+## tweet 1576408462006751233
+- URL: https://twitter.com/i/web/status/1576408462006751233
+
+#深夜贴歌 又一个系列完结了。我以前很喜欢听电子，最近兴趣大减，因为现在的电子音乐太过仰仗电脑技术了，听多了会腻，还是回到音乐本身吧，那些真正的音乐家做出来的东西更耐听，也更可持续。https://t.co/8WrWBtYeba
+
+---
+## tweet 1575136709544747008
+- URL: https://twitter.com/i/web/status/1575136709544747008
+
+Have you ever wanted to add a math description for your #Python function but found it time-consuming to do so? latexify_py allows you to add LaTex math description with only one decorator.
+
+Link to latexify_py: https://t.co/2v8eygXgBj https://t.co/1Sf2XkQAIW
+
+---
+## tweet 1576221495004536832
+- URL: https://twitter.com/i/web/status/1576221495004536832
+
+讲真，中国人融入欧美工业和资本体系，简直太他妈简单了。
+
+这么多湾区西雅图大厂VP、SVP、EVP，co-founder，中国大陆出生的华人，没有上百人，也有大几十。
+
+更别提底下的年薪$1 million级别的各级manager/director。
+
+他们普遍特点：自己都在做正经事儿，实在懒得跟洼地Web3镰刀韭菜二元体傻逼们玩。
+
+---
+## tweet 1576131297986064384
+- URL: https://twitter.com/i/web/status/1576131297986064384
+
+This is the year of "Text-to-anything". Can't wait to play with this! https://t.co/mRjONXlWZO
+
+---
+## tweet 1576319000295796736
+- URL: https://twitter.com/i/web/status/1576319000295796736
+
+Any novel complex system needs to be designed more than once. A large bundle of unvalidated assumptions never survives its first contact with objective reality. Plan for the redesign.
+
+---
+## tweet 1576152184755847168
+- URL: https://twitter.com/i/web/status/1576152184755847168
+
+Life is always better after:
+
+•Sex
+•Coffee 
+•Shower
+•Walking
+•Working out
+
+What else?
+
+---
+## tweet 1576280283896127489
+- URL: https://twitter.com/i/web/status/1576280283896127489
+
+"The secret to public speaking is to speak as if you were alone." 
+
+@naval
+
+---
+## tweet 1576368342663041024
+- URL: https://twitter.com/i/web/status/1576368342663041024
+
+中国历史上最可怕的两种人。一是有信仰的书生，二是逼上梁山的农民，中国所有的改朝换代都是这两种人结合起来了造成的。
+
+---
+## tweet 1576012218147082240
+- URL: https://twitter.com/i/web/status/1576012218147082240
+
+Don't ask her out, tell her she's coming out. Hey! There's a [event] downtown that I'm checking out this weekend. You should come with.
+
+---
+## tweet 1575870390945005570
+- URL: https://twitter.com/i/web/status/1575870390945005570
+
+guess what these fireworks were for. wrong answers only https://t.co/4E679cZzdU
+
+---
+## tweet 1576055553062748160
+- URL: https://twitter.com/i/web/status/1576055553062748160
+
+Women see a dominating, confident and good man who knows how to flirt as a real man.
+
+---
+## tweet 1576021659101761541
+- URL: https://twitter.com/i/web/status/1576021659101761541
+
+荐书：昨天逛书店看到这本《人间指南》，翻了翻目录就决定买下来。书像一本辞典，每一两页纸解释人生中的一个重要概念，如“欲望”、“平衡”、“自制力”，告诉你那些伟大的哲学家们如何看待它们。
+书挺有意思。严肃的哲学对我来说还太难，这类科普性质的小册子刚刚好。 https://t.co/VKASb8VzAS
+
+---
+## tweet 1575916637965819904
+- URL: https://twitter.com/i/web/status/1575916637965819904
+
+"The best way, perhaps the only way, to change others is to become an example."
+
+@naval
+
+---
+## tweet 1575948598767804416
+- URL: https://twitter.com/i/web/status/1575948598767804416
+
+Hot girls are not attracted to guys who-
+
+• Lacks confidence and has low self-esteem
+• Does not know how to flirt
+• Not going anywhere in his life
+• bad conversationalist
+
+---
+## tweet 1575907185485193216
+- URL: https://twitter.com/i/web/status/1575907185485193216
+
+当你做某一类的事情成本特别低的时候，你就适合在那个领域创业，但这对多数其他人并不合适。根据自己的实际情况，循序渐进的发展耕耘自己的网络，慢慢找到适合自己的“成本最低”的试错和创业方式。 https://t.co/5hwTHbv3pi
+
+---
+## tweet 1575977287719133184
+- URL: https://twitter.com/i/web/status/1575977287719133184
+
+Bitcoin is an exit from the Fed.
+DeFi is an exit from Wall Street.
+Social media is an exit from mass media.
+Homeschooling is an exit from industrial education.
+Remote work is an exit from9-5
+Creator economy is an exit from employment.
+Individuals are leaving institutions.
+@naval
+
+---
+## tweet 1575989017996189697
+- URL: https://twitter.com/i/web/status/1575989017996189697
+
+#鉴播 听高林老师聊沙龙的历史，好多知识点啊！其实高老师聊任何话题都知识点密布，大家去搜他名字，然后挨个儿听就行了。https://t.co/csiwkibZH0
+
+---
+## tweet 1575827163843960832
+- URL: https://twitter.com/i/web/status/1575827163843960832
+
+Being dominant means-
+
+• you are more valuable than her.
+• being emotionally stronger than her.
+• being the ones who decide things.
+• You are in charge.
+
+---
+## tweet 1575857408823291904
+- URL: https://twitter.com/i/web/status/1575857408823291904
+
+A clear goal, a clear vision of how to get there, a clear deadline, and suddenly life keeps getting better.
+
+---
+## tweet 1575600565857312768
+- URL: https://twitter.com/i/web/status/1575600565857312768
+
+Don't argue with a fool. Be mature. Stay silent.
+
+---
+## tweet 1575381561855606784
+- URL: https://twitter.com/i/web/status/1575381561855606784
+
+"One of the key points is live your own life. And by the way, when you live in the past, you're living someone else's life."
+
+— Marshall Goldsmith on @TKPPODCAST
+
+https://t.co/UpoX3o1j3e
+
+---
+## tweet 1575501968885583880
+- URL: https://twitter.com/i/web/status/1575501968885583880
+
+Focus on yourself, your life, your career, your family, your real friends, and most importantly your happiness. That's what matters.
+
+---
+## tweet 1575447432569442304
+- URL: https://twitter.com/i/web/status/1575447432569442304
+
+Fun fact: You can either be honest or be polite.
+
+---
+## tweet 2020694583940890965
+- URL: https://twitter.com/i/web/status/2020694583940890965
+
+@UnmodernmanBot Expecting reciprocity often leads to disappointment. Understanding what drives people, their fears and desires, gives you clarity instead of confusion. It's not cynical, it's just realistic.
+
+---
+## tweet 2020686816203112856
+- URL: https://twitter.com/i/web/status/2020686816203112856
+
+@UnmodernmanBot Fairness is not a guarantee, it’s a preference. Most people respond to incentives and boundaries, not ideals. Pay attention to what they reward, what they excuse, and what they repeat. Then set terms and stop acting shocked when patterns stay consistent.
+
+---
+## tweet 2020716317482136030
+- URL: https://twitter.com/i/web/status/2020716317482136030
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 2020686590482554962
+- URL: https://twitter.com/i/web/status/2020686590482554962
+
+Your biggest weakness is hoping people will treat you fairly because you treat them fairly. Social life is incentives, not ideals. Learn how people move when they want something, learn what they fear losing, and learn what makes them feel superior. When you understand motives,…
+
+---
+## tweet 2020627449709727851
+- URL: https://twitter.com/i/web/status/2020627449709727851
+
+THE GUIDING PRINCIPLES FOR LONGTERM LOVE
+
+1. She tests you hard. You hold frame, tease back, or enforce a boundary without anger. (You love her enough to fix things, but not enough to tolerate bullshit.)
+
+---
+## tweet 2020479247249256803
+- URL: https://twitter.com/i/web/status/2020479247249256803
+
+Leading a high-performing team is hard, but it isn't complicated. This checklist fits on one page. The more you hit, the more likely your team is crushing it. https://t.co/oRnPgBNCb0
+
+---
+## tweet 2019789063910199474
+- URL: https://twitter.com/i/web/status/2019789063910199474
+
+DOMINANT MALE: 
+
+• Enters spaces like he already owns the outcome
+• Acts before permission even becomes a question
+• Presence compresses attention into a single point
+• Charisma that triggers instinct, not approval
+• Takes what resonates and ignores the rest
+
+---
+## tweet 2019358876479398250
+- URL: https://twitter.com/i/web/status/2019358876479398250
+
+God Over All Things. https://t.co/1NjcwFJiLA
+
+---
+## tweet 2020033461659246946
+- URL: https://twitter.com/i/web/status/2020033461659246946
+
+Always Remember... https://t.co/QU0BD43a65
+
+---
+## tweet 2019814706924720214
+- URL: https://twitter.com/i/web/status/2019814706924720214
+
+A woman shit-tests a man by trying to twist, control, guilt-trip, or emotionally manipulate him.  
+If he stays rock-solid, doesn't bend, doesn't get emotional, doesn't chase her approval, and holds his frame, she passes him.  
+
+He proves he's strong, unshakable.
+
+---
+## tweet 2020055671430082739
+- URL: https://twitter.com/i/web/status/2020055671430082739
+
+1. Don’t be so nice
+
+Nice becomes unattractive when it is approval seeking. A woman can feel when kindness is used to earn a reward. 
+
+Keep respect, remove desperation. Say what you mean without over explaining. Hold your opinion even if she disagrees. 
+
+Kindness with boundaries…
+
+---
+## tweet 2020041340629762107
+- URL: https://twitter.com/i/web/status/2020041340629762107
+
+There are two primary ways to approach questions about your desired salary: https://t.co/6QUdHkS3GD
+
+---
+## tweet 2019731892401225883
+- URL: https://twitter.com/i/web/status/2019731892401225883
+
+如果你在中国入住酒店房间，可能你的一举一动正被其他人所凝视。有犯罪分子在多地酒店安装摄像头，秘密拍摄甚至直播毫不知情的客人性爱过程。
+
+这些内容随后被在网络上贩售。许多担忧的网民开始分享如何辨认极其微小的摄影机的方式。
+
+BBC Eye的一项调查揭露了其中一个从事这一非法交易的网络的证据。 https://t.co/91yhpsUHz8
+
+---
+## tweet 2019809631129026831
+- URL: https://twitter.com/i/web/status/2019809631129026831
+
+Getting women is not just about looks, money, or status—though those help.  
+
+It’s about how smoothly you connect, flirt, read her signals, lead the vibe, and turn everyday moments into sexual tension.
+
+---
+## tweet 2020013469941022978
+- URL: https://twitter.com/i/web/status/2020013469941022978
+
+Don't you ever wonder what could truly make you a better person? And by better, I don't mean richer or more powerful, but really: purer, kinder - more radiant. What are you doing that harms you? What aren't you doing that'd heal you? We must be good stewards of this wonderful…
+
+---
+## tweet 2020018791137308714
+- URL: https://twitter.com/i/web/status/2020018791137308714
+
+To not apply one's self fully to the task is to cheat the task. It is for this reason, you cannot have too many tasks. If you heap up your burdens in such a way that they are stretched both wide and thin, you will find yourself disliking all that you do. You must consolidate.
+
+---
+## tweet 2019791742359191555
+- URL: https://twitter.com/i/web/status/2019791742359191555
+
+Marrying a kind partner also changes who you become. You grow softer without becoming weak. You learn patience, empathy, and better communication. You respond instead of reacting. Over time, you become a calmer and more grounded version of yourself.
+
+---
+## tweet 2019822237667467623
+- URL: https://twitter.com/i/web/status/2019822237667467623
+
+Once a man starts investing into himself, he'll start finding higher quality women chasing him.
+
+---
+## tweet 2019831958373892489
+- URL: https://twitter.com/i/web/status/2019831958373892489
+
+“You can never outperform your own self-image.”  
+
+— Maxwell Maltz https://t.co/ZeOXBPXde3 https://t.co/ZlHxKm6mRa
+
+---
+## tweet 2019800129897918534
+- URL: https://twitter.com/i/web/status/2019800129897918534
+
+Women rarely marry their so-called soulmate.
+They marry their safety net
+
+The man who gave butterflies was rehearsal.
+The man who shows up, pays bills, and stays steady is the one she commits to.
+
+Passion is intense -- and short-lived.
+Security is quiet - and lasting.
+
+Understand…
+
+---
+## tweet 2019777645240545481
+- URL: https://twitter.com/i/web/status/2019777645240545481
+
+Robert Greene: No matter your field, you must think of yourself as a builder. https://t.co/ln8yZoX2dJ
+
+---
+## tweet 2019780315967803712
+- URL: https://twitter.com/i/web/status/2019780315967803712
+
+HOW TO INCREASE YOUR AURA 
+
+1. Smile less….A calm, closed mouth smile carries more authority than forced friendliness.
+
+2. Announce nothing…..People respect outcomes, not intentions.
+
+3. Read real books in public. It silently intimidates people who scroll.
+
+4. Nod instead of…
+
+---
+## tweet 2019655348630732927
+- URL: https://twitter.com/i/web/status/2019655348630732927
+
+@NavalQuotes247 @naval Independent thought drives clarity; empathy drives connection.
+
+---
+## tweet 2019620629595693113
+- URL: https://twitter.com/i/web/status/2019620629595693113
+
+@NavalQuotes247 @naval Powerful. It’s about independent thought paired with genuine care—balance mind and heart.
+
+---
+## tweet 2019432328754524285
+- URL: https://twitter.com/i/web/status/2019432328754524285
+
+Femininity thrives in fun, comfort, and cooperation.
+
+Masculinity thrives in productivity, challenge, and competition.
+
+---
+## tweet 1575714556168445952
+- URL: https://twitter.com/i/web/status/1575714556168445952
+
+"True love and loyal friends are two of the hardest things to find."
+
+---
+## tweet 1575484521931481088
+- URL: https://twitter.com/i/web/status/1575484521931481088
+
+@flymetothemuse 非常同意
+
+个人崇拜可以解读成风险分配策略，即通过造神，避免将错误决策造成的风险分配回给领袖。错误都是下面人的
+
+极权社会算力不够，无法有效分配风险，只能靠控制媒体，抹杀言论或者定期清君侧打补丁
+
+---
+## tweet 1575478031480541184
+- URL: https://twitter.com/i/web/status/1575478031480541184
+
+集权社会的软肋与命门，就是权力高度单极之下的领导者作为自然人，其本身的认知盲区、私人心结、情绪波动等诸多个人缺陷，一旦遭遇掣肘，就会放大为整个社会的木桶短板，且由全体社会成员为其买单。所以只能通过宣传来造神，让民众盲目迷信大大的领袖光环。此类教训与悲剧在历史上反反复复地重演着。
+
+---
+## tweet 1575554753521602561
+- URL: https://twitter.com/i/web/status/1575554753521602561
+
+"Making money is not a thing that you do - it's a skill that you learn."
+
+@naval
+
+---
+## tweet 1575537087062761472
+- URL: https://twitter.com/i/web/status/1575537087062761472
+
+Amazon 发布了 Kindle Scribe，支持直接在电子书上手写笔记，解决了 Kindle 墨水屏不方便打字的问题，可以更新一下手上的 Oasis 了。
+
+https://t.co/qLG5oZ2Bsi
+
+---
+## tweet 1575469060401385473
+- URL: https://twitter.com/i/web/status/1575469060401385473
+
+#晨读 虽然写的是德意志，但明显暗指俄罗斯，强国人也可以读一读，防患于未然嘛。https://t.co/bfaMPRIdtW
+
+---
+## tweet 1575099764559040512
+- URL: https://twitter.com/i/web/status/1575099764559040512
+
+Bad Leadership:
+
+- Here's my plan
+- Here's what you must do for me
+
+Good Leadership:
+
+- How would you solve this?
+- How can I support you better?
+
+---
+## tweet 1575383217930018817
+- URL: https://twitter.com/i/web/status/1575383217930018817
+
+还是最享受手把手从零创造产品的过程。
+
+如果不知道做什么产品赚钱，那就做自己需要的产品。  
+
+底层逻辑是: 
+1) 大赛道已经没有机会，机会只可能在细分场景，而"自己需要"意味着有细分市场(这里当然需要数据验证)
+2) 自己重度使用的产品，才能把握好需求
+3) 未谋胜先谋败。哪怕不成功，自己用用也好
+
+---
+## tweet 1575210263938306049
+- URL: https://twitter.com/i/web/status/1575210263938306049
+
+A man sure of himself, his skills, and his determination, will become a badass motherfucker.
+
+Guaranteed he will make it to the stars and back.
+
+---
+## tweet 1575244713833046016
+- URL: https://twitter.com/i/web/status/1575244713833046016
+
+Just like confidence is sexy, self-doubt is repulsive to women. Hesitation is a show of self-doubt. You aren't sure of yourself, so you wait to confirm your own worth in your mind.
+
+---
+## tweet 1575112090704134147
+- URL: https://twitter.com/i/web/status/1575112090704134147
+
+A project manager's job is to recognize a problem and adjust, before it becomes an emergency.
+
+---
+## tweet 1534552760028479488
+- URL: https://twitter.com/i/web/status/1534552760028479488
+
+Numbers https://t.co/hMHIQGYwfv
+
+---
+## tweet 1575333841681752064
+- URL: https://twitter.com/i/web/status/1575333841681752064
+
+Don't argue with women
+
+She speaks with emotions while you speak with logic
+
+---
+## tweet 1575127387095851011
+- URL: https://twitter.com/i/web/status/1575127387095851011
+
+北大学生自以为聪明地问到访的美国总统一个问题，结果让中共领导尴尬了。独裁与民主国家差别暴露出来了，原来他们的思维方式来自不同的星球。 https://t.co/IB33xIa82a
+
+---
+## tweet 1575064698026074112
+- URL: https://twitter.com/i/web/status/1575064698026074112
+
+A fake friend is worse than an enemy.
+
+---
+## tweet 1575160942211452928
+- URL: https://twitter.com/i/web/status/1575160942211452928
+
+She says she wants a good man but being good is not enough.
+
+She wants a confident, real, emotionally masculine, man who has balls and a man she can rely on.
+
+---
+## tweet 1575274154235813888
+- URL: https://twitter.com/i/web/status/1575274154235813888
+
+A dominant, confident, emotionally masculine man is a good man for her. That's what she wants.
+
+Women look at good dominant men as real men.
+
+---
+## tweet 1575335810995396608
+- URL: https://twitter.com/i/web/status/1575335810995396608
+
+之前的Azure订阅到期，下单了个Contabo的VPS打算周末迁移博客，5欧一个月，限时优惠可以到400G SSD存储， 4核8g内存，性价比很高的了， 有兴趣的朋友可以看看 https://t.co/GSklqINxjn #VPS https://t.co/mvKoZrff9F
+
+---
+## tweet 1575160404841570305
+- URL: https://twitter.com/i/web/status/1575160404841570305
+
+"I think children give you the unique opportunity to genuinely love something more than you love yourself. And I think that is really important for being happy because the moment you love something more than you love yourself, you're no longer self-obsessed."
+
+@naval
+
+---
+## tweet 1575303109772992513
+- URL: https://twitter.com/i/web/status/1575303109772992513
+
+绝大多数墙内友友问我，出国投简历怎么准备。
+
+唯一答案：刷leetcode、刷leetcode、刷leetcode。没人需要你去背各种八股文，面试就刷leetcode。
+
+因为绝大多数国内大厂人，压根一道题leetcode都没碰过，所以如果没有准备，一旦面试基本必挂。
+
+刷leetcode就是全世界（洼地除外）任何一个大厂的敲门砖；
+
+---
+## tweet 1575342353652412417
+- URL: https://twitter.com/i/web/status/1575342353652412417
+
+"Value your time. It is all you have. It’s more important than your money. It’s more important than your friends. It is more important than anything. Your time is all you have. Do not waste your time." 
+ 
+@naval
+
+---
+## tweet 1575312154793746435
+- URL: https://twitter.com/i/web/status/1575312154793746435
+
+"Choose the non-emotional response to any given situation and see how much easier your life becomes."
+
+@naval
+
+---
+## tweet 1575070568088420352
+- URL: https://twitter.com/i/web/status/1575070568088420352
+
+Women are bored out of their minds.
+
+- You flirt
+
+- You tease
+
+- You disqualify
+
+- You bring the excitement
+
+Be the source of strong emotions and they'll never get enough of you.
+
+---
+## tweet 1575130205760368641
+- URL: https://twitter.com/i/web/status/1575130205760368641
+
+"Intentions don't matter. Actions do. That's why being ethical is hard."
+
+@naval
+
+---
+## tweet 1575085473252356098
+- URL: https://twitter.com/i/web/status/1575085473252356098
+
+#晨读 黄老师的两万字长文，梳理了苏联解体的整个过程，强烈建议大家赶紧读。文章主要是从政治和经济的角度解释苏联解体的，我觉得还应该有人从科学（土地，气候，技术等等）和文化传统（民族性）的角度再深入分析一下这个问题。只有这样才能理解苏联和中国之间的差别。https://t.co/WUdCQ2v1ij
+
+---
+## tweet 1575054734188085249
+- URL: https://twitter.com/i/web/status/1575054734188085249
+
+https://t.co/VY2MhXwntg is a great example of a startup using its expertise to help people, rather than just its money. It has shipped over 4000 tons of aid to Ukraine so far.
+
+---
+## tweet 1574743155576020994
+- URL: https://twitter.com/i/web/status/1574743155576020994
+
+Want to make nested dicts easily? defaultdict can do it.  This is also called auto-vivification. It's turtles all the way down! 🐢 🐢 🐢
+More here: https://t.co/FDHOIeTxMq https://t.co/oXF8k1OFLo
+
+---
+## tweet 1574846440702021632
+- URL: https://twitter.com/i/web/status/1574846440702021632
+
+不知道如何妥协的人，没有资格去强硬 ；不知道如何资产配置的人，没有资格去重仓。
+
+---
+## tweet 1574621104521502720
+- URL: https://twitter.com/i/web/status/1574621104521502720
+
+Most people are controlled by:
+
+→ Fear
+→ Other people
+→ Lack of confidence
+
+Master your mindset, master your life
+
+---
+## tweet 1574857829550211073
+- URL: https://twitter.com/i/web/status/1574857829550211073
+
+所以根本不要在乎被别人嘲笑软弱怯懦，只要你自己清楚，自己是在为长远的最终成功，在打基础就好。
+
+---
+## tweet 1574966835774038016
+- URL: https://twitter.com/i/web/status/1574966835774038016
+
+如果你不打算润，几条建议：
+1.经济持续下行，财务要谨慎，谨慎买房，谨慎拉满杠杆做任何事；
+2.习必然连任，无论动态清零还是舆论高压，提前适应新常态；
+3.有硕士/博士学位，保持发论文/做学术/做开源/媒体曝光，尽早排上EB2 NIW，等美国绿卡；
+4.有条件的，把娃生在香港/日/美/新/加；
+5.保持刷题。
+
+---
+## tweet 1574812504177475585
+- URL: https://twitter.com/i/web/status/1574812504177475585
+
+I am most excited about parallel efforts like PyOxidizer that will make building and distributing Python applications much easier.
+
+---
+## tweet 1574804184376942592
+- URL: https://twitter.com/i/web/status/1574804184376942592
+
+I predict that within the new couple of years Python will cease being "slow" due to the incredible efforts of several projects that are currently separate efforts converging.
+
+If JavaScript can be fast as hell, Python will be fast as hell.
+
+---
+## tweet 1574833971321528322
+- URL: https://twitter.com/i/web/status/1574833971321528322
+
+@talldarknweirdo No idea right now. CircuitPython & MicroPython use a completely different implementation than CPython, and fast-per-watt is going to require very different solutions there.
+
+---
+## tweet 1574798017030488064
+- URL: https://twitter.com/i/web/status/1574798017030488064
+
+"Programming is not a zero-sum game. Teaching something to a fellow programmer doesn't take it away from you. I'm happy to share what I can, because I'm in it for the love of programming." – John Carmack
+
+---
+## tweet 1574786917165682688
+- URL: https://twitter.com/i/web/status/1574786917165682688
+
+Startups can raise funds on two things:
+* Dream stage: talk about vision, mission, and team fit. Your data assumptions are mostly useless.
+* Data stage: talk about retention, growth & product fit. Your dream is judged in light of data.
+
+Know your stage and pitch accordingly.
+
+---
+## tweet 1574742405538091010
+- URL: https://twitter.com/i/web/status/1574742405538091010
+
+I get my best ideas when I'm walking in nature, taking a shower, driving, and working out.
+
+Not when I'm sitting in front of the computer.
+
+---
+## tweet 1574967952914272256
+- URL: https://twitter.com/i/web/status/1574967952914272256
+
+https://t.co/GHt9q5awUp
+
+推荐这个 Newsletter，主要整理一些人的副业以及收入等等，已经出了几期了，做的还不错。
+
+---
+## tweet 1574795718329454592
+- URL: https://twitter.com/i/web/status/1574795718329454592
+
+听完了 @jianshuo 老师的这一期 podcast，建硕老师对 web3 的看法和我非常吻合（web3 并不是用来取代 web2 的），一些创业和写作的想法也非常有意思。
+
+另外建硕老师的 YouTube 频道出了一系列 web3 的科普视频，非常推荐。
+
+👇
+https://t.co/FPKNvXL8bB https://t.co/n919SGJLao
+
+---
+## tweet 1574978455820767232
+- URL: https://twitter.com/i/web/status/1574978455820767232
+
+"The best thing about @elonmusk is that he makes me question if I’m thinking big enough with my life."
+
+@naval
+
+---
+## tweet 1574874334471942144
+- URL: https://twitter.com/i/web/status/1574874334471942144
+
+Reminder:
+
+Don't text her if you're bored, sad or depressed.
+
+She can feel your energy through the other side of the screen.
+
+---
+## tweet 1574751246224740352
+- URL: https://twitter.com/i/web/status/1574751246224740352
+
+The process of building a startup is basically just hiring great people and figuring things out together as a team.
+
+---
+## tweet 1574712356893995008
+- URL: https://twitter.com/i/web/status/1574712356893995008
+
+CCP does not even care about the impact the climate did to China, why would it care about the world?
+
+CCP is more concerned about unification etc, which is part of Xi's imperial dream. 
+
+No Middle Kingdom emperors in history ever cared about any global issues. Nor will Xi.
+
+---
+## tweet 1573819915718598656
+- URL: https://twitter.com/i/web/status/1573819915718598656
+
+When you are a dictator, you don't perceive the reality as it is (descriptive), you perceive it as what it *should* be (normative). 
+
+When the reality is off from their expectations, they exercise absolute power to reshape it. It works when the reality is not *adversarial*.
+
+---
+## tweet 1574405435150389253
+- URL: https://twitter.com/i/web/status/1574405435150389253
+
+Don’t be ashamed of your hustle, Nobody will feed you or your family if you go broke
+
+---
+## tweet 1574452142597091328
+- URL: https://twitter.com/i/web/status/1574452142597091328
+
+我從歐洲回台後陷入了很長的低潮期。在歐洲，我可以不管外表、不穿內衣、不在意學歷也不用和人相互踩踏，大家十分友善，讚美也真誠。
+
+但一回到台灣，所有的壓力瞬間湧上：長輩對我隱私的評頭論足、父權使人感到的種種壓迫、選舉的學歷亂戰更讓我對這個社會又一次次的感到失望。
+
+---
+## tweet 1574663438172794884
+- URL: https://twitter.com/i/web/status/1574663438172794884
+
+nLab 这个 Wiki 网站对数学、物理学、哲学领域有着清晰、深刻的整理，非常赞，可收藏。
+https://t.co/190qhUtu0e
+
+---
+## tweet 1574420799766798337
+- URL: https://twitter.com/i/web/status/1574420799766798337
+
+50 Life Lessons from an 80 Year Old Man:
+
+1. https://t.co/8quxCVP5cE
+
+---
+## tweet 1574488991449202701
+- URL: https://twitter.com/i/web/status/1574488991449202701
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 1574651310132973568
+- URL: https://twitter.com/i/web/status/1574651310132973568
+
+Come work with me!
+
+My co @teamsundial just started the search for a seasoned product designer based in Bangalore.
+
+It's a joy to work with this crew. We can't wait to meet our next collaborator.
+
+Must love the pursuit of truth, excellence, and start-ups.
+
+DMs open.
+
+---
+## tweet 1574430307205337089
+- URL: https://twitter.com/i/web/status/1574430307205337089
+
+First, know your worth. Second, control your emotions. Third, never settle.
+
+---
+## tweet 1574631896273027073
+- URL: https://twitter.com/i/web/status/1574631896273027073
+
+• Read everyday.
+• Spend time with nature.
+• Ask questions.
+• Never stop learning.
+• Don't pay attention to what others think of you.
+• Do what interests you the most.
+• Study hard.
+• Teach others what you know.
+• Make mistakes and learn.
+• It's Okay to not know things!
+
+---
+## tweet 1574424556256624645
+- URL: https://twitter.com/i/web/status/1574424556256624645
+
+"Forget rich versus poor, white-collar versus blue. It's now leveraged versus un-leveraged."
+
+@naval
+
+---
+## tweet 1574570034722066434
+- URL: https://twitter.com/i/web/status/1574570034722066434
+
+whining over here to myself about my marathon training program that has me running 9 miles (in the rain) tomorrow after i had to run 17 miles (in the rain) yesterday 😩
+
+i’m not even training for a marathon, but apparently i wasn’t suffering enough as a startup founder 🫣
+
+---
+## tweet 1574445443714412554
+- URL: https://twitter.com/i/web/status/1574445443714412554
+
+Women are turned off by mental and emotional weaknesses in men like  being sensitive, lack of emotional control, anxieties, nervousness, desperation, being a wimp etc.
+
+---
+## tweet 1574613302696873984
+- URL: https://twitter.com/i/web/status/1574613302696873984
+
+Focus on finding a woman & you will never find her.
+
+Focus on your purpose and you will win both women & success.
+
+---
+## tweet 1574519427650969622
+- URL: https://twitter.com/i/web/status/1574519427650969622
+
+CTO Should Be Technical https://t.co/lC1w4XrqC3
+
+---
+## tweet 1574572122567221248
+- URL: https://twitter.com/i/web/status/1574572122567221248
+
+从信噪比的角度分析的太透彻了，经典书籍里面蕴含的信息量确实大，说一本顶百本真的不为过，好的投资机会盈利空间也是如此，一个好的投资机会胜过一百次差的投资机会。读书和投资都是看你抓住了什么，而不是错过了什么 https://t.co/3w2EoWQC9j
+
+---
+## tweet 1574496531998248960
+- URL: https://twitter.com/i/web/status/1574496531998248960
+
+She cannot feel love and attraction for you if she feels stronger and more dominant than you.
+
+---
+## tweet 1574614250764398594
+- URL: https://twitter.com/i/web/status/1574614250764398594
+
+分享一个我做 design 的方法：
+
+1. 在纸上 or 白板上 brainstorm 出线框图
+2. 在 dribbble 和 pinterest 利用关键词来找到一些类似的设计
+3. 在 Figma 中开始画 prototype，主要会参考别人的配色、字体、排版、交互设计
+
+以上的方法作为一个没有设计背景的 engineer，早期 build 产品原型完全够用了。
+
+---
+## tweet 1574518199101669378
+- URL: https://twitter.com/i/web/status/1574518199101669378
+
+working with people who are on top of their shit is simply one of the world’s greatest delights
+
+---
+## tweet 1574429429022961664
+- URL: https://twitter.com/i/web/status/1574429429022961664
+
+纯粹工具类型的技术很难捕捉价值，因为会不断被 AI 技术制造的新工具超越替代。但帮助人们合作的技术如 Zoom, slack, figma, 等等，因为控制了网络结构，用户很难迁移到别的系统上，所以更容易捕捉价值。 https://t.co/N6NKCNSzoZ
+
+---
+## tweet 1574559121516679169
+- URL: https://twitter.com/i/web/status/1574559121516679169
+
+#鉴播 原来高林老师讨论起爱情来也是头头是道啊！另外两个嘉宾完全不在一个频道上，太难为高老师了。https://t.co/JyfyK6IjnK
+
+---
+## tweet 1574396586658070529
+- URL: https://twitter.com/i/web/status/1574396586658070529
+
+#晨读 Tribalism这个词很流行，它暗示人类天生就是只忠于自己人，和敌人打仗的冲动是存在于我们的基因里的一种性状。这篇文章提出了反对意见：婴儿不认肤色和长相，只喜欢友善的人。人类虽然天生善于分类，但不同的部落不一定就是敌我矛盾，原始部落之间的关系是复杂而多变的。https://t.co/kgIK5rqkIy
+
+---
+## tweet 1574346832531976192
+- URL: https://twitter.com/i/web/status/1574346832531976192
+
+Women just want to show up and look pretty.
+
+As a man, it's your job to:
+
+- Lead
+
+- Make plans
+
+- Decide for both of you
+
+Take that burden off her shoulders.
+
+---
+## tweet 1574379440553033728
+- URL: https://twitter.com/i/web/status/1574379440553033728
+
+.@reidhoffman on the one of the smartest things his father ever taught him: https://t.co/Drs6uVOkLM
+
+---
+## tweet 1574277593146146818
+- URL: https://twitter.com/i/web/status/1574277593146146818
+
+The secret to healing is to face your emotions and forgive yourself and others. 
+
+This may be difficult, but it is the only way to move on.
+
+---
+## tweet 1574318570246397957
+- URL: https://twitter.com/i/web/status/1574318570246397957
+
+Study your past and find the pattern that makes you win.
+
+---
+## tweet 1574226260062097409
+- URL: https://twitter.com/i/web/status/1574226260062097409
+
+Think big, start small, experiment with ideas.
+
+---
+## tweet 1574347346175037442
+- URL: https://twitter.com/i/web/status/1574347346175037442
+
+1- Tolerate less bullshit in the begining:
+
+You see, your first interactions with people define how the rest of the relationship goes
+
+If you tolerate misbehavior right from the start, chances are they're gonna keep doing it again
+
+Don't let people get too comfortable too quickly
+
+---
+## tweet 1574025175930228739
+- URL: https://twitter.com/i/web/status/1574025175930228739
+
+A father is the most important man in a woman's life.
+
+He sets standards for other men.
+
+---
+## tweet 1573991709683351554
+- URL: https://twitter.com/i/web/status/1573991709683351554
+
+Successful entrepreneurs are those efficient ones who know how to manage their time.
+
+---
+## tweet 1574315190274752513
+- URL: https://twitter.com/i/web/status/1574315190274752513
+
+作为一个软件工程师要追求代码质量：TDD、DDD、领域建模、统一语言、重构、性能优化、架构设计、设计模式、测试覆盖率、流水线构建。。。作为一个创作者：放弃以上全部实践，把代码最快糊出来上线再说😎 https://t.co/L855yfWY8A
+
+---
+## tweet 1574298869868810240
+- URL: https://twitter.com/i/web/status/1574298869868810240
+
+新随笔: Kevin Kelly 对创作者的指导
+
+https://t.co/3RJFyIRZ2o https://t.co/CpCP2q9LYq
+
+---
+## tweet 1574038024186380288
+- URL: https://twitter.com/i/web/status/1574038024186380288
+
+How to build an agency:
+
+1. Learn a skill.
+2. Sell the skill as a service.
+3. Build a business with the skill.
+4. Remove yourself from the business.
+5. Scale.
+
+---
+## tweet 1574232646242156545
+- URL: https://twitter.com/i/web/status/1574232646242156545
+
+Offline map test on Apple Watch Ultra for hiking https://t.co/G98IunqVnx
+
+---
+## tweet 1574292265694277632
+- URL: https://twitter.com/i/web/status/1574292265694277632
+
+Do Things Don't Scale
+
+https://t.co/lcg5qGw0x1
+
+---
+## tweet 1574172028436881410
+- URL: https://twitter.com/i/web/status/1574172028436881410
+
+The Smartest Website You Haven't Heard Of https://t.co/gxLwboFTVr
+
+---
+## tweet 1516319912595099655
+- URL: https://twitter.com/i/web/status/1516319912595099655
+
+我不敢给别人建议在哪里看病，毕竟经济能力和具体病情不同。对我家来说，我妈在她最脆弱的时候，不用在医院里排队，不用在科室间来回奔波，遇到的每一位医护都有耐心、尊重她、关心她，做出重大医疗决定前有充足的时间向她信任的专家问询，整个过程有女儿女婿陪伴：这些很难用价格来衡量。
+
+---
+## tweet 1574255507203768320
+- URL: https://twitter.com/i/web/status/1574255507203768320
+
+Demand and supply decide price.
+
+Community consensus defines value.
+
+Do you see the difference?
+
+---
+## tweet 1574043271495438337
+- URL: https://twitter.com/i/web/status/1574043271495438337
+
+Jeff Bezos’s counterintuitive idea:
+
+“Communication is a sign of dysfunction.” https://t.co/zFUDgstbhU
+
+---
+## tweet 1573952975227088896
+- URL: https://twitter.com/i/web/status/1573952975227088896
+
+"How can I be sure she likes me?"
+
+You can't.
+
+The only way to find out is to ask her out anyway.
+
+---
+## tweet 1573992052966105088
+- URL: https://twitter.com/i/web/status/1573992052966105088
+
+Don"t treat a woman like she is a man - who just happens to have a vagina. Treat a woman differently than you would treat a man because the woman operates on Feminine OS and speaks Womenese, while a man operates on Masculine OS and speaks Manese.
+
+---
+## tweet 1574201760171687937
+- URL: https://twitter.com/i/web/status/1574201760171687937
+
+真正执行的难点太多了，比如打工不重要，很多人的目标是不打工，但在一定时间范围内打工又很重要，因为需要积累资金。时间管理的问题在于没有一个框架去帮助做出动态变化的优先级决策。 https://t.co/ud4QwYmUFD
+
+---
+## tweet 1574134948201627648
+- URL: https://twitter.com/i/web/status/1574134948201627648
+
+Money commandments. Master the basics. https://t.co/duDeDbPlmS
+
+---
+## tweet 1573939107666984960
+- URL: https://twitter.com/i/web/status/1573939107666984960
+
+"Clear Thinker" is a better compliment than "Smart".
+
+@naval
+
+---
+## tweet 1574132530428592128
+- URL: https://twitter.com/i/web/status/1574132530428592128
+
+Power tends to corruption, absolute power corrupts absolutely.
+权力会产生腐败，绝对的权力产生绝对的腐败。
+Great men are almost always bad man.
+伟人几乎总是坏人。阿克顿剑桥大学历史教授
+
+---
+## tweet 1574177129469648896
+- URL: https://twitter.com/i/web/status/1574177129469648896
+
+Simply put, price is what you pay for something, or what the market thinks something is worth; value is just what you think it is worth.
+
+Further, price is decided by the law of demand and supply, objective, while value is based on personal judgement toward a vision, subjective.
+
+---
+## tweet 1574081324532391937
+- URL: https://twitter.com/i/web/status/1574081324532391937
+
+For most startups it takes years and a ton of experiments to find product market fit. 
+
+Theres really no shortcuts aside from time and talking to a lot of customers so hang in there and don’t give up too soon.
+
+---
+## tweet 1574043226545082368
+- URL: https://twitter.com/i/web/status/1574043226545082368
+
+Don't wait to be saved. No one is coming to save you. You have to be your own savior. It is your duty to be a fighter for yourself - just like you would be a fighter for your best friend. Be your own best friend and take care of yourself.
+
+---
+## tweet 1574251163553304579
+- URL: https://twitter.com/i/web/status/1574251163553304579
+
+还在为投递海外找工作的简历而苦恼？如何才能知道我要投递的公司面试是哪一种类型？如何在正式面试前临阵磨枪，提升一下英语？跟HR进行Phone Screen有啥注意事项？面试官英文口音太重怎么办？这一期视频分享的5个小Tips也许能帮助到屏幕前即将要面试的你。https://t.co/FgDSrT0Bp5
+
+---
+## tweet 1574133049108975617
+- URL: https://twitter.com/i/web/status/1574133049108975617
+
+每个时代，自由都面临四大威胁：
+
+一、强人对于权力集中的渴望。
+
+二、穷人对于财富不平均的怨恨。
+
+三、无知者对于乌托邦的向往。
+
+四、没有信仰的人把自由和放纵混为一谈。
+
+——阿克顿勋爵《自由史论》
+
+---
+## tweet 1573699138356940801
+- URL: https://twitter.com/i/web/status/1573699138356940801
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 1573687454208561154
+- URL: https://twitter.com/i/web/status/1573687454208561154
+
+@thedatingboss A man must focus on improving his value while playing the long game in life.
+
+So he works out to improve his health while being jacked. So he learns a skill and scales the skill to make more money.
+
+As he grows older, his experiences in life gives him emotional intelligence.
+
+---
+## tweet 1573794407458828289
+- URL: https://twitter.com/i/web/status/1573794407458828289
+
+By being overtly sexual, you're forcing a woman to make a choice - either fall into your frame, or walk away. Regardless of her choice: you win. If she falls into your frame then you'll have sex with her.
+
+---
+## tweet 1573817556451803136
+- URL: https://twitter.com/i/web/status/1573817556451803136
+
+"Solve via iteration. Then get paid via repetition."
+
+@naval
+
+---
+## tweet 1573725952730927110
+- URL: https://twitter.com/i/web/status/1573725952730927110
+
+"You don’t need mentors, you need action."
+
+@naval
+
+---
+## tweet 1573696270031626241
+- URL: https://twitter.com/i/web/status/1573696270031626241
+
+training your boundaries to be stronger than your soft heart is self-care. Be kind but take no shit.
+
+---
+## tweet 1573819780234182658
+- URL: https://twitter.com/i/web/status/1573819780234182658
+
+#鉴播 这期内容很好，结论也很靠谱，但主持人最后说“人类永远理解不了大自然”是怎么回事啊？你没有能力理解，不等于别人不行，这种态度才是最自大的好吗？糟糕的是，这种口吻如今已经成了文艺青年的口头禅，这帮人实在是太自恋了。https://t.co/ycQ9LTwLji
+
+---
+## tweet 1573577197272457221
+- URL: https://twitter.com/i/web/status/1573577197272457221
+
+还是有一些规律和结论经历了历史的可证伪性的考验的😂，比如自然科学中的很多定律。社会科学因为其复杂自适用特性，不太满足自然科学 齐一性假设，但是也是有一些模式和规律是满足概率性正确的，这些东西可能是我们在这个领域最大的依赖。 https://t.co/jFZXbHEvGW
+
+---
+## tweet 1573297750607032322
+- URL: https://twitter.com/i/web/status/1573297750607032322
+
+有了这三个网站
+只要你愿意花时间筛选信息，足以让你不错过当下热门项目，抓住机会
+1，https://t.co/rmwHnbIDAs
+2，https://t.co/DLg4LsJxjK
+3，https://t.co/EVvnah0l4p
+除了这三个目前还有没有更好的
+有分享精神的同学可以下方留言
+期待还有更好的网站 https://t.co/sMmUE9ejPw
+
+---
+## tweet 1573522911968694273
+- URL: https://twitter.com/i/web/status/1573522911968694273
+
+A woman's perception of the world is based entirely on how she is feeling at in the moment, which is why her perception of reality is volatile and likely to change from day to day.
+
+---
+## tweet 1573383542586982401
+- URL: https://twitter.com/i/web/status/1573383542586982401
+
+How to have good long-term relationships:
+
+Keep improving yourself
+
+This makes you act in an attractive manner to *women* in general.
+
+When your gf/wife notices other women want you, she’ll want you even more in return.
+
+She enjoys having what other women want but can’t have
+
+---
+## tweet 1573318366617800710
+- URL: https://twitter.com/i/web/status/1573318366617800710
+
+If you die tomorrow, nobody apart from your family gets affected.
+
+So, stop thinking about what others say about you.
+
+---
+## tweet 1573343138067922945
+- URL: https://twitter.com/i/web/status/1573343138067922945
+
+Focus on improving yourself, not proving yourself.
+
+---
+## tweet 1573529437257469952
+- URL: https://twitter.com/i/web/status/1573529437257469952
+
+Focus on being able to provide for your family. Execute your long-term vision with humility and diligence. You will naturally attract wealth.
+
+---
+## tweet 1573477361349058561
+- URL: https://twitter.com/i/web/status/1573477361349058561
+
+A woman's body-language will betray the truth. If you simply pay attention to her bodylanguage, you'll be able to identify how she is feeling, whether or not she likes you, to which extent she likes you and her true intentions.
+
+---
+## tweet 1573225326615863298
+- URL: https://twitter.com/i/web/status/1573225326615863298
+
+对于想要逃离想要润的朋友，一个准备一定要做：
+把所有的证件，从出生证明到学历学位证书，都拿去公证、并且翻译成英语或者你想要去的国家的语言，越多份越好。
+我当时弄了10份，现在也快用完了（用于学校申请啦等）。
+
+---
+## tweet 1573265669960847361
+- URL: https://twitter.com/i/web/status/1573265669960847361
+
+You overthink: write
+You lack ideas: Walk
+You need energy: sleep
+You lack focus: meditate
+You're stressed out: breathe
+
+---
+## tweet 1573357382515580937
+- URL: https://twitter.com/i/web/status/1573357382515580937
+
+Make her feel loved, then neglected.
+
+Make her happy, then piss her off.
+
+Make her cry, then console her.
+
+Give her the full range of emotions and she'll fight to keep you.
+
+---
+## tweet 1573316534293889024
+- URL: https://twitter.com/i/web/status/1573316534293889024
+
+As I reflect on the last 5 years since I released my book Principles, many of you have asked for my top principles for getting what you want out of life, so I wanted to share them here. I hope they’re as valuable to you as they have been for me along my journey. (1/2) https://t.co/XKLa0UNGBC
+
+---
+## tweet 1573333890277703683
+- URL: https://twitter.com/i/web/status/1573333890277703683
+
+When you have genuine intentions and a gorgeous heart of gold, you don't lose anyone - they lose you.
+
+---
+## tweet 1573330346183204869
+- URL: https://twitter.com/i/web/status/1573330346183204869
+
+"We study science to learn how to get what we want. We study philosophy to know what to want in the first place."
+
+@naval
+
+---
+## tweet 1573482347697012736
+- URL: https://twitter.com/i/web/status/1573482347697012736
+
+"Three things in life - your health, your mission, and the people you love. That's it."
+
+@naval
+
+---
+## tweet 1573018126568112134
+- URL: https://twitter.com/i/web/status/1573018126568112134
+
+Be smart enough to walk away from negative vibes.
+
+---
+## tweet 1572552722158534656
+- URL: https://twitter.com/i/web/status/1572552722158534656
+
+The most practical skill in life is learning to do things when you don’t feel like doing them. Anyone can do it when it’s easy, but most people drop out the minute it gets hard.
+
+---
+## tweet 1573197606599249922
+- URL: https://twitter.com/i/web/status/1573197606599249922
+
+Having sex with girls you don't even find attractive is a disgrace to your manhood.
+
+---
+## tweet 1573187408748740611
+- URL: https://twitter.com/i/web/status/1573187408748740611
+
+Stop waiting for your turn to make progress in your life.
+
+Make it happen yourself. It's starts from you.
+
+---
+## tweet 1573013508236550144
+- URL: https://twitter.com/i/web/status/1573013508236550144
+
+"Follow your passion. Stay true to yourself. Never follow someone else’s path."
+
+---
+## tweet 1573107125202583552
+- URL: https://twitter.com/i/web/status/1573107125202583552
+
+"Be real, be yourself, be unique, be true, be honest, be humble, be happy."
+
+---
+## tweet 1573159395793555456
+- URL: https://twitter.com/i/web/status/1573159395793555456
+
+第一个开源链上博客系统 xLog
+https://t.co/mOCORCaaJK https://t.co/mw2StwMY5B
+
+---
+## tweet 1572926940188905472
+- URL: https://twitter.com/i/web/status/1572926940188905472
+
+Hiring advice:
+
+Avoid hiring anyone you can describe as a "social climber"
+
+They don't do any work and they make life more hostile for your other employees.
+
+---
+## tweet 1572941283680739330
+- URL: https://twitter.com/i/web/status/1572941283680739330
+
+Stoic Thought of The Day
+
+When we fall, what do we do?
+
+We get up, then we fall again.
+
+How can we stop repeating this process?
+
+Stop falling.
+
+How do we stop falling?
+
+By practicing Stoicism BEFORE we fall down.
+
+Use Stoicism for prevention.
+
+Instead of recovery. https://t.co/PVGjR1nNdg
+
+---
+## tweet 1572904325344788480
+- URL: https://twitter.com/i/web/status/1572904325344788480
+
+The first thing you can do to instantly raise your sexual market value is to get better at being a producer of emotions that women value - specifically fun, intrigue, and good emotions.
+
+---
+## tweet 1573100758471524353
+- URL: https://twitter.com/i/web/status/1573100758471524353
+
+用 Markdown 画甘特图是什么体验
+
+https://t.co/BGjGh3IBU3 是基于 Markdown 语法的项目管理工具，使用时在左边编辑区里直接分配时间、任务、人员，建立待办清单等等，右边展示区实时渲染显示项目分配和进度
+
+可以导出 pdf 或者 png 文件
+
+有趣的设计，适合纯文本爱好者和 markdown 死忠粉 https://t.co/VeYIh9ClTp
+
+---
+## tweet 1573147503591055362
+- URL: https://twitter.com/i/web/status/1573147503591055362
+
+Decision making is also about confidence as it is likely to be of benefit to those around you.
+
+As Anna Wintour, "People respond well to those that are sure of what they want."
+
+---
+## tweet 1572968239394856960
+- URL: https://twitter.com/i/web/status/1572968239394856960
+
+Build a team that trusts each other, avoids drama, frequently communicates, sets clear goals, makes each other better, laughs together, and gets shit done at your startup.
+
+---
+## tweet 1572942886207127553
+- URL: https://twitter.com/i/web/status/1572942886207127553
+
+在中国，没有什么法律规定和行业标准挡得住政治运动。时评人长平认为，“清零”政策置科学和医学于不顾，凭空想象出一场跟西方进行的制度优势竞赛。事实上这是随意软禁和关押任何民众的政治游戏。世界上并不存在不折腾老百姓的专制政权。不确定性和不安全感，本身就是专制政权的控制手段之一。 https://t.co/iH5yAUCst9
+
+---
+## tweet 1572913645453185024
+- URL: https://twitter.com/i/web/status/1572913645453185024
+
+Keep supportive women in your life and 
+
+Remove destructive women from your life
+
+---
+## tweet 1573112578490109952
+- URL: https://twitter.com/i/web/status/1573112578490109952
+
+32、不必在意错过。反复阅读最优秀的信息；
+
+---
+## tweet 1572849533553414145
+- URL: https://twitter.com/i/web/status/1572849533553414145
+
+Psychology says, Confidence is not ‘they will like me’. Confidence is ‘I’ll be fine if they don’t’.
+
+---
+## tweet 1572981840377438208
+- URL: https://twitter.com/i/web/status/1572981840377438208
+
+Women go crazy for a man with strong eye contact
+
+---
+## tweet 1572666192950890496
+- URL: https://twitter.com/i/web/status/1572666192950890496
+
+今天很奇妙。花60美元，在平姐职介找到一份工作。明天去尔湾上班，跟着老板学习安装橱柜，暂时管吃管住，日工资150美元。 https://t.co/v4KXPLKuDC
+
+---
+## tweet 1573092075499065344
+- URL: https://twitter.com/i/web/status/1573092075499065344
+
+重大问题上，不相信任何官员的承诺，是一个负责任的成年人的道义上的责任。官僚和普通人没太大差别，大概率道德底线比一般人还低一些。
+
+---
+## tweet 1573082826282389504
+- URL: https://twitter.com/i/web/status/1573082826282389504
+
+There are 3 ways to build confidence in your ability to do X without actually having done X.
+
+1. See people who excel at X do it up close.
+2. Work out a first principles understanding of X.
+3. Develop confidence in your capacity to learn anything, including X.
+
+---
+## tweet 1572936003265888256
+- URL: https://twitter.com/i/web/status/1572936003265888256
+
+Express your ideas like an artist.
+
+Solve problems like an entrepreneur.
+
+Discipline yourself like an athlete.
+
+Nobody want’s to end up boring and one dimensional.
+
+---
+## tweet 1572897725913260032
+- URL: https://twitter.com/i/web/status/1572897725913260032
+
+"Good decision-makers understand a simple truth: you can't make good decisions without good thinking, and good thinking requires time."
+
+https://t.co/oD1kQRfwjp
+
+---
+## tweet 1572856568911400962
+- URL: https://twitter.com/i/web/status/1572856568911400962
+
+新加坡国立大学EMBA新一期入学名单中，币圈大佬云集，熊市学习看来不是一句MEME。
+
+新加坡国立和南洋理工看来要成为华人WEB3大佬们的共同母校。 https://t.co/bkIspahIHj
+
+---
+## tweet 1572865753774432257
+- URL: https://twitter.com/i/web/status/1572865753774432257
+
+When a woman friend-zones you, what she is really saying is that she doesn't consider you to be high status enough to be sexually-worthy, but she'll still use your resources in the meantime.
+
+---
+## tweet 1513625278790049794
+- URL: https://twitter.com/i/web/status/1513625278790049794
+
+无论多忙，我会尽力释出更多的原创观点、客观分析、独立预测和才艺展示。 https://t.co/Rhjrn28vH6
+
+---
+## tweet 1572699529790496768
+- URL: https://twitter.com/i/web/status/1572699529790496768
+
+I don't want perfect, I want honest and faithful.
+
+---
+## tweet 1572783751993884673
+- URL: https://twitter.com/i/web/status/1572783751993884673
+
+最后说一遍。
+
+立党润学笔记：https://t.co/sgD9dpN9nQ ，今后会逐渐提供一些我认为最有价值的转码、留学、投资、移民、创业、面试的个人总结和推荐。
+
+欢迎star、watch、fork、贡献。
+
+---
+## tweet 1572840626818891776
+- URL: https://twitter.com/i/web/status/1572840626818891776
+
+Being willing to practice makes success results look like magic.
+
+1. Plan
+
+2. Do
+
+3. Learn
+
+4. Repeat
+
+5. Success
+
+Simple.
+
+---
+## tweet 1572755235101380608
+- URL: https://twitter.com/i/web/status/1572755235101380608
+
+We also have it up on the podcast: https://t.co/AJ0zfM8yww
+
+Now that many of us are commuting again, you should subscribe and learn how to build SaaS products during your commute.
+
+---
+## tweet 1572746899438047233
+- URL: https://twitter.com/i/web/status/1572746899438047233
+
+@OdysseysEth 今年最大的收获就是来自于波普尔的自传和你上次推荐的那本赵敦华讲波普尔。从证伪性到批判理性，《科学发现的逻辑》，《历史决定论的贫困》，《开放社会极其敌人》，一路展开，一气呵成，思考的深度真是让人拍案叫绝。
+
+---
+## tweet 1572579188569444352
+- URL: https://twitter.com/i/web/status/1572579188569444352
+
+As I reflect on the last 5 years since I released my book Principles, I wanted to share the Work Principles that have been favorites of this community. I hope they continue to be valuable to you as you progress through your careers. (1/2) https://t.co/IqwJFUYJaP
+
+---
+## tweet 1572768896758599680
+- URL: https://twitter.com/i/web/status/1572768896758599680
+
+"I don’t believe in specific goals. Scott Adams famously said, Set up systems, not goals.' Use your judgment to figure out what kinds of environments you can thrive in, and then create an environment around you so you’re statistically likely to succeed."
+
+@naval
+
+---
+## tweet 1572661515291078656
+- URL: https://twitter.com/i/web/status/1572661515291078656
+
+Weak men wait for someone to come and save them.
+
+Strong men know no one is coming, and start helping themselves.
+
+---
+## tweet 1557770290452627456
+- URL: https://twitter.com/i/web/status/1557770290452627456
+
+Surrounding myself with positive people, with mutual trust and support relationship, has been a great source of happiness for me.
+
+---
+## tweet 1559586687021420547
+- URL: https://twitter.com/i/web/status/1559586687021420547
+
+5 top drivers for personal/career growth:
+1) Knowing what you want.
+2) Being focused on #1 
+3) Being dedicated to #1
+4) Being fearless to achieve #1
+5) Having the grit to do the work towards #1
+
+---
+## tweet 1561462678421479430
+- URL: https://twitter.com/i/web/status/1561462678421479430
+
+I have been spending way too much time this year watching random videos. This experience has given me very little and prevented me from reading more books and being creative and active. 
+This stops today. 
+
+A challenge of our data age is to pick which data to consume or ignore.
+
+---
+## tweet 1572745047778660352
+- URL: https://twitter.com/i/web/status/1572745047778660352
+
+生物与其所处的环境也是相互纠缠的。生物的演化在改变环境，环境也在改变生物。生物的演化不存在必然的发展方向。
+
+人类没有宿命。任何人都不存在宿命。
+
+---
+## tweet 1572733815965253632
+- URL: https://twitter.com/i/web/status/1572733815965253632
+
+Congratulations to @triketora and the @blockpartyapp_ team for raising your $4.5M seed🥂🚀
+From all of us at @TwitterDev 💙
+
+https://t.co/Q9l0ca8TAp
+
+---
+## tweet 1572642773509210112
+- URL: https://twitter.com/i/web/status/1572642773509210112
+
+“I can do hard things” is a powerful belief system.
+
+---
+## tweet 1572632246623911940
+- URL: https://twitter.com/i/web/status/1572632246623911940
+
+"The clear thinking comes from having time to reflect and to pursue your genuine intellectual curiosity." 
+
+@naval
+
+---
+## tweet 1572662948673167360
+- URL: https://twitter.com/i/web/status/1572662948673167360
+
+"Don’t spend your time making other people happy. Other people being happy is their problem. It’s not your problem. If you are happy, it makes other people happy."
+
+@naval
+
+---
+## tweet 1572578421280051200
+- URL: https://twitter.com/i/web/status/1572578421280051200
+
+Once you see consistent progress in your mind, mood, physique, productivity, etc...
+
+You'll become ADDICTED to how this progress makes you feel.
+
+Going to the gym becomes EFFORTLESS because of how great you feel afterwards.
+
+(... But how do you get to this point?...)
+
+---
+## tweet 1572511695796596737
+- URL: https://twitter.com/i/web/status/1572511695796596737
+
+@music3club 中国社会没有走出农耕民族以个体简单劳动原始轮回的思维范畴，靠天吃饭，靠皇恩苟活。而现代的人是一种社会化的个体自由存在，独特的思想就是IP，社会组织建制是普世的而不是少数人的权利，人的价值在社会性流动中再分配。或者说，为什么中国没有出现交响乐，因为小农只会拉二胡。
+
+---
+## tweet 1572480825522024449
+- URL: https://twitter.com/i/web/status/1572480825522024449
+
+Be the biggest fan of the people you care about ...
+
+Show them you care.
+Make them look good.
+Unconditionally support them.
+Catch them when they stumble.
+Remind them of what they do well.
+Help them accomplish their dreams.
+
+And they will do the same for you.
+
+---
+## tweet 1572196777545334784
+- URL: https://twitter.com/i/web/status/1572196777545334784
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 1572345054416752641
+- URL: https://twitter.com/i/web/status/1572345054416752641
+
+转贴—— https://t.co/SDfU1lx6Zv
+
+---
+## tweet 1572278151170101248
+- URL: https://twitter.com/i/web/status/1572278151170101248
+
+五年来，我以创业者身份进入区块链的接受的第一个独家采访，给了链铺手。推荐这篇优秀的媒体采访，只是与我而言，面对重重困难，要做起来的难度太大了。其中很多问题，我们还要等几个月或者几年才能回答清楚。再次谢谢Jessy认真细致的18个头痛问题。
+
+https://t.co/8HKYUGetoh
+
+---
+## tweet 1572280554149810179
+- URL: https://twitter.com/i/web/status/1572280554149810179
+
+MEN JUST WANT THE END RESULT; women enjoy the process. While you're ready to fuck within minutes, a woman will want to be taken through an emotional rollercoaster ride that accumulates in sexual intimacy. Foreplay isn't just physical, but emotional, logistical and verbal.
+
+---
+## tweet 1572179771110342656
+- URL: https://twitter.com/i/web/status/1572179771110342656
+
+Building your personal brand today will make you stand out tomorrow.
+
+---
+## tweet 1572195449234423809
+- URL: https://twitter.com/i/web/status/1572195449234423809
+
+极速排挡可以说是最喜欢的自媒体节目了，每一集都让人看得很开心。
+
+---
+## tweet 1572419846570094592
+- URL: https://twitter.com/i/web/status/1572419846570094592
+
+"Guard your time. Forget the money."
+
+@naval
+
+---
+## tweet 1572377458678312963
+- URL: https://twitter.com/i/web/status/1572377458678312963
+
+放下。
+很多人包括以前的我，都对故国有一些执念。总觉得自己还是一份子，遇到灾难，有钱出钱有力出力。经常关心国内的一些事情。甚至傻到去学鲁迅以笔为武器，挑战威权。
+我今年学会了放下，我也希望更多的朋友学会放下。那片土地以后各种荒谬的事情层出不穷。毕竟连保甲只都快满血复活了。1/n
+
+---
+## tweet 1572211234723733504
+- URL: https://twitter.com/i/web/status/1572211234723733504
+
+A meaningful goal + clarity on how to achieve it + a true deadline closing in = the greatest self-induced nootropic stack known to man.
+
+---
+## tweet 1572211424809873409
+- URL: https://twitter.com/i/web/status/1572211424809873409
+
+https://t.co/d9oLhJMIOe
+
+---
+## tweet 1572386132825890818
+- URL: https://twitter.com/i/web/status/1572386132825890818
+
+今年获奖的欧盟主席说了3点：竞争，开放，共享。她虽然说的是疫苗，但这3点几乎就是人类共同进步的所有秘密。 https://t.co/rbpzOAFVB0
+
+---
+## tweet 1572155035278082048
+- URL: https://twitter.com/i/web/status/1572155035278082048
+
+Focus on yourself.
+
+Upgrade your skills.
+Build businesses.
+Earn money.
+Make money work for you.
+Repeat.
+
+Do not focus on the uncontrollables.
+
+Politics, media, outrage won't pay your bills.
+
+---
+## tweet 1572164070190596100
+- URL: https://twitter.com/i/web/status/1572164070190596100
+
+SQLite: Past, Present, and Future https://t.co/aMEa9IuJ4k
+
+---
+## tweet 1572122181785784323
+- URL: https://twitter.com/i/web/status/1572122181785784323
+
+Dating Hack:
+
+Instead of focusing on pleasing her...
+Focus on having a good time.
+
+Always amuse yourself.
+
+---
+## tweet 1571808821135036416
+- URL: https://twitter.com/i/web/status/1571808821135036416
+
+This Post is from a suspended account. {learnmore}
+
+---
+## tweet 1571834246292979713
+- URL: https://twitter.com/i/web/status/1571834246292979713
+
+If you're going to get emotional, that's fine.
+
+But go do it alone.
+
+Do not show anyone your weaknesses, that's how you give people leverage over you.
+
+Grief alone, move on alone.
+
+Get stronger alone.
+
+You don't need anyone besides yourself.
+
+---
+## tweet 1571828487249346561
+- URL: https://twitter.com/i/web/status/1571828487249346561
+
+The fastest way to hit $100k per year:
+
+1. Pick a niche
+2. Identify businesses in it
+3. Research and talk to them
+4. Identify their biggest problems
+5. Build a recurring offer/solution
+6. Do cold outreach
+7. Work for cheap/free
+8. Refine your offer
+9. Raise prices
+10. Sell more
+
+---
+## tweet 1571994748969439232
+- URL: https://twitter.com/i/web/status/1571994748969439232
+
+Old one but a good one https://t.co/XxQu4DyDAO
+
+Came up today when I met with our current APM (associate product manager) class.
+
+---
+## tweet 1572075030024171520
+- URL: https://twitter.com/i/web/status/1572075030024171520
+
+@songma 嗯，除了grammarly外，分享几个我订阅的软件，1）Infuse+NAS的影版库，简直就是一个私有的netflix，2）Figma，我不是设计师，但是也止不住让我每月交15刀给这个软件，3）O'Reilly，计算机电子书大全，4）Github，虽然有公司的付费帐号，但是我还是要有一个私人的付费帐号。5）Youtube会员……
+
+---
+## tweet 1571995299056271360
+- URL: https://twitter.com/i/web/status/1571995299056271360
+
+"Stand alone. Carry others."
+
+@naval
+
+---

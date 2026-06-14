@@ -8,4 +8,4 @@ Journal entries — weekly reviews, daily notes, life logs. More chronological t
 [[The log of your life]] · [[!Notes on odyssey]]
 
 ### Related areas
-[[Self]] · [[Learning]] · [[Notes]]
+[[Self]] · [[Learning]] · [[Notes]] · [[Origin Apple Notes]]

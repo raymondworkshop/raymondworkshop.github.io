@@ -76,9 +76,38 @@ def get_sources(path: pathlib.Path) -> Iterator[pathlib.Path]:
     return pathlib.Path(SRCS).joinpath(path).glob("*.md")
 
 
+def derive_post_title(post: frontmatter.Post, source: pathlib.Path) -> str:
+    if post.get("title"):
+        return str(post["title"]).strip()
+    for line in (post.content or "").splitlines():
+        stripped = line.strip()
+        if stripped.startswith("# "):
+            return stripped[2:].strip()
+    return source.stem
+
+
+def normalize_post(post: frontmatter.Post, source: pathlib.Path) -> frontmatter.Post:
+    post["title"] = derive_post_title(post, source)
+    post["_source_stem"] = source.stem
+    return post
+
+
 def parse_source(source: pathlib.Path) -> frontmatter.Post:
     post = frontmatter.load(str(source))
-    return post
+    return normalize_post(post, source)
+
+
+def is_section_dir(path: pathlib.Path) -> bool:
+    section = str(path).strip("./")
+    return bool(section) and not is_memex_hub_dir(path)
+
+
+def get_file_stem(post: frontmatter.Post) -> str:
+    raw = post.get("_source_stem")
+    if raw:
+        slug = get_static_link(str(raw))
+        return slug if slug else str(raw).lower()
+    return get_static_link(post["title"])
 
 
 def render_markdown(markdown_text: str) -> str:
@@ -229,6 +258,8 @@ def get_post_stem(post: frontmatter.Post, path: pathlib.Path) -> str:
                 + post["date"].strftime("%Y-%m-%d")
             )
         return get_static_link(post["title"])
+    if is_section_dir(path):
+        return get_file_stem(post)
     return get_static_link(post["title"])
 
 
@@ -283,6 +314,10 @@ def build_memex_context() -> dict[str, Any]:
         url = get_post_url(post, subdir)
         stem = get_post_stem(post, subdir)
         register_wikilink_target(registry, post["title"], url, stem=stem)
+        if post.get("_source_stem"):
+            register_wikilink_target(
+                registry, str(post["_source_stem"]), url, stem=stem
+            )
         section_name = memex_section_key(subdir)
         section_posts[section_name].append(
             {
@@ -491,7 +526,7 @@ def write_post(post: frontmatter.Post, content: str, path: pathlib.Path):
         post["stem"] = stem
         output = pathlib.Path(f"./docs/memex/{stem}/index.html")
         output.parent.mkdir(parents=True, exist_ok=True)
-    elif post.get("tags") or post.get("categories"):
+    elif post.get("tags") or post.get("categories") or is_section_dir(path):
         post["stem"] = get_post_stem(post, path)
         section = str(path).strip("./").lower()
         if section:
@@ -651,7 +686,9 @@ def write_docs(root: str):
 
 def section_label(path: pathlib.Path) -> str:
     name = str(path).strip("./")
-    return name.lstrip("_").title() if name else "Blog"
+    if not name:
+        return "Blog"
+    return name.replace("-", " ").replace("_", " ").title()
 
 
 def strip_markdown(text: str) -> str:
@@ -679,7 +716,7 @@ def get_topics(post: frontmatter.Post) -> list[str]:
 def get_post_url(post: frontmatter.Post, path: pathlib.Path) -> str:
     if is_memex_hub_dir(path):
         return get_hub_url(post)
-    if post.get("tags") or post.get("categories"):
+    if post.get("tags") or post.get("categories") or is_section_dir(path):
         stem = get_post_stem(post, path)
         section = str(path).strip("./").lower()
         if section:

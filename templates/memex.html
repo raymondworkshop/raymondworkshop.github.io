@@ -36,6 +36,17 @@
 
     <div class="post-body">{{ content }}</div>
 
+    {% if outgoing_links %}
+    <section class="wiki-panel wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            {% for link in outgoing_links %}
+            <li><a href="{{ link.url }}" class="wikilink">{{ link.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
     {% if backlinks %}
     <section class="wiki-panel backlinks">
         <h2>Linked from</h2>

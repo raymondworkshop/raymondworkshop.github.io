@@ -8,4 +8,4 @@ Personal reflection — life, work, love, who I am. Overlaps with [[Learning]] a
 [[Build my life]] · [[!self reflection]] · [[我想要什么样的生活]]
 
 ### Related areas
-[[Learning]] · [[Philosophy]] · [[Softskills]]
+[[Learning]] · [[Philosophy]] · [[Softskills]] · [[Diary]] · [[Origin Apple Notes]] · [[Twitter]]

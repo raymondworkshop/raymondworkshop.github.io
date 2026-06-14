@@ -25,7 +25,10 @@
     - grep -riln "上司" _posts/  
 
 
-#### 2022-06-20 
+#### 2026-06-14  
+* add memex/, make memex more wiki and backlink 
+
+#### 2022-06-20  
 * update into 'vs' code style  
     - generate vs code style, and update into style.py  
     > pygmentize -f html -a .highlight -S vs > vs.css  

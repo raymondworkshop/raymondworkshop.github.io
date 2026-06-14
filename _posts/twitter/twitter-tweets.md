@@ -1,0 +1,1996 @@
+# Twitter Tweets (extracted from tweets.js)
+
+297 tweets
+
+## Wed Sep 30 02:24:57 +0000 2020 — tweet 1311129881162342400
+- Lang: en
+- Reply to: @joulee
+
+@joulee Why only female?
+
+---
+## Wed Sep 23 05:46:55 +0000 2015 — tweet 646561360617209856
+- Lang: zh
+
+"咨询的发达，知识传播过程的相对以及日趋平民化，是这个时代最棒的福利"
+
+---
+## Wed Sep 23 05:34:01 +0000 2015 — tweet 646558114175541248
+- Lang: en
+
+RT @johnmaeda: “We have to believe in ourselves, but we mustn’t suppose that the path will be easy, it’s tough.” —John W. Gardner http://t.…
+
+---
+## Wed Sep 16 09:02:53 +0000 2020 — tweet 1306156593717809152
+- Lang: zh
+
+RT @ayuan1000: 贵刊记者发来了她在大西北农村看到的景象。那儿的农民依然迷信耕地，结果就是土壤有机质含量极低，保墒能力严重不足，只能靠地下水和化肥撑着。今年西部干旱，连地下水都救不了，颗粒无收。所有这些问题，我在《未来的农业》封面故事里都写过了，不知道这个计划中的新…
+
+---
+## Wed Sep 16 07:40:52 +0000 2020 — tweet 1306135950716592129
+- Lang: en
+
+RT @newsyc100: The Book of Why: The New Science of Cause and Effect [pdf] https://t.co/u0ajnlSh66 (https://t.co/UPpVR2q1AE)
+
+---
+## Wed Sep 15 06:41:05 +0000 2021 — tweet 1438030090680426500
+- Lang: en
+
+RT @fatehshernu: You don't "find" yourself. 
+
+You Create yourself.
+
+---
+## Wed Sep 13 17:03:39 +0000 2017 — tweet 908013316190068736
+- Lang: en
+
+RT @elluba: A @Forbes podcast with @quasimondo 🤖!  All about computational art, curation and neural networks https://t.co/KZBdrFERoT https:…
+
+---
+## Wed Sep 06 15:57:26 +0000 2017 — tweet 905459938528419840
+- Lang: en
+
+RT @evagaresp: Beautifully written about writing beautifully. A must read for anyone in a writing stage! #writethatPhD @PhDForum https://t.…
+
+---
+## Wed Sep 06 12:58:22 +0000 2017 — tweet 905414874389397504
+- Lang: en
+
+RT @mathena: People, Ideas, and Things - in that order.
+
+---
+## Wed Sep 02 04:08:55 +0000 2020 — tweet 1301009184826077184
+- Lang: en
+
+@HSBC_HK Hi, I applied for a Personal Integrated HSBC card last week, there isnot any new about it until now? it's a so bad service
+
+---
+## Wed Nov 18 02:00:02 +0000 2020 — tweet 1328880613034606592
+- Lang: zh
+
+RT @ayuan1000: #土摩托看世界 2006年1月28日，我在开普敦加入了一个散客拼团，去了好望角。游玩过程中认识了我身边这位漂亮的巴西姑娘，聊得特别开心。临走前互留了Email，说好再联系。当晚我和同屋的几个新认识的朋友出去喝酒，忘记查邮件了。过了两天才发现那天晚上…
+
+---
+## Wed Nov 15 08:20:04 +0000 2017 — tweet 930711988010868736
+- Lang: zh
+
+RT @junjun694393670: 思考，从看明镜火拍，陈军主持的《思烤方式》开始。保持着对新事物的好奇与思考，充满活力与激情的生活。感谢陈军分享你的阅读心得，对我来说每期都有收获！@chenjunnyc  https://t.co/7RMcylfhow
+
+---
+## Wed Nov 11 02:18:22 +0000 2020 — tweet 1326348513475661824
+- Lang: en
+
+RT @MissXQ: Here it is - the Chinese crazy shopping day (double11) RMB 372 billion within 10days on Alibaba platform only. #crazyrichchines…
+
+---
+## Wed Nov 03 03:12:42 +0000 2021 — tweet 1455734653071941633
+- Lang: zh
+
+RT @ayuan1000: #书摘 法国人认为罗马法具有普适性，不愿向习俗屈服，所以法国人以既定的方式而不是应有的方式与非洲人打交道，造成了极度的冷漠无情。英国殖民管通常来自上层中产阶级或士绅家庭，大都是各个行业的专家。法国殖民管则大都来自资产阶级，属于通才型领导者，对非洲酋…
+
+---
+## Wed May 27 13:18:00 +0000 2026 — tweet 2059625168537022727
+- Lang: zh
+- Reply to: @imwsl90
+
+@imwsl90 能說下為啥嗎？ 謝謝
+
+---
+## Wed May 27 13:08:51 +0000 2026 — tweet 2059622863884423438
+- Lang: en
+- Reply to: @D931931
+
+@D931931 Hey Jielin, are u interested in building some with 2026-era together? I am an engineer, thanks, Raymond
+
+---
+## Wed May 27 09:17:44 +0000 2026 — tweet 2059564700250362018
+- Lang: zh
+- Reply to: @imwsl90
+
+@imwsl90 請問 用claude 還是 codex 比較上手？ 謝謝
+
+---
+## Wed May 26 07:46:32 +0000 2021 — tweet 1397459118542049284
+- Lang: en
+
+Mind - Body - Wealth
+
+---
+## Wed May 21 04:45:56 +0000 2025 — tweet 1925050405169545367
+- Lang: zh
+- Reply to: @jamesli41890910
+
+@jamesli41890910 謝謝分享； 想問下 律法和恩典各是什麼意思？ 有什麼區別？ 謝謝你
+
+---
+## Wed May 17 03:33:32 +0000 2023 — tweet 1658677104039571456
+- Lang: zh
+
+RT @liuren: 张琨说：先要搞清楚Why，然后，定义清楚What的边界，才能具体到How的Where、Who、When。大领导一下子很务实地进入具体方案，然后，变成了，大家帮着为这个方案找理由。果因倒置了。
+
+---
+## Wed May 11 05:27:42 +0000 2016 — tweet 730268122758811649
+- Lang: en
+
+RT @guardian: Queen says Chinese officials were 'very rude' during Xi Jinping's state visit https://t.co/xp13AeG6RK
+
+---
+## Wed May 10 06:10:15 +0000 2023 — tweet 1656179824749334535
+- Lang: zh
+- Reply to: @tinyfool
+
+@tinyfool 請問用哪個軟件寫代碼比較方便？ vscode？ 謝謝
+
+---
+## Wed Mar 30 16:28:05 +0000 2016 — tweet 715214020962349056
+- Lang: en
+
+RT @AndrewYNg: Keep on learning throughout life! Here're some useful ideas how: https://t.co/U2bufhVTrn
+
+---
+## Wed Mar 25 03:10:25 +0000 2026 — tweet 2036641829966516641
+- Lang: en
+- Reply to: @triketora
+
+@triketora @blockpartyapp_ @joindeleteme congrats
+
+---
+## Wed Mar 20 03:55:32 +0000 2019 — tweet 1108215471344504832
+- Lang: en
+
+RT @productnerd: The best 2h you will spend this week: @naval x @farnamstreet
+Ridiculously insightful.
+https://t.co/g3oHuiF0LW
+
+---
+## Wed Mar 18 13:37:32 +0000 2015 — tweet 578188490149515264
+- Lang: ja
+
+這燈光 也讓人醉了[呲牙] http://t.co/7A5BkMuS1l
+
+---
+## Wed Mar 18 03:29:18 +0000 2026 — tweet 2034109865078231343
+- Lang: en
+
+RT @cleanwithmike: The wealthiest people in the world are:
+
+• 3% Artists
+• 7% Athletes
+• 15% Investors
+• 75% Entrepreneurs
+
+If you want to…
+
+---
+## Wed Mar 04 09:52:21 +0000 2020 — tweet 1235141020498546695
+- Lang: en
+
+RT @yoavrubin: 3 years ago @gvwilson asked me what can I do with 500 LOC,I said a database in #Clojure,yadayadayada,the book is out https:/…
+
+---
+## Wed Mar 04 06:21:07 +0000 2026 — tweet 2029079674597556686
+- Lang: en
+- Reply to: @_muyun
+
+help me to write the scripts @grok
+
+---
+## Wed Mar 04 06:02:20 +0000 2026 — tweet 2029074947772240000
+- Lang: en
+- Reply to: @YourPrimePath
+
+@YourPrimePath Can you help me write the video's scripts? @grok
+
+---
+## Wed Jun 16 08:41:47 +0000 2021 — tweet 1405083171314565123
+- Lang: en
+
+RT @paulg: As well as the obvious new generation of startups enabling remote work, there will be another new generation doing things enable…
+
+---
+## Wed Jun 14 10:53:45 +0000 2023 — tweet 1668934745378680833
+- Lang: zh
+- Reply to: @baifangfang
+
+@baifangfang 加油； 有興趣來香港工作
+
+---
+## Wed Jun 08 09:14:43 +0000 2022 — tweet 1534463927069077504
+- Lang: zh
+- Reply to: @xuemanzi8848
+
+@xuemanzi8848 艾老不在葡萄牙了？
+
+---
+## Wed Jul 30 07:02:01 +0000 2025 — tweet 1950451801016184991
+- Lang: en
+
+RT @TellYourSonThis: "Man is not made for comfort. He is made for greatness."
+
+— Pope Benedict XVI
+
+---
+## Wed Jul 07 14:31:38 +0000 2021 — tweet 1412781356858241032
+- Lang: en
+
+RT @fchollet: The first step to mastering something is always to *have faith in your capability to learn new skills*. No matter how hard or…
+
+---
+## Wed Jul 06 14:03:55 +0000 2022 — tweet 1544683567133097984
+- Lang: en
+
+RT @shl: Real progress follows many errors.
+
+---
+## Wed Jan 24 08:33:06 +0000 2024 — tweet 1750074230925152341
+- Lang: zh
+- Reply to: @erjinxia
+
+@erjinxia 同在香港的握下手
+
+---
+## Wed Jan 10 12:33:55 +0000 2018 — tweet 951069591769300992
+- Lang: en
+
+RT @edmondlau: A new book review of The Effective Engineer just came out! Get your copy here: https://t.co/wxN3N2NqPf
+
+"This book is defini…
+
+---
+## Wed Feb 14 05:11:03 +0000 2024 — tweet 1757633530161754369
+- Lang: en
+
+RT @NavalismHQ: "Religion, science, and spirituality help us make sense of the world.
+
+Life without at least one of them is a lonely and co…
+
+---
+## Wed Feb 07 05:43:12 +0000 2018 — tweet 961113090686439426
+- Lang: zh
+
+RT @liyue1210: 我不做平淡無奇的時尚潮流節目，我希望把行業動態和最接地氣的潮流文化，與大家分享！ https://t.co/r2kUGcKnHf
+
+---
+## Wed Dec 31 07:48:18 +0000 2014 — tweet 550196735247544321
+- Lang: en
+- Reply to: @dche
+
+@dche  yeah, just an exercise about OS
+
+---
+## Wed Dec 13 16:37:48 +0000 2017 — tweet 940984107319795712
+- Lang: en
+
+RT @btaylor: With machine learning, we are entering a world where the fundamental logic of our software is migrating from code to data, in…
+
+---
+## Wed Aug 25 09:01:44 +0000 2021 — tweet 1430455341653790727
+- Lang: en
+
+RT @takeactionD: "Life shrinks or expands in proportion to your courage" https://t.co/lgKq0kQwMC
+
+---
+## Wed Aug 20 19:15:17 +0000 2014 — tweet 502172033484988416
+- Lang: zh
+
+邓小平做对了什么？_观点频道_财新网Pad版 http://t.co/DAJwm1IBvP via @delicious
+
+---
+## Wed Aug 19 03:05:18 +0000 2020 — tweet 1295919742625050624
+- Lang: zh
+- Reply to: @ayuan1000
+
+@ayuan1000 可以分享下段子么
+
+---
+## Wed Apr 27 07:41:01 +0000 2022 — tweet 1519220055648915456
+- Lang: en
+
+RT @alexxubyte: How does Twitter work? Let’s take a look at it from the architectural point of view before Elon takes it. 
+ 
+𝐓𝐡𝐞 𝐋𝐢𝐟𝐞 𝐨𝐟 𝐚…
+
+---
+## Wed Apr 24 08:19:24 +0000 2024 — tweet 1783048080637768050
+- Lang: en
+- Reply to: @hume_ai
+
+@hume_ai It seems that I cannot visit here (blocked)
+
+---
+## Wed Apr 05 07:22:36 +0000 2017 — tweet 849522645947351046
+- Lang: en
+
+RT @wattenberg: Having this platform for clear, dynamic explanations is incredibly valuable. May all journals look like this one day! https…
+
+---
+## Tue Sep 29 09:36:54 +0000 2015 — tweet 648793562998444033
+- Lang: zh
+
+昏天昏地的忙了两天一夜，希望有个好收获... http://t.co/xRUgPylCw5
+
+---
+## Tue Sep 05 15:56:18 +0000 2017 — tweet 905097265525563392
+- Lang: en
+
+RT @haspelmath: Sci-hub.io is amazing. Paper published in Nature Human Behaviour today, and it's already available there https://t.co/TW4hs…
+
+---
+## Tue Oct 30 04:49:30 +0000 2012 — tweet 263140549048008705
+- Lang: en
+
+RT @dche: What purity is and isn't http://t.co/im9iqymr
+
+---
+## Tue Oct 24 15:56:58 +0000 2017 — tweet 922854437932081152
+- Lang: en
+
+RT @P_Grueso: In leading a company too, I'm afraid :) https://t.co/PA9y7MMCJ5
+
+---
+## Tue Oct 18 05:13:46 +0000 2016 — tweet 788246671436029952
+- Lang: en
+
+RT @telecourse: It's official: @Caltech's CS156 #MachineLearning course is now the biggest class on campus, undergraduate or graduate, in a…
+
+---
+## Tue Oct 17 06:45:55 +0000 2017 — tweet 920179047300177921
+- Lang: en
+
+RT @CodeWisdom: "Figure out your data structures, and the code will follow." - William Laeder
+
+---
+## Tue Nov 15 17:10:39 +0000 2016 — tweet 798573943259021312
+- Lang: en
+
+The exercise https://t.co/Bry7m7wUYS
+
+---
+## Tue Nov 06 02:43:25 +0000 2012 — tweet 265645536294600705
+- Lang: en
+
+Ipad is so great, I like it.
+
+---
+## Tue May 27 07:45:33 +0000 2014 — tweet 471195489849708544
+- Lang: en
+
+RT @hackernewsbot: Twitter to Release All Tweets to Scientists... http://t.co/Yn5Vbb00kl
+
+---
+## Tue May 26 15:30:28 +0000 2020 — tweet 1265304301485690880
+- Lang: ja
+
+@CaiXueYong 可不可以分享下 是怎麼提高Rust編程能力的？
+
+---
+## Tue May 25 08:12:43 +0000 2021 — tweet 1397103323820396545
+- Lang: en
+
+RT @amix3k: Ethereum Q1 2021 results: “network revenue, increased 200x to $1.7 billion in Q1 2021, compared with $8 million in Q1 2020. For…
+
+---
+## Tue May 14 07:24:59 +0000 2019 — tweet 1128199513078779905
+- Lang: en
+
+RT @newsyc100: MIT Scientists prove adults learn language to fluency nearly as well as ch https://t.co/Pdy1j9moOC (https://t.co/lWn4p55lhb)
+
+---
+## Tue May 13 03:10:53 +0000 2025 — tweet 1922127379310260575
+- Lang: en
+
+RT @themotleyfool: The best thing money buys is control over your time.
+
+---
+## Tue May 11 09:40:14 +0000 2021 — tweet 1392051915358310402
+- Lang: en
+
+Realize that engineering is a creative career
+
+---
+## Tue May 11 08:43:42 +0000 2021 — tweet 1392037689013137410
+- Lang: en
+- Reply to: @orangebook
+
+@orangebook_ Outliers: The Story of Success  by Malcolm Gladwell
+
+---
+## Tue May 01 08:38:58 +0000 2018 — tweet 991235516950441985
+- Lang: en
+
+RT @CodeWisdom: "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." -…
+
+---
+## Tue Mar 07 08:44:46 +0000 2023 — tweet 1633025887569596418
+- Lang: en
+
+RT @kcorazo: Q: if you're so smart, how come you're not rich?
+
+A:
+
+via @Kpaxs's newsletter https://t.co/EIs9Tg5GHu
+
+---
+## Tue Mar 07 08:42:40 +0000 2023 — tweet 1633025358076448768
+- Lang: zh
+
+RT @tingyun97: 一个好的爱人，是寒夜里的一盏灯，可以减轻一半人间疾苦。 https://t.co/vnfiVcV9nF
+
+---
+## Tue Mar 02 13:13:34 +0000 2021 — tweet 1366738451744186371
+- Lang: en
+
+RT @emilychangtv: This was the best birthday present ever -- a surprise visit from my kids. 
+
+💓💓💓 https://t.co/z3h4S6UoUx
+
+---
+## Tue Jun 30 12:10:35 +0000 2015 — tweet 615854943455416320
+- Lang: zh
+
+终于完成了一幅自己的素描 http://t.co/4zXbi39OMo
+
+---
+## Tue Jun 30 10:43:51 +0000 2020 — tweet 1277915749810495493
+- Lang: zh
+
+RT @chenjunnyc: 资中筠女士身在大陆，却写出了比海外大部分华人，包括自由派学者，更具敏锐观察力和历史感的文章，其对美国当下政治冲突产生原因的分析和批评也比我们许多人更加准确和切中要害，这值得我们深思。
+
+资中筠:妄议美国的奴隶制、社会危机、政治正确 | https…
+
+---
+## Tue Jun 18 17:33:44 +0000 2013 — tweet 347044473114603520
+- Lang: zh
+
+太震撼了: <<乔布斯：遗失的访谈>> http://t.co/9gC1GtMGoQ
+
+---
+## Tue Jun 16 03:17:56 +0000 2020 — tweet 1272730100790784001
+- Lang: en
+
+RT @david_perell: Question: How do you learn so fast? 
+
+Elon Musk: It is important to view knowledge as sort of a semantic tree — make sure…
+
+---
+## Tue Jun 15 04:20:30 +0000 2021 — tweet 1404655025989636096
+- Lang: zh
+
+RT @tinyfool: 我主业是写文章和写代码，已经足够养家，现在考虑做点副业，锻炼锻炼身体，消磨一下业余时间（否则都坐在电脑前面了），求集思广益，我坐标在天津滨海新区，目前想到的有外卖、快递、滴滴、肯德基、麦当劳、星巴克打零工，等
+
+---
+## Tue Jul 25 10:25:26 +0000 2023 — tweet 1683785523998130176
+- Lang: en
+
+RT @worldcoin: The Worldcoin project is now live. https://t.co/xZXG4w56Ps
+
+---
+## Tue Jul 12 04:04:11 +0000 2022 — tweet 1546706963152908288
+- Lang: zh
+
+RT @christopherjing: 吉尔吉斯斯坦的雪崩从天而降，一名英国游客在危险中拍下奇景。
+
+ https://t.co/N72XcJ38Tu
+
+---
+## Tue Jul 07 03:18:22 +0000 2015 — tweet 618257724867002368
+- Lang: en
+
+RT @CompSciFact: Great works in programming languages, collected by Benjamin C. Pierce http://t.co/647HdYnlCI
+
+---
+## Tue Jul 05 01:00:23 +0000 2022 — tweet 1544123997088260096
+- Lang: zh
+
+RT @ant_sz: 英文世界里有一些小众但是很有意思（也很有影响力的）的博客站点，比如这个介绍提高思维能力特别是决策能力的网站，好像很受不少成功人士的推崇。 https://t.co/LhGTlANpCL
+
+---
+## Tue Jan 18 05:03:43 +0000 2022 — tweet 1483304069985083392
+- Lang: ja
+
+RT @ayuan1000: 老范生快！
+
+---
+## Tue Jan 06 06:20:52 +0000 2015 — tweet 552349058124488704
+- Lang: zh
+
+RT @ruanyf: 全世界又便宜、又舒适、又适合远程办公的城市排名 #前五名全在泰国 https://t.co/EheCldqbFL http://t.co/EkUFfWTVAb
+
+---
+## Tue Jan 02 05:56:02 +0000 2018 — tweet 948070359466614785
+- Lang: zh
+
+RT @HuPing1: 张五常：1小时总结我40年来学到的经济学精髓 https://t.co/r0jMifboeF
+
+---
+## Tue Feb 21 06:57:13 +0000 2017 — tweet 833933578476015617
+- Lang: en
+
+RT @karpathy: "Personally, I do not trust paper results at all. I tend to read papers for inspiration" A correct rant. https://t.co/mQOY7hj…
+
+---
+## Tue Feb 14 06:50:25 +0000 2017 — tweet 831395151520034817
+- Lang: en
+- Reply to: @haspelmath
+
+@haspelmath Hi, Prof. M Haspelmath, could you share some points about why Linguistics is so interesting for you ?
+
+---
+## Tue Feb 02 05:31:49 +0000 2021 — tweet 1356475389904703488
+- Lang: zh
+- Reply to: @ayuan1000
+
+@ayuan1000 能問下書名麼？ 謝謝
+
+---
+## Tue Dec 29 08:51:08 +0000 2015 — tweet 681759344149450752
+- Lang: en
+
+RT @SpaceX: Going up and coming down. More pics here -> https://t.co/K47HQ6Y6rR https://t.co/BBHHjPSFD0
+
+---
+## Tue Dec 21 09:21:07 +0000 2021 — tweet 1473221987338432514
+- Lang: en
+- Reply to: @Route2FI
+
+@Route2FI What is “fiat”
+
+---
+## Tue Dec 20 07:16:55 +0000 2016 — tweet 811108099150856192
+- Lang: en
+
+RT @b0rk: how do IP addresses work? https://t.co/PgaAMQkYac
+
+---
+## Tue Dec 14 03:46:06 +0000 2021 — tweet 1470600960611581952
+- Lang: en
+
+RT @The_SmartMoney: Building knowledge won't be easy.
+Building a business won't be easy.
+Building a family won't be easy.
+
+Hard things have…
+
+---
+## Tue Dec 12 09:04:46 +0000 2017 — tweet 940507710633607168
+- Lang: ja
+
+多谢《思烤方式》，好棒，期待更新 :-) @chenjunnyc
+
+---
+## Tue Dec 02 08:17:46 +0000 2014 — tweet 539694900980514816
+- Lang: zh
+
+啥叫安靜:-) http://t.co/z0Dw9Flhgp
+
+---
+## Tue Aug 31 10:40:41 +0000 2021 — tweet 1432654571017412609
+- Lang: en
+
+RT @smartmoneymania: Which is your favourite Self Improvement book?
+
+---
+## Tue Aug 24 09:39:14 +0000 2021 — tweet 1430102391416758278
+- Lang: en
+
+RT @paulg: Whoah. When startups change how they operate, they change fast.
+
+https://t.co/XcMqFxkNWS
+
+---
+## Tue Aug 24 06:27:15 +0000 2021 — tweet 1430054077782581255
+- Lang: en
+
+RT @newsycombinator: Influential books on Computer Science and programming https://t.co/Ee1uoH3rGJ
+
+---
+## Tue Apr 17 04:37:58 +0000 2012 — tweet 192109626626551808
+- Lang: en
+
+What it takes to build great machine learning products http://t.co/jr0BTqJB via @radar
+
+---
+## Tue Apr 08 10:07:07 +0000 2025 — tweet 1909548553690923460
+- Lang: en
+
+RT @DearS_o_n: Dear son,
+
+Women are going nowhere.
+
+Don't stress chasing them.
+
+You have more than enough time.
+
+Focus on fitness, finances…
+
+---
+## Tue Apr 07 02:01:11 +0000 2026 — tweet 2041335448858206636
+- Lang: en
+- Reply to: @xleaps
+
+@xleaps @3blue1brown How to generate this kind of visualizations
+
+---
+## Thu Sep 29 08:49:58 +0000 2022 — tweet 1575407525314580481
+- Lang: en
+
+RT @yuanchuan23: Numbers https://t.co/hMHIQGYwfv
+
+---
+## Thu Sep 28 08:10:11 +0000 2017 — tweet 913314884317724672
+- Lang: en
+
+RT @CodeWisdom: "Programming: when the ideas turn into the real things." - Maciej Kaczmarek
+
+---
+## Thu Sep 21 14:18:43 +0000 2017 — tweet 910870911716229120
+- Lang: en
+
+RT @alienoid: "You will be the same person in five years as you are today except for the people you meet and the books you read." - Charlie…
+
+---
+## Thu Sep 03 05:15:19 +0000 2020 — tweet 1301388282358456321
+- Lang: en
+
+RT @orangebook_: Things you need patience for: 
+
+building a company, investing money, raising kids, reading, thinking and writing, meditati…
+
+---
+## Thu Oct 29 12:36:31 +0000 2015 — tweet 659710403614629888
+- Lang: en
+
+RT @hackernewsbot: China to end one-child policy... https://t.co/yLfwwXHQ6W
+
+---
+## Thu Oct 19 17:14:03 +0000 2017 — tweet 921061897037799424
+- Lang: en
+
+RT @caitie: Blogged: Resources for Getting Started with Distributed Systems
+https://t.co/onLM101gmk
+
+---
+## Thu Oct 10 04:39:48 +0000 2013 — tweet 388161923096657920
+- Lang: en
+
+RT @johnmaeda: "Happiness is about the present; meaning is about linking past, present and future." —R. Baumeister http://t.co/AYycLbBZXW v…
+
+---
+## Thu Nov 01 04:16:52 +0000 2018 — tweet 1057848927418900481
+- Lang: en
+
+RT @BloosClues: A DMV employee dressed up as a sloth 💀😭 https://t.co/lMl8715yEb
+
+---
+## Thu May 28 16:48:53 +0000 2020 — tweet 1266048810335125505
+- Lang: en
+
+RT @orangebook_: Invest in what cannot be copied easily:
+
+- a clear mind connecting seemingly unrelated dots, coming up with new ideas
+- ab…
+
+---
+## Thu May 27 09:02:51 +0000 2021 — tweet 1397840712658427910
+- Lang: en
+
+amazing sharing https://t.co/lz5K5tpBlS
+
+---
+## Thu May 22 03:25:41 +0000 2025 — tweet 1925392596538728811
+- Lang: zh
+
+RT @dotey: Sam Altman与Jony Ive联手打造的IO公司，重新定义AI产品的未来
+
+OpenAI 刚发布了个视频，OpenAI的创始人Sam Altman与苹果前设计总监、传奇设计师Jony Ive联手，首次公开介绍Jony创立的新公司——IO。Sam A…
+
+---
+## Thu May 17 13:57:54 +0000 2018 — tweet 997113988088385536
+- Lang: en
+
+RT @CodeWisdom: "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." -…
+
+---
+## Thu May 17 07:55:44 +0000 2012 — tweet 203031029202698240
+- Lang: zh
+
+时间象只咻咻的野兽在身后赶，一眨眼就不见了ha.......
+
+---
+## Thu May 13 13:38:51 +0000 2021 — tweet 1392836741577338882
+- Lang: en
+
+RT @orangebook_: You learn more in one year of entrepreneurship than in five years of a comfortable job.
+
+---
+## Thu May 12 03:56:01 +0000 2022 — tweet 1524599249564205056
+- Lang: zh
+
+RT @felixding: Stripe终于开源了它的文档制作和发布框架！之前已经有不少人尝试制作了类似的产品，但这回Stripe自己开源了。
+
+Stripe的文档是业界最好的，没有之一。
+
+Markdoc: Stripe's Markdown-based authoring…
+
+---
+## Thu May 05 08:39:59 +0000 2016 — tweet 728142185346949124
+- Lang: en
+
+RT @hackernewsbot: Programming by poking: why MIT stopped teaching SICP... https://t.co/i36H2mRbQV
+
+---
+## Thu May 02 07:31:33 +0000 2019 — tweet 1123852509309820934
+- Lang: en
+
+Coming Soon: The Pragmatic Programmer, 20th Anniversary Edition, in beta https://t.co/Ya3TQKD7Se
+ #pragprog https://t.co/Fq1aXSjuzE
+
+---
+## Thu Mar 24 16:31:12 +0000 2016 — tweet 713040480662077441
+- Lang: en
+
+RT @CompSciFact: Software architecture as a function of trust https://t.co/Ck2hA9GvZH
+
+---
+## Thu Mar 20 15:12:01 +0000 2025 — tweet 1902739916360151284
+- Lang: en
+
+RT @Kpaxs: The best thing you can give your child is the belief that they can do anything. Expectations shape reality, and the way you see…
+
+---
+## Thu Mar 17 06:30:35 +0000 2022 — tweet 1504344429229879297
+- Lang: zh
+- Reply to: @CatChen
+
+@CatChen 请问下#这个课程有网上版本吗
+
+---
+## Thu Jun 16 08:25:18 +0000 2022 — tweet 1537350593802477568
+- Lang: en
+
+RT @_Shreya_Trivedi: Some very basic and important difference between  GitHub And Git 👇 https://t.co/ZPwZMzvjKu
+
+---
+## Thu Jun 13 09:33:47 +0000 2013 — tweet 345111750204588034
+- Lang: en
+
+RT @counternotions: Don't 
+1. over promise and under deliver. 
+2. talk about process as you introduce new design. 
+3. blame or apologize, b…
+
+---
+## Thu Jun 09 04:31:48 +0000 2022 — tweet 1534755114363531269
+- Lang: en
+
+RT @paulg: @joshuaackerman Like many viral fairytales, this one isn't true. It does hurt kids' chances to grow up really poor. But once you…
+
+---
+## Thu Jun 04 04:00:39 +0000 2015 — tweet 606309563067858945
+- Lang: en
+
+RT @paulg: The secret to getting rich is the same as the secret to being an outlier in most fields: to enjoy doing things that make one ric…
+
+---
+## Thu Jul 30 15:37:31 +0000 2020 — tweet 1288861288232181760
+- Lang: en
+- Reply to: @DrRalphNap
+
+@DrRalphNap @fatehshernu How to get the confidence
+
+---
+## Thu Jul 29 09:41:42 +0000 2021 — tweet 1420680925843582978
+- Lang: en
+
+RT @_seanchin: how it started:               how it’s going: https://t.co/9SWhEEZshI
+
+---
+## Thu Jul 25 09:00:47 +0000 2013 — tweet 360323732788625408
+- Lang: zh
+- Reply to: @counternotions
+
+@counternotions @dche 觉得大数据挖掘还是很有威力的，但也有局限，会有长尾挑战 （人不会受到长尾的困扰，因为人有一定的先验, 有个说法是知识是基于先天的能力通过后天实践得到）
+
+---
+## Thu Jul 20 11:40:30 +0000 2023 — tweet 1681992473172914177
+- Lang: zh
+
+RT @xuemanzi8848: 存在主义哲学特别强调选择，它认为存在先于本质，而不是本质先于存在。所谓存在先于本质，用通俗的话来讲就是：人并没有什么先赋的本质，他通过自己在生活中的一次次选择，塑造了自己的生命，自己的本质。 存在主义六十年代风行天下. 让. 保罗，萨特脍炙人…
+
+---
+## Thu Jul 12 07:48:19 +0000 2018 — tweet 1017314697249345537
+- Lang: en
+
+RT @rustlang: Announcing Rust 1.27.1! https://t.co/VuPvXNWCWT
+
+---
+## Thu Jul 07 02:07:03 +0000 2022 — tweet 1544865546000543744
+- Lang: en
+
+RT @NavalismHQ: "The greatest superpower is the ability to change yourself." 
+ 
+@naval
+
+---
+## Thu Jan 21 16:50:15 +0000 2016 — tweet 690214838778200065
+- Lang: ja
+
+新的一年，希望好好珍惜遇到的人，和做的事吧 https://t.co/ThZYwJRQM1
+
+---
+## Thu Jan 09 03:31:23 +0000 2014 — tweet 421122001273503744
+- Lang: zh
+
+RT @wentommy: 陈光标美国之旅发放的名片，这是要抢习大大的风头啊。。。 http://t.co/fCMRHcnqev
+
+---
+## Thu Jan 02 11:25:40 +0000 2020 — tweet 1212696454793285632
+- Lang: en
+
+RT @jaltma: A reliable way to accomplish more in 2020 is to focus on fewer things.
+
+We all get so distracted and constantly pulled in so ma…
+
+---
+## Thu Jan 01 14:53:46 +0000 2015 — tweet 550666193728569346
+- Lang: en
+- Reply to: @dche
+
+@dche  I have the interest, but I have to finish the projects firstly; Is it possible in the middle of the year if there is the opportunity?
+
+---
+## Thu Feb 13 07:50:33 +0000 2020 — tweet 1227862610667720704
+- Lang: en
+
+RT @ramalhoorg: Working on ⁦@fluentpython⁩ 2nd edition. https://t.co/R7hLEYkHZ7
+
+---
+## Thu Feb 08 05:07:55 +0000 2018 — tweet 961466602687414272
+- Lang: en
+
+RT @CompSciFact: 'The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise'…
+
+---
+## Thu Feb 04 08:55:04 +0000 2021 — tweet 1357251315391291395
+- Lang: en
+
+RT @orangebook_: Invest in your health, a loving family, meaningful friendships, a clear and creative mind, and assets that earn for you.…
+
+---
+## Thu Dec 31 06:58:06 +0000 2020 — tweet 1344538302712401920
+- Lang: en
+
+My reading in 2020 https://t.co/oTxiTU5a2t
+
+---
+## Thu Dec 26 15:06:11 +0000 2019 — tweet 1210215237036544002
+- Lang: en
+
+RT @ruslan_spivak: Simplicity is the soul of efficiency. —Austin Freeman
+
+---
+## Thu Dec 19 01:22:52 +0000 2013 — tweet 413479513721303041
+- Lang: en
+
+RT @sonofbum: Optimism is the foundation of courage
+
+---
+## Thu Dec 12 12:04:53 +0000 2019 — tweet 1205096181707096064
+- Lang: en
+
+RT @MColeman210: My soul would leave my body if I saw this https://t.co/RvxgmeZjZw
+
+---
+## Thu Dec 12 09:31:57 +0000 2019 — tweet 1205057694463193088
+- Lang: en
+
+RT @TheAncientSage: Some self limiting beliefs:
+
+You must work hard to succeed
+
+Life is meant to be a struggle
+
+You must please others to a…
+
+---
+## Thu Dec 10 14:48:45 +0000 2015 — tweet 674963970692788225
+- Lang: en
+
+Is it true in self-help? :-) https://t.co/lHl2t7QRd5
+
+---
+## Thu Dec 02 05:21:12 +0000 2021 — tweet 1466276239740583939
+- Lang: en
+- Reply to: @HuPing1
+
+@HuPing1 @chenjunnyc if you just know "how" and don't know "why",  you cannot go away
+
+---
+## Thu Aug 31 02:26:54 +0000 2023 — tweet 1697073448596787514
+- Lang: zxx
+
+https://t.co/8NlYZ7aQQr
+
+---
+## Thu Aug 28 01:38:08 +0000 2025 — tweet 1960879540340920815
+- Lang: en
+
+RT @NavalismHQ: "Real wealth is created by starting your own companies or even by investing. In an investment firm, they’re buying equity.…
+
+---
+## Thu Aug 21 09:57:58 +0000 2014 — tweet 502394165968134145
+- Lang: en
+
+RT @YhatHQ: Synopsis of the main machine learning techniques - http://t.co/SfpksTOJxw http://t.co/0wqcMkGR7Z
+
+---
+## Thu Aug 16 16:08:29 +0000 2018 — tweet 1030124145550356480
+- Lang: ja
+
+我的16型職業性格類型是【思考者 (INTP)】！ https://t.co/qXkS1w2Qvc #
+
+---
+## Thu Aug 16 15:59:51 +0000 2018 — tweet 1030121973672628224
+- Lang: en
+
+RT @joulee: What are some of the best product or design articles you’ve read this year?
+
+---
+## Thu Apr 23 10:51:15 +0000 2026 — tweet 2047267048380834303
+- Lang: zh
+- Reply to: @tig88411109
+
+@tig88411109 老师对 spaceX 前景怎么看
+
+---
+## Sun Sep 16 13:02:02 +0000 2012 — tweet 247319434832797696
+- Lang: zh
+
+今天和这里的高中校友聚了下，感觉还是挺欢乐的....
+
+---
+## Sun Sep 15 07:16:25 +0000 2019 — tweet 1173133451240718336
+- Lang: en
+
+One of the most gains in this year is that I could speak fluent Cantonese
+
+---
+## Sun Sep 15 03:35:47 +0000 2013 — tweet 379086113358376960
+- Lang: en
+
+RT @newsyc100: Being poor changes your thinking about everything http://t.co/bK9hduBrOy (http://t.co/5OCBb7xCPP)
+
+---
+## Sun Sep 12 14:55:26 +0000 2021 — tweet 1437067334812794885
+- Lang: en
+
+RT @AgileMinded: Take control of your perspective no matter the circumstance. 
+
+Don’t allow yourself to move through the world with a disto…
+
+---
+## Sun Sep 12 04:18:20 +0000 2021 — tweet 1436907004363116546
+- Lang: zh
+
+RT @tinyfool: 回首这一辈子，没啥可后悔的，虽然有很多问题，错误的选择。但是确实也可以说一切都是最好的安排。唯一重要的是现在和未来。40多岁我感觉最好的是，我知道我要的是什么。无非是慢慢的去追求而已。也许60岁也追求不到，也许活不到50岁。但是有明确的目标，慢慢去达…
+
+---
+## Sun Oct 18 02:13:05 +0000 2020 — tweet 1317649876507787265
+- Lang: zh
+
+RT @ayuan1000: #土摩托看世界 2008年8月27日，我在博尔特的家乡见到了他的阿姨Lily，一个高大健壮性格开朗的女人。我还采访了很多当地村民，见识到了一种完全陌生的生存方式。大部分去牙买加旅游的人大概都不会去到那个小村庄，因此也就不会见到这样一群有趣的人，这就…
+
+---
+## Sun Oct 04 09:28:33 +0000 2015 — tweet 650603401764433920
+- Lang: en
+
+RT @counternotions: "Greatness is to goodness as wisdom is to smarts."  
+
+http://t.co/oQiIubFgV5
+
+---
+## Sun Oct 04 09:24:58 +0000 2015 — tweet 650602500391743488
+- Lang: en
+
+RT @johnmaeda: Understanding the relationships is more important than knowing the parts. Context > Content.
+
+---
+## Sun Nov 14 10:50:00 +0000 2021 — tweet 1459836004592881667
+- Lang: en
+- Reply to: @bleakhousebooks
+
+@bleakhousebooks Is it possible to be online store?
+
+---
+## Sun Nov 08 09:51:32 +0000 2020 — tweet 1325375392559947776
+- Lang: en
+- Reply to: @TellYourSonThis
+
+@TellYourSonThis do u have a txt not audio version? thanks
+
+---
+## Sun Nov 05 01:35:39 +0000 2023 — tweet 1720978150061121863
+- Lang: en
+
+RT @NavalismHQ: "If you want to be a clear thinker you cannot pay attention to politics because it’ll destroy your ability to think."
+
+@nav…
+
+---
+## Sun Nov 03 12:21:48 +0000 2019 — tweet 1190967311127236608
+- Lang: en
+
+“Everything is negotiable” in India https://t.co/zEYC6z49Rt
+
+---
+## Sun May 31 15:51:19 +0000 2026 — tweet 2061113300935754049
+- Lang: en
+
+RT @garrytan: Be your self, not someone you were assigned to be!
+
+Bezos won on time horizon, not AWS or 1-Click.
+
+If your bets have to work…
+
+---
+## Sun May 09 07:07:08 +0000 2021 — tweet 1391288612373757952
+- Lang: en
+- Reply to: @electricbeggar
+
+@8848Community 0xb487887b59fa249cc7ea90d67a77900bb596d609
+
+---
+## Sun May 08 03:45:30 +0000 2022 — tweet 1523147053710290946
+- Lang: en
+
+RT @kamilkazani: Let's discuss Russian economy. Many underestimate its dependency upon technological import. Russia's so deeply integrated…
+
+---
+## Sun May 03 05:58:55 +0000 2015 — tweet 594742915181584385
+- Lang: en
+
+RT @alteredq: This thread is what Twitter was made for: https://t.co/pPzAkZLCmz http://t.co/fvkLCfCTi7
+
+---
+## Sun Mar 29 06:12:56 +0000 2026 — tweet 2038137310722789478
+- Lang: en
+
+RT @ValaAfshar: Do not use your energy to worry. Life is too short to worry about stupid things. 
+
+Have fun. Fall in love. Regret nothing a…
+
+---
+## Sun Mar 19 03:10:52 +0000 2023 — tweet 1637290513161388032
+- Lang: ja
+- Reply to: @Yintinusa
+
+@Yintinusa 工卡是啥？
+
+---
+## Sun Mar 08 10:41:10 +0000 2015 — tweet 574520225254674433
+- Lang: zh
+
+運動後的感覺是... http://t.co/oJUX3DlwqI
+
+---
+## Sun Mar 03 07:13:07 +0000 2013 — tweet 308112784837726208
+- Lang: zh
+
+春天 這次是真的來了 http://t.co/uzZ6FHOXLd
+
+---
+## Sun Mar 01 08:06:21 +0000 2026 — tweet 2028018995329388564
+- Lang: zxx
+
+https://t.co/yuHlwkkV1O
+
+---
+## Sun Jun 19 23:36:06 +0000 2022 — tweet 1538666967724216321
+- Lang: zh
+
+RT @ayuan1000: #书摘 伯克在《法国革命论》中指出，政治体制应该顺应人的本性，而非理性思维，因为运用理性思维是件很难的事，而且容易出错。在一个正常运转的世界里，传统习俗和偏见之所以有价值且有时超过了理性思维理想中应有的地位，是因为它们在真正的社会里起着实实在在的作…
+
+---
+## Sun Jun 19 12:32:21 +0000 2022 — tweet 1538499927994957824
+- Lang: und
+- Reply to: @thehappydog_
+
+@Happydog___ Dog
+
+---
+## Sun Jun 07 16:40:13 +0000 2015 — tweet 607587879087251456
+- Lang: en
+
+RT @josh_wills: Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than …
+
+---
+## Sun Jun 07 09:22:57 +0000 2026 — tweet 2063552283242274867
+- Lang: zh
+- Reply to: @wilmingzhou
+
+@wilmingzhou 你好， 我也定居hk，也在構思創業； 想找志同道合的一起， 有機會認識下？
+
+---
+## Sun Jul 20 04:11:07 +0000 2025 — tweet 1946784915221320158
+- Lang: zh
+
+RT @Svwang1: 出卖自己的时间，就是把本来可以自由创作，复合成长，不断觉醒，奔赴未来的时间，置换成为原地踏步，缺乏灵魂，和他人的现状纠缠的时间。
+
+成长的过程，就是把要出卖的时间，压缩到接近于零的过程。
+
+---
+## Sun Jul 01 12:33:32 +0000 2012 — tweet 219408393964756993
+- Lang: en
+
+I'll bet Italy will win the European Championship .
+
+---
+## Sun Jan 30 10:29:23 +0000 2022 — tweet 1487734682871500800
+- Lang: en
+
+RT @amix3k: A hard lesson I’m still learning:
+Digging deep and understanding the problem and root cause is more critical than proposing a s…
+
+---
+## Sun Jan 24 09:55:28 +0000 2016 — tweet 691197616634200064
+- Lang: zh
+
+RT @yegle: 还是内部的一个meme说得好：你错过的不是Google Reader这个优秀的产品，而是错过了一整个不求回报通过博客形式分享自己知识的时代。看公众号的流行有感
+
+---
+## Sun Jan 12 16:00:36 +0000 2020 — tweet 1216389522209927168
+- Lang: en
+
+RT @mathena: The power of incentives.
+
+---
+## Sun Dec 28 03:47:05 +0000 2025 — tweet 2005123311706276131
+- Lang: en
+- Reply to: @TheShiftJournal
+
+@TheShiftJournal @grok what’s the book name?
+
+---
+## Sun Dec 26 07:11:57 +0000 2021 — tweet 1475001419522469895
+- Lang: en
+
+RT @fchollet: I love seeing a prototype or concept that makes me immediately go, "yep, a lot of people are going to want to use this"
+
+---
+## Sun Dec 15 09:14:20 +0000 2019 — tweet 1206140422667390976
+- Lang: en
+
+RT @orangebook_: Find a mentor.
+
+Someone “your kind,”
+
+who understands you,
+
+who has succeeded,
+
+who has what you want,
+
+who will gladly he…
+
+---
+## Sun Dec 13 04:54:17 +0000 2020 — tweet 1337984163631099904
+- Lang: en
+- Reply to: @Clay_Finck
+
+@InvestorsTheory What do u think of the future of Bitcoin, like  prices or value?
+
+---
+## Sun Aug 19 09:42:45 +0000 2018 — tweet 1031114233532960768
+- Lang: en
+
+RT @ProfFeynman: The ultimate test of your knowledge is your capacity to convey it to another. https://t.co/n8oWmvdKQd
+
+---
+## Sun Aug 16 08:42:18 +0000 2015 — tweet 632834757638799362
+- Lang: en
+
+It is so grateful if someone can really help you. http://t.co/x4t3HkTB4a
+
+---
+## Sun Aug 16 03:12:25 +0000 2020 — tweet 1294834371216601088
+- Lang: en
+
+RT @orangebook_: What’s one concept, idea, perspective, that you wish you had learned much earlier in life?
+
+---
+## Sun Aug 16 01:41:04 +0000 2020 — tweet 1294811381129084928
+- Lang: en
+- Reply to: @bhutanisanyam1
+
+@bhutanisanyam1 @ianozsvald @__MLT__ is it open now?  it seems that i CANNOT join it?  thanks
+
+---
+## Sun Aug 11 11:01:16 +0000 2019 — tweet 1160506464437280770
+- Lang: en
+
+RT @karpathy: @arram I'd try resolving to writing something (anything) every day on some pet project, pushing it to Github, trying best to…
+
+---
+## Sun Aug 02 08:22:07 +0000 2020 — tweet 1289838880846311424
+- Lang: en
+
+beautiful https://t.co/PzxXIQhcal
+
+---
+## Sun Aug 02 07:59:08 +0000 2020 — tweet 1289833096301305856
+- Lang: en
+
+RT @orangebook_: What’s one personal life-changing experience you think few people had?
+
+---
+## Sun Apr 24 16:26:58 +0000 2016 — tweet 724273436793565185
+- Lang: en
+
+RT @NewYorker: In @tnyshouts, a “Game of Thrones” glossary for New Yorkers: https://t.co/D2dKBHnohY https://t.co/IlyyxhkkAh
+
+---
+## Sun Apr 19 08:51:04 +0000 2015 — tweet 589712807706238976
+- Lang: zh
+
+拖了不少時間還是把Peter Hessler的〈甲骨文〉讀了下，雖然沒再看到多少驚喜了；發現比起小說，還是更願意讀這類紀實文學些，就像這舞蹈，多讓人有存在感...[微笑] http://t.co/novHBeJxAu
+
+---
+## Sat Sep 19 13:36:01 +0000 2020 — tweet 1307312490422829061
+- Lang: en
+
+RT @Growwithsach: For 18Yo to 24Yo,
+
+Read these books before you get out of university.
+
+- Atomic habits
+- Rich Dad Poor Dad
+- Think and gr…
+
+---
+## Sat Sep 11 12:14:27 +0000 2021 — tweet 1436664433871261705
+- Lang: en
+
+RT @FPLMario: Podcast recommendation: The Knowledge Project  (@farnamstreet) really is tremendous. A big bag catalogue of brain food and in…
+
+---
+## Sat Sep 02 15:29:59 +0000 2017 — tweet 904003479600939008
+- Lang: en
+
+RT @newsyc100: Ask HN: What are your favourite developer blogs? https://t.co/msBcKSRlAw
+
+---
+## Sat Oct 24 10:49:03 +0000 2020 — tweet 1319954049324642304
+- Lang: und
+- Reply to: @_Pammy_DS_
+
+@_Pammy_DS_ @wiseconnector How
+
+---
+## Sat Oct 24 03:44:53 +0000 2020 — tweet 1319847304447234048
+- Lang: zh
+
+RT @ayuan1000: #土摩托看世界 爬乞力马扎罗的体验很棒，因为这座山位于赤道附近，所以登山者需要依次穿过热带雨林、温带雨林、稀树草原、草原、戈壁、沙漠、雪山……相当于体验了一把地球陆地上几乎所有的生态系统。 https://t.co/FTnS30PhoB
+
+---
+## Sat Oct 23 02:57:12 +0000 2021 — tweet 1451744485281447940
+- Lang: en
+
+RT @AgileMinded: Pursue growth & you will experience more freedom & creativity in your own life
+
+When you have freedom & creativity you bec…
+
+---
+## Sat Oct 10 06:39:58 +0000 2015 — tweet 652735305250770944
+- Lang: en
+
+RT @jure: Computer Science is now the most popular major for women at @Stanford.
+
+---
+## Sat Oct 08 06:55:07 +0000 2022 — tweet 1578640112325656577
+- Lang: en
+
+RT @MindHealthMoney: Compounding is a law of Nature that works in every field.
+
+Do something everyday and you'll get better at it exponenti…
+
+---
+## Sat Oct 02 03:29:51 +0000 2021 — tweet 1444142559077359617
+- Lang: en
+
+RT @ayuan1000: Chinese translation of the Beginning of Infinity also had 2nd edition. My recommendation of the book was printed on the cove…
+
+---
+## Sat Nov 28 06:08:50 +0000 2020 — tweet 1332567107192590336
+- Lang: en
+
+RT @NoFilterAnjali: @Route2FI Self improvement (like compound interest) in small increments leads to better habits, knowledge, understandin…
+
+---
+## Sat Nov 19 09:20:12 +0000 2022 — tweet 1593896917037031424
+- Lang: zh
+
+RT @dotey: 值得一读👍🏻 
+🧵 https://t.co/bgyXPduAxS
+
+---
+## Sat Nov 12 02:20:36 +0000 2022 — tweet 1591254604926550016
+- Lang: en
+
+RT @NavalismHQ: "People spend too much time doing and not enough time thinking about what they should be doing."
+
+@naval
+
+---
+## Sat Nov 05 02:09:06 +0000 2022 — tweet 1588714995357208576
+- Lang: zxx
+
+https://t.co/BbBkchY68I
+
+---
+## Sat May 17 08:53:04 +0000 2008 — tweet 813437772
+- Lang: en
+
+iphone is so great, I cannot leave it with me~
+
+---
+## Sat May 17 05:49:27 +0000 2008 — tweet 813368158
+- Lang: en
+
+I am glad to be a teacher; feel very well with the children,I like them; work together very well with Wang Qiujun.
+
+---
+## Sat Mar 21 11:57:40 +0000 2026 — tweet 2035324965474705607
+- Lang: en
+
+RT @upupnoah: Gstack is the best Skills I've ever used, the finest product for democratizing AI.
+
+Most people think starting a business is…
+
+---
+## Sat Mar 17 06:54:22 +0000 2012 — tweet 180909929203384320
+- Lang: en
+
+Live everyday to the fullest.Love yourself.
+
+---
+## Sat Mar 03 07:10:19 +0000 2018 — tweet 969832325474222080
+- Lang: en
+
+RT @b0rk: reframing tech discussions from "am I right or are you right?" to "let's try to figure out the truth together!!" is kinda life ch…
+
+---
+## Sat Mar 01 04:13:36 +0000 2014 — tweet 439614405525782528
+- Lang: en
+
+RT @udacity: Take courses from @GeorgiaTech Masters in #ComputerScience at Udacity! http://t.co/kyTPJTh9qd
+
+---
+## Sat Jun 11 00:30:48 +0000 2022 — tweet 1535419240383414272
+- Lang: fr
+
+RT @newsycombinator: “Code” 2nd Edition https://t.co/qt2Nnn03GP
+
+---
+## Sat Jun 06 06:27:06 +0000 2026 — tweet 2063145639723380895
+- Lang: zh
+- Reply to: @Yintinusa
+
+@Yintinusa 我是做It的， 要不要我帮你管理网站？  也帮你接单或者 别的， 只需要一些费用； 这样你可以处理自己擅长的
+
+---
+## Sat Jun 06 06:16:09 +0000 2026 — tweet 2063142883805507945
+- Lang: zh
+- Reply to: @tinyfool
+
+@tinyfool 請問訂閱codex 哪個費用比較好？
+
+---
+## Sat Jul 26 06:13:17 +0000 2025 — tweet 1948989983827603925
+- Lang: en
+
+RT @NavalismHQ: "If you want to make the maximum amount of money possible, if you want to get rich over your life in a deterministically pr…
+
+---
+## Sat Jan 30 08:57:04 +0000 2021 — tweet 1355439878725505032
+- Lang: en
+
+if you don't know the philosophy from 韩非, you will not understand the hidden core https://t.co/rLn7jLA2i3
+
+---
+## Sat Jan 17 06:21:18 +0000 2015 — tweet 556335436008665088
+- Lang: en
+
+RT @newsyc100: What happens when you type http://t.co/J8aOul0Vuv into your browser and press enter? http://t.co/JBQNMG7pOj (http://t.co/Ooq…
+
+---
+## Sat Jan 13 06:56:02 +0000 2018 — tweet 952071724203368449
+- Lang: en
+
+RT @firstround: Seven questions for mentors and mentees to ask to make sure they’re working with the best person to accelerate their career…
+
+---
+## Sat Jan 11 05:24:30 +0000 2025 — tweet 1877949685865807991
+- Lang: zh
+
+RT @LanLan93083241: “想全是问题，做皆是答案” https://t.co/l47LHQHczr
+
+---
+## Sat Feb 21 09:49:55 +0000 2026 — tweet 2025145955721642074
+- Lang: en
+- Reply to: @CuriousMindsHub
+
+@CuriousMindsHub The title book @grok
+
+---
+## Sat Feb 09 16:15:23 +0000 2013 — tweet 300276721129758720
+- Lang: zh
+
+为什么要让普通人背上道德模范这个沉重的面具，这真的不太道德。
+
+---
+## Sat Feb 08 05:51:41 +0000 2020 — tweet 1226020758029103105
+- Lang: en
+
+Outliers by Malcolm https://t.co/NqaxfieWFX
+
+---
+## Sat Dec 30 10:52:42 +0000 2017 — tweet 947057853558394880
+- Lang: ja
+
+希望我2018更有生命力。
+
+---
+## Sat Dec 23 11:41:53 +0000 2017 — tweet 944533515890073600
+- Lang: en
+
+RT @elonmusk: Nuclear alien UFO from North Korea https://t.co/GUIHpKkkp5
+
+---
+## Sat Dec 23 06:23:35 +0000 2017 — tweet 944453411767967744
+- Lang: zh
+
+RT @longlivebelief: 轉一篇香港記者寫的人物稿⋯滿滿都是來自香港現實糾結的映射和思考⋯ #她們的征途 https://t.co/YPbgVye6Si
+
+---
+## Sat Dec 13 11:23:02 +0000 2014 — tweet 543727791338840064
+- Lang: en
+
+RT @CompSciFact: DRYTM: Don't repeat yourself too much.
+
+---
+## Sat Aug 28 02:06:40 +0000 2021 — tweet 1431438050018541568
+- Lang: cs
+
+VTI or VOO https://t.co/szwCocaYY6
+
+---
+## Sat Aug 28 02:06:14 +0000 2021 — tweet 1431437942505951232
+- Lang: en
+
+RT @TheJackBly: Does drinking coffee every day make you a drug addict?
+
+---
+## Sat Aug 25 04:52:31 +0000 2018 — tweet 1033215523620716544
+- Lang: en
+
+RT @joulee: I just published “Design for People, Use People Language” https://t.co/hncVNARS8j
+
+---
+## Sat Aug 15 08:56:15 +0000 2020 — tweet 1294558511288918017
+- Lang: zh
+- Reply to: @ayuan1000
+
+@ayuan1000 可不可以说下刘瑜为啥解释的一塌糊涂
+
+---
+## Sat Aug 14 08:29:31 +0000 2021 — tweet 1426460965080469513
+- Lang: en
+
+RT @ecomchasedimond: Dinner with my girls. https://t.co/EcBFj8nZUF
+
+---
+## Sat Aug 13 02:47:45 +0000 2022 — tweet 1558284139526139904
+- Lang: en
+- Reply to: @MichaelJayLaRue
+
+@MichaelJayLaRue Is there a online draft version ?
+
+---
+## Sat Apr 22 13:39:03 +0000 2017 — tweet 855777974775422977
+- Lang: zh
+
+晃晃悠悠的一天。 https://t.co/ue9s8ie9FV
+
+---
+## Sat Apr 19 07:46:25 +0000 2014 — tweet 457424968553222144
+- Lang: en
+
+RT @hackernewsbot: Computer Science from the Bottom Up... http://t.co/pbBO0vEWyK
+
+---
+## Sat Apr 04 14:21:34 +0000 2026 — tweet 2040434606810570961
+- Lang: en
+- Reply to: @DIGIMINAL
+
+@DIGIMINAL What’s the book title @grok
+
+---
+## Sat Apr 02 10:22:23 +0000 2016 — tweet 716209155967594496
+- Lang: zh
+
+RT @ruanyf: 现在终于看懂了，鲁迅的小说《故乡》在写什么。小时候，我和闰土是同样的人；三十年后再见面，我却惊恐地发现，如果留在故乡，走命运安排好的路，我会变成怎样的自己：那是一个灰黄瑟缩的中年人，觉得苦，却形容不出，只能默默吸烟。
+
+---
+## Mon Sep 21 13:52:32 +0000 2020 — tweet 1308041422952562693
+- Lang: en
+- Reply to: @TellYourSonThis
+
+@TellYourSonThis What does ‘strong’ mean?
+
+---
+## Mon Sep 14 08:29:08 +0000 2015 — tweet 643340692538822656
+- Lang: en
+
+RT @rustlang: I am excited to announce that the videos of talks from #rustcamp are up! http://t.co/nxv5Dij5eJ
+
+---
+## Mon Sep 12 04:44:31 +0000 2022 — tweet 1569185160918343681
+- Lang: en
+
+RT @pickover: Mathematics.
+
+"Fractal Spirograph."   Source: https://t.co/XcbSsWtPyK https://t.co/1OJekila0e
+
+---
+## Mon Sep 06 05:26:24 +0000 2021 — tweet 1434749804966395906
+- Lang: en
+
+RT @newsycombinator: Today Sci-Hub is 10 years old. I'll publish 2M new articles to celebrate https://t.co/nY5F3rMxpr
+
+---
+## Mon Oct 21 09:20:07 +0000 2019 — tweet 1186210547194163206
+- Lang: en
+
+communication skills are so important !
+
+---
+## Mon Oct 19 03:33:10 +0000 2020 — tweet 1318032417865699328
+- Lang: en
+
+RT @orangebook_: The amount of opportunities people miss just because they're afraid to ask.
+
+---
+## Mon Oct 06 15:21:43 +0000 2025 — tweet 1975219929692639617
+- Lang: zxx
+
+RT @Artofpuremind: https://t.co/JFFWkMQCQ8
+
+---
+## Mon Oct 03 03:53:34 +0000 2022 — tweet 1576782484641001472
+- Lang: en
+
+RT @WestCoast_Goodz: 50/40/10 RULE https://t.co/lI3x1NyLRC
+
+---
+## Mon Nov 26 14:10:52 +0000 2018 — tweet 1067058108055224320
+- Lang: en
+
+Donated HKD100 to my postgraduate school - cuhk https://t.co/IP0eBtl0ig
+
+---
+## Mon Nov 04 14:17:41 +0000 2019 — tweet 1191358862512705536
+- Lang: zh
+
+无题 https://t.co/Hs4BoXQf3t
+
+---
+## Mon Nov 02 10:58:50 +0000 2020 — tweet 1323218000690835456
+- Lang: zh
+
+RT @degewa: “我们在无意识的世界移动/旅游中，既消费一个民族的精神，又加重帝国主义下弱势民族被剥削的痛苦，也加重自身的罪恶，成为精神上隐形的共谋。当你旅游西藏，却看不见一个千年民族的真实面貌和哀痛，这是现实的吊诡。人道主义终于退位到商业帝国主义之后。”（廖志峰书评我…
+
+---
+## Mon Nov 01 06:39:17 +0000 2021 — tweet 1455061866418372613
+- Lang: en
+
+RT @ProfFeynman: Life is too short to worry about stupid things. Have fun. Fall in love. Regret nothing, and don't let people bring you dow…
+
+---
+## Mon May 19 05:03:02 +0000 2014 — tweet 468255486026866688
+- Lang: en
+
+RT @johnmaeda: "A successful career strategy requires focus, energy, technique, resilience, and a sense of play." —@CCACareers http://t.co/…
+
+---
+## Mon May 16 04:33:41 +0000 2022 — tweet 1526058281168699393
+- Lang: zh
+
+RT @ayuan1000: 今天中国使馆也组织了大游行，这是游行队伍中的一景。 https://t.co/XohKvp5KNo
+
+---
+## Mon May 11 11:53:24 +0000 2015 — tweet 597731228825948160
+- Lang: en
+
+RT @instagram: A mother’s appreciation for family, nature and the simple life with Shelley Lawnikanis http://t.co/f8yeBNg7PQ http://t.co/xP…
+
+---
+## Mon May 04 15:32:31 +0000 2020 — tweet 1257332286569058304
+- Lang: und
+- Reply to: @ayuan1000
+
+@ayuan1000 why
+
+---
+## Mon Mar 31 15:27:06 +0000 2025 — tweet 1906729976021545182
+- Lang: en
+
+RT @MasteryNotes: IF YOU FEEL STUCK IN LIFE, OPEN THIS.
+
+1. https://t.co/Swk3FFaXv8
+
+---
+## Mon Mar 27 15:20:26 +0000 2023 — tweet 1640373220045123584
+- Lang: en
+
+RT @molby_reese: Self-awareness is something only 5% of people have.
+
+You are not as self-aware as you think. Become enlightened by learnin…
+
+---
+## Mon Mar 13 14:00:16 +0000 2023 — tweet 1635279613441216519
+- Lang: en
+
+RT @NavalismHQ: "Self-awareness is the most attractive trait."
+
+@naval
+
+---
+## Mon Jun 15 15:35:18 +0000 2020 — tweet 1272553274340634626
+- Lang: zh
+- Reply to: @chenjunnyc
+
+@chenjunnyc 谢谢
+
+---
+## Mon Jun 09 04:32:23 +0000 2008 — tweet 830197918
+- Lang: en
+
+Huang shan is so nice, especially in rain,the odd stones, the cloud sea ...
+
+---
+## Mon Jun 06 01:39:12 +0000 2022 — tweet 1533624516492283906
+- Lang: zh
+- Reply to: @xuemanzi8848
+
+@xuemanzi8848 分享下你对web3的认知哈
+
+---
+## Mon Jul 28 03:11:41 +0000 2025 — tweet 1949669060507209860
+- Lang: en
+
+RT @NavalismHQ: "School, politics, sports, and games train us to compete against others. True rewards - wealth, knowledge, love, fitness, a…
+
+---
+## Mon Feb 19 02:17:50 +0000 2024 — tweet 1759401876548948007
+- Lang: zh
+- Reply to: @imwsl90
+
+@imwsl90 自己搭网站吗？用的什么技术线
+
+---
+## Mon Feb 06 07:19:22 +0000 2023 — tweet 1622495146846846978
+- Lang: en
+
+RT @TheAlphaThought: Just started watching Succession 
+
+Not bad so far 
+
+What TV show are you currently watching? https://t.co/wQ2Za6QTuL
+
+---
+## Mon Feb 02 02:56:15 +0000 2015 — tweet 562082038451146752
+- Lang: zh
+
+RT @ruanyf: 被瑞典警察抄走50台服务器、下线两个月之久的海盗湾，今天回来了！首页是一只烧不死的火凤凰 http://t.co/OPQwgcOssN http://t.co/8bi16eVcMd
+
+---
+## Mon Feb 01 03:10:59 +0000 2021 — tweet 1356077560543596550
+- Lang: zh
+
+RT @chenjunnyc: 1）过去的几年，我做了好几个跨界的投资和创业，其中包括工业大麻，区块链，模块无人便利店及口罩工厂。期间有许多阅读思考，大量的旅行，和不同行业者的脑力风暴，由此产生了一点深刻的感悟跟各位分享：
+
+我认为过去这二十年来科技创新持续以迭代方式突飞猛进，…
+
+---
+## Mon Dec 31 16:11:32 +0000 2012 — tweet 285780236694605824
+- Lang: zh
+
+新年快乐，很感恩认识你们。 Happy New Year, I am thankful to be your friend
+
+---
+## Mon Dec 29 08:48:14 +0000 2014 — tweet 549487042514518016
+- Lang: zh
+
+還有什麼比做自己喜歡的事情來的幸福:-) http://t.co/2smcmfurWV
+
+---
+## Mon Dec 24 08:40:54 +0000 2018 — tweet 1077121928756776960
+- Lang: et
+
+Merry Christmas https://t.co/9sPK3OVi2n
+
+---
+## Mon Aug 22 11:58:50 +0000 2022 — tweet 1561684315435438080
+- Lang: en
+
+RT @karan_6864: My open-source System Design course is now live!
+
+https://t.co/iraC7g7ehc
+
+#systemdesign #distributedsystems #softwarearchi…
+
+---
+## Mon Apr 25 03:26:39 +0000 2022 — tweet 1518431265024000000
+- Lang: zh
+
+RT @Ninsbay: 爱尔兰宣布开放五年多次入境短期居留签，一次申请，五年自由出入，信源见链接，供参考 。#Waytoworld 
+https://t.co/GBuffcJ6go https://t.co/641ariKXMV
+
+---
+## Mon Apr 04 07:19:57 +0000 2016 — tweet 716888020981383168
+- Lang: en
+
+RT @telegram: Introducing Supergroups 2.0: up to 5,000 members, pinned messages, public groups and new moderation tools. https://t.co/IpE1w…
+
+---
+## Fri Sep 29 10:47:51 +0000 2017 — tweet 913716948143243264
+- Lang: en
+
+RT @KarolineCQKan: As China’s Economy Slows, ‘Business Cults’ Prey on Young Job Seekers https://t.co/FJXSvwNmEA
+
+---
+## Fri Sep 11 03:51:06 +0000 2020 — tweet 1304266188176883713
+- Lang: zh
+
+RT @chenjunnyc: BBC 有关大陆改革四十年的纪录片视频可在下面的链接里找到。
+
+推荐给我的是一位在大陆的投资家和商业伙伴。
+
+BBC这部纪录片的名字是：《中国改革开放的故事》。担纲纪录片撰稿、主持人的是西方纪录片界鼎鼎大名的历史学家、纪录片制作人迈克尔·伍德。…
+
+---
+## Fri Sep 06 18:22:21 +0000 2013 — tweet 376047737730367488
+- Lang: en
+
+RT @newsyc100: US and UK spy agencies defeat privacy and security on the internet http://t.co/ircvjvlJfj (http://t.co/Vh6OIbZidT)
+
+---
+## Fri Sep 03 10:01:16 +0000 2021 — tweet 1433731814682554375
+- Lang: en
+
+RT @theavalkyrie: Making more progress on the new store. :) https://t.co/IF7uYcIS69
+
+---
+## Fri Oct 14 12:52:58 +0000 2016 — tweet 786912684310749184
+- Lang: en
+
+The exercises https://t.co/pYRCiqRoB7
+
+---
+## Fri Nov 26 06:25:05 +0000 2021 — tweet 1464117990308265988
+- Lang: zh
+
+RT @ayuan1000: #书摘 西方把自然人当作权利和义务的持有者，独立于国家的任何行动。在中国，公民的称号是国家赋予个人的，可以在任何时候合法收回。【人之初，到底是性本恶还是性本善？】 https://t.co/MwzFMhp3V5
+
+---
+## Fri Nov 21 06:14:53 +0000 2025 — tweet 1991752157100667149
+- Lang: und
+- Reply to: @CharlesXue8848
+
+@CharlesXue8848 1
+
+---
+## Fri Nov 01 13:10:28 +0000 2013 — tweet 396262969253707777
+- Lang: en
+
+RT @jietang: A picture of history of Artificial Intelligence, powered by AMiner (http://t.co/uq7ZhfDFeM) http://t.co/4jaRZJwFF4
+
+---
+## Fri May 30 03:20:17 +0000 2025 — tweet 1928290337815949444
+- Lang: zh
+
+RT @jsd200j: “一本网球书治好了我的精神内耗”🌱
+ 
+这本书确实好，怪不得比尔盖茨读了很多遍还作序推荐。 https://t.co/UYOTuU9Ofl
+
+---
+## Fri May 29 06:59:07 +0000 2026 — tweet 2060254593779716261
+- Lang: zh
+- Reply to: @lxfater
+
+@lxfater 是用 chatgpt 訂閱還是cursor 訂閱 好呢？
+
+---
+## Fri May 28 05:46:27 +0000 2021 — tweet 1398153678280794112
+- Lang: zh
+
+RT @ayuan1000: #深夜吐槽 人类早就知道失温会死人，国际比赛的相关规则也制定得非常完备了。这个悲剧发生在一个信息交流不畅、普遍急功近利而又不遵守国际规则的国家里，所以这件事的教训不是”人类应该敬畏大自然“，而应该是让大家明白，人类是一个共同体，千万不要总以为自己特…
+
+---
+## Fri May 20 12:53:59 +0000 2022 — tweet 1527633734660689921
+- Lang: ja
+
+RT @Ninsbay: 周五愉快☺️
+Penny喜欢花 https://t.co/5pcQ6bHY8X
+
+---
+## Fri May 19 05:09:51 +0000 2023 — tweet 1659426116300603393
+- Lang: zh
+
+RT @felixding: 这几年在做的事情：
+
+- https://t.co/39NGRBKEQ3 全职工作，面向餐厅的数字营销SaaS，米其林餐厅日本入境游市场最大的服务商
+
+- https://t.co/qWNWSPg4oT 业余项目，让ChatGPT随时随地可用
+
+-…
+
+---
+## Fri May 17 06:10:04 +0000 2024 — tweet 1791350454674428235
+- Lang: zh
+- Reply to: @imwsl90
+
+@imwsl90 可以加下你的程序员群吗
+
+---
+## Fri May 06 11:10:05 +0000 2022 — tweet 1522534158312284161
+- Lang: en
+
+The writing is so insightful https://t.co/Xoxf8O5UDu
+
+---
+## Fri May 02 02:16:54 +0000 2014 — tweet 462053082671493120
+- Lang: en
+- Reply to: @AndrewYNg
+
+@AndrewYNg @robot_MD  Congratulations .
+
+---
+## Fri Mar 21 03:28:05 +0000 2025 — tweet 1902925151420944796
+- Lang: en
+
+RT @FU_joehudson: How to be more emotionally intelligent (without trying so hard) 
+
+🧵 for @threadapalooza
+
+---
+## Fri Mar 20 06:11:12 +0000 2015 — tweet 578800942608334848
+- Lang: zh
+
+著名的sicp 在edx edge 开课了https://t.co/lEbS3nz20F
+
+---
+## Fri Jun 21 01:44:26 +0000 2024 — tweet 1803967178129182841
+- Lang: zh
+- Reply to: @ayuan1000
+
+@ayuan1000 产能不就是供应过剩吗？ 供应过剩，降低价格，不就是可以提高大家生活水平么
+
+---
+## Fri Jun 09 07:19:47 +0000 2023 — tweet 1667068958711726081
+- Lang: zh
+- Reply to: @tinyfool
+
+@tinyfool 现在做app一般什么技术比较好
+
+---
+## Fri Jun 05 06:53:10 +0000 2026 — tweet 2062789810029539424
+- Lang: zh
+- Reply to: @tinyfool
+
+@tinyfool 你用codex 還是 cursor  寫代碼？ 為什麼？
+
+---
+## Fri Jul 14 07:03:41 +0000 2023 — tweet 1679748485393027072
+- Lang: zh
+
+RT @xuemanzi8848: 毛姆也有一句话很精辟：
+“无论在谁面前，只要你不欠他的，
+就没必要唯唯诺诺，
+你的软弱会让对方更加看不上你。
+心软和不好意思，
+只会杀死自己，
+理性的薄情和无情才是生存利器。”
+
+---
+## Fri Jul 08 06:10:28 +0000 2022 — tweet 1545289195148955648
+- Lang: zh
+
+RT @Yintinusa: 不能我一个人沉醉，
+请欣赏😄 https://t.co/iUmMFrPY6N
+
+---
+## Fri Jan 19 09:42:41 +0000 2018 — tweet 954287992436269056
+- Lang: en
+
+RT @triketora: went for a run with a beautiful ocean view and then did yoga with a dog wandering around and licking me as i held poses so i…
+
+---
+## Fri Feb 22 04:48:01 +0000 2019 — tweet 1098806594597318656
+- Lang: en
+
+RT @newsycombinator: We're Entering the Golden Age of Podcasts https://t.co/moLMVrJLCq
+
+---
+## Fri Feb 21 07:48:36 +0000 2014 — tweet 436769407809769472
+- Lang: en
+
+RT @dche: RIP, Jim Weirich. 
+
+My favorite Ruby speaker.
+
+---
+## Fri Feb 07 05:21:02 +0000 2020 — tweet 1225650654909095939
+- Lang: en
+
+RT @JamesClear: As a general rule, the optimal strategy is to treat people as friends and attempt to win together rather than to treat peop…
+
+---
+## Fri Feb 06 04:50:13 +0000 2015 — tweet 563560270077759488
+- Lang: en
+
+RT @GabrielG439: Facebook is hiring to create a new Haskell team for distributed systems, data mining, and machine learning: http://t.co/A3…
+
+---
+## Fri Dec 02 05:35:20 +0000 2022 — tweet 1598551366406148097
+- Lang: en
+
+RT @NavalismHQ: "The really smart thinkers are clear thinkers. They understand the basics at a very, very fundamental level. I would rather…
+
+---
+## Fri Aug 23 15:37:08 +0000 2013 — tweet 370932727563816960
+- Lang: tl
+
+Na, na na na na na  na na na na, Hey Jude
+
+---
+## Fri Aug 21 12:34:11 +0000 2020 — tweet 1296787682962489345
+- Lang: en
+
+RT @OneJKMolina: Men,
+
+What's the most attractive (non-sexual) female quality for you?
+
+---
+## Fri Aug 21 08:58:41 +0000 2015 — tweet 634650820613566464
+- Lang: en
+
+thirteen senses - A Strange Encounter https://t.co/vye4oO6Ecw via @YouTube
+
+---
+## Fri Apr 25 08:58:11 +0000 2025 — tweet 1915691800851079612
+- Lang: en
+
+RT @zfellows: How to win: Elon Musk https://t.co/HiXIoT1beA
+
+---
