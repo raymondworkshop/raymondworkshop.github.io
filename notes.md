@@ -26,7 +26,9 @@
 
 
 #### 2026-06-14  
-* add memex/ and make memex more wiki and backlink 
+* add memex/ and make memex more wiki and backlink  
+* export apple notes into _post/origin-apple-notes/ daily  
+    - 
 
 #### 2022-06-20  
 * update into 'vs' code style  
