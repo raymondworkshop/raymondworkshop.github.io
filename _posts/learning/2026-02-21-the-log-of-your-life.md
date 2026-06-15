@@ -7,7 +7,56 @@ abstract: "personal reflection journal"
 ---
 
 > taking the time to think through your goals, strengths, past feedback and insights from
-> self-assessments should allow you to identify several areas of focus for growth 
+> self-assessments should allow you to identify several areas of focus for growth  
+
+#### 2026-06-15  
+* TODO  
+    - 增重 + 健身 （上身） + 美容    
+        + 拿到啞鈴  
+        + 其他 not    
+
+    - M 询问介绍项目的事情  
+        + not  
+    - 联系 Graham Daley 工作或合作機會  
+        + not  
+
+* SELF  
+    - **自己不主動積極**    
+        + Brutal Truth:
+        **As a man, you can’t wait for others to make the first move**. 
+        Waiting for your friend to set the plan, for a girl to choose the spot, or for your boss to hand you tasks... 
+
+        **That’ll leave you feeling stuck and deeply frustrated**.
+
+        You need to become proactive.  
+
+       + Yeah bro if you’re always waiting you stay stuck, just take initiative and move.  
+
+
+    - 好不喜歡 下雨天  
+        + 潮濕， 帶雨傘， 弄濕鞋  
+
+    - **做事猶豫， 決策癱瘓**    
+        + 拖延源於害怕取捨  
+        + 行動的本質不是“做完”， 而是“**做對當下最重要的事**”  
+        + 不要問“是否好”， 而要問 “**是否願意嘗試**”  
+
+    - 生命的目的是**綻放**  
+        + 綻放是一種**探索意願**， 好奇 “**自己能做什麼**”， 好奇生命的**潛能能發揮到什麼程度**    
+
+* work  
+    - 同 Hedy 聊了下  
+        + 人ok， 但是想白嫖  
+        + 發現 內地的幾個創業者 都這樣   
+
+    - 發現不想去工作  
+        + 需要找一個夥伴  
+
+    - optimze dev.news-wiki  
+    - optimize dev.local-ai  
+         + fail  
+    - optimze blog  
+        + add memex  
 
 #### 2026-06-08  
 * TODO 
