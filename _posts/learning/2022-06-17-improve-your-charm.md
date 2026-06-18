@@ -7,6 +7,7 @@ categories: [learning, thinking, self, important, health]
 abstract: "Notes on Energy - body, diets, sleep  "
 ---
 
+
 #### 外在形象
 
 - **干净， 得体， 细节到位** **会让人觉得你在乎自己**，**也在乎别人**
@@ -23,7 +24,12 @@ abstract: "Notes on Energy - body, diets, sleep  "
 - 兴趣和热情
     - 分享你真正热爱的东西，别人会被你的人情感染
 
-#### Notes on body health
+#### Notes on body health  
+* 2026-06-17  
+    - 肩膀  - 三角肌  
+        - 三角肌后束 - 反向飛鳥  
+        - 三角肌前束  - 啞鈴前平舉 
+        - 三角肌中束 - 啞鈴側平舉  
 
 - 2026-01-10
     - 跑步機熱身 10m
