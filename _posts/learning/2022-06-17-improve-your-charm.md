@@ -8,7 +8,7 @@ abstract: "Notes on Energy - body, diets, sleep  "
 ---
 
 
-#### 外在形象
+#### 外在形象  
 
 - **干净， 得体， 细节到位** **会让人觉得你在乎自己**，**也在乎别人**
     - **鞋子**， **发型**， **眼神交流**
@@ -22,7 +22,11 @@ abstract: "Notes on Energy - body, diets, sleep  "
     - 当别人说话时， **点头，微笑，用简短回应表示你在跟随**
 
 - 兴趣和热情
-    - 分享你真正热爱的东西，别人会被你的人情感染
+    - 分享你真正热爱的东西，别人会被你的人情感染  
+
+- 理想的男性伴侶通常是那些 **自信，堅定， 隨和， 心思細膩，沒有攻擊性**的男性，
+而不是嚴苛，控制欲強，過於安靜，害羞和順從的男性  
+    - women care more about **approval, attention, validation, fitting-in and being liked**    
 
 #### Notes on body health  
 * 2026-06-17  
@@ -78,7 +82,7 @@ abstract: "Notes on Energy - body, diets, sleep  "
     - **lifelong fitness** should be a priority in your life
     - more exercises
 
-##### Diets
+#### Diets  
 
 - enjoy food
     - 楚撚記大排档
