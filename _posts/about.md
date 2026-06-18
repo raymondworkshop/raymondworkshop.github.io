@@ -5,10 +5,15 @@ date: 2012-03-19
 
 Raymond ZHAO Wenlong is a product-minded engineer, and founder@Bean based in Hong Kong now. 
 
-This blog is connected with his [Second Brain](https://github.com/raymondworkshop/dev.self-wiki) — a repository of knowledgecurated over the years. Outside of [reading](https://raymondworkshop.github.io/bookshelf.html) and tech, he also likes Philosophy, Design, Nature, and Film.  
+This digital workspace is connected with his [Second Brain](https://github.com/raymondworkshop/dev.self-wiki) — a repository of knowledge curated over the years. Outside of [reading](https://raymondworkshop.github.io/bookshelf.html) and tech, he also likes Philosophy, Design, Nature, and Film.  
 
 Some of his favorite quotes:
 
+- “To develop a complete mind: 
+Study the science of art;
+study the art of science.
+Learn how to see.
+Realize that everything connects to everything else. ”  – Leonardo da Vinci
 - "Life is too short to worry about stupid things. Fall in love.  Study, think, create and grow."  - Richard Feynman  
 - "What makes you vulnerable makes you strong and beautiful"
 - "The good life is one inspired by love and guided by knowledge" - Bertrand Russell
