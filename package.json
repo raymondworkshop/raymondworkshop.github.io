@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@khimaros/pi-webui": "^0.6.0"
+  }
+}

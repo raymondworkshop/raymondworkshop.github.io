@@ -30,6 +30,7 @@ abstract: "personal reflection journal"
         + Instead of being shocked by your own darkness. Envy, lust, pride, fear, resentment, vanity. You study it.
         **Come to a mutual agreement**. Internalise it. **Utilise it to fuel your ambitions in a productive way**. This is shadow integration.
 
+
 * SELF  
     - **自己不主動積極**    
         + Brutal Truth:
