@@ -74,8 +74,7 @@ abstract: ""
     - **connection** is what breathes lives and gives meaning to our lives
 
 - Vulnerability
-    - **Open**, willing to **share not only our strengths** with people, but **our struggles**
-      that moves us towards empathy
+    - **Open**, willing to **share not only our strengths** with people, but **our struggles** that moves us towards empathy
 
 - Empathy
     - **Empathy** is about being vulnerable with people in their vulnerability
