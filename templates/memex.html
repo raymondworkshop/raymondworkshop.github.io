@@ -69,6 +69,18 @@
     </section>
     {% endif %}
 
+    {% if see_also_pages %}
+    <section class="wiki-panel wiki-see-also">
+        <h2>See also</h2>
+        <p class="wiki-panel-note">Pages that share topics with this note.</p>
+        <ul class="wiki-link-grid">
+            {% for page in see_also_pages %}
+            <li><a href="{{ page.url }}" class="wikilink">{{ page.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
     {% if is_hub and section_referenced %}
     <section class="wiki-panel wiki-referenced">
         <h2>Referenced across memex</h2>

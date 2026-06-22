@@ -648,6 +648,18 @@ pre code {
     margin: 0.55rem 0;
 }
 
+.memex-index-meta {
+    align-items: baseline;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem;
+}
+
+.memex-index-backlinks {
+    color: var(--brand-link);
+    font-size: 0.82rem;
+}
+
 .memex-index-section {
     color: var(--text-soft);
     font-size: 0.85rem;

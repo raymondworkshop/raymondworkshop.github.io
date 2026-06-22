@@ -12,7 +12,12 @@
         {% for entry in entries %}
         <li class="memex-index-item memex-index-{{ entry.kind }}">
             <a href="{{ entry.url }}">{{ entry.title }}</a>
-            <span class="memex-index-section">{{ entry.section }}</span>
+            <span class="memex-index-meta">
+                <span class="memex-index-section">{{ entry.section }}</span>
+                {% if entry.backlink_count %}
+                <span class="memex-index-backlinks">{{ entry.backlink_count }} link{% if entry.backlink_count != 1 %}s{% endif %}</span>
+                {% endif %}
+            </span>
         </li>
         {% endfor %}
     </ul>

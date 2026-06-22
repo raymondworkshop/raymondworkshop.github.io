@@ -156,23 +156,109 @@ def register_wikilink_target(
     url: str,
     *,
     stem: str | None = None,
+    aliases: Sequence[str] | None = None,
 ) -> None:
     entry = {"url": url, "title": title}
     registry[get_static_link(title)] = entry
     registry[title.lower().strip()] = entry
     if stem:
         registry[stem.lower().strip()] = entry
+    for alias in aliases or ():
+        alias = alias.strip()
+        if alias:
+            registry[alias.lower()] = entry
+            registry[get_static_link(alias)] = entry
+
+
+NOTES_ON_TITLE = re.compile(
+    r"^notes on ['\"](.+?)['\"]?\s*$", re.IGNORECASE
+)
+NOTES_ON_TITLE_PLAIN = re.compile(r"^notes on (.+)$", re.IGNORECASE)
+DATED_STEM_SUFFIX = re.compile(r"^(.+)-\d{4}-\d{2}-\d{2}$")
+
+
+def collect_post_aliases(post: frontmatter.Post) -> list[str]:
+    aliases: list[str] = []
+    title = str(post["title"]).strip()
+    stripped_title = title.lstrip("!").strip()
+    if stripped_title and stripped_title != title:
+        aliases.append(stripped_title)
+
+    notes_match = NOTES_ON_TITLE.match(title)
+    if notes_match:
+        aliases.append(notes_match.group(1).strip())
+    else:
+        plain_match = NOTES_ON_TITLE_PLAIN.match(title)
+        if plain_match:
+            aliases.append(plain_match.group(1).strip().strip("'\""))
+
+    source_stem = post.get("_source_stem")
+    if source_stem:
+        stem = str(source_stem).strip()
+        aliases.append(stem)
+        dated_match = DATED_STEM_SUFFIX.match(stem)
+        if dated_match:
+            aliases.append(dated_match.group(1))
+
+    for field in ("aliases", "aka"):
+        if not post.get(field):
+            continue
+        values = post[field]
+        if isinstance(values, str):
+            values = [values]
+        for value in values:
+            alias = str(value).strip()
+            if alias:
+                aliases.append(alias)
+
+    return list(dict.fromkeys(alias for alias in aliases if alias))
+
+
+def build_title_lookup(
+    registry: dict[str, dict[str, str]],
+) -> list[tuple[str, dict[str, str]]]:
+    seen_urls: set[str] = set()
+    lookup: list[tuple[str, dict[str, str]]] = []
+    for entry in registry.values():
+        url = entry["url"]
+        if url in seen_urls:
+            continue
+        seen_urls.add(url)
+        lookup.append((entry["title"], entry))
+    return lookup
 
 
 def resolve_wikilink(
-    target: str, registry: dict[str, dict[str, str]]
+    target: str,
+    registry: dict[str, dict[str, str]],
+    *,
+    title_lookup: list[tuple[str, dict[str, str]]] | None = None,
 ) -> dict[str, str] | None:
     key = target.strip()
-    if key.lower() in registry:
-        return registry[key.lower()]
-    slug = get_static_link(key)
-    if slug in registry:
-        return registry[slug]
+    normalized = key.lstrip("!").strip()
+    for candidate in (key, normalized):
+        if candidate.lower() in registry:
+            return registry[candidate.lower()]
+        slug = get_static_link(candidate)
+        if slug in registry:
+            return registry[slug]
+
+    if not title_lookup:
+        return None
+
+    lowered = normalized.lower()
+    substring_hits = [
+        entry for title, entry in title_lookup if lowered in title.lower()
+    ]
+    if len(substring_hits) == 1:
+        return substring_hits[0]
+
+    prefix_hits = [
+        entry for title, entry in title_lookup if title.lower().startswith(lowered)
+    ]
+    if len(prefix_hits) == 1:
+        return prefix_hits[0]
+
     return None
 
 
@@ -204,7 +290,10 @@ def get_topics(post: frontmatter.Post) -> list[str]:
 
 
 def iter_hashtag_links(
-    body: str, registry: dict[str, dict[str, str]]
+    body: str,
+    registry: dict[str, dict[str, str]],
+    *,
+    title_lookup: list[tuple[str, dict[str, str]]] | None = None,
 ) -> Iterator[dict[str, str]]:
     seen: set[str] = set()
     for line in body.splitlines():
@@ -213,7 +302,7 @@ def iter_hashtag_links(
             continue
         for match in HASHTAG_TOKEN.finditer(stripped):
             tag = match.group(0)[1:]
-            entry = resolve_wikilink(tag, registry)
+            entry = resolve_wikilink(tag, registry, title_lookup=title_lookup)
             if entry and entry["url"] not in seen:
                 seen.add(entry["url"])
                 yield entry
@@ -223,6 +312,8 @@ def iter_topic_links(
     post: frontmatter.Post,
     registry: dict[str, dict[str, str]],
     section_hubs: dict[str, dict[str, str]],
+    *,
+    title_lookup: list[tuple[str, dict[str, str]]] | None = None,
 ) -> Iterator[dict[str, str]]:
     seen: set[str] = set()
     for topic in get_topics(post):
@@ -230,10 +321,42 @@ def iter_topic_links(
         if hub and hub["url"] not in seen:
             seen.add(hub["url"])
             yield {"title": hub["title"], "url": hub["url"]}
-        entry = resolve_wikilink(topic, registry)
+        entry = resolve_wikilink(topic, registry, title_lookup=title_lookup)
         if entry and entry["url"] not in seen:
             seen.add(entry["url"])
             yield entry
+
+
+def iter_section_hub_link(
+    path: pathlib.Path,
+    section_hubs: dict[str, dict[str, str]],
+) -> Iterator[dict[str, str]]:
+    section = memex_section_key(path)
+    if not section or section == "blog":
+        return
+    hub = section_hubs.get(section)
+    if hub:
+        yield {"title": hub["title"], "url": hub["url"]}
+
+
+def iter_related_frontmatter(
+    post: frontmatter.Post,
+    registry: dict[str, dict[str, str]],
+    *,
+    title_lookup: list[tuple[str, dict[str, str]]] | None = None,
+) -> Iterator[dict[str, str]]:
+    for field in ("related", "seealso"):
+        if not post.get(field):
+            continue
+        values = post[field]
+        if isinstance(values, str):
+            values = [values]
+        for value in values:
+            entry = resolve_wikilink(
+                str(value).strip(), registry, title_lookup=title_lookup
+            )
+            if entry:
+                yield entry
 
 
 def iter_resolved_links(
@@ -242,26 +365,45 @@ def iter_resolved_links(
     url_registry: dict[str, dict[str, str]],
     *,
     post: frontmatter.Post | None = None,
+    path: pathlib.Path | None = None,
     section_hubs: dict[str, dict[str, str]] | None = None,
+    title_lookup: list[tuple[str, dict[str, str]]] | None = None,
 ) -> Iterator[dict[str, str]]:
     seen: set[str] = set()
     for match in WIKILINK_PATTERN.finditer(body):
-        entry = resolve_wikilink(match.group(1).strip(), registry)
+        entry = resolve_wikilink(
+            match.group(1).strip(), registry, title_lookup=title_lookup
+        )
         if entry and entry["url"] not in seen:
             seen.add(entry["url"])
             yield entry
     for match in MARKDOWN_LINK_PATTERN.finditer(body):
         url = normalize_memex_url(match.group(2))
-        entry = url_registry.get(url) or resolve_wikilink(match.group(1).strip(), registry)
+        entry = url_registry.get(url) or resolve_wikilink(
+            match.group(1).strip(), registry, title_lookup=title_lookup
+        )
         if entry and entry["url"] not in seen:
             seen.add(entry["url"])
             yield entry
-    for entry in iter_hashtag_links(body, registry):
+    for entry in iter_hashtag_links(body, registry, title_lookup=title_lookup):
         if entry["url"] not in seen:
             seen.add(entry["url"])
             yield entry
     if post and section_hubs is not None:
-        for entry in iter_topic_links(post, registry, section_hubs):
+        for entry in iter_topic_links(
+            post, registry, section_hubs, title_lookup=title_lookup
+        ):
+            if entry["url"] not in seen:
+                seen.add(entry["url"])
+                yield entry
+        for entry in iter_related_frontmatter(
+            post, registry, title_lookup=title_lookup
+        ):
+            if entry["url"] not in seen:
+                seen.add(entry["url"])
+                yield entry
+    if path and section_hubs is not None:
+        for entry in iter_section_hub_link(path, section_hubs):
             if entry["url"] not in seen:
                 seen.add(entry["url"])
                 yield entry
@@ -269,13 +411,14 @@ def iter_resolved_links(
 
 def preprocess_hashtag_tags(text: str) -> str:
     registry = _memex_ctx.get("registry", {})
+    title_lookup = _memex_ctx.get("title_lookup", [])
 
     def repl_line(match: re.Match[str]) -> str:
         line = match.group(0)
 
         def repl_tag(tag_match: re.Match[str]) -> str:
             tag = tag_match.group(0)[1:]
-            entry = resolve_wikilink(tag, registry)
+            entry = resolve_wikilink(tag, registry, title_lookup=title_lookup)
             if entry:
                 return f"[[{tag}|#{tag}]]"
             return tag_match.group(0)
@@ -287,11 +430,12 @@ def preprocess_hashtag_tags(text: str) -> str:
 
 def preprocess_wikilinks(text: str) -> str:
     registry = _memex_ctx.get("registry", {})
+    title_lookup = _memex_ctx.get("title_lookup", [])
 
     def repl(match: re.Match[str]) -> str:
         target = match.group(1).strip()
         display = match.group(2).strip() if match.group(2) else target
-        entry = resolve_wikilink(target, registry)
+        entry = resolve_wikilink(target, registry, title_lookup=title_lookup)
         if entry:
             return (
                 f'<a href="{html.escape(entry["url"])}" class="wikilink">'
@@ -305,11 +449,14 @@ def preprocess_wikilinks(text: str) -> str:
 def preprocess_internal_markdown_links(text: str) -> str:
     registry = _memex_ctx.get("registry", {})
     url_registry = _memex_ctx.get("url_registry", {})
+    title_lookup = _memex_ctx.get("title_lookup", [])
 
     def repl(match: re.Match[str]) -> str:
         display = match.group(1).strip()
         url = normalize_memex_url(match.group(2))
-        entry = url_registry.get(url) or resolve_wikilink(display, registry)
+        entry = url_registry.get(url) or resolve_wikilink(
+            display, registry, title_lookup=title_lookup
+        )
         if entry:
             return (
                 f'<a href="{html.escape(entry["url"])}" class="wikilink">'
@@ -393,10 +540,17 @@ def build_memex_context() -> dict[str, Any]:
         page_count += 1
         url = get_post_url(post, subdir)
         stem = get_post_stem(post, subdir)
-        register_wikilink_target(registry, post["title"], url, stem=stem)
+        aliases = collect_post_aliases(post)
+        register_wikilink_target(
+            registry, post["title"], url, stem=stem, aliases=aliases
+        )
         if post.get("_source_stem"):
             register_wikilink_target(
-                registry, str(post["_source_stem"]), url, stem=stem
+                registry,
+                str(post["_source_stem"]),
+                url,
+                stem=stem,
+                aliases=aliases,
             )
         section_name = memex_section_key(subdir)
         section_posts[section_name].append(
@@ -408,6 +562,28 @@ def build_memex_context() -> dict[str, Any]:
         )
 
     url_registry = build_url_registry(registry)
+    title_lookup = build_title_lookup(registry)
+    topic_pages: dict[str, list[dict[str, str]]] = defaultdict(list)
+    page_topics: dict[str, list[str]] = {}
+
+    for post, subdir, _source in sources:
+        if is_memex_manifesto(post, subdir) or is_memex_hub_dir(subdir):
+            continue
+        page_url = normalize_memex_url(get_post_url(post, subdir))
+        topics = get_topics(post)
+        page_topics[page_url] = topics
+        page_entry = {
+            "title": post["title"],
+            "url": get_post_url(post, subdir),
+            "section": memex_section_key(subdir),
+        }
+        for topic in topics:
+            topic_pages[topic].append(page_entry)
+
+    for topic in topic_pages:
+        topic_pages[topic] = sorted(
+            topic_pages[topic], key=lambda item: item["title"].lower()
+        )
 
     for section_name in section_posts:
         section_posts[section_name] = sorted(
@@ -430,7 +606,9 @@ def build_memex_context() -> dict[str, Any]:
             for line in body.splitlines()
             if HASHTAG_TAG_LINE.match(line.strip())
             for match in HASHTAG_TOKEN.finditer(line.strip())
-            if resolve_wikilink(match.group(0)[1:], registry)
+            if resolve_wikilink(
+                match.group(0)[1:], registry, title_lookup=title_lookup
+            )
         )
         hashtag_link_count += file_hashtag_links
         internal_link_count += len(
@@ -438,7 +616,9 @@ def build_memex_context() -> dict[str, Any]:
                 match
                 for match in MARKDOWN_LINK_PATTERN.finditer(body)
                 if url_registry.get(normalize_memex_url(match.group(2)))
-                or resolve_wikilink(match.group(1).strip(), registry)
+                or resolve_wikilink(
+                    match.group(1).strip(), registry, title_lookup=title_lookup
+                )
             ]
         ) + file_hashtag_links
 
@@ -455,7 +635,9 @@ def build_memex_context() -> dict[str, Any]:
             registry,
             url_registry,
             post=post,
+            path=subdir,
             section_hubs=section_hubs,
+            title_lookup=title_lookup,
         ):
             target_url = normalize_memex_url(entry["url"])
             if target_url == source_url_norm:
@@ -515,6 +697,9 @@ def build_memex_context() -> dict[str, Any]:
     return {
         "registry": registry,
         "url_registry": url_registry,
+        "title_lookup": title_lookup,
+        "topic_pages": dict(topic_pages),
+        "page_topics": page_topics,
         "backlinks": dict(backlinks),
         "section_posts": dict(section_posts),
         "section_referenced": dict(section_referenced),
@@ -541,6 +726,7 @@ def get_outgoing_links(post: frontmatter.Post) -> list[dict[str, str]]:
     registry = _memex_ctx.get("registry", {})
     url_registry = _memex_ctx.get("url_registry", {})
     section_hubs = _memex_ctx.get("section_hubs", {})
+    title_lookup = _memex_ctx.get("title_lookup", [])
     path = post.get("path") or pathlib.Path(".")
     source_url = normalize_memex_url(
         get_hub_url(post)
@@ -556,7 +742,9 @@ def get_outgoing_links(post: frontmatter.Post) -> list[dict[str, str]]:
             registry,
             url_registry,
             post=post,
+            path=path,
             section_hubs=section_hubs,
+            title_lookup=title_lookup,
         )
         if normalize_memex_url(entry["url"]) != source_url
     ]
@@ -574,22 +762,98 @@ def get_section_hub_for_path(
     return _memex_ctx.get("section_hubs", {}).get(section)
 
 
+def get_page_lookup() -> dict[str, dict[str, str]]:
+    lookup: dict[str, dict[str, str]] = {}
+    for pages in _memex_ctx.get("section_posts", {}).values():
+        for page in pages:
+            lookup[normalize_memex_url(page["url"])] = page
+    return lookup
+
+
 def get_related_pages(
     post: frontmatter.Post, path: pathlib.Path, limit: int = 8
 ) -> list[dict[str, str]]:
     if is_memex_hub_dir(path):
         return []
-    section = memex_section_key(path)
-    my_url = get_post_url(post, path)
+    my_url = normalize_memex_url(get_post_url(post, path))
     neighbor_urls: set[str] = set()
     for link in get_outgoing_links(post):
-        neighbor_urls.add(link["url"])
+        neighbor_urls.add(normalize_memex_url(link["url"]))
     for link in get_backlinks_for_post(post, path):
-        neighbor_urls.add(link["url"])
+        neighbor_urls.add(normalize_memex_url(link["url"]))
     neighbor_urls.discard(my_url)
+
+    section = memex_section_key(path)
     section_pages = _memex_ctx.get("section_posts", {}).get(section, [])
-    related = [page for page in section_pages if page["url"] in neighbor_urls]
+    related = [
+        page
+        for page in section_pages
+        if normalize_memex_url(page["url"]) in neighbor_urls
+    ]
+    if len(related) >= limit:
+        return related[:limit]
+
+    seen_urls = {normalize_memex_url(page["url"]) for page in related}
+    seen_urls.add(my_url)
+    my_topics = set(get_topics(post))
+    page_lookup = get_page_lookup()
+    if my_topics:
+        topic_scores: dict[str, int] = defaultdict(int)
+        topic_pages = _memex_ctx.get("topic_pages", {})
+        for topic in my_topics:
+            for page in topic_pages.get(topic, []):
+                page_url = normalize_memex_url(page["url"])
+                if page_url not in seen_urls:
+                    topic_scores[page_url] += 1
+        for page_url, _score in sorted(
+            topic_scores.items(), key=lambda item: (-item[1], item[0])
+        ):
+            page = page_lookup.get(page_url)
+            if page:
+                related.append(page)
+                seen_urls.add(page_url)
+            if len(related) >= limit:
+                break
+
     return related[:limit]
+
+
+def get_see_also_pages(
+    post: frontmatter.Post, path: pathlib.Path, limit: int = 6
+) -> list[dict[str, str]]:
+    if is_memex_hub_dir(path):
+        return []
+    my_url = normalize_memex_url(get_post_url(post, path))
+    related_urls = {
+        normalize_memex_url(page["url"]) for page in get_related_pages(post, path)
+    }
+    my_topics = set(get_topics(post))
+    if not my_topics:
+        return []
+
+    topic_pages = _memex_ctx.get("topic_pages", {})
+    topic_scores: dict[str, int] = defaultdict(int)
+    page_lookup: dict[str, dict[str, str]] = {}
+    for topic in my_topics:
+        for page in topic_pages.get(topic, []):
+            page_url = normalize_memex_url(page["url"])
+            page_lookup[page_url] = page
+            if page_url in related_urls or page_url == my_url:
+                continue
+            topic_scores[page_url] += 1
+
+    see_also: list[dict[str, str]] = []
+    for page_url, score in sorted(
+        topic_scores.items(), key=lambda item: (-item[1], item[0])
+    ):
+        if score < 1:
+            continue
+        page = page_lookup.get(page_url)
+        if page:
+            see_also.append(page)
+        if len(see_also) >= limit:
+            break
+    return see_also
 
 
 def get_section_pages_for_post(
@@ -686,6 +950,7 @@ def write_post(post: frontmatter.Post, content: str, path: pathlib.Path):
             section_hub=get_section_hub_for_path(path, post),
             outgoing_links=get_outgoing_links(post),
             related_pages=get_related_pages(post, path),
+            see_also_pages=get_see_also_pages(post, path),
             section_referenced=get_section_referenced_for_post(post),
             sibling_hubs=get_sibling_hubs(post) if is_hub else [],
         )
@@ -768,31 +1033,40 @@ def write_paginated_home(posts: Sequence[frontmatter.Post]):
 
 
 def write_memex_index() -> None:
-    entries: list[dict[str, str]] = []
+    entries: list[dict[str, Any]] = []
+    backlinks = _memex_ctx.get("backlinks", {})
 
     for post, subdir, _source in collect_memex_sources():
         if is_memex_manifesto(post, subdir):
             continue
         if is_memex_hub_dir(subdir):
+            url = get_hub_url(post)
             entries.append(
                 {
                     "title": post["title"],
-                    "url": get_hub_url(post),
+                    "url": url,
                     "section": "Hub",
                     "kind": "hub",
+                    "backlink_count": len(
+                        backlinks.get(normalize_memex_url(url), [])
+                    ),
                 }
             )
             continue
+        url = get_post_url(post, subdir)
         entries.append(
             {
                 "title": post["title"],
-                "url": get_post_url(post, subdir),
+                "url": url,
                 "section": section_label(subdir),
                 "kind": "page",
+                "backlink_count": len(
+                    backlinks.get(normalize_memex_url(url), [])
+                ),
             }
         )
 
-    entries.sort(key=lambda item: item["title"].lower())
+    entries.sort(key=lambda item: (-item["backlink_count"], item["title"].lower()))
     output = pathlib.Path("./docs/memex/index.html")
     output.parent.mkdir(parents=True, exist_ok=True)
     template = jinja_env.get_template("memex_index.html")
