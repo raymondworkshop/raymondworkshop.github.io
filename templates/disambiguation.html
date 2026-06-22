@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}{{ title }} (disambiguation){% endblock %}
+
+{% block content %}
+<article class="post memex-page memex-disambiguation">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        <span class="memex-nav-sep">→</span>
+        <span>Disambiguation</span>
+    </nav>
+
+    <header class="post-header">
+        <h1>{{ title }}</h1>
+        <p class="post-meta">Multiple pages share this title. Pick the one you meant.</p>
+    </header>
+
+    <section class="wiki-panel">
+        <ul class="wiki-card-list">
+            {% for candidate in candidates %}
+            <li class="wiki-card">
+                <h3><a href="{{ candidate.url }}">{{ candidate.title }}</a></h3>
+                <p class="wiki-card-excerpt">
+                    {{ candidate.section }}{% if candidate.date %} · {{ candidate.date }}{% endif %}
+                </p>
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+</article>
+{% endblock content %}
