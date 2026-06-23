@@ -20,14 +20,9 @@
         <h2>Search</h2>
         <p class="wiki-panel-note">Find posts across all sections.</p>
         <div class="search-field">
-            <input
-                class="search-input"
-                id="memex-search-input"
-                type="search"
-                aria-label="Search memex by title, topic, or content"
-                placeholder="e.g. stoicism, hamlet, machine learning"
-                autocomplete="off"
-            >
+            <input class="search-input" id="memex-search-input" type="search"
+                aria-label="Search memex by title, topic, or content" placeholder="e.g. science, stoicism, hamlet"
+                autocomplete="off">
         </div>
         <p class="search-status" id="memex-search-status" aria-live="polite"></p>
         <ul class="search-results" id="memex-search-results"></ul>
@@ -69,7 +64,8 @@
             {% for page in top_referenced %}
             <li class="wiki-card">
                 <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
-                <p class="wiki-mentions">{{ page.backlink_count }} incoming link{% if page.backlink_count != 1 %}s{% endif %}</p>
+                <p class="wiki-mentions">{{ page.backlink_count }} incoming link{% if page.backlink_count != 1 %}s{%
+                    endif %}</p>
             </li>
             {% endfor %}
         </ul>

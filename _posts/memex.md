@@ -11,5 +11,5 @@ Outside of [reading](/bookshelf.html) and [[Tech]], I like [[Philosophy]], desig
 
 ### Start anywhere  
 
-[[Notes on '成為自由人]] · [[Notes on 'A Short History of the World']] · [[Notes on programing languages]] · [[Notes on 'Hamlet']] · [[About Beauty]] 
+[[bookshelf]] · [[Mans search for meaning]] · [[Notes on '成為自由人']] · [[Notes on 'A Short History of the World']] · [[Notes on programing languages]] · [[Notes on 'Hamlet']] · [[About Beauty]]
 

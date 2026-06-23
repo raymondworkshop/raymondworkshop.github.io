@@ -19,9 +19,6 @@ run:
 memex:
 	python3 memex.py $(CMD)
 
-site:
-	python3 -m server.py
-
 push:
 	git add .
 	git diff --cached --quiet || git commit -m "update"
