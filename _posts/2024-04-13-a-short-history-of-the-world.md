@@ -5,7 +5,7 @@ tags: [home, learning, history]
 abstract: "notes on History"
 ---
 
->  <small>"從世界看國家， 不要從國家看世界"</small>  - 周有光  
+>  <small>"從世界看國家， 不要從國家看世界"  - 周有光  </small>
 
 #### notes from "A Short History of the World"
 

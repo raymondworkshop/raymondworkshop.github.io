@@ -16,8 +16,19 @@ def load_context() -> dict[str, Any]:
 
 
 def find_pages(query: str) -> list[tuple[Any, Any, Any]]:
-    query_lower = query.strip().lower()
-    query_slug = blog.get_static_link(query)
+    ctx = load_context()
+    candidates = blog.resolve_wikilink_candidates(
+        query,
+        ctx["registry"],
+        fuzzy_lookup=ctx["fuzzy_lookup"],
+        backlink_counts=ctx.get("backlink_counts"),
+        min_score=blog.FUZZY_MIN_SCORE,
+        return_all=True,
+    )
+    if not candidates:
+        return []
+
+    target_urls = {blog.normalize_memex_url(entry["url"]) for entry, _score, _label in candidates}
     matches: list[tuple[Any, Any, Any]] = []
     seen_urls: set[str] = set()
 
@@ -29,23 +40,26 @@ def find_pages(query: str) -> list[tuple[Any, Any, Any]]:
             if blog.is_memex_hub_dir(subdir)
             else blog.get_post_url(post, subdir)
         )
-        if url in seen_urls:
+        if url not in target_urls or url in seen_urls:
             continue
+        matches.append((post, subdir, source))
+        seen_urls.add(url)
 
-        title = str(post["title"]).lower()
-        stem = str(post.get("_source_stem", "")).lower()
-        source_name = source.name.lower()
-        haystacks = {title, stem, source_name, url.lower(), blog.get_static_link(post["title"])}
-
-        if (
-            query_lower in title
-            or query_lower == stem
-            or query_slug in haystacks
-            or query_lower in url.lower()
-        ):
-            matches.append((post, subdir, source))
-            seen_urls.add(url)
-
+    matches.sort(
+        key=lambda item: next(
+            score
+            for entry, score, _label in candidates
+            if blog.normalize_memex_url(entry["url"])
+            == blog.normalize_memex_url(
+                "/memex.html"
+                if blog.is_memex_manifesto(item[0], item[1])
+                else blog.get_hub_url(item[0])
+                if blog.is_memex_hub_dir(item[1])
+                else blog.get_post_url(item[0], item[1])
+            )
+        ),
+        reverse=True,
+    )
     return matches
 
 
@@ -73,6 +87,26 @@ def page_url(post: Any, subdir: Any) -> str:
     if blog.is_memex_hub_dir(subdir):
         return blog.get_hub_url(post)
     return blog.get_post_url(post, subdir)
+
+
+def print_resolve_candidates(target: str, ctx: dict[str, Any]) -> None:
+    candidates = blog.resolve_wikilink_candidates(
+        target,
+        ctx["registry"],
+        fuzzy_lookup=ctx["fuzzy_lookup"],
+        backlink_counts=ctx.get("backlink_counts"),
+    )
+    if not candidates:
+        print(f"Unresolved: {target!r}")
+        return
+    if len(candidates) == 1:
+        entry, score, label = candidates[0]
+        print(f"{target!r} -> {entry['title']} (score {score}, matched {label!r})")
+        print(entry["url"])
+        return
+    print(f"Ambiguous: {target!r}")
+    for entry, score, label in candidates[:8]:
+        print(f"  {score:3d}  {entry['title']}  {entry['url']}  (via {label!r})")
 
 
 def cmd_stats(_args: argparse.Namespace) -> None:
@@ -106,13 +140,15 @@ def cmd_resolve(args: argparse.Namespace) -> None:
     entry = blog.resolve_wikilink(
         args.target,
         ctx["registry"],
-        title_lookup=ctx["title_lookup"],
+        fuzzy_lookup=ctx["fuzzy_lookup"],
+        backlink_counts=ctx.get("backlink_counts"),
     )
-    if not entry:
-        print(f"Unresolved: {args.target!r}")
-        sys.exit(1)
-    print(f"{args.target!r} -> {entry['title']}")
-    print(entry["url"])
+    if entry:
+        print(f"{args.target!r} -> {entry['title']}")
+        print(entry["url"])
+        return
+    print_resolve_candidates(args.target, ctx)
+    sys.exit(1)
 
 
 def cmd_page(args: argparse.Namespace) -> None:
@@ -123,6 +159,7 @@ def cmd_page(args: argparse.Namespace) -> None:
     backlinks = blog.get_backlinks_for_post(post, subdir)
     related = blog.get_related_pages(post, subdir)
     see_also = blog.get_see_also_pages(post, subdir)
+    unlinked = blog.get_unlinked_mentions_for_post(post, subdir)
 
     print(post["title"])
     print(f"  source   {source}")
@@ -142,6 +179,12 @@ def cmd_page(args: argparse.Namespace) -> None:
     print(f"  backlinks {len(backlinks)}")
     for link in backlinks:
         print(f"    <- {link['title']}  {link['url']}")
+    if unlinked:
+        print(f"  unlinked mentions {len(unlinked)}")
+        for link in unlinked[:10]:
+            print(f"    ?  {link['title']}  ({link['label']!r})  {link['url']}")
+        if len(unlinked) > 10:
+            print(f"           ... +{len(unlinked) - 10} more")
     if related:
         print(f"  related  {len(related)}")
         for link in related:
@@ -169,7 +212,8 @@ def cmd_outgoing(args: argparse.Namespace) -> None:
 def cmd_missing(_args: argparse.Namespace) -> None:
     ctx = load_context()
     registry = ctx["registry"]
-    title_lookup = ctx["title_lookup"]
+    fuzzy_lookup = ctx["fuzzy_lookup"]
+    backlink_counts = ctx.get("backlink_counts")
     missing: list[tuple[str, str, str]] = []
 
     for post, subdir, source in blog.collect_memex_sources():
@@ -178,7 +222,12 @@ def cmd_missing(_args: argparse.Namespace) -> None:
         body = post.content or ""
         for match in blog.WIKILINK_PATTERN.finditer(body):
             target = match.group(1).strip()
-            if not blog.resolve_wikilink(target, registry, title_lookup=title_lookup):
+            if not blog.resolve_wikilink(
+                target,
+                registry,
+                fuzzy_lookup=fuzzy_lookup,
+                backlink_counts=backlink_counts,
+            ):
                 missing.append((target, str(post["title"]), str(source)))
 
     if not missing:
@@ -188,6 +237,31 @@ def cmd_missing(_args: argparse.Namespace) -> None:
     print(f"Unresolved wikilinks ({len(missing)}):")
     for target, title, source in sorted(missing, key=lambda item: item[0].lower()):
         print(f"  [[{target}]]  in {title}  ({source})")
+        candidates = blog.resolve_wikilink_candidates(
+            target,
+            registry,
+            fuzzy_lookup=fuzzy_lookup,
+            backlink_counts=backlink_counts,
+            min_score=40,
+        )
+        if candidates:
+            suggestions = ", ".join(
+                f"{entry['title']} ({score})"
+                for entry, score, _label in candidates[:3]
+            )
+            print(f"    did you mean: {suggestions}")
+
+
+def cmd_mentions(args: argparse.Namespace) -> None:
+    load_context()
+    post, subdir, _source = pick_page(args.query)
+    mentions = blog.get_unlinked_mentions_for_post(post, subdir)
+    if not mentions:
+        print(f"No unlinked mentions for {post['title']!r}.")
+        return
+    print(f"Unlinked mentions in {post['title']} ({len(mentions)}):")
+    for link in mentions[: args.limit]:
+        print(f"  {link['title']}\t{link['url']}\t(matched {link['label']!r})")
 
 
 def cmd_orphans(args: argparse.Namespace) -> None:
@@ -263,6 +337,14 @@ def build_parser() -> argparse.ArgumentParser:
 
     subparsers.add_parser("missing", help="list unresolved [[wikilinks]] in posts")
 
+    mentions = subparsers.add_parser(
+        "mentions", help="list title mentions not yet linked on a page"
+    )
+    mentions.add_argument("query", help="title, stem, or URL fragment")
+    mentions.add_argument(
+        "-n", "--limit", type=int, default=30, help="max rows (default 30)"
+    )
+
     orphans = subparsers.add_parser("orphans", help="pages with zero backlinks")
     orphans.add_argument("-n", "--limit", type=int, default=30, help="max rows (default 30)")
 
@@ -286,6 +368,7 @@ def main(argv: list[str] | None = None) -> None:
         "backlinks": cmd_backlinks,
         "outgoing": cmd_outgoing,
         "missing": cmd_missing,
+        "mentions": cmd_mentions,
         "orphans": cmd_orphans,
         "top": cmd_top,
         "search": cmd_search,

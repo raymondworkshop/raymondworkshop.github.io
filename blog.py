@@ -1,3 +1,4 @@
+import difflib
 import html
 import json
 import pathlib
@@ -22,6 +23,23 @@ if not hasattr(frontmatter, "load"):
 
 POSTS_PER_PAGE = 20
 CJK_RE = re.compile(r"[\u3040-\u9fff\uff00-\uffef]")
+_opencc_s2t = None
+_opencc_t2s = None
+
+
+def expand_for_search(text: str) -> str:
+    if not text or not CJK_RE.search(text):
+        return text
+    global _opencc_s2t, _opencc_t2s
+    if _opencc_s2t is None:
+        from opencc import OpenCC
+
+        _opencc_s2t = OpenCC("s2t")
+        _opencc_t2s = OpenCC("t2s")
+    variants = [text, _opencc_s2t.convert(text), _opencc_t2s.convert(text)]
+    return "\n".join(dict.fromkeys(variants))
+
+
 MEMEX_EXCLUDED_SECTIONS: set[str] = set()
 MEMEX_HUB_DIR = pathlib.Path("memex")
 WIKILINK_PATTERN = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
@@ -214,6 +232,68 @@ def collect_post_aliases(post: frontmatter.Post) -> list[str]:
     return list(dict.fromkeys(alias for alias in aliases if alias))
 
 
+QUOTE_CHARS = "'\"'\"“”‘’"
+FUZZY_MIN_SCORE = 50
+FUZZY_SCORE_GAP = 15
+SHORT_QUERY_MAX_LEN = 2
+
+
+def normalize_wikilink_key(text: str) -> str:
+    text = text.strip().lstrip("!").strip()
+    text = text.strip(QUOTE_CHARS)
+    text = re.sub(r"\s+", " ", text).lower()
+    return text
+
+
+def wikilink_key_variants(text: str) -> list[str]:
+    base = normalize_wikilink_key(text)
+    if not base:
+        return []
+    variants = [base]
+    if CJK_RE.search(base):
+        for line in expand_for_search(base).split("\n"):
+            line = line.strip().lower()
+            if line and line not in variants:
+                variants.append(line)
+    return variants
+
+
+def build_fuzzy_lookup(
+    sources: Sequence[tuple[frontmatter.Post, pathlib.Path, pathlib.Path]],
+) -> list[tuple[str, dict[str, str]]]:
+    seen: set[tuple[str, str]] = set()
+    lookup: list[tuple[str, dict[str, str]]] = []
+
+    for post, subdir, _source in sources:
+        if is_memex_manifesto(post, subdir):
+            entry = {"url": "/memex.html", "title": post["title"]}
+            labels = [str(post["title"])]
+        elif is_memex_hub_dir(subdir):
+            entry = {"url": get_hub_url(post), "title": post["title"]}
+            labels = [str(post["title"])]
+            if post.get("section"):
+                labels.append(str(post["section"]))
+        else:
+            entry = {"url": get_post_url(post, subdir), "title": post["title"]}
+            labels = [str(post["title"]), *collect_post_aliases(post)]
+            stem = get_post_stem(post, subdir)
+            labels.append(stem)
+            dated_match = DATED_STEM_SUFFIX.match(stem)
+            if dated_match:
+                labels.append(dated_match.group(1))
+
+        for label in labels:
+            label = str(label).strip()
+            if not label:
+                continue
+            dedupe_key = (normalize_wikilink_key(label), entry["url"])
+            if dedupe_key in seen:
+                continue
+            seen.add(dedupe_key)
+            lookup.append((label, entry))
+    return lookup
+
+
 def build_title_lookup(
     registry: dict[str, dict[str, str]],
 ) -> list[tuple[str, dict[str, str]]]:
@@ -228,37 +308,163 @@ def build_title_lookup(
     return lookup
 
 
+def _has_word_boundary_match(query: str, label: str) -> bool:
+    query_norm = normalize_wikilink_key(query)
+    label_norm = normalize_wikilink_key(label)
+    if not query_norm or not label_norm:
+        return False
+    if CJK_RE.search(query_norm) or CJK_RE.search(label_norm):
+        return any(variant in label_norm for variant in wikilink_key_variants(query))
+    pattern = r"(?<!\w)" + re.escape(query_norm) + r"(?!\w)"
+    return bool(re.search(pattern, label_norm))
+
+
+def score_fuzzy_match(
+    query: str,
+    label: str,
+    *,
+    backlink_count: int = 0,
+) -> int:
+    query_norm = normalize_wikilink_key(query)
+    label_norm = normalize_wikilink_key(label)
+    if not query_norm or not label_norm:
+        return 0
+
+    query_variants = wikilink_key_variants(query)
+    label_variants = wikilink_key_variants(label)
+    if any(q == l for q in query_variants for l in label_variants):
+        score = 100
+    elif len(query_norm) <= SHORT_QUERY_MAX_LEN:
+        if any(l.startswith(q) for q in query_variants for l in label_variants):
+            score = 80
+        else:
+            return 0
+    elif any(l.startswith(q) for q in query_variants for l in label_variants):
+        ratio = len(query_norm) / max(len(label_norm), 1)
+        score = 80 + int(ratio * 10)
+    elif _has_word_boundary_match(query, label):
+        score = 70
+    elif any(q in l for q in query_variants for l in label_variants):
+        ratio = len(query_norm) / max(len(label_norm), 1)
+        score = 50 + int(ratio * 20)
+    else:
+        return 0
+
+    score += max(0, 10 - min(len(label_norm), 10))
+    score += min(backlink_count, 20)
+    return score
+
+
+def resolve_wikilink_candidates(
+    target: str,
+    registry: dict[str, dict[str, str]],
+    *,
+    fuzzy_lookup: list[tuple[str, dict[str, str]]] | None = None,
+    title_lookup: list[tuple[str, dict[str, str]]] | None = None,
+    backlink_counts: dict[str, int] | None = None,
+    min_score: int = FUZZY_MIN_SCORE,
+    return_all: bool = False,
+) -> list[tuple[dict[str, str], int, str]]:
+    lookup = fuzzy_lookup if fuzzy_lookup is not None else title_lookup
+    backlink_counts = backlink_counts or {}
+
+    for variant in wikilink_key_variants(target):
+        if variant in registry:
+            entry = registry[variant]
+            return [(entry, 100, variant)]
+        slug = get_static_link(variant)
+        if slug and slug in registry:
+            entry = registry[slug]
+            return [(entry, 100, slug)]
+
+    key = target.strip()
+    for candidate in (key, key.lstrip("!").strip()):
+        if candidate.lower() in registry:
+            entry = registry[candidate.lower()]
+            return [(entry, 100, candidate)]
+        slug = get_static_link(candidate)
+        if slug in registry:
+            entry = registry[slug]
+            return [(entry, 100, slug)]
+
+    if not lookup:
+        return []
+
+    best_by_url: dict[str, tuple[dict[str, str], int, str]] = {}
+    for label, entry in lookup:
+        url = normalize_memex_url(entry["url"])
+        score = score_fuzzy_match(
+            target,
+            label,
+            backlink_count=backlink_counts.get(url, 0),
+        )
+        if score < min_score:
+            continue
+        current = best_by_url.get(url)
+        if current is None or score > current[1]:
+            best_by_url[url] = (entry, score, label)
+
+    ranked = sorted(
+        best_by_url.values(),
+        key=lambda item: (-item[1], item[0]["title"].lower()),
+    )
+    if not ranked:
+        normalized_labels = {
+            normalize_wikilink_key(label): (label, entry)
+            for label, entry in lookup
+            if normalize_wikilink_key(label)
+        }
+        query_norm = normalize_wikilink_key(target)
+        if query_norm:
+            close = difflib.get_close_matches(
+                query_norm,
+                list(normalized_labels.keys()),
+                n=3,
+                cutoff=0.88,
+            )
+            typo_hits = [normalized_labels[key] for key in close]
+            if len(typo_hits) == 1:
+                label, entry = typo_hits[0]
+                return [(entry, 45, label)]
+        return []
+
+    if return_all:
+        return ranked
+
+    top_entry, top_score, top_label = ranked[0]
+    if len(ranked) == 1:
+        return [(top_entry, top_score, top_label)]
+
+    runner_up_score = ranked[1][1]
+    if top_score - runner_up_score >= FUZZY_SCORE_GAP:
+        return [(top_entry, top_score, top_label)]
+    return ranked
+
+
 def resolve_wikilink(
     target: str,
     registry: dict[str, dict[str, str]],
     *,
+    fuzzy_lookup: list[tuple[str, dict[str, str]]] | None = None,
     title_lookup: list[tuple[str, dict[str, str]]] | None = None,
+    backlink_counts: dict[str, int] | None = None,
 ) -> dict[str, str] | None:
-    key = target.strip()
-    normalized = key.lstrip("!").strip()
-    for candidate in (key, normalized):
-        if candidate.lower() in registry:
-            return registry[candidate.lower()]
-        slug = get_static_link(candidate)
-        if slug in registry:
-            return registry[slug]
-
-    if not title_lookup:
+    if backlink_counts is None and _memex_ctx.get("backlink_counts"):
+        backlink_counts = _memex_ctx["backlink_counts"]
+    candidates = resolve_wikilink_candidates(
+        target,
+        registry,
+        fuzzy_lookup=fuzzy_lookup,
+        title_lookup=title_lookup,
+        backlink_counts=backlink_counts,
+    )
+    if not candidates:
         return None
-
-    lowered = normalized.lower()
-    substring_hits = [
-        entry for title, entry in title_lookup if lowered in title.lower()
-    ]
-    if len(substring_hits) == 1:
-        return substring_hits[0]
-
-    prefix_hits = [
-        entry for title, entry in title_lookup if title.lower().startswith(lowered)
-    ]
-    if len(prefix_hits) == 1:
-        return prefix_hits[0]
-
+    top_entry, top_score, _label = candidates[0]
+    if len(candidates) == 1:
+        return top_entry
+    if top_score - candidates[1][1] >= FUZZY_SCORE_GAP:
+        return top_entry
     return None
 
 
@@ -411,7 +617,7 @@ def iter_resolved_links(
 
 def preprocess_hashtag_tags(text: str) -> str:
     registry = _memex_ctx.get("registry", {})
-    title_lookup = _memex_ctx.get("title_lookup", [])
+    title_lookup = _memex_ctx.get("fuzzy_lookup") or _memex_ctx.get("title_lookup", [])
 
     def repl_line(match: re.Match[str]) -> str:
         line = match.group(0)
@@ -430,7 +636,7 @@ def preprocess_hashtag_tags(text: str) -> str:
 
 def preprocess_wikilinks(text: str) -> str:
     registry = _memex_ctx.get("registry", {})
-    title_lookup = _memex_ctx.get("title_lookup", [])
+    title_lookup = _memex_ctx.get("fuzzy_lookup") or _memex_ctx.get("title_lookup", [])
 
     def repl(match: re.Match[str]) -> str:
         target = match.group(1).strip()
@@ -449,7 +655,7 @@ def preprocess_wikilinks(text: str) -> str:
 def preprocess_internal_markdown_links(text: str) -> str:
     registry = _memex_ctx.get("registry", {})
     url_registry = _memex_ctx.get("url_registry", {})
-    title_lookup = _memex_ctx.get("title_lookup", [])
+    title_lookup = _memex_ctx.get("fuzzy_lookup") or _memex_ctx.get("title_lookup", [])
 
     def repl(match: re.Match[str]) -> str:
         display = match.group(1).strip()
@@ -504,6 +710,84 @@ def collect_memex_sources() -> list[tuple[frontmatter.Post, pathlib.Path, pathli
             post["path"] = subdir
             collected.append((post, subdir, source))
     return collected
+
+
+def label_mentioned_in_body(label: str, body: str) -> bool:
+    if len(normalize_wikilink_key(label)) < 4:
+        return False
+    body_lower = body.lower()
+    body_compact = re.sub(r"\s+", "", body_lower)
+    for variant in wikilink_key_variants(label):
+        if CJK_RE.search(variant):
+            if variant in body_compact or variant in normalize_wikilink_key(body):
+                return True
+            continue
+        pattern = r"(?<!\w)" + re.escape(variant) + r"(?!\w)"
+        if re.search(pattern, body_lower):
+            return True
+    return False
+
+
+def build_unlinked_mentions(
+    sources: Sequence[tuple[frontmatter.Post, pathlib.Path, pathlib.Path]],
+    fuzzy_lookup: list[tuple[str, dict[str, str]]],
+    outgoing_urls: dict[str, set[str]],
+    plain_bodies: dict[str, str],
+) -> dict[str, list[dict[str, str]]]:
+    labels_by_url: dict[str, tuple[str, dict[str, str]]] = {}
+    for label, entry in fuzzy_lookup:
+        if len(normalize_wikilink_key(label)) < 4:
+            continue
+        target_url = normalize_memex_url(entry["url"])
+        current = labels_by_url.get(target_url)
+        if current is None or len(label) < len(current[0]):
+            labels_by_url[target_url] = (label, entry)
+
+    mention_index: list[tuple[str, dict[str, str], str, list[str]]] = []
+    for target_url, (label, entry) in labels_by_url.items():
+        variants = wikilink_key_variants(label)
+        mention_index.append((target_url, entry, label, variants))
+    mention_index.sort(key=lambda item: -len(item[2]))
+
+    unlinked: dict[str, list[dict[str, str]]] = defaultdict(list)
+
+    for post, subdir, _source in sources:
+        if is_memex_manifesto(post, subdir) or is_memex_hub_dir(subdir):
+            continue
+        source_url = normalize_memex_url(get_post_url(post, subdir))
+        body = plain_bodies.get(source_url, "")
+        if not body:
+            continue
+        body_lower = body.lower()
+        body_compact = re.sub(r"\s+", "", body_lower)
+        body_norm = normalize_wikilink_key(body)
+        linked_urls = outgoing_urls.get(source_url, set())
+        seen_targets: set[str] = set()
+
+        for target_url, entry, label, variants in mention_index:
+            if target_url == source_url or target_url in linked_urls:
+                continue
+            if target_url in seen_targets:
+                continue
+            if not any(
+                variant in body_compact or variant in body_norm or variant in body_lower
+                for variant in variants
+            ):
+                continue
+            if not label_mentioned_in_body(label, body):
+                continue
+            seen_targets.add(target_url)
+            unlinked[source_url].append(
+                {
+                    "title": entry["title"],
+                    "url": entry["url"],
+                    "label": label,
+                }
+            )
+
+    for url in unlinked:
+        unlinked[url] = sorted(unlinked[url], key=lambda item: item["title"].lower())
+    return dict(unlinked)
 
 
 def build_memex_context() -> dict[str, Any]:
@@ -562,7 +846,7 @@ def build_memex_context() -> dict[str, Any]:
         )
 
     url_registry = build_url_registry(registry)
-    title_lookup = build_title_lookup(registry)
+    fuzzy_lookup = build_fuzzy_lookup(sources)
     topic_pages: dict[str, list[dict[str, str]]] = defaultdict(list)
     page_topics: dict[str, list[str]] = {}
 
@@ -597,6 +881,8 @@ def build_memex_context() -> dict[str, Any]:
     hubs.sort(key=lambda item: item["title"].lower())
 
     seen_backlinks: set[tuple[str, str]] = set()
+    outgoing_urls: dict[str, set[str]] = defaultdict(set)
+    plain_bodies: dict[str, str] = {}
     for post, subdir, _source in sources:
         body = post.content or ""
         line_count += body.count("\n") + (1 if body else 0)
@@ -607,7 +893,7 @@ def build_memex_context() -> dict[str, Any]:
             if HASHTAG_TAG_LINE.match(line.strip())
             for match in HASHTAG_TOKEN.finditer(line.strip())
             if resolve_wikilink(
-                match.group(0)[1:], registry, title_lookup=title_lookup
+                match.group(0)[1:], registry, fuzzy_lookup=fuzzy_lookup
             )
         )
         hashtag_link_count += file_hashtag_links
@@ -617,7 +903,7 @@ def build_memex_context() -> dict[str, Any]:
                 for match in MARKDOWN_LINK_PATTERN.finditer(body)
                 if url_registry.get(normalize_memex_url(match.group(2)))
                 or resolve_wikilink(
-                    match.group(1).strip(), registry, title_lookup=title_lookup
+                    match.group(1).strip(), registry, fuzzy_lookup=fuzzy_lookup
                 )
             ]
         ) + file_hashtag_links
@@ -630,6 +916,8 @@ def build_memex_context() -> dict[str, Any]:
             else get_post_url(post, subdir)
         )
         source_url_norm = normalize_memex_url(source_url)
+        if not is_memex_manifesto(post, subdir) and not is_memex_hub_dir(subdir):
+            plain_bodies[source_url_norm] = strip_markdown(body)
         for entry in iter_resolved_links(
             body,
             registry,
@@ -637,11 +925,12 @@ def build_memex_context() -> dict[str, Any]:
             post=post,
             path=subdir,
             section_hubs=section_hubs,
-            title_lookup=title_lookup,
+            title_lookup=fuzzy_lookup,
         ):
             target_url = normalize_memex_url(entry["url"])
             if target_url == source_url_norm:
                 continue
+            outgoing_urls[source_url_norm].add(target_url)
             key = (target_url, source_url_norm)
             if key in seen_backlinks:
                 continue
@@ -682,6 +971,16 @@ def build_memex_context() -> dict[str, Any]:
             key=lambda item: (-item["backlink_count"], item["title"].lower()),
         )
 
+    backlink_counts = {
+        normalize_memex_url(url): len(items) for url, items in backlinks.items()
+    }
+    unlinked_mentions = build_unlinked_mentions(
+        sources,
+        fuzzy_lookup,
+        outgoing_urls,
+        plain_bodies,
+    )
+
     stats = {
         "date": "2026-06-14",
         "files": file_count,
@@ -697,7 +996,10 @@ def build_memex_context() -> dict[str, Any]:
     return {
         "registry": registry,
         "url_registry": url_registry,
-        "title_lookup": title_lookup,
+        "fuzzy_lookup": fuzzy_lookup,
+        "title_lookup": fuzzy_lookup,
+        "backlink_counts": backlink_counts,
+        "unlinked_mentions": unlinked_mentions,
         "topic_pages": dict(topic_pages),
         "page_topics": page_topics,
         "backlinks": dict(backlinks),
@@ -722,11 +1024,21 @@ def get_backlinks_for_post(
     return _memex_ctx.get("backlinks", {}).get(normalize_memex_url(url), [])
 
 
+def get_unlinked_mentions_for_post(
+    post: frontmatter.Post, path: pathlib.Path | None = None
+) -> list[dict[str, str]]:
+    path = path or post.get("path") or pathlib.Path(".")
+    if is_memex_manifesto(post, path) or is_memex_hub_dir(path):
+        return []
+    url = normalize_memex_url(get_post_url(post, path))
+    return _memex_ctx.get("unlinked_mentions", {}).get(url, [])
+
+
 def get_outgoing_links(post: frontmatter.Post) -> list[dict[str, str]]:
     registry = _memex_ctx.get("registry", {})
     url_registry = _memex_ctx.get("url_registry", {})
     section_hubs = _memex_ctx.get("section_hubs", {})
-    title_lookup = _memex_ctx.get("title_lookup", [])
+    title_lookup = _memex_ctx.get("fuzzy_lookup") or _memex_ctx.get("title_lookup", [])
     path = post.get("path") or pathlib.Path(".")
     source_url = normalize_memex_url(
         get_hub_url(post)
@@ -953,6 +1265,7 @@ def write_post(post: frontmatter.Post, content: str, path: pathlib.Path):
             see_also_pages=get_see_also_pages(post, path),
             section_referenced=get_section_referenced_for_post(post),
             sibling_hubs=get_sibling_hubs(post) if is_hub else [],
+            unlinked_mentions=get_unlinked_mentions_for_post(post, path),
         )
     else:
         template = jinja_env.get_template("post.html")
@@ -966,7 +1279,9 @@ def write_pygments_style_sheet():
     pathlib.Path("./docs/static/pygments.css").write_text(css)
 
 
-def write_posts(path: pathlib.Path) -> Sequence[frontmatter.Post]:
+def write_posts(
+    path: pathlib.Path, *, memex_enabled: bool = False
+) -> Sequence[frontmatter.Post]:
     posts = []
     sources = get_sources(path)
 
@@ -976,7 +1291,7 @@ def write_posts(path: pathlib.Path) -> Sequence[frontmatter.Post]:
         post["path"] = path
 
         body = post.content or ""
-        if should_preprocess_wikilinks(post, path):
+        if memex_enabled and should_preprocess_wikilinks(post, path):
             body = preprocess_memex_links(body)
         content = render_markdown(body)
 
@@ -984,6 +1299,23 @@ def write_posts(path: pathlib.Path) -> Sequence[frontmatter.Post]:
         posts.append(post)
 
     return posts
+
+
+def rewrite_memex_pages(root: str) -> int:
+    count = 0
+    for subdir in list_subdirs(root):
+        if is_memex_excluded_path(subdir):
+            continue
+        for source in get_sources(subdir):
+            post = parse_source(source)
+            post["path"] = subdir
+            body = post.content or ""
+            if should_preprocess_wikilinks(post, subdir):
+                body = preprocess_memex_links(body)
+            content = render_markdown(body)
+            write_post(post, content, subdir)
+            count += 1
+    return count
 
 
 def write_index(posts: Sequence[frontmatter.Post], path: pathlib.Path):
@@ -1074,10 +1406,10 @@ def write_memex_index() -> None:
     output.write_text(rendered)
 
 
-def write_docs(root: str):
+def write_docs(root: str, *, memex_enabled: bool = False):
     subdirs = list_subdirs(root)
     for subdir in subdirs:
-        posts = write_posts(subdir)
+        posts = write_posts(subdir, memex_enabled=memex_enabled)
         write_index(posts, subdir)
 
 
@@ -1115,23 +1447,6 @@ def get_excerpt(post: frontmatter.Post) -> str:
     if post.get("abstract"):
         return strip_markdown(str(post["abstract"]))[:200]
     return strip_markdown(post.content)[:200]
-
-
-_opencc_s2t = None
-_opencc_t2s = None
-
-
-def expand_for_search(text: str) -> str:
-    if not text or not CJK_RE.search(text):
-        return text
-    global _opencc_s2t, _opencc_t2s
-    if _opencc_s2t is None:
-        from opencc import OpenCC
-
-        _opencc_s2t = OpenCC("s2t")
-        _opencc_t2s = OpenCC("t2s")
-    variants = [text, _opencc_s2t.convert(text), _opencc_t2s.convert(text)]
-    return "\n".join(dict.fromkeys(variants))
 
 
 def collect_search_posts() -> list[dict[str, Any]]:
@@ -1206,17 +1521,55 @@ def write_search_page() -> None:
 SRCS = "./_posts/"
 
 
-def main():
+def main(argv: Sequence[str] | None = None) -> None:
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Build myblog static site.")
+    parser.add_argument(
+        "--memex",
+        action="store_true",
+        help="Build wiki links, backlinks, memex index, and search index (slow).",
+    )
+    parser.add_argument(
+        "--memex-only",
+        action="store_true",
+        help="Rebuild memex/wiki pages and indexes only; skip other HTML.",
+    )
+    args = parser.parse_args(list(argv) if argv is not None else None)
+
     global _memex_ctx
     try:
-        _memex_ctx = build_memex_context()
-        write_docs(SRCS)
-        write_memex_index()
-        search_posts = collect_search_posts()
-        write_search_index(search_posts)
-        write_search_page()
-        print(f"memex: { _memex_ctx['stats']['pages']} pages, {_memex_ctx['stats']['hubs']} hubs")
-        print(f"search: indexed {len(search_posts)} posts")
+        if args.memex or args.memex_only:
+            print("memex: building link graph...")
+            _memex_ctx = build_memex_context()
+
+        if args.memex_only:
+            count = rewrite_memex_pages(SRCS)
+            write_memex_index()
+            search_posts = collect_search_posts()
+            write_search_index(search_posts)
+            write_search_page()
+            stats = _memex_ctx.get("stats", {})
+            print(
+                f"memex-only: refreshed {count} pages, "
+                f"{stats.get('pages', 0)} pages, {stats.get('hubs', 0)} hubs"
+            )
+            print(f"search: indexed {len(search_posts)} posts")
+            return
+
+        write_docs(SRCS, memex_enabled=args.memex)
+        if args.memex:
+            write_memex_index()
+            search_posts = collect_search_posts()
+            write_search_index(search_posts)
+            write_search_page()
+            stats = _memex_ctx.get("stats", {})
+            print(
+                f"memex: {stats.get('pages', 0)} pages, {stats.get('hubs', 0)} hubs"
+            )
+            print(f"search: indexed {len(search_posts)} posts")
+        else:
+            print("memex: skipped (use --memex for wiki/backlinks, or --memex-only)")
     except OSError as e:
         print("Erros: %s - %s." % (e.filename, e.strerror))
 

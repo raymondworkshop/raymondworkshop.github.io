@@ -22,8 +22,14 @@ other; every link creates a backlink on the target. Start at `_posts/memex.md`
 Rebuild after link changes:
 
 ```bash
-python3 blog.py
-# or: make run
+python3 blog.py --memex-only   # wiki/backlinks only (~2 min)
+python3 blog.py --memex        # full site + wiki
+python3 blog.py                # fast HTML only (no wikilink resolve)
+
+# Makefile shortcuts:
+make run           # fast HTML
+make run-memex     # full build
+make memex-build   # wiki/backlinks only
 ```
 
 ## Memex CLI (`memex.py`)
@@ -44,6 +50,7 @@ python3 memex.py search philosophy
 # via Makefile:
 make memex CMD="stats"
 make memex CMD="missing"
+make memex CMD='mentions "About Beauty"'
 ```
 
 ## Linking syntax
@@ -114,10 +121,34 @@ Backlinks are deduplicated per source→target pair.
 - leading `!` stripped (`!Improving your judgment skills`)
 - frontmatter `aliases` / `aka`
 
-Fuzzy match (only when **unique**):
+**Exact match** tries normalized keys (lowercase, collapsed whitespace, stripped
+quotes) plus OpenCC simplified/traditional variants for CJK text.
 
-- substring in title (`Hamlet` → `Notes on 'Hamlet'`)
-- title prefix match
+**Fuzzy match** searches titles, aliases, and stems with scored disambiguation:
+
+| Signal | Effect |
+|--------|--------|
+| Normalized exact equality | highest score |
+| Prefix match | strong |
+| Whole-word match | strong |
+| Substring match | moderate |
+| Shorter label / more backlinks | tie-break |
+
+A fuzzy hit resolves only when the top score beats the runner-up by a clear
+margin (default 15 points). Targets ≤ 2 characters require exact or prefix
+match only. If still unresolved, `difflib` typo matching may suggest one close
+label (cutoff 0.88).
+
+Debug resolution:
+
+```bash
+python3 memex.py resolve "Hamlet"      # shows candidates when ambiguous
+python3 memex.py missing             # includes "did you mean" hints
+```
+
+**Unlinked mentions** — prose in a note that names another page title/alias but
+has no `[[wikilink]]` yet. Shown in the “Mentioned but not linked” panel and via
+`memex.py mentions`. These do **not** create backlinks until you add a wikilink.
 
 ## Wiki UI panels
 
@@ -127,6 +158,7 @@ Every memex page (`templates/memex.html`) can show:
 |-------|---------|
 | **Links to** | outgoing wikilinks, tags, section hub, `related` |
 | **Linked from (N)** | backlinks from other pages |
+| **Mentioned but not linked** | other pages named in prose without `[[wikilink]]` |
 | **Related in {Area}** | same-section pages you link to / that link to you |
 | **See also** | other pages sharing `tags` / `categories` / `topics` |
 | **Referenced across memex** | (hubs) pages in this area with inbound links |
@@ -176,7 +208,9 @@ When editing or importing notes:
 
 | File | Role |
 |------|------|
-| `blog.py` | registry, resolve, backlinks, related/see-also |
+| `blog.py` | registry, resolve, backlinks, related/see-also, unlinked mentions |
+| `memex.py` | CLI: resolve, missing, mentions, stats |
+| `test_memex_resolve.py` | resolver unit tests |
 | `templates/memex.html` | per-page wiki panels |
 | `templates/memex_manifesto.html` | memex home |
 | `templates/memex_index.html` | full index sorted by backlinks |
@@ -191,7 +225,7 @@ skip wikilink preprocessing and memex templates.
 
 ## Agent checklist
 
-When asked to make memex “more wiki” or “more backlink”:
+When asked to make memex “wiki” or “backlink”:
 
 1. Read target posts and hub maps under `_posts/memex/`.
 2. Add `[[wikilinks]]`, `tags`, `related`, or `aliases` — not just prose mentions.

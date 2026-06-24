@@ -1,13 +1,15 @@
 #automate tasks in general
-.PHONY: help init run memex serve push
+.PHONY: help init run run-memex memex-build memex serve push
 
 help:
 	@echo "myblog Makefile"
 	@echo ""
 	@echo "  make init              Install Python dependencies"
-	@echo "  make run               Build site (_posts -> docs/)"
+	@echo "  make run               Fast build: HTML only, no wiki/backlinks"
+	@echo "  make run-memex         Full build: HTML + wiki links + backlinks + search"
+	@echo "  make memex-build       Wiki only: refresh memex pages and indexes (skip other HTML)"
 	@echo "  make memex CMD=stats   Run memex CLI (stats, missing, top, ...)"
-	@echo "  make site             Start local preview server"
+	@echo "  make site              Start local preview server"
 	@echo "  make push              Commit and push to git"
 
 init:
@@ -15,6 +17,12 @@ init:
 
 run:
 	python3 blog.py
+
+run-memex:
+	python3 blog.py --memex
+
+memex-build:
+	python3 blog.py --memex-only
 
 memex:
 	python3 memex.py $(CMD)

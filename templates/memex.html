@@ -58,6 +58,18 @@
     </section>
     {% endif %}
 
+    {% if unlinked_mentions %}
+    <section class="wiki-panel wiki-unlinked">
+        <h2>Mentioned but not linked ({{ unlinked_mentions|length }})</h2>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            {% for link in unlinked_mentions %}
+            <li><a href="{{ link.url }}" class="wikilink">{{ link.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
     {% if related_pages and section_hub %}
     <section class="wiki-panel wiki-related">
         <h2>Related in {{ section_hub.title }}</h2>
