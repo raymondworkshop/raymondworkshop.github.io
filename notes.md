@@ -24,11 +24,26 @@
     - search docs by word, name, date 
     - grep -riln "上司" _posts/  
 
+#### 2026-06-24  
+* code layout: 
+blog.py                    # entry point + re-exports (160 lines)
+blog_build/
+  config.py                # constants, regex patterns
+  posts.py                 # parse markdown, URLs, stems
+  search.py                # OpenCC search variants
+  writer.py                # HTML templates, search index
+  fast.py                  # incremental --fast build
+  cli.py                   # argparse main()
+  memex/
+    resolve.py             # wikilink registry + fuzzy match
+    links.py               # [[wikilink]] preprocess, iter_resolved_links
+    graph.py               # build_memex_context (link graph)
+    queries.py             # backlinks, related, see-also getters
+    state.py               # shared _memex_ctx
 
 #### 2026-06-14  
-* add memex/ and make memex more wiki and backlink  
-* export apple notes into _post/origin-apple-notes/ daily  
-    - 
+* add memex/ and make memex wiki and backlink  
+* export apple notes into _post/new-apple-notes/ daily  
 
 #### 2022-06-20  
 * update into 'vs' code style  

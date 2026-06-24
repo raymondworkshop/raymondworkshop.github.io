@@ -11,8 +11,8 @@ import blog
 
 
 def load_context() -> dict[str, Any]:
-    blog._memex_ctx = blog.build_memex_context()
-    return blog._memex_ctx
+    ctx = blog.build_memex_context()
+    return ctx
 
 
 def find_pages(query: str) -> list[tuple[Any, Any, Any]]:

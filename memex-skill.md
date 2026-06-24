@@ -24,11 +24,13 @@ Rebuild after link changes:
 ```bash
 python3 blog.py --memex-only   # wiki/backlinks only (~2 min)
 python3 blog.py --memex        # full site + wiki
-python3 blog.py                # fast HTML only (no wikilink resolve)
+python3 blog.py --fast       # incremental wiki/backlinks/search (default)
+python3 blog.py --memex      # full site + wiki
+python3 blog.py --memex-only # wiki/backlinks only (~2 min)
 
 # Makefile shortcuts:
-make run           # fast HTML
-make run-memex     # full build
+make run           # fast incremental with wiki/backlinks/search
+make run-memex     # full rebuild
 make memex-build   # wiki/backlinks only
 ```
 
@@ -208,7 +210,14 @@ When editing or importing notes:
 
 | File | Role |
 |------|------|
-| `blog.py` | registry, resolve, backlinks, related/see-also, unlinked mentions |
+| `blog.py` | Thin entry point + backward-compatible re-exports |
+| `blog_build/posts.py` | Parse markdown, URLs, stems |
+| `blog_build/memex/resolve.py` | Wikilink registry and fuzzy resolver |
+| `blog_build/memex/links.py` | Link iteration and `[[wikilink]]` preprocessing |
+| `blog_build/memex/graph.py` | Build link graph, backlinks, unlinked mentions |
+| `blog_build/memex/queries.py` | Related pages, see-also, hub summaries |
+| `blog_build/writer.py` | HTML output and search index |
+| `blog_build/fast.py` | Incremental `--fast` build |
 | `memex.py` | CLI: resolve, missing, mentions, stats |
 | `test_memex_resolve.py` | resolver unit tests |
 | `templates/memex.html` | per-page wiki panels |
