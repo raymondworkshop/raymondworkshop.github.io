@@ -27,7 +27,5 @@ abstract: "notes on Managing yourself and your career"
         where **I can build companies** that **change the way the world works**    
 
 
-
-
 #### reference
 * [HBR's 10 must reads on managing yourself and your career]

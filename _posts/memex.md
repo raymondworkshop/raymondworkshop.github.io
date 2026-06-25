@@ -11,5 +11,5 @@ Outside of [[reading]] and [[Tech]], I like [[Philosophy]], design, nature, and 
 
 ### Start anywhere  
 
-[[bookshelf]] · [[meaning]] · [[自由人]] · [[History of the World]] · [[programing languages]] · [[Beauty]] · [[Stoicism]] · [[statistics]] · [[Hamlet]]  
+[[bookshelf]] · [[meaning]] · [[自由人]] · [[History of the World]] · [[programing languages]] · [[Beauty]] · [[Stoicism]] · [[完整的自己]] · [[Hamlet]] · [[Math is the Basis of Science]] 
 

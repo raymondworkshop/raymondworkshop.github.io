@@ -4,7 +4,7 @@ title: "Understanding your emotions"
 date: 2025-02-09
 original: 2022-03-11
 comments: true
-categories: [home, important, self, softskills, learning]
+categories: [important, self, softskills, learning]
 abstract: "Understanding your emotions; And you can Control your life  ."
 ---
 
