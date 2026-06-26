@@ -29,5 +29,5 @@ memex:
 
 push:
 	git add .
-	git diff --cached --quiet || git commit -m "update"
+	git commit -m "update" .
 	git push

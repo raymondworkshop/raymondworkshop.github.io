@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Notes on '被討厭的勇氣'"
+title: "Notes on '幸福的勇氣'"
 date: 2020-05-19
 comments: true
 categories: [home, notes, softskill, important, self]
 abstract: "总结自 Alfred Adler /ɑl.frɛt aːdlɐ/ 的《幸福的勇氣》"
 ---
 
-> 总结自 Alfred Adler /ɑl.frɛt aːdlɐ/ 的 《被討厭的勇氣》和《幸福的勇氣》
+> 总结自 Alfred Adler /ɑl.frɛt aːdlɐ/ 的 《幸福的勇氣》和 《被討厭的勇氣》
 
 ### Independent and Capabale
 
