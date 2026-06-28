@@ -7,7 +7,6 @@ categories: [home, learning, self, important]
 abstract: "Notes on Stoic Philosophy"
 ---
 
-
 ### Stoicism  
 Stoicism is an ancient Greek and Roman philosophy, founded by Zeno of Citium around 300 BCE, helping us better deal with life’s inevitable ups and downs so that we can have a happier and more peaceful life.  
 
