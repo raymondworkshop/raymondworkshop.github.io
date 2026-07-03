@@ -22,11 +22,9 @@ other; every link creates a backlink on the target. Start at `_posts/memex.md`
 Rebuild after link changes:
 
 ```bash
-python3 blog.py --memex-only   # wiki/backlinks only (~2 min)
+python3 blog.py --fast         # incremental wiki/backlinks/search (default)
 python3 blog.py --memex        # full site + wiki
-python3 blog.py --fast       # incremental wiki/backlinks/search (default)
-python3 blog.py --memex      # full site + wiki
-python3 blog.py --memex-only # wiki/backlinks only (~2 min)
+python3 blog.py --memex-only   # wiki/backlinks only (~2 min)
 
 # Makefile shortcuts:
 make run           # fast incremental with wiki/backlinks/search

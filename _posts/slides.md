@@ -54,7 +54,7 @@ date: 2012-03-13
 
 #### 2017-05 Text simplification
 - The system can simplify English text with syntactic and lexical complexity while keeping the original meaning intact
-    - Our paper "[A Customizable Editor for Text Simplification](https://drive.google.com/file/d/0B8JbPdkDj7JZblBqcWVhVWdFTUE/view)" on this has been accepted for publication at COLING 2016 on Computational Linguistics, Osaka,Japan.
+    - Our paper "[A Customizable Editor for Text Simplification](https://drive.google.com/file/d/0B8JbPdkDj7JZblBqcWVhVWdFTUE/view)" on this has been accepted for publication at COLING 2016 on Computational Linguistics, Osaka, Japan.
 
 #### 2015-11 Privacy-preserving Similar Search
 
