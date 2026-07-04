@@ -15,8 +15,8 @@ abstract: "[Updating] !Notes on your Assets, and lessons on it"
 
 
 * Pension in Stocks    
-    - Put >20K on pension each 6 months 
-    - [My-Stocks](https://docs.google.com/spreadsheets/d/13oVXolE1bBj1zLOu-F57pCDwCVjfDUATLxat02qbxTg/edit#gid=1379632901)  
+    - Put on pension each 6 months 
+    - [My-Stocks]  
     
 
 ##### Stratery on Stock investment  

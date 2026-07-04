@@ -8,16 +8,14 @@ abstract: "notes on Insurance"
 ---
 
 #### Insurance  
-* Investment  
-    - ~500/M @ HSBC Global Equity Index Fund
+*  保柏非凡自願醫保計劃  
 
-* (Health) Insurance  
-    - parents   
-        + ~500/Y  
-    - me @50  
+*  Bowtie早期及多重危疾保  
 
+*  Bowtie定期人壽保險-爸媽-姐  
 
 #### experiences  
+
 * Upset  
     -  工作氛围  
         +  工作场合 本来就是 利益场  
@@ -34,7 +32,6 @@ abstract: "notes on Insurance"
         + 熟人社会长大  
         + 容易 轻信别人的言语 - 肢体语言和vibe 更可信
       
-
 
 ##### Insurance   
 *  **健康保险, 医疗保险, 寿险**    
