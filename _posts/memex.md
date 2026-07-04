@@ -6,7 +6,7 @@ layout: memex-index
 
 Think of this memex as a living, changing maze with no start or end — just raw, messy ideas.
 
-Outside of [[reading]] and [[Tech]], I like [[Philosophy]], design, nature, and film.  And somethings like edu, dogs/horses/birds,  coaching, art, color, [[Research]], photo,  TED, ... 
+Outside of [[reading]] and [[Tech]], I like [[Philosophy]], design, nature, and film.  And somethings like  edu, finance, dogs/horses/birds,  coaching, art, color, [[Research]], photo,  TED, ... 
 
 
 ### Start anywhere  
