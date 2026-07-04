@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Record the flow"
+title: "Record my cash flow"
 date: 2021-03-13
 categories: [learning, invest]
 abstract: "Record My Cash flow, and lessones on it"

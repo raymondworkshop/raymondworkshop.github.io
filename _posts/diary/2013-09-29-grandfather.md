@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "七爷"
-date: 2007-09-29
+date: 2013-09-29
 comments: true
 categories: [diary]
 abstract: '纪念我的七爷'
