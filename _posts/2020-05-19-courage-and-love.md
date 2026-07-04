@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Notes on '幸福的勇氣'"
-date: 2024-05-19
-update: 2020-05-19
+date: 2020-05-19
 comments: true
 categories: [home, notes, softskill, important, self]
 abstract: "总结自 Alfred Adler /ɑl.frɛt aːdlɐ/ 的《幸福的勇氣》"
