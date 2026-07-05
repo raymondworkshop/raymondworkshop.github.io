@@ -8,7 +8,7 @@ Book notes, excerpts, and half-formed thoughts on things I've read. Incomplete �
 This area overlaps with [[Learning]] (skills drawn from books) and [[Philosophy]] (ideas that stuck). Sometimes a note becomes a [[Course]] summary.
 
 ### Worth reading first
-[[Notes on Philosophy]] · [[Notes on web3]] · [[甲骨文]] · [[notes on 'the rule of life']]
+[[Notes on Philosophy]] · [[Notes on '成為自由人']] · [[Notes on web3]] · [[甲骨文]] · [[notes on 'the rule of life']]
 
 ### People & history
 [[Notes on 萧若元]] · [[Notes on 肥仔黎]] · [[Notes on History]] · [[Jean-Christophe(約翰·克利斯朵夫)]]

@@ -14,7 +14,7 @@ Connects to [[Philosophy]] (why), [[Softskills]] (how you show up), [[Business]]
 [[Build my professional career]] · [[Managing up and across]] · [[!On Leadership, and Teamwork]] · [[!!How to be a good manager: up and dowm]]
 
 ### Self & life
-[[!Notes on the GOOD life]] · [[!Notes on 'loving']] · [[The log of your life]] · [[About Coaching]]
+[[!Notes on the GOOD life]] · [[!Notes on 'loving']] · [[Notes on '成為自由人']] · [[The log of your life]] · [[About Coaching]]
 
 ### Related areas
 [[Notes]] · [[Philosophy]] · [[Softskills]] · [[Business]] · [[Course]]
