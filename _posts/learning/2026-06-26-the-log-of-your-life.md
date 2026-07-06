@@ -9,21 +9,126 @@ abstract: "personal reflection journal"
 > taking the time to think through your goals, strengths, past feedback and insights from
 > self-assessments should allow you to identify several areas of focus for growth  
 
+#### 2026-07-06  
+* TODO  
+    - **增重 + 健身 （上身） + 美容**      
+        + **Style** > 內涵  
+        + **人大都很膚淺的**  
+
+        - 在家里老想躺着， 不想动  ？  
+
+        - 背肌：- 哑铃俯身划船  
+
+        - 胸部：哑铃卧推  
+
+        - 三角肌：哑铃单边阿诺肩推  
+
+        - 三头肌：哑铃三头肌伸展   
+
+    - 簡歷 + 工作  
+        -  联系 Graham Daley 工作或合作機會  
+        
+    - **永遠不要為了別人， 而掩蓋了你的光芒**
+        - Never dull your shine for somebody else. 
+
+
+
+    - 體察對方情緒  
+        - 能夠**在對方心情不好時給予陪伴**，**心情好時一同慶祝**； 不要急著解決對方的問題  
+
+    - **體察情緒** + **鏡像反饋 與 情感接納**    
+        - **觀察她的感受** - 從“關注事實” 切換到 “關注感受”  
+            - **體察她的情緒**  意味著 “放下你預設的劇本，**去讀取她當下的震動**”  
+            - 練習： 在對話中， 心裡掃描“**這句話包含什麼情緒**？” 
+                + 疲憊，焦慮，興奮，失望，被誤解，被忽略，有壓力，興奮， 無奈  
+            - **對方現在感到** ...  
+
+        - 實施 - **鏡像反饋**  
+            - **確認對方的感覺** + **用你的話復述出來**  
+            - **我感覺到了** “情緒標籤” + **因為** “對方提到的原因”  
+                + “看來這件事讓你覺得“情緒”， 換作是我可能也會這樣”  
+                + “我感覺到**你現在對這件事情有些**“情緒”， 是這樣嗎？”  
+
+        - 進階 - 通過 “鏡像反饋” 建立深度連接  
+            - 嘗試在反饋中**加入一點自己的“情緒共鳴”**， 而不只是復述  
+            - **暫停**： 在回應前， 停頓1-2秒，展現你真的在思考  
+            - **承認對方的邏輯** validation:
+                + "**我完全理解為什麼你會這麼想**..."  
+                + "確實讓人很心煩"  
+            - 不給建議，直到被要求  
+                + 只有當對方說“我該怎麼辦？”時，才開始你的技術或策略輸出  
+
+
+    - 通amos 谈投资/借钱  ?  
+        -  值得扶持的後進創業者 -> 商業導師   
+        - 真誠 + 專業  
+           - 赞美与归因：  先认可他的智慧， 告诉他你是受了他的启发  
+           -  寻求背书而非资金：   第一次交流，重点在于“寻求指点”， 而非“借钱”。
+       他最看重 商业逻辑和风险防控  
+           - “我最近在推进我的AI startup. 我发现自己现在的技术架构在落地过程中遇到了一个瓶颈，特别希望能听听您的意见。您是前辈，看问题比我准，您觉得我现在切入的这个细分市场，在资本逻辑上有没有什么硬伤？”  
+        
+        - 從”社交” 轉向 “事業”  -> 真誠 + 專業  
+        - 有追求且“情感克制” （不糾纏）  
+
+    - 期权  
+
+
+* SELF  
+    - 只要**我足夠撐我自己**， **就會為人所稱道**，**便之後就會欣賞你**  
+        + **足夠的能力** 同 **self-believe**  
+        + 理得你怎麼看  
+        + 最重要的是沒有實力的情況下都可以做到  
+            - 當你不care 你有無朋友， 不care 人地鍾意不鍾意你  
+
+    - Operating system for life  
+        + Direction over speed  
+        + **live deliberately**  
+             - **Life is happening now**  
+             - Living deliberately is about **awareness and purposeful action**. 
+             - set time aside today to pursue your dreams.
+             **Start today** to learn the things you'd like to know.
+             **Reach out today** to repair that strained relationship.  
+
+        + Do you **update your knowledge database** with the new facts?  
+
+        +  **Principles** outlive tactics  
+            - The coash, unlike the play-stealer, understands what the play was designed to accomplish and where it went wrong, and can easily course-correct.  
+            - If you want results no matter how the landscape changes, 
+            **you must also understand 'why'**.
+            **By understanding the principles that shape your reality**, **your 'why' will more accurately guide your thoughts and actions**.  
+            -  “Your time is limited, don’t waste it living someone else’s life. And most important, **have the courage to follow your heart and intuition, they somehow already know what you truly want to become**. Everything else is secondary.” - Steve jobs  
+
+        + Own Your Actions  
+            - not only accept that we’ll screw up, but to actively seek out correction when we do  
+            - Stephen Covey says that **proactive people “Do not blame circumstance, conditions, or conditioning for their behavior**.”   
+            - **When we take ownership of our decisions**, our lives are no longer left up to chance. We can grab the steering wheel and go anywhere we’d like
+
+
+
+* DONE  
+    - Kinki, ruiling  
+        + 可靠，有同理心的朋友  
+        + 優先回應情緒  
+
+    - M 询问介绍项目的事情   
+        +  NO  
+        + 对方想法经常发生变化  
+
 #### 2026-06-30  
 * TODO  
     - **增重 + 健身 （上身） + 美容**      
         + **Style** > 內涵  
         + **人大都很膚淺的**  
 
-    - 从你最不喜欢做的事情开始让AI 来做  
+    - 从你最不喜欢做的事情开始让AI 来做   
         + 尋找 痛苦的重複  
 
     - 問 Amos 投資的事宜  
 
-    - M 询问介绍项目的事情  
-        +  
-    - 联系 Graham Daley 工作或合作機會  
-        + 
+    - M 询问介绍项目的事情   
+        +  NO  
+
+    - 联系 Graham Daley 工作或合作機會   
 
     - 你要充满自信地清楚明白 **自己本来就是完整的**    
         + 当下即是完整  
@@ -33,7 +138,6 @@ abstract: "personal reflection journal"
 
     - 有所猶豫的時候，問自己"**這是出於恐懼還是愛**？"  
         + 如何知道是不是 "**愛永遠邀請你去活出你的真相**"  
-
 
 
 * SELF  
