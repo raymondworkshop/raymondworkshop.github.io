@@ -32,7 +32,6 @@ abstract: "personal reflection journal"
         - Never dull your shine for somebody else. 
 
 
-
     - 體察對方情緒  
         - 能夠**在對方心情不好時給予陪伴**，**心情好時一同慶祝**； 不要急著解決對方的問題  
 
@@ -79,6 +78,15 @@ abstract: "personal reflection journal"
         + 理得你怎麼看  
         + 最重要的是沒有實力的情況下都可以做到  
             - 當你不care 你有無朋友， 不care 人地鍾意不鍾意你  
+
+    - 很多事 我都会做到成功为止
+
+        + 身边一定要有 律师， 医生
+
+        + 要多旅行
+
+        + 多旅行多读书 就会有教养， 有趣
+
 
     - Operating system for life  
         + Direction over speed  
