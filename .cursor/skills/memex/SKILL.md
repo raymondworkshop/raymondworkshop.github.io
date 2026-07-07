@@ -232,7 +232,7 @@ sections skip wikilink preprocessing, memex templates, the link graph, search
 index, and memex A–Z index. Memex hub pages whose `section:` matches are excluded
 too. Plain HTML is still built under `docs/{section}/`.
 
-Current exclusions: `diary`, `new-apple-notes`, `origin-apple-notes`, `invest`, `self`.
+Current exclusions: `diary`, `learning`, `new-apple-notes`, `origin-apple-notes`, `invest`, `self`.
 
 ## Agent checklist
 
