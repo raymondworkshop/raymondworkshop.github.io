@@ -25,7 +25,7 @@ date: 2012-03-13
 
 #### 2023-04 Factoid Question Answering (QA)
 
-- Question Answering (QA) tasks return an answer given a question. The [slide](<(https://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)>) summarizes the recent progress on this topic .
+- Question Answering (QA) tasks return an answer given a question. The [slide](https://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)summarizes the recent progress on this topic .
 
 #### 2022-06 An introduction and the related experiments on Natural Legal Language Processing
 

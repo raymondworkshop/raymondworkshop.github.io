@@ -114,7 +114,7 @@ abstract: "personal reflection journal"
 
 
 * DONE  
-    - Kinki, ruiling  
+    - ruiling, Kinki,  亚妮  
         + 可靠，有同理心的朋友  
         + 優先回應情緒  
 
