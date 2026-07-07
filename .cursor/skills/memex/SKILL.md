@@ -227,8 +227,12 @@ When editing or importing notes:
 
 ## Excluded from memex
 
-`MEMEX_EXCLUDED_SECTIONS` in `blog.py` (currently empty). Paths listed there
-skip wikilink preprocessing and memex templates.
+`MEMEX_EXCLUDED_SECTIONS` in [`blog_build/config.py`](blog_build/config.py). These
+sections skip wikilink preprocessing, memex templates, the link graph, search
+index, and memex A–Z index. Memex hub pages whose `section:` matches are excluded
+too. Plain HTML is still built under `docs/{section}/`.
+
+Current exclusions: `diary`, `new-apple-notes`, `origin-apple-notes`, `invest`, `self`.
 
 ## Agent checklist
 

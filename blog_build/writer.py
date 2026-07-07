@@ -25,6 +25,7 @@ from blog_build.memex.queries import (
 )
 from blog_build.memex.resolve import normalize_memex_url
 from blog_build.posts import (
+    collect_excluded_sources,
     collect_memex_sources,
     get_excerpt,
     get_hub_url,
@@ -34,8 +35,10 @@ from blog_build.posts import (
     get_sources,
     get_static_link,
     get_topics,
+    is_memex_excluded_entry,
     is_memex_hub_dir,
     is_memex_manifesto,
+    is_memex_post_entry,
     is_memex_post_path,
     is_section_dir,
     list_subdirs,
@@ -89,7 +92,7 @@ def write_post(post: frontmatter.Post, content: str, path: pathlib.Path):
             top_referenced=get_top_referenced_pages(),
             backlinks=backlinks,
         )
-    elif is_memex_post_path(path):
+    elif is_memex_post_entry(post, path):
         template = jinja_env.get_template("memex.html")
         rendered = template.render(
             post=post,
@@ -139,6 +142,14 @@ def write_posts(
     return posts
 
 
+def render_plain_page(
+    post: frontmatter.Post, subdir: pathlib.Path, source: pathlib.Path
+) -> None:
+    post["path"] = subdir
+    content = render_markdown(post.content or "")
+    write_post(post, content, subdir)
+
+
 def rewrite_memex_pages(
     root: str, *, only: set[pathlib.Path] | None = None
 ) -> int:
@@ -153,9 +164,25 @@ def rewrite_memex_pages(
             if only is not None and source_key not in only:
                 continue
             post = parse_source(source)
+            if is_memex_excluded_entry(post, subdir):
+                continue
             print("src: ", str(source))
             render_memex_page(post, subdir, source)
             count += 1
+    return count
+
+
+def rewrite_plain_posts(
+    root: str, *, only: set[pathlib.Path] | None = None
+) -> int:
+    count = 0
+    for post, subdir, source in collect_excluded_sources():
+        source_key = source.resolve()
+        if only is not None and source_key not in only:
+            continue
+        print("src: ", str(source))
+        render_plain_page(post, subdir, source)
+        count += 1
     return count
 
 

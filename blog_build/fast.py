@@ -5,6 +5,7 @@ from blog_build.config import MEMEX_BUILD_STAMP, SRCS
 from blog_build.memex import state
 from blog_build.memex.graph import build_memex_context
 from blog_build.posts import (
+    collect_excluded_sources,
     collect_memex_sources,
     list_subdirs,
     page_url_for_entry,
@@ -13,6 +14,7 @@ from blog_build.posts import (
 from blog_build.writer import (
     collect_search_posts,
     rewrite_memex_pages,
+    rewrite_plain_posts,
     write_indexes_for_sections,
     write_memex_index,
     write_search_index,
@@ -62,12 +64,21 @@ def collect_pages_to_rewrite(ctx: dict[str, Any]) -> set[pathlib.Path]:
     return to_rewrite
 
 
+def collect_stale_excluded_sources() -> list[pathlib.Path]:
+    return [
+        source.resolve()
+        for post, subdir, source in collect_excluded_sources()
+        if source_is_stale(source, post, subdir)
+    ]
+
+
 def run_fast_build() -> None:
     if needs_full_memex_rebuild():
         print("memex: no search index yet, running full wiki build...")
         print("memex: building link graph...")
         state.set_ctx(build_memex_context())
         count = rewrite_memex_pages(SRCS)
+        plain_count = rewrite_plain_posts(SRCS)
         write_memex_index()
         search_posts = collect_search_posts()
         write_search_index(search_posts)
@@ -76,7 +87,8 @@ def run_fast_build() -> None:
         write_indexes_for_sections(set(list_subdirs(SRCS)))
         stats = state.get_ctx().get("stats", {})
         print(
-            f"fast: initial build refreshed {count} pages, "
+            f"fast: initial build refreshed {count} memex pages, "
+            f"{plain_count} plain pages, "
             f"{stats.get('pages', 0)} pages, {stats.get('hubs', 0)} hubs"
         )
         print(f"search: indexed {len(search_posts)} posts")
@@ -87,7 +99,8 @@ def run_fast_build() -> None:
         for post, subdir, source in collect_memex_sources()
         if source_is_stale(source, post, subdir)
     ]
-    if not stale_sources:
+    stale_excluded = collect_stale_excluded_sources()
+    if not stale_sources and not stale_excluded:
         print("fast: up to date (wiki, backlinks, search unchanged)")
         return
 
@@ -95,6 +108,12 @@ def run_fast_build() -> None:
     state.set_ctx(build_memex_context())
     pages_to_rewrite = collect_pages_to_rewrite(state.get_ctx())
     count = rewrite_memex_pages(SRCS, only=pages_to_rewrite)
+    plain_to_rewrite = set(stale_excluded)
+    plain_count = (
+        rewrite_plain_posts(SRCS, only=plain_to_rewrite)
+        if plain_to_rewrite
+        else 0
+    )
     write_memex_index()
     search_posts = collect_search_posts()
     write_search_index(search_posts)
@@ -105,12 +124,16 @@ def run_fast_build() -> None:
     for post, subdir, source in collect_memex_sources():
         if source.resolve() in pages_to_rewrite:
             affected_sections.add(subdir)
+    for post, subdir, source in collect_excluded_sources():
+        if source.resolve() in plain_to_rewrite:
+            affected_sections.add(subdir)
     if affected_sections:
         write_indexes_for_sections(affected_sections)
 
     stats = state.get_ctx().get("stats", {})
     print(
-        f"fast: refreshed {count} pages "
-        f"({len(stale_sources)} edited, {stats.get('pages', 0)} total pages)"
+        f"fast: refreshed {count} memex pages, {plain_count} plain pages "
+        f"({len(stale_sources)} memex edited, {len(stale_excluded)} plain edited, "
+        f"{stats.get('pages', 0)} total pages)"
     )
     print(f"search: indexed {len(search_posts)} posts")

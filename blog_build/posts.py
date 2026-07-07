@@ -78,8 +78,23 @@ def is_memex_excluded_path(path: pathlib.Path) -> bool:
     return section in MEMEX_EXCLUDED_SECTIONS
 
 
+def is_memex_excluded_hub(post: frontmatter.Post, path: pathlib.Path) -> bool:
+    return (
+        is_memex_hub_dir(path)
+        and str(post.get("section", "")).strip() in MEMEX_EXCLUDED_SECTIONS
+    )
+
+
+def is_memex_excluded_entry(post: frontmatter.Post, path: pathlib.Path) -> bool:
+    return is_memex_excluded_path(path) or is_memex_excluded_hub(post, path)
+
+
 def is_memex_post_path(path: pathlib.Path) -> bool:
     return not is_memex_excluded_path(path)
+
+
+def is_memex_post_entry(post: frontmatter.Post, path: pathlib.Path) -> bool:
+    return not is_memex_excluded_entry(post, path)
 
 
 def memex_section_key(path: pathlib.Path) -> str:
@@ -96,7 +111,7 @@ def is_memex_manifesto(post: frontmatter.Post, path: pathlib.Path) -> bool:
 
 
 def should_preprocess_wikilinks(post: frontmatter.Post, path: pathlib.Path) -> bool:
-    return is_memex_manifesto(post, path) or is_memex_post_path(path)
+    return not is_memex_excluded_entry(post, path)
 
 
 def is_section_dir(path: pathlib.Path) -> bool:
@@ -243,8 +258,28 @@ def collect_memex_sources() -> list[tuple[frontmatter.Post, pathlib.Path, pathli
             continue
         for source in get_sources(subdir):
             post = parse_source(source)
+            if is_memex_excluded_entry(post, subdir):
+                continue
             post["path"] = subdir
             collected.append((post, subdir, source))
+    return collected
+
+
+def collect_excluded_sources() -> list[tuple[frontmatter.Post, pathlib.Path, pathlib.Path]]:
+    collected: list[tuple[frontmatter.Post, pathlib.Path, pathlib.Path]] = []
+    for subdir in list_subdirs(SRCS):
+        if is_memex_excluded_path(subdir):
+            for source in get_sources(subdir):
+                post = parse_source(source)
+                post["path"] = subdir
+                collected.append((post, subdir, source))
+            continue
+        if is_memex_hub_dir(subdir):
+            for source in get_sources(subdir):
+                post = parse_source(source)
+                if is_memex_excluded_hub(post, subdir):
+                    post["path"] = subdir
+                    collected.append((post, subdir, source))
     return collected
 
 
