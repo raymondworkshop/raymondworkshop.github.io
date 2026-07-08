@@ -6,11 +6,8 @@ POSTS_PER_PAGE = 20
 
 MEMEX_EXCLUDED_SECTIONS: set[str] = {
     "diary",
-    "learning",
     "new-apple-notes",
     "origin-apple-notes",
-    "invest",
-    "business",
     "self",
     "twitter",
 }
