@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "总结自 '透视中国政治'"
+title: "总结自 '了解中国政治'"
 date: 2016-03-12
 comments: true
 categories: [writing, sociology, china, important]  
