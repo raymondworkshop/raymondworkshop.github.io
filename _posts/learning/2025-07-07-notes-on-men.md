@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "!The Illimitable Men"
+title: "Notes on Men"
 date: 2025-07-07
 comments: true
 tags: [notes, softskills, important]

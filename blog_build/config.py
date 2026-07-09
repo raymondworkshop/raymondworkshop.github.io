@@ -10,7 +10,8 @@ MEMEX_EXCLUDED_SECTIONS: set[str] = {
     "origin-apple-notes",
     "self",
     "invest",
-    "twitter",
+    "learning",
+    "twitter"
 }
 MEMEX_HUB_DIR = pathlib.Path("memex")
 
