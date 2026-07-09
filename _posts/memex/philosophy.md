@@ -9,7 +9,6 @@ Meaning, beauty, creativity, politics — the questions underneath the [[Notes]]
 [[About Beauty]] · [[Keep my creativity]] · [[Notes on Philosophy]] · [[Notes on '成為自由人']]
 
 ### Society
-[[透视中国政治]]
 
 ### Related areas
 [[Learning]] · [[Notes]] · [[Research]] · [[Softskills]]
