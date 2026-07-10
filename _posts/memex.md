@@ -4,11 +4,9 @@ date: 2026-07-06
 layout: memex-index
 ---
 
-Think of this memex as a living, changing maze with no start or end — just raw, messy ideas.
+Think of this memex as a living, changing maze with no start or end — just raw, messy ideas.  
 
-I use this as a personal wiki. Start from a hub, follow linked pages, then hop by backlinks.
-
-Outside of [[Bookshelf]] and [[Tech]], I spend time in [[Philosophy]], [[Business]], [[Learning]], and [[Research]].
+Outside of [[bookshelf]] and [[tech]], I also like  [[philosophy]], anthropology, nature, psychology, finance, film, [[research]],  color, dog/horse/bird, art,  TED, ...  
 
 
 ### Start anywhere  
