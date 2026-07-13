@@ -9,6 +9,337 @@ abstract: "personal reflection journal"
 > taking the time to think through your goals, strengths, past feedback and insights from
 > self-assessments should allow you to identify several areas of focus for growth  
 
+#### 2026-07-13  
+* TODO  
+    - **增重 + 健身 （上身） + 美容**      
+        + **Style** > 內涵  
+        + **人大都很膚淺的**  
+
+        - 背肌：- 哑铃俯身划船  
+
+        - 胸部：哑铃卧推  
+
+        - 前三角肌：哑铃单边阿诺肩推  
+
+        - 三头肌：哑铃三头肌伸展    
+
+        - 做運動後感覺舒服一些  
+
+
+    - 能量管理  
+        + 情感的深度 vs 禮貌的廣度  
+
+    - **keep on doing the things you fear**  
+
+    - **文檔化意圖**：  **記錄 “為什麼這樣”** 比 how 更重要  
+        + 行為 -> 意圖 ->  需要和感受 -> 看見  
+
+        + **開始關注行為背後的意願**， **關心自己意圖背後的需要和感受**，才真正看見自己和對方 
+
+        +  被看見的力量， 不僅在於它能夠激發愛的火花， 更在於它能夠帶來內心的平靜與和諧  
+
+    - 將觀點視為 一個 “**待驗證的假設**”  
+        - 尋找共同交集  
+        - 定義觀點的上下文： **在什麼 假設下， 會得出這個結論**？ 
+        - **判斷“實用價值”** 勝過 “真理價值”：哪一個在目前的生活中更有幫助？  
+
+    - ruby ？  
+
+    - AMOS ？  
+        - 把“長輩” 變成 “潛在導師”    
+            + 對方 渴望 “被喜歡認可” 和 “智识火花“   
+
+            + 真诚 + 专业
+                - 在amos面前展现的越 ”有追求（创业）“ 且 ”情感克制“ 不纠缠”  
+                - 重塑为 Amos 眼中的“值得扶持的后进创业者”  
+            
+            + 將 對話焦點 轉移到 “投資思維/商業模式” 上     
+
+               - 用“專業問題” 鎖定他注意力， 讓他看到你的專業價值  
+                    + 重点是谈论你对 AI 如何重塑行业的思考， 如果他问财务，就用我之前提供的“精益模式”脚本回答
+                    + 現在是想“高效率”， 把核心工作流程自動化 - 現在通過AI輔助流程，一個人就能跑得順。成本低，迭代速度快， 現在優先追求 “產品與市場的匹配度”。
+               
+               
+               -  不能表現得像個 “需要幫助的年輕人”，  而要表現得像個 “尋找合夥人的創始人”
+
+               -   建立 “專業信用背書”
+                    +    展示你對AI的 深刻洞察 （對行業效率的改變）
+
+               -   製造“合作而非求助”的 氛圍
+                    +    當對方認可了你的邏輯後，  
+                   你可以說 “amos, 我現在項目進入了一個階段， 未來肯跟需要找一些資源支持或顧問，如果你有興趣，我可以後續給你發一份精簡的Executive Summary”
+
+
+              -  準備 商業計劃書
+                   +  你解決了什麼痛苦？  為什麼是現在？  你的邏輯優勢是什麼？
+
+            + 尋求 背書   
+                -  第一次交流，重点在于“寻求指点”， 而非“借钱”  
+                - 他最看重 商业逻辑和风险防控  
+
+    - 簡歷 + 工作  
+        -  联系 Graham Daley 工作或合作機會  
+
+
+* SELF  
+    - 「真誠」是基於自我認知 (Self-awareness) 與情緒脆弱性 (Vulnerability) 的產物  
+        - 探索者： 不滿足於 “既定答案”  
+            -  不是一個只接受社會常規的人  
+
+        - 成長理想主義者：  對“深度”有極高的渴望
+            - 害怕 平庸， 但這也讓你對自己過於嚴苛，總是在審查自己的表現  
+
+        - 孤獨的架構師：  渴望“連結”， 但害怕 “失控”  
+            -  內心渴望 “不需要任何邏輯，就能被理解”的連結  
+
+        - 開始接納「不確定性」，理解「情緒」本身就是人際關係中最重要的參數，並且學會了將「真誠」置於「正確」之上  
+
+
+    - 追求真理 = 追求確定性  
+        +  如果我覺得我的觀點是“真理”， 這世界就是可預測的，我就會感到安全  
+            + 很多時候想“爭輸贏”， 是為了**保護那個能讓我們感到安全的邏輯**  
+
+            + 絕對真理：  數學物理定律 或不可逆的自然規律    
+            + 相對真理： 在人際關係中討論的“真理”。 大部分人機互動，都是“局部真理”  
+
+        + 安全感 來自於你的 **適應能力Resilience**， 而不是 來自於確定性  
+            + 只要你的**核心價值觀，自我認知** 足夠穩定  - power thinking  
+                - “無論發生什麼事，我都有能力處理它”  
+                -  障礙會成為你的踏腳石  
+
+            + 自我信念  
+                - **我願意講出來， 我最後會得到足夠祝福同支持**，我覺得信念變成事實  
+                -  無論世界如何，我都能做到能做的事  
+                - 在不受控因素存在下， 仍然把受控的事做好  
+
+            + 要做 Winner 要競爭  
+                - 輸ok
+                - 不爭不ok
+                - 我信我可以  
+
+            + 滿足自己的慾望  
+
+        + 主觀真相 vs 客觀真相  
+            + 主觀真相 是 “透過觀察者的過濾器“ 所折射出的，它是個人的經歷，恐懼，價值觀與情緒的混合體  
+            + 客觀真相是 ”獨立於觀察者之外“  
+
+            + 人際關係的本質， 通常是在處理 主觀真相  - **情緒** 
+                +  先處理“情緒標籤”， 再整理 “事實節點”  
+                +  **承認”主觀真相“的有效性** Validation  
+                    - 不需要認同對方的邏輯， **認同“對方有權利擁有這種情緒”**  
+                    - “我理解為什麼你會這麼想，換作是我，也會感到害怕”  
+                + 再整理 “事實節點”  
+
+        + 將觀點視為 一個 “**待驗證的假設**”  
+            + 尋找共同交集  
+            + 定義觀點的上下文： **在什麼 假設下， 會得出這個結論**？ 
+            + 判斷“實用價值” 勝過 “真理價值”：哪一個在目前的生活中更有幫助？ 
+
+    - 上下層管理  
+        + 恐懼， 都是由於 對“預期管理” 和 “反饋頻率”的控制力不足  
+
+        +  在職場中， 對權責清晰度的追求  
+            - 當你負責時：  清晰地定義你的交付目標和底線  
+            -  當你在協助時：  確保你的交付 是標準且帶有充分警告的  
+            - 當你在決策時：  確保所有的決策路徑 都有跡可循  
+
+        + 讓合適的人在合適的崗位上，建立 **簡單但清晰的管理結構**
+            - 曼聯**需要明確的職責和流程，並保持精簡**； 不喜歡矩陣式或職責模糊的組織結構  
+            - 這樣才能真正激勵員工，讓他們全身心投入到工作中  
+
+        + 職責邊界的本質： **是“接口”**， 不是 “圍牆”  
+            - 正確的職業心態：  **邊界是權力的邊界**， 而不是任務的邊界  
+                + 在職責範圍內，**你有決策權 Authority**  
+                + 在邊界之外， 你**有協作與預警的義務 accountability**  
+
+            - 職責的終點不在於你完成了什麼，而在於**你對結果的承諾程度**；
+            在交付前，如果你**能定義好邊界的“輸出標準”**， 你就掌握了主動權  
+
+            - 意見的可追溯性： 在工作中，當發現有重大風險，**必須以書面形式明確告知上司**，
+            並將選擇權 歸還給上司    
+
+        
+        + 職業高手， 並不試圖證明“責任不在我”， 而是通過 **清晰的 邊界定義和留痕管理**，“**利用機制讓責任自動匹配**”  
+            - **明確的邊界感** 才是雙方能夠產生深度信任的唯一基石  
+            - 管理層： **決策的有效性**  
+                 + 管理層需要展現的是 **前瞻性** （我提供了資源和方向） + **開放性** （我建立了包容的糾錯文化）  
+                 + 管理層的天職 是為 **“不確定性” 買單**    
+                     - 情形： 資源分配不足，目標設定脫離實際， 在專家預警後仍強行推動方案，組織架構導致信息阻塞  
+                     - 歸責： 好的管理者會說 “由於我錯誤的資源調度/市場預判， 導致了項目延期”  
+
+            - 執行層： 執行的忠實度  
+                +  技術方案本身可行， 但執行中出現了疏忽， 未遵守行業標準，發現異常未及時上報  
+                +  專家的核心價值在於 “**對專業領域內的確定性負責**”  
+
+            - 溝通斷層  
+                +  誰擁有“最後的信息披露權”， 誰就承擔主要責任  
+                +  專家沒說（隱瞞/疏忽）： 專家承擔主要責任  
+                +  如果專家說了，但管理層沒聽（傲慢/無視）： 管理層承擔主要責任  
+
+            - 最終定責邏輯  
+                +  失敗後追溯： 問 “是那個環節缺失了信息 對稱？”  
+                +  如果是下屬：  需要展現專業性（我預見了風險） + 協作性 （我提供了應對方案）  
+                +  如果是上司：  需要展現前瞻性（我提供了資源和方向） + 開放性 （我建立了包容的糾錯文化）  
+
+            - 管理層如何相信專家會盡責  
+                +  依靠 “**機制與度量衡**”  
+                +  成果的 **可追溯性 observability**: 將複雜任務拆解，要求在關鍵里程本有課交付的產出   
+                    - 管理者**可以通過節點檢查**， 評估進度和風險  
+
+                +  負面清單管理 negative constraints:  管理者不需要知道專家怎麼做，但**必須設定“底線”**
+                    - 例如： 你可以自主架構， 但必須合規，備份恢復時間 等強制指標  
+
+                + **激勵對齊 alignment**: 讓專家的個人利益與組織的產出目標高度綑綁  
+
+            - 面對上司： 如何擺脫‘背鍋“陰影  
+                +  核心策略： 將”責任“ 從” 人格“ 剝離， 將其 **置於 ”流程“之上**  
+                    + **靠 過程的存檔 同標準化的預警機制** 
+
+                + **記錄即防禦** document everything   
+                    +  郵件/iM確認：  針對關機決策， 務必在郵件或正式文檔中確認  
+                    +  **文檔化意圖**：  記錄 “為什麼這樣” 比 how 更重要  
+
+                + **預警制度**    
+                    + 如果發現上級需求存在邏輯硬傷， **採取 “二選一”法則**，
+                    要說 “方案 A 会导致稳定性下降 20%，方案 B 成本会增加 30%，请问我们侧重于哪一个？”  
+                    + 當決策權交給上司後，責任自然轉移  
+                
+
+    - **自由最大化**，自由自在的生活  - **keep on doing the things you fear**    
+        +  自由地追求所有活動， **通过一个自我肯定的过程**，以及对周围的社会和政治环境有发言权的愿望  
+        + **不断突破并改写自己的叙事框架**，才可以活得这一层次的自由  
+            + 不自觉会源自社会或他人 潜移默化的规训  
+            + 叙事自由不仅包含可以做什么的自由，也包含不必做什么的自由  
+
+        + **Your self-story and the 'mental toughness'**, 'grit' or 'resilience' that you have is more important than anything else for achiving your goals in business and in life  
+            + **self-concept**:  **our personal belief of who we are**,
+               **encompassing all our thoughts and feelings about ourselves** - physically, personally and socially.
+               It includes our beliefs about our capabilities, our potential and our competence.  
+
+            + To build your self-story, you need evidence, and that **evidence is derived from the choices you make** in the face of adversity  
+                - self-story -> thoughts and feelings -> actions -> evidence -> self-story  
+
+                - to create new evidence you must change your actions  
+
+                - The evidence is derived from the choices you make in the face of adversity  
+
+            + If you do -only then will you actually have what it takes to overcome the challenges of life - a robust, positive, evidence-based self-story  
+                - **Choose to do the tenth rep** when it would be easier to stop at nine  
+                  **Choose to have the difficult conversation** when it would be easier to avoid it.
+                  **Choose to ask the extra question** when it would be easier to stay silent.
+
+        -  beliefs change when a person gets new counteracting evidence that they have a high degree of subjective confidence in
+            +   **Do the thing you fear**, and **keep on doing it**.  That is the quickest and surest way ever yet discovered to conquer fear
+            +  **Growth happens** when you start doing the things you’re not qualified to do
+
+
+    
+    - 真正的公平不是 “對每個人都一樣”， 而是 互惠 - “**我用你對我的方式，去對待你**”  
+        +  當對方表現出尊重， 你回以尊重  
+        +  當對方言語冒犯， 你回以 "**禮貌的疏離**"  
+
+        + 掌握 “禮貌的廣度”  與 “**情感的深度**” 解耦  
+            - 對所有人 保持 “社交潤滑劑”： **公共場合，保持禮貌**， **在需要協作時 積極參與**  
+            - 對特定人 集中 **“情感資源”的深度** ： 主動分享私人空間 （深度對話，幫助對方）  
+            - 關鍵話術： **禮貌劃界**  
+                - 對那些試圖越界的人“差別對待”，表現出“**我的個人習慣如何**”， 不要表現出“我討厭你”  
+                - “**我習慣**比較獨立， 自己點菜不用遷就對方，大家吃得自在”  
+
+        + 你以前把自己放在和對方 平視的地方  - 建立 “**情感邊界**”  
+            - 核心圈 （家人，摯友）    
+                - 高強度的 “**主觀共情**”  
+                - **絕對大度，深度共享，無條件支持**  
+
+            - 連結圈： 重要長輩 或 重要工作夥伴 ： 專業關懷，不需要深度共鳴，只需要展現“**高eq回應**”   
+                - 不 失去立場的情況下， 讓對方感受到被尊重  
+                - **“確認”對方感受**： “**聽聽來這件事讓你感到**“情緒””  
+                - **讓對方多說話**
+                    + “**這是一個很有意思的角度**，**可以多跟我聊聊你為什麼會這麼想嗎**？”  
+                - “溫和的界線”回應  
+                    + **給予一個肯定的開頭， 再冷靜地拒絕**  
+                    + “謝謝你跟我分享這些，但我最近在這些議題上比較像專注在 ...”
+            
+            
+            - 社交圈 （同事，隊友）： 適度禮貌，愉快交流  
+                - 信息隔離：  不討論個人深度規劃，不分享私人弱點  
+                - 疏離的手段： 拒絕綁定， **拒絕時不需要解釋理由**，**不需要向對方乞求理解**  
+                - 低頻回應： 平淡， “**哦，你這樣認為呀**”  
+
+            - 剔除區： 長期冒犯，吸血型， 價值觀極度扭曲的人  
+                - 零投入，冷處理，必要時果斷切斷  
+
+
+    - 主觀視角  vs  客觀視角  
+        - **主觀視角** ：  連結與共鳴的橋樑 （感性面）  
+            + 源於 個人的經歷， 情緒， 價值觀 與記憶  
+
+            + 在人際關係中， **主觀視角 代表的是 “同理心”的起點**   
+               - 鏡像神經元  
+               - 情感投射與共情：  **只有當你放下防禦， 允許自己的情緒邊界與對方“模糊化”**， 才能真正捕捉到那份微細的情緒流動    
+            
+            + 價值所在： **主觀視角 讓你能感受到對方情緒**。 這是建立 “情感連結”的核心  
+            + 建議： **永遠不要試圖否定他人的主觀感受**。
+            當對方表達意見時，先放下評判， 將重點放在“**她為什麼會有這種感覺**？”；
+            即使事實是客觀的，**對方的感受卻是主觀的真實**。  
+
+        - 客觀視角：  化解衝突與決策的導航 （理性面）  
+            + 客觀視角 **是將自己抽離出來，像旁觀者一樣審視事件的因果關係**，不帶情緒包袱  
+            + 價值所在：  當面對衝突，誤解或需要給予建議時，客觀視角能幫你避免“關心則亂”。
+            客觀視角能幫你識別問題本質，而不是在情緒的迴圈裡繞圈  
+
+            + 建議： 當你感到自己情緒波動過大， 試著練習“第三視角” - 如何描述對方？  
+
+        - 真正的“高EQ“ 是**具備切換視角的能力**    
+            + 當你過於主觀時，你會陷入自己的偏見；
+            當你過於客觀時，你會顯得冷漠與距離感。  
+            
+
+        -  從”感受“ **切換到 ”觀察”**    
+           +   將 “共情” （感覺對方的痛苦與情緒） 轉化爲 “觀察” （分析對方的行為與需求） 
+           +   共情（累）：  嘗試感受對方的痛苦或焦慮， 這會消耗你的內在能量  
+           +   觀察（省力）：   分析 讓你與對方拉出一段心理距離， 有個緩衝   
+
+
+    - Having an **emotionally intelligent**   partner is TOP TIER. 
+        -  You can express yourself freely & openly. 
+      They dont insult you. They don't give you the silent treatment. 
+      They dont become aggressive or manipulative. 
+       They **listen patiently to understand**  . Healthy relationships are so healing.
+
+
+        - The peace that comes with knowing you can say how you feel without being met with defensiveness or silent treatment is unmatched. Emotionally intelligent people are a different breed fr.  
+
+
+    - art of seduction  
+        - psychology, and **how you carry yourself**  
+
+        - anti-seduction  
+            + preaching and moralising - **telling people** that’s wrong you just said or your politics are  
+
+            + not being generous  
+            + **being generous on your spirit**
+            You want to be **open**, you want to give yourself  
+
+        - we can smell people’s insecurities  
+
+        - **Vulnerability** is seductive but insecurity is anti-seductive
+            - letting people into your mental space  
+
+            -  使用“我”開頭的陳述   
+
+            -  區分 “邊界” 與 “索取”  
+                + 真正的脆弱時 **分享自己的情緒**， 而不是強迫對方解決你的情緒
+                +  “我很難過， 能聽我說說嗎？  
+
+            - 學會傾聽他人的脆弱   
+                + 當別人向你拆開心扉時， 最好的回應是 ”**確認感受**“。
+             簡單的 ”我聽到了， 謝謝你願意告訴我“ 能帶來巨大的情感連接
+
+
+
+* DONE  
+
+
 #### 2026-07-06  
 * TODO  
     - **增重 + 健身 （上身） + 美容**      
@@ -26,6 +357,7 @@ abstract: "personal reflection journal"
         - 三头肌：哑铃三头肌伸展   
 
     - 簡歷 + 工作  
+        - 修改了簡歷/linkedin  
         -  联系 Graham Daley 工作或合作機會  
         
     - **永遠不要為了別人， 而掩蓋了你的光芒**
