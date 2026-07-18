@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learn about good Soft skills"
+title: "!Learn about good Soft skills"
 date: 2017-11-17
 comments: true
 categories: [softskills, communication, important, notes, learning]
@@ -27,10 +27,9 @@ abstract: "like listening, persuation ... "
 
     -   **Analyst** - quick to think and slow to speak, the analytic person values **accuracy** in the details and likes to be right
 
-    -   Director - hard-working and ambitious, directors tend to be the group leaders who value
-        **getting the job done** with excellent results
+    -   Director - hard-working and ambitious, directors tend to be the group leaders who value **getting the job done** with excellent results
 
-    -   Entertainer - the entertainer person loves to have **friends** and enjoys **helping others**
+    -   Entertainer - the entertainer person loves to have **friends** and enjoys **helping others**  
 
 ##### Respect is all
 
@@ -39,19 +38,19 @@ abstract: "like listening, persuation ... "
     -   发言时 注意 和听者的关系
         -   **观众更重视 自己的感受和联系**， 而不是对错
         -   people only **understand you from their level of perception**. **If necessary, explain your actions**, not yourself.
-            -   it's not your job to make people understand you. **It's your job to understand yourself**. **The moment you understand yourself you'll feel at peace**. Others don't need to understand that. But **you're at peace**, **this is what matters**.
-            -   Those who really know you don't need your explanation.
+            -   it's not your job to make people understand you. **It's your job to understand yourself**. **The moment you understand yourself you'll feel at peace**. Others don't need to understand that. But **you're at peace**, **this is what matters**.  
+            -   Those who really know you don't need your explanation.  
 
 -   尊重自己
 
     -   **支持自己**
 
-        -   **你想要什么，就去争取**
-            -   **不要害怕去争取能让你的生活和自己变得更好的东西**
-            -   **别人真心想去做，就支持**； 这不是自私
-        -   **being assertive in a polite, courteous, and respectful way**
+        -   **你想要什么，就去争取**  
+            -   **不要害怕去争取能让你的生活和自己变得更好的东西**  
+            -   **别人真心想去做，就支持**； 这不是自私  
+        -   **being assertive in a polite, courteous, and respectful way**  
 
-            -   if you don't want to do something, say so
+            -   if you don't want to do something, say so  
             -   if you've got a dissenting opinion and know in your heart that you're right, say so
             -   如果你有一个好想法，就说出来
 
