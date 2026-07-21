@@ -67,14 +67,23 @@ def render_memex_page(
     write_post(post, content, subdir)
 
 
-def write_post(post: frontmatter.Post, content: str, path: pathlib.Path):
-    output = get_post_output_path(post, path)
-    if output.parent != pathlib.Path("."):
-        output.parent.mkdir(parents=True, exist_ok=True)
+def attach_index_fields(post: frontmatter.Post, path: pathlib.Path) -> None:
+    """Set path/stem/url used by index templates."""
+    post["path"] = path
+    post["url"] = get_post_url(post, path)
     if is_memex_hub_dir(path):
         post["stem"] = get_static_link(post["title"])
     elif post.get("tags") or post.get("categories") or is_section_dir(path):
         post["stem"] = get_post_stem(post, path)
+    else:
+        post["stem"] = ""
+
+
+def write_post(post: frontmatter.Post, content: str, path: pathlib.Path):
+    output = get_post_output_path(post, path)
+    if output.parent != pathlib.Path("."):
+        output.parent.mkdir(parents=True, exist_ok=True)
+    attach_index_fields(post, path)
 
     ctx = state.get_ctx()
     backlinks = get_backlinks_for_post(post, path)
@@ -191,7 +200,7 @@ def write_indexes_for_sections(sections: set[pathlib.Path]) -> None:
         posts = []
         for source in get_sources(subdir):
             post = parse_source(source)
-            post["path"] = subdir
+            attach_index_fields(post, subdir)
             posts.append(post)
         write_index(posts, subdir)
 
