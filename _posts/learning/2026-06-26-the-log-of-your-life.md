@@ -8,6 +8,7 @@ abstract: "personal reflection journal"
 
 > taking the time to think through your goals, strengths, past feedback and insights from
 > self-assessments should allow you to identify several areas of focus for growth  
+
 > 不要只记录事实，要记录那些让你感到“不舒服”的瞬间  
 
 #### 2026-07-20  
@@ -56,7 +57,7 @@ abstract: "personal reflection journal"
             - 你不再是为了“某个预期的结果”而活着，而是**为了“此时此刻的体验本身”而活着**    
 
     - 大方，不做作  
-        + 自信大方，忠于自我，充满生命力  
+        + **自信大方**，忠于自我，充满生命力  
         + kindness, openness, cheerfulness  
 
     - AI 商業化前景 ？  
