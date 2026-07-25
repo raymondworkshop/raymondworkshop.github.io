@@ -27,6 +27,10 @@
       {% endif %}
     </h2>
 
+    {% if post.excerpt %}
+    <p class="post-excerpt">{{ post.excerpt }}{% if post.excerpt|length >= 200 %}…{% endif %}</p>
+    {% endif %}
+
     {% if post.tags|length or post.categories %}
     <div class="post-tags">
       {% if post.tags|length %}

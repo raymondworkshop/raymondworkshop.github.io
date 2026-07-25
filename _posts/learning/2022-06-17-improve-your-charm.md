@@ -14,7 +14,7 @@ abstract: "Notes on Energy - body, diets, sleep  "
     - **鞋子**， **发型**， **眼神交流**
 
 - 轻松自信
-    - 不必强势， 但要能自然表达自己的观点
+    - 不必强势， 但要能自然表达自己的观点  
         - 不要总随大流，可以用一句轻松的话表达不同看法， 这会让人觉得你有独立性
 
     - 和人交流时， 试着在逻辑之外加一句“**情感补充**”
@@ -27,6 +27,12 @@ abstract: "Notes on Energy - body, diets, sleep  "
 - 理想的男性伴侶通常是那些 **自信，堅定， 隨和， 心思細膩，沒有攻擊性**的男性，
 而不是嚴苛，控制欲強，過於安靜，害羞和順從的男性  
     - women care more about **approval, attention, validation, fitting-in and being liked**    
+
+#### Notes on 'The Power of Charm'  
+* TODO  
+
+* reference  
+    - [The Power of Charm  How to Win Anyone Over in Any Situation]  
 
 #### Notes on body health  
 * 2026-06-17  

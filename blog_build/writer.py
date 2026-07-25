@@ -71,6 +71,7 @@ def attach_index_fields(post: frontmatter.Post, path: pathlib.Path) -> None:
     """Set path/stem/url used by index templates."""
     post["path"] = path
     post["url"] = get_post_url(post, path)
+    post["excerpt"] = get_excerpt(post)
     if is_memex_hub_dir(path):
         post["stem"] = get_static_link(post["title"])
     elif post.get("tags") or post.get("categories") or is_section_dir(path):
@@ -207,6 +208,9 @@ def write_indexes_for_sections(sections: set[pathlib.Path]) -> None:
 
 def write_index(posts: Sequence[frontmatter.Post], path: pathlib.Path):
     posts = sorted(posts, key=lambda post: post.get("date") or "", reverse=True)
+    for post in posts:
+        if not post.get("excerpt"):
+            post["excerpt"] = get_excerpt(post)
     if path == pathlib.Path("."):
         write_paginated_home(posts)
         return
@@ -225,6 +229,9 @@ def should_show_on_home(post: frontmatter.Post) -> bool:
 
 def write_paginated_home(posts: Sequence[frontmatter.Post]):
     posts = [post for post in posts if should_show_on_home(post)]
+    for post in posts:
+        if not post.get("excerpt"):
+            post["excerpt"] = get_excerpt(post)
     template = jinja_env.get_template("index.html")
     total_pages = max(1, (len(posts) + POSTS_PER_PAGE - 1) // POSTS_PER_PAGE)
 
