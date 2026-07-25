@@ -21,11 +21,15 @@
 
   <article class="post post-item">
     <h2 class="post-title">
-      <a href="/{{post.path}}/{{post.stem}}">{{ post.title }}</a>
+      <a href="{{ post.url or ('/' ~ post.path ~ '/' ~ post.stem) }}">{{ post.title }}</a>
       {% if post.date %}
       <span class="date">{{ post.date }}</span>
       {% endif %}
     </h2>
+
+    {% if post.excerpt %}
+    <p class="post-excerpt">{{ post.excerpt }}{% if post.excerpt|length >= 200 %}…{% endif %}</p>
+    {% endif %}
 
     {% if post.tags|length or post.categories %}
     <div class="post-tags">

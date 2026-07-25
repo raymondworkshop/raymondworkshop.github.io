@@ -1,7 +1,7 @@
 ---
 title: "Notes on 'A Short History of the World'"
 date: 2024-04-13
-tags: [home, learning, history]
+tags: [home, notes, history]
 abstract: "notes on History"
 ---
 

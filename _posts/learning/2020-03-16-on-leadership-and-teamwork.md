@@ -10,18 +10,18 @@ abstract: "On Leadership, Management, Teamwork, and Negotiation"
 ### HBR Guide to Being a Great Boss
 
 - TODO
-    - deal with difficult people
+    - deal with difficult people  
 
-- To Sound Like a Leader
+- To Sound Like a Leader  
     - TODO
 
-- How to deal with a mean colleague
+- How to deal with a mean colleague  
     - **Understand why people typically act this way**
-        - people act out when **their feel threatened**
+        - people act out when **their feel threatened**  
 
-        - compliment the person on sth or an email with "Thanks so much for your help"
+        - compliment the person on sth or an email with "Thanks so much for your help"  
 
-    - **Talk to those supporters** whether you're being overly sensitive
+    - **Talk to those supporters** whether you're being overly sensitive  
 
     - Demo the cost to the business
         - how it's **affecting morale and performance**

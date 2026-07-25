@@ -6,7 +6,7 @@ date: 2012-03-13
 ### Some of my Slides!
 
 #### 2026-05 self-wiki: Personal AI-powered wiki + Socratic Mirror   
-- [self-wiki](https://github.com/raymondworkshop/dev.self-wiki/tree/master) is a personal AI-powered wiki, Second Brain + Socratic Mirror service    
+- [self-wiki](https://github.com/raymondworkshop/dev.self-wiki) is a personal AI-powered wiki, Second Brain + Socratic Mirror service    
     - treat AI as the "OS" and the generated wiki as the "Context Window" for high-resolution self-reflection  
     - self-wiki also can be on coach or education fields    
   
@@ -16,7 +16,7 @@ date: 2012-03-13
 - [Mental Health for Every Mind](https://github.com/raymondworkshop/dev.pie/blob/master/docs/pie.pdf) is an AI-powered cognitive behavioral therapist (CBT)  
 
 #### 2024-10 A tiny Scheme interpreter with Python  
-- lis.py shows the interpreter details 
+- lis.py shows the interpreter details  
     - program - parse -> abstract-syntax-tree - eval -> result   
     > lis.py> (begin (define r 10) (* pi (* r r)))  
     > 314.1592653589793  
@@ -25,7 +25,7 @@ date: 2012-03-13
 
 #### 2023-04 Factoid Question Answering (QA)
 
-- Question Answering (QA) tasks return an answer given a question. The [slide](https://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf)summarizes the recent progress on this topic .
+- Question Answering (QA) tasks return an answer given a question. The [slide](https://github.com/muyun/dev.nllp/blob/master/docs/question-answering.pdf) summarizes the recent progress on this topic .
 
 #### 2022-06 An introduction and the related experiments on Natural Legal Language Processing
 

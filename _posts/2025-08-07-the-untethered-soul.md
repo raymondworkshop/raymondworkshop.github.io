@@ -3,7 +3,7 @@ layout: post
 title: "Notes on '完整的自己'"
 date: 2025-08-07
 comments: true
-categories: [home, notes, learning, summary]
+categories: [home, notes,  summary]
 abstract: "完整的自己-快樂和自信的人生"
 ---
 
