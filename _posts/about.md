@@ -5,7 +5,7 @@ date: 2012-03-19
 
 Raymond ZHAO Wenlong is a product-minded engineer, and director@Bean based in Hong Kong now.  
 
-This digital workspace is connected with his [Second Brain](https://github.com/raymondworkshop/dev.self-wiki). Outside of reading and tech, he also likes  Philosophy, Nature, Anthropology, Film, Psychology,  and  Color.  
+This digital workspace is connected with his [Second Brain](https://github.com/raymondworkshop/dev.self-wiki). Outside of reading and tech, he also likes  Philosophy, Nature, Dance, Film,  and  Color.  
 
 Some of his favorite quotes:
 
