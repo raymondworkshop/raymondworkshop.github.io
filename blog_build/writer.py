@@ -20,7 +20,6 @@ from blog_build.memex.queries import (
     get_section_referenced_for_post,
     get_see_also_pages,
     get_sibling_hubs,
-    get_top_referenced_pages,
     get_unlinked_mentions_for_post,
 )
 from blog_build.memex.resolve import normalize_memex_url
@@ -99,7 +98,6 @@ def write_post(post: frontmatter.Post, content: str, path: pathlib.Path):
             stats=ctx.get("stats", {}),
             outgoing_links=get_outgoing_links(post),
             hub_summaries=get_hub_summaries(),
-            top_referenced=get_top_referenced_pages(),
             backlinks=backlinks,
         )
     elif is_memex_post_entry(post, path):

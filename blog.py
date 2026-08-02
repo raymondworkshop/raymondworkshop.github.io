@@ -49,7 +49,6 @@ from blog_build.memex.queries import (
     get_section_referenced_for_post,
     get_see_also_pages,
     get_sibling_hubs,
-    get_top_referenced_pages,
     get_unlinked_mentions_for_post,
 )
 from blog_build.memex.resolve import (

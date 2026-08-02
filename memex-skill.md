@@ -8,234 +8,108 @@ description: >-
 
 # Memex skill
 
-The memex is a personal wiki woven through this static blog. Pages link to each
-other; every link creates a backlink on the target. Start at `_posts/memex.md`
-(`/memex.html`) and follow links in any direction.
+Personal wiki woven through this static blog. Links create backlinks at build
+time. Entry: `_posts/memex.md` → `/memex.html`.
 
 ## Mental model
 
-- **Manifesto** — `_posts/memex.md` → `/memex.html` (entry maze, search, hub list)
-- **Hubs** — `_posts/memex/*.md` with `section:` → `/memex/{area}` (area maps)
-- **Pages** — everything else under `_posts/{section}/` (notes, diary, blog, …)
-- **Backlinks** — computed at build time; shown as “Linked from (N)” on each page
-
-Rebuild after link changes:
+- **Manifesto** — `_posts/memex.md` → `/memex.html`
+- **Hubs** — `_posts/memex/*.md` with `section:` → `/memex/{area}`
+- **Pages** — `_posts/{section}/…`
+- **Backlinks** — build-time; “Linked from (N)” on each page
 
 ```bash
-python3 blog.py --fast         # incremental wiki/backlinks/search (default)
+python3 blog.py --fast         # incremental (default)
 python3 blog.py --memex        # full site + wiki
-python3 blog.py --memex-only   # wiki/backlinks only (~2 min)
-
-# Makefile shortcuts:
-make run           # fast incremental with wiki/backlinks/search
-make run-memex     # full rebuild
-make memex-build   # wiki/backlinks only
+python3 blog.py --memex-only   # wiki/backlinks only
+# make run | run-memex | memex-build
 ```
 
-## Memex CLI (`memex.py`)
-
-Inspect links without rebuilding the site:
+## CLI (`memex.py`)
 
 ```bash
-python3 memex.py stats
-python3 memex.py resolve "Hamlet"
-python3 memex.py page "About Beauty"
-python3 memex.py backlinks Learning
-python3 memex.py outgoing "Notes on Stoicism"
-python3 memex.py missing          # unresolved [[wikilinks]]
-python3 memex.py orphans          # pages with zero backlinks
-python3 memex.py top -n 15        # most-linked pages
-python3 memex.py search philosophy
-
-# via Makefile:
-make memex CMD="stats"
-make memex CMD="missing"
-make memex CMD='mentions "About Beauty"'
+python3 memex.py stats|missing|orphans|top -n 15|search <q>
+python3 memex.py resolve|page|backlinks|outgoing "<title>"
+# make memex CMD="stats"
 ```
 
-## Linking syntax
-
-### Wikilinks (preferred)
+## Linking
 
 ```markdown
 [[Philosophy]]
-[[About Beauty]]
-[[Hamlet]]                          # resolves if unique substring match
-[[Notes on '成為自由人]]              # full or partial title
-[[Learning|how I learn things]]     # custom display text
+[[Hamlet]]                       # unique substring OK
+[[Learning|how I learn things]]  # display text
+#insight #learning               # hashtag-only line → linked tags
+[About Beauty](/philosophy/…)   # internal URL → upgraded to wikilink
 ```
-
-Unresolved targets render as dashed `wikilink-missing` spans — fix the title or
-add an alias.
-
-### Hashtag lines (Apple Notes style)
-
-A line that is only hashtags becomes linked tags:
-
-```markdown
-#insight #learning
-```
-
-Hashtags resolve against page titles, stems, and hub names (e.g. `#learning`
-→ Learning hub).
-
-### Markdown internal links
-
-```markdown
-[About Beauty](/philosophy/about-beauty-2020-06-10)
-```
-
-Internal paths are upgraded to wikilinks when the URL matches a known page.
-
-### Frontmatter links
 
 ```yaml
-tags: [learning, notes]       # links to matching hubs / topics
-related: [About Beauty, Self] # explicit wiki neighbors (outgoing + backlink)
-aliases: [成為自由人, a-free-man] # extra wikilink targets for this page
+tags: [learning, notes]
+related: [About Beauty, Self]    # also: seealso
+aliases: [成為自由人, a-free-man] # also: aka
 ```
 
-Supported alias fields: `aliases`, `aka`.
+Unresolved `[[…]]` → dashed `wikilink-missing`. Fix title or add alias.
 
-## What creates backlinks automatically
+### Backlink sources
 
-| Source | Example |
-|--------|---------|
-| `[[wikilink]]` in body | `[[Philosophy]]` on any page |
-| Internal `[text](url)` | hub cross-links in memex manifesto |
-| Hashtag-only lines | `#insight` in origin-apple-notes |
-| `tags` / `categories` / `topics` | `tags: [learning]` → Learning hub |
-| Section directory | every `_posts/diary/*.md` → Diary hub |
-| `related` / `seealso` frontmatter | explicit neighbor edges |
+`[[wikilink]]` · internal `[text](url)` · hashtag-only lines ·
+`tags`/`categories`/`topics` · section dir → hub · `related`/`seealso`.
+Deduped per source→target.
 
-Backlinks are deduplicated per source→target pair.
+### Title resolution
 
-## Title resolution rules
+Registered keys: slug, lowercase title, file stem (± date), derived aliases
+(`Notes on 'Hamlet'` → `Hamlet`), leading `!` stripped, `aliases`/`aka`.
 
-`blog.py` registers each page under:
+1. **Exact** — normalized + OpenCC CJK variants
+2. **Fuzzy** — scored (exact > prefix/word > substring; shorter / more
+   backlinks tie-break). Needs ≥15 pt margin; ≤2 chars need exact/prefix;
+   else `difflib` typo hint (0.88)
+3. Debug: `memex.py resolve` / `missing`
 
-- slugified title (`about-beauty`)
-- lowercase full title
-- file stem (and stem without date suffix)
-- derived aliases (`Notes on 'Hamlet'` → `Hamlet`)
-- leading `!` stripped (`!Improving your judgment skills`)
-- frontmatter `aliases` / `aka`
+**Unlinked mentions** (prose names a page without `[[…]]`) appear in UI /
+`memex.py mentions` but do **not** create backlinks.
 
-**Exact match** tries normalized keys (lowercase, collapsed whitespace, stripped
-quotes) plus OpenCC simplified/traditional variants for CJK text.
+## Wiki UI
 
-**Fuzzy match** searches titles, aliases, and stems with scored disambiguation:
+`templates/memex.html`: Links to · Linked from · Mentioned but not linked ·
+Related in {Area} · See also · (hubs) Referenced across memex · All pages.
+Manifesto: search, hubs. Index: `/memex/index.html`.
 
-| Signal | Effect |
-|--------|--------|
-| Normalized exact equality | highest score |
-| Prefix match | strong |
-| Whole-word match | strong |
-| Substring match | moderate |
-| Shorter label / more backlinks | tie-break |
+## New area
 
-A fuzzy hit resolves only when the top score beats the runner-up by a clear
-margin (default 15 points). Targets ≤ 2 characters require exact or prefix
-match only. If still unresolved, `difflib` typo matching may suggest one close
-label (cutoff 0.88).
+1. Hub `_posts/memex/my-area.md` with `section: my-area` matching `_posts/my-area/`
+2. Seed with `[[links]]` / “Start here”
+3. `python3 blog.py`; link hub from `_posts/memex.md`
 
-Debug resolution:
+## Enriching the graph
 
-```bash
-python3 memex.py resolve "Hamlet"      # shows candidates when ambiguous
-python3 memex.py missing             # includes "did you mean" hints
-```
-
-**Unlinked mentions** — prose in a note that names another page title/alias but
-has no `[[wikilink]]` yet. Shown in the “Mentioned but not linked” panel and via
-`memex.py mentions`. These do **not** create backlinks until you add a wikilink.
-
-## Wiki UI panels
-
-Every memex page (`templates/memex.html`) can show:
-
-| Panel | Meaning |
-|-------|---------|
-| **Links to** | outgoing wikilinks, tags, section hub, `related` |
-| **Linked from (N)** | backlinks from other pages |
-| **Mentioned but not linked** | other pages named in prose without `[[wikilink]]` |
-| **Related in {Area}** | same-section pages you link to / that link to you |
-| **See also** | other pages sharing `tags` / `categories` / `topics` |
-| **Referenced across memex** | (hubs) pages in this area with inbound links |
-| **All pages in {Area}** | (hubs) full section index |
-
-Manifesto (`templates/memex_manifesto.html`) adds search, hub cards, and
-“Most linked across memex”.
-
-Full A–Z index with backlink counts: `/memex/index.html`.
-
-## Adding a new area
-
-1. Create hub `_posts/memex/my-area.md`:
-
-```yaml
----
-title: My Area
-date: 2026-06-14
-section: my-area
----
-Intro text with [[links]] to seed pages.
-
-### Start here
-[[Some existing page]] · [[Another page]]
-```
-
-2. Add posts under `_posts/my-area/` (or link from other sections).
-3. Run `python3 blog.py`.
-4. Link the hub from `_posts/memex.md` under “Start anywhere” or body text.
-
-`section:` in the hub frontmatter must match the `_posts/{section}/` directory
-name for auto hub↔page links.
-
-## Enriching the link graph
-
-When editing or importing notes:
-
-1. **Prefer wikilinks** over bare mentions — `[[Stoicism]]` not just “stoicism”.
-2. **Use hub pages** as maps — list 5–15 anchor pages per area in `_posts/memex/*.md`.
-3. **Tag consistently** — `tags: [learning, notes]` ties pages to hubs.
-4. **Add `related:`** for strong pairwise ties the body does not spell out.
-5. **Add `aliases:`** for short names (`成為自由人`, `hamlet`, `stoicism`).
-6. **Hashtag exports** — keep Apple Notes tag lines; they become links on rebuild.
-7. **Check missing links** — rebuild and look for `wikilink-missing` in HTML.
+Prefer `[[wikilinks]]` · hub maps (5–15 anchors) · consistent `tags` ·
+`related:` for strong ties · `aliases:` for short names · keep hashtag
+lines · check `wikilink-missing` after rebuild.
 
 ## Key files
 
-| File | Role |
+| Path | Role |
 |------|------|
-| `blog.py` | Thin entry point + backward-compatible re-exports |
-| `blog_build/posts.py` | Parse markdown, URLs, stems |
-| `blog_build/memex/resolve.py` | Wikilink registry and fuzzy resolver |
-| `blog_build/memex/links.py` | Link iteration and `[[wikilink]]` preprocessing |
-| `blog_build/memex/graph.py` | Build link graph, backlinks, unlinked mentions |
-| `blog_build/memex/queries.py` | Related pages, see-also, hub summaries |
-| `blog_build/writer.py` | HTML output and search index |
-| `blog_build/fast.py` | Incremental `--fast` build |
-| `memex.py` | CLI: resolve, missing, mentions, stats |
-| `test_memex_resolve.py` | resolver unit tests |
-| `templates/memex.html` | per-page wiki panels |
-| `templates/memex_manifesto.html` | memex home |
-| `templates/memex_index.html` | full index sorted by backlinks |
-| `docs/static/search-index.json` | lunr search (`backlink_count` field) |
-| `_posts/memex.md` | manifesto source |
-| `_posts/memex/*.md` | area hubs |
+| `blog.py` / `blog_build/fast.py` | entry · incremental build |
+| `blog_build/memex/{resolve,links,graph,queries}.py` | resolver · links · graph · panels |
+| `blog_build/{posts,writer}.py` | parse · HTML/search |
+| `memex.py` · `test_memex_resolve.py` | CLI · tests |
+| `templates/memex{,_manifesto,_index}.html` | wiki UI |
+| `_posts/memex.md` · `_posts/memex/*.md` | manifesto · hubs |
 
-## Excluded from memex
+## Excluded
 
-`MEMEX_EXCLUDED_SECTIONS` in `blog.py` (currently empty). Paths listed there
-skip wikilink preprocessing and memex templates.
+`MEMEX_EXCLUDED_SECTIONS` in `blog_build/config.py` — skip wiki preprocess,
+templates, graph, search, A–Z (plain HTML still built). Current: `diary`,
+`learning`, `new-apple-notes`, `origin-apple-notes`, `invest`, `self`.
 
 ## Agent checklist
 
-When asked to make memex “wiki” or “backlink”:
-
-1. Read target posts and hub maps under `_posts/memex/`.
-2. Add `[[wikilinks]]`, `tags`, `related`, or `aliases` — not just prose mentions.
-3. Update hub “Start here” / “Related areas” lists when adding important pages.
-4. Run `python3 blog.py` and spot-check backlinks on the built HTML.
-5. Prefer unique short aliases over ambiguous fuzzy targets.
+1. Read target posts + `_posts/memex/` hubs
+2. Add `[[wikilinks]]` / `tags` / `related` / `aliases` (not bare mentions)
+3. Update hub “Start here” / “Related areas” when adding key pages
+4. Rebuild and spot-check backlinks
+5. Prefer unique short aliases over ambiguous fuzzy targets
