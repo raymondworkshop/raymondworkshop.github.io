@@ -1,5 +1,6 @@
 import pathlib
 import re
+from datetime import date, datetime
 from typing import Iterator, Sequence
 
 import frontmatter
@@ -46,6 +47,25 @@ def get_sources(path: pathlib.Path) -> Iterator[pathlib.Path]:
     return pathlib.Path(SRCS).joinpath(path).glob("*.md")
 
 
+def coerce_post_date(value) -> date | None:
+    """Normalize front matter dates to datetime.date (YAML may yield str or date)."""
+    if value is None or value == "":
+        return None
+    if isinstance(value, datetime):
+        return value.date()
+    if isinstance(value, date):
+        return value
+    if isinstance(value, str):
+        text = value.strip()
+        if not text:
+            return None
+        try:
+            return date.fromisoformat(text[:10])
+        except ValueError:
+            return None
+    return None
+
+
 def derive_post_title(post: frontmatter.Post, source: pathlib.Path) -> str:
     if post.get("title"):
         return str(post["title"]).strip()
@@ -59,6 +79,14 @@ def derive_post_title(post: frontmatter.Post, source: pathlib.Path) -> str:
 def normalize_post(post: frontmatter.Post, source: pathlib.Path) -> frontmatter.Post:
     post["title"] = derive_post_title(post, source)
     post["_source_stem"] = source.stem
+    if "date" in post.metadata:
+        coerced = coerce_post_date(post.get("date"))
+        if coerced is None:
+            post.metadata.pop("date", None)
+            if "date" in post:
+                del post["date"]
+        else:
+            post["date"] = coerced
     return post
 
 

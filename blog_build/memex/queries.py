@@ -211,10 +211,3 @@ def get_hub_summaries() -> list[dict[str, Any]]:
         )
     return sorted(summaries, key=lambda item: item["title"].lower())
 
-
-def get_top_referenced_pages(limit: int = 12) -> list[dict[str, Any]]:
-    pages: list[dict[str, Any]] = []
-    for section_pages in state.get_ctx().get("section_referenced", {}).values():
-        pages.extend(section_pages)
-    pages.sort(key=lambda item: (-item["backlink_count"], item["title"].lower()))
-    return pages[:limit]

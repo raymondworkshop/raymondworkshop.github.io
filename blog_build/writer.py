@@ -1,5 +1,6 @@
 import json
 import pathlib
+from datetime import date
 from typing import Any, Sequence
 
 import frontmatter
@@ -20,7 +21,6 @@ from blog_build.memex.queries import (
     get_section_referenced_for_post,
     get_see_also_pages,
     get_sibling_hubs,
-    get_top_referenced_pages,
     get_unlinked_mentions_for_post,
 )
 from blog_build.memex.resolve import normalize_memex_url
@@ -99,7 +99,6 @@ def write_post(post: frontmatter.Post, content: str, path: pathlib.Path):
             stats=ctx.get("stats", {}),
             outgoing_links=get_outgoing_links(post),
             hub_summaries=get_hub_summaries(),
-            top_referenced=get_top_referenced_pages(),
             backlinks=backlinks,
         )
     elif is_memex_post_entry(post, path):
@@ -207,7 +206,11 @@ def write_indexes_for_sections(sections: set[pathlib.Path]) -> None:
 
 
 def write_index(posts: Sequence[frontmatter.Post], path: pathlib.Path):
-    posts = sorted(posts, key=lambda post: post.get("date") or "", reverse=True)
+    posts = sorted(
+        posts,
+        key=lambda post: post.get("date") or date.min,
+        reverse=True,
+    )
     for post in posts:
         if not post.get("excerpt"):
             post["excerpt"] = get_excerpt(post)
