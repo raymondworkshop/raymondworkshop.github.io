@@ -37,15 +37,15 @@
             <nav class="site-nav" aria-label="Primary">
                 <a class="brand" href="/index.html">bestraymond</a>
                 <ul class="nav-links">
-                    <li><a href="/index.html">Blog</a></li>
-                    <li><a href="/slides.html">Slides</a></li>
-                    <li><a href="/memex.html">Memex</a></li>
+                    <li><a href="/index.html" data-nav="blog">Blog</a></li>
+                    <li><a href="/slides.html" data-nav="slides">Slides</a></li>
+                    <li><a href="/memex.html" data-nav="memex">Memex</a></li>
                     <!--
                     <li><a href="/coaching.html">Coaching</a></li>
                     <li><a href="/links.html">Links</a></li>
                     <li><a href="/bookshelf.html">Bookshelf</a></li>
                     -->
-                    <li><a href="/about.html">About</a></li>
+                    <li><a href="/about.html" data-nav="about">About</a></li>
                     <li>
                         <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to dark mode">
                             <svg class="theme-icon theme-icon-moon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -74,7 +74,7 @@
     <h2 class="post-title">
       <a href="/research/科學和宗教-2020-08-29">科學和宗教</a>
       
-      <span class="date">2020-08-29</span>
+      <time class="date" datetime="2020-08-29">2020-08-29</time>
       
     </h2>
 
@@ -102,7 +102,7 @@
     <h2 class="post-title">
       <a href="/research/paper-summary-2020-05-13">Paper Summary</a>
       
-      <span class="date">2020-05-13</span>
+      <time class="date" datetime="2020-05-13">2020-05-13</time>
       
     </h2>
 
@@ -128,7 +128,7 @@
     <h2 class="post-title">
       <a href="/research/updating-some-interesting-questions-2020-04-30">[Updating] Some Interesting Questions</a>
       
-      <span class="date">2020-04-30</span>
+      <time class="date" datetime="2020-04-30">2020-04-30</time>
       
     </h2>
 
@@ -154,7 +154,7 @@
     <h2 class="post-title">
       <a href="/research/todo-the-beginning-of-infinity-2019-07-21">TODO-The Beginning of Infinity</a>
       
-      <span class="date">2019-07-21</span>
+      <time class="date" datetime="2019-07-21">2019-07-21</time>
       
     </h2>
 
@@ -180,7 +180,7 @@
     <h2 class="post-title">
       <a href="/research/updating-about-a-i-2019-07-08">[updating] - about A.I.</a>
       
-      <span class="date">2019-07-08</span>
+      <time class="date" datetime="2019-07-08">2019-07-08</time>
       
     </h2>
 
@@ -206,7 +206,7 @@
     <h2 class="post-title">
       <a href="/research/updating-notes-on-creativity-and-research-2018-11-18">[Updating] !notes on creativity and research</a>
       
-      <span class="date">2018-11-18</span>
+      <time class="date" datetime="2018-11-18">2018-11-18</time>
       
     </h2>
 
@@ -240,6 +240,19 @@
     </div>
     <script>
         (function () {
+            var path = (location.pathname || "/").replace(/\/+$/, "") || "/";
+            var key = "blog";
+            if (path === "/about" || path === "/about.html") key = "about";
+            else if (path === "/slides" || path === "/slides.html") key = "slides";
+            else if (path === "/memex" || path === "/memex.html" || path.indexOf("/memex/") === 0) key = "memex";
+            else if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) key = "blog";
+            else key = "";
+
+            if (key) {
+                var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
+                if (active) active.setAttribute("aria-current", "page");
+            }
+
             var toggle = document.getElementById("theme-toggle");
             if (!toggle) return;
 

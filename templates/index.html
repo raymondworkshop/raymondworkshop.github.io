@@ -23,7 +23,7 @@
     <h2 class="post-title">
       <a href="{{ post.url or ('/' ~ post.path ~ '/' ~ post.stem) }}">{{ post.title }}</a>
       {% if post.date %}
-      <span class="date">{{ post.date }}</span>
+      <time class="date" datetime="{{ post.date }}">{{ post.date }}</time>
       {% endif %}
     </h2>
 

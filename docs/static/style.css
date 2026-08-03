@@ -7,18 +7,19 @@
     --surface-soft: rgba(36, 72, 58, 0.055);
     --line: rgba(28, 36, 32, 0.1);
     --line-strong: rgba(28, 36, 32, 0.16);
-    --text: #161e1a;
-    --text-soft: #53605a;
+    --text: #12161c;
+    --text-soft: #4f5963;
     --brand-link: #2a6b55;
     --brand-link-strong: #1a4637;
     --brand-warm: #3d6b5c;
     --code-bg: #e8ede7;
     --code-line: #d0d8cf;
-    --input-bg: rgba(255, 255, 255, 0.72);
+    --input-bg: rgba(255, 255, 255, 0.78);
     --input-bg-focus: #ffffff;
     --focus-border: rgba(42, 107, 85, 0.45);
     --shadow: none;
     --marker: rgba(42, 107, 85, 0.5);
+    --selection: rgba(42, 107, 85, 0.14);
     --font-ui: "SF Pro Text", "SF Pro Display", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, "PingFang SC", "PingFang TC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
     --font-display: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "PingFang SC", "Hiragino Sans GB", Georgia, serif;
     --font-body: "SF Pro Text", "SF Pro Display", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, "PingFang SC", "PingFang TC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
@@ -28,7 +29,7 @@
     --space-4: 1.5rem;
     --space-5: 2rem;
     --space-6: 3rem;
-    --measure: 40rem;
+    --measure: 38rem;
     --ease: cubic-bezier(0.22, 1, 0.36, 1);
 }
 
@@ -44,10 +45,14 @@ html {
     background-attachment: fixed;
     color: var(--text);
     font-family: var(--font-ui);
-    font-size: 17px;
-    line-height: 1.6;
+    font-size: 18px;
+    line-height: 1.65;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+    background: var(--selection);
 }
 
 body {
@@ -74,7 +79,7 @@ body {
 .site-nav {
     align-items: baseline;
     display: flex;
-    gap: var(--space-3);
+    gap: var(--space-4);
     justify-content: space-between;
 }
 
@@ -91,13 +96,13 @@ body {
 
 .brand::after {
     background: var(--brand-link);
-    bottom: -0.2em;
+    bottom: -0.15em;
     content: "";
     height: 1.5px;
     left: 0;
     opacity: 0;
     position: absolute;
-    transform: scaleX(0.4);
+    transform: scaleX(0.35);
     transform-origin: left center;
     transition: opacity 220ms var(--ease), transform 280ms var(--ease);
     width: 100%;
@@ -116,7 +121,7 @@ body {
     align-items: center;
     display: flex;
     flex-wrap: wrap;
-    gap: 0.1rem 0.05rem;
+    gap: 0.15rem 0.15rem;
     list-style: none;
     margin: 0;
     padding: 0;
@@ -126,12 +131,28 @@ body {
     border-radius: 0;
     color: var(--text-soft);
     display: inline-block;
-    font-size: 0.9rem;
+    font-size: 0.92rem;
     font-weight: 500;
     letter-spacing: 0.01em;
-    padding: 0.3rem 0.5rem;
+    padding: 0.35rem 0.55rem;
+    position: relative;
     text-decoration: none;
     transition: color 180ms var(--ease);
+}
+
+.nav-links a[aria-current="page"] {
+    color: var(--text);
+}
+
+.nav-links a[aria-current="page"]::after {
+    background: var(--brand-link);
+    bottom: 0.15rem;
+    content: "";
+    height: 1.5px;
+    left: 0.55rem;
+    opacity: 0.85;
+    position: absolute;
+    right: 0.55rem;
 }
 
 .theme-toggle {
@@ -224,15 +245,16 @@ h2 {
     font-size: clamp(1.75rem, 4vw, 2.25rem);
     font-weight: 600;
     letter-spacing: -0.03em;
-    line-height: 1.22;
+    line-height: 1.25;
     margin-bottom: 0;
+    max-width: 36rem;
 }
 
 h2.post-title {
     font-size: clamp(1.12rem, 2.4vw, 1.32rem);
     font-weight: 600;
     letter-spacing: -0.02em;
-    line-height: 1.35;
+    line-height: 1.4;
     margin-bottom: 0;
 }
 
@@ -273,7 +295,7 @@ hr {
 
 .post-item {
     border-bottom: 1px solid var(--line);
-    padding: 1.2rem 0 1.25rem;
+    padding: 1.25rem 0 1.3rem;
     transition: background-color 180ms var(--ease);
 }
 
@@ -291,6 +313,8 @@ hr {
 
 .post-title a {
     color: var(--text);
+    flex: 1 1 12rem;
+    min-width: 0;
     text-decoration: none;
     transition: color 180ms var(--ease);
 }
@@ -311,8 +335,9 @@ hr {
 .date,
 .post-meta {
     color: var(--text-soft);
+    flex: 0 0 auto;
     font-family: var(--font-ui);
-    font-size: 0.8rem;
+    font-size: 0.82rem;
     font-variant-numeric: tabular-nums;
     font-weight: 500;
     letter-spacing: 0.02em;
@@ -332,7 +357,7 @@ hr {
 .post-tags {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.2rem 0.65rem;
+    gap: 0.35rem 0.75rem;
     margin-top: 0;
 }
 
@@ -343,7 +368,7 @@ hr {
     color: var(--text-soft);
     display: inline-flex;
     font-family: var(--font-ui);
-    font-size: 0.78rem;
+    font-size: 0.8rem;
     font-weight: 500;
     letter-spacing: 0.01em;
     padding: 0;
@@ -373,7 +398,12 @@ hr {
     display: flex;
     flex-wrap: wrap;
     gap: 0.35rem 0.85rem;
-    margin-top: 0.55rem;
+    margin-top: 0.65rem;
+}
+
+.post-meta-row .date,
+.post-meta-row .post-meta {
+    margin-bottom: 0;
 }
 
 .post-meta-row .post-tags {
@@ -381,7 +411,7 @@ hr {
 }
 
 .post-item .post-tags {
-    margin-top: 0.45rem;
+    margin-top: 0.5rem;
 }
 
 .post-abstract {
@@ -399,9 +429,10 @@ hr {
 
 .post-body p,
 .content p {
-    font-size: 1.05rem;
-    line-height: 1.8;
-    margin: 0 0 1.2rem;
+    font-size: 1.08rem;
+    line-height: 1.85;
+    margin: 0 0 1.35rem;
+    max-width: var(--measure);
 }
 
 .post-body ul,
@@ -426,8 +457,8 @@ hr {
 
 .post-body li,
 .content li {
-    line-height: 1.72;
-    margin-bottom: 0.4rem;
+    line-height: 1.8;
+    margin-bottom: 0.5rem;
     padding-left: 0.15rem;
 }
 
@@ -807,7 +838,7 @@ pre code {
 .wiki-link-grid {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.4rem 1rem;
+    gap: 0.45rem 1.1rem;
     list-style: none;
     margin: 0;
     padding: 0;
@@ -990,6 +1021,7 @@ html[data-theme="dark"] {
     --focus-border: rgba(141, 206, 176, 0.55);
     --shadow: none;
     --marker: rgba(141, 206, 176, 0.55);
+    --selection: rgba(141, 206, 176, 0.22);
     color-scheme: dark;
 }
 
@@ -1036,7 +1068,7 @@ html[data-theme="light"] {
 
 @media (max-width: 720px) {
     html {
-        font-size: 16px;
+        font-size: 17px;
     }
 
     body {
@@ -1074,7 +1106,7 @@ html[data-theme="light"] {
     }
 
     .post-item {
-        padding: 1.1rem 0 1.15rem;
+        padding: 1.15rem 0 1.2rem;
     }
 
     .post-title {

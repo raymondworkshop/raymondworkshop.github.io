@@ -32,7 +32,7 @@
         {% if (post.date and not post.section) or post.tags or post.categories %}
         <div class="post-meta-row">
             {% if post.date and not post.section %}
-            <p class="post-meta">{{ post.date }}</p>
+            <time class="post-meta" datetime="{{ post.date }}">{{ post.date }}</time>
             {% endif %}
             {% if post.tags|length or post.categories %}
             <div class="post-tags">

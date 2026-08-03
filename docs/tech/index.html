@@ -37,15 +37,15 @@
             <nav class="site-nav" aria-label="Primary">
                 <a class="brand" href="/index.html">bestraymond</a>
                 <ul class="nav-links">
-                    <li><a href="/index.html">Blog</a></li>
-                    <li><a href="/slides.html">Slides</a></li>
-                    <li><a href="/memex.html">Memex</a></li>
+                    <li><a href="/index.html" data-nav="blog">Blog</a></li>
+                    <li><a href="/slides.html" data-nav="slides">Slides</a></li>
+                    <li><a href="/memex.html" data-nav="memex">Memex</a></li>
                     <!--
                     <li><a href="/coaching.html">Coaching</a></li>
                     <li><a href="/links.html">Links</a></li>
                     <li><a href="/bookshelf.html">Bookshelf</a></li>
                     -->
-                    <li><a href="/about.html">About</a></li>
+                    <li><a href="/about.html" data-nav="about">About</a></li>
                     <li>
                         <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to dark mode">
                             <svg class="theme-icon theme-icon-moon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -74,7 +74,7 @@
     <h2 class="post-title">
       <a href="/tech/notes-on-the-product-manager-2020-02-11">Notes on the Product Manager</a>
       
-      <span class="date">2020-02-11</span>
+      <time class="date" datetime="2020-02-11">2020-02-11</time>
       
     </h2>
 
@@ -104,7 +104,7 @@
     <h2 class="post-title">
       <a href="/tech/能力陷阱-2019-12-27">能力陷阱</a>
       
-      <span class="date">2019-12-27</span>
+      <time class="date" datetime="2019-12-27">2019-12-27</time>
       
     </h2>
 
@@ -128,7 +128,7 @@
     <h2 class="post-title">
       <a href="/tech/updating-notes-about-concurrency-and-parallelism-2019-12-11">[Updating] Notes about Concurrency and Parallelism</a>
       
-      <span class="date">2019-12-11</span>
+      <time class="date" datetime="2019-12-11">2019-12-11</time>
       
     </h2>
 
@@ -154,7 +154,7 @@
     <h2 class="post-title">
       <a href="/tech/notes-on-building-machine-learning-systems-2019-07-16">Notes on building machine learning systems</a>
       
-      <span class="date">2019-07-16</span>
+      <time class="date" datetime="2019-07-16">2019-07-16</time>
       
     </h2>
 
@@ -180,7 +180,7 @@
     <h2 class="post-title">
       <a href="/tech/updating-notes-about-machine-learning-2019-04-30">[Updating] Notes about machine learning</a>
       
-      <span class="date">2019-04-30</span>
+      <time class="date" datetime="2019-04-30">2019-04-30</time>
       
     </h2>
 
@@ -206,7 +206,7 @@
     <h2 class="post-title">
       <a href="/tech/about-rest-software-architecture-2018-03-04">About REST software architecture</a>
       
-      <span class="date">2018-03-04</span>
+      <time class="date" datetime="2018-03-04">2018-03-04</time>
       
     </h2>
 
@@ -232,7 +232,7 @@
     <h2 class="post-title">
       <a href="/tech/word2vec-model-2017-05-19">Word2Vec Model</a>
       
-      <span class="date">2017-05-19</span>
+      <time class="date" datetime="2017-05-19">2017-05-19</time>
       
     </h2>
 
@@ -256,7 +256,7 @@
     <h2 class="post-title">
       <a href="/tech/logistic-regression-2017-05-19">Logistic Regression</a>
       
-      <span class="date">2017-05-19</span>
+      <time class="date" datetime="2017-05-19">2017-05-19</time>
       
     </h2>
 
@@ -280,7 +280,7 @@
     <h2 class="post-title">
       <a href="/tech/building-abstractions-with-procedures-2014-05-29">Building Abstractions with Procedures</a>
       
-      <span class="date">2014-05-29</span>
+      <time class="date" datetime="2014-05-29">2014-05-29</time>
       
     </h2>
 
@@ -312,6 +312,19 @@
     </div>
     <script>
         (function () {
+            var path = (location.pathname || "/").replace(/\/+$/, "") || "/";
+            var key = "blog";
+            if (path === "/about" || path === "/about.html") key = "about";
+            else if (path === "/slides" || path === "/slides.html") key = "slides";
+            else if (path === "/memex" || path === "/memex.html" || path.indexOf("/memex/") === 0) key = "memex";
+            else if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) key = "blog";
+            else key = "";
+
+            if (key) {
+                var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
+                if (active) active.setAttribute("aria-current", "page");
+            }
+
             var toggle = document.getElementById("theme-toggle");
             if (!toggle) return;
 

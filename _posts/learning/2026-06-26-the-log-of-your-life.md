@@ -11,6 +11,153 @@ abstract: "personal reflection journal"
 
 > 不要只记录事实，要记录那些让你感到“不舒服”的瞬间  
 
+#### 2026-08-03  
+* TODO  
+    -  **增重 + 健身 （上身） + 美容**   
+
+    - shadow with english  
+
+    - meet with Amos  ？  
+
+    -  簡歷 + 工作  
+        -  联系 Graham Daley 工作或合作機會  
+
+    - AI 商業化 ？  
+        - Bean Brain： Q&A based on docs  
+        - 自主代理營運
+
+        - 專業領域的知識與合規與風險控制自動化： 法律，金融， 醫療
+
+    - 音箱
+        - Xiaomi Sound outdoor? 
+    
+    - 普通朋友  
+        - **大方談利益， 但主動讓利**     
+
+        - 將 “**商業行為**” 等同於 “人格卑微”  
+            + 在商業與現實世界， 融資，借貸，本質上是一場 “**商業博弈與價值交換”**   
+            + 是**在“邀請”對方參與** 一個有利可圖的商業機會  
+                - 嚴謹的商業計劃，清晰的風險評估以及對雙方利益的保障  
+            + 建立 **契約意識**   
+                - 當一切都**在法律和契約的框架內進行** 時，你就不用去卑躬屈膝地看人臉色  
+                - **白紙黑字的契約、利息、還款期限、退出機制** 是保護你尊嚴最好的武器  
+
+    
+    - **不要以对方的视角惩罚自己**  
+        - **對自己的重視**  
+            + 是貶低自己 還是 精明的選擇  
+
+        - **責權對等**   
+            + 誰的問題誰解決  
+
+        - **情緒勞動也是真實的勞動**， 不僅僅是物理勞動  
+        - **爲對方出面去談**  
+            + **心平氣和去談**， 接下來怎麼辦？  
+
+    - **主動 “協作”** 心態 <- “學習” 心態  
+        + **主動展示自己的視角**，**邀請對方**和你共同分析  
+            +  我在hiking群裡主動說 我可以 “協作” 訂餐廳  
+
+        + **Agency** > Intelligence  
+            - The world will try to box you, label you, define you    
+            
+            - Agency, as a personality trait, refers to an individual's capacity to **take initiative, make decisions, and exert control over their actions and environment**. It’s about being proactive rather than reactive—someone with high agency doesn’t just let life happen to them; **they shape it**. Think of it as a blend of self-efficency, determination, and a sense of ownership over one’s path.  
+
+            - People with strong agency tend to **set goals and pursue them with confidence**, even in the face of obstacles. They’re the type to say, “I’ll figure it out,” and then actually do it. On the flip side, someone low in agency might feel more like a passenger in their own life, waiting for external forces—like luck, other people, or circumstances—to dictate what happens next.
+
+            It’s not quite the same as assertiveness or ambition, though it can overlap. Agency is quieter, more internal—it’s **the belief that you *can* act**, **paired with the will to follow through**. Psychologists often tie it to concepts like locus of control: high-agency folks lean toward an internal locus, feeling they steer their fate, while low-agency folks might lean external, seeing life as something that happens *to* them.”  
+
+
+        - When you stop expecting fairness, the world starts making sense. Life is strategic. Stop asking why it’s hard; **start asking how it works**. Winners don’t seek to moral police; they **learn the rules, master emotion, and play to win**.
+
+
+
+    - 溝通風格 - confidence  
+        + **確定性的表達**， **能夠做決定**    
+
+        + **驗證對方情緒的合理性**，**聽懂對方的需求**       
+            - 先做鏡子 感受同頻  
+
+
+* SELF  
+    - 利益  vs 情感  
+        - 情義 可以妥協， 但不能被踐踏  
+            - **適度利益 可以讓步**    
+            - 如果對方用“資本的傲慢” 去出賣信任，或者 當成 隨意收割的棋子  
+                + 及時止損  
+                + **情義的前提是彼此尊重**，如果一方當另一方是廉價消耗品  
+
+        - 合約是合約， 情義是情義  
+            - **在關係最好的時候**，把醜話說在前面，**合約寫在清楚的地方**    
+            - **法律與制度是用來規範利益的**，而情感與信任是用來應對“突發風浪的”  
+
+        - 如何化解衝突  
+            - **把話講在明處，態度要溫和**  - 拒絕不合理的要求  
+                - “**這件事在利益和合規上真的做不到** ，但我個人在其他方面可以幫你”  
+
+            - 守住核心價值： **真正交心的朋友，一旦利益被消耗，就買不回來了**    
+            - 利益與情感衝突時， 最忌諱 “既想要利益，又想要佔盡情誼的道德高地”  
+                - 如果選擇利益，就坦然按商業規矩走，不要拿感情做道德綁架；
+                如果選擇了情誼，就要做好承擔相應物質代價的心理準備  
+
+
+    - **靠近 滋養你的“成長磁場”**， 遠離 消耗你的 “貧窮心態”   
+        - 無論對方背景如何， 只要對方 “抱怨，佔便宜，榨取”， 果斷拉開距離  
+        - 追求更好的生活，學習更高的格局，不是背叛，而是**自我成長的自然延伸**    
+        - 你的專業，你的清醒覺察，你的獨立思考，是你立足的底氣  
+
+        - 真正的精英 擁有 “**情緒與資源的餘裕**”  
+            + 不要有 防禦性的 道德優越  
+
+    - **帶著邊界** 去建立 高質量的 連結  
+        - 保持“安全邊界”， 拒絕情緒剝削  
+            + 真正的上位者或優秀前輩， 會尊重你的界線  
+            + 黃金法則： 對方是 “欣賞你的獨立” 還是 “消耗你的順從”
+            **如果對方把你的禮貌當軟弱**，**抽身離開**    
+            + 與有權勢或優秀的人交往時，保持適度的互惠原則  
+        
+        - **尋找“滋養型”的強者**  
+            + 觀察那些真正內心強大，溫和且包容的人，如何對待比自己年輕或平民背景的人  
+            + 真正的成熟和自立，恰恰包含「我有能力與比我優秀的人平等站在一起，既不卑不亢，也能夠合作共贏」  
+
+            + **展現你的專業和清晰的邏輯**    
+                - 上位者 最欣賞 高效， 清晰， 不拖泥帶水的溝通  
+
+            + 破解 “上位者迷思”  <- 探索者（Explorer）
+                - 他們也是人，有盲區有需求  
+                - 把“求助”轉化爲 “**請教與探討**”： 當你真誠向對方請教經驗，滿足對方的價值感與傳承  
+                -  試著把心態從 “我要去討好他/表現完美” 轉變成 “**我對他的經驗很好奇，我想學習**”
+            
+            + **把出身化為獨特的韌性**：  平民背景往往有更強的同理心，實幹能力和對生活真實的感知力  
+
+        - 區分 “同理心” 與 “自我消耗”  
+            + 對人善良是美德， 但這**不等於你要成為所有人的救世主**  
+                - “**我可以適當協助**，但不再爲對方的無能或情緒負全責”  
+
+        - **校準你的社交投資報酬率**  
+            + 你的人生時間和精力有限  
+            + 把精力留給那些**能彼此激盪，互相支持，真正欣賞你價值的人**。
+            遠離那些只會消耗你，卻無法提供任何實質支持的低品質互動  
+
+
+* DONE  
+    - lunch with Laura  
+        - GOOD  
+        - Laura 大方， 開放， 自信  
+
+    - 洗牙 
+        - 600+300 @ 盧浩賢牙科醫務所  
+        - 港大深圳醫院  
+
+    - 書 <the power of charm>  
+        - update dev.research  
+
+    - argue with Sherry  
+        - Not good  
+
+    - 理髮+染髮  
+        - 中大 理髮  Good  
+
 #### 2026-07-27  
 * TODO  
     - **增重 + 健身 （上身） + 美容**      
@@ -51,9 +198,11 @@ abstract: "personal reflection journal"
 
     - **Shadow on English**   
 
-    - 與 amos  ?  
+    - 與 amos  
+        - cancel  
 
     - meet with Laura  
+        - done, good  
 
     -     簡歷 + 工作  
         -  联系 Graham Daley 工作或合作機會  

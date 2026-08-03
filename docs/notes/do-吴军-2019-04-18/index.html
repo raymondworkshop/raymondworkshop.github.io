@@ -37,15 +37,15 @@
             <nav class="site-nav" aria-label="Primary">
                 <a class="brand" href="/index.html">bestraymond</a>
                 <ul class="nav-links">
-                    <li><a href="/index.html">Blog</a></li>
-                    <li><a href="/slides.html">Slides</a></li>
-                    <li><a href="/memex.html">Memex</a></li>
+                    <li><a href="/index.html" data-nav="blog">Blog</a></li>
+                    <li><a href="/slides.html" data-nav="slides">Slides</a></li>
+                    <li><a href="/memex.html" data-nav="memex">Memex</a></li>
                     <!--
                     <li><a href="/coaching.html">Coaching</a></li>
                     <li><a href="/links.html">Links</a></li>
                     <li><a href="/bookshelf.html">Bookshelf</a></li>
                     -->
-                    <li><a href="/about.html">About</a></li>
+                    <li><a href="/about.html" data-nav="about">About</a></li>
                     <li>
                         <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to dark mode">
                             <svg class="theme-icon theme-icon-moon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -83,7 +83,7 @@
         
         <div class="post-meta-row">
             
-            <p class="post-meta">2019-04-18</p>
+            <time class="post-meta" datetime="2019-04-18">2019-04-18</time>
             
             
             <div class="post-tags">
@@ -462,6 +462,19 @@
     </div>
     <script>
         (function () {
+            var path = (location.pathname || "/").replace(/\/+$/, "") || "/";
+            var key = "blog";
+            if (path === "/about" || path === "/about.html") key = "about";
+            else if (path === "/slides" || path === "/slides.html") key = "slides";
+            else if (path === "/memex" || path === "/memex.html" || path.indexOf("/memex/") === 0) key = "memex";
+            else if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) key = "blog";
+            else key = "";
+
+            if (key) {
+                var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
+                if (active) active.setAttribute("aria-current", "page");
+            }
+
             var toggle = document.getElementById("theme-toggle");
             if (!toggle) return;
 

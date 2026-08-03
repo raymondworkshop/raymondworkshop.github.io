@@ -37,15 +37,15 @@
             <nav class="site-nav" aria-label="Primary">
                 <a class="brand" href="/index.html">bestraymond</a>
                 <ul class="nav-links">
-                    <li><a href="/index.html">Blog</a></li>
-                    <li><a href="/slides.html">Slides</a></li>
-                    <li><a href="/memex.html">Memex</a></li>
+                    <li><a href="/index.html" data-nav="blog">Blog</a></li>
+                    <li><a href="/slides.html" data-nav="slides">Slides</a></li>
+                    <li><a href="/memex.html" data-nav="memex">Memex</a></li>
                     <!--
                     <li><a href="/coaching.html">Coaching</a></li>
                     <li><a href="/links.html">Links</a></li>
                     <li><a href="/bookshelf.html">Bookshelf</a></li>
                     -->
-                    <li><a href="/about.html">About</a></li>
+                    <li><a href="/about.html" data-nav="about">About</a></li>
                     <li>
                         <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to dark mode">
                             <svg class="theme-icon theme-icon-moon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -74,7 +74,7 @@
     <h2 class="post-title">
       <a href="/philosophy/the-surrender-experiment-2025-03-15">!The Surrender experiment</a>
       
-      <span class="date">2025-03-15</span>
+      <time class="date" datetime="2025-03-15">2025-03-15</time>
       
     </h2>
 
@@ -104,7 +104,7 @@
     <h2 class="post-title">
       <a href="/philosophy/notes-on-philosophy-2024-07-14">Notes on Philosophy</a>
       
-      <span class="date">2024-07-14</span>
+      <time class="date" datetime="2024-07-14">2024-07-14</time>
       
     </h2>
 
@@ -134,7 +134,7 @@
     <h2 class="post-title">
       <a href="/philosophy/notes-on-philosophy-creative-and-practical-thinking-skills-2022-02-17">Notes on philosophy, creative and practical thinking skills</a>
       
-      <span class="date">2022-02-17</span>
+      <time class="date" datetime="2022-02-17">2022-02-17</time>
       
     </h2>
 
@@ -166,7 +166,7 @@
     <h2 class="post-title">
       <a href="/philosophy/notes-on-the-good-life-2021-02-20">!Notes on the GOOD life</a>
       
-      <span class="date">2021-02-20</span>
+      <time class="date" datetime="2021-02-20">2021-02-20</time>
       
     </h2>
 
@@ -196,7 +196,7 @@
     <h2 class="post-title">
       <a href="/philosophy/notes-on-loving-2020-06-16">!Notes on 'loving'</a>
       
-      <span class="date">2020-06-16</span>
+      <time class="date" datetime="2020-06-16">2020-06-16</time>
       
     </h2>
 
@@ -230,7 +230,7 @@
     <h2 class="post-title">
       <a href="/philosophy/about-beauty-2020-06-10">About Beauty</a>
       
-      <span class="date">2020-06-10</span>
+      <time class="date" datetime="2020-06-10">2020-06-10</time>
       
     </h2>
 
@@ -258,7 +258,7 @@
     <h2 class="post-title">
       <a href="/philosophy/notes-on-learning-how-to-learn-2020-05-13">Notes on Learning How to Learn</a>
       
-      <span class="date">2020-05-13</span>
+      <time class="date" datetime="2020-05-13">2020-05-13</time>
       
     </h2>
 
@@ -288,7 +288,7 @@
     <h2 class="post-title">
       <a href="/philosophy/how-to-be-a-good-manager-up-and-dowm-2020-03-15">!!How to be a good manager: up and dowm</a>
       
-      <span class="date">2020-03-15</span>
+      <time class="date" datetime="2020-03-15">2020-03-15</time>
       
     </h2>
 
@@ -318,7 +318,7 @@
     <h2 class="post-title">
       <a href="/philosophy/about-self-actualization-and-self-reflections-2017-11-16">!About self-actualization and self-reflections</a>
       
-      <span class="date">2017-11-16</span>
+      <time class="date" datetime="2017-11-16">2017-11-16</time>
       
     </h2>
 
@@ -350,7 +350,7 @@
     <h2 class="post-title">
       <a href="/philosophy/todo-philosophy-2017-11-01">TODO-Philosophy</a>
       
-      <span class="date">2017-11-01</span>
+      <time class="date" datetime="2017-11-01">2017-11-01</time>
       
     </h2>
 
@@ -382,6 +382,19 @@
     </div>
     <script>
         (function () {
+            var path = (location.pathname || "/").replace(/\/+$/, "") || "/";
+            var key = "blog";
+            if (path === "/about" || path === "/about.html") key = "about";
+            else if (path === "/slides" || path === "/slides.html") key = "slides";
+            else if (path === "/memex" || path === "/memex.html" || path.indexOf("/memex/") === 0) key = "memex";
+            else if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) key = "blog";
+            else key = "";
+
+            if (key) {
+                var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
+                if (active) active.setAttribute("aria-current", "page");
+            }
+
             var toggle = document.getElementById("theme-toggle");
             if (!toggle) return;
 
