@@ -1,20 +1,20 @@
 :root {
-    --bg: #f4f6f3;
-    --bg-glow: #dde8df;
-    --bg-top: #f8faf7;
-    --bg-bottom: #eef2ed;
+    --bg: #f8faf7;
+    --bg-glow: #e8f0ea;
+    --bg-top: #fbfcfb;
+    --bg-bottom: #f3f6f2;
     --surface: transparent;
-    --surface-soft: rgba(36, 72, 58, 0.055);
-    --line: rgba(28, 36, 32, 0.1);
-    --line-strong: rgba(28, 36, 32, 0.16);
+    --surface-soft: rgba(36, 72, 58, 0.04);
+    --line: rgba(28, 36, 32, 0.09);
+    --line-strong: rgba(28, 36, 32, 0.14);
     --text: #12161c;
     --text-soft: #4f5963;
     --brand-link: #2a6b55;
     --brand-link-strong: #1a4637;
     --brand-warm: #3d6b5c;
-    --code-bg: #e8ede7;
-    --code-line: #d0d8cf;
-    --input-bg: rgba(255, 255, 255, 0.78);
+    --code-bg: #eef2ed;
+    --code-line: #d8ded7;
+    --input-bg: rgba(255, 255, 255, 0.82);
     --input-bg-focus: #ffffff;
     --focus-border: rgba(42, 107, 85, 0.45);
     --shadow: none;
@@ -31,6 +31,7 @@
     --space-6: 3rem;
     --measure: 38rem;
     --ease: cubic-bezier(0.22, 1, 0.36, 1);
+    color-scheme: light;
 }
 
 * {
@@ -155,37 +156,6 @@ body {
     right: 0.55rem;
 }
 
-.theme-toggle {
-    align-items: center;
-    background: transparent;
-    border: 0;
-    border-radius: 0;
-    color: var(--text-soft);
-    cursor: pointer;
-    display: inline-flex;
-    height: 1.9rem;
-    justify-content: center;
-    line-height: 0;
-    padding: 0;
-    width: 1.9rem;
-    transition: color 180ms var(--ease), transform 280ms var(--ease);
-}
-
-.theme-toggle:hover {
-    background: transparent;
-    color: var(--brand-link-strong);
-    transform: rotate(12deg);
-}
-
-.theme-icon {
-    display: block;
-}
-
-html[data-theme="light"] .theme-icon-sun,
-html[data-theme="dark"] .theme-icon-moon {
-    display: none;
-}
-
 .nav-links a:hover {
     background: transparent;
     color: var(--brand-link-strong);
@@ -215,7 +185,6 @@ html[data-theme="dark"] .theme-icon-moon {
     }
 
     .brand::after,
-    .theme-toggle,
     .post-item,
     a {
         transition: none;
@@ -999,72 +968,6 @@ a.wikilink {
 .wikilink-missing {
     border-bottom: 1px dashed var(--text-soft);
     color: var(--text-soft);
-}
-
-html[data-theme="dark"] {
-    --bg: #101412;
-    --bg-glow: #1a2822;
-    --bg-top: #121816;
-    --bg-bottom: #0c0f0d;
-    --surface: transparent;
-    --surface-soft: rgba(180, 220, 200, 0.1);
-    --line: rgba(230, 240, 234, 0.12);
-    --line-strong: rgba(230, 240, 234, 0.2);
-    --text: #f2f5f3;
-    --text-soft: #a8b5ae;
-    --brand-link: #8dceb0;
-    --brand-link-strong: #b5e0c8;
-    --brand-warm: #9bcfb6;
-    --code-bg: #1a211e;
-    --code-line: #2e3934;
-    --input-bg: #171d1a;
-    --input-bg-focus: #1d2521;
-    --focus-border: rgba(141, 206, 176, 0.55);
-    --shadow: none;
-    --marker: rgba(141, 206, 176, 0.55);
-    --selection: rgba(141, 206, 176, 0.22);
-    color-scheme: dark;
-}
-
-html[data-theme="dark"] .post-body blockquote {
-    border-left-color: var(--brand-link);
-    color: #c5cec8;
-}
-
-html[data-theme="dark"] .tag {
-    background: transparent;
-    color: #a8b7af;
-}
-
-html[data-theme="dark"] .tag:hover {
-    background: transparent;
-    color: var(--brand-link-strong);
-}
-
-html[data-theme="dark"] .content input:focus,
-html[data-theme="dark"] .content textarea:focus {
-    box-shadow: 0 0 0 3px rgba(141, 206, 176, 0.12);
-}
-
-html[data-theme="dark"] .date,
-html[data-theme="dark"] .post-meta,
-html[data-theme="dark"] .post-excerpt,
-html[data-theme="dark"] .post-abstract,
-html[data-theme="dark"] .footer,
-html[data-theme="dark"] .memex-nav,
-html[data-theme="dark"] .search-status,
-html[data-theme="dark"] .wiki-panel-note,
-html[data-theme="dark"] .wiki-panel-secondary summary {
-    color: #a7b2ab;
-}
-
-html[data-theme="dark"] pre,
-html[data-theme="dark"] code {
-    color: #e8eee9;
-}
-
-html[data-theme="light"] {
-    color-scheme: light;
 }
 
 @media (max-width: 720px) {
