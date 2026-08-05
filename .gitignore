@@ -6,3 +6,5 @@ api/__pycache__/
 .venv/
 .vscode/
 blog_build/__pycache__/
+.cursor/
+.pytest_cache

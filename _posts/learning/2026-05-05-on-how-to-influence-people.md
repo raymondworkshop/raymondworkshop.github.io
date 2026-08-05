@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Notes on people"
-date: 2020-06-20 
 update: 2026-04-21
+old: 2020-06-20
 comments: true
 categories: [learning, self, important]
 abstract: "Notes on 对不同背景的人的理解和激励"

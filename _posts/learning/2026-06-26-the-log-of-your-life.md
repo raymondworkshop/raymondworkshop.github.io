@@ -145,15 +145,19 @@ abstract: "personal reflection journal"
         - GOOD  
         - Laura 大方， 開放， 自信  
 
-    - 洗牙 
+    - 洗牙  
         - 600+300 @ 盧浩賢牙科醫務所  
         - 港大深圳醫院  
 
     - 書 <the power of charm>  
         - update dev.research  
 
+    - echo function  
+        - dict function in dev.english  
+
     - argue with Sherry  
         - Not good  
+        - 我看到她的誠懇和熱心，但沒看到她的功利和受害者心理  
 
     - 理髮+染髮  
         - 中大 理髮  Good  
