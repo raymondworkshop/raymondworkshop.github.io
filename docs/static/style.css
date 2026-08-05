@@ -1110,8 +1110,14 @@ html[data-theme="light"] {
     }
 
     .post-title {
+        align-items: flex-start;
         flex-direction: column;
         gap: 0.25rem;
+        justify-content: flex-start;
+    }
+
+    .post-title a {
+        flex: none;
     }
 
     .pagination {
