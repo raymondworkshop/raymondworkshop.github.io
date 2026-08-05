@@ -1,4 +1,5 @@
 import json
+import hashlib
 import pathlib
 from datetime import date
 from typing import Any, Sequence
@@ -54,6 +55,14 @@ from blog_build.search import expand_for_search
 jinja_env = jinja2.Environment(
     loader=jinja2.FileSystemLoader("templates"),
 )
+
+
+def _css_asset_version() -> str:
+    path = pathlib.Path("docs/static/style.css")
+    return hashlib.sha1(path.read_bytes()).hexdigest()[:8]
+
+
+jinja_env.globals["css_v"] = _css_asset_version
 
 
 def render_memex_page(
