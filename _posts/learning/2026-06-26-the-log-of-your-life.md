@@ -46,17 +46,17 @@ abstract: "personal reflection journal"
               Write birthday cards. Record videos sharing your ideas for growing their business.
               Introduce people who would benefit from knowing each other then getting out of the way,
               expecting nothing in return.  
-              
+
     
     - 關係中金錢問題  
-        - 明確“救急不救窮”， 與 “借出即送出”  
+        - 明確“**救急不救窮**”， 與 “借出即送出”  
         - 契約精神保護感情  
-            - 把醜話說在前面 
-            - 事實往往是 因為不談錢， 最後才徹底傷了感情  
+            - 把醜話說在前面  
+            - 事實往往是 因為不談錢， 最後才徹底傷了感情   
 
-        - 混淆了 “价值” 与 “感情”  
+        - 混淆了 “价值” 与 “感情”   
             -  你把“我对金钱边界的维护”误当成了“我对这段感情的否定”   
-            - “健康的、清晰的财务边界，恰恰是保护感情最好的防腐剂。”  
+            - “**健康的、清晰的财务边界**，恰恰是保护感情最好的防腐剂。”  
 
     - 責權對等  
         + **誰的問題 誰解決**  
