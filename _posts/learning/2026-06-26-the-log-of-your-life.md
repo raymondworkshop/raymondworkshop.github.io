@@ -38,8 +38,8 @@ abstract: "personal reflection journal"
 
         - people buy from their friends.   Make everything else equal
             +  在理性邏輯無法分出勝負的關鍵時刻，決策權會交給感性
-            +   將「交易」轉為「關係」  
-            +   透過提供洞察、協助對方解決痛點、展現真誠的利他精神，建立超越一般買賣關係的信任感  
+            +   **將「交易」轉為「關係」**    
+            +   透過**提供洞察、協助對方解決痛點、展現真誠的利他精神**，建立超越一般買賣關係的信任感  
 
         - Being valuable and useful is all you ever need to do to sell things.
             +  help people out.  Send interesting posts. 
