@@ -11,6 +11,97 @@ abstract: "personal reflection journal"
 
 > 不要只记录事实，要记录那些让你感到“不舒服”的瞬间  
 
+#### 2026-08-10  
+* TODO  
+    -  **增重 + 健身 （上身） + 美容**   
+
+    - shadow with english  
+
+    - meet with Amos  ？  
+
+    -  簡歷 + 工作  
+        -  联系 Graham Daley 工作或合作機會  
+
+
+
+* SELF   
+    - Sales is about people and it’s about problem solving
+        - People buy 4 things only:  time, money, sex, and approval/peace of mind
+            +  time: 買 效率 與 勞動力外包
+            +  money:  買 回報， 財富增長 或 風險規避
+            + sex:   買吸引力 -  繁殖慾望， 吸引異性
+            +  approval/peace of mind:  買 社交地位 與 心理安全感
+                - 認可
+                -  心理安全感： 買 的是 “晚上能睡得安穩” 的安心感
+
+        - people buy aspirin always. Sell aspirin.
+
+        - people buy from their friends.   Make everything else equal
+            +  在理性邏輯無法分出勝負的關鍵時刻，決策權會交給感性
+            +   **將「交易」轉為「關係」**    
+            +   透過**提供洞察、協助對方解決痛點、展現真誠的利他精神**，建立超越一般買賣關係的信任感  
+
+        - Being valuable and useful is all you ever need to do to sell things.
+            +  help people out.  Send interesting posts. 
+              Write birthday cards. Record videos sharing your ideas for growing their business.
+              Introduce people who would benefit from knowing each other then getting out of the way,
+              expecting nothing in return.  
+
+    
+    - 關係中金錢問題  
+        - 明確“**救急不救窮**”， 與 “借出即送出”  
+        - 契約精神保護感情  
+            - 把醜話說在前面  
+            - 事實往往是 因為不談錢， 最後才徹底傷了感情   
+
+        - 混淆了 “价值” 与 “感情”   
+            -  你把“我对金钱边界的维护”误当成了“我对这段感情的否定”   
+            - “**健康的、清晰的财务边界**，恰恰是保护感情最好的防腐剂。”  
+
+    - 責權對等  
+        + **誰的問題 誰解決**  
+
+    - 外在不確定性下的可控性  
+        + 底座要有慈悲感  
+        + **對自己的重視**    
+            + 不要貶低自己 - 做讓自己不值錢的決定  
+            + 是貶低自己 還是 精明的選擇  
+
+    - 不要以對方的視角懲罰自己  
+
+    - 情緒勞動也是真實勞動 
+        - 不僅僅是物理勞動  
+
+    - 爲對方出面去談  
+        - 心平氣和去談 
+        - 接下來怎麼辦？  
+
+* DONE  
+    - update dev.business  
+        + more pretty, and professional  
+        + add subscribe/ funcitons  
+
+    - add rbrain in dev.self-wiki  
+        + reference raw sources  
+        + truth from raw/data  
+
+    - dev.local-ai  
+        + free+paid gemma4  
+
+    - dev.english  
+        + optimize  
+
+    - read <psy of money>  
+
+    - pickball  
+        + good  
+
+    - gym twice  
+
+    - hiking  
+        + not good  
+        
+
 #### 2026-08-03  
 * TODO  
     -  **增重 + 健身 （上身） + 美容**   

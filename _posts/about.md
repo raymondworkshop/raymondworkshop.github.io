@@ -7,20 +7,11 @@ Raymond ZHAO Wenlong is a product-minded engineer, and founder@Bean based in Hon
 
 This digital workspace is connected with his [Second Brain](https://github.com/raymondworkshop/dev.self-wiki). Outside of reading and tech, he also likes  Philosophy, Nature,  dog/horse/bird, Film,  and  Color.  
 
- like philosophy, anthropology, nature, psychology, finance, film, research, color, dog/horse/bird, art,Dance, TED, ...
-
 Some of his favorite quotes:
 
-- “To develop a complete mind: 
-Study the science of art;
-study the art of science.
-Learn how to see.
-Realize that everything connects to everything else. ”  – Leonardo da Vinci
 - "Life is too short to worry about stupid things. Fall in love.  Study, think, create and grow."  - Richard Feynman  
 - "What makes you vulnerable makes you strong and beautiful"
 - "The good life is one inspired by love and guided by knowledge" - Bertrand Russell
-- "Buy yourself cake and flowers and get through it"
-- "It’s never too late to be what you might have been" - George Eliot
 
 He was a Technical Officer at HSU, RA in (CUHK, CityU, and HKBU), Tech Lead at HKCREO (a Fintech startup), and Lead Software Engineer at Alcatel-Lucent (now Nokia).
 
