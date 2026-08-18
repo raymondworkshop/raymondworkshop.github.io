@@ -33,6 +33,8 @@ from blog_build.posts import (
     get_post_output_path,
     get_post_stem,
     get_post_url,
+    get_section_index_output_path,
+    is_section_index_post,
     get_sources,
     get_static_link,
     get_topics,
@@ -131,6 +133,12 @@ def write_post(post: frontmatter.Post, content: str, path: pathlib.Path):
         rendered = template.render(post=post, content=content)
 
     output.write_text(rendered)
+    if is_section_index_post(post, path):
+        # GitHub Pages serves {section}/index.html for /{section}/index.
+        # Local tornado prefers {section}/index/index.html. Keep both in sync.
+        landing = get_section_index_output_path(path)
+        landing.parent.mkdir(parents=True, exist_ok=True)
+        landing.write_text(rendered)
 
 
 def write_pygments_style_sheet():
@@ -227,6 +235,8 @@ def write_index(posts: Sequence[frontmatter.Post], path: pathlib.Path):
         write_paginated_home(posts)
         return
     if is_memex_hub_dir(path):
+        return
+    if any(is_section_index_post(post, path) for post in posts):
         return
 
     output = pathlib.Path("./docs/{}/index.html".format(str(path)))

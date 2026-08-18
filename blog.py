@@ -73,6 +73,8 @@ from blog_build.posts import (
     get_post_output_path,
     get_post_stem,
     get_post_url,
+    get_section_index_output_path,
+    is_section_index_post,
     get_sources,
     get_static_link,
     get_topics,

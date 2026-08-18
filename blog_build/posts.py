@@ -171,6 +171,16 @@ def get_post_stem(post: frontmatter.Post, path: pathlib.Path) -> str:
     return get_static_link(post["title"])
 
 
+def is_section_index_post(post: frontmatter.Post, path: pathlib.Path) -> bool:
+    """True when a section post owns the landing URL, e.g. wiki/INDEX.md."""
+    return is_section_dir(path) and get_post_stem(post, path) == "index"
+
+
+def get_section_index_output_path(path: pathlib.Path) -> pathlib.Path:
+    section = str(path).strip("./").lower()
+    return pathlib.Path(f"./docs/{section}/index.html")
+
+
 def get_hub_url(post: frontmatter.Post) -> str:
     return f"/memex/{get_static_link(post['title'])}"
 
