@@ -15,6 +15,7 @@ from blog_build.config import (
     MEMEX_EXCLUDED_SECTIONS,
     MEMEX_HUB_DIR,
     POSTS_PER_PAGE,
+    SECTION_ALIASES,
     SRCS,
     WIKILINK_PATTERN,
 )
@@ -64,8 +65,10 @@ from blog_build.memex.resolve import (
     wikilink_key_variants,
 )
 from blog_build.posts import (
+    canonical_section,
     collect_memex_sources,
     collect_post_aliases,
+    derive_post_date,
     derive_post_title,
     get_excerpt,
     get_file_stem,
@@ -78,6 +81,7 @@ from blog_build.posts import (
     get_sources,
     get_static_link,
     get_topics,
+    is_aliased_section,
     is_memex_excluded_path,
     is_memex_hub_dir,
     is_memex_manifesto,
@@ -133,6 +137,7 @@ __all__ = [
     "POSTS_PER_PAGE",
     "MEMEX_EXCLUDED_SECTIONS",
     "MEMEX_HUB_DIR",
+    "SECTION_ALIASES",
     "WIKILINK_PATTERN",
     "MARKDOWN_LINK_PATTERN",
     "HASHTAG_TAG_LINE",
@@ -153,6 +158,7 @@ __all__ = [
     "normalize_wikilink_key",
     "collect_memex_sources",
     "collect_post_aliases",
+    "canonical_section",
     "collect_search_posts",
     "run_fast_build",
 ]

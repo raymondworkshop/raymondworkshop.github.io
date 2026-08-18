@@ -14,6 +14,11 @@ MEMEX_EXCLUDED_SECTIONS: set[str] = {
 }
 MEMEX_HUB_DIR = pathlib.Path("memex")
 
+# Publish these _posts/ subdirs under another section (symlink sources stay put).
+SECTION_ALIASES: dict[str, str] = {
+    "new-notes": "notes",
+}
+
 WIKILINK_PATTERN = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
 MARKDOWN_LINK_PATTERN = re.compile(r"(?<!!)\[([^\]]+)\]\(([^)]+)\)")
 HASHTAG_TAG_LINE = re.compile(r"^(?:#[^\s#]\S*\s*)+$", re.MULTILINE)
@@ -43,6 +48,7 @@ NOTES_ON_TITLE = re.compile(
 )
 NOTES_ON_TITLE_PLAIN = re.compile(r"^notes on (.+)$", re.IGNORECASE)
 DATED_STEM_SUFFIX = re.compile(r"^(.+)-\d{4}-\d{2}-\d{2}$")
+FILENAME_DATE_PREFIX = re.compile(r"^(\d{4}-\d{2}-\d{2})")
 
 QUOTE_CHARS = "'\"'\"“”‘’"
 FUZZY_MIN_SCORE = 50

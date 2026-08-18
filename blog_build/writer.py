@@ -1,3 +1,4 @@
+import html
 import json
 import hashlib
 import pathlib
@@ -26,8 +27,10 @@ from blog_build.memex.queries import (
 )
 from blog_build.memex.resolve import normalize_memex_url
 from blog_build.posts import (
+    canonical_section,
     collect_excluded_sources,
     collect_memex_sources,
+    get_alias_output_path,
     get_excerpt,
     get_hub_url,
     get_post_output_path,
@@ -38,6 +41,7 @@ from blog_build.posts import (
     get_sources,
     get_static_link,
     get_topics,
+    is_aliased_section,
     is_memex_excluded_entry,
     is_memex_hub_dir,
     is_memex_manifesto,
@@ -48,8 +52,10 @@ from blog_build.posts import (
     memex_section_key,
     parse_source,
     render_markdown,
+    section_key,
     section_label,
     should_preprocess_wikilinks,
+    source_dirs_for_section,
     strip_markdown,
 )
 from blog_build.search import expand_for_search
@@ -80,7 +86,8 @@ def render_memex_page(
 
 def attach_index_fields(post: frontmatter.Post, path: pathlib.Path) -> None:
     """Set path/stem/url used by index templates."""
-    post["path"] = path
+    display_path = canonical_section(path)
+    post["path"] = display_path
     post["url"] = get_post_url(post, path)
     post["excerpt"] = get_excerpt(post)
     if is_memex_hub_dir(path):
@@ -133,6 +140,9 @@ def write_post(post: frontmatter.Post, content: str, path: pathlib.Path):
         rendered = template.render(post=post, content=content)
 
     output.write_text(rendered)
+    alias_output = get_alias_output_path(post, path)
+    if alias_output is not None:
+        write_redirect(alias_output, get_post_url(post, path))
     if is_section_index_post(post, path):
         # GitHub Pages serves {section}/index.html for /{section}/index.
         # Local tornado prefers {section}/index/index.html. Keep both in sync.
@@ -144,6 +154,45 @@ def write_post(post: frontmatter.Post, content: str, path: pathlib.Path):
 def write_pygments_style_sheet():
     css = highlighting.get_style_css(style.themeStyle)
     pathlib.Path("./docs/static/pygments.css").write_text(css)
+
+
+def write_redirect(output: pathlib.Path, target_url: str) -> None:
+    output.parent.mkdir(parents=True, exist_ok=True)
+    escaped = html.escape(target_url, quote=True)
+    output.write_text(
+        "<!DOCTYPE html>\n"
+        '<html lang="en">\n'
+        "<head>\n"
+        '  <meta charset="utf-8">\n'
+        f'  <meta http-equiv="refresh" content="0; url={escaped}">\n'
+        f'  <link rel="canonical" href="{escaped}">\n'
+        "  <title>Redirecting</title>\n"
+        "</head>\n"
+        "<body>\n"
+        f'  <p>Moved to <a href="{escaped}">{escaped}</a>.</p>\n'
+        "</body>\n"
+        "</html>\n"
+    )
+
+
+def write_section_alias_redirect(path: pathlib.Path) -> None:
+    if not is_aliased_section(path):
+        return
+    alias = section_key(path).lower()
+    canon = section_key(canonical_section(path)).lower()
+    if not alias or not canon:
+        return
+    write_redirect(pathlib.Path(f"./docs/{alias}/index.html"), f"/{canon}/")
+
+
+def collect_section_index_posts(path: pathlib.Path) -> list[frontmatter.Post]:
+    posts: list[frontmatter.Post] = []
+    for source_dir in source_dirs_for_section(canonical_section(path)):
+        for source in get_sources(source_dir):
+            post = parse_source(source)
+            attach_index_fields(post, source_dir)
+            posts.append(post)
+    return posts
 
 
 def write_posts(
@@ -213,13 +262,15 @@ def rewrite_plain_posts(
 
 
 def write_indexes_for_sections(sections: set[pathlib.Path]) -> None:
+    written: set[str] = set()
     for subdir in sections:
-        posts = []
-        for source in get_sources(subdir):
-            post = parse_source(source)
-            attach_index_fields(post, subdir)
-            posts.append(post)
-        write_index(posts, subdir)
+        write_section_alias_redirect(subdir)
+        canon = canonical_section(subdir)
+        key = section_key(canon) or "."
+        if key in written:
+            continue
+        written.add(key)
+        write_index(collect_section_index_posts(canon), canon)
 
 
 def write_index(posts: Sequence[frontmatter.Post], path: pathlib.Path):
@@ -323,10 +374,18 @@ def write_memex_index() -> None:
 
 
 def write_docs(root: str, *, memex_enabled: bool = False):
-    subdirs = list_subdirs(root)
+    subdirs = list(list_subdirs(root))
     for subdir in subdirs:
-        posts = write_posts(subdir, memex_enabled=memex_enabled)
-        write_index(posts, subdir)
+        write_posts(subdir, memex_enabled=memex_enabled)
+        write_section_alias_redirect(subdir)
+    written: set[str] = set()
+    for subdir in subdirs:
+        canon = canonical_section(subdir)
+        key = section_key(canon) or "."
+        if key in written:
+            continue
+        written.add(key)
+        write_index(collect_section_index_posts(canon), canon)
 
 
 def collect_search_posts() -> list[dict[str, Any]]:

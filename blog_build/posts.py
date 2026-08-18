@@ -10,10 +10,12 @@ import markdown.extensions.fenced_code
 import highlighting
 from blog_build.config import (
     DATED_STEM_SUFFIX,
+    FILENAME_DATE_PREFIX,
     MEMEX_EXCLUDED_SECTIONS,
     MEMEX_HUB_DIR,
     NOTES_ON_TITLE,
     NOTES_ON_TITLE_PLAIN,
+    SECTION_ALIASES,
     SRCS,
 )
 
@@ -47,6 +49,33 @@ def get_sources(path: pathlib.Path) -> Iterator[pathlib.Path]:
     return pathlib.Path(SRCS).joinpath(path).glob("*.md")
 
 
+def section_key(path: pathlib.Path) -> str:
+    return str(path).strip("./")
+
+
+def canonical_section(path: pathlib.Path) -> pathlib.Path:
+    key = section_key(path)
+    if not key:
+        return path
+    alias = SECTION_ALIASES.get(key)
+    return pathlib.Path(alias) if alias else path
+
+
+def is_aliased_section(path: pathlib.Path) -> bool:
+    return section_key(canonical_section(path)) != section_key(path)
+
+
+def source_dirs_for_section(path: pathlib.Path) -> list[pathlib.Path]:
+    """Canonical section plus any _posts/ dirs that alias onto it."""
+    canonical = canonical_section(path)
+    canon_key = section_key(canonical)
+    dirs = [canonical]
+    for alias, target in SECTION_ALIASES.items():
+        if target == canon_key:
+            dirs.append(pathlib.Path(alias))
+    return dirs
+
+
 def coerce_post_date(value) -> date | None:
     """Normalize front matter dates to datetime.date (YAML may yield str or date)."""
     if value is None or value == "":
@@ -76,17 +105,28 @@ def derive_post_title(post: frontmatter.Post, source: pathlib.Path) -> str:
     return source.stem
 
 
+def derive_post_date(post: frontmatter.Post, source: pathlib.Path) -> date | None:
+    """Prefer front-matter date, then exported, then a YYYY-MM-DD filename prefix."""
+    for value in (post.get("date"), post.get("exported")):
+        coerced = coerce_post_date(value)
+        if coerced:
+            return coerced
+    match = FILENAME_DATE_PREFIX.match(source.stem)
+    if match:
+        return coerce_post_date(match.group(1))
+    return None
+
+
 def normalize_post(post: frontmatter.Post, source: pathlib.Path) -> frontmatter.Post:
     post["title"] = derive_post_title(post, source)
     post["_source_stem"] = source.stem
-    if "date" in post.metadata:
-        coerced = coerce_post_date(post.get("date"))
-        if coerced is None:
-            post.metadata.pop("date", None)
-            if "date" in post:
-                del post["date"]
-        else:
-            post["date"] = coerced
+    derived = derive_post_date(post, source)
+    if derived is None:
+        post.metadata.pop("date", None)
+        if "date" in post:
+            del post["date"]
+    else:
+        post["date"] = derived
     return post
 
 
@@ -126,7 +166,7 @@ def is_memex_post_entry(post: frontmatter.Post, path: pathlib.Path) -> bool:
 
 
 def memex_section_key(path: pathlib.Path) -> str:
-    section = str(path).strip("./")
+    section = section_key(canonical_section(path))
     return section if section else "blog"
 
 
@@ -177,7 +217,7 @@ def is_section_index_post(post: frontmatter.Post, path: pathlib.Path) -> bool:
 
 
 def get_section_index_output_path(path: pathlib.Path) -> pathlib.Path:
-    section = str(path).strip("./").lower()
+    section = section_key(canonical_section(path)).lower()
     return pathlib.Path(f"./docs/{section}/index.html")
 
 
@@ -190,11 +230,24 @@ def get_post_url(post: frontmatter.Post, path: pathlib.Path) -> str:
         return get_hub_url(post)
     if post.get("tags") or post.get("categories") or is_section_dir(path):
         stem = get_post_stem(post, path)
-        section = str(path).strip("./").lower()
+        section = section_key(canonical_section(path)).lower()
         if section:
             return f"/{section}/{stem}"
         return f"/{stem}"
     return f"/{post['title'].lower()}.html"
+
+
+def get_alias_output_path(post: frontmatter.Post, path: pathlib.Path) -> pathlib.Path | None:
+    """Literal section output path when path is an alias (e.g. docs/new-notes/…)."""
+    if not is_aliased_section(path):
+        return None
+    if is_memex_hub_dir(path):
+        return None
+    section = section_key(path).lower()
+    if not section:
+        return None
+    stem = get_post_stem(post, path)
+    return pathlib.Path(f"./docs/{section}/{stem}/index.html")
 
 
 def get_post_output_path(post: frontmatter.Post, path: pathlib.Path) -> pathlib.Path:
@@ -202,7 +255,7 @@ def get_post_output_path(post: frontmatter.Post, path: pathlib.Path) -> pathlib.
         stem = get_static_link(post["title"])
         return pathlib.Path(f"./docs/memex/{stem}/index.html")
     if post.get("tags") or post.get("categories") or is_section_dir(path):
-        section = str(path).strip("./").lower()
+        section = section_key(canonical_section(path)).lower()
         stem = get_post_stem(post, path)
         if section:
             return pathlib.Path(f"./docs/{section}/{stem}/index.html")
@@ -218,7 +271,7 @@ def render_markdown(markdown_text: str) -> str:
 
 
 def section_label(path: pathlib.Path) -> str:
-    name = str(path).strip("./")
+    name = section_key(canonical_section(path))
     if not name:
         return "Blog"
     return name.replace("-", " ").replace("_", " ").title()

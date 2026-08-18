@@ -3,7 +3,7 @@ title: Notes
 date: 2026-06-14
 section: notes
 ---
-Book notes, excerpts, and half-formed thoughts on things I've read. Incomplete — like everything here.
+Book notes, excerpts, and half-formed thoughts on things I've read. Incomplete — like everything here. New book exports from research appear here automatically; distilled themes live in [[Wiki]].
 
 This area overlaps with [[Learning]] (skills drawn from books) and [[Philosophy]] (ideas that stuck). Sometimes a note becomes a [[Course]] summary.
 
