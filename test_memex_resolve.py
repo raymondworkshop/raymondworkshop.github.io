@@ -143,6 +143,22 @@ class MemexResolveTests(unittest.TestCase):
             "about beauty",
         )
 
+    def test_wiki_index_owns_section_landing(self) -> None:
+        import pathlib
+
+        post = blog.parse_source(pathlib.Path("_posts/wiki/INDEX.md"))
+        path = pathlib.Path("wiki")
+        self.assertTrue(blog.is_section_index_post(post, path))
+        self.assertEqual(blog.get_post_url(post, path), "/wiki/index")
+        self.assertEqual(
+            blog.get_post_output_path(post, path),
+            pathlib.Path("./docs/wiki/index/index.html"),
+        )
+        self.assertEqual(
+            blog.get_section_index_output_path(path),
+            pathlib.Path("./docs/wiki/index.html"),
+        )
+
 
 if __name__ == "__main__":
     unittest.main()
