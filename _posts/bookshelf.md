@@ -20,13 +20,14 @@ date: 2012-03-19
 - [The Psychology of Money] by Morgan Housel (9/10)  
 - [The four agreements - a Practical Guide to Personal Freedom] by Don Miguel Ruiz (8/10)
 
+- [The Power of Charm] (8/10)  
+- [The Daily Stoic] by Ryan Holiday   
+- [Games People Play The Psychology of Human Relationships] by Eric Berne  
+
 - [Don't Sweat the small stuff about money] (9/10)  
 - [personal development for smart people] by Steve Pavlina (8/10) 
 - [善用悲觀的力量] by William B. Irvine (8/10)  
 - [沈思錄]  
-- [The Daily Stoic] by Ryan Holiday  
-
-- [The Power of Charm]   
 
 - [Mastery] by Robert Greene  
 
