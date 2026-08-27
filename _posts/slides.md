@@ -6,7 +6,7 @@ date: 2012-03-13
 ### Some of my Slides!
 
 #### 2026-05 self-wiki: Personal AI-powered wiki + Socratic Mirror   
-- [self-wiki](https://github.com/raymondworkshop/dev.self-wiki) is a personal AI-powered wiki, Second Brain + Socratic Mirror service    
+- [self-wiki](https://github.com/raymondworkshop/dev.self-wiki) is a personal AI-powered wiki, + Socratic Mirror service    
     - treat AI as the "OS" and the generated wiki as the "Context Window" for high-resolution self-reflection  
     - self-wiki also can be on coach or education fields    
   
