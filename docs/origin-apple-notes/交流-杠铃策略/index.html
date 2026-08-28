@@ -48,11 +48,33 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/origin-apple-notes">Origin Apple Notes</a>
+        <span class="memex-nav-sep">→</span>
+        <span>交流 - 杠铃策略</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>交流 - 杠铃策略</h1>
         
     </header>
+
     <div class="post-body"><h3>交流 - 杠铃策略</h3>
 <p>和吾国的“中庸”不同,西方多教人远离黄金中间地带,取杠铃之两端。如阅读无用的娱乐杂志或经典书籍及复杂的著作,但勿读平庸的书籍。与大学生、出租车司机和园丁,或最优秀的学者交流,但不要和庸庸碌碌但野心不小的学者交流。如不喜欢某个人,或随他去,或击垮他,勿只停留于口头攻击 ​​​​</p>
 <ul>
@@ -92,6 +114,32 @@
 <ul>
 <li>雪中送炭</li>
 </ul></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -114,6 +162,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

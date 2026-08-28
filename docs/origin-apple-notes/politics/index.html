@@ -48,12 +48,34 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/origin-apple-notes">Origin Apple Notes</a>
+        <span class="memex-nav-sep">→</span>
+        <span>politics</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>politics</h1>
         
     </header>
-    <div class="post-body"><h1>politics</h1>
+
+    <div class="post-body"><p><a href="/origin-apple-notes/politics" class="wikilink">#politics</a> </p>
 <p>自古是自己的土地
 以色列人是外来移民
    - 犹太人在这块土地上至少三次立国(古以色列王国、马卡比王国、现代以色列)，建立了有效的统治，“巴勒斯坦人”一次也没
@@ -62,6 +84,58 @@
   - 国联作出 决议?</p>
 <p>联大做分治决议时，阿以问题的解决是<b><u>在国际协商的框架之内进行的</u></b>。是阿拉伯人发动第一次中东战争，试图灭绝以色列</p>
 <p>以色列之地(又称巴勒斯坦地区)二战后<b><u>独立建国的权利是犹太复国主义运动长期奋斗的成果</u></b>，该地区的阿拉伯人无尺寸之功，跟着分走半壁江山还不满足，要一家独吞</p></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+    <section class="wiki-panel wiki-panel-primary backlinks">
+        <h2>Linked from (4)</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/china-hk-politics" class="wikilink">china hk politics</a></li>
+            
+            <li><a href="/notes/notes-on-the-origins-of-political-order-2020-06-19" class="wikilink">notes on The Origins of Political Order</a></li>
+            
+            <li><a href="/origin-apple-notes/politics-china" class="wikilink">politics  china</a></li>
+            
+            <li><a href="/主客二分-與-天人合一-中西哲學比較-2018-09-09" class="wikilink">“主客二分”與“天人合一”︰中西哲學比較</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-related" open>
+        <summary>Related in Origin Apple Notes</summary>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/china-hk-politics" class="wikilink">china hk politics</a></li>
+            
+            <li><a href="/origin-apple-notes/politics-china" class="wikilink">politics  china</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -84,6 +158,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

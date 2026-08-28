@@ -48,16 +48,74 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/origin-apple-notes">Origin Apple Notes</a>
+        <span class="memex-nav-sep">→</span>
+        <span>驾照</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>驾照</h1>
         
     </header>
-    <div class="post-body"><h1>驾照</h1>
+
+    <div class="post-body"><p><a href="/origin-apple-notes/驾照" class="wikilink">#驾照</a></p>
 <p>私家車
 <a href="https://www.td.gov.hk/tc/public_services/licences_and_permits/driving_test/driving_test_of_noncommercial_vehicles/part_a_written_test/index.html" rel="noopener" class="external-link" target="_blank"><u>筆試</u></a>
 <a href="https://www.td.gov.hk/filemanager/common/td82(7.2019)_e-fillable_chi.pdf" rel="noopener" class="external-link" target="_blank"><u>駕駛考試表格</u></a></p>
 <p>$510</p></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (1)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/wiki/index" class="wikilink">Wiki Index</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -80,6 +138,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

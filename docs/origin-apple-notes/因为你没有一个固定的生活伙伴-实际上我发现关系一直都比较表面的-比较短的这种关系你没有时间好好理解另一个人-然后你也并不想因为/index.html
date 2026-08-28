@@ -48,15 +48,63 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/origin-apple-notes">Origin Apple Notes</a>
+        <span class="memex-nav-sep">→</span>
+        <span>因为你没有一个固定的生活伙伴，实际上我发现关系一直都比较表面的，比较短的这种关系你没有时间好好理解另一个人，然后你也并不想因为…</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>因为你没有一个固定的生活伙伴，实际上我发现关系一直都比较表面的，比较短的这种关系你没有时间好好理解另一个人，然后你也并不想因为…</h1>
         
     </header>
+
     <div class="post-body"><p>那些非正式的恋爱关系</p>
 <p>所以这个恋爱的模式跟你选择的生活模式要符合的</p>
 <p>被人理解，被人支持，你觉得是怎么样一个感觉?</p>
 <p>有“我天生就应该干这一行”的自信，是很值得羡慕的命运。</p></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -79,6 +127,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

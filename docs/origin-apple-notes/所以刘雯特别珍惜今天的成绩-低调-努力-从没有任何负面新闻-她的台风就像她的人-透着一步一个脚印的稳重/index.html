@@ -48,14 +48,62 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/origin-apple-notes">Origin Apple Notes</a>
+        <span class="memex-nav-sep">→</span>
+        <span>所以刘雯特别珍惜今天的成绩，低调，努力，从没有任何负面新闻，她的台风就像她的人，透着一步一个脚印的稳重。</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>所以刘雯特别珍惜今天的成绩，低调，努力，从没有任何负面新闻，她的台风就像她的人，透着一步一个脚印的稳重。</h1>
         
     </header>
+
     <div class="post-body"><p>越是没人注意的地方，越容易发光，没有什么努力是白费的。</p>
 <p>中国人只是舞台下的观众而已，不是背后创意的大脑。</p>
 <p>奚梦瑶的笑容把一个让人吓到苍白无力的场景，转化为整场秀最好、最动人心的时刻之一。这似乎又反映了经典的中国式好面子，对比西方人鼓励尝试、不怕失败的精神。</p></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -78,6 +126,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

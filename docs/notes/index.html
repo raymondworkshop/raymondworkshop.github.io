@@ -57,6 +57,21 @@
 
   <article class="post post-item">
     <h2 class="post-title">
+      <a href="/notes/2026-08-27-people-games">people games</a>
+      
+      <time class="date" datetime="2026-08-27">2026-08-27</time>
+      
+    </h2>
+
+    
+  </article>
+  
+  
+
+  
+
+  <article class="post post-item">
+    <h2 class="post-title">
       <a href="/notes/2026-08-07-seduction-bible-become-a-high-value-man-sleep-with-beautiful-women">Seduction Bible Become a High-Value Man  Sleep with Beautiful Women</a>
       
       <time class="date" datetime="2026-08-07">2026-08-07</time>
@@ -138,6 +153,58 @@
       
     </h2>
 
+    
+  </article>
+  
+  
+
+  
+
+  <article class="post post-item">
+    <h2 class="post-title">
+      <a href="/notes/notes-on-stoic-philosophy-2026-04-07">Notes on Stoic Philosophy</a>
+      
+      <time class="date" datetime="2026-04-07">2026-04-07</time>
+      
+    </h2>
+
+    
+    <div class="post-tags">
+      
+      
+      
+      <a class="tag" href="/self">#self</a>
+      
+      <a class="tag" href="/important">#important</a>
+      
+      
+    </div>
+    
+  </article>
+  
+  
+
+  
+
+  <article class="post post-item">
+    <h2 class="post-title">
+      <a href="/notes/notes-on-成為自由人-2026-03-01">Notes on '成為自由人'</a>
+      
+      <time class="date" datetime="2026-03-01">2026-03-01</time>
+      
+    </h2>
+
+    
+    <div class="post-tags">
+      
+      
+      <a class="tag" href="/notes">#notes</a>
+      
+      <a class="tag" href="/self">#self</a>
+      
+      
+      
+    </div>
     
   </article>
   
@@ -894,6 +961,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

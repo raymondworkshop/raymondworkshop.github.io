@@ -48,6 +48,13 @@
 
         <main class="content">
             
+
+
+
+
+
+
+
 <article class="post memex-page">
     <nav class="memex-nav" aria-label="Memex navigation">
         
@@ -60,9 +67,9 @@
         <span class="memex-nav-sep">→</span>
         <span>On music</span>
         
-        
-    </nav>
 
+    </nav>
+    
     <header class="post-header">
         <h1>On music</h1>
         
@@ -91,13 +98,15 @@
 <li><a href="https://www.coursera.org/learn/develop-your-musicianship/home/welcome">Developing Your Musicianship</a></li>
 <li><a href="https://www.coursera.org/learn/edinburgh-music-theory/home/welcome">Fundamentals of Music Theory</a></li>
 </ul></div>
-
+    
     
     <section class="wiki-panel wiki-panel-primary wiki-outgoing">
         <h2>Links to</h2>
         <ul class="wiki-link-grid">
             
             <li><a href="/memex/course" class="wikilink">Course</a></li>
+            
+            <li><a href="/memex/learning" class="wikilink">Learning</a></li>
             
         </ul>
     </section>
@@ -140,15 +149,15 @@
             
             <li><a href="/course/notes-on-認知訓練營-2020-09-30" class="wikilink">notes on 認知訓練營</a></li>
             
-            <li><a href="/language/humor-2020-04-23" class="wikilink">humor</a></li>
+            <li><a href="/diary/the-log-of-your-life-2022-08-08" class="wikilink">The log of your life</a></li>
             
-            <li><a href="/language/literature-2017-09-02" class="wikilink">Literature</a></li>
+            <li><a href="/diary/the-log-of-your-life-2023-09-04" class="wikilink">The log of your life</a></li>
             
-            <li><a href="/language/notes-on-business-english-2020-06-08" class="wikilink">notes on business english</a></li>
+            <li><a href="/diary/the-log-of-your-life-2024-01-02" class="wikilink">The log of your life</a></li>
             
-            <li><a href="/notes/about-spiritual-world-2017-11-16" class="wikilink">About Spiritual world</a></li>
+            <li><a href="/diary/the-log-of-your-life-2026-02-21" class="wikilink">The log of your life</a></li>
             
-            <li><a href="/notes/do-吴军-2019-04-18" class="wikilink">DO-吴军</a></li>
+            <li><a href="/diary/year-2022-weekly-check-ins-2022-01-27" class="wikilink">Year 2022 Weekly check-ins</a></li>
             
         </ul>
     </details>
@@ -159,7 +168,9 @@
     
 
     
+
 </article>
+
 
         </main>
 
@@ -180,6 +191,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

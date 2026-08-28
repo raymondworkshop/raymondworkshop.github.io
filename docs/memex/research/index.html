@@ -48,6 +48,13 @@
 
         <main class="content">
             
+
+
+
+
+
+
+
 <article class="post memex-page memex-hub">
     <nav class="memex-nav" aria-label="Memex navigation">
         
@@ -58,9 +65,9 @@
         <span class="memex-nav-sep">→</span>
         <span>Research</span>
         
-        
-    </nav>
 
+    </nav>
+    
     <header class="post-header">
         <h1>Research</h1>
         
@@ -73,12 +80,14 @@
 <h3>Reading list</h3>
 <p><a href="/research/todo-the-beginning-of-infinity-2019-07-21" class="wikilink">TODO-The Beginning of Infinity</a> · [[[Updating] Some Interesting Questions]]</p>
 <h3>Related areas</h3>
-<p><a href="/memex/tech" class="wikilink">Tech</a> · <a href="/memex/philosophy" class="wikilink">Philosophy</a> · <a href="/memex/notes" class="wikilink">Notes</a> · <span class="wikilink-missing">Learning</span></p></div>
-
+<p><a href="/memex/tech" class="wikilink">Tech</a> · <a href="/memex/philosophy" class="wikilink">Philosophy</a> · <a href="/memex/notes" class="wikilink">Notes</a> · <a href="/memex/learning" class="wikilink">Learning</a></p></div>
+    
     
     <section class="wiki-panel wiki-panel-primary wiki-outgoing">
         <h2>Links to</h2>
         <ul class="wiki-link-grid">
+            
+            <li><a href="/memex/learning" class="wikilink">Learning</a></li>
             
             <li><a href="/memex/notes" class="wikilink">Notes</a></li>
             
@@ -98,7 +107,7 @@
 
     
     <section class="wiki-panel wiki-panel-primary backlinks">
-        <h2>Linked from (12)</h2>
+        <h2>Linked from (18)</h2>
         <ul class="wiki-link-grid">
             
             <li><a href="/research/updating-notes-on-creativity-and-research-2018-11-18" class="wikilink">[Updating] !notes on creativity and research</a></li>
@@ -109,6 +118,8 @@
             
             <li><a href="/memex/blog" class="wikilink">Blog</a></li>
             
+            <li><a href="/learning/keep-my-creativity-2018-05-28" class="wikilink">Keep my creativity</a></li>
+            
             <li><a href="/memex.html" class="wikilink">Memex</a></li>
             
             <li><a href="/memex/notes" class="wikilink">Notes</a></li>
@@ -118,6 +129,16 @@
             <li><a href="/research/paper-summary-2020-05-13" class="wikilink">Paper Summary</a></li>
             
             <li><a href="/memex/philosophy" class="wikilink">Philosophy</a></li>
+            
+            <li><a href="/origin-apple-notes/research" class="wikilink">research</a></li>
+            
+            <li><a href="/origin-apple-notes/research-idea" class="wikilink">research idea</a></li>
+            
+            <li><a href="/origin-apple-notes/science-1" class="wikilink">science 1</a></li>
+            
+            <li><a href="/origin-apple-notes/science-5" class="wikilink">science 5</a></li>
+            
+            <li><a href="/origin-apple-notes/science-9" class="wikilink">science 9</a></li>
             
             <li><a href="/memex/tech" class="wikilink">Tech</a></li>
             
@@ -152,19 +173,6 @@
                     <a href="/memex/research">Research</a> · 
                     
                     <a href="/slides.html">Slides</a>
-                    
-                </p>
-            </li>
-            
-            <li class="wiki-card">
-                <h3><a href="/research/updating-notes-on-creativity-and-research-2018-11-18">[Updating] !notes on creativity and research</a></h3>
-                
-                <p class="wiki-card-excerpt">[Updating] !notes on creativity and research</p>
-                
-                <p class="wiki-mentions">
-                    Linked from:
-                    
-                    <a href="/philosophy/about-self-actualization-and-self-reflections-2017-11-16">!About self-actualization and self-reflections</a>
                     
                 </p>
             </li>
@@ -261,11 +269,21 @@
             
             <li><a href="/memex/course" class="wikilink">Course</a></li>
             
+            <li><a href="/memex/diary" class="wikilink">Diary</a></li>
+            
+            <li><a href="/memex/invest" class="wikilink">Invest</a></li>
+            
             <li><a href="/memex/language" class="wikilink">Language</a></li>
+            
+            <li><a href="/memex/learning" class="wikilink">Learning</a></li>
             
             <li><a href="/memex/notes" class="wikilink">Notes</a></li>
             
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
+            
             <li><a href="/memex/philosophy" class="wikilink">Philosophy</a></li>
+            
+            <li><a href="/memex/self" class="wikilink">Self</a></li>
             
             <li><a href="/memex/softskills" class="wikilink">Softskills</a></li>
             
@@ -278,7 +296,9 @@
         </ul>
     </section>
     
+
 </article>
+
 
         </main>
 
@@ -299,6 +319,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

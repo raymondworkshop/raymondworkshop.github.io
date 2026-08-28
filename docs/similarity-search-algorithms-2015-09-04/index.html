@@ -48,21 +48,15 @@
 
         <main class="content">
             
-<article class="post memex-page">
-    <nav class="memex-nav" aria-label="Memex navigation">
-        
-        <a href="/about.html">About</a>
-        <span class="memex-nav-sep">→</span>
-        <a href="/memex.html">Memex</a>
-        
-        <span class="memex-nav-sep">→</span>
-        <a href="/memex/blog">Blog</a>
-        <span class="memex-nav-sep">→</span>
-        <span>Similarity Search Algorithms</span>
-        
-        
-    </nav>
 
+
+
+
+
+
+
+<article class="post" data-memex-context="dual">
+    
     <header class="post-header">
         <h1>Similarity Search Algorithms</h1>
         
@@ -173,18 +167,48 @@ and ranking the candidate objects according to their distances to q.</p>
 </li>
 </ol>
 </div></div>
+    <div class="memex-chrome" hidden>
+        <nav class="memex-nav" aria-label="Memex navigation">
+            
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/blog">Blog</a>
+        <span class="memex-nav-sep">→</span>
+        <span>Similarity Search Algorithms</span>
+        
 
+        </nav>
+        
     
 
     
 
     
     <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
-        <summary>Mentioned but not linked (1)</summary>
+        <summary>Mentioned but not linked (9)</summary>
         <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
         <ul class="wiki-link-grid">
             
+            <li><a href="/origin-apple-notes/data" class="wikilink">data</a></li>
+            
+            <li><a href="/origin-apple-notes/find" class="wikilink">find</a></li>
+            
+            <li><a href="/origin-apple-notes/idea" class="wikilink">idea</a></li>
+            
+            <li><a href="/origin-apple-notes/important" class="wikilink">important</a></li>
+            
+            <li><a href="/origin-apple-notes/object" class="wikilink">object</a></li>
+            
+            <li><a href="/origin-apple-notes/time" class="wikilink">time</a></li>
+            
+            <li><a href="/origin-apple-notes/todo" class="wikilink">todo</a></li>
+            
             <li><a href="/wiki/index" class="wikilink">Wiki Index</a></li>
+            
+            <li><a href="/origin-apple-notes/work" class="wikilink">work</a></li>
             
         </ul>
     </details>
@@ -234,7 +258,10 @@ and ranking the candidate objects according to their distances to q.</p>
     
 
     
+
+    </div>
 </article>
+
 
         </main>
 
@@ -255,6 +282,44 @@ and ranking the candidate objects according to their distances to q.</p>
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

@@ -48,6 +48,13 @@
 
         <main class="content">
             
+
+
+
+
+
+
+
 <article class="post memex-page">
     <nav class="memex-nav" aria-label="Memex navigation">
         
@@ -60,9 +67,9 @@
         <span class="memex-nav-sep">→</span>
         <span>廣東話學習</span>
         
-        
-    </nav>
 
+    </nav>
+    
     <header class="post-header">
         <h1>廣東話學習</h1>
         
@@ -403,7 +410,7 @@
 面 min6<br />
 叫做 giu3 zou6<br />
 寸金尺土 cyun3 gam1 cek3 tou2</p>
-<h4><a href="https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j3_1vocab_sod.html#">购物</a></h4>
+<h4><a href="/origin-apple-notes/购物" class="wikilink">购物</a></h4>
 <p>優惠 jau1 wai6<br />
 牌子 pai4 zi2<br />
 現金 jin6 gam1<br />
@@ -502,7 +509,7 @@
 稱呼 cing1 fu1<br />
 照顧 ziu3 gu3<br />
 阻-&gt;打擾 zo2</p>
-<h4><a href="https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/ch_j2_2dialogue_sod.html">3</a></h4>
+<h4><a href="/origin-apple-notes/30天服务" class="wikilink">3</a></h4>
 <p>真 zan1<br />
 假 gaa2<br />
 姓 sing3<br />
@@ -538,13 +545,19 @@
 <ul>
 <li><a href="https://www.ilc.cuhk.edu.hk/Chinese/pthprog1/tm_introduction.html">Cantonese speaking</a></li>
 </ul></div>
-
+    
     
     <section class="wiki-panel wiki-panel-primary wiki-outgoing">
         <h2>Links to</h2>
         <ul class="wiki-link-grid">
             
+            <li><a href="/origin-apple-notes/30天服务" class="wikilink">30天服务</a></li>
+            
+            <li><a href="/origin-apple-notes/cantonese" class="wikilink">cantonese</a></li>
+            
             <li><a href="/memex/language" class="wikilink">Language</a></li>
+            
+            <li><a href="/origin-apple-notes/购物" class="wikilink">购物</a></li>
             
         </ul>
     </section>
@@ -552,6 +565,18 @@
 
     
 
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (2)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/ceot1" class="wikilink">ceot1</a></li>
+            
+            <li><a href="/origin-apple-notes/特点-dak6-dim2" class="wikilink">特点 dak6 dim2</a></li>
+            
+        </ul>
+    </details>
     
 
     
@@ -595,6 +620,8 @@
             
             <li><a href="/language/prosody-in-language-2016-10-04" class="wikilink">Prosody in Language</a></li>
             
+            <li><a href="/learning/english-listening-and-pronunciation-2016-10-04" class="wikilink">!English Listening and Pronunciation</a></li>
+            
         </ul>
     </details>
     
@@ -604,7 +631,9 @@
     
 
     
+
 </article>
+
 
         </main>
 
@@ -625,6 +654,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

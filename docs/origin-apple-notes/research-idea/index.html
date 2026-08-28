@@ -48,12 +48,34 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/origin-apple-notes">Origin Apple Notes</a>
+        <span class="memex-nav-sep">→</span>
+        <span>research idea</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>research idea</h1>
         
     </header>
-    <div class="post-body"><h1>research #idea</h1>
+
+    <div class="post-body"><p><a href="/memex/research" class="wikilink">#research</a> <a href="/origin-apple-notes/idea" class="wikilink">#idea</a> </p>
 <ol>
 <li>treat every situation as a learning opportunity - <span style="font-family:SFUIText-Bold;"><b>absorb what you say</b></span></li>
 <li><span style="font-family:SFUIText-Bold;"><b>clear their mind to see the other person</b></span> - see the world usually keep their cameras pointed outwards - 将关注点对准外界</li>
@@ -64,6 +86,71 @@
 <li>combine something of the <span style="font-family:SFUIText-Bold;"><b>scientist and of the poet</b></span> - imagination to come up with ideas, and the scientist tests them</li>
 <li>say what they think is true</li>
 </ol></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/idea" class="wikilink">idea</a></li>
+            
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
+            
+            <li><a href="/memex/research" class="wikilink">Research</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (9)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/family" class="wikilink">family</a></li>
+            
+            <li><a href="/origin-apple-notes/ideas" class="wikilink">ideas</a></li>
+            
+            <li><a href="/ideas.html" class="wikilink">ideas</a></li>
+            
+            <li><a href="/origin-apple-notes/learning" class="wikilink">learning</a></li>
+            
+            <li><a href="/memex/learning" class="wikilink">Learning</a></li>
+            
+            <li><a href="/origin-apple-notes/mind" class="wikilink">mind</a></li>
+            
+            <li><a href="/origin-apple-notes/research" class="wikilink">research</a></li>
+            
+            <li><a href="/origin-apple-notes/time" class="wikilink">time</a></li>
+            
+            <li><a href="/origin-apple-notes/work" class="wikilink">work</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-related" open>
+        <summary>Related in Origin Apple Notes</summary>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/idea" class="wikilink">idea</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -86,6 +173,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

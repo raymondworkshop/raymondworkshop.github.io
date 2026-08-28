@@ -48,6 +48,13 @@
 
         <main class="content">
             
+
+
+
+
+
+
+
 <article class="post memex-page">
     <nav class="memex-nav" aria-label="Memex navigation">
         
@@ -60,9 +67,9 @@
         <span class="memex-nav-sep">→</span>
         <span>[Updating] The Pragmatic Programming</span>
         
-        
-    </nav>
 
+    </nav>
+    
     <header class="post-header">
         <h1>[Updating] The Pragmatic Programming</h1>
         
@@ -152,13 +159,17 @@
 <ul>
 <li>The Pragmatic Programmer by Andrew Hunt &amp; David Thomas</li>
 </ul></div>
-
+    
     
     <section class="wiki-panel wiki-panel-primary wiki-outgoing">
         <h2>Links to</h2>
         <ul class="wiki-link-grid">
             
+            <li><a href="/memex/learning" class="wikilink">Learning</a></li>
+            
             <li><a href="/memex/notes" class="wikilink">Notes</a></li>
+            
+            <li><a href="/origin-apple-notes/programming" class="wikilink">programming</a></li>
             
         </ul>
     </section>
@@ -168,13 +179,27 @@
 
     
     <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
-        <summary>Mentioned but not linked (2)</summary>
+        <summary>Mentioned but not linked (9)</summary>
         <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
         <ul class="wiki-link-grid">
             
+            <li><a href="/origin-apple-notes/business" class="wikilink">business</a></li>
+            
             <li><a href="/memex/business" class="wikilink">Business</a></li>
             
+            <li><a href="/origin-apple-notes/data" class="wikilink">data</a></li>
+            
+            <li><a href="/memex/invest" class="wikilink">Invest</a></li>
+            
+            <li><a href="/origin-apple-notes/language" class="wikilink">language</a></li>
+            
             <li><a href="/memex/language" class="wikilink">Language</a></li>
+            
+            <li><a href="/origin-apple-notes/time" class="wikilink">time</a></li>
+            
+            <li><a href="/origin-apple-notes/todo" class="wikilink">todo</a></li>
+            
+            <li><a href="/origin-apple-notes/tools" class="wikilink">tools</a></li>
             
         </ul>
     </details>
@@ -217,11 +242,11 @@
             
             <li><a href="/course/on-music-2017-08-04" class="wikilink">On music</a></li>
             
-            <li><a href="/how-llms-actually-work-2024-11-29" class="wikilink">How LLMs Actually Work</a></li>
+            <li><a href="/diary/the-log-of-your-life-2022-08-08" class="wikilink">The log of your life</a></li>
             
-            <li><a href="/language/humor-2020-04-23" class="wikilink">humor</a></li>
+            <li><a href="/diary/the-log-of-your-life-2023-09-04" class="wikilink">The log of your life</a></li>
             
-            <li><a href="/language/literature-2017-09-02" class="wikilink">Literature</a></li>
+            <li><a href="/diary/the-log-of-your-life-2024-01-02" class="wikilink">The log of your life</a></li>
             
         </ul>
     </details>
@@ -232,7 +257,9 @@
     
 
     
+
 </article>
+
 
         </main>
 
@@ -253,6 +280,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

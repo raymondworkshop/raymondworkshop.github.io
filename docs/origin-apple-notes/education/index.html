@@ -48,12 +48,34 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/origin-apple-notes">Origin Apple Notes</a>
+        <span class="memex-nav-sep">→</span>
+        <span>education</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>education</h1>
         
     </header>
-    <div class="post-body"><h1>education</h1>
+
+    <div class="post-body"><p><a href="/origin-apple-notes/education" class="wikilink">#education</a> </p>
 <p>口才好
     - 最重要识吹
     - 理的你怎么看，最重要我撑我自己
@@ -75,6 +97,96 @@ Self-believe
     - 毅力， IQ,   耐心</p>
 <p>锻炼思维</p>
 <p>经历过好多风浪</p></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+    <section class="wiki-panel wiki-panel-primary backlinks">
+        <h2>Linked from (11)</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/education-important-life" class="wikilink">education  important  life</a></li>
+            
+            <li><a href="/origin-apple-notes/education-learning" class="wikilink">education  learning</a></li>
+            
+            <li><a href="/origin-apple-notes/education-self" class="wikilink">education  self</a></li>
+            
+            <li><a href="/origin-apple-notes/education-important-self" class="wikilink">education important  self</a></li>
+            
+            <li><a href="/origin-apple-notes/insight-important-self" class="wikilink">insight  important self</a></li>
+            
+            <li><a href="/origin-apple-notes/insight-education" class="wikilink">insight education</a></li>
+            
+            <li><a href="/mans-search-for-meaning-2021-04-25" class="wikilink">Mans search for meaning</a></li>
+            
+            <li><a href="/self/notes-on-thrivers-2020-09-24" class="wikilink">notes-on-thrivers</a></li>
+            
+            <li><a href="/on-education-and-learning-2020-12-20" class="wikilink">On Education and  Learning</a></li>
+            
+            <li><a href="/origin-apple-notes/relationships-self-education" class="wikilink">relationships  self  education</a></li>
+            
+            <li><a href="/origin-apple-notes/softskills-education" class="wikilink">softskills  education</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (2)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/self" class="wikilink">self</a></li>
+            
+            <li><a href="/memex/self" class="wikilink">Self</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-related">
+        <summary>Related in Origin Apple Notes</summary>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/education-important-life" class="wikilink">education  important  life</a></li>
+            
+            <li><a href="/origin-apple-notes/education-learning" class="wikilink">education  learning</a></li>
+            
+            <li><a href="/origin-apple-notes/education-self" class="wikilink">education  self</a></li>
+            
+            <li><a href="/origin-apple-notes/education-important-self" class="wikilink">education important  self</a></li>
+            
+            <li><a href="/origin-apple-notes/insight-education" class="wikilink">insight  education</a></li>
+            
+            <li><a href="/origin-apple-notes/insight-important-self" class="wikilink">insight  important  self</a></li>
+            
+            <li><a href="/origin-apple-notes/insight-important-self" class="wikilink">insight  important self</a></li>
+            
+            <li><a href="/origin-apple-notes/insight-education" class="wikilink">insight education</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -97,6 +209,44 @@ Self-believe
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

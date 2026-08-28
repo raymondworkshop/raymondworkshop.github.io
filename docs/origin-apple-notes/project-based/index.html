@@ -48,12 +48,34 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/origin-apple-notes">Origin Apple Notes</a>
+        <span class="memex-nav-sep">→</span>
+        <span>project-based</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>project-based</h1>
         
     </header>
-    <div class="post-body"><h1>project-based</h1>
+
+    <div class="post-body"><p><a href="/origin-apple-notes/project-based" class="wikilink">#project-based</a></p>
 <p>项目式学习是有一个目标 （可以是清楚的，也可以只有大概方向）
    - 学习的目的是<b><u>达到目标，而途径可以不同</u></b></p>
 <ul>
@@ -65,14 +87,10 @@
 </li>
 <li>完善的计划， 足够的灵活， 一个可以开展团队协作的环境</li>
 </ul>
-<h1>self</h1>
-<ol>
-<li>工作， 尽可能快，尽可能高效 
-    核心任務 - 至少用80%的时间 <b><u>解決最重要，最困难的部</u></b><strong>分</strong> <ul>
-<li>不追求完美，只需要<b><u>满足最小可行产品</u></b>原则 (mini viable product)</li>
-</ul>
-</li>
-</ol>
+<p><a href="/memex/self" class="wikilink">#self</a>
+1. 工作， 尽可能快，尽可能高效 
+    核心任務 - 至少用80%的时间 <b><u>解決最重要，最困难的部</u></b><strong>分</strong> 
+    - 不追求完美，只需要<b><u>满足最小可行产品</u></b>原则 (mini viable product)</p>
 <p>2.  休闲， <b><u>以享乐主义的视角</u></b> - 尽可能享受当下的闲暇
      体力活动 + 发展一项爱好，深度沉浸</p>
 <p>3.  识别并规划更长收益的事情
@@ -82,6 +100,46 @@
     - 从事写作等创造性活动
     - 提升个人审美
     - 反思与总结</p></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
+            
+            <li><a href="/memex/self" class="wikilink">Self</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (2)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/product" class="wikilink">product</a></li>
+            
+            <li><a href="/origin-apple-notes/self" class="wikilink">self</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -104,6 +162,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

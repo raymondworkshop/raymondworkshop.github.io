@@ -48,6 +48,13 @@
 
         <main class="content">
             
+
+
+
+
+
+
+
 <article class="post memex-page">
     <nav class="memex-nav" aria-label="Memex navigation">
         
@@ -60,9 +67,9 @@
         <span class="memex-nav-sep">→</span>
         <span>Seduction Bible Become a High-Value Man  Sleep with Beautiful Women</span>
         
-        
-    </nav>
 
+    </nav>
+    
     <header class="post-header">
         <h1>Seduction Bible Become a High-Value Man  Sleep with Beautiful Women</h1>
         
@@ -139,7 +146,7 @@
 <ul>
 <li>[info] commonalities.</li>
 </ul></div>
-
+    
     
     <section class="wiki-panel wiki-panel-primary wiki-outgoing">
         <h2>Links to</h2>
@@ -152,23 +159,28 @@
     
 
     
-    <section class="wiki-panel wiki-panel-primary backlinks">
-        <h2>Linked from (1)</h2>
-        <ul class="wiki-link-grid">
-            
-            <li><a href="/memex/course" class="wikilink">Course</a></li>
-            
-        </ul>
-    </section>
-    
 
     
     <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
-        <summary>Mentioned but not linked (1)</summary>
+        <summary>Mentioned but not linked (8)</summary>
         <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
         <ul class="wiki-link-grid">
             
             <li><a href="/about.html" class="wikilink">About</a></li>
+            
+            <li><a href="/origin-apple-notes/info" class="wikilink">info</a></li>
+            
+            <li><a href="/learning/notes-on-people-2026-05-05" class="wikilink">Notes on people</a></li>
+            
+            <li><a href="/learning/seduction-bible-2023-10-06" class="wikilink">Seduction Bible</a></li>
+            
+            <li><a href="/origin-apple-notes/self" class="wikilink">self</a></li>
+            
+            <li><a href="/memex/self" class="wikilink">Self</a></li>
+            
+            <li><a href="/origin-apple-notes/unknown" class="wikilink">unknown</a></li>
+            
+            <li><a href="/origin-apple-notes/value" class="wikilink">value</a></li>
             
         </ul>
     </details>
@@ -183,7 +195,9 @@
     
 
     
+
 </article>
+
 
         </main>
 
@@ -204,6 +218,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

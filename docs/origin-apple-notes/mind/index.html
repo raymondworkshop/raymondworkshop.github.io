@@ -48,22 +48,105 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/origin-apple-notes">Origin Apple Notes</a>
+        <span class="memex-nav-sep">→</span>
+        <span>mind</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>mind</h1>
         
     </header>
-    <div class="post-body"><h1>mind</h1>
-<h1>skills</h1>
+
+    <div class="post-body"><p><a href="/origin-apple-notes/mind" class="wikilink">#mind</a> 
+<a href="/origin-apple-notes/skills" class="wikilink">#skills</a> </p>
 <p>Entrepreneurship isn't about the money. It's about <b><u>owning your own life</u></b>.</p>
 <p><b><u>Using creativity to solove problems cannot be taught, and it's ultimately what free markets pay for</u></b>
     - If the work doesn't require <b><u>creativity</u></b>, <b><u>delegate it</u></b>, <b><u>automate it</u></b>, or <b><u>leave it</u></b></p>
 <pre><code>- Invest your &lt;b&gt;&lt;u&gt;creativity, skills and efforts into solving big problems&lt;/u&gt;&lt;/b&gt; and you will receive big rewards
 </code></pre>
-<h1>love</h1>
-<p><b><u>A soul-to-soul relationship</u></b> is worth the wait.
+<p><a href="/origin-apple-notes/love" class="wikilink">#love</a> 
+<b><u>A soul-to-soul relationship</u></b> is worth the wait.
 your soulmate will recognize you, befriend you, love you, support you, heal with you and evolve with you</p>
 <p>Integrity is when <b><u>what you think</u></b> and <b><u>what you say</u></b> and <b><u>what you do</u></b> are one</p></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/love" class="wikilink">love</a></li>
+            
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
+            
+            <li><a href="/origin-apple-notes/skills" class="wikilink">skills</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (6)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/about.html" class="wikilink">About</a></li>
+            
+            <li><a href="/memex/invest" class="wikilink">Invest</a></li>
+            
+            <li><a href="/origin-apple-notes/life" class="wikilink">life</a></li>
+            
+            <li><a href="/origin-apple-notes/money" class="wikilink">money</a></li>
+            
+            <li><a href="/origin-apple-notes/relationship" class="wikilink">relationship</a></li>
+            
+            <li><a href="/origin-apple-notes/work" class="wikilink">work</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-related" open>
+        <summary>Related in Origin Apple Notes</summary>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/love" class="wikilink">love</a></li>
+            
+            <li><a href="/origin-apple-notes/skills" class="wikilink">skills</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -86,6 +169,44 @@ your soulmate will recognize you, befriend you, love you, support you, heal with
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

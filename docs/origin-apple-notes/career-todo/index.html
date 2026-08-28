@@ -48,14 +48,36 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/origin-apple-notes">Origin Apple Notes</a>
+        <span class="memex-nav-sep">→</span>
+        <span>career  todo</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>career  todo</h1>
         
     </header>
-    <div class="post-body"><h1>career  #todo</h1>
-<h1>self</h1>
-<p>做决定好拖沓 
+
+    <div class="post-body"><p><a href="/origin-apple-notes/career" class="wikilink">#career</a>  <a href="/origin-apple-notes/todo" class="wikilink">#todo</a></p>
+<p><a href="/memex/self" class="wikilink">#self</a>
+做决定好拖沓 
     - 害怕错误决定 
     - 害怕 承担责任 
     - 做出了，觉得有些轻松 
@@ -70,6 +92,59 @@
         + 失败情况下收获依旧很大
     - 继续走下去， 所要<b><u>付出的情绪和经济成本</u></b>有多少？  </p>
 <p>不行的话，我就开始找工作， 做别的打算</p></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/career" class="wikilink">career</a></li>
+            
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
+            
+            <li><a href="/memex/self" class="wikilink">Self</a></li>
+            
+            <li><a href="/origin-apple-notes/todo" class="wikilink">todo</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (1)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/self" class="wikilink">self</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-related" open>
+        <summary>Related in Origin Apple Notes</summary>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/career" class="wikilink">career</a></li>
+            
+            <li><a href="/origin-apple-notes/todo" class="wikilink">todo</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -92,6 +167,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

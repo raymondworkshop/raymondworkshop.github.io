@@ -57,54 +57,6 @@
 
   <article class="post post-item">
     <h2 class="post-title">
-      <a href="/logic-gate-2015-10-07">Logic Gate</a>
-      
-      <time class="date" datetime="2015-10-07">2015-10-07</time>
-      
-    </h2>
-
-    
-    <div class="post-tags">
-      
-      
-      
-      <a class="tag" href="/algorithms">#algorithms</a>
-      
-      
-    </div>
-    
-  </article>
-  
-  
-
-  
-
-  <article class="post post-item">
-    <h2 class="post-title">
-      <a href="/similarity-search-algorithms-2015-09-04">Similarity Search Algorithms</a>
-      
-      <time class="date" datetime="2015-09-04">2015-09-04</time>
-      
-    </h2>
-
-    
-    <div class="post-tags">
-      
-      
-      
-      <a class="tag" href="/algorithms">#algorithms</a>
-      
-      
-    </div>
-    
-  </article>
-  
-  
-
-  
-
-  <article class="post post-item">
-    <h2 class="post-title">
       <a href="/about-priority-queue-2015-08-04">About Priority Queue</a>
       
       <time class="date" datetime="2015-08-04">2015-08-04</time>
@@ -528,6 +480,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

@@ -48,21 +48,15 @@
 
         <main class="content">
             
-<article class="post memex-page">
-    <nav class="memex-nav" aria-label="Memex navigation">
-        
-        <a href="/about.html">About</a>
-        <span class="memex-nav-sep">→</span>
-        <a href="/memex.html">Memex</a>
-        
-        <span class="memex-nav-sep">→</span>
-        <a href="/memex/blog">Blog</a>
-        <span class="memex-nav-sep">→</span>
-        <span>docs</span>
-        
-        
-    </nav>
 
+
+
+
+
+
+
+<article class="post" data-memex-context="dual">
+    
     <header class="post-header">
         <h1>docs</h1>
         
@@ -259,7 +253,21 @@ c-p -&gt; up</p>
 <li><a href="/business/the-great-ceo-within-2020-04-13" class="wikilink">The Great CEO Within</a></li>
 <li><a href="/summary-about-the-effective-executive-2022-12-31" class="wikilink">The Effective Executive</a></li>
 </ul></div>
+    <div class="memex-chrome" hidden>
+        <nav class="memex-nav" aria-label="Memex navigation">
+            
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/blog">Blog</a>
+        <span class="memex-nav-sep">→</span>
+        <span>docs</span>
+        
 
+        </nav>
+        
     
     <section class="wiki-panel wiki-panel-primary wiki-outgoing">
         <h2>Links to</h2>
@@ -277,11 +285,17 @@ c-p -&gt; up</p>
 
     
     <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
-        <summary>Mentioned but not linked (1)</summary>
+        <summary>Mentioned but not linked (4)</summary>
         <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
         <ul class="wiki-link-grid">
             
             <li><a href="/memex/notes" class="wikilink">Notes</a></li>
+            
+            <li><a href="/origin-apple-notes/startup" class="wikilink">startup</a></li>
+            
+            <li><a href="/origin-apple-notes/tools" class="wikilink">tools</a></li>
+            
+            <li><a href="/origin-apple-notes/work" class="wikilink">work</a></li>
             
         </ul>
     </details>
@@ -305,7 +319,10 @@ c-p -&gt; up</p>
     
 
     
+
+    </div>
 </article>
+
 
         </main>
 
@@ -326,6 +343,44 @@ c-p -&gt; up</p>
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

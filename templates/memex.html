@@ -3,12 +3,7 @@
 {% block title %}{{ post.title }}{% endblock %}
 
 {% block content %}
-<article class="post memex-page{% if is_hub %} memex-hub{% endif %}">
-    <nav class="memex-nav" aria-label="Memex navigation">
-        {% if post.title == 'About' %}
-        <span>About</span>
-        <span class="memex-nav-meta">· <a href="/memex.html">Memex</a></span>
-        {% else %}
+{% macro render_memex_trail() %}
         <a href="/about.html">About</a>
         <span class="memex-nav-sep">→</span>
         <a href="/memex.html">Memex</a>
@@ -24,36 +19,9 @@
         <span class="memex-nav-sep">→</span>
         <span>{{ post.title }}</span>
         {% endif %}
-        {% endif %}
-    </nav>
+{% endmacro %}
 
-    <header class="post-header">
-        <h1>{{ post.title }}</h1>
-        {% if (post.date and not post.section) or post.tags or post.categories %}
-        <div class="post-meta-row">
-            {% if post.date and not post.section %}
-            <time class="post-meta" datetime="{{ post.date }}">{{ post.date }}</time>
-            {% endif %}
-            {% if post.tags|length or post.categories %}
-            <div class="post-tags">
-                {% if post.tags|length %}
-                {% for tag in post.tags if tag|trim != 'home' %}
-                <a class="tag" href="/{{ tag|trim }}">#{{ tag|trim }}</a>
-                {% endfor %}
-                {% endif %}
-                {% if post.categories %}
-                {% for tag in post.categories if tag|trim != 'home' %}
-                <a class="tag" href="/{{ tag|trim }}">#{{ tag|trim }}</a>
-                {% endfor %}
-                {% endif %}
-            </div>
-            {% endif %}
-        </div>
-        {% endif %}
-    </header>
-
-    <div class="post-body">{{ content }}</div>
-
+{% macro render_wiki_panels() %}
     {% if outgoing_links %}
     <section class="wiki-panel wiki-panel-primary wiki-outgoing">
         <h2>Links to</h2>
@@ -160,5 +128,63 @@
         </ul>
     </section>
     {% endif %}
+{% endmacro %}
+
+{% macro render_post_header() %}
+    <header class="post-header">
+        <h1>{{ post.title }}</h1>
+        {% if (post.date and not post.section) or post.tags or post.categories %}
+        <div class="post-meta-row">
+            {% if post.date and not post.section %}
+            <time class="post-meta" datetime="{{ post.date }}">{{ post.date }}</time>
+            {% endif %}
+            {% if post.tags|length or post.categories %}
+            <div class="post-tags">
+                {% if post.tags|length %}
+                {% for tag in post.tags if tag|trim != 'home' %}
+                <a class="tag" href="/{{ tag|trim }}">#{{ tag|trim }}</a>
+                {% endfor %}
+                {% endif %}
+                {% if post.categories %}
+                {% for tag in post.categories if tag|trim != 'home' %}
+                <a class="tag" href="/{{ tag|trim }}">#{{ tag|trim }}</a>
+                {% endfor %}
+                {% endif %}
+            </div>
+            {% endif %}
+        </div>
+        {% endif %}
+    </header>
+{% endmacro %}
+
+{% if post.title == 'About' %}
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        <span>About</span>
+        <span class="memex-nav-meta">· <a href="/memex.html">Memex</a></span>
+    </nav>
+    {{ render_post_header() }}
+    <div class="post-body">{{ content }}</div>
 </article>
+{% elif is_blog_root_post %}
+<article class="post" data-memex-context="dual">
+    {{ render_post_header() }}
+    <div class="post-body">{{ content }}</div>
+    <div class="memex-chrome" hidden>
+        <nav class="memex-nav" aria-label="Memex navigation">
+            {{ render_memex_trail() }}
+        </nav>
+        {{ render_wiki_panels() }}
+    </div>
+</article>
+{% else %}
+<article class="post memex-page{% if is_hub %} memex-hub{% endif %}">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        {{ render_memex_trail() }}
+    </nav>
+    {{ render_post_header() }}
+    <div class="post-body">{{ content }}</div>
+    {{ render_wiki_panels() }}
+</article>
+{% endif %}
 {% endblock content %}

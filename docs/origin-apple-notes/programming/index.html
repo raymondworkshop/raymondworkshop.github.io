@@ -48,28 +48,124 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/origin-apple-notes">Origin Apple Notes</a>
+        <span class="memex-nav-sep">→</span>
+        <span>programming</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>programming</h1>
         
     </header>
-    <div class="post-body"><h1>programming</h1>
+
+    <div class="post-body"><p><a href="/origin-apple-notes/programming" class="wikilink">#programming</a></p>
 <p>debug - pdb
 test  - install pytest 
 auto-format - black mode</p>
-<h1>skills</h1>
-<p>Don’t try to find your passion. </p>
+<p><a href="/origin-apple-notes/skills" class="wikilink">#skills</a>
+Don’t try to find your passion. </p>
 <p>Instead <b><u>master some skill, interest, or knowledge that others find valuabl</u></b>e. </p>
 <p>Once your master it, you’ll be rewarded with new opportunities that will allow you to move away </p>
 <p>from tasks you dislike and toward those that you enjoy.</p>
-<h1>softskills</h1>
-<p>Learn to give before you take.</p>
+<p><a href="/memex/softskills" class="wikilink">#softskills</a>
+Learn to give before you take.</p>
 <p>It softens the ground, takes the bite out of a future request, or simply creates a distraction.</p>
 <p>And the giving can take many forms:</p>
 <p><b><u>an actual gift, a generous act, a kind favor, an “honest” admission</u></b> — whatever it takes.</p>
 <h1>buy</h1>
 <p>沐浴液
 洗头膏</p></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
+            
+            <li><a href="/origin-apple-notes/skills" class="wikilink">skills</a></li>
+            
+            <li><a href="/memex/softskills" class="wikilink">Softskills</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+    <section class="wiki-panel wiki-panel-primary backlinks">
+        <h2>Linked from (7)</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/notes/updating-the-pragmatic-programming-2019-08-16" class="wikilink">[Updating] The Pragmatic Programming</a></li>
+            
+            <li><a href="/tech/building-abstractions-with-procedures-2014-05-29" class="wikilink">Building Abstractions with Procedures</a></li>
+            
+            <li><a href="/how-llms-actually-work-2024-11-29" class="wikilink">How LLMs Actually Work</a></li>
+            
+            <li><a href="/links.html" class="wikilink">links</a></li>
+            
+            <li><a href="/note-on-the-open-source-community-2018-11-07" class="wikilink">Note on The Open-Source Community</a></li>
+            
+            <li><a href="/notes-on-programing-languages-2023-10-06" class="wikilink">Notes on programing languages</a></li>
+            
+            <li><a href="/learning/seduction-bible-2023-10-06" class="wikilink">Seduction Bible</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (3)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/find" class="wikilink">find</a></li>
+            
+            <li><a href="/origin-apple-notes/gift" class="wikilink">gift</a></li>
+            
+            <li><a href="/origin-apple-notes/softskills" class="wikilink">softskills</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-related" open>
+        <summary>Related in Origin Apple Notes</summary>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/skills" class="wikilink">skills</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -92,6 +188,44 @@ auto-format - black mode</p>
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

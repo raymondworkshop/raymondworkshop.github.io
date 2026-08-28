@@ -48,21 +48,15 @@
 
         <main class="content">
             
-<article class="post memex-page">
-    <nav class="memex-nav" aria-label="Memex navigation">
-        
-        <a href="/about.html">About</a>
-        <span class="memex-nav-sep">→</span>
-        <a href="/memex.html">Memex</a>
-        
-        <span class="memex-nav-sep">→</span>
-        <a href="/memex/blog">Blog</a>
-        <span class="memex-nav-sep">→</span>
-        <span>Notes on programing languages</span>
-        
-        
-    </nav>
 
+
+
+
+
+
+
+<article class="post" data-memex-context="dual">
+    
     <header class="post-header">
         <h1>Notes on programing languages</h1>
         
@@ -389,7 +383,30 @@
 <li><a href="https://htdp.org/2018-01-06/Book/index.html">How to Design Programs, 2nd</a></li>
 <li><a href="https://book.douban.com/subject/34990079/">Fluent Python, 2nd</a> by Luciano Ramalho</li>
 </ul></div>
+    <div class="memex-chrome" hidden>
+        <nav class="memex-nav" aria-label="Memex navigation">
+            
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/blog">Blog</a>
+        <span class="memex-nav-sep">→</span>
+        <span>Notes on programing languages</span>
+        
 
+        </nav>
+        
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/programming" class="wikilink">programming</a></li>
+            
+        </ul>
+    </section>
     
 
     
@@ -405,15 +422,41 @@
 
     
     <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
-        <summary>Mentioned but not linked (3)</summary>
+        <summary>Mentioned but not linked (16)</summary>
         <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
         <ul class="wiki-link-grid">
             
             <li><a href="/about.html" class="wikilink">About</a></li>
             
+            <li><a href="/origin-apple-notes/data" class="wikilink">data</a></li>
+            
+            <li><a href="/origin-apple-notes/dict" class="wikilink">dict</a></li>
+            
+            <li><a href="/origin-apple-notes/everything" class="wikilink">Everything</a></li>
+            
+            <li><a href="/origin-apple-notes/find" class="wikilink">find</a></li>
+            
+            <li><a href="/origin-apple-notes/idea" class="wikilink">idea</a></li>
+            
+            <li><a href="/origin-apple-notes/language" class="wikilink">language</a></li>
+            
             <li><a href="/memex/language" class="wikilink">Language</a></li>
             
+            <li><a href="/origin-apple-notes/manager" class="wikilink">manager</a></li>
+            
             <li><a href="/memex/notes" class="wikilink">Notes</a></li>
+            
+            <li><a href="/origin-apple-notes/object" class="wikilink">object</a></li>
+            
+            <li><a href="/origin-apple-notes/time" class="wikilink">time</a></li>
+            
+            <li><a href="/origin-apple-notes/todo" class="wikilink">todo</a></li>
+            
+            <li><a href="/origin-apple-notes/tools" class="wikilink">tools</a></li>
+            
+            <li><a href="/origin-apple-notes/value" class="wikilink">value</a></li>
+            
+            <li><a href="/origin-apple-notes/work" class="wikilink">work</a></li>
             
         </ul>
     </details>
@@ -425,6 +468,8 @@
         <ul class="wiki-link-grid">
             
             <li><a href="/how-llms-actually-work-2024-11-29" class="wikilink">How LLMs Actually Work</a></li>
+            
+            <li><a href="/learning/seduction-bible-2023-10-06" class="wikilink">Seduction Bible</a></li>
             
             <li><a href="/note-on-the-open-source-community-2018-11-07" class="wikilink">Note on The Open-Source Community</a></li>
             
@@ -443,7 +488,10 @@
     
 
     
+
+    </div>
 </article>
+
 
         </main>
 
@@ -464,6 +512,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

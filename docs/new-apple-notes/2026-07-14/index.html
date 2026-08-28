@@ -48,7 +48,26 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <span>2026-07-14</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>2026-07-14</h1>
         
@@ -60,6 +79,7 @@
         </div>
         
     </header>
+
     <div class="post-body"><p>自我价值 与 专业能力 等同
     - “展示”是一种社交沟通策略，而非道德评价</p>
 <pre><code>- 完美主义陷阱：这个复杂的世界里，“能够解决问题的潜力”往往比“现成的结果”更有价值
@@ -212,6 +232,61 @@
 <p>Woman: “I really like you, but I have a rule that I don’t have sex until at least the 5th date.”</p>
 <p>“I respect your rules, but I don’t participate in them.
 Sexual chemistry isn’t a reward for good behaviour. Let me know if you change your mind”</p></div>
+    
+    
+
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (15)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/business" class="wikilink">business</a></li>
+            
+            <li><a href="/memex/business" class="wikilink">Business</a></li>
+            
+            <li><a href="/origin-apple-notes/culture" class="wikilink">culture</a></li>
+            
+            <li><a href="/origin-apple-notes/find" class="wikilink">find</a></li>
+            
+            <li><a href="/origin-apple-notes/idea" class="wikilink">idea</a></li>
+            
+            <li><a href="/origin-apple-notes/insight" class="wikilink">insight</a></li>
+            
+            <li><a href="/wiki/listening" class="wikilink">listening</a></li>
+            
+            <li><a href="/origin-apple-notes/mind" class="wikilink">mind</a></li>
+            
+            <li><a href="/origin-apple-notes/product" class="wikilink">product</a></li>
+            
+            <li><a href="/origin-apple-notes/review" class="wikilink">review</a></li>
+            
+            <li><a href="/origin-apple-notes/self" class="wikilink">self</a></li>
+            
+            <li><a href="/memex/self" class="wikilink">Self</a></li>
+            
+            <li><a href="/origin-apple-notes/todo" class="wikilink">todo</a></li>
+            
+            <li><a href="/memex/wiki" class="wikilink">Wiki</a></li>
+            
+            <li><a href="/origin-apple-notes/work" class="wikilink">work</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -234,6 +309,44 @@ Sexual chemistry isn’t a reward for good behaviour. Let me know if you change 
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

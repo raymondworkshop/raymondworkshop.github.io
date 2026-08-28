@@ -48,6 +48,13 @@
 
         <main class="content">
             
+
+
+
+
+
+
+
 <article class="post memex-page memex-hub">
     <nav class="memex-nav" aria-label="Memex navigation">
         
@@ -58,16 +65,16 @@
         <span class="memex-nav-sep">→</span>
         <span>Tech</span>
         
-        
-    </nav>
 
+    </nav>
+    
     <header class="post-header">
         <h1>Tech</h1>
         
     </header>
 
     <div class="post-body"><p>Programming, systems, machine learning, software design. Professional notes mixed with things I wanted to understand.</p>
-<p>Often points back to <span class="wikilink-missing">Learning</span> and forward to <a href="/memex/research" class="wikilink">Research</a>. Product thinking lives in both <a href="/memex/tech" class="wikilink">Tech</a> and <a href="/memex/business" class="wikilink">Business</a>.</p>
+<p>Often points back to <a href="/memex/learning" class="wikilink">Learning</a> and forward to <a href="/memex/research" class="wikilink">Research</a>. Product thinking lives in both <a href="/memex/tech" class="wikilink">Tech</a> and <a href="/memex/business" class="wikilink">Business</a>.</p>
 <h3>Foundations</h3>
 <p><a href="/tech/building-abstractions-with-procedures-2014-05-29" class="wikilink">Building Abstractions with Procedures</a> · <a href="/tech/about-rest-software-architecture-2018-03-04" class="wikilink">About REST software architecture</a> · <a href="/tech/logistic-regression-2017-05-19" class="wikilink">Logistic Regression</a></p>
 <h3>ML &amp; systems</h3>
@@ -75,8 +82,8 @@
 <h3>Product &amp; engineering</h3>
 <p><a href="/tech/notes-on-the-product-manager-2020-02-11" class="wikilink">Notes on the Product Manager</a> · [[[Updating] Notes about Concurrency and Parallelism]] · <a href="/tech/能力陷阱-2019-12-27" class="wikilink">能力陷阱</a></p>
 <h3>Related areas</h3>
-<p><a href="/memex/research" class="wikilink">Research</a> · <span class="wikilink-missing">Learning</span> · <a href="/memex/business" class="wikilink">Business</a> · <a href="/memex/notes" class="wikilink">Notes</a></p></div>
-
+<p><a href="/memex/research" class="wikilink">Research</a> · <a href="/memex/learning" class="wikilink">Learning</a> · <a href="/memex/business" class="wikilink">Business</a> · <a href="/memex/notes" class="wikilink">Notes</a></p></div>
+    
     
     <section class="wiki-panel wiki-panel-primary wiki-outgoing">
         <h2>Links to</h2>
@@ -87,6 +94,8 @@
             <li><a href="/tech/building-abstractions-with-procedures-2014-05-29" class="wikilink">Building Abstractions with Procedures</a></li>
             
             <li><a href="/memex/business" class="wikilink">Business</a></li>
+            
+            <li><a href="/memex/learning" class="wikilink">Learning</a></li>
             
             <li><a href="/tech/logistic-regression-2017-05-19" class="wikilink">Logistic Regression</a></li>
             
@@ -108,7 +117,7 @@
 
     
     <section class="wiki-panel wiki-panel-primary backlinks">
-        <h2>Linked from (12)</h2>
+        <h2>Linked from (13)</h2>
         <ul class="wiki-link-grid">
             
             <li><a href="/tech/updating-notes-about-concurrency-and-parallelism-2019-12-11" class="wikilink">[Updating] Notes about Concurrency and Parallelism</a></li>
@@ -130,6 +139,8 @@
             <li><a href="/tech/notes-on-the-product-manager-2020-02-11" class="wikilink">Notes on the Product Manager</a></li>
             
             <li><a href="/memex/research" class="wikilink">Research</a></li>
+            
+            <li><a href="/origin-apple-notes/tech" class="wikilink">tech</a></li>
             
             <li><a href="/tech/word2vec-model-2017-05-19" class="wikilink">Word2Vec Model</a></li>
             
@@ -331,13 +342,23 @@
             
             <li><a href="/memex/course" class="wikilink">Course</a></li>
             
+            <li><a href="/memex/diary" class="wikilink">Diary</a></li>
+            
+            <li><a href="/memex/invest" class="wikilink">Invest</a></li>
+            
             <li><a href="/memex/language" class="wikilink">Language</a></li>
             
+            <li><a href="/memex/learning" class="wikilink">Learning</a></li>
+            
             <li><a href="/memex/notes" class="wikilink">Notes</a></li>
+            
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
             
             <li><a href="/memex/philosophy" class="wikilink">Philosophy</a></li>
             
             <li><a href="/memex/research" class="wikilink">Research</a></li>
+            
+            <li><a href="/memex/self" class="wikilink">Self</a></li>
             
             <li><a href="/memex/softskills" class="wikilink">Softskills</a></li>
             
@@ -348,7 +369,9 @@
         </ul>
     </section>
     
+
 </article>
+
 
         </main>
 
@@ -369,6 +392,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

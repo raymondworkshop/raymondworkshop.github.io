@@ -48,7 +48,28 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/self">Self</a>
+        <span class="memex-nav-sep">→</span>
+        <span>2019 New Year Challenges</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>2019 New Year Challenges</h1>
         
@@ -71,6 +92,7 @@
         </div>
         
     </header>
+
     <div class="post-body"><h3>2019 New Year Challenges:</h3>
 <h4>健康第一 -&gt; 锻炼身体，增肥</h4>
 <ul>
@@ -314,6 +336,103 @@
 <p>一个团体运动： 足球/棒球？</p>
 </li>
 </ul></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/memex/self" class="wikilink">Self</a></li>
+            
+            <li><a href="/diary/summary-2017-03-23" class="wikilink">summary</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (9)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/education" class="wikilink">education</a></li>
+            
+            <li><a href="/origin-apple-notes/research" class="wikilink">research</a></li>
+            
+            <li><a href="/memex/research" class="wikilink">Research</a></li>
+            
+            <li><a href="/origin-apple-notes/skills" class="wikilink">skills</a></li>
+            
+            <li><a href="/origin-apple-notes/tech" class="wikilink">tech</a></li>
+            
+            <li><a href="/memex/tech" class="wikilink">Tech</a></li>
+            
+            <li><a href="/origin-apple-notes/work" class="wikilink">work</a></li>
+            
+            <li><a href="/origin-apple-notes/writing" class="wikilink">writing</a></li>
+            
+            <li><a href="/origin-apple-notes/亲密关系" class="wikilink">亲密关系</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-related">
+        <summary>Related in Self</summary>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/self/personal-challenge-in-2016-2016-01-05" class="wikilink">Personal Challenge in 2016</a></li>
+            
+            <li><a href="/diary/2016-05-30-month-summary-2016-05-30" class="wikilink">2016-05-30-month-summary</a></li>
+            
+            <li><a href="/diary/june-month-summary-2016-06-28" class="wikilink">June-month summary</a></li>
+            
+            <li><a href="/notes-on-完整的自己-2025-08-07" class="wikilink">Notes on '完整的自己'</a></li>
+            
+            <li><a href="/notes/notes-on-hamlet-2020-06-24" class="wikilink">Notes on 'Hamlet'</a></li>
+            
+            <li><a href="/notes/notes-on-the-origins-of-political-order-2020-06-19" class="wikilink">notes on The Origins of Political Order</a></li>
+            
+            <li><a href="/notes/notes-on-富兰克林自传-2020-06-03" class="wikilink">notes on <富兰克林自传></a></li>
+            
+            <li><a href="/philosophy/how-to-be-a-good-manager-up-and-dowm-2020-03-15" class="wikilink">!!How to be a good manager: up and dowm</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-see-also">
+        <summary>See also</summary>
+        <p class="wiki-panel-note">Pages that share topics with this note.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/philosophy/todo-philosophy-2017-11-01" class="wikilink">TODO-Philosophy</a></li>
+            
+            <li><a href="/self/2015-03-23-summary-md-2015-03-23" class="wikilink">2015-03-23-summary.md</a></li>
+            
+            <li><a href="/self/2018-new-year-challenges-2018-01-21" class="wikilink">2018 New Year Challenges</a></li>
+            
+            <li><a href="/self/how-to-get-love-2015-07-09" class="wikilink">how to get love</a></li>
+            
+            <li><a href="/self/my-daily-thoughts-2017-06-26" class="wikilink">My Daily thoughts</a></li>
+            
+            <li><a href="/self/quote-some-biases-2015-12-14" class="wikilink">Quote some biases</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -336,6 +455,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

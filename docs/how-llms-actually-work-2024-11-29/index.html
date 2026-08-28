@@ -48,21 +48,15 @@
 
         <main class="content">
             
-<article class="post memex-page">
-    <nav class="memex-nav" aria-label="Memex navigation">
-        
-        <a href="/about.html">About</a>
-        <span class="memex-nav-sep">→</span>
-        <a href="/memex.html">Memex</a>
-        
-        <span class="memex-nav-sep">→</span>
-        <a href="/memex/blog">Blog</a>
-        <span class="memex-nav-sep">→</span>
-        <span>How LLMs Actually Work</span>
-        
-        
-    </nav>
 
+
+
+
+
+
+
+<article class="post" data-memex-context="dual">
+    
     <header class="post-header">
         <h1>How LLMs Actually Work</h1>
         
@@ -119,18 +113,47 @@ TODO  </p>
 <li><a href="https://realpython.com/learning-paths/llm-application-development-python/?utm_source=realpython&amp;utm_medium=web&amp;utm_campaign=related-learning-path&amp;utm_content=python-mcp-client">LLM Application Development With Python</a>  </li>
 <li>[Hands-on Large Language Models: Language Understanding and Generation]</li>
 </ul></div>
+    <div class="memex-chrome" hidden>
+        <nav class="memex-nav" aria-label="Memex navigation">
+            
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/blog">Blog</a>
+        <span class="memex-nav-sep">→</span>
+        <span>How LLMs Actually Work</span>
+        
 
+        </nav>
+        
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/programming" class="wikilink">programming</a></li>
+            
+        </ul>
+    </section>
     
 
     
 
     
     <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
-        <summary>Mentioned but not linked (1)</summary>
+        <summary>Mentioned but not linked (4)</summary>
         <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
         <ul class="wiki-link-grid">
             
+            <li><a href="/origin-apple-notes/language" class="wikilink">language</a></li>
+            
             <li><a href="/memex/language" class="wikilink">Language</a></li>
+            
+            <li><a href="/origin-apple-notes/todo" class="wikilink">todo</a></li>
+            
+            <li><a href="/origin-apple-notes/work" class="wikilink">work</a></li>
             
         </ul>
     </details>
@@ -140,6 +163,8 @@ TODO  </p>
     <details class="wiki-panel wiki-panel-secondary wiki-related" open>
         <summary>Related in Blog</summary>
         <ul class="wiki-link-grid">
+            
+            <li><a href="/learning/seduction-bible-2023-10-06" class="wikilink">Seduction Bible</a></li>
             
             <li><a href="/note-on-the-open-source-community-2018-11-07" class="wikilink">Note on The Open-Source Community</a></li>
             
@@ -160,7 +185,10 @@ TODO  </p>
     
 
     
+
+    </div>
 </article>
+
 
         </main>
 
@@ -181,6 +209,44 @@ TODO  </p>
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

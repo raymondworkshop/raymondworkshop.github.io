@@ -48,7 +48,26 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <span>2026-08-12</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>2026-08-12</h1>
         
@@ -60,6 +79,7 @@
         </div>
         
     </header>
+
     <div class="post-body"><p>心態轉變：  自信，平等， 有觀點的晚輩
     -  主動掌控節奏：  帶他入座，點茶， 甚至主動開話題，</p>
 <pre><code>-   敢於表達觀點：  當聊到你的項目或生活上的話題時，保持自信，邏輯清晰
@@ -138,6 +158,37 @@
 <h2>Title: #info</h2>
 <p>“足球事业的领导权绝非个人私产，”欧洲足联(UEFA)、中北美洲及加勒比海足联(Concacaf)以及亚洲足联(Asian Football Confederation)的负责人写道。“当信任因欺瞒而破裂，当个人凌驾于赋予其权力的集体之上，这份职责便已被抛弃。”</p>
 <p>“FIFA将此视为沟通失误，”这些洲际足联在周一的信中写道，“但整个足球界看到的，却是一场决策失误。”</p></div>
+    
+    
+
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (3)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/info" class="wikilink">info</a></li>
+            
+            <li><a href="/origin-apple-notes/self" class="wikilink">self</a></li>
+            
+            <li><a href="/memex/self" class="wikilink">Self</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -160,6 +211,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

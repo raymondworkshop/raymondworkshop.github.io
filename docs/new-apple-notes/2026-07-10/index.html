@@ -48,7 +48,26 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <span>2026-07-10</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>2026-07-10</h1>
         
@@ -60,6 +79,7 @@
         </div>
         
     </header>
+
     <div class="post-body"><p>自由<br />
     - 自由最大化，自由自在的生活  </p>
 <pre><code>-  自由地追求所有活動， 通過一個字喔肯定的過程，以及對周圍的社會和政治環境有發言權的願望
@@ -223,6 +243,73 @@ anything else for achieving your goals in business and in life.
 <pre><code>- “Amos，最近我那个 AI 知识库项目终于跑通了一个原型（Self-Wiki）。其实做这个过程挺有意思的，我发现处理那些 5,000 份笔记的逻辑，竟然和我之前研究的一些资产配置模型很像——都是在处理碎片信息并寻找规律。最近整理完代码，确实感觉思维清晰了很多，这方面您以前在地产投资时，处理庞大复杂数据有没有什么独到的经验？”
 </code></pre>
 <p>获取 Amos 的商业评价</p></div>
+    
+    
+
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (21)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/about.html" class="wikilink">About</a></li>
+            
+            <li><a href="/origin-apple-notes/belief" class="wikilink">belief</a></li>
+            
+            <li><a href="/origin-apple-notes/business" class="wikilink">business</a></li>
+            
+            <li><a href="/memex/business" class="wikilink">Business</a></li>
+            
+            <li><a href="/wiki/conversation" class="wikilink">conversation</a></li>
+            
+            <li><a href="/origin-apple-notes/everything" class="wikilink">Everything</a></li>
+            
+            <li><a href="/origin-apple-notes/goals" class="wikilink">goals</a></li>
+            
+            <li><a href="/origin-apple-notes/important" class="wikilink">important</a></li>
+            
+            <li><a href="/origin-apple-notes/life" class="wikilink">life</a></li>
+            
+            <li><a href="/origin-apple-notes/mental" class="wikilink">mental</a></li>
+            
+            <li><a href="/learning/notes-on-people-2026-05-05" class="wikilink">Notes on people</a></li>
+            
+            <li><a href="/origin-apple-notes/politics" class="wikilink">politics</a></li>
+            
+            <li><a href="/origin-apple-notes/self" class="wikilink">self</a></li>
+            
+            <li><a href="/memex/self" class="wikilink">Self</a></li>
+            
+            <li><a href="/diary/summary-2017-01-05" class="wikilink">summary</a></li>
+            
+            <li><a href="/diary/summary-2016-09-20" class="wikilink">summary</a></li>
+            
+            <li><a href="/diary/summary-2016-10-10" class="wikilink">summary</a></li>
+            
+            <li><a href="/diary/summary-2017-03-23" class="wikilink">summary</a></li>
+            
+            <li><a href="/origin-apple-notes/thoughts" class="wikilink">thoughts</a></li>
+            
+            <li><a href="/origin-apple-notes/todo" class="wikilink">todo</a></li>
+            
+            <li><a href="/memex/wiki" class="wikilink">Wiki</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -245,6 +332,44 @@ anything else for achieving your goals in business and in life.
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

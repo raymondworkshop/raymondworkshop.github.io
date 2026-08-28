@@ -48,7 +48,28 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/diary">Diary</a>
+        <span class="memex-nav-sep">→</span>
+        <span>新年胡思乱语</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>新年胡思乱语</h1>
         
@@ -69,10 +90,80 @@
         </div>
         
     </header>
+
     <div class="post-body"><p>过年是个很快乐的日子，毕竟有亲人的陪伴；可怜天下父母心。</p>
 <p>老家乡村越来越衰败，村民也越来越原子化，传统礼法和公共舆论正在破产。在太原又遇到老姐以为孩子丢失后那种巨大的脆弱感，终于意识到老姐的不易； 老姐是个重感情的人，自己又不太善于向家人表达爱，都不知道怎么去安慰。</p>
 <p>见了个同事，给了一些建议，都不知道怎么回报。还是需要赶紧增强自己各方面能力，毕竟欠的太多；不知道为啥过去半年自己失去了点血性，对自己保持诚实还是最重要的。</p>
 <p>一直觉得自己各方面都做的不完美，起码想先对得起支持和帮助自己的人，可惜自己做的还不够好。</p></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/memex/diary" class="wikilink">Diary</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-related">
+        <summary>Related in Diary</summary>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/diary/weekly-review-2020-01-03" class="wikilink">Weekly Review</a></li>
+            
+            <li><a href="/diary/2009-2009-05-04" class="wikilink">2009</a></li>
+            
+            <li><a href="/diary/2010-2010-01-15" class="wikilink">2010</a></li>
+            
+            <li><a href="/diary/2011-2011-01-29" class="wikilink">2011</a></li>
+            
+            <li><a href="/diary/2015-03-08-summary-2015-03-08" class="wikilink">2015-03-08-Summary</a></li>
+            
+            <li><a href="/diary/2015-03-15-weekly-summary-2015-03-15" class="wikilink">2015-03-15-weekly-summary</a></li>
+            
+            <li><a href="/diary/2015-03-27-weekly-summary-2015-03-27" class="wikilink">2015-03-27-weekly-summary</a></li>
+            
+            <li><a href="/diary/2015-04-08-weekly-summary-2015-04-08" class="wikilink">2015-04-08-weekly-summary</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-see-also">
+        <summary>See also</summary>
+        <p class="wiki-panel-note">Pages that share topics with this note.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/diary/2015-04-19-weekly-summary-2015-04-19" class="wikilink">2015-04-19-weekly-summary</a></li>
+            
+            <li><a href="/diary/2015-04-26-weekly-summary-2015-04-26" class="wikilink">2015-04-26-weekly-summary</a></li>
+            
+            <li><a href="/diary/2015-05-03-weekly-summary-2015-05-03" class="wikilink">2015-05-03-weekly-summary</a></li>
+            
+            <li><a href="/diary/2015-05-18-weekly-summary-2015-05-18" class="wikilink">2015-05-18-weekly-summary</a></li>
+            
+            <li><a href="/diary/2015-06-03-weekly-summary-2015-06-04" class="wikilink">2015-06-03-weekly-summary</a></li>
+            
+            <li><a href="/diary/2015-06-08-weekly-summary-2015-06-08" class="wikilink">2015-06-08-weekly-summary</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -95,6 +186,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

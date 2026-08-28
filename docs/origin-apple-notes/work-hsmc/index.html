@@ -48,12 +48,34 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/origin-apple-notes">Origin Apple Notes</a>
+        <span class="memex-nav-sep">→</span>
+        <span>work-HSMC</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>work-HSMC</h1>
         
     </header>
-    <div class="post-body"><h1>work-HSMC</h1>
+
+    <div class="post-body"><p><a href="/origin-apple-notes/work-hsmc" class="wikilink">#work-HSMC</a></p>
 <p>https://ecampus.hsmc.edu.hk/moodle/myhsmc/staff/job_vacancy/content.php?id=1262</p>
 <p style="text-align:center;margin:0"><b>Technical Officer – Department of Computing  (Ref: TO (RGC/IDS14/16) 2018-03-23)</b>
 </p>
@@ -102,6 +124,76 @@
 </ul>
 <p style="text-align:justify;margin:0"><i>Candidates with less experience will be considered for the post of Assistant Technical Officer.</i>
 </p></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (18)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/communication" class="wikilink">communication</a></li>
+            
+            <li><a href="/origin-apple-notes/data" class="wikilink">data</a></li>
+            
+            <li><a href="/origin-apple-notes/experience" class="wikilink">experience</a></li>
+            
+            <li><a href="/origin-apple-notes/language" class="wikilink">language</a></li>
+            
+            <li><a href="/memex/language" class="wikilink">Language</a></li>
+            
+            <li><a href="/origin-apple-notes/learning" class="wikilink">learning</a></li>
+            
+            <li><a href="/memex/learning" class="wikilink">Learning</a></li>
+            
+            <li><a href="/origin-apple-notes/management" class="wikilink">management</a></li>
+            
+            <li><a href="/origin-apple-notes/mindset" class="wikilink">mindset</a></li>
+            
+            <li><a href="/origin-apple-notes/programming" class="wikilink">programming</a></li>
+            
+            <li><a href="/origin-apple-notes/research" class="wikilink">research</a></li>
+            
+            <li><a href="/memex/research" class="wikilink">Research</a></li>
+            
+            <li><a href="/origin-apple-notes/science" class="wikilink">Science</a></li>
+            
+            <li><a href="/origin-apple-notes/self" class="wikilink">self</a></li>
+            
+            <li><a href="/memex/self" class="wikilink">Self</a></li>
+            
+            <li><a href="/origin-apple-notes/skills" class="wikilink">skills</a></li>
+            
+            <li><a href="/origin-apple-notes/work" class="wikilink">work</a></li>
+            
+            <li><a href="/origin-apple-notes/hsmc" class="wikilink">work - hard skills</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -124,6 +216,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

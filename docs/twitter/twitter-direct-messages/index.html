@@ -48,6 +48,13 @@
 
         <main class="content">
             
+
+
+
+
+
+
+
 <article class="post memex-page">
     <nav class="memex-nav" aria-label="Memex navigation">
         
@@ -60,9 +67,9 @@
         <span class="memex-nav-sep">→</span>
         <span>Twitter Direct Messages (extracted from direct-messages.js)</span>
         
-        
-    </nav>
 
+    </nav>
+    
     <header class="post-header">
         <h1>Twitter Direct Messages (extracted from direct-messages.js)</h1>
         
@@ -816,7 +823,7 @@ Rust還需要繼續進化。我現在沒怎麼用Rust寫程序了，等它繼續
 </ul>
 <p>你好，星野，很喜歡你寫的文字，可以多認識點你嗎？謝謝，Raymond</p>
 <hr /></div>
-
+    
     
     <section class="wiki-panel wiki-panel-primary wiki-outgoing">
         <h2>Links to</h2>
@@ -841,15 +848,37 @@ Rust還需要繼續進化。我現在沒怎麼用Rust寫程序了，等它繼續
 
     
     <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
-        <summary>Mentioned but not linked (3)</summary>
+        <summary>Mentioned but not linked (14)</summary>
         <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
         <ul class="wiki-link-grid">
+            
+            <li><a href="/diary/2009-2009-05-04" class="wikilink">2009</a></li>
+            
+            <li><a href="/diary/2015-2015-01-07" class="wikilink">2015</a></li>
+            
+            <li><a href="/origin-apple-notes/2020" class="wikilink">2020</a></li>
+            
+            <li><a href="/origin-apple-notes/2021" class="wikilink">2021</a></li>
             
             <li><a href="/about.html" class="wikilink">About</a></li>
             
             <li><a href="/memex/blog" class="wikilink">Blog</a></li>
             
+            <li><a href="/origin-apple-notes/data" class="wikilink">data</a></li>
+            
+            <li><a href="/origin-apple-notes/engineering" class="wikilink">engineering</a></li>
+            
+            <li><a href="/origin-apple-notes/find" class="wikilink">find</a></li>
+            
+            <li><a href="/origin-apple-notes/learning" class="wikilink">learning</a></li>
+            
+            <li><a href="/memex/learning" class="wikilink">Learning</a></li>
+            
             <li><a href="/projects.html" class="wikilink">Projects</a></li>
+            
+            <li><a href="/origin-apple-notes/reading" class="wikilink">reading</a></li>
+            
+            <li><a href="/origin-apple-notes/time" class="wikilink">time</a></li>
             
         </ul>
     </details>
@@ -864,7 +893,9 @@ Rust還需要繼續進化。我現在沒怎麼用Rust寫程序了，等它繼續
     
 
     
+
 </article>
+
 
         </main>
 
@@ -885,6 +916,44 @@ Rust還需要繼續進化。我現在沒怎麼用Rust寫程序了，等它繼續
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

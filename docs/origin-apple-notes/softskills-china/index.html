@@ -48,17 +48,39 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/origin-apple-notes">Origin Apple Notes</a>
+        <span class="memex-nav-sep">→</span>
+        <span>softskills  china</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>softskills  china</h1>
         
     </header>
-    <div class="post-body"><h1>softskills  #china</h1>
+
+    <div class="post-body"><p><a href="/memex/softskills" class="wikilink">#softskills</a>  <a href="/origin-apple-notes/china" class="wikilink">#china</a></p>
 <p>中国的文化意识 - “<span style="font-family:SFUIText-Bold;"><b>争表现</b></span>”心理
 1. 很少有人从小就有独立的思想，把自己和来自父母老师的奖赏分离，<strong>为自己考虑</strong>
 2. 自信，有思想，有尊严 - 有自己的尊严和规则 - <span style="font-family:SFUIText-Bold;"><b><u>受人尊重的成年人</u></b></span></p>
-<h1>softskills  #important</h1>
-<p><span style="font-family:SFUIText-Bold;"><b>待人接物</b></span> -&gt; 彼此尊重、亲疏随缘
+<p><a href="/memex/softskills" class="wikilink">#softskills</a>  <a href="/origin-apple-notes/important" class="wikilink">#important</a>
+<span style="font-family:SFUIText-Bold;"><b>待人接物</b></span> -&gt; 彼此尊重、亲疏随缘
 1. 待人 - 对待<span style="font-family:SFUIText-Bold;"><b><u>亲朋好友</u></b></span> - &gt; 需用感性 - 感性支持
 2. 接物 - 对待<span style="font-family:SFUIText-Bold;"><b><u>社会人陌生人</u></b></span>给的事情，任务，-&gt; 需用理性 - 理性判断 -&gt; 实现<span style="font-family:SFUIText-Bold;"><b><u>个人目标的工具</u></b></span></p>
 <p>社会人事 -&gt; 对<span style="font-family:SFUIText-Bold;"><b>理性控制</b></span>性格 -&gt; 将<span style="font-family:SFUIText-Bold;"><b><u>外部目标转化为自己控制的环节</u></b></span>，形成自我驱动习惯
@@ -70,6 +92,63 @@
 <span style="font-family:SFUIText-Bold;"><b><u>长期情感</u></b></span> - 亲密关系，理想导向的团体关系
 <span style="font-family:SFUIText-Bold;"><b><u>工作沟通</u></b></span> - 公司见面打招呼，各个部门同事接触
 <span style="font-family:SFUIText-Bold;"><b><u>工作项目</u></b></span> - 一年目标，三年规划</p></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/china" class="wikilink">china</a></li>
+            
+            <li><a href="/origin-apple-notes/important" class="wikilink">important</a></li>
+            
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
+            
+            <li><a href="/memex/softskills" class="wikilink">Softskills</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (3)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/family" class="wikilink">family</a></li>
+            
+            <li><a href="/origin-apple-notes/softskills" class="wikilink">softskills</a></li>
+            
+            <li><a href="/origin-apple-notes/亲密关系" class="wikilink">亲密关系</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-related" open>
+        <summary>Related in Origin Apple Notes</summary>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/china" class="wikilink">china</a></li>
+            
+            <li><a href="/origin-apple-notes/important" class="wikilink">important</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -92,6 +171,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

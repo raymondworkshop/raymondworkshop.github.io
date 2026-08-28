@@ -127,6 +127,11 @@ def write_post(post: frontmatter.Post, content: str, path: pathlib.Path):
             backlinks=backlinks,
             section_pages=section_pages,
             is_hub=is_hub,
+            is_blog_root_post=(
+                not is_hub
+                and memex_section_key(path) == "blog"
+                and post.get("title") != "About"
+            ),
             section_hub=get_section_hub_for_path(path, post),
             outgoing_links=get_outgoing_links(post),
             related_pages=get_related_pages(post, path),

@@ -48,11 +48,33 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/origin-apple-notes">Origin Apple Notes</a>
+        <span class="memex-nav-sep">→</span>
+        <span>恋爱：</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>恋爱：</h1>
         
     </header>
+
     <div class="post-body"><ul>
 <li>想要一个跟你价值观不会差太多，有稳定性情的人一起分享生命中的喜怒哀乐</li>
 <li>当你遇到那个人，你是否真的愿意打开心扉，把自己握有的‘自由’分享出去</li>
@@ -61,6 +83,41 @@
 </ul>
 <p>我都是隨心的，就看看價值觀是不是一樣，有沒有值得我欣賞的，缺點我是否可以包容，是不是很掛念，看到什麼都會想起他，想為他成為一個更好的自己</p>
 <p>试着放开自己，其实一个人自然一点，开朗一点，就会表现得很热情，相信大家也会喜欢你。</p></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+    <section class="wiki-panel wiki-panel-primary backlinks">
+        <h2>Linked from (1)</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/self/how-to-get-love-2015-07-09" class="wikilink">how to get love</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -83,6 +140,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

@@ -48,6 +48,13 @@
 
         <main class="content">
             
+
+
+
+
+
+
+
 <article class="post memex-page">
     <nav class="memex-nav" aria-label="Memex navigation">
         
@@ -60,9 +67,9 @@
         <span class="memex-nav-sep">→</span>
         <span>American Intonation - 1</span>
         
-        
-    </nav>
 
+    </nav>
+    
     <header class="post-header">
         <h1>American Intonation - 1</h1>
         
@@ -196,7 +203,7 @@
 </ul>
 </li>
 <li>
-<p><a href="http://rachelsenglish.com/ways-to-say-what/">what</a></p>
+<p><a href="/origin-apple-notes/you-don-t-sit-around-dreaming-about-what-you-want-to-accomplish-in" class="wikilink">what</a></p>
 <ul>
 <li>/wʌt|/</li>
 </ul>
@@ -264,13 +271,15 @@
 <li>try Youglish -&gt; YouGlish  </li>
 </ul>
 <h3>reference</h3></div>
-
+    
     
     <section class="wiki-panel wiki-panel-primary wiki-outgoing">
         <h2>Links to</h2>
         <ul class="wiki-link-grid">
             
             <li><a href="/memex/language" class="wikilink">Language</a></li>
+            
+            <li><a href="/origin-apple-notes/you-don-t-sit-around-dreaming-about-what-you-want-to-accomplish-in" class="wikilink">you don’t sit around dreaming about what you want to accomplish in…</a></li>
             
         </ul>
     </section>
@@ -289,7 +298,7 @@
 
     
     <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
-        <summary>Mentioned but not linked (3)</summary>
+        <summary>Mentioned but not linked (6)</summary>
         <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
         <ul class="wiki-link-grid">
             
@@ -297,7 +306,13 @@
             
             <li><a href="/memex/blog" class="wikilink">Blog</a></li>
             
+            <li><a href="/origin-apple-notes/english" class="wikilink">english</a></li>
+            
+            <li><a href="/origin-apple-notes/language" class="wikilink">language</a></li>
+            
             <li><a href="/wiki/listening" class="wikilink">listening</a></li>
+            
+            <li><a href="/origin-apple-notes/tips" class="wikilink">tips</a></li>
             
         </ul>
     </details>
@@ -344,6 +359,8 @@
             
             <li><a href="/language/廣東話學習-2017-08-04" class="wikilink">廣東話學習</a></li>
             
+            <li><a href="/learning/english-listening-and-pronunciation-2016-10-04" class="wikilink">!English Listening and Pronunciation</a></li>
+            
         </ul>
     </details>
     
@@ -353,7 +370,9 @@
     
 
     
+
 </article>
+
 
         </main>
 
@@ -374,6 +393,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

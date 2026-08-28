@@ -48,7 +48,28 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/diary">Diary</a>
+        <span class="memex-nav-sep">→</span>
+        <span>2010</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>2010</h1>
         
@@ -69,6 +90,7 @@
         </div>
         
     </header>
+
     <div class="post-body"><h4>2010-12-19 14:01:33 喜爱、努力、玩耍</h4>
 <p>有人问弗洛伊德，怎样才可以过快乐而且有成效的一生，弗洛伊德说：爱着，工作着。《玩耍的力量》（Power of Play)一书中，作者戴维·艾尔肯德加上了一个词，玩耍，这样就成就了人生的金三角：喜爱、努力、玩耍。一个人成年之后的悲剧，就是将三者分离开。或者三中缺一。喜欢、努力却无玩耍则生疲惫，身累。喜欢、玩耍却不努力则无长进，心累。努力地玩耍而不喜爱则属应酬，身心俱累  </p>
 <h4>2010-12-18 23:04:56 太舒服了</h4>
@@ -358,6 +380,87 @@ I don't need a finish line... </p>
 <p>What do you want in your inner?  </p>
 <h4>2010-01-15 00:13:28 谷歌</h4>
 <p>谷歌真的要走了吗？ 留下我们这些孤岛着怎么办！</p></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/memex/diary" class="wikilink">Diary</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (2)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/mind" class="wikilink">mind</a></li>
+            
+            <li><a href="/origin-apple-notes/和人打交道" class="wikilink">和人打交道</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-related">
+        <summary>Related in Diary</summary>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/diary/weekly-review-2020-01-03" class="wikilink">Weekly Review</a></li>
+            
+            <li><a href="/diary/2009-2009-05-04" class="wikilink">2009</a></li>
+            
+            <li><a href="/diary/2011-2011-01-29" class="wikilink">2011</a></li>
+            
+            <li><a href="/diary/2015-03-08-summary-2015-03-08" class="wikilink">2015-03-08-Summary</a></li>
+            
+            <li><a href="/diary/2015-03-15-weekly-summary-2015-03-15" class="wikilink">2015-03-15-weekly-summary</a></li>
+            
+            <li><a href="/diary/2015-03-27-weekly-summary-2015-03-27" class="wikilink">2015-03-27-weekly-summary</a></li>
+            
+            <li><a href="/diary/2015-04-08-weekly-summary-2015-04-08" class="wikilink">2015-04-08-weekly-summary</a></li>
+            
+            <li><a href="/diary/2015-04-19-weekly-summary-2015-04-19" class="wikilink">2015-04-19-weekly-summary</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-see-also">
+        <summary>See also</summary>
+        <p class="wiki-panel-note">Pages that share topics with this note.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/diary/2015-04-26-weekly-summary-2015-04-26" class="wikilink">2015-04-26-weekly-summary</a></li>
+            
+            <li><a href="/diary/2015-05-03-weekly-summary-2015-05-03" class="wikilink">2015-05-03-weekly-summary</a></li>
+            
+            <li><a href="/diary/2015-05-18-weekly-summary-2015-05-18" class="wikilink">2015-05-18-weekly-summary</a></li>
+            
+            <li><a href="/diary/2015-06-03-weekly-summary-2015-06-04" class="wikilink">2015-06-03-weekly-summary</a></li>
+            
+            <li><a href="/diary/2015-06-08-weekly-summary-2015-06-08" class="wikilink">2015-06-08-weekly-summary</a></li>
+            
+            <li><a href="/diary/2015-07-06-weekly-summary-2015-07-06" class="wikilink">2015-07-06-weekly-summary</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -380,6 +483,44 @@ I don't need a finish line... </p>
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

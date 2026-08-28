@@ -48,6 +48,13 @@
 
         <main class="content">
             
+
+
+
+
+
+
+
 <article class="post memex-page">
     <nav class="memex-nav" aria-label="Memex navigation">
         
@@ -60,9 +67,9 @@
         <span class="memex-nav-sep">→</span>
         <span>DO-王烁30天认知训练</span>
         
-        
-    </nav>
 
+    </nav>
+    
     <header class="post-header">
         <h1>DO-王烁30天认知训练</h1>
         
@@ -93,13 +100,17 @@
 <ul>
 <li><a href="/course/do-王烁30天认知训练-2019-02-10" class="wikilink">王烁30天认知训练</a></li>
 </ul></div>
-
+    
     
     <section class="wiki-panel wiki-panel-primary wiki-outgoing">
         <h2>Links to</h2>
         <ul class="wiki-link-grid">
             
             <li><a href="/memex/course" class="wikilink">Course</a></li>
+            
+            <li><a href="/origin-apple-notes/insight" class="wikilink">insight</a></li>
+            
+            <li><a href="/memex/learning" class="wikilink">Learning</a></li>
             
         </ul>
     </section>
@@ -147,7 +158,7 @@
             
             <li><a href="/notes/notes-on-the-rule-of-life-2021-08-11" class="wikilink">notes on 'the rule of life'</a></li>
             
-            <li><a href="/business/learning-about-entrepreneur-2021-09-24" class="wikilink">Learning - About Entrepreneur</a></li>
+            <li><a href="/self/a-better-me-to-be-great-2021-04-21" class="wikilink">!A better me -> to be great</a></li>
             
         </ul>
     </details>
@@ -159,6 +170,8 @@
         <p class="wiki-panel-note">Pages that share topics with this note.</p>
         <ul class="wiki-link-grid">
             
+            <li><a href="/business/learning-about-entrepreneur-2021-09-24" class="wikilink">Learning - About Entrepreneur</a></li>
+            
             <li><a href="/business/my-business-2021-09-05" class="wikilink">My Business</a></li>
             
             <li><a href="/business/notes-on-amway-2023-07-25" class="wikilink">notes on amway</a></li>
@@ -169,8 +182,6 @@
             
             <li><a href="/course/about-finance-2024-01-13" class="wikilink">about Finance</a></li>
             
-            <li><a href="/course/entrepreneurship-for-everyone-2023-03-20" class="wikilink">Entrepreneurship For Everyone</a></li>
-            
         </ul>
     </details>
     
@@ -180,7 +191,9 @@
     
 
     
+
 </article>
+
 
         </main>
 
@@ -201,6 +214,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

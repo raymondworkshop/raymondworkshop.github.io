@@ -48,21 +48,15 @@
 
         <main class="content">
             
-<article class="post memex-page">
-    <nav class="memex-nav" aria-label="Memex navigation">
-        
-        <a href="/about.html">About</a>
-        <span class="memex-nav-sep">→</span>
-        <a href="/memex.html">Memex</a>
-        
-        <span class="memex-nav-sep">→</span>
-        <a href="/memex/blog">Blog</a>
-        <span class="memex-nav-sep">→</span>
-        <span>links</span>
-        
-        
-    </nav>
 
+
+
+
+
+
+
+<article class="post" data-memex-context="dual">
+    
     <header class="post-header">
         <h1>links</h1>
         
@@ -174,7 +168,7 @@
 <h4>tech</h4>
 <ul>
 <li>
-<p><strong><a href="/wiki/freedom-and-time" class="wikilink">Tim</a></strong></p>
+<p><strong><a href="/origin-apple-notes/time" class="wikilink">Tim</a></strong></p>
 </li>
 <li>
 <p><a href="https://jlongster.com/">James Long</a></p>
@@ -191,7 +185,7 @@
 <li><a href="http://jvns.ca/">Julia Evans</a></li>
 <li><a href="http://norvig.com/">Peter Norvig</a></li>
 <li><a href="http://blog.vgod.tw/">vgod's blog</a></li>
-<li><a href="http://www.cnblogs.com/weidagang2046">Programming</a></li>
+<li><a href="/origin-apple-notes/programming" class="wikilink">Programming</a></li>
 <li><a href="https://llogiq.github.io/">Llogiq on stuff on Rust</a></li>
 <li>
 <p><a href="https://dave.cheney.net/about">Dave Cheney on Golang</a></p>
@@ -229,7 +223,21 @@
 <li><a href="http://www.pgbovine.net/">Philip J. Guo</a></li>
 <li><a href="http://blog.codingnow.com/">云风的 BLOG</a></li>
 </ul></div>
+    <div class="memex-chrome" hidden>
+        <nav class="memex-nav" aria-label="Memex navigation">
+            
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/blog">Blog</a>
+        <span class="memex-nav-sep">→</span>
+        <span>links</span>
+        
 
+        </nav>
+        
     
     <section class="wiki-panel wiki-panel-primary wiki-outgoing">
         <h2>Links to</h2>
@@ -237,7 +245,9 @@
             
             <li><a href="/memex/course" class="wikilink">Course</a></li>
             
-            <li><a href="/wiki/freedom-and-time" class="wikilink">freedom-and-time</a></li>
+            <li><a href="/origin-apple-notes/programming" class="wikilink">programming</a></li>
+            
+            <li><a href="/origin-apple-notes/time" class="wikilink">time</a></li>
             
         </ul>
     </section>
@@ -247,7 +257,7 @@
 
     
     <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
-        <summary>Mentioned but not linked (7)</summary>
+        <summary>Mentioned but not linked (22)</summary>
         <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
         <ul class="wiki-link-grid">
             
@@ -255,13 +265,43 @@
             
             <li><a href="/memex/blog" class="wikilink">Blog</a></li>
             
+            <li><a href="/origin-apple-notes/books" class="wikilink">books</a></li>
+            
+            <li><a href="/origin-apple-notes/business" class="wikilink">business</a></li>
+            
             <li><a href="/memex/business" class="wikilink">Business</a></li>
+            
+            <li><a href="/origin-apple-notes/engineering" class="wikilink">engineering</a></li>
+            
+            <li><a href="/origin-apple-notes/friends" class="wikilink">friends</a></li>
+            
+            <li><a href="/origin-apple-notes/life" class="wikilink">life</a></li>
+            
+            <li><a href="/origin-apple-notes/management" class="wikilink">management</a></li>
+            
+            <li><a href="/learning/notes-on-people-2026-05-05" class="wikilink">Notes on people</a></li>
             
             <li><a href="/projects.html" class="wikilink">Projects</a></li>
             
+            <li><a href="/origin-apple-notes/reading" class="wikilink">reading</a></li>
+            
+            <li><a href="/origin-apple-notes/research" class="wikilink">research</a></li>
+            
             <li><a href="/memex/research" class="wikilink">Research</a></li>
             
+            <li><a href="/origin-apple-notes/review" class="wikilink">review</a></li>
+            
+            <li><a href="/origin-apple-notes/skills" class="wikilink">skills</a></li>
+            
+            <li><a href="/origin-apple-notes/startup" class="wikilink">startup</a></li>
+            
+            <li><a href="/origin-apple-notes/tech" class="wikilink">tech</a></li>
+            
             <li><a href="/memex/tech" class="wikilink">Tech</a></li>
+            
+            <li><a href="/origin-apple-notes/thoughts" class="wikilink">thoughts</a></li>
+            
+            <li><a href="/origin-apple-notes/tips" class="wikilink">tips</a></li>
             
             <li><a href="/memex/wiki" class="wikilink">Wiki</a></li>
             
@@ -278,7 +318,10 @@
     
 
     
+
+    </div>
 </article>
+
 
         </main>
 
@@ -299,6 +342,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

@@ -48,6 +48,13 @@
 
         <main class="content">
             
+
+
+
+
+
+
+
 <article class="post memex-page">
     <nav class="memex-nav" aria-label="Memex navigation">
         
@@ -60,9 +67,9 @@
         <span class="memex-nav-sep">→</span>
         <span>notes on The Origins of Political Order</span>
         
-        
-    </nav>
 
+    </nav>
+    
     <header class="post-header">
         <h1>notes on The Origins of Political Order</h1>
         
@@ -176,13 +183,23 @@
 <ul>
 <li><a href="/notes/notes-on-the-origins-of-political-order-2020-06-19" class="wikilink">The Origins of Political Order</a></li>
 </ul></div>
-
+    
     
     <section class="wiki-panel wiki-panel-primary wiki-outgoing">
         <h2>Links to</h2>
         <ul class="wiki-link-grid">
             
+            <li><a href="/origin-apple-notes/china" class="wikilink">china</a></li>
+            
+            <li><a href="/origin-apple-notes/important" class="wikilink">important</a></li>
+            
+            <li><a href="/memex/learning" class="wikilink">Learning</a></li>
+            
             <li><a href="/memex/notes" class="wikilink">Notes</a></li>
+            
+            <li><a href="/origin-apple-notes/politics" class="wikilink">politics</a></li>
+            
+            <li><a href="/diary/summary-2017-03-23" class="wikilink">summary</a></li>
             
         </ul>
     </section>
@@ -210,6 +227,10 @@
             
             <li><a href="/business/the-practical-part-in-business-2020-04-13" class="wikilink">The practical part in business</a></li>
             
+            <li><a href="/learning/keep-my-creativity-2018-05-28" class="wikilink">Keep my creativity</a></li>
+            
+            <li><a href="/learning/learn-about-good-soft-skills-2017-11-17" class="wikilink">!Learn about good Soft skills</a></li>
+            
             <li><a href="/notes/learn-about-good-soft-skills-2017-11-17" class="wikilink">!Learn about good Soft skills</a></li>
             
             <li><a href="/notes/notes-on-games-of-thones-2022-03-13" class="wikilink">Notes on 'Games of Thones'</a></li>
@@ -217,10 +238,6 @@
             <li><a href="/notes/notes-on-hamlet-2020-06-24" class="wikilink">Notes on 'Hamlet'</a></li>
             
             <li><a href="/notes/notes-on-i-love-you-but-2021-04-05" class="wikilink">!notes on 'I love you but'</a></li>
-            
-            <li><a href="/notes/notes-on-the-rule-of-life-2021-08-11" class="wikilink">notes on 'the rule of life'</a></li>
-            
-            <li><a href="/philosophy/notes-on-learning-how-to-learn-2020-05-13" class="wikilink">Notes on Learning How to Learn</a></li>
             
         </ul>
     </details>
@@ -232,17 +249,17 @@
         <p class="wiki-panel-note">Pages that share topics with this note.</p>
         <ul class="wiki-link-grid">
             
+            <li><a href="/notes/notes-on-the-rule-of-life-2021-08-11" class="wikilink">notes on 'the rule of life'</a></li>
+            
+            <li><a href="/philosophy/notes-on-learning-how-to-learn-2020-05-13" class="wikilink">Notes on Learning How to Learn</a></li>
+            
             <li><a href="/philosophy/notes-on-loving-2020-06-16" class="wikilink">!Notes on 'loving'</a></li>
             
+            <li><a href="/self/self-reflection-2018-03-09" class="wikilink">!self reflection</a></li>
+            
+            <li><a href="/self/upgrade-my-self-2017-11-07" class="wikilink">!Upgrade My Self</a></li>
+            
             <li><a href="/softskills/how-to-improve-your-softskills-2016-04-03" class="wikilink">How to improve your softskills</a></li>
-            
-            <li><a href="/softskills/managing-up-and-across-2025-03-18" class="wikilink">Managing up and across</a></li>
-            
-            <li><a href="/tech/notes-on-the-product-manager-2020-02-11" class="wikilink">Notes on the Product Manager</a></li>
-            
-            <li><a href="/business/learning-about-entrepreneur-2021-09-24" class="wikilink">Learning - About Entrepreneur</a></li>
-            
-            <li><a href="/course/about-finance-2024-01-13" class="wikilink">about Finance</a></li>
             
         </ul>
     </details>
@@ -253,7 +270,9 @@
     
 
     
+
 </article>
+
 
         </main>
 
@@ -274,6 +293,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

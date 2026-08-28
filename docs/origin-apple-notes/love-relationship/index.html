@@ -48,11 +48,33 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/origin-apple-notes">Origin Apple Notes</a>
+        <span class="memex-nav-sep">→</span>
+        <span>love   relationship</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>love   relationship</h1>
         
     </header>
+
     <div class="post-body"><h1>love  # relationship</h1>
 <p>爱情是一种 两个人 情投意合, 心心相印的感觉, 是一种两个人合二为一的冲动<br />
 爱情在最初的迸发之后, 渐渐转变为亲情, 激情渐渐转变为柔情, 爱情与婚姻实现了某种程度的结合</p>
@@ -62,6 +84,55 @@
 <p>她與羅貫中從朋友關係循序漸進，相處的模式<b><u>讓她感受到真誠與自在</u></b><span style="font-family:.PingFangSC-Regular;">，互相之間會給對方很多空間</span></p>
 <p>從愛自己開始，再去愛別人</p>
 <p>價值觀相近、身心契合的靈魂伴侶</p></div>
+    
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/memex/origin-apple-notes" class="wikilink">Origin Apple Notes</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+    <section class="wiki-panel wiki-panel-primary backlinks">
+        <h2>Linked from (1)</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/diary/apple-notes-2026-04-07" class="wikilink">apple notes</a></li>
+            
+        </ul>
+    </section>
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (3)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/family" class="wikilink">family</a></li>
+            
+            <li><a href="/origin-apple-notes/love" class="wikilink">love</a></li>
+            
+            <li><a href="/origin-apple-notes/relationship" class="wikilink">relationship</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -84,6 +155,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

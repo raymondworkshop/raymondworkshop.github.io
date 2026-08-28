@@ -48,21 +48,15 @@
 
         <main class="content">
             
-<article class="post memex-page">
-    <nav class="memex-nav" aria-label="Memex navigation">
-        
-        <a href="/about.html">About</a>
-        <span class="memex-nav-sep">→</span>
-        <a href="/memex.html">Memex</a>
-        
-        <span class="memex-nav-sep">→</span>
-        <a href="/memex/blog">Blog</a>
-        <span class="memex-nav-sep">→</span>
-        <span>生活的藝術</span>
-        
-        
-    </nav>
 
+
+
+
+
+
+
+<article class="post" data-memex-context="dual">
+    
     <header class="post-header">
         <h1>生活的藝術</h1>
         
@@ -126,7 +120,30 @@
 <p>话美。所谓文学的美和一切物事的美，<strong>大都有赖于变换和动作，并且以生活为基础</strong>。凡是活的东西都有变换和活动，而凡是有变换和活动的东西自然也有美。凡是尽其天性的，都有“文”或美的轮廓为其外饰，所以“文”或轮廓形式的美是内生的，不是外生的。</p>
 <h4>近情</h4>
 <p>和逻辑相对的有常识，或者<strong>近情精神（Reasonableness）</strong>。<strong>近情精神乃是中国文明的精华和她的最好的方面。中国的一切社会生活乃是以“讲理”为基础的</strong>。 近情的思想其实就是人性化的思想。专讲逻辑的人是永远自以为是的，所以他是不近人情的。在人事之中，不合逻辑的行为常是最能动人。法律本身就承认它未必能处处绝对平允，所以它也时常不能不迁就人情，所以一国元首都另有一种特赦权。 近情精神使我们的思想人性化，并且使我们不坚信自己总是对的。</p></div>
+    <div class="memex-chrome" hidden>
+        <nav class="memex-nav" aria-label="Memex navigation">
+            
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/blog">Blog</a>
+        <span class="memex-nav-sep">→</span>
+        <span>生活的藝術</span>
+        
 
+        </nav>
+        
+    
+    <section class="wiki-panel wiki-panel-primary wiki-outgoing">
+        <h2>Links to</h2>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/origin-apple-notes/writing" class="wikilink">writing</a></li>
+            
+        </ul>
+    </section>
     
 
     
@@ -137,6 +154,10 @@
     <details class="wiki-panel wiki-panel-secondary wiki-related">
         <summary>Related in Blog</summary>
         <ul class="wiki-link-grid">
+            
+            <li><a href="/diary/总结自-了解中国政治-2016-03-12" class="wikilink">总结自 '了解中国政治'</a></li>
+            
+            <li><a href="/diary/每次旅行都是一次爱恋-2010-08-17" class="wikilink">每次旅行都是一次爱恋</a></li>
             
             <li><a href="/language/notes-on-english-writing-2022-11-16" class="wikilink">Notes on English Writing</a></li>
             
@@ -150,10 +171,6 @@
             
             <li><a href="/part-two-the-anatomy-of-consciousness-2013-04-04" class="wikilink">Part two: The Anatomy of Consciousness</a></li>
             
-            <li><a href="/softskills/反思自己的思维偏见-2014-03-30" class="wikilink">反思自己的思维偏见</a></li>
-            
-            <li><a href="/十年一覺電影夢-2019-12-04" class="wikilink">十年一覺電影夢</a></li>
-            
         </ul>
     </details>
     
@@ -163,6 +180,10 @@
         <summary>See also</summary>
         <p class="wiki-panel-note">Pages that share topics with this note.</p>
         <ul class="wiki-link-grid">
+            
+            <li><a href="/softskills/反思自己的思维偏见-2014-03-30" class="wikilink">反思自己的思维偏见</a></li>
+            
+            <li><a href="/十年一覺電影夢-2019-12-04" class="wikilink">十年一覺電影夢</a></li>
             
             <li><a href="/尋路中國-country-driving-2014-12-05" class="wikilink">尋路中國(Country Driving)</a></li>
             
@@ -175,7 +196,10 @@
     
 
     
+
+    </div>
 </article>
+
 
         </main>
 
@@ -196,6 +220,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

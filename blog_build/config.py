@@ -4,14 +4,7 @@ import re
 SRCS = "./_posts/"
 POSTS_PER_PAGE = 20
 
-MEMEX_EXCLUDED_SECTIONS: set[str] = {
-    "diary",
-    "new-apple-notes",
-    "origin-apple-notes",
-    "self",
-    "invest",
-    "learning"
-}
+MEMEX_EXCLUDED_SECTIONS: set[str] = set()
 MEMEX_HUB_DIR = pathlib.Path("memex")
 
 # Publish these _posts/ subdirs under another section (symlink sources stay put).

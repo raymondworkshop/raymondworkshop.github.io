@@ -102,9 +102,9 @@ lines · check `wikilink-missing` after rebuild.
 
 ## Excluded
 
-`MEMEX_EXCLUDED_SECTIONS` in `blog_build/config.py` — skip wiki preprocess,
-templates, graph, search, A–Z (plain HTML still built). Current: `diary`,
-`learning`, `new-apple-notes`, `origin-apple-notes`, `invest`, `self`.
+`MEMEX_EXCLUDED_SECTIONS` in `blog_build/config.py` — when non-empty, skips wiki
+preprocess, memex templates, graph, and search for those section dirs (plain HTML
+still built). Currently empty (all `_posts/` included in memex).
 
 ## Agent checklist
 

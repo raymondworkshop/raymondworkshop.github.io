@@ -48,6 +48,13 @@
 
         <main class="content">
             
+
+
+
+
+
+
+
 <article class="post memex-page">
     <nav class="memex-nav" aria-label="Memex navigation">
         
@@ -60,9 +67,9 @@
         <span class="memex-nav-sep">→</span>
         <span>Twitter Likes part 23 (extracted from like.js)</span>
         
-        
-    </nav>
 
+    </nav>
+    
     <header class="post-header">
         <h1>Twitter Likes part 23 (extracted from like.js)</h1>
         
@@ -3712,7 +3719,7 @@ will drop you into a full IPython console at that position.</p>
 <p>That's why women wear make-up and men exaggerate their achievements.</p>
 <p>Remember this and apply accordingly.</p>
 <hr /></div>
-
+    
     
     <section class="wiki-panel wiki-panel-primary wiki-outgoing">
         <h2>Links to</h2>
@@ -3728,13 +3735,69 @@ will drop you into a full IPython console at that position.</p>
 
     
     <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
-        <summary>Mentioned but not linked (2)</summary>
+        <summary>Mentioned but not linked (30)</summary>
         <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
         <ul class="wiki-link-grid">
             
+            <li><a href="/self/self-reflection-2019-12-12" class="wikilink">!self reflection</a></li>
+            
+            <li><a href="/self/self-reflection-2018-03-09" class="wikilink">!self reflection</a></li>
+            
             <li><a href="/about.html" class="wikilink">About</a></li>
             
+            <li><a href="/origin-apple-notes/books" class="wikilink">books</a></li>
+            
+            <li><a href="/origin-apple-notes/communication" class="wikilink">communication</a></li>
+            
             <li><a href="/wiki/conversation" class="wikilink">conversation</a></li>
+            
+            <li><a href="/origin-apple-notes/creative" class="wikilink">creative</a></li>
+            
+            <li><a href="/origin-apple-notes/data" class="wikilink">data</a></li>
+            
+            <li><a href="/origin-apple-notes/energy" class="wikilink">energy</a></li>
+            
+            <li><a href="/origin-apple-notes/experience" class="wikilink">experience</a></li>
+            
+            <li><a href="/origin-apple-notes/important" class="wikilink">important</a></li>
+            
+            <li><a href="/origin-apple-notes/learning" class="wikilink">learning</a></li>
+            
+            <li><a href="/memex/learning" class="wikilink">Learning</a></li>
+            
+            <li><a href="/origin-apple-notes/life" class="wikilink">life</a></li>
+            
+            <li><a href="/origin-apple-notes/lifestyle" class="wikilink">lifestyle</a></li>
+            
+            <li><a href="/origin-apple-notes/love" class="wikilink">love</a></li>
+            
+            <li><a href="/origin-apple-notes/mind" class="wikilink">mind</a></li>
+            
+            <li><a href="/origin-apple-notes/mindset" class="wikilink">mindset</a></li>
+            
+            <li><a href="/origin-apple-notes/money" class="wikilink">money</a></li>
+            
+            <li><a href="/learning/notes-on-people-2026-05-05" class="wikilink">Notes on people</a></li>
+            
+            <li><a href="/origin-apple-notes/reading" class="wikilink">reading</a></li>
+            
+            <li><a href="/origin-apple-notes/relationship" class="wikilink">relationship</a></li>
+            
+            <li><a href="/origin-apple-notes/self" class="wikilink">self</a></li>
+            
+            <li><a href="/memex/self" class="wikilink">Self</a></li>
+            
+            <li><a href="/origin-apple-notes/sharing" class="wikilink">sharing</a></li>
+            
+            <li><a href="/origin-apple-notes/time" class="wikilink">time</a></li>
+            
+            <li><a href="/origin-apple-notes/tools" class="wikilink">tools</a></li>
+            
+            <li><a href="/origin-apple-notes/unknown" class="wikilink">unknown</a></li>
+            
+            <li><a href="/origin-apple-notes/value" class="wikilink">value</a></li>
+            
+            <li><a href="/origin-apple-notes/work" class="wikilink">work</a></li>
             
         </ul>
     </details>
@@ -3749,7 +3812,9 @@ will drop you into a full IPython console at that position.</p>
     
 
     
+
 </article>
+
 
         </main>
 
@@ -3770,6 +3835,44 @@ will drop you into a full IPython console at that position.</p>
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

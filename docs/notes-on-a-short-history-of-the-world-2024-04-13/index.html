@@ -48,21 +48,15 @@
 
         <main class="content">
             
-<article class="post memex-page">
-    <nav class="memex-nav" aria-label="Memex navigation">
-        
-        <a href="/about.html">About</a>
-        <span class="memex-nav-sep">→</span>
-        <a href="/memex.html">Memex</a>
-        
-        <span class="memex-nav-sep">→</span>
-        <a href="/memex/blog">Blog</a>
-        <span class="memex-nav-sep">→</span>
-        <span>Notes on 'A Short History of the World'</span>
-        
-        
-    </nav>
 
+
+
+
+
+
+
+<article class="post" data-memex-context="dual">
+    
     <header class="post-header">
         <h1>Notes on 'A Short History of the World'</h1>
         
@@ -192,7 +186,21 @@
 <ul>
 <li><a href="https://book.douban.com/subject/30258601/">世界簡史</a> by Geoffrey Blainey</li>
 </ul></div>
+    <div class="memex-chrome" hidden>
+        <nav class="memex-nav" aria-label="Memex navigation">
+            
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex/blog">Blog</a>
+        <span class="memex-nav-sep">→</span>
+        <span>Notes on 'A Short History of the World'</span>
+        
 
+        </nav>
+        
     
     <section class="wiki-panel wiki-panel-primary wiki-outgoing">
         <h2>Links to</h2>
@@ -228,17 +236,17 @@
             
             <li><a href="/business/the-practical-part-in-business-2020-04-13" class="wikilink">The practical part in business</a></li>
             
+            <li><a href="/diary/notes-on-odyssey-2025-07-10" class="wikilink">!Notes on odyssey</a></li>
+            
             <li><a href="/hello-world-2012-08-28" class="wikilink">Hello, World!</a></li>
             
             <li><a href="/language/notes-on-business-english-2020-06-08" class="wikilink">notes on business english</a></li>
             
-            <li><a href="/notes-on-完整的自己-2025-08-07" class="wikilink">Notes on '完整的自己'</a></li>
+            <li><a href="/learning/about-coaching-2025-11-10" class="wikilink">About Coaching</a></li>
             
-            <li><a href="/notes-on-幸福的勇氣-2020-05-19" class="wikilink">Notes on '幸福的勇氣'</a></li>
+            <li><a href="/learning/keep-my-creativity-2018-05-28" class="wikilink">Keep my creativity</a></li>
             
-            <li><a href="/notes-on-成為自由人-2026-03-01" class="wikilink">Notes on '成為自由人'</a></li>
-            
-            <li><a href="/notes/jean-christophe-約翰-克利斯朵夫-2014-06-24" class="wikilink">Jean-Christophe(約翰·克利斯朵夫)</a></li>
+            <li><a href="/learning/learn-about-good-soft-skills-2017-11-17" class="wikilink">!Learn about good Soft skills</a></li>
             
         </ul>
     </details>
@@ -250,17 +258,17 @@
         <p class="wiki-panel-note">Pages that share topics with this note.</p>
         <ul class="wiki-link-grid">
             
+            <li><a href="/learning/notes-on-men-2025-07-07" class="wikilink">Notes on Men</a></li>
+            
+            <li><a href="/notes-on-完整的自己-2025-08-07" class="wikilink">Notes on '完整的自己'</a></li>
+            
+            <li><a href="/notes-on-幸福的勇氣-2020-05-19" class="wikilink">Notes on '幸福的勇氣'</a></li>
+            
+            <li><a href="/notes/jean-christophe-約翰-克利斯朵夫-2014-06-24" class="wikilink">Jean-Christophe(約翰·克利斯朵夫)</a></li>
+            
             <li><a href="/notes/learn-about-good-soft-skills-2017-11-17" class="wikilink">!Learn about good Soft skills</a></li>
             
             <li><a href="/notes/notes-on-games-of-thones-2022-03-13" class="wikilink">Notes on 'Games of Thones'</a></li>
-            
-            <li><a href="/notes/notes-on-hamlet-2020-06-24" class="wikilink">Notes on 'Hamlet'</a></li>
-            
-            <li><a href="/notes/notes-on-history-2024-04-13" class="wikilink">Notes on History</a></li>
-            
-            <li><a href="/notes/notes-on-i-love-you-but-2021-04-05" class="wikilink">!notes on 'I love you but'</a></li>
-            
-            <li><a href="/notes/notes-on-the-origins-of-political-order-2020-06-19" class="wikilink">notes on The Origins of Political Order</a></li>
             
         </ul>
     </details>
@@ -271,7 +279,10 @@
     
 
     
+
+    </div>
 </article>
+
 
         </main>
 
@@ -292,6 +303,44 @@
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>

@@ -48,7 +48,26 @@
 
         <main class="content">
             
-<article class="post">
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <span>2026-07-08</span>
+        
+
+    </nav>
+    
     <header class="post-header">
         <h1>2026-07-08</h1>
         
@@ -60,6 +79,7 @@
         </div>
         
     </header>
+
     <div class="post-body"><p>一方面想止损，感觉在陪跑
 一方面想结交， 看有没有希望</p>
 <p>需要“破局”
@@ -148,6 +168,65 @@ They dont insult you. They don't give you the silent treatment.
 They dont become aggressive or manipulative. 
 They listen patiently to understand. Healthy relationships are so healing.</p>
 <p>The peace that comes with knowing you can say how you feel without being met with defensiveness or silent treatment is unmatched. Emotionally intelligent people are a different breed fr.</p></div>
+    
+    
+
+    
+
+    
+    <details class="wiki-panel wiki-panel-secondary wiki-unlinked">
+        <summary>Mentioned but not linked (17)</summary>
+        <p class="wiki-panel-note">Other pages referenced in this note's text. Add [[wikilinks]] to connect them.</p>
+        <ul class="wiki-link-grid">
+            
+            <li><a href="/about.html" class="wikilink">About</a></li>
+            
+            <li><a href="/origin-apple-notes/business" class="wikilink">business</a></li>
+            
+            <li><a href="/memex/business" class="wikilink">Business</a></li>
+            
+            <li><a href="/origin-apple-notes/culture" class="wikilink">culture</a></li>
+            
+            <li><a href="/origin-apple-notes/driving" class="wikilink">driving</a></li>
+            
+            <li><a href="/origin-apple-notes/market" class="wikilink">market</a></li>
+            
+            <li><a href="/origin-apple-notes/mental" class="wikilink">mental</a></li>
+            
+            <li><a href="/learning/notes-on-people-2026-05-05" class="wikilink">Notes on people</a></li>
+            
+            <li><a href="/origin-apple-notes/politics" class="wikilink">politics</a></li>
+            
+            <li><a href="/origin-apple-notes/product" class="wikilink">product</a></li>
+            
+            <li><a href="/origin-apple-notes/relationships" class="wikilink">relationships</a></li>
+            
+            <li><a href="/origin-apple-notes/self" class="wikilink">self</a></li>
+            
+            <li><a href="/memex/self" class="wikilink">Self</a></li>
+            
+            <li><a href="/origin-apple-notes/softskills" class="wikilink">softskills</a></li>
+            
+            <li><a href="/memex/softskills" class="wikilink">Softskills</a></li>
+            
+            <li><a href="/origin-apple-notes/startup" class="wikilink">startup</a></li>
+            
+            <li><a href="/memex/wiki" class="wikilink">Wiki</a></li>
+            
+        </ul>
+    </details>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 </article>
 
 
@@ -170,6 +249,44 @@ They listen patiently to understand. Healthy relationships are so healing.</p>
             if (key) {
                 var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
                 if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
             }
         })();
     </script>
