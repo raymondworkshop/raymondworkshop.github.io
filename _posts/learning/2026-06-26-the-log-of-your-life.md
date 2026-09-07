@@ -11,6 +11,68 @@ abstract: "personal reflection journal"
 
 > 不要只记录事实，要记录那些让你感到“不舒服”的瞬间  
 
+#### 2026-09-07  
+* TODO  
+    -  **增重 + 健身 （上身） + 美容**   
+        - 在家裏很累， 就想躺   ?  
+
+    -  shadow with english   
+
+    -  簡歷 + 工作  
+        -  联系 Graham Daley 工作或合作機會   
+
+* SELF  
+    - express the full spectrum of your feelings  
+
+* DONE  
+    - finish <The difficult conversation>  
+
+    - Man united  
+
+#### 2026-08-31  
+* TODO  
+    -  **增重 + 健身 （上身） + 美容**   
+        - 在家裏很累， 就想躺   ?  
+
+    -  shadow with english   
+
+    -  簡歷 + 工作  
+        -  联系 Graham Daley 工作或合作機會   
+
+* SELF   
+    - 維克多‧弗蘭克爾的說法：人生的意義並非你能直接追求的東西。
+    相反，當你**專注於生活**、**幫助他人或完成某項任務時**，**意義感就會自然而然地產生**  
+
+    - 從 “對方怎麼看我的條件” 轉移到 “**我和這個人是否有真正的共鳴**”  
+        - 轉向 “**展露脆弱**”  
+            + “**听到你这么说，我心里其实挺有感触的**，因为我也经历过类似的无力感……”   
+
+        - 练习“**倾听情绪**”  
+            + 把注意力从“对方在说什么逻辑”转移到“**对方此刻有什么感受，他的身体和语气在表达什么**”  
+            + 试着去捕捉对方话语背后的**情绪需求**（比如他炫耀或者抱怨的背后，其实是渴望被认可、被看见）。
+            当你能够**对“对方的情绪”**而非“事情本身”作出回应时，共鸣感就会油然而生  
+
+        - **允许自己当场“失控”或“笨拙”**     
+            + 共鸣往往诞生在那些“**不加掩饰的瞬间**”——比如两个人在某个话题上相视苦笑，或者坦诚地承认“其实我也不知道该怎么做”。放过那个要求自己时刻清醒、理性的“内在苛刻审判官”  
+
+    - The greatest social trap is being useful without a cost.   
+        - It leaves you open to exploitation. People will rely on you, summon you, and still undervalue you because you help without a cost.  
+        - **Value must be paired with a cost in order to leverage it** for power, respect or authority.  
+
+    - **Match her energy**. Don’t over-invest too early.  
+        - Flirt with her. Playful, suggestive, confident  
+        - Lead. Take charge of the dynamic  
+        - Walk away if she’s not interested. Don’t wait around.  
+        - Touch her confidently to break the physical barrier  
+
+        - **She cooperates** instead of competing with your direction  
+        - **She supports** your goals instead of undermining them  
+        - She brings calm more often than chaos  
+        - She doesn’t punish you with mood swings or silent treatment over minor things
+        - Your life feels lighter with her in it
+
+
+
 #### 2026-08-26  
 * TODO  
     -  **增重 + 健身 （上身） + 美容**   
