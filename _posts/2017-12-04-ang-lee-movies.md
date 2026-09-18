@@ -7,11 +7,15 @@ categories: [home, writing]
 abstract: "notes on 《十年一覺電影夢》from 李安 (Ang Lee) "
 ---
 
-> <small>note on 《十年一覺電影夢》from 李安 (Ang Lee) </small>
+> 「人生就是一连串的周旋协调（negotiation），人没有绝对的自由，每过一条路，翻一座山，我偏要去克服或绕道。」— 李安
 
-#### 2022 understanding movies
+
+### 2022 understanding movies
 
 TODO
+
+### notes on 《十年一覺電影夢》
+
 
 #### 快乐的童年
 
