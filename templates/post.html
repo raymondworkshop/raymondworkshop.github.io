@@ -6,25 +6,9 @@
 <article class="post">
     <header class="post-header">
         <h1>{{ post.title }}</h1>
-        {% if post.date or post.tags or post.categories %}
+        {% if post.date %}
         <div class="post-meta-row">
-            {% if post.date %}
             <time class="post-meta" datetime="{{ post.date }}">{{ post.date }}</time>
-            {% endif %}
-            {% if post.tags|length or post.categories %}
-            <div class="post-tags">
-                {% if post.tags|length %}
-                {% for tag in post.tags if tag|trim != 'home' %}
-                <a class="tag" href="/{{ tag|trim }}">#{{ tag|trim }}</a>
-                {% endfor %}
-                {% endif %}
-                {% if post.categories %}
-                {% for tag in post.categories if tag|trim != 'home' %}
-                <a class="tag" href="/{{ tag|trim }}">#{{ tag|trim }}</a>
-                {% endfor %}
-                {% endif %}
-            </div>
-            {% endif %}
         </div>
         {% endif %}
     </header>
