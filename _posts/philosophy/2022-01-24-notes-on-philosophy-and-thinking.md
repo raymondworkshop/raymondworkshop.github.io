@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on Philosophy"
+related: ["!About self-actualization and self-reflections", "!Notes on the GOOD life", "Notes on philosophy, creative and practical thinking skills", "!Notes on 'loving'", Notes on Learning How to Learn]
 date: 2024-07-14
 comments: true
 categories: [learning, thinking, philosophy, important]

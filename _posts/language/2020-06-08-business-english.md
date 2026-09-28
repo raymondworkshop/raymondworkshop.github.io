@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "notes on business english"
+related: [American Intonation - 1, Intonation 2, Notes about TV shows, Notes about TV shows - 1, Notes about TV shows - 2]
 date: 2020-06-08
 comments: true
 categories: [notes, language, learning]

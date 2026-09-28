@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Quote some biases"
+related: ["!self reflection", "!Upgrade My Self", My Daily thoughts, Personal Challenge in 2016, "!A better me -> to be great"]
 date: 2015-12-14
 comments: true
 categories: [summary, self]

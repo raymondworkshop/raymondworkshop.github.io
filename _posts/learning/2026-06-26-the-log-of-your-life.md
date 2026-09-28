@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The log of your life"
+related: ["!Difficult Conversations", "!Improve your charm", "!Improving your judgment skills", "!Learn about good Soft skills", "!On Leadership, and Teamwork"]
 date: 2026-06-15
 tags: [diary, review, important, learning, lesson]
 abstract: "personal reflection journal"
@@ -13,6 +14,46 @@ abstract: "personal reflection journal"
 
 #### 2026-09-28  
 * TODO  
+    -  **shadow with english**  
+
+    -  **增重 + 健身 （上身） + 美容**  
+        - 牛奶 + 蛋白粉   
+         
+
+    -  簡歷 + 工作  ?  
+        -  联系 Graham Daley 工作或合作機會   
+
+    - **身體感知** <- 從“腦力控制”  
+        - 把注意力從 思考 下沉到 身體（感受）  
+        - 在準備回應時， **先做一個呼吸**，感受一下自己的腳掌是否踩在地面上  
+            + **借呼吸找回身體直覺** 
+            + 問自己： “此刻我心裡什麼感覺？”  
+
+        - “被審視”的感覺    
+            + 理性會把這當成一次“考核”， 理性會覺得反饋的價值在於“能不能幫忙解決問題  
+            + 把”審視“翻譯成”**鏡子**“  
+            + 他說出了他眼中看到的我的樣子，主動權在我是否要調整  
+            + **看對方話語背後的狀態**， 他此刻為什麼要在意這件事  
+
+    - Manage a process/project/schedule but **you lead people**  
+        - Listening is when **other person feels heard**  
+        - leadeship means to invest time and energy to learn to look after around him  
+
+        - Being transparent means **giving people context**  
+        - Empathy requires you to feel what somebody else is felling  
+            - Kindness requires you to do something about it  
+            - Niceness is the performance of kindness  
+
+        -  Listening,empathy
+            - how to resolve conflict
+              how to have [[!Difficult Conversations|difficult conversations]]
+              how to give and receive feedback  
+                - “can I give you a feedback”
+            - How to implement change
+            - How to do recognition and reward
+
+
+
 
 * SELF  
     - **帶著邊界去愛人**，帶著信任去生活  
@@ -23,6 +64,41 @@ abstract: "personal reflection journal"
     - 把信息**綜合成令人信服的框架**  
         + **契合人的真實經驗**，**引發情感共鳴**，讓人印象深刻且表達簡潔有力  
         + 把抽象變成 在乎的事  
+
+    - Build stuff and talk to users
+
+        + A CS undergrad asked me where he could have most effect in the AI age.
+        I said probably at either extreme: **either close to the technology, actually making LLMs**,  Someone who was making LLMs would be observing how they were used, and realize that a tweak to the fundamental technology would make them work significantly better for some problem.
+
+        + or **close to the customer**, **using AI to give them exactly what they want**. Or maybe both if you can stretch that far. 
+
+        -   從 “頭腦” 到 “心靈”  
+        + **看見具體的個體** <- 從關注 整體/目標  
+            - 把注意力從“團隊” 落到 **一個具體的人**身上  
+            - 每次交流時，在心裡對自己說 “**此刻在我面前的是一個有著喜怒哀樂的活生生的人**，不是一個”合作對象“  
+            - 關注對方的微表情，**情緒狀態**，而不只是他說的話是否符合邏輯  
+
+        + 共情與陪伴 <- 解決問題/給建議  
+            - **先接納情緒**， 再處理事情  
+                - **對方要的是理解**，而不是答案  
+
+                - **開啟身體雷達， 試著用身體“接受”對方的整體氛圍**，而不是去對她的話語對衝判別  
+
+                - **練習去聽對方話語底層的心裡需求** （渴望被理解，渴望安全感，感到委屈）
+                - **像“鏡子” 一樣去映射**，而不是做“法官”去評判  
+                    + **試著用情緒去核對對方的感受**，而不是給建議  
+                    + “聽你這麼說，我感覺你現在特別無助/委屈，對嗎？”  
+                    + “你心裡什麼感覺？”  
+
+            - 無條件的享受當下 <- 價值交易/功利化  
+                - 覺察自己內心的“價值計算器”  
+
+            - **身體感知** <- 從“腦力控制”  
+                - 把注意力從 思考 下沉到 身體（感受）  
+                - 在準備回應時， **先做一個呼吸**，感受一下自己的腳掌是否踩在地面上  
+                    + **借呼吸找回身體直覺** 
+                    + 問自己： “此刻我心裡什麼感覺？”  
+
 
     - 同AI聊了很多 多爾袞的 歷史  - 皇家歷史中的“權謀” 核心在於 生存，控制與防禦   
         + “平衡術”： **對失控與衝突的恐懼**  
@@ -56,9 +132,6 @@ abstract: "personal reflection journal"
 * DONE  
     - 預約了 同姨 見面  
         + 嘉獎自己的try 和 勇氣  
-
-
-
 
     - buy iphone 18 pro  
         + hsbc卡優惠+低利率分期+ AI 預期  

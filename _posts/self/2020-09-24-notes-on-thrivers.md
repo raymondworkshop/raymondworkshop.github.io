@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "notes-on-thrivers"
+related: ["!A better me -> to be great", Notes on Personal skills, "!Improve my professional skills", "!self reflection", "!Upgrade My Self"]
 date: 2020-09-24
 comments: true
 categories: [learning, education, self, important]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Update about my career development and lessons"
+related: ["!self reflection", "!Upgrade My Self", On Interview, 我想要什么样的生活, "!A better me -> to be great"]
 date: 2020-03-20
 comments: true
 categories: [summary, learning, softskill, work]

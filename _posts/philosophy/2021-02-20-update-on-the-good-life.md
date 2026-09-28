@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!Notes on the GOOD life"
+related: ["!!About Self", Notes on Philosophy, "Notes on philosophy, creative and practical thinking skills", "!About self-actualization and self-reflections", "!Notes on 'loving'"]
 date: 2021-02-20
 comments: true
 categories: [learning, philosophy, life, important]
@@ -501,7 +502,7 @@ abstract: "notes on the GOOD life - beauty and love "
     - consider myself a christian in the literal
     - sincerely **admiring** the personality and ethics of Christ
 
-#### about SELF
+#### [[!!About Self|about SELF]]
 
 - spirital, not a religious
 

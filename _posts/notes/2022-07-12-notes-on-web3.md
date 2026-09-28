@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on web3"
+related: ["!Improve your charm", "!Learn about good Soft skills", "!notes on 'I love you but'", "!Notes on 萧若元", About Spiritual world]
 date: 2022-06-17
 comments: true
 categories: [learning, web3, ]

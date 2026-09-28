@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Skills: How to work on hard Things"
+related: ["!Improve your charm", "notes on 'the rule of life'", Notes on how to influence people, "!Learn about good Soft skills", "!notes on 'I love you but'"]
 date: 2022-03-01
 comments: true
 categories: [learning, thinking, self,  important]

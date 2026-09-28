@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "apple notes"
+related: [The log of your life, Year 2022 Weekly check-ins, "!Notes on odyssey", 2015-03-08-Summary, 2015-03-15-weekly-summary]
 date: 2026-04-07
 comments: true
 categories: [diary, important]

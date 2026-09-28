@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Keep my creativity"
+related: ["!Learn about good Soft skills", "!Improve your charm", "!Improving your judgment skills", "!On Leadership, and Teamwork", About Coaching]
 date: 2018-05-28
 comments: true
 categories: [notes, learning,creativity, important, startup, ideas, research]

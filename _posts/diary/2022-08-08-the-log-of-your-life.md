@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The log of your life"
+related: [Year 2022 Weekly check-ins, apple notes, "!Notes on odyssey", 2015-03-08-Summary, 2015-03-15-weekly-summary]
 date: 2022-08-08  
 tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"

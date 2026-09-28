@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[Updating] Notes about machine learning"
+related: ["[Updating] Notes about Concurrency and Parallelism", Building Abstractions with Procedures, Notes on the Product Manager, 能力陷阱, About REST software architecture]
 date: 2019-04-30
 comments: true
 categories: [learning, deeplearning]

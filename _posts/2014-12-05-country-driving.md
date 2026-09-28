@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "尋路中國(Country Driving)"
+related: ["[Updating] The Pragmatic Programming", "Hello, World!", Mans search for meaning, Math is the Basis of Science, "Notes on 'A Short History of the World'"]
 date: 2014-12-05
 comments: true
 categories: [home, writing, china, notes]

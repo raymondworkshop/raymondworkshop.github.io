@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes about TV shows"
+related: [Notes about TV shows - 1, Notes about TV shows - 2, American Intonation - 1, Intonation 2, notes on business english]
 date: 2021-01-01
 comments: true
 categories: [language, shows]

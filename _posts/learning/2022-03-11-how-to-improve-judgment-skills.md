@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!Improving your judgment skills"
+related: [Understanding your emotions, "!On Leadership, and Teamwork", "!Improve your charm", "!Learn about good Soft skills", About Coaching]
 date: 2022-03-11
 comments: true
 categories: [important, self, softskills, learning]
@@ -64,7 +65,7 @@ abstract: "On how to make choices"
 
 #### The Self-Awareness Onion
 
-- understanding your emotions
+- [[Understanding your emotions]]
     - identify blind spots in ourselves and then expressing the affected emotions appropriately
     - **fear** -> angry, upset, worried, uninspired, sad
     - **love**

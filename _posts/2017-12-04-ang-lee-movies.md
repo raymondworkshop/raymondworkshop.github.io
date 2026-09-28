@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "十年一覺電影夢"
+related: [Mans search for meaning, Math is the Basis of Science, "Part one: Happiness Revisited", "Part two: The Anatomy of Consciousness", 尋路中國(Country Driving)]
 date: 2019-12-04
 comments: true
 categories: [home, writing]

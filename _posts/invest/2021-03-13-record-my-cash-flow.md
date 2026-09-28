@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Record my cash flow"
+related: ["[Updating] !Notes on your Assets", notes on Insurance, "!Notes on Wealth", "!!About Self", "!!Build good Relationships"]
 date: 2021-03-13
 categories: [learning, invest]
 abstract: "Record My Cash flow, and lessones on it"

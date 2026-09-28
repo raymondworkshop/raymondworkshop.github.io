@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Seduction Bible"
+related: ["!Being a Business MAN", "!English Listening and Pronunciation", "!Improve your charm", "!Improving your judgment skills", "!Learn about good Soft skills"]
 date: 2023-10-06
 update: 2022-01-22
 comments: true

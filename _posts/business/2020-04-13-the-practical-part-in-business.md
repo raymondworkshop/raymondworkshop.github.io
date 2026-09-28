@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The practical part in business"
+related: [The Great CEO within, Weekly Review, Daily Review, Learning - About Entrepreneur, My Business]
 date: 2020-04-13
 comments: true
 categories: [notes, learning, business, ideas, important, management]
@@ -305,7 +306,7 @@ categories: [notes, learning, business, ideas, important, management]
 
 -   TODO
 
-#### The Beginning from <The Great CEO Within>
+#### The Beginning from <[[The Great CEO within]]>
 
 -   **Make Money, Have Fun, Do Good**
 
@@ -339,7 +340,7 @@ categories: [notes, learning, business, ideas, important, management]
 -   track goals, priorities, and tasks
 
     -   get things done
-    -   daily review, weekly review, and monthly review
+    -   [[Daily Review]], [[Weekly Review]], and monthly review
 
 -   **Schedule two hours each day to work on top goal only**
 

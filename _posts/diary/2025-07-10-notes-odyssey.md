@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!Notes on odyssey"
+related: [The Psychology of Money, "!Difficult Conversations", About Beauty, "!!About Self", apple notes]
 date: 2025-07-10
 comments: true
 tags: [notes, self, softskills, important]
@@ -43,7 +44,7 @@ abstract: "The log of your life"
 - **自在**， **做任何事不需要考虑太多**
     - 好直接， 我觉得自己喜欢
 
-    - Authenticity is about self-expression = **internal reality**
+    - Authenticity is [[!!About Self|about self]]-expression = **internal reality**
         - am I **representing myself honestly**?
         - showing up your genuine self, without masks or pretence
             - it’s about whether your words and actions reflect your inner state
@@ -949,7 +950,7 @@ abstract: "The log of your life"
 
 - Face life, encounter it
     - Don't be a coward
-    - **Your sensitivity about beauty and goodness**
+    - **Your sensitivity [[About Beauty]] and goodness**
         - this sensitivity will create new friendships; Life becomes richer as love grows as friendliness grows.
 
 - A healthy relationship teaches you: **Love doesn’t punish honesty**. **It values your voice**
@@ -2141,7 +2142,7 @@ abstract: "The log of your life"
                   "**I am willing to engage in constructive interpersonal confrontations**"
 
         - In order to **gain respect and earn power**, you have to **be willing to embrace conflict**
-            - Those who avoid difficult conversations or resolving disputes, cannot be trusted to handle challenging situations
+            - Those who avoid [[!Difficult Conversations|difficult conversations]] or resolving disputes, cannot be trusted to handle challenging situations
             - It is critical for a leader to **be willing to confront people and resolve conflicts that impact the people** that work with you and for you
 
         - **Lean into conflict** rather than shy away from it
@@ -2315,7 +2316,7 @@ abstract: "The log of your life"
     - <萨提尔的自我觉察练习>
     - <力量从哪里来>
     - <The Making of Manager>
-    - <The Psychology of Money>
+    - <[[The Psychology of Money]]>
     - <西藏生死書>
 
 - 最大的抗拒 是

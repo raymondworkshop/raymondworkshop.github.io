@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!!Build good Relationships"
+related: ["!!About Self", How to improve your softskills, Managing up and across, 反思自己的思维偏见, Fictions Reading]
 date: 2020-03-24
 comments: true
 categories: [softskills, learning, summary, relationship]

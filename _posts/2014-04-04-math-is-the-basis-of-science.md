@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Math is the Basis of Science"
+related: [Mans search for meaning, "Part one: Happiness Revisited", "Part two: The Anatomy of Consciousness", 十年一覺電影夢, 尋路中國(Country Driving)]
 date: 2014-04-04
 comments: true
 categories:  [home,  writing]

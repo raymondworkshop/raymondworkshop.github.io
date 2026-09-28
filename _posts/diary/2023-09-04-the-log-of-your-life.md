@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The log of your life"
+related: ["!Difficult Conversations", Year 2022 Weekly check-ins, apple notes, "!Notes on odyssey", 2015-03-08-Summary]
 date: 2023-09-04  
 tags: [diary, review, important, learning, lesson]
 abstract: "a master self-observer"
@@ -845,7 +846,7 @@ abstract: "a master self-observer"
             - Then **set expectations at the start** about **what you can** and **can't share**.   
                 + **Be clear, in your roles in converstaion** whether you're talking in 'work mode' or 'friend mode'  
             - Then, be transparent with others in your organization about your friendship  
-            - Finally, do your job, even if it requires difficult conversations  
+            - Finally, do your job, even if it requires [[!Difficult Conversations|difficult conversations]]  
 
 
         + Social skills  

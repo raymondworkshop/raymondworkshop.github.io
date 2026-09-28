@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes about TV shows - 2"
+related: [My Business, Notes about TV shows, Notes about TV shows - 1, American Intonation - 1, Intonation 2]
 date: 2021-01-18
 comments: true
 categories: [language, shows]
@@ -409,7 +410,7 @@ well, now that you **bring it up**. (提起)
 
 I'll take a check for **the other handred**. (另外一百)
 
-y'know, this is probably none of my business, ...
+y'know, this is probably none of [[My Business]], ...
 
 > **I really want to meet you guys, but i have to run. I'll see you later?**
 >

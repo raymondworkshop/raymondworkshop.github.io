@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!Record my Love"
+related: ["!A better me -> to be great", "!Improve my professional skills", "!self reflection", "!Upgrade My Self", 2018 New Year Challenges]
 date: 2020-05-24
 comments: true
 categories: [learning, love]

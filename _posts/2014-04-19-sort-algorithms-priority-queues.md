@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sort Algorithms: Priority Queues"
+related: [About Hash Algorithms, About Priority Queue, An overview of Natural Language Processing and Linguistics, Logic Gate, "Search Algorithms: Binary Search"]
 date: 2014-04-19
 comments: true
 categories: [home, algorithms]

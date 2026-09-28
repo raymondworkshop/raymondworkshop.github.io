@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to improve your softskills"
+related: [Managing up and across, 反思自己的思维偏见, "!!About Self", "!!Build good Relationships", softskills - communication skills]
 date: 2016-04-03
 comments: true
 categories: [learning, notes, softskills, important, management, business]

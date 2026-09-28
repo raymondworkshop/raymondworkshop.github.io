@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Summary about Face Recognition with OpenCV"
+related: [About Hash Algorithms, About Priority Queue, An overview of Natural Language Processing and Linguistics, Logic Gate, "Search Algorithms: Binary Search"]
 date: 2015-03-06
 comments: true
 categories: [home, algorithms, vision]

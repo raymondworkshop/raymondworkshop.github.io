@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2019 New Year Challenges"
+related: [Personal Challenge in 2016, "!self reflection", "!Upgrade My Self", 2015-03-23-summary.md, 2018 New Year Challenges]
 date: 2019-02-21
 comments: true
 categories: [summary, challenge]

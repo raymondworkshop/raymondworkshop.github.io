@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on Personal skills"
+related: ["!A better me -> to be great", "!Upgrade My Self", notes-on-thrivers, "!Improve my professional skills", "!self reflection"]
 date: 2016-07-31
 comments: true
 categories: [softskills, self, learning, important]

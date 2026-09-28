@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily Review"
+related: [The Great CEO within, "Notes on \"Think and Grow Rich\"", notes on business english, Everyday Review, "!Notes on the GOOD life"]
 date: 2020-01-03 
 comments: true
 categories: [diary]
@@ -201,7 +202,7 @@ categories: [diary]
 #### 2020-10-20
   * TODO
     - CHECK SOFI USD account
-    - DO reading <think and grow rich>
+    - DO reading <[[Notes on "Think and Grow Rich"|think and grow rich]]>
     - CHECK my BCT from huobi again
 
   * DONE
@@ -254,7 +255,7 @@ categories: [diary]
 #### 2020-09-08
   * correct mpf signature
 
-  * write homework of Business English course
+  * write homework of [[notes on business english|Business English]] course
 
 
 #### 2020-09-07
@@ -762,7 +763,7 @@ Miss ivy in the whole afternoon and night
   * see <叹息桥>
     - it's a bit interesting
 
-  * note some on <富兰克林自传>
+  * note some on [[notes on <富兰克林自传>|<富兰克林自传>]]
 
   * wanna learn the programming course, but cannot
 
@@ -995,7 +996,7 @@ Miss ivy in the whole afternoon and night
   * finish the todolist setup
     - need time to get used to that
 
-  * finish the summary the book <The Great CEO Within>
+  * finish the summary the book <[[The Great CEO within]]>
     - should be more social
 
   * english
@@ -1295,7 +1296,7 @@ Miss ivy in the whole afternoon and night
      -   自己 厌恶 **平庸**
 
   *
-  *  The good life is one inspired by love and guided by knowledge.
+  *  [[!Notes on the GOOD life|The good life]] is one inspired by love and guided by knowledge.
   *
 
 
@@ -1373,7 +1374,7 @@ Miss ivy in the whole afternoon and night
     - 意味着 更加努力和聪明的工作
 ---
 layout: post
-title: "Everyday Review"
+title: "[[Everyday Review]]"
 date: 2020-01-03
 comments: true
 categories: [diary]

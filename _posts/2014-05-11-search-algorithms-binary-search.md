@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Search Algorithms: Binary Search"
+related: [About Hash Algorithms, About Priority Queue, An overview of Natural Language Processing and Linguistics, Logic Gate, "Search Algorithms: Binary Search Trees"]
 date: 2014-05-11
 comments: true
 categories: [home, algorithms]

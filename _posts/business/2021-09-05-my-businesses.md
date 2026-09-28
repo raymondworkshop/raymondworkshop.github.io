@@ -1,8 +1,8 @@
 ---
 title: "My Business"
+related: [The Great CEO within, how to influence people, notes on startups, Learning - About Entrepreneur, notes on amway]
 date: 2021-09-05
 tags: [learning, business]
-related: [The Great CEO within, how to influence people, notes on startups]
 aliases: [my businesses, business ideas]
 abstract: "Summary my ideas, and lessones in business"
 ---

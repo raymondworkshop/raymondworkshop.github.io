@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DO-吴军"
+related: [DO-诺言课程, notes on software design and engineering, "!Improve your charm", "!Learn about good Soft skills", "!notes on 'I love you but'"]
 date: 2019-04-18
 comments: true
 categories: [learning, course]

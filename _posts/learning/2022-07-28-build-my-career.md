@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Build my professional career"
+related: ["!Improve your charm", "!Improving your judgment skills", "!Learn about good Soft skills", "!On Leadership, and Teamwork", Keep my creativity]
 date: 2022-07-28
 comments: true
 categories: [important, career, learning]

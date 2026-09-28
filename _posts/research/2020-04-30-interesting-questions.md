@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[Updating] Some Interesting Questions"
+related: [About Beauty, "[Updating] !notes on creativity and research", "[updating] - about A.I.", Paper Summary, TODO-The Beginning of Infinity]
 date: 2020-04-30
 comments: true
 categories: [learning, research]
@@ -11,7 +12,7 @@ abstract: 'List Some Interesting Questions'
  * podcast + iot device  
 
 
-### about beauty  
+### [[About Beauty]]  
 what's beauty?  why do people enjoy the beauty?  
 
 ### why do math models fit in with the natural world  

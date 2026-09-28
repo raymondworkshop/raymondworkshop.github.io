@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fictions Reading"
+related: ["!!About Self", 反思自己的思维偏见, "!!Build good Relationships", How to improve your softskills, Managing up and across]
 date: 2017-11-16
 comments: true
 categories: [learning, fiction, self]

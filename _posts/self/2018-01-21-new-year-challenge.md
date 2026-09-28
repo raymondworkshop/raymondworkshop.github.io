@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2018 New Year Challenges"
+related: ["!A better me -> to be great", "!Improve my professional skills", "!Record my Love", "!self reflection", "!Upgrade My Self"]
 date: 2018-01-21
 comments: true
 categories: [learning, challenge]

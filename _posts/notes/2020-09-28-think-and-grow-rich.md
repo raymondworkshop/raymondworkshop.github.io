@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Notes on "Think and Grow Rich"'
+related: ["notes on 'the rule of life'", "!Improve your charm", "!Learn about good Soft skills", "!notes on 'I love you but'", "Notes on 'Games of Thones'"]
 date: 2020-09-28
 comments: true
 categories: [home, notes, important, self]

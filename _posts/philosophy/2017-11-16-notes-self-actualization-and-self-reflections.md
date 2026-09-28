@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!About self-actualization and self-reflections"
+related: ["Notes on philosophy, creative and practical thinking skills", "!Notes on 'loving'", Notes on Philosophy, "!Notes on the GOOD life", Notes on Learning How to Learn]
 date: 2017-11-16
 comments: true
 categories: [learning, thinking, important, self, lessons]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on Men"
+related: ["!Learn about good Soft skills", About Coaching, "!Improving your judgment skills", "!On Leadership, and Teamwork", Keep my creativity]
 date: 2025-07-07
 comments: true
 tags: [notes, softskills, important]

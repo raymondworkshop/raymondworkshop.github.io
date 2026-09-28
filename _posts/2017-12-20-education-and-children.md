@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "On Education and  Learning "
+related: ["[Updating] The Pragmatic Programming", "Hello, World!", Mans search for meaning, "Notes on 'A Short History of the World'", "Notes on '完整的自己'"]
 date: 2020-12-20
 update: 2022-01-22
 comments: true

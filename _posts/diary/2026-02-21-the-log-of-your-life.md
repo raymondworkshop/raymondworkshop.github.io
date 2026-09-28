@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The log of your life"
+related: ["!!About Self", Year 2022 Weekly check-ins, apple notes, "!Notes on odyssey", 2015-03-08-Summary]
 date: 2026-02-21
 tags: [diary, review, important, learning, lesson]
 abstract: "personal reflection journal"
@@ -1315,7 +1316,7 @@ abstract: "personal reflection journal"
 - **自在**， **做任何事不需要考虑太多**
     - 好直接， 我觉得自己喜欢
 
-    - Authenticity is about self-expression = **internal reality**
+    - Authenticity is [[!!About Self|about self]]-expression = **internal reality**
         - am I **representing myself honestly**?
         - showing up your genuine self, without masks or pretence
             - it’s about whether your words and actions reflect your inner state

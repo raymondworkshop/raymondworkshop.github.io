@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly Review"
+related: [The Great CEO within, 2015-03-08-Summary, 2015-03-15-weekly-summary, 2015-03-27-weekly-summary, 2015-04-08-weekly-summary]
 date: 2020-01-03
 comments: true
 categories: [diary]
@@ -104,7 +105,7 @@ categories: [diary]
 
 *
 * learning
-  - summary the book <The Great CEO Within>
+  - summary the book <[[The Great CEO within]]>
   - update working env
     + iterm2  terminal env
     + emacs server/client  env

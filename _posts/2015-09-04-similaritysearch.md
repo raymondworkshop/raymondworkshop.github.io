@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Similarity Search Algorithms"
+related: [About Hash Algorithms, About Priority Queue, An overview of Natural Language Processing and Linguistics, Logic Gate, "Search Algorithms: Binary Search"]
 date: 2015-09-04
 comments: true
 categories: [home, algorithms]

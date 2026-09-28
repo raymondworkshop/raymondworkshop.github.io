@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "softskills - communication skills"
+related: [Managing up and across, How to improve your softskills, 反思自己的思维偏见, "!!About Self", "!!Build good Relationships"]
 date: 2017-12-20
 comments: true
 categories: [softskills, communication, important]

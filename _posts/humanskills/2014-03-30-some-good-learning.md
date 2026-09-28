@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "反思自己的思维偏见" 
+related: ["!!About Self", How to improve your softskills, Managing up and across, "!!Build good Relationships", Fictions Reading]
 date: 2014-03-30
 comments: true
 categories:  [writing, learning, self, important,softskills]

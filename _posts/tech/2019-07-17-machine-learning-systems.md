@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on building machine learning systems " 
+related: ["[Updating] Notes about Concurrency and Parallelism", "[Updating] Notes about machine learning", About REST software architecture, Building Abstractions with Procedures, Logistic Regression]
 date: 2019-07-16
 comments: true
 categories: [machinelearning, system]

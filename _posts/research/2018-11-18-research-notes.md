@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[Updating] !notes on creativity and research"
+related: ["[updating] - about A.I.", "[Updating] Some Interesting Questions", Paper Summary, TODO-The Beginning of Infinity, 科學和宗教]
 date: 2018-11-18
 comments: true
 categories: [learning, notes, research]

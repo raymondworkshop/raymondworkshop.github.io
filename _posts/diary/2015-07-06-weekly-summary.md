@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2015-07-06-weekly-summary"
+related: [2015-03-08-Summary, 2015-03-15-weekly-summary, 2015-03-27-weekly-summary, 2015-04-08-weekly-summary, 2015-04-19-weekly-summary]
 date: 2015-07-06
 comments: true
 categories: [diary]

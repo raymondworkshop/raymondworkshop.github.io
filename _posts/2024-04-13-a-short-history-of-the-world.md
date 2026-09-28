@@ -1,5 +1,6 @@
 ---
 title: "Notes on 'A Short History of the World'"
+related: ["[Updating] The Pragmatic Programming", "Hello, World!", "Notes on '完整的自己'", "Notes on '幸福的勇氣'", "Notes on '成為自由人'"]
 date: 2024-04-13
 tags: [home, notes, history]
 abstract: "notes on History"

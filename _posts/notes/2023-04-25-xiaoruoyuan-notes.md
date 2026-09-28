@@ -1,5 +1,6 @@
 ---
 title: "!Notes on 萧若元"
+related: [Notes on Managing yourself and your career, "!Improve your charm", "!Learn about good Soft skills", "!notes on 'I love you but'", "Notes on 'Games of Thones'"]
 date: 2023-04-25
 tags: [learning, business, startup, important]
 abstract: "notes on 萧若元"

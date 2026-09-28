@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!!About Self"
+related: ["!!Build good Relationships", 反思自己的思维偏见, Fictions Reading, How to improve your softskills, Managing up and across]
 date: 2020-03-22
 comments: true
 categories: [softskills, learning, summary, self]
