@@ -1,5 +1,6 @@
 __pycache__/
 .gitignore
+.env
 myblogenv/
 api/__pycache__/
 .pytest_cache/
