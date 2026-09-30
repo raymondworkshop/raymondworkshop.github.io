@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How LLMs Actually Work"
+related: ["[Updating] The Pragmatic Programming", Note on The Open-Source Community, Notes on programing languages, About Hash Algorithms, About Priority Queue]
 date: 2024-11-29
 comments: true
 categories: [home, AI, programming]

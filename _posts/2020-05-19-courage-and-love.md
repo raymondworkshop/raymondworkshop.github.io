@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on '幸福的勇氣'"
+related: ["Notes on '成為自由人'", "Self-Wiki: a Socratic Mirror with AI", Understanding your emotions, 思考的技术, "[Updating] The Pragmatic Programming"]
 date: 2020-05-19
 comments: true
 categories: [home, notes, softskill, important, self]

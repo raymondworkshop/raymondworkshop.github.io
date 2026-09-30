@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!Notes on Wealth"
+related: ["!Being a Business MAN", "!Improve your charm", "!Improving your judgment skills", "!Learn about good Soft skills", "!On Leadership, and Teamwork"]
 date: 2026-02-23
 init-date: 2020-08-29
 comments: true

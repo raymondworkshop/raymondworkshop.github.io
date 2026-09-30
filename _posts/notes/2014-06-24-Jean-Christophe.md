@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jean-Christophe(約翰·克利斯朵夫)"
+related: ["!Learn about good Soft skills", "!notes on 'I love you but'", "Notes on \"Think and Grow Rich\"", "Notes on 'Games of Thones'", "Notes on 'Hamlet'"]
 date:  2014-06-24
 comments: true
 categories: [notes]

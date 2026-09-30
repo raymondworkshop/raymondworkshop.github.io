@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Year 2022 Weekly check-ins"
+related: [The log of your life, apple notes, "!Notes on odyssey", 2015-03-08-Summary, 2015-03-15-weekly-summary]
 date: 2022-01-27  
 tags: [diary, review, important, learning, lesson]
 ---

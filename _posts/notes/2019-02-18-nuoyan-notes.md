@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DO-诺言课程"
+related: ["!notes on 'I love you but'", DO-吴军, "Notes on 'Games of Thones'", "notes on 'the rule of life'", notes on software design and engineering]
 date: 2019-02-18
 comments: true
 categories: [learning, insight, course]

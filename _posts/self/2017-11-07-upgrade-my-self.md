@@ -1,6 +1,7 @@
 ---
 layout: post
 title: '!Upgrade My Self'
+related: [科學和宗教, "!self reflection", Notes on Personal skills, "!A better me -> to be great", how to get love]
 date: 2017-11-07
 comments: true
 categories: [summary, learning, self, softskills, china]
@@ -75,7 +76,7 @@ abstract: "!!Some insights about the outside"
     - 就因为你变得优秀，你会遇到更优秀的人。 优秀是一种信息素，随风飘散  
 
 * 宗教  
-    - 科學和宗教可以互信依存：離開科學的宗教是死亡的宗教，但**宗教可幫助解決科學根本無法涉及的靈性需求**   
+    - [[科學和宗教]]可以互信依存：離開科學的宗教是死亡的宗教，但**宗教可幫助解決科學根本無法涉及的靈性需求**   
     - 只要不是盲目迷信无视科学，信仰祈祷可以带来勇气和让人平静  
 
 #### **families**    

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!Improve my professional skills"
+related: [Build my life, "!A better me -> to be great", Notes on Personal skills, notes-on-thrivers, "!Record my Love"]
 date: 2021-01-04
 comments: true
 categories: [learning, skills, todo, important]

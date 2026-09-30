@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "notes on Insurance"
+related: ["[Updating] !Notes on your Assets", Record my cash flow, "!Notes on Wealth", "!!About Self", "!!Build good Relationships"]
 date: 2021-02-23
 comments: true
 categories: [learning, insurance, invest]

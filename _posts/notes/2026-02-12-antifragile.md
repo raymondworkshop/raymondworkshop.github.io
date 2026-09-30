@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on Antifragile"
+related: ["!Improve your charm", "!Learn about good Soft skills", "!notes on 'I love you but'", "!Notes on 萧若元", "Notes on \"Think and Grow Rich\""]
 date: 2026-02-12
 init-date: 2015-11-05
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "廣東話學習"
+related: [American Intonation - 1, Intonation 2, Notes about TV shows, Notes about TV shows - 1, Notes about TV shows - 2]
 date: 2017-08-04
 comments: true
 categories: [language, cantonese]

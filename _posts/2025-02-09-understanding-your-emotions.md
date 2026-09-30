@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Understanding your emotions"
+related: ["Notes on '幸福的勇氣'", "Self-Wiki: a Socratic Mirror with AI", "Summary about 'The Effective Executive'", "Notes on '成為自由人'", 思考的技术]
 date: 2025-02-09
 original: 2022-03-11
 comments: true

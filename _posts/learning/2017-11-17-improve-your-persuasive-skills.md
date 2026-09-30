@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!Learn about good Soft skills"
+related: ["!Improving your judgment skills", "!On Leadership, and Teamwork", About Coaching, Keep my creativity, Notes on Men]
 date: 2017-11-17
 comments: true
 categories: [softskills, communication, important, notes, learning]

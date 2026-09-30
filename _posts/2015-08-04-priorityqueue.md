@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "About Priority Queue"
+related: [About Hash Algorithms, An overview of Natural Language Processing and Linguistics, Logic Gate, "Search Algorithms: Binary Search", "Search Algorithms: Binary Search Trees"]
 date: 2015-08-04
 categories: [algorithms]
 abstract: "About Priority Queue"

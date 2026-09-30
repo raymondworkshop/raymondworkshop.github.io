@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on the Product Manager"
+related: ["[Updating] Notes about Concurrency and Parallelism", "[Updating] Notes about machine learning", Building Abstractions with Procedures, 能力陷阱, About REST software architecture]
 date: 2020-02-11
 comments: true
 categories: [notes, product, learning, important]

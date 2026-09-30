@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "思考的技术"
+related: ["Notes on '幸福的勇氣'", "[Updating] The Pragmatic Programming", "Hello, World!", "Notes on 'A Short History of the World'", "Notes on '完整的自己'"]
 date: 2014-06-29
 comments: true
 categories: [home, notes, important]

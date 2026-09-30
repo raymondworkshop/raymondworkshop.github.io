@@ -1,5 +1,6 @@
 ---
 title: "Notes on 肥仔黎"
+related: ["!Notes on 萧若元", Notes on Managing yourself and your career, "!Improve your charm", "!Learn about good Soft skills", "!notes on 'I love you but'"]
 date: 2023-04-21
 tags: [learning, business, startups]
 abstract: "notes on 肥仔黎"

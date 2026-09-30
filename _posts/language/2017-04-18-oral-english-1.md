@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Oral English 1"
+related: [American Intonation - 1, Intonation 2, Notes about TV shows, Notes about TV shows - 1, Notes about TV shows - 2]
 date: 2017-04-18
 comments: true
 categories: [language]

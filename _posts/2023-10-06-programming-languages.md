@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on programing languages"
+related: ["[Updating] The Pragmatic Programming", How LLMs Actually Work, Note on The Open-Source Community, About Hash Algorithms, About Priority Queue]
 date: 2023-10-06
 update: 2022-01-22
 comments: true

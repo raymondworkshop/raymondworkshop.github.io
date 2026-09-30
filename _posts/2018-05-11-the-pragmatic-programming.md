@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[Updating] The Pragmatic Programming"
+related: ["Hello, World!", How LLMs Actually Work, Note on The Open-Source Community, "Notes on 'A Short History of the World'", "Notes on '完整的自己'"]
 date: 2019-08-16
 comments: true
 categories: [home, notes, learning, programming]

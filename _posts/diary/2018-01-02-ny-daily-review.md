@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Everyday Review"
+related: [Notes on English Writing, Weekly Review, 2015-03-08-Summary, 2015-03-15-weekly-summary, 2015-03-27-weekly-summary]
 date: 2017-12-07 
 comments: true
 categories: [diary]
@@ -165,7 +166,7 @@ categories: [diary]
    - 
  * to improve
    - cantonese speaking
-   - English writing 
+   - [[Notes on English Writing|English writing]] 
    - 
    - music 
    - 驾车
@@ -575,7 +576,7 @@ categories: [diary]
    - 跑完步，吃完饭已经9:00了 
    - 
 
-#### weekly review
+#### [[Weekly Review]]
  * 爱情上 - 遭遇极大的打击
    - 不过也明白了自己喜欢的女孩子的类型 - 事业性  
    

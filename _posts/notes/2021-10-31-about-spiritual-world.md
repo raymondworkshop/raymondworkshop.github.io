@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "About Spiritual world"
+related: ["notes on 'the rule of life'", "!Improve your charm", "!Learn about good Soft skills", "!notes on 'I love you but'", "Notes on 'Games of Thones'"]
 date: 2017-11-16
 comments: true
 categories: [learning, relationship, softskills, self, belief]

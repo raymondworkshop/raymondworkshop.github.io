@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on Android SDK dev"
+related: ["[Updating] The Pragmatic Programming", About Hash Algorithms, About Priority Queue, An overview of Natural Language Processing and Linguistics, "Hello, World!"]
 date: 2016-03-31
 comments: true
 categories: [android, technology]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Paradoxical Commandments by Kent M. Keith"
+related: ["!self reflection", "!A better me -> to be great", "!Improve my professional skills", "!Record my Love", "!Upgrade My Self"]
 date: 2017-10-05
 comments: true
 categories: [notes]

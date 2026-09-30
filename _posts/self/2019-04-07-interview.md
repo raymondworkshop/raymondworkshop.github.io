@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "On Interview"
+related: ["!self reflection", Update about my career development and lessons, "!A better me -> to be great", "!Improve my professional skills", "!Record my Love"]
 date: 2019-04-07
 comments: true
 categories: [learning, work, interview]

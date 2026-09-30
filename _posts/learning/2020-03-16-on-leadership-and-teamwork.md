@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!On Leadership, and Teamwork"
+related: ["!Improving your judgment skills", About Coaching, "!Improve your charm", "!Learn about good Soft skills", Notes on people]
 date: 2020-03-16
 comments: true
 categories: [softskills, coach, self, learning, leadership, important]

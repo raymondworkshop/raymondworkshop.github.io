@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Part one: Happiness Revisited"
+related: [Mans search for meaning, Math is the Basis of Science, "Part two: The Anatomy of Consciousness", 十年一覺電影夢, 尋路中國(Country Driving)]
 date: 2013-04-03
 comments: true
 categories: [home, writing]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mans search for meaning"
+related: [Math is the Basis of Science, On Education and  Learning, "Part one: Happiness Revisited", "Part two: The Anatomy of Consciousness", 十年一覺電影夢]
 date: 2021-04-25
 comments: true
 categories: [home, writing, education]

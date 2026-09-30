@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!The Surrender experiment"
+related: ["!Notes on 'loving'", Notes on Learning How to Learn, "!!How to be a good manager: up and dowm", "!About self-actualization and self-reflections", "!Notes on the GOOD life"]
 old-date: 2020-07-08
 date: 2025-03-15
 comments: true

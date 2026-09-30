@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "About Beauty"
+related: ["!!How to be a good manager: up and dowm", "!About self-actualization and self-reflections", "!Notes on 'loving'", "!Notes on the GOOD life", Notes on Learning How to Learn]
 date: 2020-06-10
 comments: true
 categories: [learning, beauty, drawing]

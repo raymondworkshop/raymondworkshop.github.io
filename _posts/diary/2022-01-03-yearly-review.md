@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Yearly Review 2021-2022"
+related: ["!!Build good Relationships", My Business, 2015-03-08-Summary, 2015-03-15-weekly-summary, 2015-03-27-weekly-summary]
 date: 2022-01-03  
 tags: [diary]
 ---
@@ -17,7 +18,7 @@ tags: [diary]
     - 观察人，在当中寻找智慧，寻找门道  
     - 多读小说 
         + 观察对话背后的意图， 和如何决定  
-    - build good relationships 
+    - [[!!Build good Relationships|build good relationships]] 
 
 
 * Self improvement 
@@ -40,7 +41,7 @@ tags: [diary]
 
 
 * Financial independence 
-    - build my business 
+    - build [[My Business]] 
         + a self-sustainable side-project  
 
     - investment 

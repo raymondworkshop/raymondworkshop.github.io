@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!self reflection"
+related: ["!Upgrade My Self", "!A better me -> to be great", My Daily thoughts, Notes on Personal skills, notes-on-thrivers]
 date: 2018-03-09
 comments: true
 categories: [learning, summary, notes, self]

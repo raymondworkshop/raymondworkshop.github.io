@@ -1,5 +1,6 @@
 ---
 title: "Entrepreneurship For Everyone"
+related: [about Finance, DO-王烁30天认知训练, notes on 認知訓練營, On music, "!Notes on 萧若元"]
 date: 2023-03-20
 tags: [learning, business, startup, important]
 abstract: "Improve my mindset and knowledge on Entrepreneur"

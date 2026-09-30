@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily Review 2021"
+related: ["!notes on 'I love you but'", My Business, 2015-03-08-Summary, 2015-03-15-weekly-summary, 2015-03-27-weekly-summary]
 date: 2021-01-18
 comments: true
 categories: [diary]
@@ -148,7 +149,7 @@ categories: [diary]
     - dont do these, becase of no energy
 
 #### 2021-04-07
-  * reflect yourself based on 'I love you but'
+  * reflect yourself based on '[[!notes on 'I love you but'|I love you but]]'
     - your dream
     - your personality
     - your pleasure
@@ -343,7 +344,7 @@ categories: [diary]
     - read <The Rules of Life>
     - know **what you are dedicating your life to**
         + love my partner/families
-        + build my business/career, enhance my experience
+        + build [[My Business]]/career, enhance my experience
         + beauty
     - so you can focus on what's important to you and make positive changes
     - so you always check what you're doing and where you're going

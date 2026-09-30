@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "能力陷阱"
+related: ["[Updating] Notes about Concurrency and Parallelism", "[Updating] Notes about machine learning", Building Abstractions with Procedures, Notes on the Product Manager, About REST software architecture]
 date: 2019-12-27 
 comments: true
 categories: [learning]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!A better me -> to be great"
+related: [My Business, 科學和宗教, Notes on Personal skills, notes-on-thrivers, "!Improve my professional skills"]
 date: 2021-04-21
 update: 2024-09-25
 comments: true
@@ -120,7 +121,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
 
     -   mission life motion - work
 
-        -   build my businesses ventures
+        -   build [[My Business|my businesses]] ventures
 
     -   my fitness in my life
 
@@ -730,7 +731,7 @@ abstract: "[Improving] Summay your lessons, experiences, and bias -> to be great
     -   就因为你变得优秀，你会遇到更优秀的人。 优秀是一种信息素，随风飘散
 
 -   宗教
-    -   科學和宗教可以互信依存：離開科學的宗教是死亡的宗教，但**宗教可幫助解決科學根本無法涉及的靈性需求**
+    -   [[科學和宗教]]可以互信依存：離開科學的宗教是死亡的宗教，但**宗教可幫助解決科學根本無法涉及的靈性需求**
     -   只要不是盲目迷信无视科学，信仰祈祷可以带来勇气和让人平静
 
 #### A better me - relate to chocies

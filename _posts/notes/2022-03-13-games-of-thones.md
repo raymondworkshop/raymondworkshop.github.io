@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on 'Games of Thones'"
+related: ["!notes on 'I love you but'", "notes on 'the rule of life'", "!Learn about good Soft skills", "Notes on 'Hamlet'", notes on The Origins of Political Order]
 date: 2022-03-13
 comments: true
 tags: [notes, softskills, insight, important, learning]

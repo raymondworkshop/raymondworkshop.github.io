@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly Review"
+related: ["!notes on 'I love you but'", 2015-03-08-Summary, 2015-03-15-weekly-summary, 2015-03-27-weekly-summary, 2015-04-08-weekly-summary]
 date: 2021-03-15
 comments: true
 categories: [diary]
@@ -11,7 +12,7 @@ categories: [diary]
 * connect with Ivy
 
 * reading
-    - finish <I love you but>
+    - finish <[[!notes on 'I love you but'|I love you but]]>
     - write a review
 
     - finish <the little scheme>

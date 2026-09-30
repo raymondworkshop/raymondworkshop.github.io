@@ -11,4 +11,4 @@ Often feeds [[Learning]] and [[Business]].
 [[DO-诺言课程]] · [[DO-王烁30天认知训练]] · [[Seduction Bible]] · [[!A better me -> to be great]]
 
 ### Related areas
-[[Learning]] · [[Notes]] · [[Softskills]] · [[Business]]
+[[Learning]] · [[Notes]] · [[Humanskills]] · [[Business]]

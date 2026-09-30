@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "notes on The Origins of Political Order"
+related: ["!Learn about good Soft skills", "!notes on 'I love you but'", "Notes on 'Games of Thones'", "Notes on 'Hamlet'", "notes on 'the rule of life'"]
 date: 2020-06-19
 comments: true
 categories: [notes, summary, politics, important, learning, china]

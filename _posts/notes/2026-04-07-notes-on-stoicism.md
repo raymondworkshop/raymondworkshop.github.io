@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on Stoic Philosophy"
+related: ["!Notes on the GOOD life", "!Improve your charm", "Notes on \"Think and Grow Rich\"", "notes on 'the rule of life'", Notes on how to influence people]
 date: 2026-04-07
 comments: true
 categories: [ self, important]
@@ -16,7 +17,7 @@ Stoicism emphasizes on radical self-awareness
 * TODO  
 
 
-### A Guide to the Good Life: The Ancient Art of Stoic Joy 
+### A Guide to [[!Notes on the GOOD life|the Good Life]]: The Ancient Art of Stoic Joy 
 
 #### ch2 - 斯多葛主義是鍛鍊（主觀认知的）情緒韌性的良方 (secondary not primary emotion)  
 * 斯多葛主義強調實際效能、心理韌性和情緒自我調節  

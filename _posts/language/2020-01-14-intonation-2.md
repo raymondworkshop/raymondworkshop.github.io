@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Intonation 2"
+related: [American Intonation - 1, Notes about TV shows, Notes about TV shows - 1, Notes about TV shows - 2, notes on business english]
 date: 2020-01-14
 comments: true
 categories: [language]

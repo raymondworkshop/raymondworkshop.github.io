@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Note on The Open-Source Community"
+related: ["[Updating] The Pragmatic Programming", How LLMs Actually Work, Notes on programing languages, "Summary about Computer Systems from A Programmer's Perspective", About Hash Algorithms]
 date: 2018-11-07
 comments: true
 categories: [home, programming, system]

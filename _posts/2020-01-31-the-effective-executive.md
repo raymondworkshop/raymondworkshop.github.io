@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Summary about 'The Effective Executive'"
+related: [Understanding your emotions, "Notes on '幸福的勇氣'", "Self-Wiki: a Socratic Mirror with AI", 思考的技术, "[Updating] The Pragmatic Programming"]
 date: 2022-12-31
 comments: true
 categories: [home, softskills, important]

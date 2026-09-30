@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The log of your life"
+related: ["!Difficult Conversations", "!Improve your charm", "!Improving your judgment skills", "!Learn about good Soft skills", "!On Leadership, and Teamwork"]
 date: 2026-06-15
 tags: [diary, review, important, learning, lesson]
 abstract: "personal reflection journal"
@@ -10,6 +11,145 @@ abstract: "personal reflection journal"
 > self-assessments should allow you to identify several areas of focus for growth  
 
 > 不要只记录事实，要记录那些让你感到“不舒服”的瞬间  
+
+#### 2026-09-28  
+* TODO  
+    -  **shadow with english**  
+
+    -  **增重 + 健身 （上身） + 美容**  
+        - 牛奶 + 蛋白粉   
+         
+
+    -  簡歷 + 工作  ?  
+        -  联系 Graham Daley 工作或合作機會   
+
+    - **身體感知** <- 從“腦力控制”  
+        - 把注意力從 思考 下沉到 身體（感受）  
+        - 在準備回應時， **先做一個呼吸**，感受一下自己的腳掌是否踩在地面上  
+            + **借呼吸找回身體直覺** 
+            + 問自己： “此刻我心裡什麼感覺？”  
+
+        - “被審視”的感覺    
+            + 理性會把這當成一次“考核”， 理性會覺得反饋的價值在於“能不能幫忙解決問題  
+            + 把”審視“翻譯成”**鏡子**“  
+            + 他說出了他眼中看到的我的樣子，主動權在我是否要調整  
+            + **看對方話語背後的狀態**， 他此刻為什麼要在意這件事  
+
+    - Manage a process/project/schedule but **you lead people**  
+        - Listening is when **other person feels heard**  
+        - leadeship means to invest time and energy to learn to look after around him  
+
+        - Being transparent means **giving people context**  
+        - Empathy requires you to feel what somebody else is felling  
+            - Kindness requires you to do something about it  
+            - Niceness is the performance of kindness  
+
+        -  Listening,empathy
+            - how to resolve conflict
+              how to have [[!Difficult Conversations|difficult conversations]]
+              how to give and receive feedback  
+                - “can I give you a feedback”
+            - How to implement change
+            - How to do recognition and reward
+
+
+
+
+* SELF  
+    - **帶著邊界去愛人**，帶著信任去生活  
+        + 從自己的視角出發， 從個體出發  
+        + **主動表達善意**，  多肯定對方，對給予信任，
+        + 我是帶來不同視野的朋友，我的背景和經歷本身就是一種獨特的價值  
+
+    - 把信息**綜合成令人信服的框架**  
+        + **契合人的真實經驗**，**引發情感共鳴**，讓人印象深刻且表達簡潔有力  
+        + 把抽象變成 在乎的事  
+
+    - Build stuff and talk to users
+
+        + A CS undergrad asked me where he could have most effect in the AI age.
+        I said probably at either extreme: **either close to the technology, actually making LLMs**,  Someone who was making LLMs would be observing how they were used, and realize that a tweak to the fundamental technology would make them work significantly better for some problem.
+
+        + or **close to the customer**, **using AI to give them exactly what they want**. Or maybe both if you can stretch that far. 
+
+        -   從 “頭腦” 到 “心靈”  
+        + **看見具體的個體** <- 從關注 整體/目標  
+            - 把注意力從“團隊” 落到 **一個具體的人**身上  
+            - 每次交流時，在心裡對自己說 “**此刻在我面前的是一個有著喜怒哀樂的活生生的人**，不是一個”合作對象“  
+            - 關注對方的微表情，**情緒狀態**，而不只是他說的話是否符合邏輯  
+
+        + 共情與陪伴 <- 解決問題/給建議  
+            - **先接納情緒**， 再處理事情  
+                - **對方要的是理解**，而不是答案  
+
+                - **開啟身體雷達， 試著用身體“接受”對方的整體氛圍**，而不是去對她的話語對衝判別  
+
+                - **練習去聽對方話語底層的心裡需求** （渴望被理解，渴望安全感，感到委屈）
+                - **像“鏡子” 一樣去映射**，而不是做“法官”去評判  
+                    + **試著用情緒去核對對方的感受**，而不是給建議  
+                    + “聽你這麼說，我感覺你現在特別無助/委屈，對嗎？”  
+                    + “你心裡什麼感覺？”  
+
+            - 無條件的享受當下 <- 價值交易/功利化  
+                - 覺察自己內心的“價值計算器”  
+
+            - **身體感知** <- 從“腦力控制”  
+                - 把注意力從 思考 下沉到 身體（感受）  
+                - 在準備回應時， **先做一個呼吸**，感受一下自己的腳掌是否踩在地面上  
+                    + **借呼吸找回身體直覺** 
+                    + 問自己： “此刻我心裡什麼感覺？”  
+
+
+    - 同AI聊了很多 多爾袞的 歷史  - 皇家歷史中的“權謀” 核心在於 生存，控制與防禦   
+        + “平衡術”： **對失控與衝突的恐懼**  
+            - **自己不習慣直接面對衝突**， **或很難明確表達自己真實的傾向於立場**  
+            - **在人際關係中習慣扮演“協調者”**，習慣通過調和各方來保護自己不處於風口浪尖，
+                但這也讓你難以建立真正深厚，坦誠的連接  
+
+        + “擋箭牌”： 逃避責任與脆弱感  
+            - 逃避暴露自身脆弱與承擔後果的風險；
+            這會導致你**很難坦然面對失敗**， 甚至在關係中讓身邊人感動“被利用”  
+
+        + 權謀是將人“工具化”  
+            - 習慣**用策略替代真誠， 生活就會變成“棋局”** - 你會感到疲憊，且**難以感受到純粹的愛與快樂**；
+            你也很難體察自己與他人的真實情感。  
+            -  古代皇家的生存環境是 “零和博弈”， 而現代人大多是“合作共贏” 與“自我實現”  
+
+        +  把注意力從 “局勢與策略” 轉向 ‘**情感與體驗**“  
+            - 多去关注“他的感受是什么？我此刻真实的感受是什么？”， 少思考“他對我有什麼用”
+            - 当你能够真实地感知自己与他人的情感时，生活才会恢复温度。  
+
+        + 從“避免失控” 到 “**主動創造**”  
+            - 權利策略的核心動機是防守（怕失去控制，怕承擔傷害），
+            創造是問 “**我想追求什麼，我想連接誰**”   
+
+        + **有意识的策略性真实**  
+            - **用尊重和順從的態度**， 去表達獨特和真實的觀點  
+                - “是了，基於這個大方向，我補充一點信心，你看是否可行 ...”  
+            - 用價值去贏得空間  
+            - 構建 “接納性小環境”  
+
+* DONE  
+    - 預約了 同姨 見面  
+        + 嘉獎自己的try 和 勇氣  
+
+    - buy iphone 18 pro  
+        + hsbc卡優惠+低利率分期+ AI 預期  
+        + 就手機iphone14 有些糙  
+
+    - 做了兩次 Gym  
+        + 加 蛋白粉  
+
+    - meetup   
+        + Trust 好重要， 所以**一開始 最好出善意的B** 
+        + 定位： 我一開始是從自己開始， 而不是從整個team開始  
+
+    - check stocks  
+        + 花了好多時間 與 AI 聊 股票持倉  
+        + 害怕大風險，自己本金太小  
+
+    - 自己好節省金錢   
+        + 推遲理髮， 節省電費  
 
 #### 2026-09-21  
 * TODO  

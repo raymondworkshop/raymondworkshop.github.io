@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "总结自 '了解中国政治'"
+related: ["!Notes on odyssey", apple notes, The log of your life, Year 2022 Weekly check-ins, 每次旅行都是一次爱恋]
 date: 2016-03-12
 comments: true
 categories: [writing, sociology, china, important]  

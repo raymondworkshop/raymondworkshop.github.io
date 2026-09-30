@@ -1,5 +1,6 @@
 ---
 title: "!Being a Business MAN"
+related: [notes on startups, "!Improve your charm", "!Improving your judgment skills", "!Learn about good Soft skills", "!Notes on Wealth"]
 old-date: 2023-12-08
 date: 2025-05-15
 tags: [learning, business, startups]

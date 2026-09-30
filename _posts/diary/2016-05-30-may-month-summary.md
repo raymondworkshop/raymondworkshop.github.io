@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2016-05-30-month-summary"
+related: [June-month summary, 2015-03-08-Summary, 2015-03-15-weekly-summary, 2015-03-27-weekly-summary, 2015-04-08-weekly-summary]
 date: 2016-05-30
 comments: true
 categories: [diary, summary]

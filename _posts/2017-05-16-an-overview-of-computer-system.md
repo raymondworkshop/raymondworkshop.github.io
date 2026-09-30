@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Summary about Computer Systems from A Programmer's Perspective"
+related: [Note on The Open-Source Community, "[Updating] The Pragmatic Programming", About Hash Algorithms, About Priority Queue, An overview of Natural Language Processing and Linguistics]
 date: 2017-05-16
 comments: true
 categories: [home, system]

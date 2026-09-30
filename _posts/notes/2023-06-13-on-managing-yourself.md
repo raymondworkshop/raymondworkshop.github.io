@@ -1,5 +1,6 @@
 ---
 title: "Notes on Managing yourself and your career"
+related: ["!Notes on 萧若元", "!Improve your charm", "!Learn about good Soft skills", "!notes on 'I love you but'", "Notes on 'Games of Thones'"]
 date: 2023-06-13
 tags: [learning, business, startup, important]
 abstract: "notes on Managing yourself and your career"

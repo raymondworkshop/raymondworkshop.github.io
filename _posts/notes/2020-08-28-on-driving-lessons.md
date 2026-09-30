@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "driving lessons"
+related: ["!Improve your charm", "!Learn about good Soft skills", "!notes on 'I love you but'", "!Notes on 萧若元", About Spiritual world]
 date: 2020-08-24
 comments: true
 categories: [learning, todo]

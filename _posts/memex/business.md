@@ -14,4 +14,4 @@ Pairs with [[Learning]] (career), [[Softskills]] (people), and [[Invest]] (money
 [[My Business]] · [[Learning - About Entrepreneur]] · [[notes on startups]]
 
 ### Related areas
-[[Learning]] · [[Softskills]] · [[Invest]] · [[Course]]
+[[Learning]] · [[Humanskills]] · [[Invest]] · [[Course]]

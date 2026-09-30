@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "notes on software design and engineering"
+related: ["!Improve your charm", "!Learn about good Soft skills", "!notes on 'I love you but'", "!Notes on 萧若元", DO-吴军]
 date: 2020-04-29
 comments: true
 categories: [learning, engineering, software, course, important, manager]

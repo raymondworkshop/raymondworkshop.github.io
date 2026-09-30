@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!notes on 'I love you but'"
+related: ["Notes on 'Games of Thones'", "notes on 'the rule of life'", "!Learn about good Soft skills", "Notes on 'Hamlet'", notes on The Origins of Political Order]
 date: 2021-04-05
 comments: true
 tags: [notes, love, softskills, insight, important, learning]

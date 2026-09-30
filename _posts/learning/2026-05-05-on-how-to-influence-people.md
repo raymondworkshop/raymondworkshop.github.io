@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on people"
+related: ["!Improve your charm", "!Improving your judgment skills", "!On Leadership, and Teamwork", Notes on Product Minded, "!Learn about good Soft skills"]
 update: 2026-04-21
 old: 2020-06-20
 comments: true

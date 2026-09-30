@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "生活的藝術"
+related: [Mans search for meaning, Math is the Basis of Science, "Part one: Happiness Revisited", "Part two: The Anatomy of Consciousness", 十年一覺電影夢]
 date: 2016-03-12
 comments: true
 categories: [home, writing]

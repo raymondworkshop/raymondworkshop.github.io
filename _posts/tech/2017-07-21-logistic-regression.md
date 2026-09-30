@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Logistic Regression"
+related: [About REST software architecture, "[Updating] Notes about Concurrency and Parallelism", "[Updating] Notes about machine learning", Building Abstractions with Procedures, Notes on building machine learning systems]
 date: 2017-05-19
 comments: true
 categories: [draft]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Great CEO within"
+related: [Weekly Review, Daily Review, The practical part in business, Learning - About Entrepreneur, notes on amway]
 date: 2020-04-13
 comments: true
 categories: [notes, business, ideas, important, startups, learning]
@@ -378,7 +379,7 @@ abstract: "Notes on the management skills in the practical part"
 
 - track goals, priorities, and tasks
     - get things done
-    - daily review, weekly review, and monthly review
+    - [[Daily Review]], [[Weekly Review]], and monthly review
 
 - **Schedule two hours each day to work on top goal only**
     - top goal for the current quarter

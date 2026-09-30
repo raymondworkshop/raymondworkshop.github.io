@@ -1,5 +1,6 @@
 ---
 title: "Learning - About Entrepreneur"
+related: [The Great CEO within, The practical part in business, My Business, notes on amway, "!Notes on 萧若元"]
 date: 2021-09-24
 tags: [learning, business, startup, important]
 abstract: "Improve my mindset and knowledge on Entrepreneur"

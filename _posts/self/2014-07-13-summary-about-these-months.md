@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "总结这几个月"
+related: ["!self reflection", "!Upgrade My Self", 2015-03-23-summary.md, 2019 New Year Challenges, how to get love]
 date: 2014-07-13
 comments: true
 categories: [summary, diary]

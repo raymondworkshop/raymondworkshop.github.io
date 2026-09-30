@@ -1,6 +1,12 @@
 
-### notes 
+### notes
+
+* LLM (same as [dev.self-wiki](../dev.self-wiki)): gateway `gpt` → `mlx`
+  - `.env`: `LLM_MODEL=gpt`, `LLM_MODEL_FALLBACK=mlx`
+  - site build itself needs no LLM; Cursor / shared tools read this posture
+
 * ideas  
+
     - some like pinboard app  
         + TODO  
     

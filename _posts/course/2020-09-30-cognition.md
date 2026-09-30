@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "notes on 認知訓練營"
+related: [DO-王烁30天认知训练, about Finance, Entrepreneurship For Everyone, On music, DO-吴军]
 date: 2020-09-30
 comments: true
 categories: [learning, course]

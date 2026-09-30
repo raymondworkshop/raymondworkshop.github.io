@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Build my life"
+related: ["!Improve my professional skills", "!A better me -> to be great", Notes on Personal skills, notes-on-thrivers, "!Record my Love"]
 date: 2020-08-20
 comments: true
 categories: [learning, life, todo, important]

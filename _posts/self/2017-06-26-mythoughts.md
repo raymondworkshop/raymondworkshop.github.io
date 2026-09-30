@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Daily thoughts
+related: ["!self reflection", "!Upgrade My Self", Personal Challenge in 2016, Quote some biases, "!A better me -> to be great"]
 date: 2017-06-26
 comments: true
 categories: [summary, self]

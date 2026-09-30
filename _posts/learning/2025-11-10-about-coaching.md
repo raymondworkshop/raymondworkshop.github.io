@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "About Coaching"
+related: ["!On Leadership, and Teamwork", "!Improving your judgment skills", "!Learn about good Soft skills", Notes on Men, "!Improve your charm"]
 date: 2025-11-10
 comments: true
 tags: [notes, self, softskills, important, coach]

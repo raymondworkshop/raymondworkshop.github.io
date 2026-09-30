@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!!How to be a good manager: up and dowm"
+related: ["!Notes on 'loving'", "!About self-actualization and self-reflections", "!Notes on the GOOD life", "!The Surrender experiment", About Beauty]
 date: 2020-03-15
 comments: true
 categories: [softskills, learning, summary, management]

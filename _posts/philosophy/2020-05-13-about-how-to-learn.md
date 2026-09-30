@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Notes on Learning How to Learn"
+related: ["!Notes on 'loving'", "!About self-actualization and self-reflections", "!Notes on the GOOD life", "!The Surrender experiment", Notes on Philosophy]
 date: 2020-05-13
 comments: true
 categories: [learning, notes, important, research]

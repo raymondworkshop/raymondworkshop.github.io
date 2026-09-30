@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!Notes on 'loving'"
+related: ["!notes on 'I love you but'", "!About self-actualization and self-reflections", "!The Surrender experiment", Notes on Learning How to Learn, "Notes on philosophy, creative and practical thinking skills"]
 date: 2020-06-16
 update: 2025-09-30
 comments: true
@@ -533,7 +534,7 @@ abstract: "notes on 'love'"
 
 ##### reference
 
-- I love you but I'm Not in Love with You
+- [[!notes on 'I love you but'|I love you but]] I'm Not in Love with You
 
 #### notes on how to show your love languages
 

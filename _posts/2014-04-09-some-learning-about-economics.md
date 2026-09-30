@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Summary about Economics"
+related: ["[Updating] The Pragmatic Programming", "Hello, World!", "Notes on 'A Short History of the World'", "Notes on '完整的自己'", "Notes on '幸福的勇氣'"]
 date: 2014-04-09
 comments: true
 categories: [home, notes]

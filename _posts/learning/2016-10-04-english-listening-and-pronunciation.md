@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "!English Listening and Pronunciation"
+related: ["!Improve your charm", "!Improving your judgment skills", "!Learn about good Soft skills", "!On Leadership, and Teamwork", About Coaching]
 date: 2016-10-04
 comments: true
 categories: [language, english, important]

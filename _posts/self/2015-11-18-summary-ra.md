@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Summary of the RA work"
+related: ["!self reflection", On Interview, Update about my career development and lessons, 总结这几个月, 我想要什么样的生活]
 date: 2015-11-18
 comments: true
 categories: [diary, work]
