@@ -4,7 +4,7 @@ title: "Notes on '完整的自己'"
 related: ["[Updating] The Pragmatic Programming", "Hello, World!", "Notes on 'A Short History of the World'", "Notes on '幸福的勇氣'", "Notes on '成為自由人'"]
 date: 2025-08-07
 comments: true
-categories: [ notes,  summary]
+categories: [home, notes,  summary]
 abstract: "完整的自己-快樂和自信的人生"
 ---
 
