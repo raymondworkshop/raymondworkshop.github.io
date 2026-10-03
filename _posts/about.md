@@ -19,5 +19,5 @@ Outside of reading and technology, he has a deep appreciation for philosophy, wi
 
 * Education: M.S. in Computer Science (CUHK); B.Eng. in Electronic and Information Engineering (Wuhan University).
 
-Feel free to reach out via [bestraymond@icloud.com](mailto:bestraymond@icloud.com) for thoughts, discussions, or potential collaborations.  
+Feel free to reach out via [bestraymond@icloud.com](mailto:bestraymond@icloud.com).  
 

@@ -110,7 +110,7 @@ body {
    ========================================================================== */
 
 .content {
-    padding: clamp(1.8rem, 4vw, 2.6rem) 0 clamp(2.4rem, 5vw, 3.4rem);
+    padding: clamp(1.8rem, 4vw, 2.6rem) 0 0;
 }
 
 /* ==========================================================================
@@ -572,7 +572,8 @@ pre code {
 .footer {
     color: var(--text-soft);
     font-size: 0.78rem;
-    padding: 2.5rem 0 0;
+    line-height: 1.4;
+    padding: 2.25rem 0 0;
 }
 
 .footer p {
@@ -832,7 +833,7 @@ a.wikilink {
     }
 
     .content {
-        padding: 1.35rem 0 2rem;
+        padding: 1.35rem 0 0;
     }
 
     .post-list h2.post-title {
