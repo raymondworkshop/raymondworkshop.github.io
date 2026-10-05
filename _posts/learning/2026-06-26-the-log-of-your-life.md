@@ -12,6 +12,124 @@ abstract: "personal reflection journal"
 
 > 不要只记录事实，要记录那些让你感到“不舒服”的瞬间  
 
+#### 2026-10-05  
+* TODO  
+    -  **shadow with english**  
+
+    -  **增重 + 健身 （上身） + 美容**  
+        - 牛奶 + 蛋白粉      
+
+    -  簡歷 + 工作  ?  
+        -  联系 Graham Daley 工作或合作機會   
+
+    - **靈魂和對世界的感覺**是知識 無法替代的  
+        - 沒有感覺，沒有靈魂  
+        - 不要變成一個永遠正確，永遠高大上的二傻子知識分子  
+        - 人生最可怕的失敗，不一定是犯了什麼大錯，可能是從來沒有真正活過，連錯誤的選擇都沒有勇氣去做  
+        - 最重要的是心智成熟，願意共同成長  
+        - “有学问而没有感悟，有交谊而没有了解。有父母妻子而没有温情，有礼义而没有仁者的存心，是人生一件极可悲的事情。这种人非之无举，刺之无刺，过吾门而不入，吾无憾焉。”  
+
+* SELF  
+    - **跟她在一起 我會成為什麼樣的人**？  **我會喜歡那個自己嗎**？  
+        - **你的目光看到了什麼樣的她**？  人際互補性；  你們如何互相感染  
+        - 外表，內心愛人，溝通到， 願意聆聽，想同你共同成長的人  
+        - 這段關係是否讓你變成更好的人  
+            - 會活得更好，更舒服一些  
+        - 好的character  
+            - wisdom, courage, self-discipline, justice  
+        
+        - 好好溝通  
+            - 願意聽， 願意分享，對你保持好奇  
+            - **溝通時 對方充滿好奇，渴望了解對方的內心世界**， 哪怕這個世界與你不同  
+            - “此刻，你的感受是什麼？ 你怎麼看這件事？”  
+        -  **雙方是否能互相成長**, 對方是否精神獨立   
+              - 我能不能讓對方有一個好的成長？  / 她 能不能讓我成長？  
+        
+        - 開放態度面對對方  
+            - fell safe not judgmental  
+        - 有空間做 man character  
+            - 你們的關係讓你有空間這麼做  
+        - 對親人  
+            - 儀式, nice, decent  
+        - 對方完整的  
+            -  沒有依賴症  
+            - 對方一個人就可以好好  
+        - 你在多篇日记与笔记中反复提到对**自主、真实、关系感受以及被看见的价值**的重视，这些构成了你最看重的价值观  
+            - 外表
+            
+
+    - The basic human principles are the same  
+        - people want to know that they matter  
+        - people want to know that their work matters  
+        - people want to know that they're valued and valuable  
+        - people want to feel trusted and trusting  
+        - people want to feel seen, heard, and understood  
+        - active listening, empathy  
+            - **put people first**    
+        - how to resolve conflict  
+            - we will **fight to get to resolution**  
+        - how to have difficult conversations  
+            -  “Can we have that conversation now?” <-  **Always ask permission**  
+            -   **your feelings**, how the specific behavior that made you feel that way  
+        - how to give and receive feedback  
+            - "can I give yo ua feedback?"  
+        - how to implement change  
+        - how to do recognition and reward  
+        - good leader knows how to adapt for the situations and personalities that they work with  
+            - **in good time, you build the trust**.
+            - and then in extreme stress, you can turn that command and control on,
+            and everybody trusts that you're giving them orders that probably everybody's best interest, while in times of extreme stress where the trust has already been built  
+
+        - how to generate your best ideas  
+            - you have to **give vision**  
+            - I have everyone in this team to give me 15 ideas in the next 48 hours  
+            - **no judgments**, and green, yello, red  
+
+    - 領導力是一門藝術， 就是**讓別人主動去做一些你希望鞥能夠完成的事情**  
+        - once you start to get scale, **how to build structure**  
+            - **bring in people**, and **learn to let go**    
+            - empower people and show that you  trust in them  
+
+            - **coach them** not to step in and play the game  
+            - learn to **offer my point of view**, but not tell them how I would do it and encourage them to try again  
+                - 真正有担当的领导，责任在于“**承担最终结果**”和“**指明正确方向**”   
+                - **提出觀點** - 給出方向，標準，潛在風險或行業經驗， 而不是 讓人在黑暗中摸索  
+                -  **分清了“行动”与“责任”的归属**  
+                    + 让下属去想办法、去执行，但如果最后事情搞砸了，对外承担责任、挨老板骂、去补救复盘的依然是你。  
+                    + “放手让团队试错，并由自己来背锅”，这才是管理中最大的担当  
+                    + she trusted in him. She made him believe in himself. 
+                    Most importantly, **she didn’t try and do it the way she would do it**.  she trusted in him. She made him believe in himself.  
+                    
+                -  爭取資源， 比如 “你現在需要我提供什麼支持？  資金，協調還是資源？”
+     
+        - growth  
+            - if you get feedback, **say thank you**.
+            because we're telling you these things because we want you to grow.
+            **tell me the stuff that i can do better**  
+        - honest  
+        - how to make people feel seen  
+            - **catch people doing things right**  
+            - at the end of the day, "**here's all the things that i think we can improve tomorrow**"  
+
+
+    - Being transparent means **giving people context**    
+        - Empathy requires you to **feel what somebody else is felling**.
+        Kindness requires you to do something about it.  Niceness is the performance of kindness, but it’s not necessarily the action  
+ 
+
+* DONE  
+    - Build stuff and talk to users  
+        -   either close to the technology, actually making LLMs  
+        - or **close to the customer**, **using AI to give them exactly what they want**.  
+        - http://evidenza.ai/ 
+
+    - 要想取得长期的成功，你需要具备四个要素：战略、正确的战术……实施计划的优秀人才，以及用来撬动这一切的资金 
+
+    - Xiaomi 4K 顯示器 A27Ui
+        - 訂單編號 5261005290065592  
+        - 本來想音響，但為了節約資金，給取消了  
+
+
 #### 2026-09-28  
 * TODO  
     -  **shadow with english**  
@@ -51,8 +169,6 @@ abstract: "personal reflection journal"
                 - “can I give you a feedback”
             - How to implement change
             - How to do recognition and reward
-
-
 
 
 * SELF  
