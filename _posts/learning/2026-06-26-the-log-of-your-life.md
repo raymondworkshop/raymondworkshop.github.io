@@ -100,12 +100,12 @@ abstract: "personal reflection journal"
                     + she trusted in him. She made him believe in himself. 
                     Most importantly, **she didn’t try and do it the way she would do it**.  she trusted in him. She made him believe in himself.  
                     
-                -  爭取資源， 比如 “你現在需要我提供什麼支持？  資金，協調還是資源？”
-     
+                -  爭取資源， 比如 “你現在需要我提供什麼支持？  資金，協調還是資源？”  
+
         - growth  
             - if you get feedback, **say thank you**.
             because we're telling you these things because we want you to grow.
-            **tell me the stuff that i can do better**  
+            **tell me the stuff that i can do better**   
         - honest  
         - how to make people feel seen  
             - **catch people doing things right**  
