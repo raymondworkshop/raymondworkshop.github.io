@@ -3,9 +3,9 @@ title: About
 date: 2012-03-19
 ---
 
-Raymond Zhao Wenlong is a product-minded engineer, and director at Bean, based in Hong Kong.  
+Raymond Zhao Wenlong is a product-minded engineer, and director at Bean, based in Hong Kong.  I also offer selective technical consulting and life coaching services.  
 
-Outside of reading and technology, he has a deep appreciation for philosophy, wildlife, cinema, and colors.
+Outside of reading and technology, I have a deep appreciation for philosophy, wildlife, cinema, and colors.
 
 #### Selected Quotes  
 * "The good life is one inspired by love and guided by knowledge." — Bertrand Russell  
