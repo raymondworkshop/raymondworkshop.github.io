@@ -16,7 +16,7 @@ Outside of reading, technology, and investing, I have a deep appreciation for ph
 * "Fall in love. Study, think, create and grow." — Richard Feynman  
 
 #### Background  
-* Experience: CTO at HSU; RA at CUHK, CityU, and HKBU; Tech Lead at HKCREO; Lead Software Engineer at Alcatel-Lucent (Nokia).
+* Experience: Technical Officer at HSU; RA at CUHK, CityU, and HKBU; Tech Lead at HKCREO; Lead Software Engineer at Alcatel-Lucent (Nokia).
 
 * Education: M.S. in Computer Science (CUHK); B.Eng. in Electronic and Information Engineering (Wuhan University).
 
