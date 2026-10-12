@@ -21,22 +21,30 @@ date: 2012-03-19
 - [The four agreements - a Practical Guide to Personal Freedom] by Don Miguel Ruiz (8/10)
 
 - [The Power of Charm] (8/10)  
-- [The Daily Stoic] by Ryan Holiday   
-- [Games People Play The Psychology of Human Relationships] by Eric Berne  
+- [Games People Play The Psychology of Human Relationships] by Eric Berne  (7/10)  
 
 - [Don't Sweat the small stuff about money] (9/10)  
 - [personal development for smart people] by Steve Pavlina (8/10) 
 - [善用悲觀的力量] by William B. Irvine (8/10)  
 - [沈思錄]  
 
-- [Mastery] by Robert Greene  
+- [20世纪的美国] by 资中筠  
+- [猫鱼] by 陈冲
+
+- [Your Money or Your Life] by vicki Robin  
+- [The Daily Stoic] by Ryan Holiday   
+- [Don't sweat the small stuff in love]  
+
+- [The Diary of a CEO] by Steven Bartlett (9/10)
+- **[The Almanack of Naval Ravikant]** by Eric Jorgenson (9/10)  
 
 - [The Lean Startup] by Eric Ries  
+- [Mastery] by Robert Greene  
+
+
 - [Turning Your Business into an Enduring Great Company] by Jim Collins  
 - [Think and Grow Rich] by Napoleon Hill  
 - [邱吉爾：與命運同行] by Andrew Roberts   
-- [Your Money or Your Life] by vicki Robin  
-- [Don't sweat the small stuff in love]  
 
 - [Fluent Python]  
 - [The Product-Minded Engineer] by Drew Hoskins  
@@ -55,7 +63,6 @@ date: 2012-03-19
 - [Designing Your Life: How to Build a Well-Lived, Joyful Life] by Burnett, Bill/ Evans, Dave
 
 
-- [猫鱼] by 陈冲
 - [張忠謀自傳]
 - [Understanding Movies](https://book.douban.com/subject/35459568/) by Louis Giannetti
 
@@ -71,12 +78,9 @@ date: 2012-03-19
 - [The Laws of Human Nature] by Robert Greene
 - [12 Rules for Life_ An Antidote to Chaos] by Jordan B. Peterson
 - [The Surrender Experiment] by Michael A. Singer
-- [Don't sweat the small stuff in love]
 - [EMOTIONS: Freedom from Anger, Jealousy & Fear] by Osho
 
 - [Zero to One](https://book.douban.com/subject/24753651/) by Paul Graham
-- [The Diary of a CEO] by Steven Bartlett (9/10)
-- **[The Almanack of Naval Ravikant]** by Eric Jorgenson (9/10)  
 
 - [To Have or to Be_The Nature of the Psyche] by Erich Fromm
 - [Culture Design: How to Build a High-Performing, Resilient Organization with Purpose] by James D. White, Krista White
