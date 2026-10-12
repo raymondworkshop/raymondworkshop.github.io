@@ -3,7 +3,7 @@ title: About
 date: 2012-03-19
 ---
 
-Raymond Zhao Wenlong is an engineer, tech analyst, and director@Bean, based in Hong Kong.  
+Raymond Zhao Wenlong is an engineer, and director@Bean, based in Hong Kong.  
 
 I also offer technical consulting on AI adaptation for organizations and individuals, and alongside life coaching grounded in Stoicism.  
 Feel free to reach out via [bestraymond@icloud.com](bestraymond@icloud.com).   
