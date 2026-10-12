@@ -18,11 +18,12 @@ date: 2012-03-13
 #### 2024-10 A tiny Scheme interpreter with Python  
 - lis.py shows the interpreter details  
     - program - parse -> abstract-syntax-tree - eval -> result 
-    ```scheme  
-    > lis.py> (begin (define r 10) (* pi (* r r)))  
-    > 314.1592653589793  
-    > lis.py> 
-    ```  
+
+```scheme
+lis.py> (begin (define r 10) (* pi (* r r)))
+314.1592653589793
+lis.py>
+``` 
 
 #### 2023-04 Factoid Question Answering (QA)
 
