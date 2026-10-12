@@ -19,8 +19,21 @@ abstract: "personal reflection journal"
     *  **增重 + 健身 （上身） + 美容**  
         - 牛奶 + 蛋白粉      
 
+    * hiking  
+
+    * see aunt ?  
+
     *  少問「為什麼」，**多做「陳述句（分享感受）」**    
+        - 当想 问”why” 时，暂停2秒  
+            -  问自己： **我现在的感受是什么？  或者 我观察到了什么**    
+
+        - 讲 “为什么” 拆解为 “**观察+感受**”  
+            -  “我注意到你今天话比较少，感觉你好像有点累。 希望你今晚能好好休息”  
+                +  “你今天为什么看起来这么累？”  
+
         - 通中減少追問、放慢節奏、**多做感受上的共鳴**，給對方營造一個不需要動腦去回答「為什麼」的放鬆環境  
+        
+
 
 * SELF  
     * A leader  
@@ -32,6 +45,62 @@ abstract: "personal reflection journal"
         - yes, it's **unfair you did all the work and they got a good grade**  
         - the hard work of team is the hard work of learning to build eep meaing ful relatiosnhips  
         - you get skills to **be a better liestener**, **a better team player** in relationships  
+
+    *  **把自己活成中间层， 几个人在一起做一些事情， 具体形式不重要**    
+        -   不需要当个伟人，在国家和市场之间  
+        - **不论是对个体的幸福，还是对社会的健康都是不可或缺的**  
+            - 比如父亲在老家   
+
+        - 除了国家+市场， 需要中间层 - **公民社会社区社群**    
+            - 旧的精神秩序和社会秩序崩塌的时候， **人除了经济利益，还需要归属管，意义感，尊严，需要被别人看到**  
+            - 如果没有中间层，人就会被极端的民族主义或未来的乌托邦所捕获  
+            - 自下而上密密麻麻的志愿组织：小团体 教会/读书会/救火队/农会
+           在这些团体里学会一件最重要的事情： 
+           **怎么和自己不一样的人能够坐下来把一件公共的事情办成,从这些小团体里面一个人一个人锻炼出来的习惯**
+
+        - 巨大的孤独感  
+            -  就很容易被 虚假的“我们“ 所吸引  
+
+        - 永恒里的个体 
+            - 深层自我与良知  
+
+        - 时间与社会的一员  
+            - 日常互动与社会角色  
+
+        - 看到组织在让人更有活力，还是在消耗人  
+            - 守住向内的探索，保持思考的底线， 行动起来， 几个人在一起做一些事情   
+
+    * **向外** - **认识世界**  
+        - 认识世界  
+            - 家庭
+            - 社会关系 
+            - 制度  
+            - 历史  
+            - 人类与万物  
+
+        - 美国是个开放社会，就是**一个底层自治的社会**  
+            - **自己想实现的事情**  
+            - **每个人都具备领导力**  
+            - **无中生有地创造**  
+            - **跟非常不同的人打交道**  
+
+        - 向内 - 认识自己  
+            - 看到自己的内心，自己的情绪是怎么来的，然后理解自己最深的恐惧是哪里来的  
+            - 身体  
+            - 情绪  
+            - 能量  
+            - 智慧  
+            - being  
+
+        - **非常firm的提出自己的观点**，但是 **又不对别人形成攻击性**    
+            - 在东亚文化里是不鼓励的  
+            - 东亚教育是有很多恐惧的，说错话是有代价的  
+            - “去人格化” 与 “**以利益/事实为锚**“  
+                - **锚定共同目标**，**提出客观约束**+**清晰亮明底线**+**抛出建设性出路**    
+                - ”我们都希望这个项目能顺利按时交付。 但从目前的承载能力来看，
+                这个排期我们无法按原计划执行。 为了确保不延期，我们需要把重点放在方案A上 ,
+                你看这样调整是否可行？“  
+
 
     * **安全感机制** 在面对熟人时， 启动了 防御机制  
         - **害怕 嫉妒与嘲笑**， 胜过 渴望 欣赏与鼓励  
@@ -62,7 +131,7 @@ abstract: "personal reflection journal"
                 + ”**方便的话帮我** ..."  
             
     * friends are two people who agree to **grow together**  
-        - taking oneslef on and ** being supportive**  of someone else in their growth,sometimtes cheering, sometimes giving the tough love  
+        - taking oneslef on and **being supportive**  of someone else in their growth,sometimtes cheering, sometimes giving the tough love  
            
 
     * 成为教练意味着你需要团结球队，但在必要时也要果断、毫不留情
