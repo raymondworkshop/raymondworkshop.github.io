@@ -12,6 +12,90 @@ abstract: "personal reflection journal"
 
 > 不要只记录事实，要记录那些让你感到“不舒服”的瞬间  
 
+#### 2026-10-12  
+* TODO   
+    *   **shadow with english**  
+
+    *  **增重 + 健身 （上身） + 美容**  
+        - 牛奶 + 蛋白粉      
+
+    *  少問「為什麼」，**多做「陳述句（分享感受）」**    
+        - 通中減少追問、放慢節奏、**多做感受上的共鳴**，給對方營造一個不需要動腦去回答「為什麼」的放鬆環境  
+
+* SELF  
+    * A leader  
+        - recoginzes that they have **a responsibility to see those around them rise**    
+        - it's **not about I did all the work**    
+        - what's fascinating is **a team of average performers is outperform a team of high performers**  
+        - are you **in service to yourself or your team**    
+        - that's showing up for the team and servcie team  
+        - yes, it's **unfair you did all the work and they got a good grade**  
+        - the hard work of team is the hard work of learning to build eep meaing ful relatiosnhips  
+        - you get skills to **be a better liestener**, **a better team player** in relationships  
+
+    * **安全感机制** 在面对熟人时， 启动了 防御机制  
+        - **害怕 嫉妒与嘲笑**， 胜过 渴望 欣赏与鼓励  
+            - **筛选能量圈** - 真正的親密關係和友情， 應該是 “可以安心做自己，而不用擔心被射中的地方  
+            - **儀式感 是給自己和愛人的**， 不是給周圍那些帶著放大鏡看戲的人看到  
+            -  別人如果嘲笑或嫉妒，那是他們內心的匱乏和對自己生活的失控，**那不是你的責任**。你的人生、你的幸福，不需要透過獲得所有熟人的「審核通過」來證明它的價值。  
+
+        - 比你强的人， **往往更欣赏 真诚，愿意学习的人**， 而不是一个永远逞强，拒人之外的孤岛  
+            - “这方面我不懂，可以教教我吗？”  
+
+        - 面对比你弱的人， **完美主义心理防御**  
+            - 可能觉得帮人要帮到底， 或者帮的完美  
+            - 帮助别人， **从来不需要“拯救”对方**； 有时候，一个倾听，一个鼓励，就已经是个很好的支持  
+
+        - 寻找那些 **气场温和， 懂得尊重边界的人**    
+
+    * **过于追求独立**， 把所有小事都自己扛  
+        - 推开温暖： 无意拒绝了别人展示善意的机会  
+            - 过于客气和独立，让关系停留在礼貌层面  
+        - 从“求人” 转向 “**合作与连接**”  
+            - 区分 “连接型求助” vs “消耗型求助”  
+                + 连接： 顺势而为的小互动  
+                + 消耗：  把属于自己的麻烦甩给别人  
+            - **尝试从‘微小托付“开始**  
+                + 当你向对方展示”我需要你“时，对方往往能从中获得被重视感和价值感  
+
+            - 给对方拒绝的理由  
+                + ”**方便的话帮我** ..."  
+            
+    * friends are two people who agree to **grow together**  
+        - taking oneslef on and ** being supportive**  of someone else in their growth,sometimtes cheering, sometimes giving the tough love  
+           
+
+    * 成为教练意味着你需要团结球队，但在必要时也要果断、毫不留情
+        - 我为人父时就明白了这一点，我们永远不会忘记，凡事都有两面性，人性的一面和职业性的一面。 
+        - **个人层面，我会像对待自己的孩子一样照顾这些球员**，
+        但**作为主教练，我的责任是赢得比赛**，**我必须派上那些能够帮助我们实现这一目标的球员**。”  
+
+    * business  
+        - Ai 预测市场（Prediction Market）的应用  
+
+
+* DONE  
+    - **buy iphone 18 pro**  
+        + for AI application, trade-in iphone 13  
+        +  reset the new iphone  - one day  
+        + dial for 12-month split for the most benefit  
+
+    - get Xiaomi 4K 顯示器 A27Ui
+        + wonderful experience  
+        + 訂單編號 5261005290065592
+
+    - meet with Franny 
+        + 我**太实诚了**， 讲了太多， 太急， 问了太多 为什么  
+            - 看外表眼缘， 性格 大方，善良， 真诚； 愿意分享和聆听，是否愿意共同成长；  
+            - 对方有要求， 谈旅行的时候  
+            - 自己有经济压力  
+
+        + 对方有一些真诚，大多时候礼貌  
+        + 少問「為什麼」，**多做「陳述句（分享感受）」**    
+            - 通中減少追問、放慢節奏、**多做感受上的共鳴**，給對方營造一個不需要動腦去回答「為什麼」的放鬆環境   
+
+
+
 #### 2026-10-05  
 * TODO  
     -  **shadow with english**  

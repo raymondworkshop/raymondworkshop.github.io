@@ -17,11 +17,12 @@ date: 2012-03-13
 
 #### 2024-10 A tiny Scheme interpreter with Python  
 - lis.py shows the interpreter details  
-    - program - parse -> abstract-syntax-tree - eval -> result   
+    - program - parse -> abstract-syntax-tree - eval -> result 
+    ```scheme  
     > lis.py> (begin (define r 10) (* pi (* r r)))  
     > 314.1592653589793  
     > lis.py> 
-
+    ```  
 
 #### 2023-04 Factoid Question Answering (QA)
 
@@ -37,7 +38,7 @@ date: 2012-03-13
 - An introduction on [Japan in views of culture](https://drive.google.com/open?id=1pxve4i0LEUI8Vyv14BEAUQD_2UsKusw74gt32sZRxso)
 
 
-#### 2017-2020 Some of my slides on Artificial Intelligence and its applications in Language & Speech at HSUHK
+#### 2017-2020 Some of my slides on Artificial Intelligence and its applications in Language & Speech at HSU  
 
 - Our paper "[Mapping Customer Needs in Natural Language to Product Specifications by Using Word Embeddings](https://drive.google.com/file/d/1pfpff9EWB2gOGllzh8DHIapp-fBGlC55/view?usp=sharing)" has been accepted for publication at apiems2018, HK.
     - [How to define the objectives and collect or generate your dataset](https://docs.google.com/presentation/d/1XpAfL3T-A0cxyRjVbmZFE2M8jsFQrwycfGX042OSP18/edit?usp=sharing)
