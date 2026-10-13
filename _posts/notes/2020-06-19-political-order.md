@@ -29,6 +29,20 @@ categories: [notes, summary, politics, important, learning, china]
 一个制度是**合理的并非意味着它是必然**的, 它在**今天“只能如此”也不意味着它在将来也会“一直如此”**
 回访历史往往会使一个人的乐观变得更加审慎, 而对历史的超越则取决于人们可以的选择和逆水行舟的努力.
 
+#### note from "[[notes on The Origins of Political Order|The Origins of Political Order]]" by Francis Fukuyama
+
+##### 人的自然狀態
+
+現代生物學認為**促進社會合作**的功能是人腦與生俱來的; 與陌生人合作(互惠)是人天生的技能; **隨著理性決策者彼此間長期互動,道德可自發產生**,儘管一開始是由自私激起的.
+
+人腦迅速增長的原因, 是**為了與人合作,同時也是為了與人競爭**; 人類實際上是運用新的認知力來理解彼此行為,以建立更負責的社會組織,成為競賽中的優勝者. (<small>經常與人互動的個人,**愿意与诚实可靠者合作,避开机会主义者**;自利推动了社会群体中的合作,也鼓励了欺瞒,行骗和其他破坏社会团结的行为</small>.)
+
+因此較為可信的假定是: 现代人类出现之前, **融入亲戚团体和社交**已成为人类行为的一部分; **人类的社交性**,不是因历史或文化而取得的,而是人类的天生.(<small>note: 榮獲 2015 年雨果獎項最佳小說《三體》有一個最致命的假设缺陷 - “黑暗的宇宙背景的假說: 丛林的宇宙”, 缺乏基本人性和科學的支撐, 完全是一種臆想</small>)
+
+合作行为有两个自然来源: **亲戚选择和互惠利他**; **将资源传给亲戚的欲望是人类政治中最持久的常态**.
+
+While scaricity and dynamic instability trigger competitive reactions, thus the tension between competition and cooperation defines many of interactions (by Adam Galinsky and Maurice Scheweitzer)  
+
 ### 国家之前
 
 #### 政治衰败
