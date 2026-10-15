@@ -5,8 +5,6 @@ date: 2012-03-19
 
 Raymond Zhao Wenlong is an engineer, and director@Bean, based in Hong Kong.  
 
-I also offer selective technical consulting on AI adaptation for organizations and individuals.  Feel free to reach out via [bestraymond@icloud.com](bestraymond@icloud.com).   
-
 Outside of technology, investing, and reading, I have a deep appreciation for philosophy, sociology, wildlife,  cinema, and colors.  
 
 #### Selected Quotes  
@@ -17,3 +15,4 @@ Outside of technology, investing, and reading, I have a deep appreciation for ph
 
 * Education: M.S. in Computer Science (CUHK); B.Eng. in Electronic and Information Engineering (Wuhan University).
 
+Feel free to reach out via [bestraymond@icloud.com](bestraymond@icloud.com).   

@@ -34,7 +34,6 @@ abstract: "personal reflection journal"
         - 通中減少追問、放慢節奏、**多做感受上的共鳴**，給對方營造一個不需要動腦去回答「為什麼」的放鬆環境  
         
 
-
 * SELF  
     * A leader  
         - recoginzes that they have **a responsibility to see those around them rise**    
