@@ -12,6 +12,131 @@ abstract: "personal reflection journal"
 
 > 不要只记录事实，要记录那些让你感到“不舒服”的瞬间  
 
+#### 2026-10-20  
+* TODO  
+    *  工作  
+
+    
+    *   **shadow with english**  
+
+    *  **增重 + 健身 （上身） + 美容**  
+        - 牛奶 + 蛋白粉      
+
+    * 定义问题 + 商业判断 + 管理AI  
+
+    * 心仪的女生  
+        - 外表吸引  
+        - 对方是否爱我 - 诚意  
+        - 善良，开放， 愿意共同成长和贡献  
+        - 有空间做到自己  
+
+    * 分清 “真情” vs "利益计算/工具化“  
+        - 对方是否**关注你的状态和感受**， 还是 功能价值    
+        - 是否愿意展示 **脆弱和真实**  
+            - 深度的私人沟通， 彼此的价值观， 困惑与未来    
+
+        - 商业上， **利益是基石**    
+            - 先看商业可行性  
+            - “社交对等”  
+
+        
+* SELF  
+    - human skills  
+        - how to listening  
+        - how to **have an effective confrontation**, like somebody's screwed up badly  
+            - they will hear the information rather than just be defensive  
+
+            -  you cannot make it generic, it has to **be specific**  
+                + you have to say **specifically how you feel**
+                + you have to say **specifically the behavior** that they did that is caused the feeling  
+                + you have to say **the impact if that behavior** continues  
+
+        - how to give and receive feedback  
+            - say **thank you** when receive feedback  
+            - **create a continue** where  the person is more likely to listen and hear  
+                + I care about you and I want to see that you grow here
+                but there's some evidence that things are going a little sideway  
+
+    - 建立 清晰的 “社交” 与 “情感” 边界  
+        - 在任何付出前， 分清 "情“ 与 ”事“ 的界限  
+            - 情感付出： **只有在对方释放明确信号**， **再逐步投入**情感价值  
+            - 商业付出： 商业互惠  
+
+        - 在关系中**多展示自己的个人魅力和底线**， **少做无底线的体贴**    
+            - 吸引力 永远来源于 **你的独立， 自信， 底线以及丰富的生活**    
+            - 真正成熟的底线， 从来都是”做出来的“， 而不是 ”说出来的“  
+                - 第一次： 降低预期  
+                - 第二次： 行为止损  
+                - 第三次： 全程保持松弛和体面  
+
+        - 真正的控制感， 不是控制对方怎么对你， 而是**控制你自己的投入和撤退**  
+
+        - 把“看对方说什么” 改成 “看对方做什么”  
+            - 没有明确答应，就是温婉拒绝； 没有双休奔赴，就是单向消耗  
+            - 在人际交往中， 给对方1-2次主动信号或邀约就够了，
+            如果对方没有积极接活不主动提供备选方案，就立刻停手，把期待降到零  
+
+    - **心理上被善待，被接纳**  
+        - it's ok, it's **because you are you**  
+        - 国人很少被善待  
+
+    - hiring  
+        - **Do I like this person** ?  
+        - Do I want to spend time with this person ?  
+        - Could I see myself trusting this person?  
+
+    - How to easily overcome social anxiety  
+        - **you talk to individual** and then they reflect for you the enrite group.
+        **You look at one person**, they broadcast you everyone's thinking  
+        - never speak to the group of perople   
+
+    - business  
+        - 自陸採購商品轉賣賺差價
+        - 兆億公司從大陸採購商品之後，轉手賣往厄瓜多爾等地，低買高賣，亦賺取差價
+        - 兆億公司經常與大陸一些企業開展貿易往來與業務合作，交易商品涵蓋紡織品、石材、建材、自行車配件、輪胎等貨物，交易次數達數百次，交易金額達上億元人民幣。  
+
+    - 分清 对方 “**真情实感** ” vs “利益算计/工具化”  
+        - 关注点  
+            + 对方 **关注你的状态与感受**  
+            + 关注你的 “功能价值”  
+
+        - **互动的双向性**    
+
+        - 应对你的拒绝  
+
+        - 关系的深度  
+            + **愿意 展示 脆弱与真实**    
+                - 深度的私人沟通，彼此的价值观，困惑与未来  
+            + 还是保持安全距离/客套  
+
+    - 商业上， **利益**是基石  
+        - 先看 **商业可行性**， 再看人际互动  
+            + 先客观评估： 这笔合作或交易， **底层商业逻辑成立吗**？  **对方是否有明确的意愿和资源**？  
+
+        - 设定 **“社交对等”测试**  
+            +   “为了更好地推进这个项目， 我们**先把具体的合作框架和条款定一下**？”   
+
+        - 保持专业的温和与坚定  
+            + 有专业底线， 说话算数， 能解决问题， 同时让人沟通起来舒服的人  
+
+* DONE  
+    - hiking 
+        + OK  
+        + 大家没有开放沟通  
+        + 开始的时候 没有沟通 规则， 变成了被代理  
+        + 关键还是 对方不爱自己， 变成了 兵  
+        + 太多内耗  
+
+    - see aunt  
+        + ok
+        + 小心 把 利益 寄托于 关系上  
+            - 国人 没有同情心  
+            - 慕强  
+
+    - hsbc-UK issue  
+        + contact through HKBC-UK  
+
+
 #### 2026-10-12  
 * TODO   
     *   **shadow with english**  
@@ -20,6 +145,7 @@ abstract: "personal reflection journal"
         - 牛奶 + 蛋白粉      
 
     * hiking  
+        
 
     * see aunt ?  
 
