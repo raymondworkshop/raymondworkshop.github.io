@@ -5,13 +5,13 @@ related: ["Notes on '幸福的勇氣'", "Self-Wiki: a Socratic Mirror with AI", 
 date: 2025-02-09
 original: 2022-03-11
 comments: true
-categories: [important, self, softskills, home]
+categories: [home, important, self, softskills]
 abstract: "Understanding your emotions; And you can Control your life  ."
 ---
 
 #### All primary emotions are an important source of information about what's going on inside us
 
-- emotions **give purpose**, **priority, and focus** to our thinking
+- emotions give purpose, priority, and focus to our thinking
     - a subjective experience in our conscious minds
 
 ##### recognize present emotional state  
@@ -41,8 +41,7 @@ abstract: "Understanding your emotions; And you can Control your life  ."
     - Are we **feeling up or down**?
       **Pleasant or unpleasant**?
 
-- read nonverbal cues
-    - **facial expressionas**, **vocal tones**, **body language**
+    -  facial expressionas, vocal tones, body language  
 
 - The Mood Meter
     - Yellow - high levels of pleasantness and energy
@@ -57,10 +56,10 @@ abstract: "Understanding your emotions; And you can Control your life  ."
 ##### Understanding emotion - why?
 
 - **Why do you or I feel this way**?
-    - "**what's happening** that makes you hate it so much? "
+    - "**what's happening** that makes you like/donot like it so much? "
     - **What caused** this feelings?
     - **Why**, of all the possible reactions, that particular one?
-        - **what matters** is the person's experience?
+        - what matters is the person's experience?
         - **Take real bravery** to follow the investigation to the end,
           paired with **genuine motivation**,
           this skill empowers us to be better friends, family members, students, colleagues, and partners

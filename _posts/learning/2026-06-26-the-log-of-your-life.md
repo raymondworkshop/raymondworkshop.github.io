@@ -16,7 +16,6 @@ abstract: "personal reflection journal"
 * TODO  
     *  工作  
 
-
     *   **shadow with english**  
 
     *  **增重 + 健身 （上身） + 美容**  
@@ -25,9 +24,10 @@ abstract: "personal reflection journal"
     * 定义问题 + 商业判断 + 管理AI  
 
     * 心仪的女生  
-        - 外表吸引  
-        - 对方是否爱我 - 诚意  
-        - 善良，开放， 愿意共同成长和贡献  
+        - **外表**吸引  
+        - 对方是否爱我 - **诚意**    
+        - **善良**  
+        - 开放， 愿意共同成长和贡献  
         - 有空间做到自己  
 
     * 分清 “真情” vs "利益计算/工具化“  
@@ -134,7 +134,7 @@ abstract: "personal reflection journal"
             - 慕强  
 
     - hsbc-UK issue  
-        + contact through HKBC-UK  
+        + contact through HKBC-HK  
 
 
 #### 2026-10-12  
