@@ -16,7 +16,7 @@ abstract: "personal reflection journal"
 * TODO  
     *  工作  
 
-    
+
     *   **shadow with english**  
 
     *  **增重 + 健身 （上身） + 美容**  
@@ -54,7 +54,7 @@ abstract: "personal reflection journal"
         - how to give and receive feedback  
             - say **thank you** when receive feedback  
             - **create a continue** where  the person is more likely to listen and hear  
-                + I care about you and I want to see that you grow here
+                + **I care about you** and **I want to see that you grow** here
                 but there's some evidence that things are going a little sideway  
 
     - 建立 清晰的 “社交” 与 “情感” 边界  
@@ -91,8 +91,8 @@ abstract: "personal reflection journal"
         - never speak to the group of perople   
 
     - business  
-        - 自陸採購商品轉賣賺差價
-        - 兆億公司從大陸採購商品之後，轉手賣往厄瓜多爾等地，低買高賣，亦賺取差價
+        - 自陸採購商品轉賣賺差價  
+        - 兆億公司從大陸採購商品之後，轉手賣往厄瓜多爾等地，低買高賣，亦賺取差價  
         - 兆億公司經常與大陸一些企業開展貿易往來與業務合作，交易商品涵蓋紡織品、石材、建材、自行車配件、輪胎等貨物，交易次數達數百次，交易金額達上億元人民幣。  
 
     - 分清 对方 “**真情实感** ” vs “利益算计/工具化”  
