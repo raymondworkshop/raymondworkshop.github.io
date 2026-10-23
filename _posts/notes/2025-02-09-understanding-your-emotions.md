@@ -5,7 +5,7 @@ related: ["Notes on '幸福的勇氣'", "Self-Wiki: a Socratic Mirror with AI", 
 date: 2025-02-09
 original: 2022-03-11
 comments: true
-categories: [home, important, self, softskills]
+categories: [important, self, softskills]
 abstract: "Understanding your emotions; And you can Control your life  ."
 ---
 
@@ -70,7 +70,7 @@ abstract: "Understanding your emotions; And you can Control your life  ."
 
     - Why 觉察法
         - 一旦你不去找别人的原因,而是**一层一层地问自己**,
-          你会发现一些关于自己曾经没有意识到的部分(**find something new about yourself**),这就是所谓的苦难给你的最大财富
+          你会发现一些关于自己曾经没有意识到的部分(**find something new about yourself**),这就是所谓的suffer给你的最大财富
 
 - emotions and their linked causes
     - fear
@@ -216,9 +216,9 @@ abstract: "Understanding your emotions; And you can Control your life  ."
     - Good vibe - **the positive feelings** given off by a person, place, or situation
 
 - gentle, modest and giving
-    - **先考虑对方感受**
-        - **听感觉问自己 ”她正体验什么样的情绪“**
-        - 将心比心 - 试着了解对方的感受
+    - **先考虑对方感受**  
+        - **听感觉问自己 ”她正体验什么样的情绪“**  
+        - 将心比心 - 试着了解对方的感受  
     - 温柔
         - **“你能不能告诉我， 我到底错在哪里”**
     - 细节
@@ -308,10 +308,10 @@ abstract: "Understanding your emotions; And you can Control your life  ."
     - victim mentality
         - ones that complain, gossip, and play victim
 
-    - **never returns** them, always wants favors
+    - never returns them, always wants favors
         - can't learn anything from them
         - drain you or try to control you
-        - they **don't understand the concept of boundaries**
+        - they don't understand the concept of boundaries
         - low self awareness
 
     - put you down
@@ -355,15 +355,142 @@ abstract: "Understanding your emotions; And you can Control your life  ."
         - make you question your self worth
         - don't apologize for their shitty behavior
         - cause you a lot of harm and unhappiness over a long period of time
-        - toxic people are usually people who **don't understand the concept of boundaries**
+        - toxic people are usually people who don't understand the concept of boundaries  
         - they manipulate you to get what they want
         - they always play the victiom
-        - don't associate with people with **low self awareness**
+        - don't associate with people with low self awareness
 
-    - Never trust a guy who is **insecure**
+    - Never trust a guy who is insecure
 
     - a happy person isn't someone who's happy all the time
-        - he effortlessly interprets events in such a way that **they don't lose their innate peace**
+        - he effortlessly interprets events in such a way that **they don't lose their innate peace**  
+
+##### 转化 观点， 渴望与期待
+
+- 核心观点 - 重大而深远影响成功或失败
+    - 努力就有回報
+        - 上康杰， 上武大
+
+    - **自主** - **要靠自己**
+        - asb 上海 的经历
+            - 人大都是自私的
+
+        - 不要像父亲一样 只做个好人，只想被尊重
+            - 人要保护自己和家人
+
+    - **爱人** - 家庭
+        - 爱的语言
+
+        - **付出，照料，关切他人或帮助他人**
+        - 逃避， 不愿意面对
+
+    - **理性** - 工作上
+        - 理性优越感 <- 社会
+        - 对事不对人， 解释
+            - **容易忽略了人的部分**
+            - 公平公正
+        - 把工作方式 应用到别的地方 - 关系上
+            - 家不是讲道理的地方
+
+    - **被接纳** - 朋友
+        - **讨好**
+            - 外来者； 在不同地方上学，工作
+            - 太为对方考虑， 尤其是对方不如自己的时候
+                - 自己想融入，但 别人不太接受自己
+                - 把弱 当成了善良
+            - 哀伤 <- 愤怒
+                - 不公平
+                - 自我责备
+            - 爱人与被爱的渴望没被满足
+        - 在一个团体中，如果**能感受到被接纳的温暖**
+
+- 转化期待模式
+    - 忽略了期待会因人而异的事实
+
+    - “爱与被爱”的务实期待
+        - ‘**爱的语言**’不同而产生的盲点
+            - **words of affirmation** - 称赞，鼓励，表扬和甜言蜜语表达爱意
+            - acts of services 服务的行动 - 为对方做事来表达关爱， 比如帮忙做家务等
+            - receiving gifts 收到礼物 - 通过送礼物表达心意，重在心意和关怀
+            - **quality time** 贴心时刻 - 专注陪伴，花时间与对方一起做喜欢的事情
+            - physical touch 身体接触 - 通过肢体接触入拥抱，牵手等方式传递爱意
+        - 太太只是需要有人好好倾听，还没有想要解决问题
+        - **激情**
+            - **物理上的吸引力** 比如美貌，身材，浪漫行为等
+       **； 然后找到平衡点
+            - 从事勉强自己的事务后，给自己找到一个喘息复原的空间
+
+    - ’自由‘的务实期待
+        - ”**先改变自己**，再改变他人/环境“的心态
+        - 很多人要求他人给予自由，而自己却不愿意为了得到自由而付出承担责任的代价
+
+    - **’意义‘的务实期待**
+        - 所谓功成名就才能帮助他人，是不切实际的期待
+        - **认识并活出自己的独特性**
+            - 了解你的独特性 - 内向型， 能量来自于探索事情的内在本质
+ - **亲密感**
+            - 双方是否能够分享自己的“脆弱点” - **自认为不够好，又很不希望别人知道的特质**
+            - 不够聪明，不够美，身材不够好，不善交际，不想努力等
+            - 开始与他人分享自己的脆弱点，分享代表接纳自己的不完美，同时宣示自己想要开始改善
+        - **承诺感**
+            - 碰到重大分歧时，双方愿意继续沟通知道达成共识为止
+        - 从自己做起，**主动分享自己的脆弱点**，**并在产生分歧时**，**坚持继续沟通到有共识为止**
+
+    - ‘尊重“的务实期待
+        - **以自己所建立的标准为主**，而以别人所建立的标准为辅，来衡量自己的价值
+
+    - **’被接纳‘的务实期待**
+        - **接纳自己的前提下**， 再致力于得到他人的接纳
+        - 认识自己的特质，**并明确订立个人目标** （就没有被勉强的感觉），**有意识地采取行动**， **而非只是一味地期待自己成为团体中的楷模那样的人**
+            - **认清自己的人格特质**； **知道自己受到哪些社会文化的影响**； **明确订出自己的人生目标
+            
+#### **Hear and Mind balance**
+
+- Finding peace from mind
+    - the moments of greatest pleasure
+        - that voice in your head goes silent, it calms down
+    - our mind evolved to be paranoid, fearful and angry
+        - natural is brutal. We did it through fear, violence and cooperation
+    - our evolved nature rewards pessimism
+        - modern society's a lot safer and more peaceful
+
+- Mind is great at learning and solving problems
+
+- **Heart talks to US through joy & LOVE**
+    - **Heart loves YOU exactly the way you are**.
+      **It doesn't matter if** you trip and fall on your shoelaces or burn the banana bread.
+    - Heart is great at being in the HERE and NOW
+    - **Heart can tell Mind that it will love without any judgment**
+        - **If heart feels the spark to dance**, but Mind thinks that it will look silly since it is not a REAL dancer
+    - Mind will hold Heart's hand and take one step in any direction until **they know what Heart wants**
+
+    - Heart
+        - Enjoy where you are right now. Because right now is your greatest gift. That's why we call it The present
+
+- Practice **listening to your heart** and **use your mind to take action**
+    - close your eyes, and **take some deep breaths**
+    - **Let thoughts and mental pictures pass by**; **Allow yourself to relax**
+    - ask your heart, "**What do U want to do right now**?"
+        - Ideas from your heart can **come through as words, images, feelings, or a joyful burst of action**
+    - **Wait and listen for a response**
+    - Use your mind to take action
+
+- **Awareness is a tool we use to understand Mind and Heart**
+    - It's like **a light that helps us see what is real**
+
+    - **Breathing helps Mind to stop worrying** about yesterday or tomorrow and instead, be in the HERE and NOW
+        - "**It's okay. Mind.**
+          **I'm always here loving you even when you are feeling sad or afraid**."
+
+        - How to reliease a stormy ycloud
+            - close your eyes and breathe in and breathe out
+            - **bring your attention to your body**
+            - **what does it feel like? Mad? Sad? Hurt?**
+            - Focus your awareness and keep breathing
+            - Keep going until the cloud has floated away
+
+    - Mind knows that if the clouds come back, **Heart and Awareness are always by its side**
+        - **The heavy thoughts and feelings like clouds that come and go** and sometimes block the sun
 
 #### The heart vs The mind
 
