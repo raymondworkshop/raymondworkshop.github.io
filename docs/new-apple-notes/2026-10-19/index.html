@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+        MathJax = {
+            tex: {
+                inlineMath: [['$', '$']]
+            },
+            svg: {
+                fontCache: 'global'
+            }
+        };
+    </script>
+    <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <title>2026-10-19 — bestraymond</title>
+    <link rel="stylesheet" href="/static/style.css?v=d725da92">
+    <link rel="stylesheet" href="/static/pygments.css?v=d725da92">
+</head>
+
+<body>
+    <div class="shell">
+        <header class="site-header">
+            <nav class="site-nav" aria-label="Primary">
+                <a class="brand" href="/index.html">bestraymond</a>
+                <ul class="nav-links">
+                    <li><a href="/index.html" data-nav="blog">Blog</a></li>
+                    <li><a href="/slides.html" data-nav="slides">Slides</a></li>
+                    <!--
+                    <li><a href="/memex.html" data-nav="memex">Memex</a></li>
+                    
+                    <li><a href="/coaching.html">Coaching</a></li>
+                    <li><a href="/links.html">Links</a></li>
+                    <li><a href="/bookshelf.html">Bookshelf</a></li>
+                    -->
+                    <li><a href="/about.html" data-nav="about">About</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main class="content">
+            
+
+
+
+
+
+
+
+<article class="post memex-page">
+    <nav class="memex-nav" aria-label="Memex navigation">
+        
+        <a href="/about.html">About</a>
+        <span class="memex-nav-sep">→</span>
+        <a href="/memex.html">Memex</a>
+        
+        <span class="memex-nav-sep">→</span>
+        <span>2026-10-19</span>
+        
+
+    </nav>
+    
+    <header class="post-header">
+        <h1>2026-10-19</h1>
+        
+        <div class="post-meta-row">
+            <time class="post-meta" datetime="2026-10-19">2026-10-19</time>
+        </div>
+        
+    </header>
+
+    <div class="post-body"><p>回顾过去， 先问观点
+    - “表姨，這次專程來看您，也是想聽聽您的意見。去年您提到幫我房子事的時候，那時因為家裡看病負擔大、我自己也沒存夠錢，一直挺遺憾沒能接上話</p>
+<p>這一年我一直在努力積存，現在很想在香港或深圳買個小戶型安定下來。您一直有眼光、有經驗，想請教一下表姨，您覺得我現在在深港買房，這步棋走得對不對？”</p>
+<p>正式表达请求
+    - “深港兩地買房要求高，資金上確實還有個缺口。</p>
+<pre><code> 想斗膽問問表姨，如果我在深港看到合適的房子，您這邊還有沒有可能在資金上幫我周轉一下？ 或者 什么条件？
+
+您放心，我會有明確的還款計劃，絕不給您添負擔。當然這完全看您的方便，您能給我指指路、出出主意，我都特別感激！”
+</code></pre>
+<p>福田口岸過關- 換乘10號線地鐵坐到沙田</p>
+<p>B出口， 用高德打車去  惠丰城金碧園南门</p>
+<p>姨，重陽節快樂！下週一重陽節(10/19)我想去大亞灣看您們、陪您們聊聊天。
+不知您下週一(10/19)方便嗎？看您的時間安排！</p>
+<p>姨， 重阳节快乐！ 下周一重阳节 (10/19)我想去 大亚湾看您们， 陪你聊聊天。
+不知您下周一(10/19)方便吗？  看您时间安排。</p></div>
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+</article>
+
+
+        </main>
+
+        <footer class="footer">
+            <p>&copy; 2026 FF Workshop</p>
+        </footer>
+    </div>
+    <script>
+        (function () {
+            var path = (location.pathname || "/").replace(/\/+$/, "") || "/";
+            var key = "blog";
+            if (path === "/about" || path === "/about.html") key = "about";
+            else if (path === "/slides" || path === "/slides.html") key = "slides";
+            else if (path === "/memex" || path === "/memex.html" || path.indexOf("/memex/") === 0) key = "memex";
+            else if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) key = "blog";
+            else key = "";
+
+            if (key) {
+                var active = document.querySelector('.nav-links a[data-nav="' + key + '"]');
+                if (active) active.setAttribute("aria-current", "page");
+            }
+
+            if (path === "/" || path === "/index" || path === "/index.html" || /^\/page\/\d+$/.test(path)) {
+                sessionStorage.setItem("navTrail", "blog");
+            } else if (
+                path === "/about" || path === "/about.html" ||
+                path === "/memex" || path === "/memex.html" ||
+                path.indexOf("/memex/") === 0
+            ) {
+                sessionStorage.setItem("navTrail", "memex");
+            }
+
+            var dualArticle = document.querySelector('[data-memex-context="dual"]');
+            if (!dualArticle) return;
+
+            var trail = sessionStorage.getItem("navTrail");
+            if (!trail && document.referrer) {
+                try {
+                    var refPath = new URL(document.referrer, location.href).pathname.replace(/\/+$/, "") || "/";
+                    if (
+                        refPath === "/about" || refPath === "/about.html" ||
+                        refPath === "/memex" || refPath === "/memex.html" ||
+                        refPath.indexOf("/memex/") === 0
+                    ) {
+                        trail = "memex";
+                    } else {
+                        trail = "blog";
+                    }
+                } catch (e) {
+                    trail = "blog";
+                }
+            }
+            trail = trail || "blog";
+
+            if (trail === "memex") {
+                dualArticle.classList.add("memex-page");
+                var chrome = dualArticle.querySelector(".memex-chrome");
+                if (chrome) chrome.hidden = false;
+            }
+        })();
+    </script>
+</body>
+
+</html>
