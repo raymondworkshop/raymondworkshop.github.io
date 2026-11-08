@@ -5,7 +5,7 @@ date: 2012-03-19
 
 I am Raymond Zhao Wenlong, a product-minded engineer based in Hong Kong. I also serve as Director at Bean.  
 
-Outside of technology, reading, and investing, I have a deep appreciation for philosophy, sociology, wildlife, cinema, and colors.  
+Outside of technology and reading, I have a deep appreciation for philosophy, investing, sociology, wildlife, cinema, and colors.  
 
 Feel free to reach out via [bestraymond@icloud.com](mailto:bestraymond@icloud.com).
 
