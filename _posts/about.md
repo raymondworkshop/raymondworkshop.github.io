@@ -1,6 +1,5 @@
 ---
 title: About
-date: 2012-03-19
 ---
 
 I am Raymond Zhao Wenlong, a product-minded engineer based in Hong Kong. I also serve as Director at Bean.  

@@ -6,6 +6,7 @@
   - site build itself needs no LLM; Cursor / shared tools read this posture
 
 * ideas  
+    - 嵌一个 Claire 聊天框 ？
 
     - some like pinboard app  
         + TODO  
