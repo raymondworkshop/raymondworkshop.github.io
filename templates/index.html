@@ -4,21 +4,8 @@
 {% block content %}
 <section class="post-list" aria-label="Posts">
   <ul>
-  {% if posts|length > 0 %}
   {% for post in posts %}
-
-  {% if post.title != 'Slides'
-  and post.title != 'About'
-  and post.title != 'links'
-  and post.title != 'invest'
-  and post.title != 'docs'
-  and post.title != 'ideas'
-  and post.title != 'Projects'
-  and post.title != 'Talks'
-  and post.title != 'Bookshelf'
-  and post.title != 'Coaching'
-  and post.title != 'business' %}
-
+  {% if post.title not in excluded_titles %}
   <article class="post post-item">
     <h2 class="post-title">
       {% if post.date %}
@@ -29,7 +16,6 @@
   </article>
   {% endif %}
   {% endfor %}
-  {% endif %}
   </ul>
 </section>
 {% if pagination and pagination.total_pages > 1 %}

@@ -15,6 +15,7 @@ from blog_build.config import (
     MEMEX_HUB_DIR,
     NOTES_ON_TITLE,
     NOTES_ON_TITLE_PLAIN,
+    BROWSE_SECTIONS,
     SECTION_ALIASES,
     SRCS,
 )
@@ -275,6 +276,15 @@ def section_label(path: pathlib.Path) -> str:
     if not name:
         return "Blog"
     return name.replace("-", " ").replace("_", " ").title()
+
+
+def section_display_name(key: str) -> str:
+    for slug, title in BROWSE_SECTIONS:
+        if slug == key:
+            return title
+    if not key:
+        return "Blog"
+    return section_label(pathlib.Path(key))
 
 
 def strip_markdown(text: str) -> str:

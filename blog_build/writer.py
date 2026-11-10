@@ -10,7 +10,11 @@ import jinja2
 
 import highlighting
 import style
-from blog_build.config import EXCLUDED_INDEX_TITLES, POSTS_PER_PAGE, SRCS
+from blog_build.config import (
+    EXCLUDED_INDEX_TITLES,
+    POSTS_PER_PAGE,
+    SRCS,
+)
 from blog_build.memex import state
 from blog_build.memex.links import preprocess_memex_links
 from blog_build.memex.queries import (
@@ -52,6 +56,7 @@ from blog_build.posts import (
     memex_section_key,
     parse_source,
     render_markdown,
+    section_display_name,
     section_key,
     section_label,
     should_preprocess_wikilinks,
@@ -118,9 +123,18 @@ def write_post(post: frontmatter.Post, content: str, path: pathlib.Path):
             outgoing_links=get_outgoing_links(post),
             hub_summaries=get_hub_summaries(),
             backlinks=backlinks,
+            browse=browse_nav(""),
         )
     elif is_memex_post_entry(post, path):
         template = jinja_env.get_template("memex.html")
+        section = section_key(canonical_section(path))
+        reading_section = None
+        if section and not is_hub:
+            reading_section = {
+                "slug": section,
+                "title": section_display_name(section),
+                "url": f"/{section}/",
+            }
         rendered = template.render(
             post=post,
             content=content,
@@ -139,6 +153,7 @@ def write_post(post: frontmatter.Post, content: str, path: pathlib.Path):
             section_referenced=get_section_referenced_for_post(post),
             sibling_hubs=get_sibling_hubs(post) if is_hub else [],
             unlinked_mentions=get_unlinked_mentions_for_post(post, path),
+            reading_section=reading_section,
         )
     else:
         template = jinja_env.get_template("post.html")
@@ -278,6 +293,30 @@ def write_indexes_for_sections(sections: set[pathlib.Path]) -> None:
         write_index(collect_section_index_posts(canon), canon)
 
 
+def browse_nav(current: str) -> list[dict[str, Any]]:
+    """Every content section, for the memex directory. Aliases and memex itself are omitted."""
+    slugs: list[str] = []
+    seen: set[str] = set()
+    for path in list_subdirs(SRCS):
+        if is_aliased_section(path) or is_memex_hub_dir(path):
+            continue
+        key = section_key(path)
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        slugs.append(key)
+    slugs.sort(key=lambda slug: section_display_name(slug).lower())
+    return [
+        {
+            "slug": slug,
+            "title": section_display_name(slug),
+            "url": f"/{slug}/",
+            "current": slug == current,
+        }
+        for slug in slugs
+    ]
+
+
 def write_index(posts: Sequence[frontmatter.Post], path: pathlib.Path):
     posts = sorted(
         posts,
@@ -297,7 +336,13 @@ def write_index(posts: Sequence[frontmatter.Post], path: pathlib.Path):
 
     output = pathlib.Path("./docs/{}/index.html".format(str(path)))
     template = jinja_env.get_template("index.html")
-    rendered = template.render(posts=posts)
+    key = section_key(path)
+    rendered = template.render(
+        posts=posts,
+        section={"title": section_display_name(key), "slug": key},
+        browse=browse_nav(key),
+        excluded_titles=EXCLUDED_INDEX_TITLES,
+    )
     output.write_text(rendered)
 
 
@@ -332,7 +377,13 @@ def write_paginated_home(posts: Sequence[frontmatter.Post]):
         }
 
         output_path.parent.mkdir(parents=True, exist_ok=True)
-        rendered = template.render(posts=posts[start:end], pagination=pagination)
+        rendered = template.render(
+            posts=posts[start:end],
+            pagination=pagination,
+            section=None,
+            browse=browse_nav(""),
+            excluded_titles=EXCLUDED_INDEX_TITLES,
+        )
         output_path.write_text(rendered)
 
 
@@ -460,6 +511,8 @@ def write_search_index(posts: Sequence[dict[str, Any]]) -> None:
 
 
 def write_search_page() -> None:
-    template = jinja_env.get_template("search.html")
-    rendered = template.render()
-    pathlib.Path("./docs/search.html").write_text(rendered)
+    """Search lives on the memex page. Keep the old URL from sitting in the site root."""
+    root_search = pathlib.Path("./docs/search.html")
+    if root_search.exists():
+        root_search.unlink()
+    write_redirect(pathlib.Path("./docs/memex/search/index.html"), "/memex.html")

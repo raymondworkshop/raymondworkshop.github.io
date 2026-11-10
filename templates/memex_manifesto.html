@@ -28,6 +28,19 @@
         <ul class="search-results" id="memex-search-results"></ul>
     </section>
 
+    <section class="wiki-panel">
+        <h2>Sections</h2>
+        <nav class="browse" aria-label="Sections">
+            <ul>
+                {% for item in browse %}
+                <li>
+                    <a href="{{ item.url }}" data-section="{{ item.slug }}">{{ item.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </nav>
+    </section>
+
     {% if hub_summaries %}
     <section class="wiki-panel wiki-hubs">
         <h2>Areas</h2>

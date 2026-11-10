@@ -207,10 +207,12 @@
   window.initSearch = initSearch;
 
   if (document.getElementById("search-input")) {
+    const params = new URLSearchParams(window.location.search);
     initSearch({
       inputId: "search-input",
       statusId: "search-status",
       resultsId: "search-results",
+      initialQuery: params.get("q") || "",
     });
   }
 

@@ -17,6 +17,18 @@ MARKDOWN_LINK_PATTERN = re.compile(r"(?<!!)\[([^\]]+)\]\(([^)]+)\)")
 HASHTAG_TAG_LINE = re.compile(r"^(?:#[^\s#]\S*\s*)+$", re.MULTILINE)
 HASHTAG_TOKEN = re.compile(r"#[^\s#]\S*")
 
+# Notebooks linked from the home and section indexes.
+BROWSE_SECTIONS: tuple[tuple[str, str], ...] = (
+    ("notes", "Notes"),
+    ("diary", "Diary"),
+    ("self", "Self"),
+    ("philosophy", "Philosophy"),
+    ("learning", "Learning"),
+    ("tech", "Tech"),
+    ("language", "Language"),
+    ("humanskills", "Skills"),
+)
+
 EXCLUDED_INDEX_TITLES = {
     "Slides",
     "About",

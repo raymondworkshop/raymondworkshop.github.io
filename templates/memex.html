@@ -159,9 +159,15 @@
 </article>
 {% else %}
 <article class="post memex-page{% if is_hub %} memex-hub{% endif %}">
+    {% if is_hub %}
     <nav class="memex-nav" aria-label="Memex navigation">
         {{ render_memex_trail() }}
     </nav>
+    {% elif reading_section %}
+    <nav class="reading-nav" data-section="{{ reading_section.slug }}" aria-label="Section">
+        <a href="{{ reading_section.url }}">← {{ reading_section.title }}</a>
+    </nav>
+    {% endif %}
     {{ render_post_header() }}
     <div class="post-body">{{ content }}</div>
     {{ render_wiki_panels() }}

@@ -12,6 +12,14 @@
     --link-strong: #174033;
     --code-bg: #eeece6;
     --selection: rgba(43, 93, 78, 0.14);
+    --c-notes: #c4562d;
+    --c-diary: #3d6e8c;
+    --c-self: #8d4f73;
+    --c-philosophy: #6a7042;
+    --c-learning: #2f746c;
+    --c-tech: #3c5288;
+    --c-language: #a87420;
+    --c-skills: #a24c5a;
     --font-ui: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", "PingFang SC", "PingFang TC", "PingFang HK", "Helvetica Neue", Helvetica, Arial, sans-serif;
     --measure: 40rem;
     --space-2: 0.75rem;
@@ -45,6 +53,7 @@ html {
 }
 
 body {
+    background-color: var(--bg);
     margin: 0;
     min-height: 100vh;
     padding: clamp(1.25rem, 5vw, 3.25rem) clamp(1rem, 4vw, 2rem);
@@ -113,6 +122,18 @@ body {
     padding: clamp(1.8rem, 4vw, 2.6rem) 0 0;
 }
 
+.visually-hidden {
+    border: 0;
+    clip: rect(0, 0, 0, 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
 /* ==========================================================================
    Typography
    ========================================================================== */
@@ -140,10 +161,11 @@ h3 {
     margin: var(--space-5) 0 var(--space-2);
 }
 
-/* h4/h5 read as quiet subheadings, not competing headings. */
+/* h4/h5 are paragraph titles. Same ink as the body, so they stay readable. */
 h4, h5 {
-    color: var(--text-soft);
+    color: var(--text);
     font-size: 1rem;
+    font-weight: 600;
     letter-spacing: 0;
     margin: var(--space-4) 0 var(--space-2);
 }
@@ -157,7 +179,7 @@ h4, h5 {
 
 a {
     color: var(--link);
-    text-decoration-color: rgba(43, 93, 78, 0.28);
+    text-decoration-color: color-mix(in srgb, var(--link) 40%, transparent);
     text-decoration-thickness: 0.07em;
     text-underline-offset: 0.2em;
     transition: color 160ms var(--ease), text-decoration-color 160ms var(--ease);
@@ -183,13 +205,121 @@ hr {
 }
 
 /* ==========================================================================
+   Index tools: search and sections
+   ========================================================================== */
+
+.list-header {
+    margin-bottom: 1.15rem;
+}
+
+.list-header h1 {
+    color: var(--swatch, var(--text));
+    margin-bottom: 0;
+}
+
+[data-section="notes"] { --swatch: var(--c-notes); }
+[data-section="diary"] { --swatch: var(--c-diary); }
+[data-section="self"] { --swatch: var(--c-self); }
+[data-section="philosophy"] { --swatch: var(--c-philosophy); }
+[data-section="learning"] { --swatch: var(--c-learning); }
+[data-section="tech"] { --swatch: var(--c-tech); }
+[data-section="language"] { --swatch: var(--c-language); }
+[data-section="humanskills"] { --swatch: var(--c-skills); }
+
+.list-tools {
+    margin-bottom: 1.6rem;
+}
+
+.find {
+    margin: 0 0 0.95rem;
+}
+
+.content .find input {
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    font-size: 1rem;
+    padding: 0.55rem 0.75rem;
+    width: 100%;
+}
+
+.content .find input:focus {
+    border-color: var(--link);
+    box-shadow: 0 0 0 3px var(--selection);
+}
+
+.find input::placeholder {
+    color: var(--text-soft);
+}
+
+.wiki-panel .browse ul,
+.content .browse ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 0.95rem;
+    list-style: none;
+    margin: 0.4rem 0 0;
+    padding: 0;
+}
+
+.content .browse li {
+    margin: 0;
+}
+
+.browse a {
+    align-items: center;
+    color: var(--swatch, var(--link));
+    display: inline-flex;
+    font-size: 1rem;
+    gap: 0.4rem;
+    line-height: 1.45;
+    text-decoration: none;
+}
+
+.browse a::before {
+    background: var(--swatch, var(--link));
+    border-radius: 999px;
+    content: "";
+    flex: none;
+    height: 0.45rem;
+    width: 0.45rem;
+}
+
+.browse a[aria-current="page"] {
+    font-weight: 600;
+}
+
+.browse a:hover {
+    text-decoration: underline;
+    text-decoration-color: var(--swatch, var(--link));
+    text-underline-offset: 0.2em;
+}
+
+/* ==========================================================================
    Post list (home)
    ========================================================================== */
 
-.content .post-list ul {
+.content .post-list ul,
+.year-group ul {
     list-style: none;
     margin: 0;
     padding: 0;
+}
+
+.content .post-list li {
+    margin-bottom: 0;
+}
+
+.year-label {
+    color: var(--swatch, var(--text-soft));
+    font-size: 0.78rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    margin: 1.45rem 0 0.15rem;
+}
+
+.year-group:first-of-type .year-label {
+    margin-top: 0;
 }
 
 .post-list .post-item {
@@ -584,6 +714,20 @@ pre code {
    Memex panels
    ========================================================================== */
 
+.reading-nav {
+    margin: 0 0 0.85rem;
+}
+
+.reading-nav a {
+    color: var(--swatch, var(--link));
+    font-size: 0.88rem;
+    text-decoration: none;
+}
+
+.reading-nav a:hover {
+    color: var(--link-strong);
+}
+
 .memex-nav {
     color: var(--text-soft);
     font-size: 0.84rem;
@@ -617,11 +761,16 @@ pre code {
 .section-pages h2,
 .backlinks h2,
 .memex-stats h2 {
-    color: var(--text-soft);
-    font-size: 0.8rem;
+    color: var(--text);
+    font-size: 1.05rem;
     font-weight: 600;
-    letter-spacing: 0.02em;
-    margin: 0 0 var(--space-2);
+    letter-spacing: -0.01em;
+    line-height: 1.3;
+    margin: 0 0 0.7rem;
+}
+
+.memex-search .search-input {
+    font-size: 1rem;
 }
 
 .memex-search .search-status {
@@ -636,7 +785,8 @@ pre code {
 
 .wiki-panel-note {
     color: var(--text-soft);
-    font-size: 0.85rem;
+    font-size: 0.94rem;
+    line-height: 1.5;
     margin: 0 0 var(--space-3);
 }
 
@@ -714,7 +864,7 @@ pre code {
 }
 
 .wiki-card h3 {
-    font-size: 1.05rem;
+    font-size: 1rem;
     letter-spacing: -0.01em;
     margin: 0 0 0.35rem;
 }
@@ -722,7 +872,7 @@ pre code {
 .wiki-card h3 a {
     color: var(--link);
     text-decoration: underline;
-    text-decoration-color: rgba(43, 93, 78, 0.32);
+    text-decoration-color: color-mix(in srgb, var(--link) 45%, transparent);
     text-decoration-thickness: 0.07em;
     text-underline-offset: 0.18em;
 }

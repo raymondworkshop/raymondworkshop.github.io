@@ -1,6 +1,5 @@
 ---
 title: Slides
-date: 2012-03-13
 ---
 
 ### Some of my Slides!
