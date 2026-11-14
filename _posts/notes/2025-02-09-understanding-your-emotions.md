@@ -5,7 +5,7 @@ related: ["Notes on '幸福的勇氣'", "Self-Wiki: a Socratic Mirror with AI", 
 date: 2025-02-09
 original: 2022-03-11
 comments: true
-categories: [home, important, self, softskills]
+categories: [important, self, softskills]
 abstract: "Understanding your emotions; And you can Control your life  ."
 ---
 
