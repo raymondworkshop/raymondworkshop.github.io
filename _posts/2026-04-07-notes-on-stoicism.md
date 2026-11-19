@@ -4,7 +4,7 @@ title: "Notes on Stoic Philosophy"
 related: ["!Notes on the GOOD life", "!Improve your charm", "Notes on \"Think and Grow Rich\"", "notes on 'the rule of life'", Notes on how to influence people]
 date: 2026-04-07
 comments: true
-categories: [ self, important]
+categories: [home, self, important]
 abstract: "Notes on Stoic Philosophy"
 ---
 

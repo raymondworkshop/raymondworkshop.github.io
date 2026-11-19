@@ -839,14 +839,14 @@ abstract: "Understanding your emotions; And you can Control your life  ."
         - " you look happy"
         - "can I help", "I'm glad you told me"
 
-##### **cognitive empathy** - perspective taking
+##### **cognitive empathy** - perspective taking  
 
-- step into her shoes, understand his view and take his perspective
+- step into her shoes, understand his view and take his perspective  
 
 - **understand others' feelings, thoughts, and desires**
-    - they can grasp others' needs
+    - they can grasp others' needs  
 
-##### behavioral empathy - act with compassion
+##### behavioral empathy - act with compassion  
 
 - do something to help
 
