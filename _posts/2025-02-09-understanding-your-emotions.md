@@ -5,14 +5,14 @@ related: ["Notes on '幸福的勇氣'", "Self-Wiki: a Socratic Mirror with AI", 
 date: 2025-02-09
 original: 2022-03-11
 comments: true
-categories: [important, self, softskills]
+categories: [home, important, self, softskills]
 abstract: "Understanding your emotions; And you can Control your life  ."
 ---
 
 #### All primary emotions are an important source of information about what's going on inside us
 
-- emotions give purpose, priority, and focus to our thinking
-    - a subjective experience in our conscious minds
+- emotions give purpose, priority, and focus to our thinking  
+    - a subjective experience in our conscious minds  
 
 ##### recognize present emotional state  
 
@@ -199,13 +199,13 @@ abstract: "Understanding your emotions; And you can Control your life  ."
 #### express your love
 
 - 同理心会话
-    - 以真实的渴望，**了解她的思想，感觉和愿望**
-        - **听感觉问自己 ”她正体验什么样的情绪“**
+    - 以真实的渴望，**了解对方的思想，感觉和愿望**
+        - **听感觉问自己 ”对方正体验什么样的情绪“**
         - ”**听起来**你觉得失望， 因为我 ...“
         - ”你是不是需要 ...“
 
     - 学习表白自己
-        - **告诉对方自己的思想和感觉**
+        - **告诉对方自己的思想和感觉**  
 
     - **一起面对你们的问题和担扰，不要过于克制和隐藏**
         - 这样她才知道你信任她，你们两个会更亲近

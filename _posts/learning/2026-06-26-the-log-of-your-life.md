@@ -14,13 +14,12 @@ abstract: "personal reflection journal"
 
 #### 2026-11-16  
 * TODO  
-
     - Character  
         + wisdom, courage, self-discipline, justice  
 
     - 普通人可以怎么关心政治  
         + **提高看问题的分辨率**， 不要非黑即白去面对  
-        + **从自己的生活开始**  
+        + **从自己的生活开始**,  
         **To love the little platoon we belong to in society**,
         is the first principle of public affections  
         + **不预先服从**， 不要对自己说谎;  
@@ -29,6 +28,10 @@ abstract: "personal reflection journal"
     - Co-listening  
         + **有什么好的和新的**？  **有什么次要的烦恼**？  **有什么重大的担心**？  
         + 在这个情况里， 我**必须是/做什么 才能 修补/解决**？  
+
+    - business  
+        + 跳出技术圈， 去理解整个商业闭环： 包括 产品， 市场营销和销售；
+        学习 产品定位， 创造力， 如何打动人心（delighting humans), 心理学， 市场营销等  
 
     - 关系中的五大基础  
         + 了解自己  
@@ -114,9 +117,7 @@ abstract: "personal reflection journal"
         +  physical touch  温度的灵魂  
             + 通过肢体接触如拥抱，牵手等方式传递爱意  
 
-    - business  
-        + 跳出技术圈， 去理解整个商业闭环： 包括 产品， 市场营销和销售；
-        学习 产品定位， 创造力， 如何打动人心（ delighting humans), 心理学， 市场营销等  
+
 
     - 真正的接纳， 不是要求每个人都活得符号标准，而是**允许每个人带着他独特的经历**坐在你面前  
         + 用“好奇心”替代“反应式评价”  
@@ -291,7 +292,7 @@ abstract: "personal reflection journal"
         把主动权夺回来- 你是自己行为的主人，哪怕这个决定是”暂时配合“  
 
     - ”绝对平等“ 在现实中是 不存在的  
-        + 真实的人际和社会系统是动态流动的；
+        + 真实的人际和社会系统是动态流动的； 
         没有绝对的平等， **只有轮流扮演不同角色的默契**。
         **在某些时刻你需要引领（向下）**， **在某些时刻你需要配合（向上）**。
         把这些角色看作是剧本里的不同场景，而不是对你人格高低的审判  
@@ -306,7 +307,6 @@ abstract: "personal reflection journal"
 
     - gym  
 
-    - 
 
 #### 2026-11-07  
 
