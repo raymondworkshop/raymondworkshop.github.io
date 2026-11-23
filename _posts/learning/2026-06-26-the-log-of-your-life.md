@@ -12,10 +12,255 @@ abstract: "personal reflection journal"
 
 > 不要只记录事实，要记录那些让你感到“不舒服”的瞬间; 要记录 自己自己的决定瞬间  
 
+#### 2026-11-23  
+* TODO  
+    + **工作**    
+
+    + **shadow with english**  
+
+    +  **增肌 + 美容**  
+        - 增肌且体脂率偏低  
+            - 每周增加 0.3kg，额外增加300kcal  
+            - 每天多吃 **一把坚果 + 一盒全脂牛奶 + 2个鸡蛋**，
+              或者 训练后 多喝 一杯蛋白粉+一根香蕉 
+            -  每周 2-3次 力量训练， 每次30-45分钟  
+            + 深蹲， 俯卧撑， 哑铃划船  
+
+        - 2-3周 理一次  
+            - 两鬓做极短的渐变  
+            - 顶部保留3-4cm长度， 剪出层次和纹理打薄  
+
+    * **with what truly makes you feel alive**    
+        + prioritize experiences that strengthen your well-being
+       like nature, contemplation, genuine relationships, or creative leisure  
+        + A life not wasted is one in which you choose what makes you feel more human and more connected to yourself   
+        +  step away from what drains you  
+    
+    *  **感受情绪**， 看对方情绪状态， **通常他们只是在找确认**      
+        + **承认对方的情绪**； 承认不等于 同意  
+        + 当感到被情绪带走时， 在心里问 “**他们是在要确认， 还是在要我答应**？” 
+        + 人先按情绪决定， 再用逻辑圆场；
+        大约一成的时候要不同意，而且**事先选好哪一场值得争**     
+
+    * **用别人愿意接受的方式去爱对方**    
+        + 自己以前有些一厢情愿，还以为是牺牲  
+        + **带着对方的视角去看她**： **去观察，去询问，去试探对方真正需要的滋养是什么**  
+
+
+* SELF  
+    * 真正健康的关系， 是**两个完整的人在并肩同行**    
+        + 整合 individuaton - **在发挥自身优势的同时**， **接纳并训练自身不常用的另一面**    
+        + 投射 - 把内心未开发的特质， 强行安在别人身上， 期待对方替自己完成  
+
+    * **核心在于“成熟度”**， 不在于“特质本身”  
+        + If they come out in mature forms like empathy, consideration, and initiative 
+        they actually make you a more complete person  
+
+        + 原则与决断力  
+            - **主动性**， 担当  
+            - **在关键时刻敢于拿主意**，抗责任， 同时能 温和地设定个人边界，不委屈自己也不强迫他人  
+
+        + 情感与敏感度  
+            - **共情， 体贴**    
+            - 能敏锐察觉自己和对方的情绪变化， 给予恰到好处的安抚与陪伴  
+
+        + 日常修炼  
+            - 当“烦躁”冒头时 -> 切换为 “**体贴**”  
+                + 觉察： “我现在烦躁，是因为对方触碰了我的效率边界，而不是对方恶意”
+                + **先吸口气，转化为 对方处境的体贴**（比如对方的出发点是什么）， 用平和的语气回应  
+            - 当“固执”出现时 -> 切换为 “**主动沟通**”  
+                + 觉察： “懒得解释”  
+                + **发挥主动性**， 把精力从 “证明我对” 转移到 “搭建理解桥梁”；
+                **主动倾听对方顾虑**，**再用对方能听懂的语言分享你的出发点**    
+            - 允许自己展现“细腻的关怀”  
+                + 不必觉得表达温情或承认需要陪伴时一件尴尬的事；
+                在家庭和挚友关系中，**主动表达欣赏，主动问候，主动示弱**，
+                是一个人内心强大，人格高度整合的体现  
+
+    * **every choice you make tells the story of how deeply you love yourself**  
+        +  the partner you choose, the food you nourish yourslef with,
+        the work you devote your energy to
+        + these are not random decisions, but **reflections of your inner relationship with worth, care, and respect**    
+        + when you begin to **treat yourself as sacred**, your choices transform    
+
+    *  how to give feedback  
+        + two things in the first meet  
+            - I **tell them what they're a part of**.
+            I remember that they are something bigger than themselves.
+            I tell them what the vision is to create a world where the vast majority of people. 
+            - my expectation is that you will **leave with a better version of yourself because you were here**.  we will give you some of the resources and I expect you to take on yourself as well outside of the organization  
+
+        + **catch people doing things right**, celebrate it  
+            - "**This is what I love that you're doing this**."  
+            - it sends a message to everybody to work this way,
+            and it's incredibly, and inspiring person who gets caught doing something right  
+            - learning what somebody's hopes and dreams are  
+
+        +  **create a condition** where the person is more likely to listen and hear.
+            - **I care about you** and I want to see that you grow here,
+            but **there's some evidence that things** are going a little sideways.
+
+        + **say thank you** when receive feedback  
+         
+        + 区分 “反馈” 与 “反应”  
+            - **建设性反馈 feedback**：  **对方针对的是 “事情”**， 且提出了 具体的改进建议  
+            - 情绪性反应 reaction：对方针对的是“人”， 充满了情绪宣泄与人身攻击；
+            这纯粹是 对方的内心投射， 与你的能力和价值完全无关  
+
+
+    * emotional intelligence is to listen attentively and communicate effectively  
+        + she feels safe and values, **knowing that her partner can navigate the complexities of the emotional landscape with her**  
+        + his ability to **express his emotions openly and honestly strengthens trust and intimacy**  in the relationship 
+        + a woman appreciates a man who **uses his emotional intelligence to handle conflicts with kindness and compassion**  
+            - instead of reacting impulsively or defensively,
+            he **approaches disagreements with calmness and thoughtfulness**    
+            - this maturity and self-control not only solve problems more effectively 
+            but also deepen the bond between them  
+
+        + she finds it attractive to be with someone who **not only hears her words** but also **understands the emotions behind them**  
+            - **this level of empathy and understanding** creates a deep connection that 
+            goes far beyond surface-level interactions  
+            
+
+
+    * **感受情绪， 情绪跟着对方走**    
+        + **看对方的情绪状态， 他们常常只是在找确认** - 尤其是那个确认刚好符合他们自己的愿望  
+
+        + 传递： **表情，语速， 身体朝向， 可以跟上**。  这是让对方感到被接住   
+
+        +  感受：  **承认对方的情绪** （“听起来这件事让你很急”）；  承认不等于同意   
+            - match the other person's mood  
+            - **把感受说回去**，当场不答应任何请求  
+            - **当感到被情绪带走时**， 停3-5秒，在心里问 “**他们是在要确认， 还是在要我答应**？“   
+                + **请求或结论** - 要不要买、要不要帮、要不要改主意，先停住  
+
+        + **人先按情绪决定**， 再用逻辑圆场  
+            - 太好说话，有人会占你便宜；
+            **大约一成的时候要不同意**， **而且事先选好哪一场值得争**     
+
+        + **让人感到被关心**， 人需要觉得自己有价值  
+            -  对女性， 完全被她这个人吸引 - **关心，提问，安静地听，礼貌**， **并找到可以真正欣赏的地方**  
+            -  对男性，**承认成就，地位和能力**，**具体地赞赏他做成的事**，**让他感到自己有能力做成、也能照顾别人**  
+            - 赞美要快， 要具体， 大事小事都要赞； 常说谢谢； 情绪跟着对方走    
+
+    * 魅力是**让 别人感到被重视**， 从而对你更开放，更容易被影响  
+        + 人格的内核是 **自尊**；  人先按情绪做决定， 再用逻辑给自己找理由  
+
+        +  **商业和生活都靠社交智力**：  交谈， 谈判， 说服  
+            - **对方需要感到自己重要， 有价值**；  
+            接纳， 微笑， 感谢，赞美和注意力，**会抬高对方的自尊**， 对方就会喜欢让自己有这种感觉的人 
+
+        +  **从外到内**， 而不是先改内心  
+            - 别人最终只按你的行为来判断你  
+            -  少纠结“为什么”， **多练 “怎么做”**：  先表现得好像自己已经有魅力，已经高兴或投入，外在动作会带出相应的感觉    
+
+        + **倾听** 是 主技能    
+            - 提问并 认真听， 比单纯聪明更能建立情感连接   
+            - 先停 三到五秒， 澄清（“你具体是什么意思？”）， 再用自己的话复述。
+            **先看对方的情绪**； **对方多半是在要确认**，不是要建议。 没人开口要建议，就少给   
+
+        + **把自我放一边**  
+            - 魅力的关键是 **关注对方的需要和兴趣**，**让对方觉得被喜欢**    
+            - 用 who/what/why/when/where/how 把话轻轻转回对方，**你了解对方比对方了解你更多** 
+            -  避免冲突，观点轻轻放下，只有对方明确想听你说时才接过话题  
+
+        + 非语言占大部分  
+            - **身体语言大约占信息的 55%**， 语气约38%， 用词约 7%  
+            - **眼神接触，目光在双眼间轻移**，点头，歪头听，身体朝向对方，手臂打开，声音放低 
+
+        + 同步并练到自动  
+            -  有魅力的人不僵硬， 不评判，**能从对方眼里看世界**： 对齐对方的语速和姿态， 也对齐对方对这件事的看法  
+            -   要在真实场合反复做，直到不用想   
+
+
+
+    * Feeling mind    
+        + **decisions follow moods and personal experience**.  
+        it reacts fast, and impulses steer the choice.  
+
+    * 在建立关系的初期， **筛选展示的切面更重要**  
+        +  **用别人愿意接受的方式去爱对方**  
+            - 自己以前有些一厢情愿， 还以为是牺牲  
+            - **带着对方的视角去看见她**： **去观察，去询问，去试探对方真正需要的滋养是什么**   
+
+        * **深度暴露 需要 “信任容器” 来承接**    
+            + 安全切面： 共同兴趣， 生活状态  
+            + **观点与态度**：  你对某件事的真实看法， 你的原则和偏好  
+            + **脆弱与核心**：  等对方**用行动证明了他的善意， 包容和稳定后**，
+        再逐步开放你的软肋与深层情绪   
+
+    * A mature man **knows how to use both the strength to achieve goals and uphold principles** and **the ability to feel emotions and empathise**   
+        + he can **recognize his own emotions and express them in words**,
+        and he is attracted to women without being controlled by them  
+        + Someone who **stands his ground** but also **respects the other person**    
+            +  someone who **listens all the way through to understand why the others think that way** and can at least say, "I can see it that way too."   
+            + having a developed anima means there's also a relationship-oriented side to him, so he's good at **upholding both his own principles and the relationship**    
+
+        + a truly mature woman is someone **who knows what she wants** and **can take the initiative to achieve it**  
+            + a feminine woman is **relationship-oriented** and good at **using emotions and empathy**    
+
+        + one **projects ones own opposite traits onto someone else**, which creates a strong attraction  
+            + **men like women who respond warmly** because men struggle to express their own emotions, and **women express those emotions for them**  
+            + women is drawn to **men who show the initiative or decisiveness she struggles** to use herself    
+            + these days, women also need to use masculine traits like initiative and competitiveness to function in society. **These women look strong**, actually end up attracting only indecisive men. From the men's perspective, they do not approach because they feel they would somehow be dominated  
+
+    - 行动力 与 连结力  
+        + 行动力 - “**我是谁， 我要去哪里**？” 个体的独立与掌控  
+            + 体现为 “**清晰的自我意识**” 与 “**健康的边界感**”  
+
+        + 连结力 - “**我们是谁， 我们在一起**” 群体的归属与融合  
+            + “**看见他人，接纳他人并与之产生情感共振**”的能力；
+            它让关系有温度， 而不是冷冰的利益交换或规则执行  
+
+        + **温和而坚定**  
+            + **清晰地表达自己的立场和需求**（行动力），
+            同时在表达的过程中，始终照顾到对方的感受和尊严（连结力）  
+
+            + **把“情绪反应” 翻译成 “真实需求”** 
+                - 当发现自己感到烦躁，发火或逃避时，
+                先停下来问自己“我现在除了生气， **底层的情绪是什么**？ 
+                是委屈，害怕被忽视，还是觉得太累了？  
+                - 试着**用温和的语言把这份脆弱说出**；
+                ”我今天工作太累了，现在有点消化不了这么多信息，我们晚点再聊好吗？“  
+
+            + 带着”柔软“ 去坚持原则  
+                - 成熟的边界感 是 **温和而坚定的**；
+                即能真诚地共情对方的难处（”我理解你的着急“），
+                又能清晰，客观地表达自己的决定 （”但我这周末确实有自己的安排，没法过去“）  
+
+    - 中国的官僚专制  
+        + **中国自己发展不如买**， 而买的结果是 阻断了自身发展的可能  
+        + 技术流川岛东亚会退化的原因  
+        + 在中国要么你去做官，要么你去做机关干部， 反正千万不要做技术人员；做技术人员的待遇同做行政人员的待遇是一样的，但是他的责任可比行政人员大得多，而且你的上级也没有能力鉴别你技术的好坏
+            -   中国凡是不能做官的工匠，待遇都跟普通小民一样，你要更辛苦，
+            所以必然的选择是 我如果做不上官的话，我就偷工减料，把技术品质降下来  
+            - 要么你想要高回报，那么你就**去做官**； 要么你想要低投入，你就**去做编户齐民**  
+            - 做工匠和技术人员 却要高投入，却低回报，这是最不划算的  
+
+        + 现代科技往往来自于 欧美和日本，而且只有日本能够模仿欧美  
+            - 从社会结构上 都是**源自封建传统**；
+            大一统帝国倾向解散封建团体，最终导致了技术退化；
+            在技术边缘地带， 自己发展技术**不如引进的更便宜**      
+
+    - 中国人的自私 融入到 集体主义  
+        + **过于功利性**， **缺乏情感培养**，社区缺失  
+        + **缺乏 自由，人格， 独立的精神**， **为社区着想的良心**；
+        只想自己，单打独斗，凡是利益都想拿到  
+        + **本来是爱的关系**，不是功利性的关系  
+        + 努力发展自己的脑力，构建人与人之间和谐的关系， 找你的小群体，友情，爱情  
+
+* DONE  
+    - meet with  Zoe  @Cafe Aobi  
+        + 对话ok, 有些冷； 不知道是不是她年纪大了，41岁  
+
+    - wechat with 爸妈  
+        + 妈不让再让打电话，好伤心， 我有些难过  
+        + 和姐聊，想关心对方， 但对方 让我操心自己的事  
+
 #### 2026-11-16  
 * TODO  
     - Character  
-        + wisdom, courage, self-discipline, justice  
+        + wisdom, courage, self-discipline, justice, kind, patience, ...   
 
     - 普通人可以怎么关心政治  
         + **提高看问题的分辨率**， 不要非黑即白去面对  
@@ -116,8 +361,6 @@ abstract: "personal reflection journal"
             + 通过送礼物表达心意，重在**心意和关怀**    
         +  physical touch  温度的灵魂  
             + 通过肢体接触如拥抱，牵手等方式传递爱意  
-
-
 
     - 真正的接纳， 不是要求每个人都活得符号标准，而是**允许每个人带着他独特的经历**坐在你面前  
         + 用“好奇心”替代“反应式评价”  
