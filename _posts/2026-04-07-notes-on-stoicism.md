@@ -17,8 +17,6 @@ Stoicism emphasizes on radical self-awareness
 * TODO  
 
 
-### A Guide to [[!Notes on the GOOD life|the Good Life]]: The Ancient Art of Stoic Joy 
-
 #### ch2 - 斯多葛主義是鍛鍊（主觀认知的）情緒韌性的良方 (secondary not primary emotion)  
 * 斯多葛主義強調實際效能、心理韌性和情緒自我調節  
     - Using Stoic philosophy, we can respond (not react) better  

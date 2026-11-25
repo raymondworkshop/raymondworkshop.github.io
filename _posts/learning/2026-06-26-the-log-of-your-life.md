@@ -7,7 +7,7 @@ tags: [diary, review, important, learning, lesson]
 abstract: "personal reflection journal"
 ---
 
-> taking the time to think through your goals, strengths, past feedback and insights from
+> taking the time to think through your goals, strengths, past feedback and insights from  
 > self-assessments should allow you to identify several areas of focus for growth  
 
 > 不要只记录事实，要记录那些让你感到“不舒服”的瞬间; 要记录 自己自己的决定瞬间  
@@ -24,11 +24,16 @@ abstract: "personal reflection journal"
             - 每天多吃 **一把坚果 + 一盒全脂牛奶 + 2个鸡蛋**，
               或者 训练后 多喝 一杯蛋白粉+一根香蕉 
             -  每周 2-3次 力量训练， 每次30-45分钟  
-            + 深蹲， 俯卧撑， 哑铃划船  
+            - 深蹲， 俯卧撑， 哑铃划船  
 
         - 2-3周 理一次  
             - 两鬓做极短的渐变  
             - 顶部保留3-4cm长度， 剪出层次和纹理打薄  
+
+    *  **感受情绪**， 看对方情绪状态， **通常他们只是在找确认**      
+        + **承认对方的情绪**； 承认不等于 同意  
+        + 当感到被情绪带走时， 在心里问 “**他们是在要确认， 还是在要我答应**？”  
+        + 人先按情绪决定， 再用逻辑圆场；大约一成的时候要不同意，而且**事先选好哪一场值得争**     
 
     * **with what truly makes you feel alive**    
         + prioritize experiences that strengthen your well-being
@@ -36,16 +41,6 @@ abstract: "personal reflection journal"
         + A life not wasted is one in which you choose what makes you feel more human and more connected to yourself   
         +  step away from what drains you  
     
-    *  **感受情绪**， 看对方情绪状态， **通常他们只是在找确认**      
-        + **承认对方的情绪**； 承认不等于 同意  
-        + 当感到被情绪带走时， 在心里问 “**他们是在要确认， 还是在要我答应**？” 
-        + 人先按情绪决定， 再用逻辑圆场；
-        大约一成的时候要不同意，而且**事先选好哪一场值得争**     
-
-    * **用别人愿意接受的方式去爱对方**    
-        + 自己以前有些一厢情愿，还以为是牺牲  
-        + **带着对方的视角去看她**： **去观察，去询问，去试探对方真正需要的滋养是什么**  
-
 
 * SELF  
     * 真正健康的关系， 是**两个完整的人在并肩同行**    
@@ -76,6 +71,10 @@ abstract: "personal reflection journal"
                 + 不必觉得表达温情或承认需要陪伴时一件尴尬的事；
                 在家庭和挚友关系中，**主动表达欣赏，主动问候，主动示弱**，
                 是一个人内心强大，人格高度整合的体现  
+
+    * **用别人愿意接受的方式去爱对方**    
+        + 自己以前有些一厢情愿，还以为是牺牲  
+        + **带着对方的视角去看她**： **去观察，去询问，去试探对方真正需要的滋养是什么**  
 
     * **every choice you make tells the story of how deeply you love yourself**  
         +  the partner you choose, the food you nourish yourslef with,
